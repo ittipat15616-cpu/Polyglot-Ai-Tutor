@@ -1,0 +1,56 @@
+{
+  "entities": {
+    "ChatMessage": {
+      "title": "Chat Message",
+      "description": "A message in the chat history between the user and the AI.",
+      "type": "object",
+      "properties": {
+        "role": {
+          "type": "string",
+          "enum": ["user", "model"]
+        },
+        "text": {
+          "type": "string"
+        },
+        "createdAt": {
+          "type": "string",
+          "description": "ISO timestamp"
+        }
+      },
+      "required": ["role", "text", "createdAt"]
+    },
+    "UserContext": {
+      "title": "User Context",
+      "description": "Learning context stored for the user to be used by AI.",
+      "type": "object",
+      "properties": {
+        "userId": {
+          "type": "string"
+        },
+        "learningLevel": {
+          "type": "string"
+        },
+        "language": {
+          "type": "string"
+        },
+        "createdAt": {
+           "type": "string"
+        },
+        "updatedAt": {
+           "type": "string"
+        }
+      },
+      "required": ["userId", "learningLevel", "language"]
+    }
+  },
+  "firestore": {
+    "users/{userId}": {
+      "schema": { "$ref": "UserContext" },
+      "description": "User profile and context."
+    },
+    "users/{userId}/messages/{messageId}": {
+      "schema": { "$ref": "ChatMessage" },
+      "description": "Messages belonging to a user."
+    }
+  }
+}

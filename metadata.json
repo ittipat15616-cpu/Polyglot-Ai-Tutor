@@ -1,0 +1,12 @@
+{
+  "name": "Polyglot AI Tutor",
+  "description": "แอปพลิเคชันสอนภาษา 3 ภาษา (ไทย, อังกฤษ, จีน) พร้อม AI ติวเตอร์แบบแชทและวิดีโอคอล",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "display-capture"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
