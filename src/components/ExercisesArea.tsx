@@ -83,11 +83,13 @@ export default function ExercisesArea({ activeLang, onAskPDF }: ExercisesAreaPro
               </div>
             </div>
             <div className="flex-1 w-full bg-gray-50">
-              <iframe
-                src={pdfUrl}
+              <object
+                data={pdfUrl}
+                type="application/pdf"
                 className="w-full h-full border-0"
-                title={`บทเรียน ${titleStr}`}
-              />
+              >
+                <p>Your browser does not support PDFs. <a href={pdfUrl}>Download the PDF</a>.</p>
+              </object>
             </div>
           </div>
         );
@@ -128,11 +130,13 @@ export default function ExercisesArea({ activeLang, onAskPDF }: ExercisesAreaPro
               </div>
             </div>
           <div className="flex-1 rounded-xl overflow-hidden border border-indigo-100">
-              <iframe
-                src={pdfUrl}
+              <object
+                data={pdfUrl}
+                type="application/pdf"
                 className="w-full h-full border-0"
-                title={titleStr}
-              />
+              >
+                <p>Your browser does not support PDFs. <a href={pdfUrl}>Download the PDF</a>.</p>
+              </object>
             </div>
           </div>
 

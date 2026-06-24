@@ -4,6 +4,7 @@ import express from "express";
 import path from "path";
 import http from "http";
 import fs from "fs";
+import os from "os";
 import { EdgeTTS } from "node-edge-tts";
 import { WebSocketServer } from "ws";
 import { createServer as createViteServer } from "vite";
@@ -86,7 +87,7 @@ async function startServer() {
       }
 
       const tts = new EdgeTTS({ voice, lang: edgeLang });
-      const tempFile = `/tmp/tts_${Date.now()}_${Math.floor(Math.random()*1000)}.mp3`;
+      const tempFile = path.join(os.tmpdir(), `tts_${Date.now()}_${Math.floor(Math.random()*1000)}.mp3`);
       await tts.ttsPromise(text, tempFile);
       const audioData = fs.readFileSync(tempFile, { encoding: 'base64' });
       fs.unlinkSync(tempFile);
