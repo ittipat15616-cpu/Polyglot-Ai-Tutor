@@ -39,8 +39,18 @@ export default function LessonsArea({ activeLang, onAskAI }: { activeLang: 'EN' 
     const langToUse = forceLang || langKey;
     
     if (langToUse === 'EN' || langToUse === 'EN_CEFR' || langToUse === 'EN_GRAMMAR' || langToUse === 'CN' || langToUse === 'TH') {
+      // ⚡ Play instantly with Speech Synthesis first (zero delay)
+      if ('speechSynthesis' in window) {
+        window.speechSynthesis.cancel();
+        const quickUtterance = new SpeechSynthesisUtterance(text);
+        if (langToUse === 'CN') { quickUtterance.lang = 'zh-CN'; quickUtterance.rate = 0.85; }
+        else if (langToUse === 'TH') { quickUtterance.lang = 'th-TH'; quickUtterance.rate = 0.9; }
+        else { quickUtterance.lang = 'en-US'; quickUtterance.rate = 0.9; }
+        window.speechSynthesis.speak(quickUtterance);
+      }
+      setIsPlayingAI(true);
+      
       try {
-        setIsPlayingAI(true);
         const actualTTSLang = langToUse === 'EN_GRAMMAR' ? 'EN' : langToUse;
         const res = await fetch('/api/tts', {
           method: 'POST',
@@ -50,6 +60,8 @@ export default function LessonsArea({ activeLang, onAskAI }: { activeLang: 'EN' 
         const data = await res.json();
         
         if (data.audio) {
+          // Cancel quick speech synthesis and play high-quality server audio
+          window.speechSynthesis?.cancel();
           if ((window as any).currentEdgeAudio) {
             (window as any).currentEdgeAudio.pause();
             (window as any).currentEdgeAudio.currentTime = 0;
@@ -57,20 +69,17 @@ export default function LessonsArea({ activeLang, onAskAI }: { activeLang: 'EN' 
           const audio = new Audio("data:audio/mp3;base64," + data.audio);
           (window as any).currentEdgeAudio = audio;
           audio.onended = () => setIsPlayingAI(false);
-          audio.onerror = (e) => {
-            console.error("Audio playback error", e);
-            setIsPlayingAI(false);
-          };
-          audio.play().catch(e => {
-            setIsPlayingAI(false);
-          });
+          audio.onerror = () => setIsPlayingAI(false);
+          audio.play().catch(() => setIsPlayingAI(false));
           return;
         }
       } catch (err) {
-        console.error('Failed to generate AI audio, fallback to speech synthesis', err);
+        console.error('TTS server error, using Speech Synthesis', err);
       }
       setIsPlayingAI(false);
+      return;
     }
+
 
     if (!('speechSynthesis' in window)) return;
     window.speechSynthesis.cancel();

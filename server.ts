@@ -185,7 +185,7 @@ async function startServer() {
       if (!ai) throw new Error("GenAI not initialized");
       console.log("Connecting to Gemini Live API...");
       session = await ai.live.connect({
-        model: "gemini-3.1-flash-live-preview",
+        model: "gemini-2.5-flash-native-audio-latest",
         callbacks: {
           onmessage: (message: LiveServerMessage) => {
             // Audio response
@@ -356,30 +356,38 @@ async function startServer() {
       });
 
       const askWord = url.searchParams.get('askWord');
+      
+      // We only force the AI to speak on the very first connection or if there is an askWord
+      const isFirstConnection = userMemory.length === 0;
+
       let initialMessage = "";
+      let shouldSendInitialGreeting = false;
+
       if (askWord) {
          initialMessage = `ผู้เรียนต้องการถามและเรียนรู้เกี่ยวกับคำศัพท์นี้: "${askWord}" ให้เริ่มทักทายสั้นๆ และอธิบายคำศัพท์นี้ให้ฟังทันที พร้อมตัวอย่างประโยค และกระตุ้นให้ผู้เรียนบอกความหมายหรือลองออกเสียงตาม โดยระหว่างอธิบายอย่าลืมใช้คำสั่ง update_board เพื่อแสดงคำศัพท์นี้บนหน้าจอด้วย`;
-      } else {
-         initialMessage = userMemory.length > 0 
-           ? "การเชื่อมต่อก่อนหน้านี้หลุดไป ตอนนี้กลับมาเชื่อมต่อใหม่แล้ว ให้ทักทายสั้นๆ ว่ากลับมาแล้ว และพูดคุยเรื่องเดิมต่อได้เลย" 
-           : "สวัสดี เริ่มทักทายผู้เรียนได้เลย (ให้เห็นว่าผู้เรียนทำอะไรอยู่ผ่านกล้อง) และแนะนำตัวสั้นๆ";
+         shouldSendInitialGreeting = true;
+      } else if (isFirstConnection) {
+         initialMessage = "สวัสดี เริ่มทักทายผู้เรียนได้เลย (ให้เห็นว่าผู้เรียนทำอะไรอยู่ผ่านกล้อง) และแนะนำตัวสั้นๆ (ทักทายแค่ครั้งนี้ครั้งเดียวไม่ต้องทักทายซ้ำอีก)";
+         shouldSendInitialGreeting = true;
       }
 
-      // Send initial text prompt to trigger the AI greeting
-      try {
-        if (session.sendClientContent) {
-          session.sendClientContent({
-            turns: [
-              {
-                role: "user",
-                parts: [{ text: initialMessage }]
-              }
-            ],
-            turnComplete: true
-          });
+      // Send initial text prompt to trigger the AI greeting ONLY if needed
+      if (shouldSendInitialGreeting) {
+        try {
+          if (session.sendClientContent) {
+            session.sendClientContent({
+              turns: [
+                {
+                  role: "user",
+                  parts: [{ text: initialMessage }]
+                }
+              ],
+              turnComplete: true
+            });
+          }
+        } catch (e: any) {
+           console.error("send failed:", e.message);
         }
-      } catch (e: any) {
-         console.error("send failed:", e.message);
       }
 
     } catch (e: any) {
@@ -398,7 +406,27 @@ async function startServer() {
 
     clientWs.on("message", (data) => {
       try {
-        const { audio, image } = JSON.parse(data.toString());
+        const parsed = JSON.parse(data.toString());
+        const { audio, image, type, text } = parsed;
+        
+        if (type === 'doc_context' && text && session) {
+           try {
+             if (session.sendClientContent) {
+               session.sendClientContent({
+                 turns: [
+                   {
+                     role: "user",
+                     parts: [{ text: `ผู้เรียนได้เปิดหรืออัปโหลดเอกสารบทเรียนให้คุณดู นี่คือเนื้อหาทั้งหมดในเอกสารเพื่อเป็นบริบท (ห้ามอ่านออกเสียงเนื้อหานี้ยาวๆ ให้รับรู้ไว้เฉยๆ และนำไปใช้สอนเมื่อผู้เรียนถามหรือเข้าสู่บทเรียน): \n\n${text}` }]
+                   }
+                 ],
+                 turnComplete: true
+               });
+             }
+           } catch (e) {
+             console.error("Error sending doc context to Gemini:", e);
+           }
+        }
+        
         if (audio && session) {
           try {
             session.sendRealtimeInput({

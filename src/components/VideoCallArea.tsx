@@ -1,7 +1,15 @@
 import React, { useState, useEffect, useRef, Suspense } from 'react';
-import { Mic, MicOff, Video, VideoOff, PhoneOff, Phone, Edit3, Type, Settings2, PlayCircle, Loader2, RefreshCcw, MonitorUp, MonitorOff, Plus, Minus, ImagePlus, Trash2 } from 'lucide-react';
+import { Mic, MicOff, Video, VideoOff, PhoneOff, Phone, Edit3, Type, Settings2, PlayCircle, Loader2, RefreshCcw, MonitorUp, MonitorOff, Plus, Minus, ImagePlus, Trash2, ChevronLeft, ChevronRight, Maximize2, Minimize2 } from 'lucide-react';
 import { motion, AnimatePresence } from 'motion/react';
 import HanziWriter from 'hanzi-writer';
+import { Document, Page, pdfjs } from 'react-pdf';
+import 'react-pdf/dist/Page/AnnotationLayer.css';
+import 'react-pdf/dist/Page/TextLayer.css';
+import MrPeAvatar, { AvatarState } from './MrPeAvatar';
+
+// Configure pdfjs worker
+pdfjs.GlobalWorkerOptions.workerSrc = `//unpkg.com/pdfjs-dist@${pdfjs.version}/build/pdf.worker.min.mjs`;
+
 
 function ChineseCharacters({ word }: { word: string }) {
   const chars = word.split('');
@@ -98,7 +106,7 @@ interface BoardData {
   items: BoardItem[];
 }
 
-export default function VideoCallArea({ activeLang, askWord, clearAskWord }: { activeLang: 'EN' | 'CN' | 'TH', askWord?: string | null, clearAskWord?: () => void }) {
+export default function VideoCallArea({ activeLang, askWord, clearAskWord, askPdfUrl, clearAskPdfUrl }: { activeLang: 'EN' | 'CN' | 'TH', askWord?: string | null, clearAskWord?: () => void, askPdfUrl?: string | null, clearAskPdfUrl?: () => void }) {
   const videoRef = useRef<HTMLVideoElement>(null);
   const screenVideoRef = useRef<HTMLVideoElement>(null);
   const [stream, setStream] = useState<MediaStream | null>(null);
@@ -112,10 +120,21 @@ export default function VideoCallArea({ activeLang, askWord, clearAskWord }: { a
   const [isCalling, setIsCalling] = useState(false);
   const [facingMode, setFacingMode] = useState<'user' | 'environment'>('user');
   const [reconnectTrigger, setReconnectTrigger] = useState(0);
+  const [avatarState, setAvatarState] = useState<AvatarState>('idle');
+  const [isSpeaking, setIsSpeaking] = useState(false);
+
 
   const [isDocBoardOpen, setIsDocBoardOpen] = useState(false);
   const [docImageObj, setDocImageObj] = useState<HTMLImageElement | null>(null);
   const [docImageBase64, setDocImageBase64] = useState<string | null>(null);
+  
+  // PDF States
+  const [docPdfFile, setDocPdfFile] = useState<File | string | null>(null);
+  const [docPdfPage, setDocPdfPage] = useState<number>(1);
+  const [docPdfNumPages, setDocPdfNumPages] = useState<number>(0);
+  const [isPdfFullscreen, setIsPdfFullscreen] = useState(false);
+  const pdfCanvasRef = useRef<HTMLCanvasElement | null>(null);
+
   const [docOverlayText, setDocOverlayText] = useState<string>('');
   const [docScale, setDocScale] = useState(1);
   const [docPan, setDocPan] = useState({ x: 0, y: 0 });
@@ -153,6 +172,8 @@ export default function VideoCallArea({ activeLang, askWord, clearAskWord }: { a
     }
   }, [isCalling]);
 
+  const docExtractedTextRef = useRef<string | null>(null);
+
   // Handle askWord auto start
   useEffect(() => {
     if (askWord && !isCalling) {
@@ -160,23 +181,76 @@ export default function VideoCallArea({ activeLang, askWord, clearAskWord }: { a
     }
   }, [askWord, isCalling]);
 
+  // Handle askPdfUrl auto start
+  useEffect(() => {
+    if (askPdfUrl) {
+      setDocPdfFile(askPdfUrl);
+      setDocImageBase64(null); // Clear image if any
+      setIsDocBoardOpen(true);
+      extractPdfTextAndSend(askPdfUrl);
+      if (!isCalling) {
+        setIsCalling(true);
+      }
+    }
+  }, [askPdfUrl, isCalling]);
+
+  const extractPdfTextAndSend = async (fileOrUrl: File | string) => {
+     try {
+       let data;
+       if (typeof fileOrUrl === 'string') {
+          const res = await fetch(fileOrUrl);
+          data = await res.arrayBuffer();
+       } else {
+          data = await fileOrUrl.arrayBuffer();
+       }
+       const loadingTask = pdfjs.getDocument({ data });
+       const pdf = await loadingTask.promise;
+       let fullText = "";
+       const maxPages = Math.min(pdf.numPages, 30);
+       for (let i = 1; i <= maxPages; i++) {
+          const page = await pdf.getPage(i);
+          const content = await page.getTextContent();
+          const strings = content.items.map((item: any) => item.str);
+          fullText += `\n--- Page ${i} ---\n` + strings.join(" ");
+       }
+       
+       docExtractedTextRef.current = fullText;
+       
+       if (wsRef.current && wsRef.current.readyState === WebSocket.OPEN) {
+          wsRef.current.send(JSON.stringify({ type: 'doc_context', text: fullText }));
+       }
+     } catch (e) {
+        console.error("PDF text extraction failed", e);
+     }
+  };
+
   const handleDocUpload = (e: React.ChangeEvent<HTMLInputElement>) => {
     const file = e.target.files?.[0];
     if (file) {
-      const reader = new FileReader();
-      reader.onload = (event) => {
-        const result = event.target?.result as string;
-        setDocImageBase64(result);
-        const img = new Image();
-        img.onload = () => {
-          setDocImageObj(img);
-          docImageRef.current = img;
-          setDocScale(1);
-          setDocPan({ x: 0, y: 0 });
-        };
-        img.src = result;
-      };
-      reader.readAsDataURL(file);
+      if (file.type === "application/pdf") {
+         setDocPdfFile(file);
+         setDocPdfPage(1);
+         setDocImageBase64(null); // Clear image
+         extractPdfTextAndSend(file);
+         setIsDocBoardOpen(true);
+      } else {
+         // It's an image
+         setDocPdfFile(null); // Clear PDF
+         const reader = new FileReader();
+         reader.onload = (event) => {
+           const result = event.target?.result as string;
+           setDocImageBase64(result);
+           const img = new Image();
+           img.onload = () => {
+             setDocImageObj(img);
+             docImageRef.current = img;
+             setDocScale(1);
+             setDocPan({ x: 0, y: 0 });
+           };
+           img.src = result;
+         };
+         reader.readAsDataURL(file);
+      }
     }
   };
 
@@ -252,7 +326,11 @@ export default function VideoCallArea({ activeLang, askWord, clearAskWord }: { a
 
     activeAudioNodesRef.current = [];
 
-    ws.onopen = () => { /* connection established */ };
+    ws.onopen = () => { 
+      if (docExtractedTextRef.current) {
+        ws.send(JSON.stringify({ type: 'doc_context', text: docExtractedTextRef.current }));
+      }
+    };
     ws.onclose = () => {
       if (isCallingRef.current) {
         // Auto-reconnect to simulate "no limits / no disconnects"
@@ -264,9 +342,21 @@ export default function VideoCallArea({ activeLang, askWord, clearAskWord }: { a
     };
     ws.onmessage = (event) => {
       const msg = JSON.parse(event.data);
-      if (msg.audio) playAudioChunk(msg.audio);
+      if (msg.audio) {
+        playAudioChunk(msg.audio);
+        // Avatar starts talking when AI speaks
+        setIsSpeaking(true);
+        setAvatarState('talking');
+        // Clear speaking after chunk ends (approx)
+        clearTimeout((ws as any)._speakTimer);
+        (ws as any)._speakTimer = setTimeout(() => {
+          setIsSpeaking(false);
+          setAvatarState('listening');
+        }, 2500);
+      }
       if (msg.type === 'board_update') {
         setBoardData(msg.data);
+        setAvatarState('agreeing');
       }
       if (msg.type === 'doc_board_update') {
         setDocOverlayText(msg.data.overlayText || '');
@@ -314,8 +404,9 @@ export default function VideoCallArea({ activeLang, askWord, clearAskWord }: { a
     let frameInterval: any = null;
 
     async function setupMedia() {
+      let stream: MediaStream | null = null;
       try {
-        const stream = await navigator.mediaDevices.getUserMedia({ 
+        stream = await navigator.mediaDevices.getUserMedia({ 
           video: { facingMode: { ideal: facingMode } }, 
           audio: {
             echoCancellation: true,
@@ -323,150 +414,187 @@ export default function VideoCallArea({ activeLang, askWord, clearAskWord }: { a
             autoGainControl: true,
           }
         });
-        if (!isActive) {
-          stream.getTracks().forEach(track => track.stop());
-          return;
+      } catch (err) {
+        console.warn("Failed to get audio+video, trying separately.", err);
+        try {
+          // Try video only
+          stream = await navigator.mediaDevices.getUserMedia({ 
+            video: { facingMode: { ideal: facingMode } }
+          });
+          // Alert user that mic failed but video is working
+          alert("ไม่สามารถเข้าถึงไมโครโฟนได้ แต่ระบบจะยังคงดึงภาพกล้อง/หน้าจอส่งให้ AI ตามปกติ (คุณจะไม่ได้ยินเสียงตัวเอง)");
+        } catch (err2) {
+          try {
+            // Try audio only
+            stream = await navigator.mediaDevices.getUserMedia({ 
+              audio: {
+                echoCancellation: true,
+                noiseSuppression: true,
+                autoGainControl: true,
+              }
+            });
+          } catch (err3) {
+            console.error("All media failed.", err3);
+          }
         }
-        currentStream = stream;
-        
-        // sync video state
+      }
+
+      if (!stream) {
+        console.warn("No media stream obtained. Screen sharing and Doc board will still work if activated.");
+      }
+
+      if (!isActive) {
+        if (stream) stream.getTracks().forEach(track => track.stop());
+        return;
+      }
+      
+      currentStream = stream;
+      
+      // sync video state if available
+      if (currentStream) {
         currentStream.getVideoTracks().forEach(track => {
           track.enabled = isVidOn;
         });
-
         if (videoRef.current) videoRef.current.srcObject = currentStream;
         setStream(currentStream);
-
-        // Pre-initialize output context and background oscillator here so they are ready
-        // and keep JS alive even if AI hasn't spoken yet.
-        if (!outputAudioCtxRef.current) {
-            const outCtx = new (window.AudioContext || (window as any).webkitAudioContext)({ sampleRate: 24000 });
-            outputAudioCtxRef.current = outCtx;
-            nextStartTimeRef.current = 0;
-            const gainNode = outCtx.createGain();
-            gainNode.gain.value = 0;
-            gainNode.connect(outCtx.destination);
-            const osc = outCtx.createOscillator();
-            osc.connect(gainNode);
-            osc.start();
-            silenceOscillatorRef.current = osc;
-        }
-
-        // Setup audio context for sending (requires 16kHz)
-        const audioCtx = new (window.AudioContext || (window as any).webkitAudioContext)({ sampleRate: 16000 });
-        if (audioCtx.state === 'suspended') {
-          await audioCtx.resume();
-        }
-        if (!isActive) {
-          audioCtx.close().catch(() => {});
-          return;
-        }
-        inputAudioCtxRef.current = audioCtx;
-        
-        const source = audioCtx.createMediaStreamSource(currentStream);
-        sourceRef.current = source;
-
-        // Note: ScriptProcessor is deprecated but widely used for raw PCM access
-        const processor = audioCtx.createScriptProcessor(4096, 1, 1);
-        processorRef.current = processor;
-        
-        // Muted gain node to prevent local echo while keeping the graph running
-        const gainNode = audioCtx.createGain();
-        gainNode.gain.value = 0;
-        processor.connect(gainNode);
-        gainNode.connect(audioCtx.destination);
-        source.connect(processor);
-
-        processor.onaudioprocess = (e) => {
-           // We only send audio if mic is ON, Live is connected, and WS is open
-           if (!isMicOnRef.current || !isLiveConnectedRef.current || wsRef.current?.readyState !== WebSocket.OPEN) return;
-           
-           const pcmData = e.inputBuffer.getChannelData(0);
-           const base64 = pcmToBase64(pcmData);
-           wsRef.current.send(JSON.stringify({ audio: base64 }));
-        };
-
-        // Frame extraction interval
-         frameInterval = setInterval(() => {
-            if (!isLiveConnectedRef.current || wsRef.current?.readyState !== WebSocket.OPEN) return;
-            
-            const hasScreen = screenVideoRef.current && screenVideoRef.current.videoWidth > 0 && screenStreamRef.current;
-            const hasVideo = isVidOnRef.current && videoRef.current && videoRef.current.videoWidth > 0;
-            const hasDoc = isDocBoardOpenRef.current && docImageRef.current;
-            
-            if (!hasScreen && !hasVideo && !hasDoc) return;
-
-            let targetWidth = 640;
-            let targetHeight = 480;
-            let quality = 0.5;
-
-            if (hasScreen || hasDoc) {
-               targetWidth = 1280;
-               targetHeight = 720;
-               quality = 0.8;
-            }
-            
-            const canvas = document.createElement('canvas');
-            canvas.width = hasDoc && (hasScreen || hasVideo) ? targetWidth * 2 : targetWidth;
-            canvas.height = targetHeight;
-            const ctx = canvas.getContext('2d');
-            if (!ctx) return;
-            
-            // ใช้ black background แทนที่ transparent
-            ctx.fillStyle = "#000000";
-            ctx.fillRect(0, 0, canvas.width, canvas.height);
-            
-            let currentXOffset = 0;
-            if (hasDoc) {
-               ctx.fillStyle = "#ffffff";
-               ctx.fillRect(currentXOffset, 0, targetWidth, targetHeight);
-               const img = docImageRef.current!;
-               const aspect = img.width / img.height;
-               let drawW = targetWidth;
-               let drawH = targetWidth / aspect;
-               if (drawH > targetHeight) {
-                  drawH = targetHeight;
-                  drawW = targetHeight * aspect;
-               }
-               const dx = currentXOffset + (targetWidth - drawW) / 2;
-               const dy = (targetHeight - drawH) / 2;
-               ctx.drawImage(img, dx, dy, drawW, drawH);
-               currentXOffset += targetWidth;
-            }
-
-            if (hasScreen) {
-               const video = screenVideoRef.current!;
-               const aspect = video.videoWidth / video.videoHeight;
-               let drawW = targetWidth;
-               let drawH = targetWidth / aspect;
-               if (drawH > targetHeight) {
-                  drawH = targetHeight;
-                  drawW = targetHeight * aspect;
-               }
-               const dx = currentXOffset + (targetWidth - drawW) / 2;
-               const dy = (targetHeight - drawH) / 2;
-               ctx.drawImage(video, dx, dy, drawW, drawH);
-            } else if (hasVideo) {
-               const video = videoRef.current!;
-               const aspect = video.videoWidth / video.videoHeight;
-               let drawW = targetWidth;
-               let drawH = targetWidth / aspect;
-               if (drawH > targetHeight) {
-                  drawH = targetHeight;
-                  drawW = targetHeight * aspect;
-               }
-               const dx = currentXOffset + (targetWidth - drawW) / 2;
-               const dy = (targetHeight - drawH) / 2;
-               ctx.drawImage(video, dx, dy, drawW, drawH);
-            }
-
-            const base64JPEG = canvas.toDataURL('image/jpeg', quality).split(',')[1];
-            wsRef.current.send(JSON.stringify({ image: base64JPEG }));
-         }, 500); // 2 frames per second for real-time feel
-
-      } catch (err) {
-        console.error("Error accessing media devices.", err);
       }
+
+      // Pre-initialize output context and background oscillator here so they are ready
+      // and keep JS alive even if AI hasn't spoken yet.
+      if (!outputAudioCtxRef.current) {
+          const outCtx = new (window.AudioContext || (window as any).webkitAudioContext)({ sampleRate: 24000 });
+          outputAudioCtxRef.current = outCtx;
+          nextStartTimeRef.current = 0;
+          const gainNode = outCtx.createGain();
+          gainNode.gain.value = 0;
+          gainNode.connect(outCtx.destination);
+          const osc = outCtx.createOscillator();
+          osc.connect(gainNode);
+          osc.start();
+          silenceOscillatorRef.current = osc;
+      }
+
+      // Setup audio context for sending (requires 16kHz)
+      // Only set up if we actually got an audio track
+      const hasAudioTrack = currentStream?.getAudioTracks().length > 0;
+      
+      if (hasAudioTrack) {
+        try {
+          const audioCtx = new (window.AudioContext || (window as any).webkitAudioContext)({ sampleRate: 16000 });
+          if (audioCtx.state === 'suspended') {
+            await audioCtx.resume();
+          }
+          if (!isActive) {
+            audioCtx.close().catch(() => {});
+            return;
+          }
+          inputAudioCtxRef.current = audioCtx;
+          
+          const source = audioCtx.createMediaStreamSource(currentStream!);
+          sourceRef.current = source;
+
+          // Note: ScriptProcessor is deprecated but widely used for raw PCM access
+          const processor = audioCtx.createScriptProcessor(4096, 1, 1);
+          processorRef.current = processor;
+          
+          // Muted gain node to prevent local echo while keeping the graph running
+          const gainNode = audioCtx.createGain();
+          gainNode.gain.value = 0;
+          processor.connect(gainNode);
+          gainNode.connect(audioCtx.destination);
+          source.connect(processor);
+
+          processor.onaudioprocess = (e) => {
+             // We only send audio if mic is ON, Live is connected, and WS is open
+             if (!isMicOnRef.current || !isLiveConnectedRef.current || wsRef.current?.readyState !== WebSocket.OPEN) return;
+             
+             const pcmData = e.inputBuffer.getChannelData(0);
+             const base64 = pcmToBase64(pcmData);
+             wsRef.current.send(JSON.stringify({ audio: base64 }));
+          };
+        } catch (e) {
+          console.error("Failed to setup audio sending:", e);
+        }
+      }
+
+      // Frame extraction interval
+      // Set to 300ms for ~3.3 fps which is closer to real-time but still safe for the API
+       frameInterval = setInterval(() => {
+          if (!isLiveConnectedRef.current || wsRef.current?.readyState !== WebSocket.OPEN) return;
+          
+          const hasScreen = screenVideoRef.current && screenVideoRef.current.videoWidth > 0 && screenStreamRef.current;
+          const hasVideo = isVidOnRef.current && videoRef.current && videoRef.current.videoWidth > 0;
+          const hasDoc = isDocBoardOpenRef.current && docImageRef.current;
+          
+          if (!hasScreen && !hasVideo && !hasDoc) return;
+
+          let targetWidth = 640;
+          let targetHeight = 480;
+          let quality = 0.6; // slightly better quality for normal video
+
+          if (hasScreen || hasDoc) {
+             targetWidth = 1280;
+             targetHeight = 720;
+             quality = 0.8;
+          }
+          
+          const canvas = document.createElement('canvas');
+          canvas.width = hasDoc && (hasScreen || hasVideo) ? targetWidth * 2 : targetWidth;
+          canvas.height = targetHeight;
+          const ctx = canvas.getContext('2d');
+          if (!ctx) return;
+          
+          // ใช้ black background แทนที่ transparent
+          ctx.fillStyle = "#000000";
+          ctx.fillRect(0, 0, canvas.width, canvas.height);
+          
+          let currentXOffset = 0;
+          if (hasDoc) {
+             ctx.fillStyle = "#ffffff";
+             ctx.fillRect(currentXOffset, 0, targetWidth, targetHeight);
+             const img = docImageRef.current!;
+             const aspect = img.width / img.height;
+             let drawW = targetWidth;
+             let drawH = targetWidth / aspect;
+             if (drawH > targetHeight) {
+                drawH = targetHeight;
+                drawW = targetHeight * aspect;
+             }
+             const dx = currentXOffset + (targetWidth - drawW) / 2;
+             const dy = (targetHeight - drawH) / 2;
+             ctx.drawImage(img, dx, dy, drawW, drawH);
+             currentXOffset += targetWidth;
+          }
+
+          if (hasScreen) {
+             const video = screenVideoRef.current!;
+             const aspect = video.videoWidth / video.videoHeight;
+             let drawW = targetWidth;
+             let drawH = targetWidth / aspect;
+             if (drawH > targetHeight) {
+                drawH = targetHeight;
+                drawW = targetHeight * aspect;
+             }
+             const dx = currentXOffset + (targetWidth - drawW) / 2;
+             const dy = (targetHeight - drawH) / 2;
+             ctx.drawImage(video, dx, dy, drawW, drawH);
+          } else if (hasVideo) {
+             const video = videoRef.current!;
+             const aspect = video.videoWidth / video.videoHeight;
+             let drawW = targetWidth;
+             let drawH = targetWidth / aspect;
+             if (drawH > targetHeight) {
+                drawH = targetHeight;
+                drawW = targetHeight * aspect;
+             }
+             const dx = currentXOffset + (targetWidth - drawW) / 2;
+             const dy = (targetHeight - drawH) / 2;
+             ctx.drawImage(video, dx, dy, drawW, drawH);
+          }
+
+          const base64JPEG = canvas.toDataURL('image/jpeg', quality).split(',')[1];
+          wsRef.current.send(JSON.stringify({ image: base64JPEG }));
+       }, 300); 
     }
     setupMedia();
 
@@ -595,68 +723,63 @@ export default function VideoCallArea({ activeLang, askWord, clearAskWord }: { a
   };
 
   return (
-    <div className="flex flex-col md:flex-row h-full w-full gap-4 relative">
+    <div className="flex flex-col md:flex-row h-full w-full gap-4 relative p-4" style={{ background: 'transparent' }}>
       {/* Left: User & AI Camera Column */}
-      <div className="w-full md:w-1/3 flex flex-col gap-4">
+      <div className={`w-full md:w-1/3 flex flex-col gap-4 ${isPdfFullscreen ? 'static' : ''}`}>
         {/* Cameras Wrapper: Row on mobile, Column on desktop */}
-        <div className="flex flex-row md:flex-col gap-4 h-48 md:h-auto md:flex-1 shrink-0">
-          {/* AI Camera / Voice Indicator */}
-          <div className="flex-1 bg-gradient-to-br from-indigo-900 to-gray-900 rounded-2xl overflow-hidden relative shadow-inner border border-gray-800 flex items-center justify-center">
-            {isCalling && !isLiveConnected && <Loader2 className="w-8 h-8 text-indigo-400 animate-spin absolute" />}
-            
-            {/* Simple AI Voice Placeholder */}
-            <div className="absolute inset-0 flex items-center justify-center bg-gray-800">
-               {isLiveConnected ? (
-                 <div className="w-24 h-24 rounded-full bg-indigo-500/20 flex items-center justify-center relative">
-                    {/* Pulsing rings when connected */}
-                    <motion.div className="absolute inset-0 rounded-full border-2 border-indigo-400" animate={{ scale: [1, 1.2, 1], opacity: [0.5, 0, 0.5] }} transition={{ repeat: Infinity, duration: 2 }} />
-                    <motion.div className="absolute inset-0 rounded-full border-2 border-indigo-300" animate={{ scale: [1, 1.4, 1], opacity: [0.3, 0, 0.3] }} transition={{ repeat: Infinity, duration: 2, delay: 0.2 }} />
-                    <Phone className="w-10 h-10 text-indigo-300" />
-                 </div>
-               ) : (
-                 <PhoneOff className="w-12 h-12 text-gray-600" />
-               )}
-            </div>
-
-            <div className="absolute inset-0 flex items-center justify-center flex-col z-10 p-2 text-center bg-black/30 backdrop-blur-sm opacity-0 hover:opacity-100 transition-opacity">
-              <div className="text-white font-medium flex flex-col items-center gap-1">
-                <div className="flex items-center gap-1.5 text-xs md:text-sm">
-                  {isCalling ? (
-                     isLiveConnected ? <Loader2 size={14} className="animate-spin text-indigo-400" /> : <PhoneOff size={14} className="text-yellow-400" />
-                  ) : (
-                     <Settings2 size={14} className="text-gray-400" />
-                  )}
-                  <span className="truncate max-w-[120px] md:max-w-none shadow-md drop-shadow-md">{isCalling ? (isLiveConnected ? 'กำลังสนทนา...' : 'กำลังโทร...') : 'พร้อมสนทนา'}</span>
+        <div className={isPdfFullscreen ? "fixed bottom-4 right-4 z-[110] flex flex-col gap-2 w-24 md:w-32 shadow-2xl" : "flex flex-row md:flex-col gap-4 h-48 md:h-auto md:flex-1 shrink-0"}>
+          {/* AI Panel — Mr.Pe (EN only) or elegant placeholder (CN/TH) */}
+          <div
+            className={`flex-1 overflow-hidden relative ${isPdfFullscreen ? 'rounded-full aspect-square shadow-xl border-2 border-indigo-200' : 'rounded-2xl border border-indigo-100'}`}
+            style={{ minHeight: isPdfFullscreen ? undefined : 220, background: 'linear-gradient(145deg,#f5f3ff,#ede9fe)' }}
+          >
+            {activeLang === 'EN' ? (
+              <Suspense fallback={
+                <div className="w-full h-full flex items-center justify-center bg-gradient-to-b from-[#f5f3ff] to-[#ede9fe]">
+                  <div className="w-10 h-10 border-2 border-indigo-400 border-t-transparent rounded-full animate-spin" />
                 </div>
-              </div>
-            </div>
-            
-            {/* Active speaking indicator */}
-            <AnimatePresence>
-              {isLiveConnected && (
-                <motion.div 
-                  initial={{ opacity: 0 }}
-                  animate={{ opacity: 1 }}
-                  exit={{ opacity: 0 }}
-                  className="absolute bottom-2 left-2 flex items-center justify-center pointer-events-none z-20"
+              }>
+                <MrPeAvatar
+                  avatarState={avatarState}
+                  isSpeaking={isSpeaking}
+                  isCalling={isCalling}
+                  isLiveConnected={isLiveConnected}
+                  className="w-full h-full"
+                />
+              </Suspense>
+            ) : (
+              /* Elegant placeholder for CN / TH */
+              <div className="w-full h-full flex flex-col items-center justify-center gap-3 p-4">
+                <div
+                  className={`w-20 h-20 rounded-full flex items-center justify-center shadow-lg pulse-ring ${
+                    isLiveConnected ? 'ring-2 ring-indigo-300' : ''
+                  }`}
+                  style={{ background: 'linear-gradient(135deg,#7c3aed,#5b21b6)' }}
                 >
-                   <div className="flex items-center gap-1 bg-black/50 px-2 py-1 rounded backdrop-blur-sm">
-                     <div className="flex gap-0.5 items-end h-3">
-                       <motion.div className="w-0.5 bg-green-400" animate={{ height: ["40%", "100%", "60%", "100%", "40%"] }} transition={{ repeat: Infinity, duration: 1.2, ease: "linear" }} />
-                       <motion.div className="w-0.5 bg-green-400" animate={{ height: ["80%", "30%", "90%", "40%", "80%"] }} transition={{ repeat: Infinity, duration: 1.0, ease: "linear" }} />
-                       <motion.div className="w-0.5 bg-green-400" animate={{ height: ["50%", "100%", "40%", "80%", "50%"] }} transition={{ repeat: Infinity, duration: 1.4, ease: "linear" }} />
-                     </div>
-                   </div>
-                </motion.div>
-              )}
-            </AnimatePresence>
-            <div className={`absolute bottom-2 right-2 bg-black/60 px-2 py-0.5 rounded text-white text-[10px] md:text-xs backdrop-blur-sm uppercase tracking-widest font-semibold z-20`}>
-              คุณครู
+                  {activeLang === 'CN' ? (
+                    <span className="text-3xl">🇨🇳</span>
+                  ) : (
+                    <span className="text-3xl">🇹🇭</span>
+                  )}
+                </div>
+                <p className="text-sm font-semibold text-indigo-600 text-center">
+                  {activeLang === 'CN' ? 'AI ครูภาษาจีน' : 'AI ครูภาษาไทย'}
+                </p>
+                {isLiveConnected && (
+                  <div className="flex gap-1 items-end h-4">
+                    {[0,1,2,3,4].map(i => <div key={i} className="wave-bar" style={{ animationDelay: `${i*0.12}s` }} />)}
+                  </div>
+                )}
+              </div>
+            )}
+            {/* Label */}
+            <div className="absolute bottom-2 right-2 badge badge-indigo text-[9px]">
+              {activeLang === 'EN' ? 'Mr.Pe' : activeLang === 'CN' ? 'ครูจีน AI' : 'ครูไทย AI'}
             </div>
           </div>
           
           {/* User Camera and Screen Share */}
-          <div className="w-1/3 md:w-full md:h-1/3 md:min-h-[160px] shrink-0 bg-black rounded-2xl overflow-hidden relative shadow-inner">
+          <div className={`shrink-0 bg-black overflow-hidden relative ${isPdfFullscreen ? 'rounded-full aspect-square shadow-xl w-24 md:w-32' : 'w-1/3 md:w-full md:h-1/3 md:min-h-[160px] rounded-2xl shadow-inner'}`}>
             {screenStream && (
               <video 
                  ref={screenVideoRef} 
@@ -672,40 +795,111 @@ export default function VideoCallArea({ activeLang, askWord, clearAskWord }: { a
                 <VideoOff className="text-gray-400" size={24} />
               </div>
             )}
-            <div className={`absolute bottom-2 left-2 bg-black/60 px-2 py-0.5 rounded text-white text-[10px] md:text-xs backdrop-blur-sm uppercase tracking-widest font-semibold ${screenStream ? 'z-20' : 'z-0'}`}>
+            {/* User camera label */}
+            <div className={`absolute bottom-2 left-2 px-2 py-0.5 rounded text-white text-[10px] md:text-xs tracking-widest font-semibold backdrop-blur-sm ${screenStream ? 'z-20 bg-indigo-900/70 border border-indigo-500/30' : 'z-0 bg-black/60'}`}>
               {screenStream ? 'แชร์หน้าจอ' : 'คุณ'}
             </div>
           </div>
         </div>
 
-        {/* Call Controls */}
-        <div className="bg-white p-4 rounded-2xl flex justify-center gap-4 sm:gap-6 border border-gray-200 shadow-sm shrink-0 flex-wrap">
+        {/* ── Call Controls — Elegant Premium ── */}
+        <div
+          className={`flex justify-center gap-2.5 sm:gap-3 shrink-0 flex-wrap p-3 rounded-2xl ${isPdfFullscreen ? 'fixed bottom-4 left-1/2 -translate-x-1/2 z-[110] shadow-2xl' : ''}`}
+          style={{
+            background: 'rgba(255,255,255,0.92)',
+            backdropFilter: 'blur(20px)',
+            border: '1px solid rgba(124,58,237,0.15)',
+            boxShadow: '0 4px 24px rgba(124,58,237,0.12), 0 2px 8px rgba(0,0,0,0.06)',
+          }}
+        >
           {isCalling ? (
-             <>
-                <button onClick={toggleMic} className={`p-4 rounded-full ${isMicOn ? 'bg-gray-100 hover:bg-gray-200 text-gray-800' : 'bg-red-100 hover:bg-red-200 text-red-600'} transition-colors shadow-sm`}>
-                  {isMicOn ? <Mic size={24} /> : <MicOff size={24} />}
-                </button>
-                <button onClick={toggleVid} className={`p-4 rounded-full ${isVidOn ? 'bg-gray-100 hover:bg-gray-200 text-gray-800' : 'bg-red-100 hover:bg-red-200 text-red-600'} transition-colors shadow-sm`}>
-                  {isVidOn ? <Video size={24} /> : <VideoOff size={24} />}
-                </button>
-                <button onClick={toggleCamera} className="p-4 rounded-full bg-gray-100 hover:bg-gray-200 text-gray-800 transition-colors shadow-sm" title="สลับกล้อง">
-                  <RefreshCcw size={24} />
-                </button>
-                <button onClick={toggleScreenShare} className={`p-4 rounded-full ${screenStream ? 'bg-indigo-100 hover:bg-indigo-200 text-indigo-600 border border-indigo-200' : 'bg-gray-100 hover:bg-gray-200 text-gray-800'} transition-colors shadow-sm`} title={screenStream ? "หยุดแชร์หน้าจอ" : "แชร์หน้าจอ"}>
-                  {screenStream ? <MonitorOff size={24} /> : <MonitorUp size={24} />}
-                </button>
-                <button onClick={() => setIsDocBoardOpen(!isDocBoardOpen)} className={`p-4 rounded-full ${isDocBoardOpen ? 'bg-indigo-100 hover:bg-indigo-200 text-indigo-600 border border-indigo-200' : 'bg-gray-100 hover:bg-gray-200 text-gray-800'} transition-colors shadow-sm`} title={isDocBoardOpen ? "ปิดกระดานอัปโหลด" : "เปิดกระดานอัปโหลด"}>
-                  {isDocBoardOpen ? <Minus size={24} /> : <Plus size={24} />}
-                </button>
-                <button onClick={() => { setIsCalling(false); clearAskWord?.(); }} className="p-4 rounded-full bg-red-600 hover:bg-red-700 text-white transition-colors shadow-sm min-w[64px]">
-                  <PhoneOff size={24} />
-                </button>
-             </>
+            <>
+              {/* Speaking waveform */}
+              {isSpeaking && (
+                <div className="flex items-center gap-1 mr-1 self-center">
+                  {[0,1,2,3,4].map(i => <div key={i} className="wave-bar" style={{ animationDelay: `${i*0.12}s` }} />)}
+                </div>
+              )}
+              <button
+                onClick={toggleMic}
+                className={`p-3 rounded-xl transition-all duration-200 hover:scale-105 ${
+                  isMicOn
+                    ? 'text-indigo-700 hover:bg-indigo-50'
+                    : 'bg-red-50 text-red-500 border border-red-200'
+                }`}
+                style={isMicOn ? { background: 'var(--c-surface-3)', border: '1px solid rgba(124,58,237,0.15)' } : {}}
+              >
+                {isMicOn ? <Mic size={20} /> : <MicOff size={20} />}
+              </button>
+              <button
+                onClick={toggleVid}
+                className={`p-3 rounded-xl transition-all duration-200 hover:scale-105 ${
+                  isVidOn
+                    ? 'text-indigo-700 hover:bg-indigo-50'
+                    : 'bg-red-50 text-red-500 border border-red-200'
+                }`}
+                style={isVidOn ? { background: 'var(--c-surface-3)', border: '1px solid rgba(124,58,237,0.15)' } : {}}
+              >
+                {isVidOn ? <Video size={20} /> : <VideoOff size={20} />}
+              </button>
+              <button
+                onClick={toggleCamera}
+                className="p-3 rounded-xl text-indigo-700 hover:scale-105 transition-all"
+                style={{ background: 'var(--c-surface-3)', border: '1px solid rgba(124,58,237,0.15)' }}
+                title="สลับกล้อง"
+              >
+                <RefreshCcw size={20} />
+              </button>
+              <button
+                onClick={toggleScreenShare}
+                className={`p-3 rounded-xl transition-all duration-200 hover:scale-105 ${
+                  screenStream ? 'text-indigo-600' : 'text-indigo-700'
+                }`}
+                style={screenStream
+                  ? { background: 'var(--c-indigo-pale)', border: '1px solid rgba(124,58,237,0.3)' }
+                  : { background: 'var(--c-surface-3)', border: '1px solid rgba(124,58,237,0.15)' }
+                }
+                title={screenStream ? 'หยุดแชร์' : 'แชร์หน้าจอ'}
+              >
+                {screenStream ? <MonitorOff size={20} /> : <MonitorUp size={20} />}
+              </button>
+              <button
+                onClick={() => setIsDocBoardOpen(!isDocBoardOpen)}
+                className={`p-3 rounded-xl transition-all duration-200 hover:scale-105 ${
+                  isDocBoardOpen ? 'text-indigo-600' : 'text-indigo-700'
+                }`}
+                style={isDocBoardOpen
+                  ? { background: 'var(--c-indigo-pale)', border: '1px solid rgba(124,58,237,0.3)' }
+                  : { background: 'var(--c-surface-3)', border: '1px solid rgba(124,58,237,0.15)' }
+                }
+                title={isDocBoardOpen ? 'ปิดเอกสาร' : 'เปิดเอกสาร'}
+              >
+                {isDocBoardOpen ? <Minus size={20} /> : <Plus size={20} />}
+              </button>
+              <button
+                onClick={() => { setIsCalling(false); setAvatarState('idle'); clearAskWord?.(); clearAskPdfUrl?.(); }}
+                className="p-3 rounded-xl text-white transition-all hover:scale-105"
+                style={{ background: 'linear-gradient(135deg,#ef4444,#dc2626)', boxShadow: '0 2px 12px rgba(239,68,68,0.35)' }}
+              >
+                <PhoneOff size={20} />
+              </button>
+            </>
           ) : (
-             <button onClick={() => setIsCalling(true)} className="px-8 py-4 rounded-full bg-indigo-600 hover:bg-indigo-700 text-white font-medium flex items-center gap-3 transition-colors shadow-sm w-full sm:w-auto justify-center">
-               <Phone size={24} fill="currentColor" />
-               เริ่มวิดีโอคอลกับติวเตอร์
-             </button>
+            <motion.button
+              whileHover={{ scale: 1.04 }}
+              whileTap={{ scale: 0.97 }}
+              onClick={() => { setIsCalling(true); setAvatarState('greeting'); }}
+              className="flex items-center gap-2.5 text-white font-bold px-7 py-3 rounded-2xl text-sm"
+              style={{ background: 'linear-gradient(135deg,#7c3aed,#5b21b6)', boxShadow: '0 4px 18px rgba(124,58,237,0.4)' }}
+            >
+              <Phone size={20} fill="currentColor" />
+              {activeLang === 'EN'
+                ? 'เริ่มสนทนากับ Mr.Pe'
+                : activeLang === 'CN'
+                  ? 'เริ่มสนทนาภาษาจีน'
+                  : 'เริ่มสนทนาภาษาไทย'
+              }
+            </motion.button>
           )}
         </div>
       </div>
@@ -715,32 +909,58 @@ export default function VideoCallArea({ activeLang, askWord, clearAskWord }: { a
         
         {/* Doc Board (Optional) */}
         {isDocBoardOpen && (
-          <div className="flex-1 bg-white rounded-2xl border border-gray-200 shadow-sm overflow-hidden flex flex-col relative min-h-[400px]">
-            <div className="bg-gray-50 border-b border-gray-200 p-3 flex justify-between items-center shrink-0">
-               <div className="flex items-center gap-2 text-sm font-medium text-gray-600">
+          <div className={isPdfFullscreen ? "fixed inset-0 z-[100] bg-white flex flex-col" : "flex-1 bg-white rounded-2xl border border-indigo-100 shadow-sm overflow-hidden flex flex-col relative min-h-[400px]"}>
+            <div className={`${isPdfFullscreen ? 'bg-white text-gray-800 border-indigo-100 shadow-sm' : 'bg-indigo-50/60 text-gray-600 border-indigo-100'} border-b p-3 flex justify-between items-center shrink-0`}>
+               <div className="flex items-center gap-2 text-sm font-semibold text-indigo-700">
                  <ImagePlus size={16} /> กระดานรูปภาพ / เอกสาร
                </div>
                <div className="flex items-center gap-1">
-                 {docImageBase64 && (
+                 {docPdfFile && (
                    <>
-                     <label className="cursor-pointer text-indigo-500 hover:text-indigo-600 transition-colors p-1" title="เปลี่ยนภาพใหม่">
+                     <button onClick={() => setDocPdfPage(p => Math.max(p - 1, 1))} disabled={docPdfPage <= 1} className="p-1 disabled:opacity-40 hover:bg-indigo-100 text-indigo-600 rounded transition-colors"><ChevronLeft size={20}/></button>
+                     <span className="text-sm py-1 px-2 font-medium text-indigo-700">หน้า {docPdfPage} / {docPdfNumPages}</span>
+                     <button onClick={() => setDocPdfPage(p => Math.min(p + 1, docPdfNumPages))} disabled={docPdfPage >= docPdfNumPages} className="p-1 disabled:opacity-40 hover:bg-indigo-100 text-indigo-600 rounded transition-colors mr-2"><ChevronRight size={20}/></button>
+                     <button onClick={() => setIsPdfFullscreen(!isPdfFullscreen)} className="p-1 hover:bg-indigo-100 text-indigo-500 rounded transition-colors mr-2">
+                        {isPdfFullscreen ? <Minimize2 size={20}/> : <Maximize2 size={20}/>}
+                     </button>
+                   </>
+                 )}
+                 {(docImageBase64 || docPdfFile) && (
+                   <>
+                     <label className="cursor-pointer text-indigo-500 hover:text-indigo-600 transition-colors p-1" title="เปลี่ยนภาพ/เอกสารใหม่">
                        <ImagePlus size={16} />
-                       <input type="file" accept="image/*" className="hidden" onChange={handleDocUpload} />
+                       <input type="file" accept="image/*,application/pdf" className="hidden" onChange={handleDocUpload} />
                      </label>
-                     <button onClick={() => { setDocImageBase64(null); setDocImageObj(null); docImageRef.current = null; setDocOverlayText(''); }} className="text-red-500 hover:text-red-600 transition-colors p-1" title="ลบภาพ">
+                     <button onClick={() => { setDocImageBase64(null); setDocPdfFile(null); setDocImageObj(null); docImageRef.current = null; setDocOverlayText(''); }} className="text-red-500 hover:text-red-600 transition-colors p-1" title="ลบภาพ/เอกสาร">
                         <Trash2 size={16} />
                      </button>
                    </>
                  )}
                </div>
             </div>
-            <div className="flex-1 relative overflow-auto bg-gray-100 flex items-center justify-center p-4">
-               {!docImageBase64 ? (
-                 <label className="flex flex-col items-center justify-center w-full h-full border-2 border-dashed border-gray-300 rounded-xl cursor-pointer hover:bg-gray-50 transition-colors">
-                   <ImagePlus size={32} className="text-gray-400 mb-2" />
-                   <span className="text-sm text-gray-500">คลิกเพื่ออัปโหลดรูปภาพ</span>
-                   <input type="file" accept="image/*" className="hidden" onChange={handleDocUpload} />
+            <div className={`flex-1 relative overflow-auto flex items-center justify-center p-4 ${isPdfFullscreen ? 'bg-indigo-50/40' : 'bg-indigo-50/30'}`}>
+               {!docImageBase64 && !docPdfFile ? (
+                 <label className="flex flex-col items-center justify-center w-full h-full border-2 border-dashed border-indigo-200 rounded-xl cursor-pointer hover:bg-indigo-50 transition-colors">
+                   <ImagePlus size={32} className="text-indigo-300 mb-2" />
+                   <span className="text-sm text-indigo-500 font-medium">คลิกเพื่ออัปโหลดรูปภาพ หรือ PDF</span>
+                   <input type="file" accept="image/*,application/pdf" className="hidden" onChange={handleDocUpload} />
                  </label>
+               ) : docPdfFile ? (
+                 <div className="w-full h-full flex flex-col items-center overflow-y-auto">
+                    <Document
+                       file={docPdfFile}
+                       onLoadSuccess={({ numPages }) => setDocPdfNumPages(numPages)}
+                       loading={<div className="text-gray-400">กำลังโหลด PDF...</div>}
+                    >
+                       <Page 
+                         pageNumber={docPdfPage} 
+                         renderTextLayer={false} 
+                         renderAnnotationLayer={false} 
+                         className="shadow-lg mb-4" 
+                         width={isPdfFullscreen ? Math.min(window.innerWidth * 0.9, 1200) : 500} 
+                       />
+                    </Document>
+                 </div>
                ) : (
                  <div className="relative w-full h-full">
                     <img 
@@ -781,16 +1001,16 @@ export default function VideoCallArea({ activeLang, askWord, clearAskWord }: { a
         )}
 
         {/* Main Board */}
-        <div className="flex-1 bg-white rounded-2xl border border-gray-200 shadow-sm overflow-hidden flex flex-col relative h-[400px] md:h-auto">
+        <div className="flex-1 bg-white rounded-2xl border border-indigo-100 shadow-sm overflow-hidden flex flex-col relative h-[400px] md:h-auto">
           {/* Canvas Toolbar */}
-          <div className="bg-gray-50 border-b border-gray-200 p-3 flex justify-between items-center shrink-0">
-            <div className="flex items-center gap-2 text-sm font-medium text-gray-600">
-              <Edit3 size={16} /> บอร์ดการเรียน {activeLang === 'EN' ? 'อังกฤษ' : activeLang === 'CN' ? 'จีน' : 'ไทย'}
+          <div className="bg-indigo-50/60 border-b border-indigo-100 p-3 flex justify-between items-center shrink-0">
+            <div className="flex items-center gap-2 text-sm font-semibold text-indigo-700">
+              <Edit3 size={16} /> บอร์ดการเรียน {activeLang === 'EN' ? 'ภาษาอังกฤษ' : activeLang === 'CN' ? 'ภาษาจีน' : 'ภาษาไทย'}
             </div>
           </div>
 
         {/* Canvas Content Area */}
-        <div className="flex-1 relative overflow-hidden bg-[url('https://www.transparenttextures.com/patterns/cubes.png')] bg-gray-50/50">
+        <div className="flex-1 relative overflow-hidden" style={{ background: 'linear-gradient(135deg,#f8f7ff 0%,#f0effe 100%)' }}>
           <AnimatePresence mode="wait">
              {boardData ? (
                renderDynamicCanvas()
