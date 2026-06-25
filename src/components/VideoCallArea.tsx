@@ -1,3 +1,4 @@
+import { GoogleGenAI, Modality, Type as GenAIType } from '@google/genai';
 import React, { useState, useEffect, useRef, Suspense } from 'react';
 import { Mic, MicOff, Video, VideoOff, PhoneOff, Phone, Edit3, Type, Settings2, PlayCircle, Loader2, RefreshCcw, MonitorUp, MonitorOff, Plus, Minus, ImagePlus, Trash2, ChevronLeft, ChevronRight, Maximize2, Minimize2 } from 'lucide-react';
 import { motion, AnimatePresence } from 'motion/react';
@@ -376,15 +377,15 @@ export default function VideoCallArea({ activeLang, askWord, clearAskWord, askPd
                   name: "draw_on_exam",
                   description: "Draw on the exam PDF page to highlight text, circle an answer, or write an explanation.",
                   parameters: {
-                    type: Type.OBJECT,
+                    type: GenAIType.OBJECT,
                     properties: {
-                      type: { type: Type.STRING, description: "Type of drawing: 'circle', 'highlight', or 'text'." },
-                      x: { type: Type.NUMBER, description: "X coordinate percentage (0-100)" },
-                      y: { type: Type.NUMBER, description: "Y coordinate percentage (0-100)" },
-                      text: { type: Type.STRING, description: "Text to write (only for type='text')" },
-                      width: { type: Type.NUMBER, description: "Width percentage (for circle or highlight)" },
-                      height: { type: Type.NUMBER, description: "Height percentage (for highlight)" },
-                      color: { type: Type.STRING, description: "Optional hex color or CSS color name" }
+                      type: { type: GenAIType.STRING, description: "Type of drawing: 'circle', 'highlight', or 'text'." },
+                      x: { type: GenAIType.NUMBER, description: "X coordinate percentage (0-100)" },
+                      y: { type: GenAIType.NUMBER, description: "Y coordinate percentage (0-100)" },
+                      text: { type: GenAIType.STRING, description: "Text to write (only for type='text')" },
+                      width: { type: GenAIType.NUMBER, description: "Width percentage (for circle or highlight)" },
+                      height: { type: GenAIType.NUMBER, description: "Height percentage (for highlight)" },
+                      color: { type: GenAIType.STRING, description: "Optional hex color or CSS color name" }
                     },
                     required: ["type", "x", "y"]
                   }
@@ -397,18 +398,18 @@ export default function VideoCallArea({ activeLang, askWord, clearAskWord, askPd
                   name: "update_board",
                   description: "Update the shared whiteboard screen to display vocabulary, grammar, sentences, or poems to the user.",
                   parameters: {
-                    type: Type.OBJECT,
+                    type: GenAIType.OBJECT,
                     properties: {
                       items: {
-                        type: Type.ARRAY,
+                        type: GenAIType.ARRAY,
                         description: "List of items to display on the board. MAX 3 ITEMS.",
                         items: {
-                          type: Type.OBJECT,
+                          type: GenAIType.OBJECT,
                           properties: {
-                            word: { type: Type.STRING },
-                            pinyin: { type: Type.STRING },
-                            meaning: { type: Type.STRING },
-                            example: { type: Type.STRING }
+                            word: { type: GenAIType.STRING },
+                            pinyin: { type: GenAIType.STRING },
+                            meaning: { type: GenAIType.STRING },
+                            example: { type: GenAIType.STRING }
                           },
                           required: ["word", "meaning"]
                         }
@@ -421,9 +422,9 @@ export default function VideoCallArea({ activeLang, askWord, clearAskWord, askPd
                   name: "update_doc_board",
                   description: "Update the Document Board (which shows user's uploaded image/file) to add overlay text, solutions, or explanations.",
                   parameters: {
-                    type: Type.OBJECT,
+                    type: GenAIType.OBJECT,
                     properties: {
-                      overlayText: { type: Type.STRING, description: "The text to overlay on the document." }
+                      overlayText: { type: GenAIType.STRING, description: "The text to overlay on the document." }
                     },
                     required: ["overlayText"]
                   }
@@ -432,9 +433,9 @@ export default function VideoCallArea({ activeLang, askWord, clearAskWord, askPd
                   name: "memorize_info",
                   description: "Memorize important details about the user.",
                   parameters: {
-                     type: Type.OBJECT,
+                     type: GenAIType.OBJECT,
                      properties: {
-                        memoryText: { type: Type.STRING }
+                        memoryText: { type: GenAIType.STRING }
                      },
                      required: ["memoryText"]
                   }
@@ -652,7 +653,7 @@ export default function VideoCallArea({ activeLang, askWord, clearAskWord, askPd
 
       } catch (e: any) {
          console.error("Gemini init error", e);
-         alert("โควต้าการใช้งาน AI เต็มหรือระบบขัดข้อง กรุณาลองใหม่ภายหลัง");
+         alert("Gemini Connection Error: " + (e?.message || JSON.stringify(e)));
          setIsCalling(false);
       }
     }

@@ -175,8 +175,9 @@ export default function FloatingAICall({ canvasDataUrl, onToolCall, onClose }: F
           }
         }, 1000); // Send screen every 1 sec
 
-      } catch (err) {
+      } catch (err: any) {
         console.error("Connection failed", err);
+        alert("Gemini Connection Error: " + (err?.message || JSON.stringify(err)));
         setIsConnecting(false);
       }
     }
