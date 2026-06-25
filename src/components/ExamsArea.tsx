@@ -146,34 +146,43 @@ export default function ExamsArea({ activeLang, onAskAI }: { activeLang: 'EN' | 
 
     if (isFullscreen) {
       return (
-        <>
-          {/* Floating Exit Button (Top Left) */}
-          <button
-            onClick={() => setIsFullscreen(false)}
-            className="fixed top-4 left-4 z-[60] flex items-center gap-1.5 text-sm font-bold bg-white/90 backdrop-blur-md text-red-600 hover:bg-red-50 px-3 py-2 rounded-full shadow-lg border border-red-100 transition-all hover:scale-105"
-          >
-            <ChevronLeft size={16} /> <span className="hidden sm:inline">ออก</span>
-          </button>
-          
-          {/* Floating Ask AI Button (Top Right) */}
-          {onAskAI && (
-            <button
-              onClick={() => onAskAI?.(`ฉันกำลังทำข้อสอบ ${selectedCategory} ชุด ${selectedExamSet} ช่วยอธิบายโจทย์และสอนเพิ่มเติมหน่อได้ไหม?`)}
-              className="fixed top-4 right-4 z-[60] flex items-center gap-1.5 text-sm font-bold text-white px-3 py-2 rounded-full shadow-lg transition-all hover:scale-105"
-              style={{ background: 'linear-gradient(135deg,#7c3aed,#5b21b6)', boxShadow: '0 4px 15px rgba(124,58,237,0.4)' }}
+        <div className="fixed inset-0 z-50 bg-white flex flex-col">
+          {/* Toolbar — always visible */}
+          <div className="flex items-center justify-between px-4 py-3 border-b border-indigo-100 bg-white shadow-sm shrink-0 z-20">
+            <div className="flex items-center gap-3">
+              <div className="w-8 h-8 rounded-xl flex items-center justify-center" style={{ background: 'linear-gradient(135deg,#7c3aed,#5b21b6)' }}>
+                <FileText size={16} className="text-white" />
+              </div>
+              <h3 className="font-bold text-gray-900">{selectedExamSet}</h3>
+            </div>
+            <div className="flex items-center gap-2">
+              {onAskAI && (
+                <button
+                  onClick={() => onAskAI?.(`ฉันกำลังทำข้อสอบ ${selectedCategory} ชุด ${selectedExamSet} ช่วยอธิบายโจทย์และสอนเพิ่มเติมหน่อได้ไหม?`)}
+                  className="flex items-center gap-2 text-sm font-bold px-4 py-2 rounded-xl text-white transition-all hover:opacity-90"
+                  style={{ background: 'linear-gradient(135deg,#7c3aed,#5b21b6)', boxShadow: '0 2px 10px rgba(124,58,237,0.35)' }}
+                >
+                  <Bot size={16} /> ถาม AI Tutor
+                </button>
+              )}
+              <button
+                onClick={() => setIsFullscreen(false)}
+                className="flex items-center gap-2 text-sm font-bold bg-red-50 text-red-600 hover:bg-red-100 px-4 py-2 rounded-xl border border-red-200 transition-colors"
+              >
+                <ChevronLeft size={16} /> ออกเต็มจอ
+              </button>
+            </div>
+          </div>
+          <div className="flex-1 w-full bg-gray-50">
+            <object
+              data={pdfUrl}
+              type="application/pdf"
+              className="w-full h-full border-0"
             >
-              <Bot size={16} /> <span className="hidden sm:inline">ถาม AI</span>
-            </button>
-          )}
-
-          <object
-            data={pdfUrl}
-            type="application/pdf"
-            className="fixed inset-0 w-full h-full border-0 z-40"
-          >
-            <p>Your browser does not support PDFs. <a href={pdfUrl}>Download the PDF</a>.</p>
-          </object>
-        </>
+              <p>Your browser does not support PDFs. <a href={pdfUrl}>Download the PDF</a>.</p>
+            </object>
+          </div>
+        </div>
       );
     }
 
