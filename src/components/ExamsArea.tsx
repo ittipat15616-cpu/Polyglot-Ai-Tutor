@@ -167,7 +167,7 @@ export default function ExamsArea({ activeLang, onAskAI }: { activeLang: 'EN' | 
               )}
               <button
                 onClick={() => setIsFullscreen(false)}
-                className="flex items-center gap-2 text-sm px-4 py-2 rounded-xl btn-ghost"
+                className="flex items-center gap-2 text-sm font-bold bg-red-50 text-red-600 hover:bg-red-100 px-4 py-2 rounded-xl border border-red-200 transition-colors"
               >
                 <ChevronLeft size={16} /> ออกเต็มจอ
               </button>
