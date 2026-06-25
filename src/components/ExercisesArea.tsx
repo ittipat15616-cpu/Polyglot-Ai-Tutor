@@ -203,14 +203,31 @@ export default function ExercisesArea({ activeLang, onAskPDF }: ExercisesAreaPro
       if (selectedCNLevel === 'HSK1' || selectedCNLevel === 'HSK2') numLessons = 15;
       else if (selectedCNLevel === 'HSK3') numLessons = 20;
       else if (['HSK4', 'HSK5', 'HSK6'].includes(selectedCNLevel) && selectedCNBook) {
-        // Placeholder values: Assuming 10 lessons per book
-        // Will be updated when files are available
-        if (selectedCNBook === '1') {
-          startLesson = 1;
-          numLessons = 10; 
-        } else if (selectedCNBook === '2') {
-          startLesson = 11;
-          numLessons = 10;
+        if (selectedCNLevel === 'HSK4') {
+          if (selectedCNBook === '1') {
+            startLesson = 1;
+            numLessons = 10; 
+          } else if (selectedCNBook === '2') {
+            startLesson = 11;
+            numLessons = 10;
+          }
+        } else if (selectedCNLevel === 'HSK5') {
+          if (selectedCNBook === '1') {
+            startLesson = 1;
+            numLessons = 18; 
+          } else if (selectedCNBook === '2') {
+            startLesson = 19;
+            numLessons = 18;
+          }
+        } else {
+          // Placeholder values for HSK6
+          if (selectedCNBook === '1') {
+            startLesson = 1;
+            numLessons = 20; 
+          } else if (selectedCNBook === '2') {
+            startLesson = 21;
+            numLessons = 20;
+          }
         }
       }
 
