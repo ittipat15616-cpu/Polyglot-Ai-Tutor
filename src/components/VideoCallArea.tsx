@@ -464,9 +464,7 @@ export default function VideoCallArea({ activeLang, askWord, clearAskWord, askPd
            initialText += "สวัสดี เริ่มทักทายผู้เรียนได้เลย (ให้เห็นว่าผู้เรียนทำอะไรอยู่ผ่านกล้อง) และแนะนำตัวสั้นๆ";
         }
         
-        session.send({
-           clientContent: { turns: [{ role: "user", parts: [{ text: initialText }] }], turnComplete: true }
-        });
+        session.sendClientContent({ turns: [{ role: "user", parts: [{ text: initialText }] }], turnComplete: true });
 
         session.on("message", (message: any) => {
           // Audio Part
@@ -508,7 +506,7 @@ export default function VideoCallArea({ activeLang, askWord, clearAskWord, askPd
               }
             }
             if (toolResponses.length > 0) {
-              session.send({ toolResponse: { functionResponses: toolResponses } });
+              session.sendToolResponse({ functionResponses: toolResponses });
             }
           }
           
@@ -583,9 +581,7 @@ export default function VideoCallArea({ activeLang, askWord, clearAskWord, askPd
              if (!isMicOnRef.current || !sessionActive || !wsRef.current) return;
              const pcmData = e.inputBuffer.getChannelData(0);
              const base64 = pcmToBase64(pcmData);
-             (wsRef.current as any).send({
-                realtimeInput: { mediaChunks: [{ mimeType: "audio/pcm;rate=16000", data: base64 }] }
-             });
+             (wsRef.current as any).sendRealtimeInput([{ mimeType: "audio/pcm;rate=16000", data: base64 }]);
           };
         }
 
@@ -646,9 +642,7 @@ export default function VideoCallArea({ activeLang, askWord, clearAskWord, askPd
           }
 
           const base64JPEG = canvas.toDataURL('image/jpeg', quality).split(',')[1];
-          (wsRef.current as any).send({
-             realtimeInput: { mediaChunks: [{ mimeType: "image/jpeg", data: base64JPEG }] }
-          });
+          (wsRef.current as any).sendRealtimeInput([{ mimeType: "image/jpeg", data: base64JPEG }]);
         }, 300);
 
       } catch (e: any) {
