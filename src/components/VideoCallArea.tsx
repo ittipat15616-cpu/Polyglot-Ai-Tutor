@@ -236,6 +236,7 @@ export default function VideoCallArea({ activeLang, askWord, clearAskWord, askPd
       } else {
          // It's an image
          setDocPdfFile(null); // Clear PDF
+         setIsDocBoardOpen(true);
          const reader = new FileReader();
          reader.onload = (event) => {
            const result = event.target?.result as string;
@@ -264,6 +265,9 @@ export default function VideoCallArea({ activeLang, askWord, clearAskWord, askPd
   const activeAudioNodesRef = useRef<AudioBufferSourceNode[]>([]);
   const interruptedTimeRef = useRef(0);
   const silenceOscillatorRef = useRef<OscillatorNode | null>(null);
+  const reconnectAttemptsRef = useRef(0);
+  const lastAudioSentAtRef = useRef(0);
+  const lastFrameSentAtRef = useRef(0);
 
   // Play incoming audio
   const playAudioChunk = (base64Audio: string) => {
@@ -340,6 +344,7 @@ export default function VideoCallArea({ activeLang, askWord, clearAskWord, askPd
         await new Promise<void>((resolve, reject) => {
           socket.onopen = () => {
             if (!sessionActive) return;
+            reconnectAttemptsRef.current = 0;
             setIsLiveConnected(true);
             setAvatarState('listening');
             resolve();
@@ -394,7 +399,18 @@ export default function VideoCallArea({ activeLang, askWord, clearAskWord, askPd
         socket.onclose = () => {
           if (!sessionActive) return;
           setIsLiveConnected(false);
-          setAvatarState('idle');
+          setAvatarState('confused');
+          if (isCallingRef.current && reconnectAttemptsRef.current < 5) {
+            const delay = Math.min(1000 + reconnectAttemptsRef.current * 1000, 5000);
+            reconnectAttemptsRef.current += 1;
+            if (reconnectTimeoutRef.current) clearTimeout(reconnectTimeoutRef.current);
+            reconnectTimeoutRef.current = setTimeout(() => {
+              if (isCallingRef.current) setReconnectTrigger(prev => prev + 1);
+            }, delay);
+          } else if (isCallingRef.current) {
+            alert('AI connection stopped. Please end the call and start again.');
+            setIsCalling(false);
+          }
         };
 
         if (docExtractedTextRef.current && socket.readyState === WebSocket.OPEN) {
@@ -458,6 +474,14 @@ export default function VideoCallArea({ activeLang, askWord, clearAskWord, askPd
           processor.onaudioprocess = (e) => {
              if (!isMicOnRef.current || !sessionActive || !wsRef.current) return;
              const pcmData = e.inputBuffer.getChannelData(0);
+             let sumSquares = 0;
+             for (let i = 0; i < pcmData.length; i++) {
+               sumSquares += pcmData[i] * pcmData[i];
+             }
+             const rms = Math.sqrt(sumSquares / pcmData.length);
+             const now = Date.now();
+             if (rms < 0.012 && now - lastAudioSentAtRef.current < 900) return;
+             lastAudioSentAtRef.current = now;
              const base64 = pcmToBase64(pcmData);
              if (wsRef.current.readyState === WebSocket.OPEN) {
                wsRef.current.send(JSON.stringify({ audio: base64 }));
@@ -467,15 +491,17 @@ export default function VideoCallArea({ activeLang, askWord, clearAskWord, askPd
 
         frameInterval = setInterval(() => {
           if (!sessionActive || !wsRef.current) return;
+          const now = Date.now();
+          if (now - lastFrameSentAtRef.current < 1500) return;
           const hasScreen = screenVideoRef.current && screenVideoRef.current.videoWidth > 0 && screenStreamRef.current;
           const hasVideo = isVidOnRef.current && videoRef.current && videoRef.current.videoWidth > 0;
           const hasDoc = isDocBoardOpenRef.current && docImageRef.current;
           if (!hasScreen && !hasVideo && !hasDoc) return;
 
-          let targetWidth = 640;
-          let targetHeight = 480;
-          let quality = 0.6;
-          if (hasScreen || hasDoc) { targetWidth = 1280; targetHeight = 720; quality = 0.8; }
+          let targetWidth = 512;
+          let targetHeight = 384;
+          let quality = 0.55;
+          if (hasScreen || hasDoc) { targetWidth = 768; targetHeight = 432; quality = 0.6; }
           
           const canvas = document.createElement('canvas');
           canvas.width = hasDoc && (hasScreen || hasVideo) ? targetWidth * 2 : targetWidth;
@@ -524,8 +550,9 @@ export default function VideoCallArea({ activeLang, askWord, clearAskWord, askPd
           const base64JPEG = canvas.toDataURL('image/jpeg', quality).split(',')[1];
           if (wsRef.current.readyState === WebSocket.OPEN) {
             wsRef.current.send(JSON.stringify({ image: base64JPEG }));
+            lastFrameSentAtRef.current = now;
           }
-        }, 300);
+        }, 500);
 
       } catch (e: any) {
          console.error("Gemini init error", e);
@@ -538,6 +565,10 @@ export default function VideoCallArea({ activeLang, askWord, clearAskWord, askPd
 
     return () => {
       sessionActive = false;
+      if (reconnectTimeoutRef.current) {
+        clearTimeout(reconnectTimeoutRef.current);
+        reconnectTimeoutRef.current = null;
+      }
       if (frameInterval) clearInterval(frameInterval);
       if (processorRef.current) processorRef.current.disconnect();
       if (sourceRef.current) sourceRef.current.disconnect();

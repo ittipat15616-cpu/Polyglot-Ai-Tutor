@@ -197,6 +197,8 @@ async function startServer() {
 หากผู้เรียนบอกให้ทำ หรือเจาะจงขอให้ขึ้นข้อความ/ขึ้นเฉลยโจทย์/อธิบายลงบนรูปภาพเอกสารที่อัปโหลดไว้ ให้ใช้เครื่องมือ "update_doc_board" เพื่อพิมพ์ข้อความหรือคำอธิบายลงไปทับบนรูปภาพใน Doc Board นั้น ห้ามใช้เครื่องมือนี้หรือไปแก้ไข Doc Board หากผู้เรียนไม่ได้ระบุหรือบอกให้เจาะจงลงบนรูป/เอกสารอย่างชัดเจน (ถ้าให้อธิบายปกติให้ใช้ \`update_board\` บนกระดานเดิมเท่านั้น)${memoryContext}`;
 
     let session: any;
+    let sessionClosed = false;
+    let lastImageInputAt = 0;
     try {
       if (!ai) throw new Error("GenAI not initialized");
       console.log("Connecting to Gemini Live API...");
@@ -279,6 +281,7 @@ async function startServer() {
             }
           },
           onclose: (event: any) => {
+             sessionClosed = true;
              console.log("Gemini session closed", {
                code: event?.code,
                reason: event?.reason,
@@ -289,7 +292,11 @@ async function startServer() {
              }
           },
           onerror: (error: any) => {
+             sessionClosed = true;
              console.error("Gemini session error:", error instanceof Error ? error.message : "Unknown error");
+             if (clientWs.readyState === 1) {
+                 clientWs.send(JSON.stringify({ type: 'error', message: 'AI live session disconnected. Reconnecting...' }));
+             }
              if (clientWs.readyState === 1) {
                  clientWs.close();
              }
@@ -427,9 +434,12 @@ async function startServer() {
     clientWs.on("message", (data) => {
       try {
         const parsed = JSON.parse(data.toString());
-        const { audio, image, type, text } = parsed;
+        let { audio, image, type, text } = parsed;
+        if (typeof text === 'string' && text.length > 12000) {
+          text = `${text.slice(0, 12000)}\n\n[Document text truncated for live context]`;
+        }
         
-        if (type === 'doc_context' && text && session) {
+        if (type === 'doc_context' && text && session && !sessionClosed) {
            try {
              if (session.sendClientContent) {
                session.sendClientContent({
@@ -447,7 +457,7 @@ async function startServer() {
            }
         }
         
-        if (audio && session) {
+        if (audio && session && !sessionClosed) {
           try {
             session.sendRealtimeInput({
               audio: { mimeType: "audio/pcm;rate=16000", data: audio }
@@ -456,8 +466,11 @@ async function startServer() {
             console.error("Error sending audio to Gemini:", e);
           }
         }
-        if (image && session) {
+        if (image && session && !sessionClosed) {
           try {
+            const now = Date.now();
+            if (now - lastImageInputAt < 1200) return;
+            lastImageInputAt = now;
             session.sendRealtimeInput({
               media: { mimeType: "image/jpeg", data: image }
             });
