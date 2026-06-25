@@ -584,7 +584,7 @@ export default function VideoCallArea({ activeLang, askWord, clearAskWord, askPd
              if (!isMicOnRef.current || !sessionActive || !wsRef.current) return;
              const pcmData = e.inputBuffer.getChannelData(0);
              const base64 = pcmToBase64(pcmData);
-             (wsRef.current as any).send(JSON.stringify({ realtimeInput: { mediaChunks: [{ mimeType: "audio/pcm;rate=16000", data: base64 }] } }));
+             (wsRef.current as any).sendRealtimeInput({ media: [{ mimeType: "audio/pcm;rate=16000", data: base64 }] });
           };
         }
 
@@ -645,7 +645,7 @@ export default function VideoCallArea({ activeLang, askWord, clearAskWord, askPd
           }
 
           const base64JPEG = canvas.toDataURL('image/jpeg', quality).split(',')[1];
-          (wsRef.current as any).send(JSON.stringify({ realtimeInput: { mediaChunks: [{ mimeType: "image/jpeg", data: base64JPEG }] } }));
+          (wsRef.current as any).sendRealtimeInput({ media: [{ mimeType: "image/jpeg", data: base64JPEG }] });
         }, 300);
 
       } catch (e: any) {

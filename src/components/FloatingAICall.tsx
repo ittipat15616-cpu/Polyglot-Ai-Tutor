@@ -160,7 +160,7 @@ export default function FloatingAICall({ canvasDataUrl, onToolCall, onClose }: F
           if (!isMicOnRef.current || !sessionActive || !wsSession) return;
           const pcmData = e.inputBuffer.getChannelData(0);
           const base64 = pcmToBase64(pcmData);
-          wsSession.send(JSON.stringify({ realtimeInput: { mediaChunks: [{ mimeType: "audio/pcm;rate=16000", data: base64 }] } }));
+          wsSession.sendRealtimeInput({ media: [{ mimeType: "audio/pcm;rate=16000", data: base64 }] });
         };
 
         // Start screen sending loop
@@ -168,7 +168,7 @@ export default function FloatingAICall({ canvasDataUrl, onToolCall, onClose }: F
           if (sessionActive && canvasUrlRef.current && wsSession) {
              const base64JPEG = canvasUrlRef.current.split(',')[1];
              if (base64JPEG) {
-               wsSession.send(JSON.stringify({ realtimeInput: { mediaChunks: [{ mimeType: "image/jpeg", data: base64JPEG }] } }));
+               wsSession.sendRealtimeInput({ media: [{ mimeType: "image/jpeg", data: base64JPEG }] });
              }
           }
         }, 1000); // Send screen every 1 sec
