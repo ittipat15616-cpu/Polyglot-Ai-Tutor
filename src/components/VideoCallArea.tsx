@@ -335,13 +335,13 @@ export default function VideoCallArea({ activeLang, askWord, clearAskWord, askPd
         const ai = new GoogleGenAI({ apiKey });
         
         let voiceName = 'Charon';
-        let personaDetails = `คุณคือติวเตอร์สอนภาษาอังกฤษ AI ชื่อ "Mr.Pe" เป็นผู้ชายหล่อเท่ อายุประมาณ 25 ปี สอนชิวๆ สบายๆ ไม่ดุนักเรียนเลย สอนสนุกน่าฟัง มีความใจดี อธิบายได้ละเอียดและเข้าใจง่าย และมีความติดตลกฮาๆเล็กน้อย`;
+        let personaDetails = `คุณคือติวเตอร์สอนภาษาอังกฤษ AI ชื่อ "Mr.Pe" เป็นผู้ชายหล่อเท่ อายุประมาณ 25 ปี สอนชิวๆ สบายๆ ไม่ดุนักเรียนเลย สอนสนุกน่าฟัง มีความใจดี อธิบายได้ละเอียดและเข้าใจง่าย และมีความติดตลกฮาๆเล็กน้อย หน้าที่คุณคือสอนภาษาอังกฤษเท่านั้น ห้ามสอนภาษาจีนหรือภาษาอื่นเด็ดขาด และอย่าสับสนกับครูสอนภาษาอื่น`;
         if (activeLang === 'CN') {
           voiceName = 'Aoede';
-          personaDetails = `คุณคือติวเตอร์สอนภาษาจีน AI ชื่อ "李老师" (Li Laoshi) เป็นคุณครูผู้หญิงวัยประมาณ 30 ปีที่มีความน่ารักมากๆ อบอุ่น อารมณ์ดี น้ำเสียงร่าเริงสดใส อ่อนหวานและใจดีไม่ดุ แต่ในตอนสอนมีความจริงจังและมุ่งมั่น`;
+          personaDetails = `คุณคือติวเตอร์สอนภาษาจีน AI ชื่อ "李老师" (Li Laoshi) เป็นคุณครูผู้หญิงวัยประมาณ 30 ปีที่มีความน่ารักมากๆ อบอุ่น อารมณ์ดี น้ำเสียงร่าเริงสดใส อ่อนหวานและใจดีไม่ดุ แต่ในตอนสอนมีความจริงจังและมุ่งมั่น หน้าที่คุณคือสอนภาษาจีนเท่านั้น ห้ามสอนภาษาอังกฤษหรือภาษาอื่นเด็ดขาด และอย่าสับสนกับครูสอนภาษาอื่น`;
         } else if (activeLang === 'TH') {
           voiceName = 'Kore';
-          personaDetails = `คุณคือติวเตอร์สอนภาษาไทย AI ชื่อ "ครูเพ็ญศรี" เป็นคุณครูที่ชอบทำตัวเจ้าระเบียบ มีดุนักเรียนอยู่บ้าง แต่ที่จริงแล้วเป็นคนที่ตลกและฮาที่สุดในบรรดาครูทุกคน ถ้านักเรียนคอยตอบหรือตั้งใจเรียนคุณจะชอบมากจนกลายเป็นคนตลกๆเฮฮาไปเลยในเวลาที่ไม่ได้สอนแบบจริงจัง แต่ถ้านักเรียนตั้งใจเรียนคุณก็จะสอนแบบจริงจังและเข้มข้น`;
+          personaDetails = `คุณคือติวเตอร์สอนภาษาไทย AI ชื่อ "ครูเพ็ญศรี" เป็นคุณครูที่ชอบทำตัวเจ้าระเบียบ มีดุนักเรียนอยู่บ้าง แต่ที่จริงแล้วเป็นคนที่ตลกและฮาที่สุดในบรรดาครูทุกคน ถ้านักเรียนคอยตอบหรือตั้งใจเรียนคุณจะชอบมากจนกลายเป็นคนตลกๆเฮฮาไปเลยในเวลาที่ไม่ได้สอนแบบจริงจัง แต่ถ้านักเรียนตั้งใจเรียนคุณก็จะสอนแบบจริงจังและเข้มข้น หน้าที่คุณคือสอนภาษาไทยเท่านั้น`;
         }
 
         const systemInstruction = `${personaDetails}
@@ -584,7 +584,7 @@ export default function VideoCallArea({ activeLang, askWord, clearAskWord, askPd
              if (!isMicOnRef.current || !sessionActive || !wsRef.current) return;
              const pcmData = e.inputBuffer.getChannelData(0);
              const base64 = pcmToBase64(pcmData);
-             (wsRef.current as any).sendRealtimeInput([{ mimeType: "audio/pcm;rate=16000", data: base64 }]);
+             (wsRef.current as any).send(JSON.stringify({ realtimeInput: { mediaChunks: [{ mimeType: "audio/pcm;rate=16000", data: base64 }] } }));
           };
         }
 
@@ -645,7 +645,7 @@ export default function VideoCallArea({ activeLang, askWord, clearAskWord, askPd
           }
 
           const base64JPEG = canvas.toDataURL('image/jpeg', quality).split(',')[1];
-          (wsRef.current as any).sendRealtimeInput([{ mimeType: "image/jpeg", data: base64JPEG }]);
+          (wsRef.current as any).send(JSON.stringify({ realtimeInput: { mediaChunks: [{ mimeType: "image/jpeg", data: base64JPEG }] } }));
         }, 300);
 
       } catch (e: any) {
