@@ -442,33 +442,9 @@ export default function VideoCallArea({ activeLang, askWord, clearAskWord, askPd
                 }
               ]
             }]
-          }
-        });
-
-        if (!sessionActive) {
-          // If unmounted while connecting
-          session.sendClientContent = undefined; // effectively discard
-          return;
-        }
-
-        wsRef.current = session as any;
-
-        // Provide doc context and initial greeting if needed
-        let initialText = "";
-        if (docExtractedTextRef.current) {
-           initialText += `บริบทเนื้อหาในกระดานของนักเรียนตอนนี้: ${docExtractedTextRef.current}\n\n`;
-        }
-        if (askWord) {
-           initialText += `ผู้เรียนต้องการถามและเรียนรู้เกี่ยวกับคำศัพท์นี้: "${askWord}" ให้เริ่มทักทายสั้นๆ และอธิบายคำศัพท์นี้ให้ฟังทันที`;
-        } else {
-           initialText += "สวัสดี เริ่มทักทายผู้เรียนได้เลย (ให้เห็นว่าผู้เรียนทำอะไรอยู่ผ่านกล้อง) และแนะนำตัวสั้นๆ";
-        }
-        
-        session.sendClientContent({ turns: [{ role: "user", parts: [{ text: initialText }] }], turnComplete: true });
-
-        (async () => {
-          try {
-            for await (const message of session.receive()) {
+          },
+          callbacks: {
+            onmessage: (message: any) => {
               // Audio Part
               const parts = message.serverContent?.modelTurn?.parts;
               if (parts) {
@@ -523,10 +499,31 @@ export default function VideoCallArea({ activeLang, askWord, clearAskWord, askPd
                 }
               }
             }
-          } catch (e) {
-            console.error("Receive loop error:", e);
           }
-        })();
+        });
+
+        if (!sessionActive) {
+          // If unmounted while connecting
+          session.sendClientContent = undefined; // effectively discard
+          return;
+        }
+
+        wsRef.current = session as any;
+
+        // Provide doc context and initial greeting if needed
+        let initialText = "";
+        if (docExtractedTextRef.current) {
+           initialText += `บริบทเนื้อหาในกระดานของนักเรียนตอนนี้: ${docExtractedTextRef.current}\n\n`;
+        }
+        if (askWord) {
+           initialText += `ผู้เรียนต้องการถามและเรียนรู้เกี่ยวกับคำศัพท์นี้: "${askWord}" ให้เริ่มทักทายสั้นๆ และอธิบายคำศัพท์นี้ให้ฟังทันที`;
+        } else {
+           initialText += "สวัสดี เริ่มทักทายผู้เรียนได้เลย (ให้เห็นว่าผู้เรียนทำอะไรอยู่ผ่านกล้อง) และแนะนำตัวสั้นๆ";
+        }
+        
+        session.sendClientContent({ turns: [{ role: "user", parts: [{ text: initialText }] }], turnComplete: true });
+
+
 
         // ------------------
         // Setup Media 

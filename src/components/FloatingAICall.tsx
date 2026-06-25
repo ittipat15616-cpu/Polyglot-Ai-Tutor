@@ -57,6 +57,56 @@ export default function FloatingAICall({ canvasDataUrl, onToolCall, onClose }: F
                  { name: "clear_exam_drawings", description: "Clear drawings." }
                ]
              }]
+          },
+          callbacks: {
+            onmessage: (message: any) => {
+              // Tool Call handling
+              if (message.toolCall && message.toolCall.functionCalls) {
+                const toolResponses: any[] = [];
+                for (const call of message.toolCall.functionCalls) {
+                  if (call.name === 'draw_on_exam' || call.name === 'clear_exam_drawings') {
+                    onToolCall(call.name, call.args);
+                    toolResponses.push({ id: call.id, name: call.name, response: { result: "Success" } });
+                  }
+                }
+                if (toolResponses.length > 0) {
+                  session.sendToolResponse({ functionResponses: toolResponses });
+                }
+              }
+
+              // Audio playback handling
+              const parts = message.serverContent?.modelTurn?.parts;
+              if (parts) {
+                for (const part of parts) {
+                   if (part.inlineData?.data) {
+                      const base64 = part.inlineData.data;
+                      const binaryStr = atob(base64);
+                      const len = binaryStr.length;
+                      const bytes = new Uint8Array(len);
+                      for (let i = 0; i < len; i++) {
+                          bytes[i] = binaryStr.charCodeAt(i);
+                      }
+                      
+                      if (!audioCtxRef.current) return;
+                      const audioData = new Int16Array(bytes.buffer);
+                      const float32Data = new Float32Array(audioData.length);
+                      for (let i = 0; i < audioData.length; i++) {
+                        float32Data[i] = audioData[i] / 32768.0;
+                      }
+                      const audioBuffer = audioCtxRef.current.createBuffer(1, float32Data.length, 24000);
+                      audioBuffer.getChannelData(0).set(float32Data);
+                      const source = audioCtxRef.current.createBufferSource();
+                      source.buffer = audioBuffer;
+                      source.connect(audioCtxRef.current.destination);
+                      
+                      const currentTime = audioCtxRef.current.currentTime;
+                      if (nextPlayTime < currentTime) nextPlayTime = currentTime;
+                      source.start(nextPlayTime);
+                      nextPlayTime += audioBuffer.duration;
+                   }
+                }
+              }
+            }
           }
         });
 
@@ -72,54 +122,6 @@ export default function FloatingAICall({ canvasDataUrl, onToolCall, onClose }: F
         setIsConnected(true);
         setIsConnecting(false);
 
-        session.on('message', async (message: any) => {
-          // Tool Call handling
-          if (message.toolCall && message.toolCall.functionCalls) {
-            const toolResponses: any[] = [];
-            for (const call of message.toolCall.functionCalls) {
-              if (call.name === 'draw_on_exam' || call.name === 'clear_exam_drawings') {
-                onToolCall(call.name, call.args);
-                toolResponses.push({ id: call.id, name: call.name, response: { result: "Success" } });
-              }
-            }
-            if (toolResponses.length > 0) {
-              session.sendToolResponse({ functionResponses: toolResponses });
-            }
-          }
-
-          // Audio playback handling
-          const parts = message.serverContent?.modelTurn?.parts;
-          if (parts) {
-            for (const part of parts) {
-               if (part.inlineData?.data) {
-                  const base64 = part.inlineData.data;
-                  const binaryStr = atob(base64);
-                  const len = binaryStr.length;
-                  const bytes = new Uint8Array(len);
-                  for (let i = 0; i < len; i++) {
-                      bytes[i] = binaryStr.charCodeAt(i);
-                  }
-                  
-                  if (!audioCtxRef.current) return;
-                  const audioData = new Int16Array(bytes.buffer);
-                  const float32Data = new Float32Array(audioData.length);
-                  for (let i = 0; i < audioData.length; i++) {
-                    float32Data[i] = audioData[i] / 32768.0;
-                  }
-                  const audioBuffer = audioCtxRef.current.createBuffer(1, float32Data.length, 24000);
-                  audioBuffer.getChannelData(0).set(float32Data);
-                  const source = audioCtxRef.current.createBufferSource();
-                  source.buffer = audioBuffer;
-                  source.connect(audioCtxRef.current.destination);
-                  
-                  const currentTime = audioCtxRef.current.currentTime;
-                  if (nextPlayTime < currentTime) nextPlayTime = currentTime;
-                  source.start(nextPlayTime);
-                  nextPlayTime += audioBuffer.duration;
-               }
-            }
-          }
-        });
 
         // Setup Media for sending
         const stream = await navigator.mediaDevices.getUserMedia({ audio: { echoCancellation: true, noiseSuppression: true } });
