@@ -1,4 +1,3 @@
-import { GoogleGenAI, Modality, Type as GenAIType } from '@google/genai';
 import React, { useState, useEffect, useRef, Suspense } from 'react';
 import { Mic, MicOff, Video, VideoOff, PhoneOff, Phone, Edit3, Type, Settings2, PlayCircle, Loader2, RefreshCcw, MonitorUp, MonitorOff, Plus, Minus, ImagePlus, Trash2, ChevronLeft, ChevronRight, Maximize2, Minimize2 } from 'lucide-react';
 import { motion, AnimatePresence } from 'motion/react';
@@ -325,206 +324,82 @@ export default function VideoCallArea({ activeLang, askWord, clearAskWord, askPd
 
     async function initGemini() {
       try {
-        const apiKey = import.meta.env.VITE_GEMINI_API_KEY;
-        if (!apiKey) {
-           alert("ไม่พบ VITE_GEMINI_API_KEY ใน Environment Variables");
-           setIsCalling(false);
-           return;
-        }
-
-        const ai = new GoogleGenAI({ apiKey });
-        
-        let voiceName = 'Charon';
-        let personaDetails = `คุณคือติวเตอร์สอนภาษาอังกฤษ AI ชื่อ "Mr.Pe" เป็นผู้ชายหล่อเท่ อายุประมาณ 25 ปี สอนชิวๆ สบายๆ ไม่ดุนักเรียนเลย สอนสนุกน่าฟัง มีความใจดี อธิบายได้ละเอียดและเข้าใจง่าย และมีความติดตลกฮาๆเล็กน้อย หน้าที่คุณคือสอนภาษาอังกฤษเท่านั้น ห้ามสอนภาษาจีนหรือภาษาอื่นเด็ดขาด และอย่าสับสนกับครูสอนภาษาอื่น`;
-        if (activeLang === 'CN') {
-          voiceName = 'Aoede';
-          personaDetails = `คุณคือติวเตอร์สอนภาษาจีน AI ชื่อ "李老师" (Li Laoshi) เป็นคุณครูผู้หญิงวัยประมาณ 30 ปีที่มีความน่ารักมากๆ อบอุ่น อารมณ์ดี น้ำเสียงร่าเริงสดใส อ่อนหวานและใจดีไม่ดุ แต่ในตอนสอนมีความจริงจังและมุ่งมั่น หน้าที่คุณคือสอนภาษาจีนเท่านั้น ห้ามสอนภาษาอังกฤษหรือภาษาอื่นเด็ดขาด และอย่าสับสนกับครูสอนภาษาอื่น`;
-        } else if (activeLang === 'TH') {
-          voiceName = 'Kore';
-          personaDetails = `คุณคือติวเตอร์สอนภาษาไทย AI ชื่อ "ครูเพ็ญศรี" เป็นคุณครูที่ชอบทำตัวเจ้าระเบียบ มีดุนักเรียนอยู่บ้าง แต่ที่จริงแล้วเป็นคนที่ตลกและฮาที่สุดในบรรดาครูทุกคน ถ้านักเรียนคอยตอบหรือตั้งใจเรียนคุณจะชอบมากจนกลายเป็นคนตลกๆเฮฮาไปเลยในเวลาที่ไม่ได้สอนแบบจริงจัง แต่ถ้านักเรียนตั้งใจเรียนคุณก็จะสอนแบบจริงจังและเข้มข้น หน้าที่คุณคือสอนภาษาไทยเท่านั้น`;
-        }
-
-        const systemInstruction = `${personaDetails}
-คุณมีความรอบรู้และมีฐานข้อมูลของข้อสอบ HSK ตั้งแต่ระดับ 1-6 ทุกชุดอย่างครบถ้วน (ตัวอย่างเช่น รหัสข้อสอบ H10901, H41003 ฯลฯ) 
-เมื่อผู้เรียนแจ้งว่ากำลังทำข้อสอบรหัสอะไร และอยู่ข้อที่เท่าไหร่ ให้คุณดึงข้อมูลโจทย์ข้อนั้นจากความจำของคุณเพื่อพูดคุย อธิบาย สอน หรือเฉลยให้ผู้เรียนได้ทันที แม้ว่าผู้เรียนจะไม่ได้เปิดกล้องหรือแชร์หน้าจอข้อสอบให้คุณดูก็ตาม
-คุณสามารถมองเห็นผู้เรียนได้ผ่านกล้องวิดีโอ (ถ้าเปิดกล้อง) และตอบสนองต่อหน้าตา ท่าทางของผู้เรียนได้
-สำคัญมาก: หากผู้เรียนต้องการให้วาดหรือเขียนบนหน้าจอ (เฉพาะกรณีที่ระบบรองรับ) คุณสามารถขีดเขียนลงบนหน้าจอของผู้เรียนได้โดยใช้เครื่องมือ draw_on_exam
-คุณสามารถไฮไลท์ (highlight), เขียนคำแปลหรืออธิบาย (text) หรือวงกลมเฉลย (circle) ได้ แต่อย่าเขียนทับตัวหนังสือเดิมในข้อสอบ
-หากต้องการลบสิ่งที่คุณเขียนไว้ ให้เรียกใช้ clear_exam_drawings
-คุณสามารถจดจำและทักทายสิ่งที่ผู้เรียนทำ ถืออยู่ ชูนิ้ว สีหน้า หรือสิ่งที่อยู่รอบตัวได้อย่างเป็นธรรมชาติ และสามารถชมเชยโต้ตอบจากสิ่งที่คุณเห็นได้ทันที
-จดจำข้อมูลของผู้เรียนและสิ่งที่ผู้เรียนพูด เพื่อให้ตอบสนองได้อย่างต่อเนื่องและแนบเนียน ไม่มีสะดุด
-หากผู้เรียนพูดแทรกในขณะที่คุณกำลังพูดอยู่ ให้หยุดพูดทันทีและตั้งใจฟังสิ่งที่ผู้เรียนพูด
-เวลาสอนอธิบายไวยากรณ์ บทสนทนา กลอน หรือเรื่องราวยาวๆ คุณสามารถอธิบายได้ต่อเนื่องเป็นประโยคยาวๆ หรือเป็นเรื่องราวเล่ายาวๆได้เลยโดยไม่ต้องหยุดรอ
-หากผู้เรียนต้องการให้อ่านหน้ากระดาษยาวๆ หรือเล่าเรื่องยาวๆ คุณสามารถพูดและอ่านได้อย่างเต็มที่ยาวๆ แบบไม่มีจำกัดความยาว (Unlimited Speech Length) เล่าหรืออ่านให้จบครบถ้วนโดยไม่ต้องหยุดกลางคันหรือกลัวว่าจะพูดเยอะไป
-ในขณะที่สนทนา หากคุณได้รับข้อมูลใหม่ที่สำคัญเกี่ยวกับผู้เรียน (เช่น ชื่อ สิ่งที่ชอบ สิ่งที่อยากเรียน หรือสิ่งที่มองเห็นผ่านกล้อง) ให้เรียกใช้ function/tool ชื่อ "memorize_info" เพื่อบันทึกข้อมูลนั้นไว้เสมอ
-คุณมีหน้าจอแสดงผล "กระดาน" ให้ผู้เรียนดูตลอดเวลา ดังนั้นเวลาอธิบายคำศัพท์ ไวยากรณ์ หรือยกตัวอย่างประโยค คุณต้องเรียกใช้ function/tool ชื่อ "update_board" เสมอ เพื่อให้การสอนเห็นภาพ
-ห้ามลืมเรียกใช้ update_board ในระหว่างการอธิบายเด็ดขาดเพื่อให้ผู้เรียนเห็นภาพชัดเจน
-สำคัญ: เวลาใช้เครื่องมือ update_board ให้รวมประโยคยาวๆหรือกลอนยาวๆไว้ใน item เดียว ห้ามแยกเป็นหลาย items เด็ดขาด
-นอกจากนี้ ผู้เรียนมีกระดานแผ่นที่สองเรียกว่า "Doc Board" (รูปภาพหรือเอกสารที่ผู้เรียนอัปโหลด) ซึ่งคุณจะเห็นภาพกระดานนี้ซ้อนอยู่ในวิดีโอ (ทางซ้ายมือ)
-หากผู้เรียนบอกให้ทำ หรือเจาะจงขอให้ขึ้นข้อความ/ขึ้นเฉลยโจทย์/อธิบายลงบนรูปภาพเอกสารที่อัปโหลดไว้ ให้ใช้เครื่องมือ "update_doc_board" เพื่อพิมพ์ข้อความหรือคำอธิบายลงไปทับบนรูปภาพใน Doc Board นั้น ห้ามใช้เครื่องมือนี้หรือไปแก้ไข Doc Board หากผู้เรียนไม่ได้ระบุหรือบอกให้เจาะจงลงบนรูป/เอกสารอย่างชัดเจน`;
-
         activeAudioNodesRef.current = [];
 
-        const session = await ai.live.connect({
-          model: "gemini-2.5-flash-native-audio-latest",
-          config: {
-            responseModalities: [Modality.AUDIO],
-            systemInstruction: { parts: [{ text: systemInstruction }] },
-            speechConfig: { voiceConfig: { prebuiltVoiceConfig: { voiceName } } },
-            tools: [{
-              functionDeclarations: [
-                {
-                  name: "draw_on_exam",
-                  description: "Draw on the exam PDF page to highlight text, circle an answer, or write an explanation.",
-                  parameters: {
-                    type: GenAIType.OBJECT,
-                    properties: {
-                      type: { type: GenAIType.STRING, description: "Type of drawing: 'circle', 'highlight', or 'text'." },
-                      x: { type: GenAIType.NUMBER, description: "X coordinate percentage (0-100)" },
-                      y: { type: GenAIType.NUMBER, description: "Y coordinate percentage (0-100)" },
-                      text: { type: GenAIType.STRING, description: "Text to write (only for type='text')" },
-                      width: { type: GenAIType.NUMBER, description: "Width percentage (for circle or highlight)" },
-                      height: { type: GenAIType.NUMBER, description: "Height percentage (for highlight)" },
-                      color: { type: GenAIType.STRING, description: "Optional hex color or CSS color name" }
-                    },
-                    required: ["type", "x", "y"]
-                  }
-                },
-                {
-                  name: "clear_exam_drawings",
-                  description: "Clear all drawings from the exam page."
-                },
-                {
-                  name: "update_board",
-                  description: "Update the shared whiteboard screen to display vocabulary, grammar, sentences, or poems to the user.",
-                  parameters: {
-                    type: GenAIType.OBJECT,
-                    properties: {
-                      items: {
-                        type: GenAIType.ARRAY,
-                        description: "List of items to display on the board. MAX 3 ITEMS.",
-                        items: {
-                          type: GenAIType.OBJECT,
-                          properties: {
-                            word: { type: GenAIType.STRING },
-                            pinyin: { type: GenAIType.STRING },
-                            meaning: { type: GenAIType.STRING },
-                            example: { type: GenAIType.STRING }
-                          },
-                          required: ["word", "meaning"]
-                        }
-                      }
-                    },
-                    required: ["items"]
-                  }
-                },
-                {
-                  name: "update_doc_board",
-                  description: "Update the Document Board (which shows user's uploaded image/file) to add overlay text, solutions, or explanations.",
-                  parameters: {
-                    type: GenAIType.OBJECT,
-                    properties: {
-                      overlayText: { type: GenAIType.STRING, description: "The text to overlay on the document." }
-                    },
-                    required: ["overlayText"]
-                  }
-                },
-                {
-                  name: "memorize_info",
-                  description: "Memorize important details about the user.",
-                  parameters: {
-                     type: GenAIType.OBJECT,
-                     properties: {
-                        memoryText: { type: GenAIType.STRING }
-                     },
-                     required: ["memoryText"]
-                  }
-                }
-              ]
-            }]
-          },
-          callbacks: {
-            onmessage: (message: any) => {
-              // Audio Part
-              const parts = message.serverContent?.modelTurn?.parts;
-              if (parts) {
-                for (const part of parts) {
-                  if (part.inlineData?.data) {
-                    playAudioChunk(part.inlineData.data);
-                    setIsSpeaking(true);
-                    setAvatarState('talking');
-                    clearTimeout((session as any)._speakTimer);
-                    (session as any)._speakTimer = setTimeout(() => {
-                      setIsSpeaking(false);
-                      setAvatarState('listening');
-                    }, 2500);
-                  }
-                }
-              }
+        const langName = activeLang === 'CN' ? 'Chinese' : activeLang === 'TH' ? 'Thai' : 'English';
+        const protocol = window.location.protocol === 'https:' ? 'wss' : 'ws';
+        const params = new URLSearchParams({
+          lang: langName,
+          clientId: clientIdRef.current,
+        });
+        if (askWord) params.set('askWord', askWord);
 
-              // Tool Call
-              if (message.toolCall && message.toolCall.functionCalls) {
-                const toolResponses: any[] = [];
-                for (const call of message.toolCall.functionCalls) {
-                  if (call.name === 'update_board') {
-                    setBoardData(call.args as any);
-                    setAvatarState('agreeing');
-                    toolResponses.push({ id: call.id, name: call.name, response: { result: "Board successfully updated" } });
-                  } else if (call.name === 'update_doc_board') {
-                    setDocOverlayText((call.args as any).overlayText || '');
-                    if (!isDocBoardOpen) setIsDocBoardOpen(true);
-                    toolResponses.push({ id: call.id, name: call.name, response: { result: "Doc Board successfully updated" } });
-                  } else if (call.name === 'memorize_info') {
-                    toolResponses.push({ id: call.id, name: call.name, response: { result: "Memorized" } });
-                  } else if (call.name === 'draw_on_exam') {
-                    // Not supported fully in VideoCall alone without ExamsArea link, but we simulate success
-                    toolResponses.push({ id: call.id, name: call.name, response: { result: "Drew on exam" } });
-                  } else if (call.name === 'clear_exam_drawings') {
-                    toolResponses.push({ id: call.id, name: call.name, response: { result: "Cleared" } });
-                  }
-                }
-                if (toolResponses.length > 0) {
-                  session.sendToolResponse({ functionResponses: toolResponses });
-                }
-              }
-              
-              if (message.serverContent?.interrupted) {
-                interruptedTimeRef.current = Date.now();
-                activeAudioNodesRef.current.forEach(node => {
-                   try { node.stop(); } catch (e) {}
-                });
-                activeAudioNodesRef.current = [];
-                if (outputAudioCtxRef.current) {
-                   nextStartTimeRef.current = outputAudioCtxRef.current.currentTime;
-                }
-              }
-            }
-          }
+        const socket = new WebSocket(`${protocol}://${window.location.host}/live?${params.toString()}`);
+        wsRef.current = socket;
+
+        await new Promise<void>((resolve, reject) => {
+          socket.onopen = () => {
+            if (!sessionActive) return;
+            setIsLiveConnected(true);
+            setAvatarState('listening');
+            resolve();
+          };
+          socket.onerror = () => reject(new Error('?????????????????? AI server ???'));
         });
 
-        if (!sessionActive) {
-          // If unmounted while connecting
-          session.sendClientContent = undefined; // effectively discard
-          return;
+        socket.onmessage = (event) => {
+          let message: any;
+          try {
+            message = JSON.parse(event.data);
+          } catch (e) {
+            console.error('Invalid AI message', e);
+            return;
+          }
+
+          if (message.audio) {
+            playAudioChunk(message.audio);
+            setIsSpeaking(true);
+            setAvatarState('talking');
+            clearTimeout((socket as any)._speakTimer);
+            (socket as any)._speakTimer = setTimeout(() => {
+              setIsSpeaking(false);
+              setAvatarState('listening');
+            }, 2500);
+          }
+
+          if (message.type === 'board_update') {
+            setBoardData(message.data as any);
+            setAvatarState('agreeing');
+          } else if (message.type === 'doc_board_update') {
+            setDocOverlayText(message.data?.overlayText || '');
+            if (!isDocBoardOpenRef.current) setIsDocBoardOpen(true);
+          } else if (message.type === 'error') {
+            console.error('AI server error:', message.message);
+            alert(message.message || 'AI connection error');
+            setIsCalling(false);
+          }
+
+          if (message.interrupted) {
+            interruptedTimeRef.current = Date.now();
+            activeAudioNodesRef.current.forEach(node => {
+              try { node.stop(); } catch (e) {}
+            });
+            activeAudioNodesRef.current = [];
+            if (outputAudioCtxRef.current) {
+              nextStartTimeRef.current = outputAudioCtxRef.current.currentTime;
+            }
+          }
+        };
+
+        socket.onclose = () => {
+          if (!sessionActive) return;
+          setIsLiveConnected(false);
+          setAvatarState('idle');
+        };
+
+        if (docExtractedTextRef.current && socket.readyState === WebSocket.OPEN) {
+          socket.send(JSON.stringify({ type: 'doc_context', text: docExtractedTextRef.current }));
         }
-
-        wsRef.current = session as any;
-
-        // Provide doc context and initial greeting if needed
-        let initialText = "";
-        if (docExtractedTextRef.current) {
-           initialText += `บริบทเนื้อหาในกระดานของนักเรียนตอนนี้: ${docExtractedTextRef.current}\n\n`;
-        }
-        if (askWord) {
-           initialText += `ผู้เรียนต้องการถามและเรียนรู้เกี่ยวกับคำศัพท์นี้: "${askWord}" ให้เริ่มทักทายสั้นๆ และอธิบายคำศัพท์นี้ให้ฟังทันที`;
-        } else {
-           initialText += "สวัสดี เริ่มทักทายผู้เรียนได้เลย (ให้เห็นว่าผู้เรียนทำอะไรอยู่ผ่านกล้อง) และแนะนำตัวสั้นๆ";
-        }
-        
-        session.sendClientContent({ turns: [{ role: "user", parts: [{ text: initialText }] }], turnComplete: true });
-
-
-
         // ------------------
         // Setup Media 
         // ------------------
@@ -584,7 +459,9 @@ export default function VideoCallArea({ activeLang, askWord, clearAskWord, askPd
              if (!isMicOnRef.current || !sessionActive || !wsRef.current) return;
              const pcmData = e.inputBuffer.getChannelData(0);
              const base64 = pcmToBase64(pcmData);
-             (wsRef.current as any).sendRealtimeInput({ media: [{ mimeType: "audio/pcm;rate=16000", data: base64 }] });
+             if (wsRef.current.readyState === WebSocket.OPEN) {
+               wsRef.current.send(JSON.stringify({ audio: base64 }));
+             }
           };
         }
 
@@ -641,11 +518,13 @@ export default function VideoCallArea({ activeLang, askWord, clearAskWord, askPd
              if (drawH > targetHeight) { drawH = targetHeight; drawW = targetHeight * aspect; }
              const dx = currentXOffset + (targetWidth - drawW) / 2;
              const dy = (targetHeight - drawH) / 2;
-             ctx.drawImage(video, dx, drawW, drawH);
+             ctx.drawImage(video, dx, dy, drawW, drawH);
           }
 
           const base64JPEG = canvas.toDataURL('image/jpeg', quality).split(',')[1];
-          (wsRef.current as any).sendRealtimeInput({ media: [{ mimeType: "image/jpeg", data: base64JPEG }] });
+          if (wsRef.current.readyState === WebSocket.OPEN) {
+            wsRef.current.send(JSON.stringify({ image: base64JPEG }));
+          }
         }, 300);
 
       } catch (e: any) {

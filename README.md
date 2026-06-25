@@ -18,3 +18,14 @@ View your app in AI Studio: https://ai.studio/apps/92fb6d86-1adf-48eb-9961-b081a
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+## Deploy on Render
+
+This app needs a Node server because the live tutor uses WebSocket + Gemini Live API.
+
+1. Push this repo to GitHub.
+2. Create a Render Web Service from the repo, or use the included `render.yaml`.
+3. Set environment variable `GEMINI_API_KEY` in Render.
+4. Use:
+   - Build command: `npm install && npm run build`
+   - Start command: `npm start`

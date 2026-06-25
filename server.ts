@@ -1,5 +1,5 @@
 import dotenv from "dotenv";
-dotenv.config();
+dotenv.config({ path: [".env.local", ".env"] });
 import express from "express";
 import path from "path";
 import http from "http";
@@ -8,6 +8,8 @@ import os from "os";
 import { EdgeTTS } from "node-edge-tts";
 import { WebSocketServer } from "ws";
 import { createServer as createViteServer } from "vite";
+import react from "@vitejs/plugin-react";
+import tailwindcss from "@tailwindcss/vite";
 import { GoogleGenAI, LiveServerMessage, Modality, Type } from "@google/genai";
 import { initializeApp, applicationDefault, getApps } from "firebase-admin/app";
 import { getFirestore } from "firebase-admin/firestore";
@@ -57,7 +59,7 @@ const sessionMemoryStore = new Map<string, string[]>();
 
 async function startServer() {
   const app = express();
-  const PORT = process.env.PORT || 3000;
+  const PORT = Number(process.env.PORT || 3000);
 
   app.use(express.json());
 
@@ -111,6 +113,19 @@ async function startServer() {
   // Vite middleware for development
   if (process.env.NODE_ENV !== "production") {
     const vite = await createViteServer({
+      configFile: false,
+      root: process.cwd(),
+      plugins: [react(), tailwindcss()],
+      resolve: {
+        alias: {
+          "@": process.cwd(),
+        },
+      },
+      optimizeDeps: {
+        disabled: true,
+        noDiscovery: true,
+        include: [],
+      },
       server: { middlewareMode: true },
       appType: "spa",
     });
@@ -264,7 +279,11 @@ async function startServer() {
             }
           },
           onclose: (event: any) => {
-             console.log("Gemini session closed", event);
+             console.log("Gemini session closed", {
+               code: event?.code,
+               reason: event?.reason,
+               wasClean: event?.wasClean,
+             });
              if (clientWs.readyState === 1) {
                  clientWs.close();
              }

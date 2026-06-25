@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
-import { GoogleGenAI } from '@google/genai';
+import { GoogleGenAI, Type as GenAIType } from '@google/genai';
 import { Mic, MicOff, PhoneOff, Loader2 } from 'lucide-react';
 
 interface FloatingAICallProps {
@@ -53,7 +53,7 @@ export default function FloatingAICall({ canvasDataUrl, onToolCall, onClose }: F
              systemInstruction: { parts: [{ text: "You are an AI assistant watching the user's screen." }] },
              tools: [{
                functionDeclarations: [
-                 { name: "draw_on_exam", description: "Draw on the exam PDF page.", parameters: { type: "OBJECT", properties: { type: {type: "STRING"}, x: {type: "NUMBER"}, y: {type: "NUMBER"}, text: {type:"STRING"}, width: {type:"NUMBER"}, height: {type:"NUMBER"}, color: {type:"STRING"} }, required: ["type", "x", "y"] } },
+                  { name: "draw_on_exam", description: "Draw on the exam PDF page.", parameters: { type: GenAIType.OBJECT, properties: { type: {type: GenAIType.STRING}, x: {type: GenAIType.NUMBER}, y: {type: GenAIType.NUMBER}, text: {type: GenAIType.STRING}, width: {type: GenAIType.NUMBER}, height: {type: GenAIType.NUMBER}, color: {type: GenAIType.STRING} }, required: ["type", "x", "y"] } },
                  { name: "clear_exam_drawings", description: "Clear drawings." }
                ]
              }]
