@@ -122,11 +122,7 @@ async function startServer() {
           "@": process.cwd(),
         },
       },
-      optimizeDeps: {
-        disabled: true,
-        noDiscovery: true,
-        include: [],
-      },
+
       server: { middlewareMode: true },
       appType: "spa",
     });
@@ -551,7 +547,7 @@ async function startServer() {
         if (audio && session && !sessionClosed) {
           try {
             session.sendRealtimeInput({
-              audio: { mimeType: "audio/pcm;rate=16000", data: audio }
+              media: [{ mimeType: "audio/pcm;rate=16000", data: audio }]
             });
           } catch (e) {
             console.error("Error sending audio to Gemini:", e);
@@ -563,7 +559,7 @@ async function startServer() {
             if (now - lastImageInputAt < 1200) return;
             lastImageInputAt = now;
             session.sendRealtimeInput({
-              media: { mimeType: "image/jpeg", data: image }
+              media: [{ mimeType: "image/jpeg", data: image }]
             });
           } catch (e) {
             console.error("Error sending image to Gemini:", e);
