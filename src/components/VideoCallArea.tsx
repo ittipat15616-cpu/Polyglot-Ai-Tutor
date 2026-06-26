@@ -135,7 +135,7 @@ export default function VideoCallArea({ activeLang, askWord, clearAskWord, askPd
   const [isPdfFullscreen, setIsPdfFullscreen] = useState(false);
   const pdfCanvasRef = useRef<HTMLCanvasElement | null>(null);
   const pdfPageContainerRef = useRef<HTMLDivElement | null>(null);
-  const lastDocImagePayloadRef = useRef<string | null>(null);
+  const lastDocImagePayloadRef = useRef<{ data: string; mimeType: string } | null>(null);
 
   const [docOverlayText, setDocOverlayText] = useState<string>('');
   const [docScale, setDocScale] = useState(1);
@@ -182,6 +182,12 @@ export default function VideoCallArea({ activeLang, askWord, clearAskWord, askPd
       lastDocImagePayloadRef.current = null;
     }
   }, [docImageBase64, docPdfFile]);
+
+  useEffect(() => {
+    if (docPdfFile) {
+      renderPdfPageForAI(docPdfFile, docPdfPage);
+    }
+  }, [docPdfFile, docPdfPage]);
 
   // Handle askWord auto start
   useEffect(() => {
@@ -234,12 +240,42 @@ export default function VideoCallArea({ activeLang, askWord, clearAskWord, askPd
      }
   };
 
-  const sendDocImageToAI = (dataUrlOrBase64: string) => {
-    const base64 = dataUrlOrBase64.includes(',') ? dataUrlOrBase64.split(',')[1] : dataUrlOrBase64;
+  const sendDocImageToAI = (dataUrlOrBase64: string, fallbackMimeType = 'image/jpeg') => {
+    const dataUrlMatch = dataUrlOrBase64.match(/^data:([^;]+);base64,(.*)$/);
+    const mimeType = dataUrlMatch?.[1] || fallbackMimeType;
+    const base64 = dataUrlMatch?.[2] || (dataUrlOrBase64.includes(',') ? dataUrlOrBase64.split(',')[1] : dataUrlOrBase64);
     if (!base64) return;
-    lastDocImagePayloadRef.current = base64;
+    lastDocImagePayloadRef.current = { data: base64, mimeType };
     if (wsRef.current && wsRef.current.readyState === WebSocket.OPEN) {
-      wsRef.current.send(JSON.stringify({ type: 'doc_image', image: base64 }));
+      wsRef.current.send(JSON.stringify({ type: 'doc_image', image: base64, mimeType }));
+    }
+  };
+
+  const renderPdfPageForAI = async (fileOrUrl: File | string, pageNumber: number) => {
+    try {
+      let data: ArrayBuffer;
+      if (typeof fileOrUrl === 'string') {
+        const res = await fetch(fileOrUrl);
+        data = await res.arrayBuffer();
+      } else {
+        data = await fileOrUrl.arrayBuffer();
+      }
+
+      const pdf = await pdfjs.getDocument({ data }).promise;
+      const page = await pdf.getPage(pageNumber);
+      const baseViewport = page.getViewport({ scale: 1 });
+      const targetWidth = Math.min(2400, Math.max(1600, baseViewport.width * 2));
+      const scale = targetWidth / baseViewport.width;
+      const viewport = page.getViewport({ scale });
+      const canvas = document.createElement('canvas');
+      canvas.width = Math.floor(viewport.width);
+      canvas.height = Math.floor(viewport.height);
+      const context = canvas.getContext('2d');
+      if (!context) return;
+      await page.render({ canvas, canvasContext: context, viewport }).promise;
+      sendDocImageToAI(canvas.toDataURL('image/png'), 'image/png');
+    } catch (e) {
+      console.error("PDF page image render failed", e);
     }
   };
 
@@ -247,8 +283,8 @@ export default function VideoCallArea({ activeLang, askWord, clearAskWord, askPd
     window.setTimeout(() => {
       const canvas = pdfPageContainerRef.current?.querySelector('canvas');
       if (!canvas) return;
-      const dataUrl = canvas.toDataURL('image/jpeg', 0.92);
-      sendDocImageToAI(dataUrl);
+      const dataUrl = canvas.toDataURL('image/png');
+      sendDocImageToAI(dataUrl, 'image/png');
 
       const img = new Image();
       img.onload = () => {
@@ -262,12 +298,13 @@ export default function VideoCallArea({ activeLang, askWord, clearAskWord, askPd
   const handleDocUpload = (e: React.ChangeEvent<HTMLInputElement>) => {
     const file = e.target.files?.[0];
     if (file) {
-      if (file.type === "application/pdf") {
+       if (file.type === "application/pdf") {
          setDocPdfFile(file);
          setDocPdfPage(1);
          setDocImageBase64(null); // Clear image
          lastDocImagePayloadRef.current = null;
          extractPdfTextAndSend(file);
+         renderPdfPageForAI(file, 1);
          setIsDocBoardOpen(true);
       } else {
          // It's an image
@@ -462,7 +499,11 @@ export default function VideoCallArea({ activeLang, askWord, clearAskWord, askPd
           socket.send(JSON.stringify({ type: 'doc_context', text: docExtractedTextRef.current }));
         }
         if (lastDocImagePayloadRef.current && socket.readyState === WebSocket.OPEN) {
-          socket.send(JSON.stringify({ type: 'doc_image', image: lastDocImagePayloadRef.current }));
+          socket.send(JSON.stringify({
+            type: 'doc_image',
+            image: lastDocImagePayloadRef.current.data,
+            mimeType: lastDocImagePayloadRef.current.mimeType
+          }));
         }
         // ------------------
         // Setup Media 

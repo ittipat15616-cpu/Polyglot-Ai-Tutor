@@ -202,10 +202,70 @@ async function startServer() {
     let session: any;
     let sessionClosed = false;
     let lastImageInputAt = 0;
+    let upstreamReconnectTimer: NodeJS.Timeout | null = null;
+    let upstreamReconnectAttempts = 0;
+    let latestDocText = "";
+    let latestDocImage = "";
+    let latestDocMimeType = "image/jpeg";
+    let liveSessionOptions: any;
+    const sendSavedDocumentContext = () => {
+      if (!session || sessionClosed || !session.sendClientContent) return;
+      try {
+        if (latestDocText) {
+          session.sendClientContent({
+            turns: [{ role: "user", parts: [{ text: `The learner already uploaded this document text as lesson context. Remember it silently and continue the same lesson without greeting again:\n\n${latestDocText}` }] }],
+            turnComplete: true
+          });
+        }
+        if (latestDocImage) {
+          session.sendClientContent({
+            turns: [{
+              role: "user",
+              parts: [
+                { text: "The learner already uploaded this image/PDF page. Read it carefully as continuing lesson context. Do not greet or announce reconnecting." },
+                { inlineData: { mimeType: latestDocMimeType, data: latestDocImage } }
+              ]
+            }],
+            turnComplete: true
+          });
+        }
+      } catch (e) {
+        console.error("Error replaying document context:", e);
+      }
+    };
+    const scheduleGeminiReconnect = () => {
+      if (clientWs.readyState !== 1 || upstreamReconnectTimer) return;
+      const delay = Math.min(1000 + upstreamReconnectAttempts * 1000, 8000);
+      upstreamReconnectAttempts += 1;
+      if (clientWs.readyState === 1) {
+        clientWs.send(JSON.stringify({ type: 'status', message: 'AI live session reconnecting in the background...' }));
+      }
+      upstreamReconnectTimer = setTimeout(async () => {
+        upstreamReconnectTimer = null;
+        if (clientWs.readyState !== 1) return;
+        try {
+          sessionClosed = true;
+          session = await ai.live.connect(liveSessionOptions);
+          sessionClosed = false;
+          upstreamReconnectAttempts = 0;
+          sendSavedDocumentContext();
+          if (clientWs.readyState === 1) {
+            clientWs.send(JSON.stringify({ type: 'status', message: 'AI live session reconnected.' }));
+          }
+        } catch (e: any) {
+          sessionClosed = true;
+          const errorMsg = e?.message || "";
+          if (!errorMsg.includes("429") && !errorMsg.includes("503") && !errorMsg.includes("Quota") && !errorMsg.includes("RESOURCE_EXHAUSTED") && !errorMsg.includes("UNAVAILABLE")) {
+            console.error("Live API reconnect error:", errorMsg || "Reconnect failed");
+          }
+          scheduleGeminiReconnect();
+        }
+      }, delay);
+    };
     try {
       if (!ai) throw new Error("GenAI not initialized");
       console.log("Connecting to Gemini Live API...");
-      session = await ai.live.connect({
+      liveSessionOptions = {
         model: "gemini-2.5-flash-native-audio-latest",
         callbacks: {
           onmessage: (message: LiveServerMessage) => {
@@ -290,9 +350,7 @@ async function startServer() {
                reason: event?.reason,
                wasClean: event?.wasClean,
              });
-             if (clientWs.readyState === 1) {
-                 clientWs.close();
-             }
+             scheduleGeminiReconnect();
           },
           onerror: (error: any) => {
              sessionClosed = true;
@@ -300,9 +358,7 @@ async function startServer() {
              if (clientWs.readyState === 1) {
                  clientWs.send(JSON.stringify({ type: 'error', message: 'AI live session disconnected. Reconnecting...' }));
              }
-             if (clientWs.readyState === 1) {
-                 clientWs.close();
-             }
+             scheduleGeminiReconnect();
           }
         },
         config: {
@@ -383,7 +439,8 @@ async function startServer() {
              voiceConfig: { prebuiltVoiceConfig: { voiceName } },
           }
         },
-      });
+      };
+      session = await ai.live.connect(liveSessionOptions);
 
       const askWord = url.searchParams.get('askWord');
       
@@ -437,12 +494,18 @@ async function startServer() {
     clientWs.on("message", (data) => {
       try {
         const parsed = JSON.parse(data.toString());
-        let { audio, image, type, text } = parsed;
+        let { audio, image, type, text, mimeType } = parsed;
         if (typeof text === 'string' && text.length > 12000) {
           text = `${text.slice(0, 12000)}\n\n[Document text truncated for live context]`;
         }
         
-        if (type === 'doc_image' && image && session && !sessionClosed) {
+        if (type === 'doc_image' && image) {
+           const docMimeType = typeof mimeType === 'string' && mimeType.startsWith('image/')
+             ? mimeType
+             : 'image/jpeg';
+           latestDocImage = image;
+           latestDocMimeType = docMimeType;
+           if (!session || sessionClosed) return;
            try {
              if (session.sendClientContent) {
                session.sendClientContent({
@@ -451,7 +514,7 @@ async function startServer() {
                      role: "user",
                      parts: [
                        { text: "The learner uploaded this image or PDF page as lesson context. Read it carefully, remember the visible text and layout, and use it when the learner asks. Do not read it aloud immediately unless asked. If the learner asks for writing, explanation, answers, or overlays on this document, use update_doc_board." },
-                       { inlineData: { mimeType: "image/jpeg", data: image } }
+                       { inlineData: { mimeType: docMimeType, data: image } }
                      ]
                    }
                  ],
@@ -464,7 +527,9 @@ async function startServer() {
            return;
         }
         
-        if (type === 'doc_context' && text && session && !sessionClosed) {
+        if (type === 'doc_context' && text) {
+           latestDocText = text;
+           if (!session || sessionClosed) return;
            try {
              if (session.sendClientContent) {
                session.sendClientContent({
@@ -510,6 +575,10 @@ async function startServer() {
 
     clientWs.on("close", (code, reason) => {
       clearInterval(pingInterval);
+      if (upstreamReconnectTimer) {
+        clearTimeout(upstreamReconnectTimer);
+        upstreamReconnectTimer = null;
+      }
       console.log(`Client disconnected with code ${code} and reason ${reason}`);
       if (session) {
         try {
