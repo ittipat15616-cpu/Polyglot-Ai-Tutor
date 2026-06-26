@@ -194,7 +194,7 @@ async function startServer() {
 ในขณะที่สนทนา หากคุณได้รับข้อมูลใหม่ที่สำคัญเกี่ยวกับผู้เรียน (เช่น ชื่อ สิ่งที่ชอบ สิ่งที่อยากเรียน หรือสิ่งที่มองเห็นผ่านกล้อง) ให้เรียกใช้ function/tool ชื่อ "memorize_info" เพื่อบันทึกข้อมูลนั้นไว้เสมอ ข้อมูลเหล่านั้นจะถูกเก็บไว้ใช้หากเกิดการหลุดและเชื่อมต่อใหม่
 คุณมีหน้าจอแสดงผล "กระดาน" ให้ผู้เรียนดูตลอดเวลา ดังนั้นเวลาอธิบายคำศัพท์ ไวยากรณ์ หรือยกตัวอย่างประโยค คุณต้องเรียกใช้ function/tool ชื่อ "update_board" เสมอ เพื่อให้การสอนเห็นภาพ
 ห้ามลืมเรียกใช้ \`update_board\` ในระหว่างการอธิบายเด็ดขาดเพื่อให้ผู้เรียนเห็นภาพชัดเจน
-สำคัญ: เวลาใช้เครื่องมือ update_board ให้รวมประโยคยาวๆหรือกลอนยาวๆไว้ใน item เดียว ห้ามแยกเป็นหลาย items เด็ดขาด
+สำคัญ: update_board รองรับได้สูงสุด 50 items สำหรับรายการคำศัพท์/สัญลักษณ์/ตัวเลข/ตัวอย่างหลายข้อ แต่ถ้าเป็นประโยคยาว บทความ กลอน หรือข้อความต่อเนื่อง ให้รวมไว้ใน item เดียวหรือแบ่งเป็นย่อหน้าสั้นๆ อย่างเป็นระเบียบ ห้ามแยกประโยคเดียวเป็นชิ้นเล็กๆจนอ่านยาก
 
 นอกจากนี้ ผู้เรียนมีกระดานแผ่นที่สองเรียกว่า "Doc Board" (รูปภาพหรือเอกสารที่ผู้เรียนอัปโหลด) ซึ่งคุณจะเห็นภาพกระดานนี้ซ้อนอยู่ในวิดีโอ (ทางซ้ายมือ)
 หากผู้เรียนบอกให้ทำ หรือเจาะจงขอให้ขึ้นข้อความ/ขึ้นเฉลยโจทย์/อธิบายลงบนรูปภาพเอกสารที่อัปโหลดไว้ ให้ใช้เครื่องมือ "update_doc_board" เพื่อพิมพ์ข้อความหรือคำอธิบายลงไปทับบนรูปภาพใน Doc Board นั้น ห้ามใช้เครื่องมือนี้หรือไปแก้ไข Doc Board หากผู้เรียนไม่ได้ระบุหรือบอกให้เจาะจงลงบนรูป/เอกสารอย่างชัดเจน (ถ้าให้อธิบายปกติให้ใช้ \`update_board\` บนกระดานเดิมเท่านั้น)${memoryContext}`;
@@ -395,7 +395,8 @@ async function startServer() {
                   properties: {
                     items: {
                       type: Type.ARRAY,
-                      description: "List of items to display on the board. MAX 3 ITEMS. If you are teaching a full sentence or poem (up to 50 chars), put the ENTIRE sentence/poem into a SINGLE item's 'word' property. Do NOT split a sentence into multiple items.",
+                      description: "List of items to display on the board. Supports up to 50 items for vocabulary, symbols, numbers, and short teaching points. For a long sentence, paragraph, poem, or passage, keep each coherent sentence/paragraph together in a single item so the board remains tidy and readable.",
+                      maxItems: 50,
                       items: {
                         type: Type.OBJECT,
                         properties: {

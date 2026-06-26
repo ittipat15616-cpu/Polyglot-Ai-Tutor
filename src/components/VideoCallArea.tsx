@@ -731,6 +731,9 @@ export default function VideoCallArea({ activeLang, askWord, clearAskWord, askPd
   // --- Dynamic Canvas ---
   const renderDynamicCanvas = () => {
     if (!boardData || !boardData.items || boardData.items.length === 0) return null;
+    const itemCount = boardData.items.length;
+    const isDenseBoard = itemCount > 8;
+    const isVeryDenseBoard = itemCount > 20;
     
     return (
       <motion.div 
@@ -738,17 +741,17 @@ export default function VideoCallArea({ activeLang, askWord, clearAskWord, askPd
         initial={{ opacity: 0, scale: 0.95 }}
         animate={{ opacity: 1, scale: 1 }}
         exit={{ opacity: 0 }}
-        className="flex flex-col items-center justify-start h-full w-full p-8 overflow-y-auto"
+        className={`flex flex-col items-center justify-start h-full w-full overflow-y-auto ${isDenseBoard ? 'p-4' : 'p-8'}`}
       >
-        <div className="w-full max-w-4xl grid grid-cols-1 md:grid-cols-2 gap-6 pb-20">
+        <div className={`w-full max-w-6xl grid grid-cols-1 ${isDenseBoard ? 'sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-3' : 'md:grid-cols-2 gap-6'} pb-20`}>
           {boardData.items.map((item, idx) => {
             const isChinese = item.word && /[\u4e00-\u9fa5]/.test(item.word);
-            const showHanzi = isChinese && item.word.length <= 50; // Animate up to 50 chars
+            const showHanzi = isChinese && item.word.length <= 50 && !isVeryDenseBoard; // Keep large boards responsive
 
             return (
-              <div key={idx} className={`bg-white rounded-2xl shadow-sm border border-gray-100 p-6 flex flex-col hover:shadow-md transition-shadow ${boardData.items.length === 1 ? 'col-span-1 md:col-span-2' : ''}`}>
+              <div key={idx} className={`bg-white rounded-lg shadow-sm border border-gray-100 flex flex-col hover:shadow-md transition-shadow ${isDenseBoard ? 'p-3' : 'p-6'} ${boardData.items.length === 1 ? 'col-span-1 md:col-span-2' : ''}`}>
                 {item.pinyin && (
-                  <div className="text-lg text-gray-500 mb-3 tracking-widest font-medium font-mono text-center">
+                  <div className={`${isDenseBoard ? 'text-sm mb-2' : 'text-lg mb-3'} text-gray-500 tracking-widest font-medium font-mono text-center break-words`}>
                     {item.pinyin}
                   </div>
                 )}
@@ -758,17 +761,17 @@ export default function VideoCallArea({ activeLang, askWord, clearAskWord, askPd
                     <ChineseCharacters word={item.word} />
                   </div>
                 ) : (
-                  <div className="text-3xl sm:text-4xl font-bold text-gray-900 mb-4 tracking-tight break-all text-center">
+                  <div className={`${isDenseBoard ? 'text-xl sm:text-2xl mb-2' : 'text-3xl sm:text-4xl mb-4'} font-bold text-gray-900 tracking-tight break-words text-center`}>
                     {item.word}
                   </div>
                 )}
                 
-                <div className="text-xl text-indigo-700 font-semibold mb-4 bg-indigo-50 px-4 py-2 rounded-xl text-center">
+                <div className={`${isDenseBoard ? 'text-sm mb-2 px-3 py-2' : 'text-xl mb-4 px-4 py-2'} text-indigo-700 font-semibold bg-indigo-50 rounded-lg text-center break-words`}>
                   {item.meaning}
                 </div>
                 
                 {item.example && (
-                   <div className="text-base text-gray-600 font-medium border border-gray-100 px-4 py-3 rounded-xl bg-gray-50 mt-auto">
+                   <div className={`${isDenseBoard ? 'text-sm px-3 py-2' : 'text-base px-4 py-3'} text-gray-600 font-medium border border-gray-100 rounded-lg bg-gray-50 mt-auto break-words`}>
                       {item.example}
                    </div>
                 )}
