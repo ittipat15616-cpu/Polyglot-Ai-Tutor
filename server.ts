@@ -56,6 +56,7 @@ try {
 
 // Add a simple in-memory session store for tracking conversation history across reconnects
 const sessionMemoryStore = new Map<string, string[]>();
+const greetedClientStore = new Set<string>();
 
 async function startServer() {
   const app = express();
@@ -157,6 +158,8 @@ async function startServer() {
       sessionMemoryStore.set(clientId, []);
     }
     const userMemory = sessionMemoryStore.get(clientId) || [];
+    const hasGreetedBefore = greetedClientStore.has(clientId);
+    greetedClientStore.add(clientId);
 
     let voiceName = 'Puck';
     let personaDetails = '';
@@ -385,7 +388,7 @@ async function startServer() {
       const askWord = url.searchParams.get('askWord');
       
       // We only force the AI to speak on the very first connection or if there is an askWord
-      const isFirstConnection = userMemory.length === 0;
+      const isFirstConnection = !hasGreetedBefore && userMemory.length === 0;
 
       let initialMessage = "";
       let shouldSendInitialGreeting = false;
@@ -437,6 +440,28 @@ async function startServer() {
         let { audio, image, type, text } = parsed;
         if (typeof text === 'string' && text.length > 12000) {
           text = `${text.slice(0, 12000)}\n\n[Document text truncated for live context]`;
+        }
+        
+        if (type === 'doc_image' && image && session && !sessionClosed) {
+           try {
+             if (session.sendClientContent) {
+               session.sendClientContent({
+                 turns: [
+                   {
+                     role: "user",
+                     parts: [
+                       { text: "The learner uploaded this image or PDF page as lesson context. Read it carefully, remember the visible text and layout, and use it when the learner asks. Do not read it aloud immediately unless asked. If the learner asks for writing, explanation, answers, or overlays on this document, use update_doc_board." },
+                       { inlineData: { mimeType: "image/jpeg", data: image } }
+                     ]
+                   }
+                 ],
+                 turnComplete: true
+               });
+             }
+           } catch (e) {
+             console.error("Error sending doc image to Gemini:", e);
+           }
+           return;
         }
         
         if (type === 'doc_context' && text && session && !sessionClosed) {

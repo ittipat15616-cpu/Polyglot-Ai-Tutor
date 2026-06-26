@@ -134,6 +134,8 @@ export default function VideoCallArea({ activeLang, askWord, clearAskWord, askPd
   const [docPdfNumPages, setDocPdfNumPages] = useState<number>(0);
   const [isPdfFullscreen, setIsPdfFullscreen] = useState(false);
   const pdfCanvasRef = useRef<HTMLCanvasElement | null>(null);
+  const pdfPageContainerRef = useRef<HTMLDivElement | null>(null);
+  const lastDocImagePayloadRef = useRef<string | null>(null);
 
   const [docOverlayText, setDocOverlayText] = useState<string>('');
   const [docScale, setDocScale] = useState(1);
@@ -167,12 +169,19 @@ export default function VideoCallArea({ activeLang, askWord, clearAskWord, askPd
     if (!isCalling) {
       setBoardData(null); 
       setIsLiveConnected(false);
+      askWordSentRef.current = false;
     } else {
       setIsLiveConnected(true);
     }
   }, [isCalling]);
 
   const docExtractedTextRef = useRef<string | null>(null);
+
+  useEffect(() => {
+    if (!docImageBase64 && !docPdfFile) {
+      lastDocImagePayloadRef.current = null;
+    }
+  }, [docImageBase64, docPdfFile]);
 
   // Handle askWord auto start
   useEffect(() => {
@@ -186,6 +195,7 @@ export default function VideoCallArea({ activeLang, askWord, clearAskWord, askPd
     if (askPdfUrl) {
       setDocPdfFile(askPdfUrl);
       setDocImageBase64(null); // Clear image if any
+      lastDocImagePayloadRef.current = null;
       setIsDocBoardOpen(true);
       extractPdfTextAndSend(askPdfUrl);
       if (!isCalling) {
@@ -224,6 +234,31 @@ export default function VideoCallArea({ activeLang, askWord, clearAskWord, askPd
      }
   };
 
+  const sendDocImageToAI = (dataUrlOrBase64: string) => {
+    const base64 = dataUrlOrBase64.includes(',') ? dataUrlOrBase64.split(',')[1] : dataUrlOrBase64;
+    if (!base64) return;
+    lastDocImagePayloadRef.current = base64;
+    if (wsRef.current && wsRef.current.readyState === WebSocket.OPEN) {
+      wsRef.current.send(JSON.stringify({ type: 'doc_image', image: base64 }));
+    }
+  };
+
+  const capturePdfPageForAI = () => {
+    window.setTimeout(() => {
+      const canvas = pdfPageContainerRef.current?.querySelector('canvas');
+      if (!canvas) return;
+      const dataUrl = canvas.toDataURL('image/jpeg', 0.92);
+      sendDocImageToAI(dataUrl);
+
+      const img = new Image();
+      img.onload = () => {
+        setDocImageObj(img);
+        docImageRef.current = img;
+      };
+      img.src = dataUrl;
+    }, 250);
+  };
+
   const handleDocUpload = (e: React.ChangeEvent<HTMLInputElement>) => {
     const file = e.target.files?.[0];
     if (file) {
@@ -231,6 +266,7 @@ export default function VideoCallArea({ activeLang, askWord, clearAskWord, askPd
          setDocPdfFile(file);
          setDocPdfPage(1);
          setDocImageBase64(null); // Clear image
+         lastDocImagePayloadRef.current = null;
          extractPdfTextAndSend(file);
          setIsDocBoardOpen(true);
       } else {
@@ -241,6 +277,7 @@ export default function VideoCallArea({ activeLang, askWord, clearAskWord, askPd
          reader.onload = (event) => {
            const result = event.target?.result as string;
            setDocImageBase64(result);
+           sendDocImageToAI(result);
            const img = new Image();
            img.onload = () => {
              setDocImageObj(img);
@@ -266,6 +303,7 @@ export default function VideoCallArea({ activeLang, askWord, clearAskWord, askPd
   const interruptedTimeRef = useRef(0);
   const silenceOscillatorRef = useRef<OscillatorNode | null>(null);
   const reconnectAttemptsRef = useRef(0);
+  const askWordSentRef = useRef(false);
   const lastAudioSentAtRef = useRef(0);
   const lastFrameSentAtRef = useRef(0);
 
@@ -336,7 +374,8 @@ export default function VideoCallArea({ activeLang, askWord, clearAskWord, askPd
           lang: langName,
           clientId: clientIdRef.current,
         });
-        if (askWord) params.set('askWord', askWord);
+        const includeAskWord = Boolean(askWord && !askWordSentRef.current);
+        if (includeAskWord) params.set('askWord', askWord);
 
         const socket = new WebSocket(`${protocol}://${window.location.host}/live?${params.toString()}`);
         wsRef.current = socket;
@@ -344,6 +383,7 @@ export default function VideoCallArea({ activeLang, askWord, clearAskWord, askPd
         await new Promise<void>((resolve, reject) => {
           socket.onopen = () => {
             if (!sessionActive) return;
+            if (includeAskWord) askWordSentRef.current = true;
             reconnectAttemptsRef.current = 0;
             setIsLiveConnected(true);
             setAvatarState('listening');
@@ -380,8 +420,13 @@ export default function VideoCallArea({ activeLang, askWord, clearAskWord, askPd
             if (!isDocBoardOpenRef.current) setIsDocBoardOpen(true);
           } else if (message.type === 'error') {
             console.error('AI server error:', message.message);
-            alert(message.message || 'AI connection error');
-            setIsCalling(false);
+            if (String(message.message || '').toLowerCase().includes('reconnecting')) {
+              setIsLiveConnected(false);
+              setAvatarState('confused');
+            } else {
+              alert(message.message || 'AI connection error');
+              setIsCalling(false);
+            }
           }
 
           if (message.interrupted) {
@@ -400,7 +445,7 @@ export default function VideoCallArea({ activeLang, askWord, clearAskWord, askPd
           if (!sessionActive) return;
           setIsLiveConnected(false);
           setAvatarState('confused');
-          if (isCallingRef.current && reconnectAttemptsRef.current < 5) {
+          if (isCallingRef.current && reconnectAttemptsRef.current < 20) {
             const delay = Math.min(1000 + reconnectAttemptsRef.current * 1000, 5000);
             reconnectAttemptsRef.current += 1;
             if (reconnectTimeoutRef.current) clearTimeout(reconnectTimeoutRef.current);
@@ -415,6 +460,9 @@ export default function VideoCallArea({ activeLang, askWord, clearAskWord, askPd
 
         if (docExtractedTextRef.current && socket.readyState === WebSocket.OPEN) {
           socket.send(JSON.stringify({ type: 'doc_context', text: docExtractedTextRef.current }));
+        }
+        if (lastDocImagePayloadRef.current && socket.readyState === WebSocket.OPEN) {
+          socket.send(JSON.stringify({ type: 'doc_image', image: lastDocImagePayloadRef.current }));
         }
         // ------------------
         // Setup Media 
@@ -915,7 +963,7 @@ export default function VideoCallArea({ activeLang, askWord, clearAskWord, askPd
                    <input type="file" accept="image/*,application/pdf" className="hidden" onChange={handleDocUpload} />
                  </label>
                ) : docPdfFile ? (
-                 <div className="w-full h-full flex flex-col items-center overflow-y-auto">
+                 <div ref={pdfPageContainerRef} className="w-full h-full flex flex-col items-center overflow-y-auto">
                     <Document
                        file={docPdfFile}
                        onLoadSuccess={({ numPages }) => setDocPdfNumPages(numPages)}
@@ -925,6 +973,7 @@ export default function VideoCallArea({ activeLang, askWord, clearAskWord, askPd
                          pageNumber={docPdfPage} 
                          renderTextLayer={false} 
                          renderAnnotationLayer={false} 
+                         onRenderSuccess={capturePdfPageForAI}
                          className="shadow-lg mb-4" 
                          width={isPdfFullscreen ? Math.min(window.innerWidth * 0.9, 1200) : 500} 
                        />
