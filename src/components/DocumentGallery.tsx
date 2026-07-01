@@ -10,27 +10,48 @@ interface DocumentGalleryProps {
   prependNode?: React.ReactNode;
 }
 
+import manifestData from '../data/image_manifest.json';
+
+const BUCKET_NAME = 'polyglot-ai-tuto.appspot.com';
+
 export default function DocumentGallery({ type, folder, prefix, hideLastNPages = 0, hideDownload = false, prependNode }: DocumentGalleryProps) {
   const [images, setImages] = useState<string[]>([]);
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
     setLoading(true);
-    fetch(`/api/document-pages?type=${type}&folder=${folder}&prefix=${prefix}`)
-      .then(res => res.json())
-      .then(data => {
-        let finalImages = data || [];
-        if (hideLastNPages && finalImages.length > hideLastNPages) {
-          finalImages = finalImages.slice(0, finalImages.length - hideLastNPages);
-        }
-        setImages(finalImages);
-        setLoading(false);
-      })
-      .catch(err => {
-        console.error('Failed to fetch document pages:', err);
-        setLoading(false);
-      });
-  }, [type, folder, prefix]);
+    
+    // Determine the base path key in the manifest
+    const basePath = type === 'hsk' ? 'HSK_Images' : 'Courseware_Images';
+    const manifestKey = `${basePath}/${folder}`;
+    
+    // Assert manifest as a Record of string arrays
+    const manifest = manifestData as Record<string, string[]>;
+    const folderFiles = manifest[manifestKey] || [];
+    
+    // Filter files matching prefix_page...
+    const matchedFiles = folderFiles.filter(f => f.startsWith(`${prefix}_page`) && f.endsWith('.jpg'));
+    
+    // Sort numerically by page number
+    matchedFiles.sort((a, b) => {
+      const numA = parseInt(a.match(/page(\d+)/)?.[1] || '0');
+      const numB = parseInt(b.match(/page(\d+)/)?.[1] || '0');
+      return numA - numB;
+    });
+    
+    // Map to Firebase Storage URLs
+    let finalImages = matchedFiles.map(f => {
+      const fullPath = `${manifestKey}/${f}`;
+      return `https://firebasestorage.googleapis.com/v0/b/${BUCKET_NAME}/o/${encodeURIComponent(fullPath)}?alt=media`;
+    });
+    
+    if (hideLastNPages && finalImages.length > hideLastNPages) {
+      finalImages = finalImages.slice(0, finalImages.length - hideLastNPages);
+    }
+    
+    setImages(finalImages);
+    setLoading(false);
+  }, [type, folder, prefix, hideLastNPages]);
 
   const handleDownload = (url: string, index: number) => {
     // Create an invisible link to trigger the download
