@@ -4,6 +4,7 @@ import DocumentGallery from './DocumentGallery';
 import AnswerSheet from './AnswerSheet';
 import MockTestResult, { TestResultData } from './MockTestResult';
 import { hskStructures } from '../data/hskTestStructures';
+import { gradeExam } from '../utils/gradeExam';
 
 interface MockTestAreaProps {
   level: string; // e.g. HSK1
@@ -68,25 +69,12 @@ export default function MockTestArea({ level, examId, videoId, onExit }: MockTes
     setIsSubmitting(true);
 
     try {
-      const folder = level.replace('HSK', 'H'); // HSK1 -> H1
-      const res = await fetch('/api/submit-exam', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          type: 'hsk',
-          folder,
-          prefix: examId,
-          level,
-          userAnswers: answersRef.current
-        })
-      });
-
-      if (!res.ok) throw new Error('Failed to submit exam');
-      const data = await res.json();
-      setResult(data);
+      // Use client-side grading instead of calling the server API
+      const resultData = gradeExam(level, examId, answersRef.current);
+      setResult(resultData);
     } catch (err) {
       console.error(err);
-      alert('เกิดข้อผิดพลาดในการส่งข้อสอบ กรุณาลองใหม่อีกครั้ง');
+      alert('เกิดข้อผิดพลาดในการตรวจข้อสอบ กรุณาลองใหม่อีกครั้ง');
     } finally {
       setIsSubmitting(false);
     }
