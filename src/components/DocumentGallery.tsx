@@ -12,7 +12,7 @@ interface DocumentGalleryProps {
 
 import manifestData from '../data/image_manifest.json';
 
-const BUCKET_NAME = 'polyglot-ai-tuto.appspot.com';
+const BUCKET_NAME = 'polyglot-ai-tuto.firebasestorage.app';
 
 export default function DocumentGallery({ type, folder, prefix, hideLastNPages = 0, hideDownload = false, prependNode }: DocumentGalleryProps) {
   const [images, setImages] = useState<string[]>([]);
