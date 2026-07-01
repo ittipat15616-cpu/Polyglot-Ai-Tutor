@@ -5,6 +5,12 @@ import path from "path";
 import http from "http";
 import fs from "fs";
 import os from "os";
+import hsk1AnswerKey from './src/data/hsk1_answer_key.json' assert { type: 'json' };
+import hsk2AnswerKey from './src/data/hsk2_answer_key.json' assert { type: 'json' };
+import hsk3AnswerKey from './src/data/hsk3_answer_key.json' assert { type: 'json' };
+import hsk4AnswerKey from './src/data/hsk4_answer_key.json' assert { type: 'json' };
+import hsk5AnswerKey from './src/data/hsk5_answer_key.json' assert { type: 'json' };
+import hsk6AnswerKey from './src/data/hsk6_answer_key.json' assert { type: 'json' };
 import { EdgeTTS } from "node-edge-tts";
 import { WebSocketServer } from "ws";
 import { createServer as createViteServer } from "vite";
@@ -62,9 +68,475 @@ async function startServer() {
   const app = express();
   const PORT = Number(process.env.PORT || 3000);
 
-  app.use(express.json());
+  app.use(express.json({ limit: '50mb' }));
 
   const ttsCache = new Map<string, string>();
+
+  app.post("/api/save-image", express.json({ limit: '50mb' }), (req, res) => {
+    try {
+      const { folder, filename, imageBase64 } = req.body;
+      const outDir = path.join('C:\\Users\\USER\\Desktop\\HSK_Images', folder);
+      if (!fs.existsSync(outDir)) {
+        fs.mkdirSync(outDir, { recursive: true });
+      }
+      const buffer = Buffer.from(imageBase64, 'base64');
+      fs.writeFileSync(path.join(outDir, filename), buffer);
+      res.json({ success: true });
+    } catch (e: any) {
+      console.error(e);
+      res.status(500).json({ error: e.message });
+    }
+  });
+
+  app.post("/api/save-course-image", express.json({ limit: '50mb' }), (req, res) => {
+    try {
+      const { folder, filename, imageBase64 } = req.body;
+      const outDir = path.join('C:\\Users\\USER\\Desktop\\Courseware_Images', folder);
+      if (!fs.existsSync(outDir)) {
+        fs.mkdirSync(outDir, { recursive: true });
+      }
+      const buffer = Buffer.from(imageBase64, 'base64');
+      fs.writeFileSync(path.join(outDir, filename), buffer);
+      res.json({ success: true });
+    } catch (e: any) {
+      console.error(e);
+      res.status(500).json({ error: e.message });
+    }
+  });
+
+  app.use('/desktop/hsk', express.static('C:\\Users\\USER\\Desktop\\HSK_Images'));
+  app.use('/desktop/courseware', express.static('C:\\Users\\USER\\Desktop\\Courseware_Images'));
+
+  app.get('/api/document-pages', (req, res) => {
+    try {
+      const { type, folder, prefix } = req.query; // type: 'hsk' or 'courseware'
+      const baseDir = type === 'hsk' ? 'C:\\Users\\USER\\Desktop\\HSK_Images' : 'C:\\Users\\USER\\Desktop\\Courseware_Images';
+      const targetDir = path.join(baseDir, folder as string);
+      
+      if (!fs.existsSync(targetDir)) {
+        return res.json([]);
+      }
+      
+      const files = fs.readdirSync(targetDir);
+      // Filter by prefix (e.g., H10901_ or Lesson1_)
+      const matchedFiles = files.filter(f => f.startsWith(prefix as string) && (f.endsWith('.jpg') || f.endsWith('.png')));
+      
+      // Sort numerically by page number if possible
+      matchedFiles.sort((a, b) => {
+        const numA = parseInt(a.match(/page(\d+)/)?.[1] || '0');
+        const numB = parseInt(b.match(/page(\d+)/)?.[1] || '0');
+        return numA - numB;
+      });
+
+      const urls = matchedFiles.map(f => `/desktop/${type}/${folder}/${f}`);
+      res.json(urls);
+    } catch (e: any) {
+      res.status(500).json({ error: e.message });
+    }
+  });
+
+  app.post('/api/submit-exam', async (req, res) => {
+    try {
+      const { type, folder, prefix, userAnswers, level } = req.body;
+      
+      // Local grading for HSK1 and HSK2
+      if (level === 'HSK1' && hsk1AnswerKey[prefix as keyof typeof hsk1AnswerKey]) {
+        const answers = hsk1AnswerKey[prefix as keyof typeof hsk1AnswerKey];
+        let listeningCorrect = 0;
+        let readingCorrect = 0;
+        const results = [];
+        
+        for (let i = 1; i <= 40; i++) {
+          const qNum = i.toString();
+          const correctAns = (answers as any)[qNum] || "";
+          const userAns = userAnswers[qNum] || "";
+          const isCorrect = userAns !== "" && correctAns.toLowerCase() === userAns.toLowerCase();
+          
+          if (isCorrect) {
+            if (i <= 20) listeningCorrect++;
+            else readingCorrect++;
+          }
+          
+          results.push({
+            questionNumber: qNum,
+            userAnswer: userAns,
+            correctAnswer: correctAns,
+            isCorrect,
+            explanationThai: ""
+          });
+        }
+        
+        const listeningScore = Math.round((listeningCorrect / 20) * 100);
+        const readingScore = Math.round((readingCorrect / 20) * 100);
+        const totalScore = listeningScore + readingScore;
+        const isPass = totalScore >= 120;
+        
+        return res.json({
+          totalScore,
+          maxScore: 200,
+          isPass,
+          parts: {
+            listening: { score: listeningScore, max: 100 },
+            reading: { score: readingScore, max: 100 },
+            writing: { score: 0, max: 0 }
+          },
+          results
+        });
+      }
+
+      if (level === 'HSK2' && hsk2AnswerKey[prefix as keyof typeof hsk2AnswerKey]) {
+        const answers = hsk2AnswerKey[prefix as keyof typeof hsk2AnswerKey];
+        let listeningCorrect = 0;
+        let readingCorrect = 0;
+        const results = [];
+        
+        for (let i = 1; i <= 60; i++) {
+          const qNum = i.toString();
+          const correctAns = (answers as any)[qNum] || "";
+          const userAns = userAnswers[qNum] || "";
+          const isCorrect = userAns !== "" && correctAns.toLowerCase() === userAns.toLowerCase();
+          
+          if (isCorrect) {
+            if (i <= 35) listeningCorrect++;
+            else readingCorrect++;
+          }
+          
+          results.push({
+            questionNumber: qNum,
+            userAnswer: userAns,
+            correctAnswer: correctAns,
+            isCorrect,
+            explanationThai: ""
+          });
+        }
+        
+        const listeningScore = Math.round((listeningCorrect / 35) * 100);
+        const readingScore = Math.round((readingCorrect / 25) * 100);
+        const totalScore = listeningScore + readingScore;
+        const isPass = totalScore >= 120;
+        
+        return res.json({
+          totalScore,
+          maxScore: 200,
+          isPass,
+          parts: {
+            listening: { score: listeningScore, max: 100 },
+            reading: { score: readingScore, max: 100 },
+            writing: { score: 0, max: 0 }
+          },
+          results
+        });
+      }
+
+      if (level === 'HSK3' && hsk3AnswerKey[prefix as keyof typeof hsk3AnswerKey]) {
+        const answers = hsk3AnswerKey[prefix as keyof typeof hsk3AnswerKey];
+        let listeningCorrect = 0;
+        let readingCorrect = 0;
+        let writingScore = 0;
+        const results = [];
+        
+        for (let i = 1; i <= 80; i++) {
+          const qNum = i.toString();
+          const correctAnsRaw = (answers as any)[qNum] || "";
+          const userAns = (userAnswers[qNum] || "").trim();
+          
+          let isCorrect = false;
+          if (i <= 70) {
+            isCorrect = userAns !== "" && correctAnsRaw.toLowerCase() === userAns.toLowerCase();
+            if (isCorrect) {
+              if (i <= 40) listeningCorrect++;
+              else readingCorrect++;
+            }
+          } else {
+            // HSK3 Writing (71-80)
+            const cleanUserAns = userAns.replace(/[。！？?!\s]/g, "");
+            const possibleAnswers = correctAnsRaw.split("/").map((a: string) => a.replace(/[。！？?!\s]/g, ""));
+            isCorrect = cleanUserAns !== "" && possibleAnswers.includes(cleanUserAns);
+            if (isCorrect) {
+              if (i <= 75) writingScore += 12; // Part 1: 12 pts each
+              else writingScore += 8; // Part 2: 8 pts each
+            }
+          }
+          
+          results.push({
+            questionNumber: qNum,
+            userAnswer: userAns,
+            correctAnswer: correctAnsRaw,
+            isCorrect,
+            explanationThai: ""
+          });
+        }
+        
+        const listeningScore = Math.round((listeningCorrect / 40) * 100);
+        const readingScore = Math.round((readingCorrect / 30) * 100);
+        const totalScore = listeningScore + readingScore + writingScore;
+        const isPass = totalScore >= 180;
+        
+        return res.json({
+          totalScore,
+          maxScore: 300,
+          isPass,
+          parts: {
+            listening: { score: listeningScore, max: 100 },
+            reading: { score: readingScore, max: 100 },
+            writing: { score: writingScore, max: 100 }
+          },
+          results
+        });
+      }
+
+      if (level === 'HSK4' && hsk4AnswerKey[prefix as keyof typeof hsk4AnswerKey]) {
+        const answers = hsk4AnswerKey[prefix as keyof typeof hsk4AnswerKey];
+        let listeningCorrect = 0;
+        let readingCorrect = 0;
+        let writingScore = 0;
+        const results = [];
+        
+        for (let i = 1; i <= 100; i++) {
+          const qNum = i.toString();
+          const correctAnsRaw = (answers as any)[qNum] || "";
+          const userAns = (userAnswers[qNum] || "").trim();
+          
+          let isCorrect = false;
+          if (i <= 85) {
+            isCorrect = userAns !== "" && correctAnsRaw.toLowerCase() === userAns.toLowerCase();
+            if (isCorrect) {
+              if (i <= 45) listeningCorrect++;
+              else readingCorrect++;
+            }
+          } else if (i <= 95) {
+            // HSK4 Writing Part 1 (86-95): 5 points each
+            const cleanUserAns = userAns.replace(/[。！？?!\s]/g, "");
+            const possibleAnswers = correctAnsRaw.split("/").map((a: string) => a.replace(/[。！？?!\s]/g, ""));
+            isCorrect = cleanUserAns !== "" && possibleAnswers.includes(cleanUserAns);
+            if (isCorrect) {
+              writingScore += 5;
+            }
+          } else {
+            // HSK4 Writing Part 2 (96-100): subjective, ignored for now
+            isCorrect = false;
+          }
+          
+          results.push({
+            questionNumber: qNum,
+            userAnswer: userAns,
+            correctAnswer: correctAnsRaw,
+            isCorrect,
+            explanationThai: i > 95 ? "พาร์ทนี้เป็นอัตนัย (แต่งประโยค) ระบบยังไม่สามารถตรวจให้คะแนนได้ในขณะนี้" : ""
+          });
+        }
+        
+        const listeningScore = Math.round((listeningCorrect / 45) * 100);
+        const readingScore = Math.round((readingCorrect / 40) * 100);
+        const totalScore = listeningScore + readingScore + writingScore;
+        const isPass = totalScore >= 150; // Passing is usually 180 out of 300, so 60%. 60% of 250 is 150.
+        
+        return res.json({
+          totalScore,
+          maxScore: 250,
+          isPass,
+          parts: {
+            listening: { score: listeningScore, max: 100 },
+            reading: { score: readingScore, max: 100 },
+            writing: { score: writingScore, max: 50 }
+          },
+          results
+        });
+      }
+
+      if (level === 'HSK5' && hsk5AnswerKey[prefix as keyof typeof hsk5AnswerKey]) {
+        const answers = hsk5AnswerKey[prefix as keyof typeof hsk5AnswerKey];
+        let listeningCorrect = 0;
+        let readingCorrect = 0;
+        let writingScore = 0;
+        const results = [];
+        
+        for (let i = 1; i <= 100; i++) {
+          const qNum = i.toString();
+          const correctAnsRaw = (answers as any)[qNum] || "";
+          const userAns = (userAnswers[qNum] || "").trim();
+          
+          let isCorrect = false;
+          if (i <= 90) {
+            isCorrect = userAns !== "" && correctAnsRaw.toLowerCase() === userAns.toLowerCase();
+            if (isCorrect) {
+              if (i <= 45) listeningCorrect++;
+              else readingCorrect++;
+            }
+          } else if (i <= 98) {
+            // HSK5 Writing Part 1 (91-98): 5 points each
+            const cleanUserAns = userAns.replace(/[。！？?!\s]/g, "");
+            const possibleAnswers = correctAnsRaw.split("/").map((a: string) => a.replace(/[。！？?!\s]/g, ""));
+            isCorrect = cleanUserAns !== "" && possibleAnswers.includes(cleanUserAns);
+            if (isCorrect) {
+              writingScore += 5;
+            }
+          } else {
+            // HSK5 Writing Part 2 (99-100): subjective, ignored for now
+            isCorrect = false;
+          }
+          
+          results.push({
+            questionNumber: qNum,
+            userAnswer: userAns,
+            correctAnswer: correctAnsRaw,
+            isCorrect,
+            explanationThai: i > 98 ? "พาร์ทนี้เป็นอัตนัย (แต่งประโยคสั้นๆ) ระบบยังไม่สามารถตรวจให้คะแนนได้ในขณะนี้" : ""
+          });
+        }
+        
+        const listeningScore = Math.round((listeningCorrect / 45) * 100);
+        const readingScore = Math.round((readingCorrect / 45) * 100);
+        const totalScore = listeningScore + readingScore + writingScore;
+        const isPass = totalScore >= 144; // 60% of 240 is 144. Max score is 240.
+        
+        return res.json({
+          totalScore,
+          maxScore: 240,
+          isPass,
+          parts: {
+            listening: { score: listeningScore, max: 100 },
+            reading: { score: readingScore, max: 100 },
+            writing: { score: writingScore, max: 40 }
+          },
+          results
+        });
+      }
+
+      if (level === 'HSK6' && hsk6AnswerKey[prefix as keyof typeof hsk6AnswerKey]) {
+        const answers = hsk6AnswerKey[prefix as keyof typeof hsk6AnswerKey];
+        let listeningCorrect = 0;
+        let readingCorrect = 0;
+        const results = [];
+        
+        for (let i = 1; i <= 101; i++) {
+          const qNum = i.toString();
+          const correctAnsRaw = (answers as any)[qNum] || "";
+          const userAns = (userAnswers[qNum] || "").trim();
+          
+          let isCorrect = false;
+          if (i <= 100) {
+            isCorrect = userAns !== "" && correctAnsRaw.toLowerCase() === userAns.toLowerCase();
+            if (isCorrect) {
+              if (i <= 50) listeningCorrect++;
+              else readingCorrect++;
+            }
+          } else {
+            // HSK6 Writing (101): subjective, ignored for now
+            isCorrect = false;
+          }
+          
+          results.push({
+            questionNumber: qNum,
+            userAnswer: userAns,
+            correctAnswer: correctAnsRaw,
+            isCorrect,
+            explanationThai: i === 101 ? "พาร์ทนี้เป็นอัตนัย (เขียนสรุปความ) ระบบยังไม่สามารถตรวจให้คะแนนได้ในขณะนี้" : ""
+          });
+        }
+        
+        const listeningScore = Math.round((listeningCorrect / 50) * 100);
+        const readingScore = Math.round((readingCorrect / 50) * 100);
+        const totalScore = listeningScore + readingScore;
+        const isPass = totalScore >= 120; // 60% of 200 is 120.
+        
+        return res.json({
+          totalScore,
+          maxScore: 200,
+          isPass,
+          parts: {
+            listening: { score: listeningScore, max: 100 },
+            reading: { score: readingScore, max: 100 },
+            writing: { score: 0, max: 0 }
+          },
+          results
+        });
+      }
+
+      const baseDir = type === 'hsk' ? 'C:\\Users\\USER\\Desktop\\HSK_Images' : 'C:\\Users\\USER\\Desktop\\Courseware_Images';
+      const targetDir = path.join(baseDir, folder);
+
+      if (!fs.existsSync(targetDir)) {
+        return res.status(404).json({ error: 'Exam images not found' });
+      }
+
+      const files = fs.readdirSync(targetDir);
+      const matchedFiles = files.filter(f => f.startsWith(prefix) && (f.endsWith('.jpg') || f.endsWith('.png')));
+      
+      matchedFiles.sort((a, b) => {
+        const numA = parseInt(a.match(/page(\d+)/)?.[1] || '0');
+        const numB = parseInt(b.match(/page(\d+)/)?.[1] || '0');
+        return numA - numB;
+      });
+
+      // Prepare images for Gemini
+      const imageParts = matchedFiles.map(f => {
+        const filePath = path.join(targetDir, f);
+        const data = fs.readFileSync(filePath).toString('base64');
+        return {
+          inlineData: {
+            data,
+            mimeType: 'image/jpeg'
+          }
+        };
+      });
+
+      const prompt = `
+You are an expert HSK Examiner.
+I have provided all the image pages of the mock exam ${prefix} (${level}).
+The last few pages contain the official Answer Key and listening tapescript.
+
+The user has submitted their answers in JSON format:
+${JSON.stringify(userAnswers, null, 2)}
+
+Your task is to:
+1. Read the provided images to find the official Answer Key at the end of the test.
+2. Compare the user's answers against the official Answer Key.
+3. For multiple-choice or matching questions, determine if it is correct or incorrect. If the user did not answer, mark it as incorrect and give 0 points.
+4. For writing/sentence composition parts (if the user provided a typed response), evaluate their response just like a real HSK exam evaluator, give it a partial or full score out of the maximum score for that question.
+5. DO NOT provide any detailed analysis or explanation. Keep "explanationThai" empty or write a very short correct answer string for writing parts.
+
+Return a STRICT JSON response matching this format:
+{
+  "totalScore": 0,
+  "maxScore": 0,
+  "isPass": true/false,
+  "parts": {
+    "listening": { "score": 0, "max": 100 },
+    "reading": { "score": 0, "max": 100 },
+    "writing": { "score": 0, "max": 100 }
+  },
+  "results": [
+    {
+      "questionNumber": "1",
+      "userAnswer": "A",
+      "correctAnswer": "A",
+      "isCorrect": true,
+      "explanationThai": ""
+    }
+  ]
+}
+      `;
+
+      const response = await ai.models.generateContent({
+        model: 'gemini-2.5-flash',
+        contents: [
+          ...imageParts,
+          prompt
+        ],
+        config: {
+          responseMimeType: 'application/json',
+        }
+      });
+
+      const jsonStr = response.text;
+      res.json(JSON.parse(jsonStr));
+
+    } catch (e: any) {
+      console.error(e);
+      res.status(500).json({ error: e.message });
+    }
+  });
 
   app.post("/api/tts", async (req, res) => {
     try {
@@ -262,7 +734,7 @@ async function startServer() {
       if (!ai) throw new Error("GenAI not initialized");
       console.log("Connecting to Gemini Live API...");
       liveSessionOptions = {
-        model: "gemini-2.5-flash-native-audio-latest",
+        model: "gemini-3.0-live-flash",
         callbacks: {
           onmessage: (message: LiveServerMessage) => {
             // Audio response
@@ -541,6 +1013,25 @@ async function startServer() {
              }
            } catch (e) {
              console.error("Error sending doc context to Gemini:", e);
+           }
+        }
+        
+        if (type === 'doc_page_change' && parsed.page !== undefined) {
+           if (!session || sessionClosed) return;
+           try {
+             if (session.sendClientContent) {
+               session.sendClientContent({
+                 turns: [
+                   {
+                     role: "user",
+                     parts: [{ text: `[System Update: ผู้เรียนเพิ่งเปลี่ยนมาดูเอกสารหน้า ${parsed.page} แล้ว โปรดอ้างอิงเนื้อหาให้ตรงกับหน้านี้]` }]
+                   }
+                 ],
+                 turnComplete: true
+               });
+             }
+           } catch (e) {
+             console.error("Error sending doc page change to Gemini:", e);
            }
         }
         

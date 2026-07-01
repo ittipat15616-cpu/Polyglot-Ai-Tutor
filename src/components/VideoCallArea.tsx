@@ -569,7 +569,7 @@ export default function VideoCallArea({ activeLang, askWord, clearAskWord, askPd
              }
              const rms = Math.sqrt(sumSquares / pcmData.length);
              const now = Date.now();
-             if (rms < 0.012 && now - lastAudioSentAtRef.current < 900) return;
+             if (rms < 0.015 && now - lastAudioSentAtRef.current < 900) return;
              lastAudioSentAtRef.current = now;
              const base64 = pcmToBase64(pcmData);
              if (wsRef.current.readyState === WebSocket.OPEN) {
@@ -587,10 +587,10 @@ export default function VideoCallArea({ activeLang, askWord, clearAskWord, askPd
           const hasDoc = isDocBoardOpenRef.current && docImageRef.current;
           if (!hasScreen && !hasVideo && !hasDoc) return;
 
-          let targetWidth = 512;
-          let targetHeight = 384;
-          let quality = 0.55;
-          if (hasScreen || hasDoc) { targetWidth = 768; targetHeight = 432; quality = 0.6; }
+          let targetWidth = 640;
+          let targetHeight = 480;
+          let quality = 0.7;
+          if (hasScreen || hasDoc) { targetWidth = 1024; targetHeight = 768; quality = 0.8; }
           
           const canvas = document.createElement('canvas');
           canvas.width = hasDoc && (hasScreen || hasVideo) ? targetWidth * 2 : targetWidth;
@@ -978,9 +978,21 @@ export default function VideoCallArea({ activeLang, askWord, clearAskWord, askPd
                <div className="flex items-center gap-1">
                  {docPdfFile && (
                    <>
-                     <button onClick={() => setDocPdfPage(p => Math.max(p - 1, 1))} disabled={docPdfPage <= 1} className="p-1 disabled:opacity-40 hover:bg-indigo-100 text-indigo-600 rounded transition-colors"><ChevronLeft size={20}/></button>
+                     <button onClick={() => {
+                       const newPage = Math.max(docPdfPage - 1, 1);
+                       setDocPdfPage(newPage);
+                       if (wsRef.current?.readyState === WebSocket.OPEN) {
+                         wsRef.current.send(JSON.stringify({ type: 'doc_page_change', page: newPage }));
+                       }
+                     }} disabled={docPdfPage <= 1} className="p-1 disabled:opacity-40 hover:bg-indigo-100 text-indigo-600 rounded transition-colors"><ChevronLeft size={20}/></button>
                      <span className="text-sm py-1 px-2 font-medium text-indigo-700">หน้า {docPdfPage} / {docPdfNumPages}</span>
-                     <button onClick={() => setDocPdfPage(p => Math.min(p + 1, docPdfNumPages))} disabled={docPdfPage >= docPdfNumPages} className="p-1 disabled:opacity-40 hover:bg-indigo-100 text-indigo-600 rounded transition-colors mr-2"><ChevronRight size={20}/></button>
+                     <button onClick={() => {
+                       const newPage = Math.min(docPdfPage + 1, docPdfNumPages);
+                       setDocPdfPage(newPage);
+                       if (wsRef.current?.readyState === WebSocket.OPEN) {
+                         wsRef.current.send(JSON.stringify({ type: 'doc_page_change', page: newPage }));
+                       }
+                     }} disabled={docPdfPage >= docPdfNumPages} className="p-1 disabled:opacity-40 hover:bg-indigo-100 text-indigo-600 rounded transition-colors mr-2"><ChevronRight size={20}/></button>
                      <button onClick={() => setIsPdfFullscreen(!isPdfFullscreen)} className="p-1 hover:bg-indigo-100 text-indigo-500 rounded transition-colors mr-2">
                         {isPdfFullscreen ? <Minimize2 size={20}/> : <Maximize2 size={20}/>}
                      </button>

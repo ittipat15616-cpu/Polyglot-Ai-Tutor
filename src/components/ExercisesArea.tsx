@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { BookOpen, Headphones, PenTool, Mic, ChevronLeft, FileText, ArrowRight, Library, FileCheck, Layers, Bot } from 'lucide-react';
+import DocumentGallery from './DocumentGallery';
 import { getVocabData } from '../data/mockContent';
 
 interface ExercisesAreaProps {
@@ -82,14 +83,8 @@ export default function ExercisesArea({ activeLang, onAskPDF }: ExercisesAreaPro
                 </button>
               </div>
             </div>
-            <div className="flex-1 w-full bg-gray-50">
-              <object
-                data={pdfUrl}
-                type="application/pdf"
-                className="w-full h-full border-0"
-              >
-                <p>Your browser does not support PDFs. <a href={pdfUrl}>Download the PDF</a>.</p>
-              </object>
+            <div className="flex-1 w-full bg-gray-50 overflow-hidden relative">
+              <DocumentGallery type="courseware" folder={selectedCNBook ? `${selectedCNLevel}-${selectedCNBook}` : selectedCNLevel} prefix={`Lesson${selectedCNLesson}_`} />
             </div>
           </div>
         );
@@ -129,14 +124,8 @@ export default function ExercisesArea({ activeLang, onAskPDF }: ExercisesAreaPro
                 </button>
               </div>
             </div>
-          <div className="flex-1 rounded-xl overflow-hidden border border-indigo-100">
-              <object
-                data={pdfUrl}
-                type="application/pdf"
-                className="w-full h-full border-0"
-              >
-                <p>Your browser does not support PDFs. <a href={pdfUrl}>Download the PDF</a>.</p>
-              </object>
+          <div className="flex-1 rounded-xl overflow-hidden border border-indigo-100 w-full h-full relative">
+              <DocumentGallery type="courseware" folder={selectedCNBook ? `${selectedCNLevel}-${selectedCNBook}` : selectedCNLevel} prefix={`Lesson${selectedCNLesson}_`} />
             </div>
           </div>
 

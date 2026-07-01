@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
-import { BookOpen, Headphones, PenTool, Mic, ChevronLeft, FileText, PlayCircle, ArrowRight, Bot } from 'lucide-react';
+import { BookOpen, Headphones, PenTool, Mic, ChevronLeft, FileText, PlayCircle, ArrowRight, Bot, Clock } from 'lucide-react';
+import DocumentGallery from './DocumentGallery';
 
 
 const hskExamsData: Record<string, { id: string, name: string, videoId: string }[]> = {
@@ -137,7 +138,6 @@ export default function ExamsArea({ activeLang, onAskAI }: { activeLang: 'EN' | 
     }
   };
 
-  // View: Specific Exam Details
   if (selectedExamSet && selectedCategory) {
     const examsList = hskExamsData[selectedCategory] || [];
     const examData = examsList.find(e => e.id === selectedExamSet);
@@ -173,14 +173,8 @@ export default function ExamsArea({ activeLang, onAskAI }: { activeLang: 'EN' | 
               </button>
             </div>
           </div>
-          <div className="flex-1 w-full bg-gray-50">
-            <object
-              data={pdfUrl}
-              type="application/pdf"
-              className="w-full h-full border-0"
-            >
-              <p>Your browser does not support PDFs. <a href={pdfUrl}>Download the PDF</a>.</p>
-            </object>
+          <div className="flex-1 w-full bg-gray-50 overflow-hidden relative">
+            <DocumentGallery type="hsk" folder={selectedCategory.replace('HSK', 'H')} prefix={selectedExamSet} />
           </div>
         </div>
       );
@@ -231,16 +225,18 @@ export default function ExamsArea({ activeLang, onAskAI }: { activeLang: 'EN' | 
               <FileText size={22} className="text-indigo-500" />
               <h3 className="text-xl font-semibold text-gray-800">เอกสารข้อสอบ</h3>
             </div>
-            <button 
-              onClick={() => setIsFullscreen(true)}
-              className="flex items-center gap-2 text-sm bg-indigo-50 text-indigo-600 hover:bg-indigo-100 px-4 py-2 rounded-lg font-medium transition-colors"
-            >
-              ดูแบบเต็มจอ
-            </button>
+            <div className="flex items-center gap-2">
+              <button 
+                onClick={() => setIsFullscreen(true)}
+                className="flex items-center gap-2 text-sm bg-indigo-50 text-indigo-600 hover:bg-indigo-100 px-4 py-2 rounded-lg font-medium transition-colors"
+              >
+                ดูแบบเต็มจอ
+              </button>
+            </div>
           </div>
-            <object data={pdfUrl} type="application/pdf" className="w-full h-full border-0">
-              <p>Your browser does not support PDFs. <a href={pdfUrl}>Download the PDF</a>.</p>
-            </object>
+          <div className="w-full h-full flex-1 overflow-hidden rounded-xl border border-gray-100">
+            <DocumentGallery type="hsk" folder={selectedCategory.replace('HSK', 'H')} prefix={selectedExamSet} />
+          </div>
         </div>
 
         {/* Floating Ask AI Button — fixed bottom right, always fully visible */}

@@ -1,0 +1,106 @@
+import React, { useEffect, useState } from 'react';
+import { Download } from 'lucide-react';
+
+interface DocumentGalleryProps {
+  type: 'hsk' | 'courseware';
+  folder: string;
+  prefix: string;
+  hideLastNPages?: number;
+  hideDownload?: boolean;
+  prependNode?: React.ReactNode;
+}
+
+export default function DocumentGallery({ type, folder, prefix, hideLastNPages = 0, hideDownload = false, prependNode }: DocumentGalleryProps) {
+  const [images, setImages] = useState<string[]>([]);
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    setLoading(true);
+    fetch(`/api/document-pages?type=${type}&folder=${folder}&prefix=${prefix}`)
+      .then(res => res.json())
+      .then(data => {
+        let finalImages = data || [];
+        if (hideLastNPages && finalImages.length > hideLastNPages) {
+          finalImages = finalImages.slice(0, finalImages.length - hideLastNPages);
+        }
+        setImages(finalImages);
+        setLoading(false);
+      })
+      .catch(err => {
+        console.error('Failed to fetch document pages:', err);
+        setLoading(false);
+      });
+  }, [type, folder, prefix]);
+
+  const handleDownload = (url: string, index: number) => {
+    // Create an invisible link to trigger the download
+    const link = document.createElement('a');
+    link.href = url;
+    link.download = `${prefix}_page${index + 1}.jpg`;
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
+  };
+
+  if (loading) {
+    return (
+      <div className="w-full h-full flex items-center justify-center bg-gray-50">
+        <div className="animate-spin rounded-full h-10 w-10 border-b-2 border-indigo-600"></div>
+      </div>
+    );
+  }
+
+  if (images.length === 0) {
+    return (
+      <div className="w-full h-full flex flex-col items-center justify-center bg-gray-50 text-gray-500">
+        <p>ไม่พบไฟล์ภาพเอกสารสำหรับเรื่องนี้</p>
+        <p className="text-sm mt-2">(ไฟล์อาจกำลังอยู่ระหว่างเตรียมการ)</p>
+      </div>
+    );
+  }
+
+  return (
+    <div className="w-full h-full overflow-y-auto bg-gray-100 p-4 relative">
+      <div className="flex flex-col gap-6 max-w-3xl mx-auto">
+        {prependNode}
+        {images.map((url, idx) => (
+          <div key={url} className="relative group bg-white shadow-md rounded-xl overflow-hidden border border-gray-200">
+            {/* Image */}
+            <img src={url} alt={`${prefix} page ${idx + 1}`} className="w-full h-auto block" />
+            
+            {/* Page Number indicator */}
+            <div className="absolute top-4 left-4 bg-black/60 backdrop-blur-sm text-white px-3 py-1 rounded-full text-xs font-bold z-10">
+              หน้าที่ {idx + 1}
+            </div>
+
+            {!hideDownload && (
+              <>
+                {/* Download Button */}
+                <div className="absolute top-4 right-4 opacity-0 group-hover:opacity-100 transition-opacity z-10">
+                  <button 
+                    onClick={() => handleDownload(url, idx)}
+                    className="bg-indigo-600 hover:bg-indigo-700 text-white p-2.5 rounded-full shadow-lg flex items-center gap-2 transform hover:scale-105 transition-all"
+                    title="ดาวน์โหลดภาพหน้านี้"
+                  >
+                    <Download size={18} />
+                    <span className="text-sm font-bold pr-1">ดาวน์โหลด</span>
+                  </button>
+                </div>
+                
+                {/* Download Button (Mobile Fallback always visible slightly) */}
+                <div className="absolute bottom-4 right-4 md:hidden z-10">
+                  <button 
+                    onClick={() => handleDownload(url, idx)}
+                    className="bg-indigo-600/90 text-white p-2.5 rounded-full shadow-lg"
+                  >
+                    <Download size={18} />
+                  </button>
+                </div>
+              </>
+            )}
+          </div>
+        ))}
+      </div>
+    </div>
+  );
+}

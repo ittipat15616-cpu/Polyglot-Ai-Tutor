@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Extract HSK PDFs</title>
+  <style>body { font-family: sans-serif; padding: 20px; }</style>
+</head>
+<body>
+  <h1>Extracting HSK PDFs...</h1>
+  <div id="status">Loading...</div>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
+  <script>
+    const pdfjsLib = window['pdfjs-dist/build/pdf'];
+    pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
+
+    const params = new URLSearchParams(window.location.search);
+    const basePath = params.get('basePath') || `/hsk/${params.get('levelFolder') || 'hsk1'}`; 
+    const levelCode = params.get('levelCode') || 'H1'; // This becomes the output folder name
+    const files = (params.get('files') || 'H10901').split(',');
+    const saveEndpoint = params.get('saveEndpoint') || '/api/save-image';
+
+    const statusEl = document.getElementById('status');
+
+    async function process() {
+      for (const code of files) {
+        statusEl.innerText = `Processing ${code}...`;
+        const url = `${basePath}/${code}.pdf`;
+        const pdf = await pdfjsLib.getDocument(url).promise;
+        for (let i = 1; i <= pdf.numPages; i++) {
+          const page = await pdf.getPage(i);
+          const viewport = page.getViewport({ scale: 2.0 });
+          const canvas = document.createElement('canvas');
+          canvas.width = viewport.width;
+          canvas.height = viewport.height;
+          const ctx = canvas.getContext('2d');
+          await page.render({ canvasContext: ctx, viewport }).promise;
+          
+          const base64 = canvas.toDataURL('image/jpeg', 0.9).split(',')[1];
+          await fetch(saveEndpoint, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ folder: levelCode, filename: `${code}_page${i}.jpg`, imageBase64: base64 })
+          });
+          statusEl.innerText = `Saved ${code}_page${i}.jpg`;
+        }
+      }
+      statusEl.innerHTML = `<h2>Done!</h2><p>Check HSK_Images/${levelCode} directory.</p>`;
+    }
+    process().catch(e => { 
+      statusEl.innerText = 'Error: ' + e.message; 
+      console.log('BrowserError:', e.message, e.stack);
+    });
+  </script>
+</body>
+</html>

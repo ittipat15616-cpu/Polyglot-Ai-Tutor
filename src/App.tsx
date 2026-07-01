@@ -1,5 +1,5 @@
-import { useState } from 'react';
-import { BookOpen, Video, Pencil, Layers, FileSignature, UserCircle, Sparkles } from 'lucide-react';
+import { useState, useEffect } from 'react';
+import { BookOpen, Video, Pencil, Layers, FileSignature, UserCircle, Sparkles, Clock, Phone } from 'lucide-react';
 import { motion, AnimatePresence } from 'motion/react';
 import LoginArea, { UserProfile } from './components/LoginArea';
 import LessonsArea from './components/LessonsArea';
@@ -7,17 +7,42 @@ import VideoCallArea from './components/VideoCallArea';
 import ExercisesArea from './components/ExercisesArea';
 import FlashcardsArea from './components/FlashcardsArea';
 import ExamsArea from './components/ExamsArea';
+import MockTestsTabArea from './components/MockTestsTabArea';
+import ContactArea from './components/ContactArea';
 
 const NAV_ITEMS = [
-  { id: 'vocab',      icon: BookOpen,       label: 'คลังคำศัพท์' },
   { id: 'exercises',  icon: Pencil,         label: 'บทเรียน'      },
   { id: 'exams',      icon: FileSignature,  label: 'ข้อสอบ'       },
-  { id: 'flashcards', icon: Layers,         label: 'แฟลชการ์ด'   },
-  { id: 'call',       icon: Video,          label: 'วิดีโอคอล'   },
+  { id: 'mocktests',  icon: Clock,          label: 'จำลองสอบ'     },
+  { id: 'contact',    icon: Phone,          label: 'ติดต่อเรา'     },
 ];
 
+function RealtimeClock() {
+  const [time, setTime] = useState(new Date());
+
+  useEffect(() => {
+    const timer = setInterval(() => setTime(new Date()), 1000);
+    return () => clearInterval(timer);
+  }, []);
+
+  const thDate = time.toLocaleDateString('th-TH', {
+    weekday: 'long',
+    year: 'numeric',
+    month: 'long',
+    day: 'numeric',
+  });
+  const thTime = time.toLocaleTimeString('th-TH');
+
+  return (
+    <div className="hidden lg:flex items-center gap-1.5 ml-3 px-3 py-1 bg-indigo-50/80 border border-indigo-100 rounded-lg shadow-sm text-xs text-indigo-700 font-medium whitespace-nowrap">
+      <Clock size={12} className="text-indigo-500" />
+      <span>{thDate} เวลา {thTime}</span>
+    </div>
+  );
+}
+
 export default function App() {
-  const [activeTab, setActiveTab] = useState('vocab');
+  const [activeTab, setActiveTab] = useState('exercises');
   const [activeLang, setActiveLang] = useState<'EN' | 'CN' | 'TH'>('EN');
   const [askWord, setAskWord] = useState<string | null>(null);
   const [askPdfUrl, setAskPdfUrl] = useState<string | null>(null);
@@ -48,6 +73,7 @@ export default function App() {
           </div>
           <span className="text-lg font-bold gradient-text tracking-tight hidden sm:inline">Polyglot AI</span>
           <span className="badge badge-gold hidden md:inline-flex">Beta</span>
+          <RealtimeClock />
         </motion.div>
 
         {/* Right controls */}
@@ -97,11 +123,6 @@ export default function App() {
       <main className="relative z-0 flex-1 overflow-y-auto w-full pb-20 md:pb-0">
         <div className="max-w-5xl mx-auto p-4 md:p-6 w-full flex flex-col min-h-full">
           <AnimatePresence mode="wait">
-            {activeTab === 'vocab' && (
-              <motion.div key="vocab" initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: -6 }} transition={{ duration: 0.22 }}>
-                <LessonsArea activeLang={activeLang} onAskAI={handleAskAI} />
-              </motion.div>
-            )}
             {activeTab === 'exercises' && (
               <motion.div key="exercises" initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: -6 }} transition={{ duration: 0.22 }}>
                 <ExercisesArea activeLang={activeLang} onAskPDF={handleAskPDF} />
@@ -112,9 +133,20 @@ export default function App() {
                 <ExamsArea activeLang={activeLang} onAskAI={handleAskAI} />
               </motion.div>
             )}
-            {activeTab === 'flashcards' && (
-              <motion.div key="flashcards" initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: -6 }} transition={{ duration: 0.22 }}>
-                <FlashcardsArea activeLang={activeLang} onAskAI={handleAskAI} />
+            {activeTab === 'mocktests' && (
+              <motion.div key="mocktests" initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: -6 }} transition={{ duration: 0.22 }} className="h-full">
+                <MockTestsTabArea 
+                  onAskAI={(msg) => {
+                    setAskWord(msg);
+                    setActiveTab('call');
+                  }}
+                />
+              </motion.div>
+            )}
+
+            {activeTab === 'contact' && (
+              <motion.div key="contact" initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: -6 }} transition={{ duration: 0.22 }} className="h-full">
+                <ContactArea />
               </motion.div>
             )}
           </AnimatePresence>
@@ -167,6 +199,22 @@ export default function App() {
               </button>
             );
           })}
+        </div>
+        
+        {/* External AI Tutor Link */}
+        <div className="absolute right-4 flex items-center gap-2">
+          <span className="text-xs md:text-sm font-semibold text-indigo-700 hidden sm:block">
+            ไปสู่หน้าคลังคำศัพท์และ ai tutor ➡️
+          </span>
+          <a
+            href="https://polyglot-ai-tutor-739782438298.asia-southeast1.run.app"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="flex items-center gap-1 px-3 py-1.5 rounded-lg bg-gradient-to-r from-indigo-500 to-purple-600 text-white text-xs font-bold shadow-md hover:shadow-lg transition-all hover:scale-105"
+            title="ไปสู่หน้าคลังคำศัพท์และ ai tutor"
+          >
+            Go
+          </a>
         </div>
       </nav>
 
