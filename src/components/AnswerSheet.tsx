@@ -12,8 +12,8 @@ export default function AnswerSheet({ structure, answers, onAnswerChange }: Answ
   const [selectedItem, setSelectedItem] = useState<string | null>(null);
 
   const renderChoiceQuestion = (qNum: number, options: string[]) => (
-    <div key={qNum} className="flex items-center gap-4 py-2 border-b border-gray-100">
-      <div className="w-8 h-8 flex items-center justify-center bg-gray-100 rounded-full font-bold text-gray-700">
+    <div key={qNum} className="flex items-center gap-2 sm:gap-4 py-2 border-b border-gray-100">
+      <div className="w-8 h-8 flex items-center justify-center bg-gray-100 rounded-full font-bold text-gray-700 shrink-0">
         {qNum}
       </div>
       <div className="flex gap-2">
@@ -41,11 +41,11 @@ export default function AnswerSheet({ structure, answers, onAnswerChange }: Answ
   );
 
   const renderTrueFalseQuestion = (qNum: number, options: string[]) => (
-    <div key={qNum} className="flex items-center gap-4 py-2 border-b border-gray-100">
-      <div className="w-8 h-8 flex items-center justify-center bg-gray-100 rounded-full font-bold text-gray-700">
+    <div key={qNum} className="flex items-center gap-2 sm:gap-4 py-2 border-b border-gray-100">
+      <div className="w-8 h-8 flex items-center justify-center bg-gray-100 rounded-full font-bold text-gray-700 shrink-0">
         {qNum}
       </div>
-      <div className="flex gap-4">
+      <div className="flex gap-2 sm:gap-4">
         {options.map((opt) => (
           <label key={opt} className="cursor-pointer">
             <input
@@ -56,7 +56,7 @@ export default function AnswerSheet({ structure, answers, onAnswerChange }: Answ
               onChange={() => onAnswerChange(qNum.toString(), opt)}
               className="sr-only"
             />
-            <div className={`px-4 py-2 flex items-center justify-center rounded-xl border-2 transition-all text-lg font-bold ${
+            <div className={`px-3 py-1.5 sm:px-4 sm:py-2 flex items-center justify-center rounded-xl border-2 transition-all text-lg font-bold ${
               answers[qNum] === opt
                 ? (opt === '✓' ? 'bg-green-500 border-green-500 text-white shadow-md' : 'bg-red-500 border-red-500 text-white shadow-md')
                 : 'border-gray-300 text-gray-600 hover:border-gray-400 hover:bg-gray-50'

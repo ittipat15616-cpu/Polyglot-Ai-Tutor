@@ -78,10 +78,20 @@ export default function App() {
 
         {/* Right controls */}
         <div className="flex items-center gap-2">
+          {/* External AI Tutor Link */}
+          <a
+            href="https://polyglot-ai-tutor-739782438298.asia-southeast1.run.app"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="flex items-center gap-1 px-2.5 sm:px-3 py-1.5 rounded-lg bg-gradient-to-r from-indigo-500 to-purple-600 text-white text-xs font-bold shadow-sm hover:shadow-md transition-all hover:scale-105"
+            title="ไปสู่หน้าคลังคำศัพท์และ ai tutor"
+          >
+            <span className="hidden sm:inline">AI Tutor</span> ➡️
+          </a>
+          
           {/* Language selector */}
           <div className="flex items-center gap-1 rounded-xl p-1" style={{ background: 'var(--c-surface-2)', border: '1px solid var(--c-border-soft)' }}>
             {[
-              { code: 'TH', flag: '🇹🇭' },
               { code: 'EN', flag: '🇬🇧' },
               { code: 'CN', flag: '🇨🇳' },
             ].map(({ code, flag }) => (
@@ -201,21 +211,6 @@ export default function App() {
           })}
         </div>
         
-        {/* External AI Tutor Link */}
-        <div className="absolute right-4 flex items-center gap-2">
-          <span className="text-xs md:text-sm font-semibold text-indigo-700 hidden sm:block">
-            ไปสู่หน้าคลังคำศัพท์และ ai tutor ➡️
-          </span>
-          <a
-            href="https://polyglot-ai-tutor-739782438298.asia-southeast1.run.app"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="flex items-center gap-1 px-3 py-1.5 rounded-lg bg-gradient-to-r from-indigo-500 to-purple-600 text-white text-xs font-bold shadow-md hover:shadow-lg transition-all hover:scale-105"
-            title="ไปสู่หน้าคลังคำศัพท์และ ai tutor"
-          >
-            Go
-          </a>
-        </div>
       </nav>
 
       {/* Login Modal */}

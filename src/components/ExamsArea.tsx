@@ -83,10 +83,45 @@ const hskExamsData: Record<string, { id: string, name: string, videoId: string }
     { id: 'H61329', name: 'ข้อสอบ HSK6 ชุด H61329', videoId: 'Oe_c1Sm8494' },
     { id: 'H61330', name: 'ข้อสอบ HSK6 ชุด H61330', videoId: 'HtzmOTOgcjo' },
     { id: 'H61332', name: 'ข้อสอบ HSK6 ชุด H61332', videoId: 'NyiUTcHp70E' },
+  ],
+  HSKK_Basic: [
+    { id: 'H71001', name: 'ข้อสอบ HSKK ระดับต้น ชุด H71001', videoId: 'El1QYI_QhsA' },
+    { id: 'H71002', name: 'ข้อสอบ HSKK ระดับต้น ชุด H71002', videoId: 'e_OER_nKHcA' },
+    { id: 'H71003', name: 'ข้อสอบ HSKK ระดับต้น ชุด H71003', videoId: '4MCsBd35sGg' },
+    { id: 'H71004', name: 'ข้อสอบ HSKK ระดับต้น ชุด H71004', videoId: 'WJoHM79KfQk' },
+    { id: 'H71105', name: 'ข้อสอบ HSKK ระดับต้น ชุด H71105', videoId: 'SmCGFAr3fiw' },
+    { id: 'H71106', name: 'ข้อสอบ HSKK ระดับต้น ชุด H71106', videoId: 'e6g1WGuyd4o' },
+    { id: 'H71107', name: 'ข้อสอบ HSKK ระดับต้น ชุด H71107', videoId: 'H_4ZUcCQMmk' },
+    { id: 'H71208', name: 'ข้อสอบ HSKK ระดับต้น ชุด H71208', videoId: '5V9tzwYaCIU' },
+    { id: 'H71209', name: 'ข้อสอบ HSKK ระดับต้น ชุด H71209', videoId: '1kXp_xjtqfY' },
+    { id: 'H71210', name: 'ข้อสอบ HSKK ระดับต้น ชุด H71210', videoId: '4B6bIiYf-4k' },
+  ],
+  HSKK_Intermediate: [
+    { id: 'H81001', name: 'ข้อสอบ HSKK ระดับกลาง ชุด H81001', videoId: 'BqMr9RfoZOg' },
+    { id: 'H81002', name: 'ข้อสอบ HSKK ระดับกลาง ชุด H81002', videoId: '6CEas7FQ85o' },
+    { id: 'H81003', name: 'ข้อสอบ HSKK ระดับกลาง ชุด H81003', videoId: 'mEQ-yEf3bIE' },
+    { id: 'H81004', name: 'ข้อสอบ HSKK ระดับกลาง ชุด H81004', videoId: 'msH4in1_6uY' },
+    { id: 'H81105', name: 'ข้อสอบ HSKK ระดับกลาง ชุด H81105', videoId: 'ngRigWky6HY' },
+    { id: 'H81107', name: 'ข้อสอบ HSKK ระดับกลาง ชุด H81107', videoId: 'TTt5JfKZfcM' },
+    { id: 'H81208', name: 'ข้อสอบ HSKK ระดับกลาง ชุด H81208', videoId: 'JZU49jhArV8' },
+    { id: 'H81209', name: 'ข้อสอบ HSKK ระดับกลาง ชุด H81209', videoId: '5B76U3y5QHc' },
+    { id: 'H81210', name: 'ข้อสอบ HSKK ระดับกลาง ชุด H81210', videoId: 'OxRYPnFRsDg' },
+    { id: 'H81311', name: 'ข้อสอบ HSKK ระดับกลาง ชุด H81311', videoId: '7sWteGrhYR0' },
+  ],
+  HSKK_Advanced: [
+    { id: 'H91001', name: 'ข้อสอบ HSKK ระดับสูง ชุด H91001', videoId: '68yTAQAeSY8' },
+    { id: 'H91003', name: 'ข้อสอบ HSKK ระดับสูง ชุด H91003', videoId: 'Rt3fPSN5L2g' },
+    { id: 'H91105', name: 'ข้อสอบ HSKK ระดับสูง ชุด H91105', videoId: 'Duv9Qx6d9Q8' },
+    { id: 'H91106', name: 'ข้อสอบ HSKK ระดับสูง ชุด H91106', videoId: 'YAbycGsqi2s' },
+    { id: 'H91107', name: 'ข้อสอบ HSKK ระดับสูง ชุด H91107', videoId: 'W8bACIwEr2w' },
+    { id: 'H91208', name: 'ข้อสอบ HSKK ระดับสูง ชุด H91208', videoId: 'iPCghjdc9HY' },
+    { id: 'H91209', name: 'ข้อสอบ HSKK ระดับสูง ชุด H91209', videoId: 'ftL_0TyQKH0' },
+    { id: 'H91210', name: 'ข้อสอบ HSKK ระดับสูง ชุด H91210', videoId: 'tE9fUTzo9WY' },
   ]
 };
 
 export default function ExamsArea({ activeLang, onAskAI }: { activeLang: 'EN' | 'CN' | 'TH', onAskAI?: (word: string) => void }) {
+  const [selectedExamType, setSelectedExamType] = useState<'HSK' | 'HSKK' | null>(null);
   const [selectedCategory, setSelectedCategory] = useState<string | null>(null);
   const [selectedSkill, setSelectedSkill] = useState<string | null>(null);
   const [selectedExamSet, setSelectedExamSet] = useState<string | null>(null);
@@ -133,15 +168,19 @@ export default function ExamsArea({ activeLang, onAskAI }: { activeLang: 'EN' | 
       } else {
         setSelectedSkill(null);
       }
-    } else {
+      return;
+    } 
+    if (selectedCategory) {
       setSelectedCategory(null);
+      return;
     }
+    setSelectedExamType(null);
   };
 
   if (selectedExamSet && selectedCategory) {
     const examsList = hskExamsData[selectedCategory] || [];
     const examData = examsList.find(e => e.id === selectedExamSet);
-    const folderName = selectedCategory.toLowerCase(); // hsk1, hsk2, etc.
+    const folderName = selectedCategory.startsWith('HSKK') ? selectedCategory.toLowerCase() : selectedCategory.replace('HSK', 'H');
     const pdfUrl = `/hsk/${folderName}/${selectedExamSet}.pdf`;
 
     if (isFullscreen) {
@@ -173,9 +212,9 @@ export default function ExamsArea({ activeLang, onAskAI }: { activeLang: 'EN' | 
               </button>
             </div>
           </div>
-          <div className="flex-1 w-full bg-gray-50 overflow-hidden relative">
-            <DocumentGallery type="hsk" folder={selectedCategory.replace('HSK', 'H')} prefix={selectedExamSet} />
-          </div>
+            <div className="flex-1 rounded-xl overflow-hidden border border-indigo-100 bg-white relative">
+              <DocumentGallery type="hsk" folder={folderName} prefix={selectedExamSet} enableAnnotation={true} />
+            </div>
         </div>
       );
     }
@@ -235,7 +274,12 @@ export default function ExamsArea({ activeLang, onAskAI }: { activeLang: 'EN' | 
             </div>
           </div>
           <div className="w-full h-full flex-1 overflow-hidden rounded-xl border border-gray-100">
-            <DocumentGallery type="hsk" folder={selectedCategory.replace('HSK', 'H')} prefix={selectedExamSet} />
+            <DocumentGallery 
+              type="hsk" 
+              folder={folderName} 
+              prefix={selectedExamSet} 
+              enableAnnotation={true} 
+            />
           </div>
         </div>
 
@@ -371,26 +415,84 @@ export default function ExamsArea({ activeLang, onAskAI }: { activeLang: 'EN' | 
       { id: 'HSK5', name: 'HSK 5', desc: 'การวัดระดับภาษาจีนระดับสูงตอนต้น' },
       { id: 'HSK6', name: 'HSK 6', desc: 'การวัดระดับภาษาจีนระดับสูง' },
     ];
+    
+    const hskkLevels = [
+      { id: 'HSKK_Basic', name: 'HSKK Basic', desc: 'การทดสอบการพูดภาษาจีนระดับต้น' },
+      { id: 'HSKK_Intermediate', name: 'HSKK Intermediate', desc: 'การทดสอบการพูดภาษาจีนระดับกลาง' },
+      { id: 'HSKK_Advanced', name: 'HSKK Advanced', desc: 'การทดสอบการพูดภาษาจีนระดับสูง' },
+    ];
+
+    if (!selectedExamType) {
+      return (
+        <div className="flex flex-col h-full w-full max-w-4xl mx-auto">
+          <h2 className="text-2xl font-bold text-gray-900 mb-2">ตัวอย่างข้อสอบ (Chinese)</h2>
+          <p className="text-gray-500 mb-8">เลือกประเภทข้อสอบภาษาจีนที่คุณต้องการทดสอบ</p>
+  
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <button
+              onClick={() => setSelectedExamType('HSK')}
+              className="bg-white border border-gray-200 rounded-3xl p-8 flex flex-col items-start gap-4 hover:border-rose-500 hover:shadow-lg transition-all text-left"
+            >
+              <div className="w-16 h-16 rounded-2xl bg-rose-50 flex items-center justify-center text-rose-600 font-bold text-xl mb-2">
+                HSK
+              </div>
+              <div>
+                <h3 className="text-2xl font-bold text-gray-900 mb-2">HSK (汉语水平考试)</h3>
+                <p className="text-gray-600">การทดสอบความรู้ภาษาจีนสำหรับชาวต่างชาติ (การฟัง การอ่าน การเขียน)</p>
+              </div>
+              <div className="mt-4 flex items-center gap-2 text-rose-600 font-semibold uppercase tracking-wide text-sm">
+                เข้าสู่ระบบจำลองสอบ <ArrowRight size={16} />
+              </div>
+            </button>
+  
+            <button
+              onClick={() => setSelectedExamType('HSKK')}
+              className="bg-white border border-gray-200 rounded-3xl p-8 flex flex-col items-start gap-4 hover:border-orange-500 hover:shadow-lg transition-all text-left"
+            >
+              <div className="w-16 h-16 rounded-2xl bg-orange-50 flex items-center justify-center text-orange-600 font-bold text-xl mb-2">
+                HSKK
+              </div>
+              <div>
+                <h3 className="text-2xl font-bold text-gray-900 mb-2">HSKK (汉语水平口语考试)</h3>
+                <p className="text-gray-600">การทดสอบการพูดภาษาจีน (ทักษะการพูดโดยเฉพาะ)</p>
+              </div>
+              <div className="mt-4 flex items-center gap-2 text-orange-600 font-semibold uppercase tracking-wide text-sm">
+                เข้าสู่ระบบจำลองสอบ <ArrowRight size={16} />
+              </div>
+            </button>
+          </div>
+        </div>
+      );
+    }
+
+    const levelsToDisplay = selectedExamType === 'HSK' ? hskLevels : hskkLevels;
+
     return (
-      <div className="flex flex-col h-full w-full max-w-4xl mx-auto">
-        <h2 className="text-2xl font-bold text-gray-900 mb-2">ตัวอย่างข้อสอบ (Chinese)</h2>
-        <p className="text-gray-500 mb-8">เลือกระดับ HSK ที่ต้องการทดสอบ</p>
+      <div className="flex flex-col h-full w-full max-w-4xl mx-auto pb-10">
+        <button 
+          onClick={handleBack}
+          className="flex items-center gap-2 text-indigo-600 font-medium hover:text-indigo-700 transition-colors mb-6 self-start"
+        >
+          <ChevronLeft size={20} /> ย้อนกลับ
+        </button>
+        <h2 className="text-2xl font-bold text-gray-900 mb-2">ตัวอย่างข้อสอบ {selectedExamType}</h2>
+        <p className="text-gray-500 mb-8">เลือกระดับที่ต้องการทดสอบ</p>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-          {hskLevels.map((level) => (
+          {levelsToDisplay.map((level) => (
             <button
               key={level.id}
               onClick={() => { setSelectedCategory(level.id); setSelectedSkill('รวมทักษะ'); }}
-              className="bg-white border border-gray-200 rounded-3xl p-6 flex flex-col items-start gap-4 hover:border-rose-500 hover:shadow-lg transition-all text-left"
+              className={`bg-white border border-gray-200 rounded-3xl p-6 flex flex-col items-start gap-4 hover:shadow-lg transition-all text-left ${selectedExamType === 'HSK' ? 'hover:border-rose-500' : 'hover:border-orange-500'}`}
             >
-              <div className="w-14 h-14 rounded-2xl bg-rose-50 flex items-center justify-center text-rose-600 font-bold text-xl mb-2">
+              <div className={`h-14 px-5 rounded-2xl inline-flex items-center justify-center font-bold text-xl mb-2 whitespace-nowrap shrink-0 ${selectedExamType === 'HSK' ? 'bg-rose-50 text-rose-600' : 'bg-orange-50 text-orange-600'}`}>
                 {level.name}
               </div>
               <div>
                 <h3 className="text-xl font-bold text-gray-900 mb-1">{level.name} Practice Tests</h3>
                 <p className="text-gray-600 text-sm">{level.desc}</p>
               </div>
-              <div className="mt-2 flex items-center gap-2 text-rose-600 font-semibold uppercase tracking-wide text-sm">
+              <div className={`mt-2 flex items-center gap-2 font-semibold uppercase tracking-wide text-sm ${selectedExamType === 'HSK' ? 'text-rose-600' : 'text-orange-600'}`}>
                 ดูตัวอย่างข้อสอบ <ArrowRight size={16} />
               </div>
             </button>

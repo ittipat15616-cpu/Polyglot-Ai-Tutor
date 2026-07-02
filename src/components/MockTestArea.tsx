@@ -174,7 +174,7 @@ export default function MockTestArea({ level, examId, videoId, onExit }: MockTes
       </div>
 
       {/* Right side: Answer Sheet */}
-      <div className="w-full md:w-[450px] lg:w-[500px] h-1/2 md:h-full flex flex-col bg-white pb-20 md:pb-0">
+      <div className="w-full md:w-[450px] lg:w-[500px] h-[55vh] md:h-full shrink-0 md:shrink flex flex-col bg-white pb-20 md:pb-0 z-10 border-t md:border-t-0 md:border-l border-gray-200">
         <div className="bg-white border-b border-gray-200 p-4 flex flex-col gap-2 shrink-0 shadow-sm z-10">
           <div className="flex items-center justify-between">
             <h2 className="font-black text-xl text-gray-800">กระดาษคำตอบ</h2>

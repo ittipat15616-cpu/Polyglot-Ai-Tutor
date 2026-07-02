@@ -101,13 +101,13 @@ export default function ExercisesArea({ activeLang, onAskPDF }: ExercisesAreaPro
 
           <h2 className="text-2xl font-bold text-gray-900 mb-6">{titleStr}</h2>
 
-          <div className="bg-white rounded-2xl shadow-sm border border-gray-100 p-6 flex flex-col h-[800px]">
-            <div className="flex items-center justify-between mb-4">
+          <div className="bg-white rounded-2xl shadow-sm border border-gray-100 p-4 sm:p-6 flex flex-col h-[500px] md:h-[800px]">
+            <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between mb-4 gap-3">
               <div className="flex items-center gap-2">
                 <FileText size={24} className="text-blue-500" />
                 <h3 className="text-xl font-semibold text-gray-800">เอกสารประกอบการเรียน</h3>
               </div>
-              <div className="flex gap-3">
+              <div className="flex flex-wrap gap-2 sm:gap-3 w-full sm:w-auto">
                 {onAskPDF && (
                   <button 
                     onClick={() => onAskPDF(pdfUrl)}
@@ -125,7 +125,7 @@ export default function ExercisesArea({ activeLang, onAskPDF }: ExercisesAreaPro
               </div>
             </div>
           <div className="flex-1 rounded-xl overflow-hidden border border-indigo-100 w-full h-full relative">
-              <DocumentGallery type="courseware" folder={selectedCNBook ? `${selectedCNLevel}-${selectedCNBook}` : selectedCNLevel} prefix={`Lesson${selectedCNLesson}_`} />
+              <DocumentGallery type="courseware" folder={selectedCNBook ? `${selectedCNLevel}-${selectedCNBook}` : selectedCNLevel} prefix={`Lesson${selectedCNLesson}_`} enableAnnotation={true} />
             </div>
           </div>
 
@@ -205,7 +205,7 @@ export default function ExercisesArea({ activeLang, onAskPDF }: ExercisesAreaPro
             startLesson = 1;
             numLessons = 18; 
           } else if (selectedCNBook === '2') {
-            startLesson = 19;
+            startLesson = 1;
             numLessons = 18;
           }
         } else {
