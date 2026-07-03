@@ -84,7 +84,7 @@ export default function ExercisesArea({ activeLang, onAskPDF }: ExercisesAreaPro
               </div>
             </div>
             <div className="flex-1 w-full bg-gray-50 overflow-hidden relative">
-              <DocumentGallery type="courseware" folder={selectedCNBook ? `${selectedCNLevel}-${selectedCNBook}` : selectedCNLevel} prefix={`Lesson${selectedCNLesson}_`} />
+              <DocumentGallery type="courseware" folder={selectedCNBook ? `${selectedCNLevel}-${selectedCNBook}` : selectedCNLevel} prefix={`Lesson${selectedCNLesson}_`} enableAnnotation={true} />
             </div>
           </div>
         );
