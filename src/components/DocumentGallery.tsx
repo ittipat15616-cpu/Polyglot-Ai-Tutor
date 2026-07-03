@@ -66,14 +66,26 @@ export default function DocumentGallery({
     setLoading(false);
   }, [type, folder, prefix, hideLastNPages]);
 
-  const handleDownload = (url: string, index: number) => {
-    // Create an invisible link to trigger the download
-    const link = document.createElement('a');
-    link.href = url;
-    link.download = `${prefix}_page${index + 1}.jpg`;
-    document.body.appendChild(link);
-    link.click();
-    document.body.removeChild(link);
+  const handleDownload = async (url: string, index: number) => {
+    try {
+      // Fetch as blob to bypass cross-origin download restrictions
+      const response = await fetch(url);
+      if (!response.ok) throw new Error('Network response was not ok');
+      const blob = await response.blob();
+      const blobUrl = window.URL.createObjectURL(blob);
+      
+      const link = document.createElement('a');
+      link.href = blobUrl;
+      link.download = `${prefix}_page${index + 1}.jpg`;
+      document.body.appendChild(link);
+      link.click();
+      document.body.removeChild(link);
+      
+      window.URL.revokeObjectURL(blobUrl);
+    } catch (error) {
+      console.error('Download failed, falling back to open:', error);
+      window.open(url, '_blank');
+    }
   };
 
   if (loading) {
