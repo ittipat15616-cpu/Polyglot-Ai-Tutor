@@ -1,6 +1,8 @@
 import React, { useState } from 'react';
-import { BookOpen, Headphones, PenTool, Mic, ChevronLeft, FileText, ArrowRight, Library, FileCheck, Layers, Bot } from 'lucide-react';
+import { BookOpen, Headphones, PenTool, Mic, ChevronLeft, FileText, ArrowRight, Library, FileCheck, Layers, Bot, Download, CheckCircle2, Circle, Video, X } from 'lucide-react';
 import DocumentGallery from './DocumentGallery';
+import FloatingVideoPlayer from './FloatingVideoPlayer';
+import readingVideosData from '../data/reading_videos.json';
 import { getVocabData } from '../data/mockContent';
 
 interface ExercisesAreaProps {
@@ -12,11 +14,15 @@ export default function ExercisesArea({ activeLang, onAskPDF }: ExercisesAreaPro
   const [selectedSkill, setSelectedSkill] = useState<string | null>(null);
   const [selectedGrammarLevel, setSelectedGrammarLevel] = useState<string | null>(null);
   
+  const [selectedReadingLevel, setSelectedReadingLevel] = useState<string | null>(null);
+  const [selectedReadingType, setSelectedReadingType] = useState<'reader' | 'coursepack' | null>(null);
+  
   // CN specific states
   const [selectedCNLevel, setSelectedCNLevel] = useState<string | null>(null);
   const [selectedCNBook, setSelectedCNBook] = useState<string | null>(null);
   const [selectedCNLesson, setSelectedCNLesson] = useState<number | null>(null);
   const [isFullscreen, setIsFullscreen] = useState(false);
+  const [isVideoPlayerOpen, setIsVideoPlayerOpen] = useState(false);
 
   if (activeLang === 'TH') {
     return (
@@ -42,6 +48,11 @@ export default function ExercisesArea({ activeLang, onAskPDF }: ExercisesAreaPro
     // EN logic
     if (selectedGrammarLevel) {
       setSelectedGrammarLevel(null);
+    } else if (selectedReadingType) {
+      setSelectedReadingType(null);
+      setIsVideoPlayerOpen(false);
+    } else if (selectedReadingLevel) {
+      setSelectedReadingLevel(null);
     } else {
       setSelectedSkill(null);
     }
@@ -59,31 +70,28 @@ export default function ExercisesArea({ activeLang, onAskPDF }: ExercisesAreaPro
 
       if (isFullscreen) {
         return (
-          <div className="fixed inset-0 z-50 bg-white flex flex-col">
-            {/* Full Toolbar */}
-            <div className="flex items-center justify-between px-4 py-3 border-b border-indigo-100 bg-white shadow-sm shrink-0 z-20">
-              <div className="flex items-center gap-3">
-                <div className="w-8 h-8 rounded-xl flex items-center justify-center" style={{ background: 'linear-gradient(135deg,#7c3aed,#5b21b6)' }}>
-                  <FileText size={16} className="text-white" />
-                </div>
-                <h3 className="font-bold text-gray-900 truncate max-w-xs">{titleStr}</h3>
-              </div>
-              <div className="flex items-center gap-2">
-                {onAskPDF && (
-                  <button
-                    onClick={() => onAskPDF(pdfUrl)}
-                    className="flex items-center gap-2 text-sm font-bold px-4 py-2 rounded-xl text-white transition-all hover:opacity-90"
-                    style={{ background: 'linear-gradient(135deg,#7c3aed,#5b21b6)', boxShadow: '0 2px 10px rgba(124,58,237,0.35)' }}
-                  >
-                    <Bot size={16} /> ถาม AI Tutor
-                  </button>
-                )}
-                <button onClick={() => setIsFullscreen(false)} className="flex items-center gap-2 text-sm font-bold bg-red-50 text-red-600 hover:bg-red-100 px-4 py-2 rounded-xl border border-red-200 transition-colors">
-                   <ChevronLeft size={16} /> ออกเต็มจอ
-                </button>
-              </div>
+          <div className="fixed inset-0 z-50 bg-gray-50 flex flex-col">
+            {/* Floating Toolbar */}
+            <div className="absolute top-28 right-6 z-[60] flex flex-col items-center gap-3">
+              <a 
+                href={pdfUrl}
+                download
+                target="_blank"
+                rel="noreferrer"
+                title="ดาวน์โหลด PDF"
+                className="w-12 h-12 bg-white rounded-full shadow-lg flex items-center justify-center text-gray-500 hover:text-green-600 hover:bg-green-50 transition-colors border border-gray-200"
+              >
+                <Download size={22} />
+              </a>
+              <button 
+                onClick={() => setIsFullscreen(false)} 
+                title="ออกเต็มจอ"
+                className="w-12 h-12 bg-white rounded-full shadow-lg flex items-center justify-center text-gray-500 hover:text-red-600 hover:bg-red-50 transition-colors border border-gray-200"
+              >
+                 <X size={24} />
+              </button>
             </div>
-            <div className="flex-1 w-full bg-gray-50 overflow-hidden relative">
+            <div className="flex-1 w-full overflow-hidden relative">
               <DocumentGallery type="courseware" folder={selectedCNBook ? `${selectedCNLevel}-${selectedCNBook}` : selectedCNLevel} prefix={`Lesson${selectedCNLesson}_`} enableAnnotation={true} />
             </div>
           </div>
@@ -108,14 +116,15 @@ export default function ExercisesArea({ activeLang, onAskPDF }: ExercisesAreaPro
                 <h3 className="text-xl font-semibold text-gray-800">เอกสารประกอบการเรียน</h3>
               </div>
               <div className="flex flex-wrap gap-2 sm:gap-3 w-full sm:w-auto">
-                {onAskPDF && (
-                  <button 
-                    onClick={() => onAskPDF(pdfUrl)}
-                    className="flex items-center gap-2 text-sm bg-gradient-to-r from-indigo-500 to-purple-500 text-white hover:opacity-90 px-4 py-2 rounded-lg font-medium transition-opacity shadow-sm"
-                  >
-                    <Bot size={18} /> ถาม AI Tutor ถึงบทเรียนนี้
-                  </button>
-                )}
+                <a 
+                  href={pdfUrl}
+                  download
+                  target="_blank"
+                  rel="noreferrer"
+                  className="flex items-center gap-2 text-sm bg-green-50 text-green-600 hover:bg-green-100 px-4 py-2 rounded-lg font-medium transition-colors"
+                >
+                  <Download size={16} /> โหลดไฟล์ PDF
+                </a>
                 <button 
                   onClick={() => setIsFullscreen(true)}
                   className="flex items-center gap-2 text-sm bg-indigo-50 text-indigo-600 hover:bg-indigo-100 px-4 py-2 rounded-lg font-medium transition-colors"
@@ -128,14 +137,6 @@ export default function ExercisesArea({ activeLang, onAskPDF }: ExercisesAreaPro
               <DocumentGallery type="courseware" folder={selectedCNBook ? `${selectedCNLevel}-${selectedCNBook}` : selectedCNLevel} prefix={`Lesson${selectedCNLesson}_`} enableAnnotation={true} />
             </div>
           </div>
-
-          {/* Floating Ask AI Button — same as Exams page */}
-          {onAskPDF && (
-            <button onClick={() => onAskPDF(pdfUrl)} className="fab-ai">
-              <Bot size={22} />
-              <span className="hidden sm:inline">ถาม AI Tutor</span>
-            </button>
-          )}
         </div>
       );
     }
@@ -310,7 +311,10 @@ export default function ExercisesArea({ activeLang, onAskPDF }: ExercisesAreaPro
 
   if (selectedSkill === 'Grammar') {
     if (!selectedGrammarLevel) {
-      const levels = ['Basic Grammar', 'Intermediate Grammar', 'Advanced Grammar'];
+      const levels = [
+        { id: 'grammar_beginner', name: 'Free English Grammar (Beginner)' },
+        { id: 'grammar_guide', name: 'Grammar Guide 2026' }
+      ];
       return (
         <div className="flex flex-col h-full w-full max-w-4xl mx-auto">
           <button 
@@ -322,19 +326,19 @@ export default function ExercisesArea({ activeLang, onAskPDF }: ExercisesAreaPro
           <div className="animate-in fade-in duration-300">
              <div className="flex flex-col md:flex-row md:items-center justify-between mb-8 gap-4">
                 <div>
-                  <h2 className="text-2xl font-bold mb-2">เลือกระดับไวยากรณ์ (Grammar Level)</h2>
-                  <p className="text-gray-500 text-sm">เลือกระดับความยากที่คุณต้องการเรียน</p>
+                  <h2 className="text-2xl font-bold mb-2">เลือกเอกสารไวยากรณ์ (Grammar)</h2>
+                  <p className="text-gray-500 text-sm">เลือกหนังสือที่คุณต้องการเรียน</p>
                 </div>
              </div>
-             <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                 {levels.map((l) => (
                   <button 
-                    key={l} 
-                    onClick={() => setSelectedGrammarLevel(l)} 
+                    key={l.id} 
+                    onClick={() => setSelectedGrammarLevel(l.id)} 
                     className="bg-white px-6 py-8 rounded-2xl border border-gray-100 shadow-sm hover:border-indigo-400 hover:ring-2 hover:ring-indigo-100 hover:shadow-md transition-all text-center group"
                   >
                     <Library className="w-10 h-10 mx-auto mb-4 text-cyan-500 group-hover:scale-110 transition-transform" />
-                    <h3 className="font-bold text-xl text-gray-900 mb-2">{l}</h3>
+                    <h3 className="font-bold text-xl text-gray-900 mb-2">{l.name}</h3>
                   </button>
                 ))}
              </div>
@@ -343,54 +347,272 @@ export default function ExercisesArea({ activeLang, onAskPDF }: ExercisesAreaPro
       );
     }
 
-    const items = getVocabData('EN_GRAMMAR', selectedGrammarLevel, 1);
+    const pdfUrl = `/courses/grammar/${selectedGrammarLevel}.pdf`;
+    const titleStr = selectedGrammarLevel === 'grammar_beginner' ? 'Free English Grammar (Beginner)' : 'Grammar Guide 2026';
+
+    if (isFullscreen) {
+      return (
+        <div className="fixed inset-0 z-50 bg-gray-50 flex flex-col">
+          {/* Floating Toolbar */}
+          <div className="absolute top-28 right-6 z-[60] flex flex-col items-center gap-3">
+            <a 
+              href={pdfUrl}
+              download
+              target="_blank"
+              rel="noreferrer"
+              title="ดาวน์โหลด PDF"
+              className="w-12 h-12 bg-white rounded-full shadow-lg flex items-center justify-center text-gray-500 hover:text-green-600 hover:bg-green-50 transition-colors border border-gray-200"
+            >
+              <Download size={22} />
+            </a>
+            <button 
+              onClick={() => setIsFullscreen(false)} 
+              title="ออกเต็มจอ"
+              className="w-12 h-12 bg-white rounded-full shadow-lg flex items-center justify-center text-gray-500 hover:text-red-600 hover:bg-red-50 transition-colors border border-gray-200"
+            >
+               <X size={24} />
+            </button>
+          </div>
+          <div className="flex-1 w-full overflow-hidden relative">
+            <DocumentGallery type="courseware" folder={selectedGrammarLevel} prefix={`${selectedGrammarLevel}_`} enableAnnotation={true} />
+          </div>
+        </div>
+      );
+    }
 
     return (
-      <div className="flex flex-col h-full w-full max-w-4xl mx-auto pb-10">
+      <div className="flex flex-col h-full w-full max-w-4xl mx-auto relative pb-24">
         <button 
           onClick={handleBack}
           className="flex items-center gap-2 text-indigo-600 font-medium hover:text-indigo-700 transition-colors mb-6 self-start"
         >
           <ChevronLeft size={20} /> ย้อนกลับ
         </button>
-        <div className="animate-in fade-in duration-300">
-            <div className="flex items-center justify-between mb-2">
-              <h2 className="text-2xl font-bold">{selectedGrammarLevel}</h2>
-              <div className="bg-indigo-50 text-indigo-700 px-3 py-1 rounded-full text-sm font-bold shadow-sm border border-indigo-100">
-                {items.length} บท
-              </div>
+
+        <h2 className="text-2xl font-bold text-gray-900 mb-6">{titleStr}</h2>
+
+        <div className="bg-white rounded-2xl shadow-sm border border-gray-100 p-4 sm:p-6 flex flex-col h-[500px] md:h-[800px]">
+          <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between mb-4 gap-3">
+            <div className="flex items-center gap-2">
+              <FileText size={24} className="text-blue-500" />
+              <h3 className="text-xl font-semibold text-gray-800">เอกสารประกอบการเรียน</h3>
             </div>
-            <p className="text-gray-500 mb-8">เรียนรู้หลักไวยากรณ์และความหมาย</p>
-            
-            <div className="flex flex-col gap-4">
-                {items.map((item: any, idx: number) => (
-                    <div key={idx} className="bg-white p-6 rounded-2xl border border-gray-100 shadow-sm hover:shadow-md hover:border-indigo-200 transition-all flex flex-col gap-4">
-                        <div>
-                            <div className="flex items-center gap-3 mb-3">
-                                <span className="text-2xl font-bold text-gray-900">{item.word}</span>
-                                {item.type && <span className="text-indigo-500 font-medium text-sm bg-indigo-50 px-2 py-1 rounded-md">{item.type}</span>}
-                            </div>
-                            <div className="mb-4">
-                                <span className="text-gray-700 font-medium leading-relaxed">{item.th}</span>
-                            </div>
-                            {item.example && (
-                                <div className="mt-4 pt-4 border-t border-gray-100">
-                                    <div className="flex-1">
-                                        <div className="text-gray-800 text-lg mb-1 leading-relaxed font-serif italic">
-                                            "{item.example}"
-                                        </div>
-                                        {(item.exampleTh || item.example_th) && (
-                                            <div className="text-gray-500 text-sm">
-                                                แปล: {item.exampleTh || item.example_th}
-                                            </div>
-                                        )}
-                                    </div>
-                                </div>
-                            )}
-                        </div>
-                    </div>
+            <div className="flex flex-wrap gap-2 sm:gap-3 w-full sm:w-auto">
+              <a 
+                href={pdfUrl}
+                download
+                target="_blank"
+                rel="noreferrer"
+                className="flex items-center gap-2 text-sm bg-green-50 text-green-600 hover:bg-green-100 px-4 py-2 rounded-lg font-medium transition-colors"
+              >
+                <Download size={16} /> โหลดไฟล์ PDF
+              </a>
+              <button 
+                onClick={() => setIsFullscreen(true)}
+                className="flex items-center gap-2 text-sm bg-indigo-50 text-indigo-600 hover:bg-indigo-100 px-4 py-2 rounded-lg font-medium transition-colors"
+              >
+                ดูแบบเต็มจอ
+              </button>
+            </div>
+          </div>
+        <div className="flex-1 rounded-xl overflow-hidden border border-indigo-100 w-full h-full relative">
+            <DocumentGallery type="courseware" folder={selectedGrammarLevel} prefix={`${selectedGrammarLevel}_`} enableAnnotation={true} />
+          </div>
+        </div>
+      </div>
+    );
+  }
+
+  if (selectedSkill === 'Reading') {
+    if (!selectedReadingLevel) {
+      const levels = [
+        { id: '1', name: 'BC Reads Level 1' },
+        { id: '2', name: 'BC Reads Level 2' },
+        { id: '3', name: 'BC Reads Level 3' },
+        { id: '4', name: 'BC Reads Level 4' },
+        { id: '5', name: 'BC Reads Level 5' },
+        { id: '6', name: 'BC Reads Level 6' }
+      ];
+      return (
+        <div className="flex flex-col h-full w-full max-w-4xl mx-auto">
+          <button 
+            onClick={handleBack}
+            className="flex items-center gap-2 text-indigo-600 font-medium hover:text-indigo-700 transition-colors mb-6 self-start"
+          >
+            <ChevronLeft size={20} /> ย้อนกลับ
+          </button>
+          <div className="animate-in fade-in duration-300">
+             <div className="flex flex-col md:flex-row md:items-center justify-between mb-8 gap-4">
+                <div>
+                  <h2 className="text-2xl font-bold mb-2">เลือกเอกสารการอ่าน (Reading)</h2>
+                  <p className="text-gray-500 text-sm">เลือกระดับที่คุณต้องการฝึกฝน</p>
+                </div>
+             </div>
+             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                {levels.map((l) => (
+                  <button 
+                    key={l.id} 
+                    onClick={() => setSelectedReadingLevel(l.id)} 
+                    className="bg-white px-6 py-8 rounded-2xl border border-gray-100 shadow-sm hover:border-emerald-400 hover:ring-2 hover:ring-emerald-100 hover:shadow-md transition-all text-center group"
+                  >
+                    <BookOpen className="w-10 h-10 mx-auto mb-4 text-emerald-500 group-hover:scale-110 transition-transform" />
+                    <h3 className="font-bold text-xl text-gray-900 mb-2">{l.name}</h3>
+                  </button>
                 ))}
+             </div>
+          </div>
+        </div>
+      );
+    }
+
+    if (!selectedReadingType) {
+      return (
+        <div className="flex flex-col h-full w-full max-w-4xl mx-auto">
+          <button 
+            onClick={handleBack}
+            className="flex items-center gap-2 text-indigo-600 font-medium hover:text-indigo-700 transition-colors mb-6 self-start"
+          >
+            <ChevronLeft size={20} /> ย้อนกลับ
+          </button>
+          <div className="animate-in fade-in duration-300">
+             <div className="flex flex-col md:flex-row md:items-center justify-between mb-8 gap-4">
+                <div>
+                  <h2 className="text-2xl font-bold mb-2">BC Reads Level {selectedReadingLevel}</h2>
+                  <p className="text-gray-500 text-sm">เลือกประเภทของเอกสาร</p>
+                </div>
+             </div>
+             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 max-w-2xl mx-auto">
+                <button 
+                  onClick={() => setSelectedReadingType('reader')} 
+                  className="bg-white px-6 py-8 rounded-2xl border border-gray-100 shadow-sm hover:border-emerald-400 hover:ring-2 hover:ring-emerald-100 hover:shadow-md transition-all text-center group"
+                >
+                  <BookOpen className="w-12 h-12 mx-auto mb-4 text-emerald-500 group-hover:scale-110 transition-transform" />
+                  <h3 className="font-bold text-2xl text-gray-900 mb-2">Reader</h3>
+                  <p className="text-gray-500 text-sm">หนังสืออ่านประกอบเนื้อหา</p>
+                </button>
+                <button 
+                  onClick={() => setSelectedReadingType('coursepack')} 
+                  className="bg-white px-6 py-8 rounded-2xl border border-gray-100 shadow-sm hover:border-blue-400 hover:ring-2 hover:ring-blue-100 hover:shadow-md transition-all text-center group"
+                >
+                  <Layers className="w-12 h-12 mx-auto mb-4 text-blue-500 group-hover:scale-110 transition-transform" />
+                  <h3 className="font-bold text-2xl text-gray-900 mb-2">Course Pack</h3>
+                  <p className="text-gray-500 text-sm">ชุดแบบฝึกหัดประกอบการเรียน</p>
+                </button>
+             </div>
+          </div>
+        </div>
+      );
+    }
+
+    const pdfUrl = `/courses/reading/reading_level${selectedReadingLevel}_${selectedReadingType}.pdf`;
+    const titleStr = `BC Reads Level ${selectedReadingLevel} - ${selectedReadingType === 'reader' ? 'Reader' : 'Course Pack'}`;
+    const folderName = `reading_level${selectedReadingLevel}_${selectedReadingType}`;
+    const levelVideos = selectedReadingType === 'reader' && selectedReadingLevel ? (readingVideosData as any)[selectedReadingLevel] || [] : [];
+    const showVideoButton = selectedReadingType === 'reader' && levelVideos.length > 0;
+
+    if (isFullscreen) {
+      return (
+        <div className="fixed inset-0 z-50 bg-gray-50 flex flex-col">
+          {/* Floating Toolbar */}
+          <div className="absolute top-28 right-6 z-[60] flex flex-col items-center gap-3">
+            {showVideoButton && (
+              <button 
+                onClick={() => setIsVideoPlayerOpen(!isVideoPlayerOpen)} 
+                title="ดูวิดีโอประกอบ"
+                className={`w-12 h-12 rounded-full shadow-lg flex items-center justify-center border transition-colors ${
+                  isVideoPlayerOpen 
+                    ? 'bg-indigo-600 text-white border-indigo-700' 
+                    : 'bg-white text-gray-500 border-gray-200 hover:text-indigo-600 hover:bg-indigo-50'
+                }`}
+              >
+                 <Video size={22} />
+              </button>
+            )}
+            <a 
+              href={pdfUrl}
+              download
+              target="_blank"
+              rel="noreferrer"
+              title="ดาวน์โหลด PDF"
+              className="w-12 h-12 bg-white rounded-full shadow-lg flex items-center justify-center text-gray-500 hover:text-green-600 hover:bg-green-50 transition-colors border border-gray-200"
+            >
+              <Download size={22} />
+            </a>
+            <button 
+              onClick={() => setIsFullscreen(false)} 
+              title="ออกเต็มจอ"
+              className="w-12 h-12 bg-white rounded-full shadow-lg flex items-center justify-center text-gray-500 hover:text-red-600 hover:bg-red-50 transition-colors border border-gray-200"
+            >
+               <X size={24} />
+            </button>
+          </div>
+          <div className="flex-1 w-full overflow-hidden relative">
+            <DocumentGallery type="courseware" folder={folderName} prefix={`${folderName}_`} enableAnnotation={true} />
+            <FloatingVideoPlayer 
+              videos={levelVideos} 
+              isOpen={isVideoPlayerOpen} 
+              onClose={() => setIsVideoPlayerOpen(false)} 
+            />
+          </div>
+        </div>
+      );
+    }
+
+    return (
+      <div className="flex flex-col h-full w-full max-w-4xl mx-auto relative pb-24">
+        <button 
+          onClick={handleBack}
+          className="flex items-center gap-2 text-indigo-600 font-medium hover:text-indigo-700 transition-colors mb-6 self-start"
+        >
+          <ChevronLeft size={20} /> ย้อนกลับ
+        </button>
+
+        <h2 className="text-2xl font-bold text-gray-900 mb-6">{titleStr}</h2>
+
+        <div className="bg-white rounded-2xl shadow-sm border border-gray-100 p-4 sm:p-6 flex flex-col h-[500px] md:h-[800px] relative">
+          <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between mb-4 gap-3">
+            <div className="flex items-center gap-2">
+              <FileText size={24} className="text-emerald-500" />
+              <h3 className="text-xl font-semibold text-gray-800">เอกสารประกอบการเรียน</h3>
             </div>
+            <div className="flex flex-wrap gap-2 sm:gap-3 w-full sm:w-auto">
+              {showVideoButton && (
+                <button 
+                  onClick={() => setIsVideoPlayerOpen(!isVideoPlayerOpen)} 
+                  className={`flex items-center gap-2 text-sm px-4 py-2 rounded-lg font-medium transition-colors ${
+                    isVideoPlayerOpen 
+                      ? 'bg-indigo-600 text-white hover:bg-indigo-700' 
+                      : 'bg-indigo-50 text-indigo-600 hover:bg-indigo-100'
+                  }`}
+                >
+                  <Video size={16} /> {isVideoPlayerOpen ? 'ซ่อนวิดีโอ' : 'ดูวิดีโอประกอบ'}
+                </button>
+              )}
+              <a 
+                href={pdfUrl}
+                download
+                target="_blank"
+                rel="noreferrer"
+                className="flex items-center gap-2 text-sm bg-green-50 text-green-600 hover:bg-green-100 px-4 py-2 rounded-lg font-medium transition-colors"
+              >
+                <Download size={16} /> โหลดไฟล์ PDF
+              </a>
+              <button 
+                onClick={() => setIsFullscreen(true)}
+                className="flex items-center gap-2 text-sm bg-blue-50 text-blue-600 hover:bg-blue-100 px-4 py-2 rounded-lg font-medium transition-colors"
+              >
+                ดูแบบเต็มจอ
+              </button>
+            </div>
+          </div>
+          <div className="flex-1 rounded-xl overflow-hidden border border-emerald-100 w-full h-full relative">
+            <DocumentGallery type="courseware" folder={folderName} prefix={`${folderName}_`} enableAnnotation={true} />
+            <FloatingVideoPlayer 
+              videos={levelVideos} 
+              isOpen={isVideoPlayerOpen} 
+              onClose={() => setIsVideoPlayerOpen(false)} 
+            />
+          </div>
         </div>
       </div>
     );

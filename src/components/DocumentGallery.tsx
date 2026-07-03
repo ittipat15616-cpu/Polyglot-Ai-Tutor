@@ -108,7 +108,7 @@ export default function DocumentGallery({
   return (
     <div className="w-full h-full flex flex-col bg-gray-100 relative">
       {enableAnnotation && (
-        <div className="sticky top-0 z-50 w-full p-2">
+        <div className="w-full p-2 pt-24 z-50 shrink-0">
           <AnnotationToolbar 
             state={annotationState} 
             onChange={setAnnotationState} 
@@ -139,32 +139,6 @@ export default function DocumentGallery({
             <div className="absolute top-4 left-4 bg-black/60 backdrop-blur-sm text-white px-3 py-1 rounded-full text-xs font-bold z-10">
               หน้าที่ {idx + 1}
             </div>
-
-            {!hideDownload && (
-              <>
-                {/* Download Button */}
-                <div className="absolute top-4 right-4 opacity-0 group-hover:opacity-100 transition-opacity z-10">
-                  <button 
-                    onClick={() => handleDownload(url, idx)}
-                    className="bg-indigo-600 hover:bg-indigo-700 text-white p-2.5 rounded-full shadow-lg flex items-center gap-2 transform hover:scale-105 transition-all"
-                    title="ดาวน์โหลดภาพหน้านี้"
-                  >
-                    <Download size={18} />
-                    <span className="text-sm font-bold pr-1">ดาวน์โหลด</span>
-                  </button>
-                </div>
-                
-                {/* Download Button (Mobile Fallback always visible slightly) */}
-                <div className="absolute bottom-4 right-4 md:hidden z-10">
-                  <button 
-                    onClick={() => handleDownload(url, idx)}
-                    className="bg-indigo-600/90 text-white p-2.5 rounded-full shadow-lg"
-                  >
-                    <Download size={18} />
-                  </button>
-                </div>
-              </>
-            )}
           </div>
         ))}
       </div>

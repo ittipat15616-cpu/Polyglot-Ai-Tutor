@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { BookOpen, Headphones, PenTool, Mic, ChevronLeft, FileText, PlayCircle, ArrowRight, Bot, Clock } from 'lucide-react';
+import { BookOpen, Headphones, PenTool, Mic, ChevronLeft, FileText, PlayCircle, Bot, ShieldAlert, Clock, Info, Download, ArrowRight, X } from 'lucide-react';
 import DocumentGallery from './DocumentGallery';
 
 
@@ -185,36 +185,40 @@ export default function ExamsArea({ activeLang, onAskAI }: { activeLang: 'EN' | 
 
     if (isFullscreen) {
       return (
-        <div className="fixed inset-0 z-50 bg-white flex flex-col">
-          {/* Toolbar — always visible */}
-          <div className="flex items-center justify-between px-4 py-3 border-b border-indigo-100 bg-white shadow-sm shrink-0 z-20">
-            <div className="flex items-center gap-3">
-              <div className="w-8 h-8 rounded-xl flex items-center justify-center" style={{ background: 'linear-gradient(135deg,#7c3aed,#5b21b6)' }}>
-                <FileText size={16} className="text-white" />
-              </div>
-              <h3 className="font-bold text-gray-900">{selectedExamSet}</h3>
-            </div>
-            <div className="flex items-center gap-2">
-              {onAskAI && (
-                <button
-                  onClick={() => onAskAI?.(`ฉันกำลังทำข้อสอบ ${selectedCategory} ชุด ${selectedExamSet} ช่วยอธิบายโจทย์และสอนเพิ่มเติมหน่อได้ไหม?`)}
-                  className="flex items-center gap-2 text-sm font-bold px-4 py-2 rounded-xl text-white transition-all hover:opacity-90"
-                  style={{ background: 'linear-gradient(135deg,#7c3aed,#5b21b6)', boxShadow: '0 2px 10px rgba(124,58,237,0.35)' }}
-                >
-                  <Bot size={16} /> ถาม AI Tutor
-                </button>
-              )}
-              <button
-                onClick={() => setIsFullscreen(false)}
-                className="flex items-center gap-2 text-sm font-bold bg-red-50 text-red-600 hover:bg-red-100 px-4 py-2 rounded-xl border border-red-200 transition-colors"
+        <div className="fixed inset-0 z-50 bg-gray-50 flex flex-col">
+          {/* Floating Toolbar */}
+          <div className="absolute top-28 right-6 z-[60] flex flex-col items-center gap-3">
+            {onAskAI && (
+              <button 
+                onClick={() => onAskAI?.(`ฉันกำลังทำข้อสอบ ${selectedCategory} ชุด ${selectedExamSet} ช่วยอธิบายโจทย์และสอนเพิ่มเติมหน่อได้ไหม?`)}
+                title="ถาม AI Tutor"
+                className="w-12 h-12 rounded-full shadow-lg flex items-center justify-center text-white transition-all hover:scale-110"
+                style={{ background: 'linear-gradient(135deg,#7c3aed,#5b21b6)', boxShadow: '0 4px 14px rgba(124,58,237,0.4)' }}
               >
-                <ChevronLeft size={16} /> ออกเต็มจอ
+                <Bot size={22} />
               </button>
-            </div>
+            )}
+            <a 
+              href={pdfUrl}
+              download
+              target="_blank"
+              rel="noreferrer"
+              title="ดาวน์โหลด PDF"
+              className="w-12 h-12 bg-white rounded-full shadow-lg flex items-center justify-center text-gray-500 hover:text-green-600 hover:bg-green-50 transition-colors border border-gray-200"
+            >
+              <Download size={22} />
+            </a>
+            <button 
+              onClick={() => setIsFullscreen(false)} 
+              title="ออกเต็มจอ"
+              className="w-12 h-12 bg-white rounded-full shadow-lg flex items-center justify-center text-gray-500 hover:text-red-600 hover:bg-red-50 transition-colors border border-gray-200"
+            >
+               <X size={24} />
+            </button>
           </div>
-            <div className="flex-1 rounded-xl overflow-hidden border border-indigo-100 bg-white relative">
-              <DocumentGallery type="hsk" folder={folderName} prefix={selectedExamSet} enableAnnotation={true} />
-            </div>
+          <div className="flex-1 rounded-xl overflow-hidden bg-gray-50 relative">
+            <DocumentGallery type="hsk" folder={folderName} prefix={selectedExamSet} enableAnnotation={true} />
+          </div>
         </div>
       );
     }
@@ -265,6 +269,15 @@ export default function ExamsArea({ activeLang, onAskAI }: { activeLang: 'EN' | 
               <h3 className="text-xl font-semibold text-gray-800">เอกสารข้อสอบ</h3>
             </div>
             <div className="flex items-center gap-2">
+              <a 
+                href={pdfUrl}
+                download
+                target="_blank"
+                rel="noreferrer"
+                className="flex items-center gap-2 text-sm bg-green-50 text-green-600 hover:bg-green-100 px-4 py-2 rounded-lg font-medium transition-colors"
+              >
+                <Download size={16} /> โหลดไฟล์ PDF
+              </a>
               <button 
                 onClick={() => setIsFullscreen(true)}
                 className="flex items-center gap-2 text-sm bg-indigo-50 text-indigo-600 hover:bg-indigo-100 px-4 py-2 rounded-lg font-medium transition-colors"

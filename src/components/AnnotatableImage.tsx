@@ -1,5 +1,6 @@
 import React, { useRef, useEffect, useState } from 'react';
 import { AnnotationState } from './AnnotationToolbar';
+import { Move } from 'lucide-react';
 
 interface AnnotatableImageProps {
   src: string;
@@ -23,8 +24,122 @@ interface TextNote {
   y: number;
   text: string;
   color: string;
-  size: number;
+  fontSize: number;
+  fontFamily: string;
+  isBold: boolean;
+  isItalic: boolean;
+  isUnderline: boolean;
 }
+
+const TextNoteItem = ({
+  t,
+  isActiveText,
+  isActive,
+  annotationState,
+  canvasWidth,
+  canvasHeight,
+  onActivate,
+  onUpdate,
+  onRemove,
+  getPos,
+  onDragStart
+}: {
+  t: TextNote;
+  isActiveText: boolean;
+  isActive: boolean;
+  annotationState: AnnotationState;
+  canvasWidth: number;
+  canvasHeight: number;
+  onActivate: (id: string) => void;
+  onUpdate: (id: string, updates: Partial<TextNote>) => void;
+  onRemove: (id: string) => void;
+  getPos: (e: any) => { x: number, y: number };
+  onDragStart: (id: string, offset: {x: number, y: number}) => void;
+}) => {
+  const inputRef = useRef<HTMLInputElement>(null);
+
+  useEffect(() => {
+    if (isActiveText && inputRef.current) {
+      setTimeout(() => {
+        inputRef.current?.focus();
+      }, 50);
+    }
+  }, [isActiveText]);
+
+  return (
+    <div 
+      className={`absolute z-20 group ${isActiveText ? 'ring-2 ring-indigo-400 ring-offset-1 bg-white/40' : 'hover:ring-1 hover:ring-gray-300'} transition-all rounded-sm`}
+      style={{ 
+          left: `${(t.x / canvasWidth) * 100}%`, 
+          top: `${(t.y / canvasHeight) * 100}%`,
+          transform: 'translateY(-100%)' // Align bottom-left to click point
+      }}
+      onPointerDown={(e) => {
+          if (!isActive) return;
+          e.stopPropagation();
+          onActivate(t.id);
+      }}
+    >
+      {/* Drag Handle (Visible only when active or hovered) */}
+      <div 
+          className={`absolute -top-6 left-0 bg-white shadow-md border border-gray-200 rounded-md p-1 cursor-move text-gray-500 hover:text-indigo-600 transition-colors ${isActiveText ? 'flex' : 'hidden group-hover:flex'}`}
+          onPointerDown={(e) => {
+              e.stopPropagation();
+              const pos = getPos(e);
+              onDragStart(t.id, { x: pos.x - t.x, y: pos.y - t.y });
+          }}
+      >
+          <Move size={14} />
+      </div>
+      
+      {/* Text Input Wrapper */}
+      <div className="grid">
+          {/* Hidden measuring div */}
+          <div 
+              aria-hidden="true"
+              className="invisible whitespace-pre min-w-[50px] px-1 border border-transparent pointer-events-none"
+              style={{
+                  gridArea: '1 / 1 / 2 / 2',
+                  fontSize: `${t.fontSize}px`, 
+                  fontFamily: t.fontFamily,
+                  fontWeight: t.isBold ? 'bold' : 'normal',
+                  fontStyle: t.isItalic ? 'italic' : 'normal',
+                  textDecoration: t.isUnderline ? 'underline' : 'none',
+              }}
+          >
+              {t.text || (isActiveText ? "พิมพ์ข้อความ..." : "")}{' '}
+          </div>
+          
+          <textarea
+              ref={inputRef as any}
+              wrap="off"
+              placeholder={isActiveText ? "พิมพ์ข้อความ..." : ""}
+              className={`bg-transparent outline-none w-full h-full resize-none overflow-hidden px-1 ${isActiveText ? 'border border-dashed border-gray-400' : 'border-transparent'} ${!t.text && !isActiveText ? 'opacity-0' : ''}`}
+              style={{ 
+                  gridArea: '1 / 1 / 2 / 2',
+                  color: t.color, 
+                  fontSize: `${t.fontSize}px`, 
+                  fontFamily: t.fontFamily,
+                  fontWeight: t.isBold ? 'bold' : 'normal',
+                  fontStyle: t.isItalic ? 'italic' : 'normal',
+                  textDecoration: t.isUnderline ? 'underline' : 'none',
+                  lineHeight: 'normal'
+              }}
+              value={t.text}
+              onChange={(e) => onUpdate(t.id, { 
+                  text: e.target.value
+              })}
+              onFocus={() => onActivate(t.id)}
+              onBlur={() => {
+                  if (!t.text.trim()) {
+                      onRemove(t.id);
+                  }
+              }}
+          />
+      </div>
+    </div>
+  );
+};
 
 export default function AnnotatableImage({
   src, alt, className, annotationState, clearTrigger, isActive
@@ -37,7 +152,33 @@ export default function AnnotatableImage({
   const [strokes, setStrokes] = useState<Stroke[]>([]);
   const [currentStroke, setCurrentStroke] = useState<Stroke | null>(null);
   const [texts, setTexts] = useState<TextNote[]>([]);
-  const [activeTextInput, setActiveTextInput] = useState<{ x: number, y: number, text: string, id: string } | null>(null);
+  
+  const [activeTextId, setActiveTextId] = useState<string | null>(null);
+  const [draggingTextId, setDraggingTextId] = useState<string | null>(null);
+  const [dragOffset, setDragOffset] = useState({ x: 0, y: 0 });
+
+  const prevAnnotationStateRef = useRef(annotationState);
+
+  // Sync toolbar changes to active text
+  useEffect(() => {
+    if (activeTextId && prevAnnotationStateRef.current !== annotationState) {
+        setTexts(prev => prev.map(t => {
+            if (t.id === activeTextId) {
+                return {
+                    ...t,
+                    color: annotationState.color,
+                    fontSize: annotationState.fontSize || 24,
+                    fontFamily: annotationState.fontFamily || 'Arial, sans-serif',
+                    isBold: !!annotationState.isBold,
+                    isItalic: !!annotationState.isItalic,
+                    isUnderline: !!annotationState.isUnderline
+                };
+            }
+            return t;
+        }));
+    }
+    prevAnnotationStateRef.current = annotationState;
+  }, [annotationState, activeTextId]);
 
   // Load from localStorage
   useEffect(() => {
@@ -65,6 +206,7 @@ export default function AnnotatableImage({
     if (clearTrigger > 0) {
       setStrokes([]);
       setTexts([]);
+      setActiveTextId(null);
     }
   }, [clearTrigger]);
 
@@ -90,7 +232,6 @@ export default function AnnotatableImage({
         ctx.lineWidth = stroke.size * 3;
         ctx.lineCap = 'butt';
         ctx.lineJoin = 'round';
-        // Set composite operation for highlighter to multiply or just source-over with opacity
         ctx.globalCompositeOperation = 'multiply';
       } else if (stroke.tool === 'eraser') {
         ctx.strokeStyle = 'rgba(255,255,255,1)';
@@ -110,18 +251,11 @@ export default function AnnotatableImage({
     
     // Reset composite operation
     ctx.globalCompositeOperation = 'source-over';
-
-    // Draw texts
-    texts.forEach(t => {
-      ctx.font = `bold ${t.size * 6}px sans-serif`;
-      ctx.fillStyle = t.color;
-      ctx.fillText(t.text, t.x, t.y);
-    });
   };
 
   useEffect(() => {
     redraw();
-  }, [strokes, currentStroke, texts]);
+  }, [strokes, currentStroke]);
 
   const getPos = (e: React.TouchEvent | React.MouseEvent | TouchEvent | MouseEvent) => {
     const canvas = canvasRef.current;
@@ -152,17 +286,31 @@ export default function AnnotatableImage({
     const pos = getPos(e);
 
     if (annotationState.activeTool === 'text') {
-      setActiveTextInput({
-        id: Date.now().toString(),
+      const newId = Date.now().toString();
+      setTexts([...texts, {
+        id: newId,
         x: pos.x,
         y: pos.y,
-        text: ''
-      });
+        text: '',
+        color: annotationState.color,
+        fontSize: annotationState.fontSize || 24,
+        fontFamily: annotationState.fontFamily || 'Arial, sans-serif',
+        isBold: !!annotationState.isBold,
+        isItalic: !!annotationState.isItalic,
+        isUnderline: !!annotationState.isUnderline
+      }]);
+      setActiveTextId(newId);
+      // We must prevent default so that the input focus in the effect isn't immediately stolen
+      e.preventDefault();
       return;
     }
 
-    if (activeTextInput) {
-      finishText();
+    if (activeTextId) {
+      setActiveTextId(null); // deselect text
+    }
+
+    if (annotationState.activeTool === 'none') {
+        return; // Just viewing
     }
 
     setIsDrawing(true);
@@ -175,14 +323,22 @@ export default function AnnotatableImage({
   };
 
   const draw = (e: React.TouchEvent | React.MouseEvent) => {
-    if (!isDrawing || !currentStroke || !isActive) return;
+    if (!isActive) return;
     
-    // Prevent scrolling when drawing on touch devices
-    if (e.cancelable && e.type.startsWith('touch')) {
-        // We handle preventDefault on window level for passive false, but in react it's hard.
-        // Instead we can use CSS touch-action: none when isActive
+    if (draggingTextId) {
+        const pos = getPos(e);
+        setTexts(texts.map(t => {
+            if (t.id === draggingTextId) {
+                return { ...t, x: pos.x - dragOffset.x, y: pos.y - dragOffset.y };
+            }
+            return t;
+        }));
+        return;
     }
 
+    if (!isDrawing || !currentStroke) return;
+    
+    // Prevent scrolling when drawing on touch devices is handled by CSS touch-action
     const pos = getPos(e);
     setCurrentStroke({
       ...currentStroke,
@@ -191,21 +347,13 @@ export default function AnnotatableImage({
   };
 
   const endDraw = () => {
+    if (draggingTextId) {
+        setDraggingTextId(null);
+    }
     if (!isDrawing || !currentStroke) return;
     setIsDrawing(false);
     setStrokes([...strokes, currentStroke]);
     setCurrentStroke(null);
-  };
-
-  const finishText = () => {
-    if (activeTextInput && activeTextInput.text.trim()) {
-      setTexts([...texts, {
-        ...activeTextInput,
-        color: annotationState.color,
-        size: annotationState.size
-      }]);
-    }
-    setActiveTextInput(null);
   };
 
   const handleImageLoad = () => {
@@ -216,6 +364,15 @@ export default function AnnotatableImage({
       cvs.height = img.naturalHeight || img.clientHeight;
       redraw();
     }
+  };
+
+  const updateTextNote = (id: string, updates: Partial<TextNote>) => {
+      setTexts(texts.map(t => t.id === id ? { ...t, ...updates } : t));
+  };
+
+  const removeText = (id: string) => {
+      setTexts(texts.filter(t => t.id !== id));
+      if (activeTextId === id) setActiveTextId(null);
   };
 
   return (
@@ -231,8 +388,8 @@ export default function AnnotatableImage({
       
       <canvas
         ref={canvasRef}
-        className="absolute top-0 left-0 w-full h-full cursor-crosshair"
-        style={{ pointerEvents: annotationState.activeTool !== 'none' && isActive ? 'auto' : 'none' }}
+        className={`absolute top-0 left-0 w-full h-full ${annotationState.activeTool === 'text' ? 'cursor-text' : annotationState.activeTool === 'none' ? 'cursor-auto' : 'cursor-crosshair'}`}
+        style={{ pointerEvents: isActive ? 'auto' : 'none' }}
         onMouseDown={startDraw}
         onMouseMove={draw}
         onMouseUp={endDraw}
@@ -242,32 +399,26 @@ export default function AnnotatableImage({
         onTouchEnd={endDraw}
       />
 
-      {activeTextInput && isActive && (
-        <div 
-          className="absolute z-20"
-          style={{ 
-            // Position relative to the scaled container
-            left: `${(activeTextInput.x / (canvasRef.current?.width || 1)) * 100}%`, 
-            top: `${(activeTextInput.y / (canvasRef.current?.height || 1)) * 100}%`,
-            transform: 'translateY(-100%)'
-          }}
-        >
-          <input
-            autoFocus
-            type="text"
-            className="bg-transparent border border-dashed border-gray-400 outline-none px-1 min-w-[100px]"
-            style={{ 
-                color: annotationState.color, 
-                fontSize: `${annotationState.size * 2}px`, // roughly scaled for CSS
-                fontWeight: 'bold' 
-            }}
-            value={activeTextInput.text}
-            onChange={(e) => setActiveTextInput({ ...activeTextInput, text: e.target.value })}
-            onBlur={finishText}
-            onKeyDown={(e) => { if (e.key === 'Enter') finishText(); }}
+      {isActive && texts.map(t => (
+          <TextNoteItem 
+              key={t.id}
+              t={t}
+              isActiveText={activeTextId === t.id}
+              isActive={isActive}
+              annotationState={annotationState}
+              canvasWidth={canvasRef.current?.width || 1}
+              canvasHeight={canvasRef.current?.height || 1}
+              onActivate={setActiveTextId}
+              onUpdate={updateTextNote}
+              onRemove={removeText}
+              getPos={getPos}
+              onDragStart={(id, offset) => {
+                  setDragOffset(offset);
+                  setDraggingTextId(id);
+                  setActiveTextId(id);
+              }}
           />
-        </div>
-      )}
+      ))}
     </div>
   );
 }
