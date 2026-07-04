@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { BookOpen, Video, Pencil, Layers, FileSignature, UserCircle, Sparkles, Clock, Phone } from 'lucide-react';
+import { BookOpen, Video, Pencil, Layers, FileSignature, UserCircle, Sparkles, Clock, Phone, Library } from 'lucide-react';
 import { motion, AnimatePresence } from 'motion/react';
 import LoginArea, { UserProfile } from './components/LoginArea';
 import LessonsArea from './components/LessonsArea';
@@ -9,10 +9,14 @@ import FlashcardsArea from './components/FlashcardsArea';
 import ExamsArea from './components/ExamsArea';
 import MockTestsTabArea from './components/MockTestsTabArea';
 import ContactArea from './components/ContactArea';
+import VocabArea from './components/VocabArea';
+import VocabExamArea from './components/VocabExamArea';
 
 const NAV_ITEMS = [
+  { id: 'vocab',      icon: Library,        label: 'สมุดคัดศัพท์' },
+  { id: 'vocab_exam', icon: FileSignature,  label: 'สอบศัพท์'     },
   { id: 'exercises',  icon: Pencil,         label: 'บทเรียน'      },
-  { id: 'exams',      icon: FileSignature,  label: 'ข้อสอบ'       },
+  { id: 'exams',      icon: Layers,         label: 'ข้อสอบ'       },
   { id: 'mocktests',  icon: Clock,          label: 'จำลองสอบ'     },
   { id: 'contact',    icon: Phone,          label: 'ติดต่อเรา'     },
 ];
@@ -42,7 +46,7 @@ function RealtimeClock() {
 }
 
 export default function App() {
-  const [activeTab, setActiveTab] = useState('exercises');
+  const [activeTab, setActiveTab] = useState('vocab');
   const [activeLang, setActiveLang] = useState<'EN' | 'CN' | 'TH'>('EN');
   const [askWord, setAskWord] = useState<string | null>(null);
   const [askPdfUrl, setAskPdfUrl] = useState<string | null>(null);
@@ -133,6 +137,16 @@ export default function App() {
       <main className="relative z-0 flex-1 overflow-y-auto w-full pb-20 md:pb-0">
         <div className="max-w-5xl mx-auto p-4 md:p-6 w-full flex flex-col min-h-full">
           <AnimatePresence mode="wait">
+            {activeTab === 'vocab' && (
+              <motion.div key="vocab" initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: -6 }} transition={{ duration: 0.22 }} className="h-full">
+                <VocabArea activeLang={activeLang} onAskAI={handleAskAI} />
+              </motion.div>
+            )}
+            {activeTab === 'vocab_exam' && (
+              <motion.div key="vocab_exam" initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: -6 }} transition={{ duration: 0.22 }} className="h-full">
+                <VocabExamArea activeLang={activeLang} onAskAI={handleAskAI} />
+              </motion.div>
+            )}
             {activeTab === 'exercises' && (
               <motion.div key="exercises" initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: -6 }} transition={{ duration: 0.22 }}>
                 <ExercisesArea activeLang={activeLang} onAskPDF={handleAskPDF} />

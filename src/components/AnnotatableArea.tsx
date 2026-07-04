@@ -2,12 +2,13 @@ import React, { useRef, useEffect, useState } from 'react';
 import { AnnotationState } from './AnnotationToolbar';
 import { Move } from 'lucide-react';
 
-interface AnnotatableImageProps {
-  src: string;
-  alt: string;
+interface AnnotatableAreaProps {
+  id: string; // Used for localStorage key
+  children: React.ReactNode;
   className?: string;
   annotationState: AnnotationState;
-  clearTrigger: number; // Increment to clear
+  clearTrigger: number; // Increment to clear all
+  clearRegion?: { top: number; bottom: number; t: number } | null; // Clear specific Y range
   isActive: boolean; // Is annotation enabled
 }
 
@@ -141,12 +142,12 @@ const TextNoteItem = ({
   );
 };
 
-export default function AnnotatableImage({
-  src, alt, className, annotationState, clearTrigger, isActive
-}: AnnotatableImageProps) {
+export default function AnnotatableArea({
+  id, children, className, annotationState, clearTrigger, clearRegion, isActive
+}: AnnotatableAreaProps) {
   const containerRef = useRef<HTMLDivElement>(null);
   const canvasRef = useRef<HTMLCanvasElement>(null);
-  const imageRef = useRef<HTMLImageElement>(null);
+  const contentRef = useRef<HTMLDivElement>(null);
 
   const [isDrawing, setIsDrawing] = useState(false);
   const [strokes, setStrokes] = useState<Stroke[]>([]);
@@ -214,25 +215,25 @@ export default function AnnotatableImage({
   // Load from localStorage
   useEffect(() => {
     try {
-      const saved = localStorage.getItem(`annotations_${src}`);
+      const saved = localStorage.getItem(`annotations_${id}`);
       if (saved) {
         const data = JSON.parse(saved);
         setStrokes(data.strokes || []);
         setTexts(data.texts || []);
       }
     } catch (e) { console.error('Failed to load annotations', e); }
-  }, [src]);
+  }, [id]);
 
   // Save to localStorage
   useEffect(() => {
     if (strokes.length === 0 && texts.length === 0) {
-      localStorage.removeItem(`annotations_${src}`);
+      localStorage.removeItem(`annotations_${id}`);
     } else {
-      localStorage.setItem(`annotations_${src}`, JSON.stringify({ strokes, texts }));
+      localStorage.setItem(`annotations_${id}`, JSON.stringify({ strokes, texts }));
     }
-  }, [strokes, texts, src]);
+  }, [strokes, texts, id]);
 
-  // Handle Clear
+  // Handle Clear All
   useEffect(() => {
     if (clearTrigger > 0) {
       setStrokes([]);
@@ -240,6 +241,20 @@ export default function AnnotatableImage({
       setActiveTextId(null);
     }
   }, [clearTrigger]);
+
+  // Handle Clear Region
+  useEffect(() => {
+    if (clearRegion) {
+      setStrokes(prev => prev.filter(stroke => {
+        // Keep stroke if it has no points inside the region
+        return !stroke.points.some(p => p.y >= clearRegion.top && p.y <= clearRegion.bottom);
+      }));
+      // Also remove texts in the region
+      setTexts(prev => prev.filter(text => {
+        return !(text.y >= clearRegion.top && text.y <= clearRegion.bottom);
+      }));
+    }
+  }, [clearRegion]);
 
   const redraw = () => {
     const canvas = canvasRef.current;
@@ -405,15 +420,19 @@ export default function AnnotatableImage({
     setCurrentStroke(null);
   };
 
-  const handleImageLoad = () => {
-    const img = imageRef.current;
+  useEffect(() => {
+    const el = contentRef.current;
     const cvs = canvasRef.current;
-    if (img && cvs) {
-      cvs.width = img.naturalWidth || img.clientWidth;
-      cvs.height = img.naturalHeight || img.clientHeight;
+    if (!el || !cvs) return;
+
+    const ro = new ResizeObserver(() => {
+      cvs.width = el.clientWidth;
+      cvs.height = el.clientHeight;
       redraw();
-    }
-  };
+    });
+    ro.observe(el);
+    return () => ro.disconnect();
+  }, [strokes, currentStroke]); // Need to redraw when resizing or strokes change
 
   const updateTextNote = (id: string, updates: Partial<TextNote>) => {
       setTexts(texts.map(t => t.id === id ? { ...t, ...updates } : t));
@@ -435,14 +454,9 @@ export default function AnnotatableImage({
       onTouchMove={draw}
       onTouchEnd={endDraw}
     >
-      <img
-        ref={imageRef}
-        src={src}
-        alt={alt}
-        className="w-full h-auto block"
-        onLoad={handleImageLoad}
-        draggable={false}
-      />
+      <div ref={contentRef} className="w-full h-full">
+        {children}
+      </div>
       
       <canvas
         ref={canvasRef}

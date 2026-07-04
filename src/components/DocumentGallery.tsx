@@ -108,15 +108,17 @@ export default function DocumentGallery({
   return (
     <div className="w-full h-full flex flex-col bg-gray-100 relative">
       {enableAnnotation && (
-        <div className="w-full p-2 pt-24 z-50 shrink-0">
-          <AnnotationToolbar 
-            state={annotationState} 
-            onChange={setAnnotationState} 
-            onClear={() => setClearTrigger(c => c + 1)} 
-          />
+        <div className="absolute top-4 left-0 w-full z-50 pointer-events-none flex justify-center">
+          <div className="pointer-events-auto">
+            <AnnotationToolbar 
+              state={annotationState} 
+              onChange={setAnnotationState} 
+              onClear={() => setClearTrigger(c => c + 1)} 
+            />
+          </div>
         </div>
       )}
-      <div className="w-full flex-1 overflow-y-auto p-4">
+      <div className="w-full flex-1 overflow-y-auto p-4 pt-24">
         <div className="flex flex-col gap-6 max-w-3xl mx-auto">
           {prependNode}
           {images.map((url, idx) => (
