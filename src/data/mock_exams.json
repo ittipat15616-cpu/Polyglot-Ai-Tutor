@@ -1,0 +1,137 @@
+[
+  {
+    "id": "ielts_read_01",
+    "title": "IELTS Academic Reading: The Future of Renewable Energy",
+    "type": "IELTS",
+    "skill": "Reading",
+    "content": "Renewable energy technologies are rapidly becoming the most cost-effective source of new power generation across the globe. Driven by continuous technological advancements and economies of scale, the cost of solar photovoltaic (PV) modules and wind turbines has plummeted over the past decade.\n\nHowever, the transition to a fully renewable energy grid is not without significant challenges. One of the primary obstacles is the intermittent nature of solar and wind energy. Unlike traditional fossil fuel power plants, which can operate continuously, solar panels only generate electricity during daylight hours, and wind turbines require sufficient wind speeds.\n\nTo address this intermittency, massive investments in grid-scale energy storage solutions, such as lithium-ion batteries and pumped hydro storage, are urgently required. Furthermore, modernizing the existing electrical grid infrastructure to handle distributed and variable energy sources is a critical step that many developed nations are struggling to finance.",
+    "questions": [
+      {
+        "id": "q1",
+        "question": "According to the passage, what is a major reason for the decreasing cost of renewable energy?",
+        "options": [
+          "Decreased demand for fossil fuels",
+          "Government subsidies in developing nations",
+          "Continuous technological advancements and economies of scale",
+          "The invention of new types of lithium-ion batteries"
+        ],
+        "answer": 2,
+        "explanation": "ย่อหน้าที่ 1 ระบุชัดเจนว่า 'Driven by continuous technological advancements and economies of scale' (ขับเคลื่อนด้วยความก้าวหน้าทางเทคโนโลยีอย่างต่อเนื่องและการประหยัดต่อขนาด)"
+      },
+      {
+        "id": "q2",
+        "question": "What is identified as the primary obstacle to a fully renewable energy grid?",
+        "options": [
+          "The high initial cost of solar panels",
+          "The intermittent nature of solar and wind energy",
+          "A lack of public support for renewable energy",
+          "The difficulty of mining materials for batteries"
+        ],
+        "answer": 1,
+        "explanation": "ย่อหน้าที่ 2 ระบุว่า 'One of the primary obstacles is the intermittent nature of solar and wind energy.' (หนึ่งในอุปสรรคหลักคือความไม่สม่ำเสมอของพลังงานแสงอาทิตย์และลม)"
+      },
+      {
+        "id": "q3",
+        "question": "Which of the following is mentioned as a solution to address the intermittency of renewable energy?",
+        "options": [
+          "Building more fossil fuel power plants as a backup",
+          "Grid-scale energy storage solutions like lithium-ion batteries",
+          "Restricting energy usage during nighttime",
+          "Relocating wind turbines to offshore locations"
+        ],
+        "answer": 1,
+        "explanation": "ย่อหน้าที่ 3 ระบุว่า 'To address this intermittency, massive investments in grid-scale energy storage solutions, such as lithium-ion batteries... are urgently required.'"
+      }
+    ]
+  },
+  {
+    "id": "toefl_read_01",
+    "title": "TOEFL Reading: The Migration of the Monarch Butterfly",
+    "type": "TOEFL",
+    "skill": "Reading",
+    "content": "The monarch butterfly is renowned for its spectacular annual migration, one of the most remarkable natural phenomena in the insect world. Each autumn, millions of monarch butterflies from across North America embark on a journey spanning thousands of miles to reach their overwintering grounds in central Mexico.\n\nWhat makes this migration truly extraordinary is that the butterflies making the journey have never been to Mexico before. The migration spans multiple generations. The butterflies that return to North America in the spring are the great-grandchildren of those that left the previous autumn. Scientists believe they use a combination of the sun's position and the Earth's magnetic field to navigate.\n\nHowever, this incredible migration is under severe threat. Habitat loss in both their breeding grounds (due to the eradication of milkweed, the sole food source for monarch caterpillars) and their wintering grounds in Mexico has led to a drastic decline in their population.",
+    "questions": [
+      {
+        "id": "q1",
+        "question": "The word 'phenomena' in paragraph 1 is closest in meaning to:",
+        "options": [
+          "occurrences",
+          "problems",
+          "destinations",
+          "species"
+        ],
+        "answer": 0,
+        "explanation": "Phenomena แปลว่า 'ปรากฏการณ์' (occurrences) ในบริบทนี้พูดถึงปรากฏการณ์ทางธรรมชาติ"
+      },
+      {
+        "id": "q2",
+        "question": "Why is the monarch butterfly's migration described as 'extraordinary'?",
+        "options": [
+          "Because they fly faster than any other insect.",
+          "Because the migrating butterflies have never been to the destination before.",
+          "Because they survive entirely without eating during the journey.",
+          "Because they only migrate once every ten years."
+        ],
+        "answer": 1,
+        "explanation": "ย่อหน้าที่ 2 อธิบายว่าความน่าทึ่งคือ 'the butterflies making the journey have never been to Mexico before' (ผีเสื้อที่เดินทางไม่เคยไปเม็กซิโกมาก่อนเลย)"
+      },
+      {
+        "id": "q3",
+        "question": "According to the passage, what is causing the decline in the monarch butterfly population?",
+        "options": [
+          "Climate change affecting the sun's position",
+          "Predators in their Mexican wintering grounds",
+          "A disease affecting the milkweed plants",
+          "Habitat loss in both breeding and wintering grounds"
+        ],
+        "answer": 3,
+        "explanation": "ย่อหน้าที่ 3 ระบุว่า 'Habitat loss in both their breeding grounds... and their wintering grounds in Mexico has led to a drastic decline in their population.'"
+      }
+    ]
+  },
+  {
+    "id": "hsk4_read_01",
+    "title": "HSK4 閱讀理解：买衣服的经验 (Buying Clothes)",
+    "type": "HSK",
+    "skill": "Reading",
+    "content": "很多人喜欢在网上买衣服，因为网上的衣服不但便宜，而且款式很多。但是，在网上买衣服也有不好的地方。第一，你不能试穿，所以不知道大小合适不合适。第二，有时候照片上的颜色和实际的颜色不一样。\n\n我上个星期在网上买了一件红色的毛衣。昨天收到了，可是我发现颜色太深了，跟照片上的完全不一样，而且我穿上去有点儿大。我只好把它退了。\n\n现在我觉得，如果是买衣服，最好还是去商场买。虽然价格可能会贵一点儿，但是你可以试穿，能看出颜色和质量到底怎么样。这样就不容易买错，也不用麻烦去退货。",
+    "questions": [
+      {
+        "id": "q1",
+        "question": "作者认为在网上买衣服有什么好处？ (What does the author think is the advantage of buying clothes online?)",
+        "options": [
+          "质量很好 (Good quality)",
+          "便宜而且款式多 (Cheap and many styles)",
+          "可以免费退货 (Free return)",
+          "颜色很漂亮 (Beautiful colors)"
+        ],
+        "answer": 1,
+        "explanation": "在第一段 (ย่อหน้าแรก) ผู้เขียนบอกว่า '因为网上的衣服不但便宜，而且款式很多' (เพราะเสื้อผ้าออนไลน์ไม่เพียงแต่ราคาถูก แต่ยังมีรูปแบบให้เลือกมากมาย)"
+      },
+      {
+        "id": "q2",
+        "question": "作者上个星期买的毛衣怎么了？ (What happened to the sweater the author bought last week?)",
+        "options": [
+          "太小了，穿不下 (Too small, cannot wear)",
+          "颜色太深，而且有点儿大 (Color too dark, and a bit big)",
+          "质量不好，破了 (Bad quality, broken)",
+          "送给朋友了 (Given to a friend)"
+        ],
+        "answer": 1,
+        "explanation": "在第二段 (ย่อหน้าที่สอง) ระบุว่า '颜色太深了... 而且我穿上去有点儿大' (สีเข้มเกินไป... และฉันใส่แล้วมันหลวมไปหน่อย)"
+      },
+      {
+        "id": "q3",
+        "question": "根据这段话，作者现在更喜欢去哪里买衣服？ (According to the passage, where does the author prefer to buy clothes now?)",
+        "options": [
+          "在网上买 (Online)",
+          "让朋友帮忙买 (Ask friends to buy)",
+          "去商场买 (At the shopping mall)",
+          "去超市买 (At the supermarket)"
+        ],
+        "answer": 2,
+        "explanation": "在最后一段 (ย่อหน้าสุดท้าย) ผู้เขียนสรุปว่า '现在我觉得，如果是买衣服，最好还是去商场买。' (ตอนนี้ฉันคิดว่า ถ้าจะซื้อเสื้อผ้า ทางที่ดีที่สุดคือไปซื้อที่ห้างสรรพสินค้า)"
+      }
+    ]
+  }
+]

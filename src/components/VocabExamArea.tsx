@@ -38,6 +38,7 @@ export default function VocabExamArea({ activeLang }: VocabExamAreaProps) {
     fontFamily: 'Arial, sans-serif'
   });
   const [clearTrigger, setClearTrigger] = useState(0);
+  const [isAIGrading, setIsAIGrading] = useState(false);
 
   const lang = activeLang === 'CN' ? 'CN' : 'EN';
   const fullVocab = lang === 'CN' ? allCNVocab : allENVocab;
@@ -45,14 +46,32 @@ export default function VocabExamArea({ activeLang }: VocabExamAreaProps) {
 
   // Ref for timer
   const timerRef = useRef<any>(null);
+  const audioRef = useRef<HTMLAudioElement | null>(null);
 
-  const speakWord = (wordText: string) => {
-    if ('speechSynthesis' in window) {
-      // Cancel any ongoing speech
-      window.speechSynthesis.cancel();
-      const utterance = new SpeechSynthesisUtterance(wordText);
-      utterance.lang = lang === 'CN' ? 'zh-CN' : 'en-US';
-      window.speechSynthesis.speak(utterance);
+  const speakWord = async (wordText: string) => {
+    try {
+      const response = await fetch('/api/tts', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ text: wordText, lang: lang === 'CN' ? 'CN' : 'EN' })
+      });
+      const data = await response.json();
+      if (data.audio) {
+        if (audioRef.current) {
+          audioRef.current.pause();
+        }
+        const audio = new Audio(`data:audio/mp3;base64,${data.audio}`);
+        audioRef.current = audio;
+        audio.play();
+      }
+    } catch (e) {
+      console.error('TTS error', e);
+      if ('speechSynthesis' in window) {
+        window.speechSynthesis.cancel();
+        const utterance = new SpeechSynthesisUtterance(wordText);
+        utterance.lang = lang === 'CN' ? 'zh-CN' : 'en-US';
+        window.speechSynthesis.speak(utterance);
+      }
     }
   };
 
@@ -118,30 +137,68 @@ export default function VocabExamArea({ activeLang }: VocabExamAreaProps) {
     }
   };
 
-  const finishExam = () => {
+  const finishExam = async () => {
     clearInterval(timerRef.current);
     
-    // Grade answers
-    const gradedAnswers: Record<string, Answer> = {};
+    const preliminaryAnswers: Record<string, Answer> = {};
+    const apiPayload: any[] = [];
     
     examWords.forEach(word => {
       const userAns = answers[word.id] || { wordId: word.id, userWord: '', userTranslation: '' };
-      
       const isWordCorrect = userAns.userWord.trim().toLowerCase() === word.word.trim().toLowerCase();
       
-      // Translation logic: if user translation matches ANY of the translations (or is included)
-      const userT = userAns.userTranslation.trim().toLowerCase();
-      const isTranslationCorrect = word.translations.some(t => t.trim().toLowerCase() === userT);
-      
-      gradedAnswers[word.id] = {
+      preliminaryAnswers[word.id] = {
         ...userAns,
         isWordCorrect,
-        isTranslationCorrect: userT ? isTranslationCorrect : false
+        isTranslationCorrect: false
       };
+
+      if (userAns.userTranslation.trim() !== '') {
+        apiPayload.push({
+          wordId: word.id,
+          targetWord: word.word,
+          officialTranslations: word.translations,
+          userTranslation: userAns.userTranslation.trim()
+        });
+      }
     });
     
-    setAnswers(gradedAnswers);
-    setExamState('RESULT');
+    setAnswers(preliminaryAnswers);
+    setIsAIGrading(true);
+
+    try {
+      if (apiPayload.length > 0) {
+        const response = await fetch('/api/grade-vocab', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ answers: apiPayload, lang })
+        });
+        const aiResults = await response.json();
+        
+        const finalAnswers = { ...preliminaryAnswers };
+        if (Array.isArray(aiResults)) {
+          aiResults.forEach(res => {
+            if (finalAnswers[res.wordId]) {
+              finalAnswers[res.wordId].isTranslationCorrect = res.isTranslationCorrect;
+            }
+          });
+        }
+        setAnswers(finalAnswers);
+      }
+    } catch (e) {
+      console.error("AI grading failed", e);
+      const fallbackAnswers = { ...preliminaryAnswers };
+      examWords.forEach(w => {
+         const userT = fallbackAnswers[w.id].userTranslation.trim().toLowerCase();
+         if (userT) {
+           fallbackAnswers[w.id].isTranslationCorrect = w.translations.some(t => t.trim().toLowerCase() === userT);
+         }
+      });
+      setAnswers(fallbackAnswers);
+    } finally {
+      setIsAIGrading(false);
+      setExamState('RESULT');
+    }
   };
 
   const currentWordObj = examWords[currentIndex];
@@ -233,7 +290,15 @@ export default function VocabExamArea({ activeLang }: VocabExamAreaProps) {
 
           {/* Main Area */}
           <div className="flex-1 flex flex-col h-full min-h-[400px]">
-            {examState === 'SETUP' && (
+            {isAIGrading && (
+              <div className="w-full h-full flex flex-col items-center justify-center bg-white/80 backdrop-blur-sm rounded-2xl shadow-sm border border-white/50 p-6 md:p-12 relative">
+                 <div className="animate-spin rounded-full h-16 w-16 border-t-4 border-b-4 border-indigo-600 mb-4"></div>
+                 <h2 className="text-2xl font-bold text-indigo-700">กำลังให้ AI ตรวจคำแปล...</h2>
+                 <p className="text-gray-500 mt-2">โปรดรอสักครู่ ระบบกำลังพิจารณาความหมาย</p>
+              </div>
+            )}
+
+            {!isAIGrading && examState === 'SETUP' && (
               <AnnotatableArea
                 id={`vocab_exam_scratchpad_${lang}`}
                 annotationState={annotationState}
@@ -249,7 +314,7 @@ export default function VocabExamArea({ activeLang }: VocabExamAreaProps) {
               </AnnotatableArea>
             )}
 
-            {examState === 'TESTING' && currentWordObj && (
+            {!isAIGrading && examState === 'TESTING' && currentWordObj && (
               <div className="w-full h-full flex flex-col items-center justify-center bg-white/80 backdrop-blur-sm rounded-2xl shadow-sm border border-white/50 p-6 md:p-12 relative">
                 
                 {/* Timer & Progress */}
@@ -308,7 +373,7 @@ export default function VocabExamArea({ activeLang }: VocabExamAreaProps) {
               </div>
             )}
 
-            {examState === 'RESULT' && (
+            {!isAIGrading && examState === 'RESULT' && (
               <div className="w-full bg-white/80 backdrop-blur-sm rounded-2xl shadow-sm border border-white/50 p-6 md:p-8">
                 <div className="text-center mb-8">
                   <h2 className="text-3xl font-bold text-gray-800 mb-2">สรุปผลการสอบ</h2>

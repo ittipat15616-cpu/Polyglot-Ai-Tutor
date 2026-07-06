@@ -538,6 +538,50 @@ Return a STRICT JSON response matching this format:
     }
   });
 
+  app.post("/api/grade-vocab", async (req, res) => {
+    try {
+      const { answers, lang } = req.body;
+      if (!answers || !Array.isArray(answers)) {
+        return res.status(400).json({ error: "Invalid answers array" });
+      }
+
+      const prompt = `
+You are an expert language evaluator for ${lang === 'CN' ? 'Chinese' : 'English'} to Thai translations.
+I will provide a list of vocabulary words, their official Thai translations, and the user's typed Thai translation.
+Your task is to determine if the user's translation has the correct meaning, even if it is a synonym, a slightly different phrasing, or an informal variation.
+If the meaning is fundamentally correct and appropriate for the word, mark "isTranslationCorrect" as true.
+If the meaning is wrong, completely unrelated, or blank, mark it as false.
+
+Here are the words to grade:
+${JSON.stringify(answers, null, 2)}
+
+Return a strict JSON array matching this format exactly:
+[
+  {
+    "wordId": "string",
+    "isTranslationCorrect": true
+  }
+]
+      `;
+
+      const response = await ai.models.generateContent({
+        model: 'gemini-2.5-flash',
+        contents: [prompt],
+        config: {
+          responseMimeType: 'application/json',
+        }
+      });
+
+      const jsonStr = response.text;
+      const gradedResults = JSON.parse(jsonStr);
+      res.json(gradedResults);
+
+    } catch (e: any) {
+      console.error("Vocab grading error:", e);
+      res.status(500).json({ error: e.message || "Vocab grading failed" });
+    }
+  });
+
   app.post("/api/tts", async (req, res) => {
     try {
       const { text, lang } = req.body;

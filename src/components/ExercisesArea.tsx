@@ -4,6 +4,7 @@ import DocumentGallery from './DocumentGallery';
 import FloatingVideoPlayer from './FloatingVideoPlayer';
 import readingVideosData from '../data/reading_videos.json';
 import { getVocabData } from '../data/mockContent';
+import voaLessons from '../data/voa_lessons.json';
 
 interface ExercisesAreaProps {
   activeLang: 'EN' | 'CN' | 'TH';
@@ -17,12 +18,16 @@ export default function ExercisesArea({ activeLang, onAskPDF }: ExercisesAreaPro
   const [selectedReadingLevel, setSelectedReadingLevel] = useState<string | null>(null);
   const [selectedReadingType, setSelectedReadingType] = useState<'reader' | 'coursepack' | null>(null);
   
+  const [selectedListeningLevel, setSelectedListeningLevel] = useState<string | null>(null);
+  
   // CN specific states
   const [selectedCNLevel, setSelectedCNLevel] = useState<string | null>(null);
   const [selectedCNBook, setSelectedCNBook] = useState<string | null>(null);
   const [selectedCNLesson, setSelectedCNLesson] = useState<number | null>(null);
   const [isFullscreen, setIsFullscreen] = useState(false);
   const [isVideoPlayerOpen, setIsVideoPlayerOpen] = useState(false);
+  const [selectedVOALevel, setSelectedVOALevel] = useState<string | null>(null);
+  const [selectedVOAArticle, setSelectedVOAArticle] = useState<any>(null);
 
   if (activeLang === 'TH') {
     return (
@@ -46,13 +51,19 @@ export default function ExercisesArea({ activeLang, onAskPDF }: ExercisesAreaPro
     }
 
     // EN logic
-    if (selectedGrammarLevel) {
+    if (selectedVOAArticle) {
+      setSelectedVOAArticle(null);
+    } else if (selectedVOALevel) {
+      setSelectedVOALevel(null);
+    } else if (selectedGrammarLevel) {
       setSelectedGrammarLevel(null);
     } else if (selectedReadingType) {
       setSelectedReadingType(null);
       setIsVideoPlayerOpen(false);
     } else if (selectedReadingLevel) {
       setSelectedReadingLevel(null);
+    } else if (selectedListeningLevel) {
+      setSelectedListeningLevel(null);
     } else {
       setSelectedSkill(null);
     }
@@ -301,14 +312,6 @@ export default function ExercisesArea({ activeLang, onAskPDF }: ExercisesAreaPro
   }
 
   // EN Logic below
-  const skills = [
-    { id: 'grammar', name: 'Grammar', icon: <Library size={32} className="text-cyan-500" />, description: 'เรียนรู้ไวยากรณ์ภาษาอังกฤษ (Beginner - Advanced)' },
-    { id: 'reading', name: 'Reading', icon: <BookOpen size={32} className="text-emerald-500" />, description: 'พัฒนาทักษะการอ่านทำความเข้าใจ' },
-    { id: 'listening', name: 'Listening', icon: <Headphones size={32} className="text-blue-500" />, description: 'ฝึกทักษะการฟังจากเจ้าของภาษา' },
-    { id: 'writing', name: 'Writing', icon: <PenTool size={32} className="text-amber-500" />, description: 'ฝึกฝนการเขียนและการใช้ไวยากรณ์' },
-    { id: 'speaking', name: 'Speaking', icon: <Mic size={32} className="text-purple-500" />, description: 'ฝึกการพูดโต้ตอบและออกเสียง' },
-  ];
-
   if (selectedSkill === 'Grammar') {
     if (!selectedGrammarLevel) {
       const levels = [
@@ -431,7 +434,8 @@ export default function ExercisesArea({ activeLang, onAskPDF }: ExercisesAreaPro
         { id: '3', name: 'BC Reads Level 3' },
         { id: '4', name: 'BC Reads Level 4' },
         { id: '5', name: 'BC Reads Level 5' },
-        { id: '6', name: 'BC Reads Level 6' }
+        { id: '6', name: 'BC Reads Level 6' },
+        { id: 'teacher_guide', name: "Teacher's Guide for Reading" }
       ];
       return (
         <div className="flex flex-col h-full w-full max-w-4xl mx-auto">
@@ -460,6 +464,65 @@ export default function ExercisesArea({ activeLang, onAskPDF }: ExercisesAreaPro
                   </button>
                 ))}
              </div>
+          </div>
+        </div>
+      );
+    }
+
+    if (selectedReadingLevel === 'teacher_guide') {
+      const pdfUrl = '/courses/reading/Guide_for_Reading.pdf';
+      const folderName = 'reading_teacher_guide';
+      const prefix = 'reading_teacher_guide_';
+
+      if (isFullscreen) {
+         return (
+           <div className="fixed inset-0 z-50 bg-gray-50 flex flex-col">
+             {/* Floating Toolbar */}
+             <div className="absolute top-28 right-6 z-[60] flex flex-col items-center gap-3">
+               <a 
+                 href={pdfUrl} download target="_blank" rel="noreferrer" title="ดาวน์โหลด PDF"
+                 className="w-12 h-12 bg-white rounded-full shadow-lg flex items-center justify-center text-gray-500 hover:text-green-600 hover:bg-green-50 transition-colors border border-gray-200"
+               >
+                 <Download size={22} />
+               </a>
+               <button 
+                 onClick={() => setIsFullscreen(false)} title="ออกเต็มจอ"
+                 className="w-12 h-12 bg-white rounded-full shadow-lg flex items-center justify-center text-gray-500 hover:text-red-600 hover:bg-red-50 transition-colors border border-gray-200"
+               >
+                  <X size={24} />
+               </button>
+             </div>
+             <div className="flex-1 w-full overflow-hidden relative">
+               <DocumentGallery type="courseware" folder={folderName} prefix={prefix} enableAnnotation={true} />
+             </div>
+           </div>
+         );
+      }
+
+      return (
+        <div className="flex flex-col h-full w-full max-w-4xl mx-auto relative pb-24">
+          <button onClick={handleBack} className="flex items-center gap-2 text-indigo-600 font-medium hover:text-indigo-700 transition-colors mb-6 self-start">
+            <ChevronLeft size={20} /> ย้อนกลับ
+          </button>
+          <h2 className="text-2xl font-bold text-gray-900 mb-6">Teacher's Guide for Reading</h2>
+          <div className="bg-white rounded-2xl shadow-sm border border-gray-100 p-4 sm:p-6 flex flex-col h-[500px] md:h-[800px]">
+            <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between mb-4 gap-3">
+              <div className="flex items-center gap-2">
+                <FileText size={24} className="text-blue-500" />
+                <h3 className="text-xl font-semibold text-gray-800">เอกสารประกอบการเรียน</h3>
+              </div>
+              <div className="flex flex-wrap gap-2 sm:gap-3 w-full sm:w-auto">
+                <a href={pdfUrl} download target="_blank" rel="noreferrer" className="flex items-center gap-2 text-sm bg-green-50 text-green-600 hover:bg-green-100 px-4 py-2 rounded-lg font-medium transition-colors">
+                  <Download size={16} /> โหลดไฟล์ PDF
+                </a>
+                <button onClick={() => setIsFullscreen(true)} className="flex items-center gap-2 text-sm bg-indigo-50 text-indigo-600 hover:bg-indigo-100 px-4 py-2 rounded-lg font-medium transition-colors">
+                  ดูแบบเต็มจอ
+                </button>
+              </div>
+            </div>
+            <div className="flex-1 rounded-xl overflow-hidden border border-indigo-100 w-full h-full relative">
+              <DocumentGallery type="courseware" folder={folderName} prefix={prefix} enableAnnotation={true} />
+            </div>
           </div>
         </div>
       );
@@ -618,6 +681,233 @@ export default function ExercisesArea({ activeLang, onAskPDF }: ExercisesAreaPro
     );
   }
 
+  if (selectedSkill === 'Listening') {
+    if (!selectedListeningLevel) {
+      const levels = [
+        { id: 'teacher_guide', name: "Teacher's Guide for Listening" }
+      ];
+      return (
+        <div className="flex flex-col h-full w-full max-w-4xl mx-auto">
+          <button onClick={handleBack} className="flex items-center gap-2 text-indigo-600 font-medium hover:text-indigo-700 transition-colors mb-6 self-start">
+            <ChevronLeft size={20} /> ย้อนกลับ
+          </button>
+          <div className="animate-in fade-in duration-300">
+             <div className="flex flex-col md:flex-row md:items-center justify-between mb-8 gap-4">
+                <div>
+                  <h2 className="text-2xl font-bold mb-2">เลือกเอกสารการฟัง (Listening)</h2>
+                  <p className="text-gray-500 text-sm">เลือกเอกสารที่คุณต้องการศึกษา</p>
+                </div>
+             </div>
+             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                {levels.map((l) => (
+                  <button 
+                    key={l.id} 
+                    onClick={() => setSelectedListeningLevel(l.id)} 
+                    className="bg-white px-6 py-8 rounded-2xl border border-gray-100 shadow-sm hover:border-blue-400 hover:ring-2 hover:ring-blue-100 hover:shadow-md transition-all text-center group"
+                  >
+                    <Headphones className="w-10 h-10 mx-auto mb-4 text-blue-500 group-hover:scale-110 transition-transform" />
+                    <h3 className="font-bold text-xl text-gray-900 mb-2">{l.name}</h3>
+                  </button>
+                ))}
+             </div>
+          </div>
+        </div>
+      );
+    }
+
+    if (selectedListeningLevel === 'teacher_guide') {
+      const pdfUrl = '/courses/listening/Guide_for_Listening.pdf';
+      const folderName = 'listening_teacher_guide';
+      const prefix = 'listening_teacher_guide_';
+
+      if (isFullscreen) {
+         return (
+           <div className="fixed inset-0 z-50 bg-gray-50 flex flex-col">
+             <div className="absolute top-28 right-6 z-[60] flex flex-col items-center gap-3">
+               <a href={pdfUrl} download target="_blank" rel="noreferrer" title="ดาวน์โหลด PDF" className="w-12 h-12 bg-white rounded-full shadow-lg flex items-center justify-center text-gray-500 hover:text-green-600 hover:bg-green-50 transition-colors border border-gray-200">
+                 <Download size={22} />
+               </a>
+               <button onClick={() => setIsFullscreen(false)} title="ออกเต็มจอ" className="w-12 h-12 bg-white rounded-full shadow-lg flex items-center justify-center text-gray-500 hover:text-red-600 hover:bg-red-50 transition-colors border border-gray-200">
+                  <X size={24} />
+               </button>
+             </div>
+             <div className="flex-1 w-full overflow-hidden relative">
+               <DocumentGallery type="courseware" folder={folderName} prefix={prefix} enableAnnotation={true} />
+             </div>
+           </div>
+         );
+      }
+
+      return (
+        <div className="flex flex-col h-full w-full max-w-4xl mx-auto relative pb-24">
+          <button onClick={handleBack} className="flex items-center gap-2 text-indigo-600 font-medium hover:text-indigo-700 transition-colors mb-6 self-start">
+            <ChevronLeft size={20} /> ย้อนกลับ
+          </button>
+          <h2 className="text-2xl font-bold text-gray-900 mb-6">Teacher's Guide for Listening</h2>
+          <div className="bg-white rounded-2xl shadow-sm border border-gray-100 p-4 sm:p-6 flex flex-col h-[500px] md:h-[800px] relative">
+            <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between mb-4 gap-3">
+              <div className="flex items-center gap-2">
+                <FileText size={24} className="text-blue-500" />
+                <h3 className="text-xl font-semibold text-gray-800">เอกสารประกอบการเรียน</h3>
+              </div>
+              <div className="flex flex-wrap gap-2 sm:gap-3 w-full sm:w-auto">
+                <a href={pdfUrl} download target="_blank" rel="noreferrer" className="flex items-center gap-2 text-sm bg-green-50 text-green-600 hover:bg-green-100 px-4 py-2 rounded-lg font-medium transition-colors">
+                  <Download size={16} /> โหลดไฟล์ PDF
+                </a>
+                <button onClick={() => setIsFullscreen(true)} className="flex items-center gap-2 text-sm bg-indigo-50 text-indigo-600 hover:bg-indigo-100 px-4 py-2 rounded-lg font-medium transition-colors">
+                  ดูแบบเต็มจอ
+                </button>
+              </div>
+            </div>
+            <div className="flex-1 rounded-xl overflow-hidden border border-blue-100 w-full h-full relative">
+              <DocumentGallery type="courseware" folder={folderName} prefix={prefix} enableAnnotation={true} />
+            </div>
+          </div>
+        </div>
+      );
+    }
+  }
+
+  if (selectedSkill === 'VOA Learning English') {
+    if (!selectedVOALevel) {
+      const levels = Object.keys(voaLessons).map(k => ({ id: k, ...voaLessons[k as keyof typeof voaLessons] }));
+      return (
+        <div className="flex flex-col h-full w-full max-w-4xl mx-auto pb-10">
+          <button onClick={handleBack} className="flex items-center gap-2 text-indigo-600 font-medium hover:text-indigo-700 transition-colors mb-6 self-start">
+            <ChevronLeft size={20} /> ย้อนกลับ
+          </button>
+          <div className="animate-in fade-in duration-300">
+            <h2 className="text-2xl font-bold mb-2">บทความข่าว (VOA News)</h2>
+            <p className="text-gray-500 mb-8">เลือกระดับความยากที่เหมาะสมกับคุณ</p>
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+              {levels.map((level) => (
+                <button 
+                  key={level.id}
+                  onClick={() => setSelectedVOALevel(level.id)}
+                  className="bg-white p-6 rounded-2xl border border-gray-100 shadow-sm hover:border-blue-300 hover:shadow-md transition-all text-left flex flex-col group"
+                >
+                  <div className="w-16 h-16 bg-blue-50 text-blue-600 rounded-2xl flex items-center justify-center shrink-0 text-3xl group-hover:scale-110 transition-transform mb-4">
+                    {level.id === 'beginning' ? '🌱' : level.id === 'intermediate' ? '🚀' : '🎓'}
+                  </div>
+                  <h3 className="text-xl font-bold text-gray-900 group-hover:text-blue-600 transition-colors mb-2">{level.label}</h3>
+                  <p className="text-gray-500 text-sm">{level.description}</p>
+                </button>
+              ))}
+            </div>
+          </div>
+        </div>
+      );
+    }
+
+    if (!selectedVOAArticle) {
+      const currentLevelData = (voaLessons as any)[selectedVOALevel];
+      return (
+        <div className="flex flex-col h-full w-full max-w-4xl mx-auto pb-10">
+          <button onClick={handleBack} className="flex items-center gap-2 text-indigo-600 font-medium hover:text-indigo-700 transition-colors mb-6 self-start">
+            <ChevronLeft size={20} /> ย้อนกลับไปเลือกระดับ
+          </button>
+          <div className="animate-in fade-in duration-300">
+            <h2 className="text-2xl font-bold mb-2">{currentLevelData.label}</h2>
+            <p className="text-gray-500 mb-8">{currentLevelData.description}</p>
+            <div className="flex flex-col gap-4">
+              {currentLevelData.articles.map((article: any, index: number) => (
+                <button 
+                  key={index}
+                  onClick={() => setSelectedVOAArticle(article)}
+                  className="bg-white p-6 rounded-2xl border border-gray-100 shadow-sm hover:border-blue-300 hover:shadow-md transition-all text-left flex flex-col md:flex-row gap-6 md:items-center group"
+                >
+                  <div className="w-16 h-16 bg-blue-50 text-blue-600 rounded-2xl flex items-center justify-center shrink-0 text-3xl group-hover:scale-110 transition-transform">
+                    📰
+                  </div>
+                  <div className="flex-1">
+                    <h3 className="text-xl font-bold text-gray-900 group-hover:text-blue-600 transition-colors mb-2">{article.title}</h3>
+                    <p className="text-gray-500 line-clamp-2">{article.paragraphs[0]}</p>
+                    <div className="mt-3 flex flex-wrap gap-2">
+                       {article.audioUrl && <span className="bg-indigo-50 text-indigo-700 text-xs px-2 py-1 rounded-md font-medium">🔊 มีไฟล์เสียง (Audio)</span>}
+                       {article.vocabList?.length > 0 && <span className="bg-purple-50 text-purple-700 text-xs px-2 py-1 rounded-md font-medium">📚 เรียนศัพท์จากข่าว</span>}
+                       {article.quiz?.length > 0 && <span className="bg-emerald-50 text-emerald-700 text-xs px-2 py-1 rounded-md font-medium">📝 มีแบบฝึกหัด (Quiz)</span>}
+                    </div>
+                  </div>
+                  <ArrowRight className="text-gray-300 group-hover:text-blue-500 group-hover:translate-x-1 transition-all hidden md:block shrink-0" />
+                </button>
+              ))}
+            </div>
+          </div>
+        </div>
+      );
+    }
+
+    const article = selectedVOAArticle;
+    return (
+      <div className="flex flex-col h-full w-full max-w-4xl mx-auto pb-10">
+        <button onClick={handleBack} className="flex items-center gap-2 text-indigo-600 font-medium hover:text-indigo-700 transition-colors mb-6 self-start">
+          <ChevronLeft size={20} /> ย้อนกลับ
+        </button>
+        <div className="animate-in fade-in duration-300">
+          <div className="bg-white rounded-3xl border border-gray-100 shadow-sm overflow-hidden">
+            <div className="p-8 md:p-10 border-b border-gray-100 bg-gradient-to-b from-blue-50/50 to-white">
+              <h1 className="text-3xl font-bold text-gray-900 leading-tight mb-6">{article.title}</h1>
+              
+              {article.audioUrl && (
+                <div className="bg-white p-4 rounded-2xl border border-gray-200 shadow-sm flex items-center gap-4">
+                   <div className="w-10 h-10 bg-blue-100 text-blue-600 rounded-full flex items-center justify-center shrink-0">
+                      <Headphones size={20} />
+                   </div>
+                   <div className="flex-1">
+                      <p className="text-sm font-bold text-gray-800 mb-1">ฝึกฟังเสียงอ่านข่าว (Listen)</p>
+                      <audio controls src={article.audioUrl} className="w-full h-10 outline-none" />
+                   </div>
+                </div>
+              )}
+            </div>
+
+            <div className="p-8 md:p-10">
+              <div className="prose prose-lg prose-indigo max-w-none text-gray-700 leading-relaxed space-y-6">
+                {article.paragraphs.map((p: string, idx: number) => (
+                  <p key={idx}>{p}</p>
+                ))}
+              </div>
+            </div>
+
+            {article.vocabList && article.vocabList.length > 0 && (
+              <div className="p-8 md:p-10 border-t border-gray-100 bg-gray-50/50">
+                <h3 className="text-2xl font-bold text-gray-900 mb-6 flex items-center gap-2">
+                  <span className="text-purple-600">📚</span> Words in This Story
+                </h3>
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                  {article.vocabList.map((v: string, idx: number) => {
+                     const parts = v.split(/[-–]/);
+                     const word = parts[0]?.trim();
+                     const meaning = parts.slice(1).join('-').trim();
+                     return (
+                       <div key={idx} className="bg-white p-5 rounded-2xl border border-gray-200 shadow-sm hover:border-purple-300 transition-colors">
+                          <div className="font-bold text-gray-900 text-lg mb-1">{word || v}</div>
+                          {meaning && <div className="text-gray-600 text-sm">{meaning}</div>}
+                       </div>
+                     );
+                  })}
+                </div>
+              </div>
+            )}
+            
+            {article.quiz && article.quiz.length > 0 && (
+              <div className="p-8 md:p-10 border-t border-gray-100 bg-emerald-50/30">
+                <h3 className="text-2xl font-bold text-gray-900 mb-6 flex items-center gap-2">
+                  <span className="text-emerald-600">📝</span> Comprehension Quiz
+                </h3>
+                <div className="space-y-6">
+                  {article.quiz.map((q: any, qIdx: number) => (
+                    <QuizQuestion key={qIdx} questionData={q} index={qIdx} />
+                  ))}
+                </div>
+              </div>
+            )}
+          </div>
+        </div>
+      </div>
+    );
+  }
+
   if (selectedSkill) {
     return (
       <div className="flex flex-col h-full w-full max-w-4xl mx-auto">
@@ -637,6 +927,15 @@ export default function ExercisesArea({ activeLang, onAskPDF }: ExercisesAreaPro
       </div>
     );
   }
+
+  const skills = [
+    { id: 'grammar', name: 'Grammar', icon: <Library size={32} className="text-cyan-500" />, description: 'เรียนรู้หลักไวยากรณ์ตั้งแต่พื้นฐาน (Beginner - Advanced)' },
+    { id: 'reading', name: 'Reading', icon: <BookOpen size={32} className="text-emerald-500" />, description: 'ฝึกทักษะการอ่านจากบทความต่างๆ' },
+    { id: 'listening', name: 'Listening', icon: <Headphones size={32} className="text-blue-500" />, description: 'ฝึกทักษะการฟังจากเจ้าของภาษา' },
+    { id: 'writing', name: 'Writing', icon: <PenTool size={32} className="text-amber-500" />, description: 'ฝึกทักษะการเขียนและโครงสร้างประโยค' },
+    { id: 'speaking', name: 'Speaking', icon: <Mic size={32} className="text-purple-500" />, description: 'ฝึกทักษะการพูดและการออกเสียง' },
+    { id: 'voa', name: 'VOA Learning English', icon: <div className="text-3xl text-center">📰</div>, description: 'ฝึกอ่านและฟังจากข่าวจริง พร้อมเรียนรู้คำศัพท์ (Integrated)' },
+  ];
 
   return (
     <div className="flex flex-col h-full w-full max-w-4xl mx-auto pb-10">
@@ -663,6 +962,59 @@ export default function ExercisesArea({ activeLang, onAskPDF }: ExercisesAreaPro
           </button>
         ))}
       </div>
+    </div>
+  );
+}
+
+function QuizQuestion({ questionData, index }: { questionData: any, index: number }) {
+  const [selectedOption, setSelectedOption] = useState<number | null>(null);
+
+  const isCorrect = selectedOption === questionData.answer;
+
+  return (
+    <div className="bg-white border border-gray-200 rounded-2xl p-6 shadow-sm">
+      <h4 className="text-lg font-bold text-gray-800 mb-4">{index + 1}. {questionData.question}</h4>
+      <div className="space-y-3">
+        {questionData.options.map((opt: string, optIdx: number) => {
+          let btnClass = "w-full text-left p-4 rounded-xl border transition-all ";
+          
+          if (selectedOption === null) {
+             btnClass += "border-gray-200 hover:border-indigo-300 hover:bg-indigo-50";
+          } else {
+             if (optIdx === questionData.answer) {
+                btnClass += "border-green-500 bg-green-50 text-green-800 font-medium";
+             } else if (optIdx === selectedOption) {
+                btnClass += "border-red-300 bg-red-50 text-red-800";
+             } else {
+                btnClass += "border-gray-100 bg-gray-50 text-gray-400 opacity-50";
+             }
+          }
+
+          return (
+            <button 
+              key={optIdx} 
+              disabled={selectedOption !== null}
+              onClick={() => setSelectedOption(optIdx)}
+              className={btnClass}
+            >
+              {opt}
+              {selectedOption !== null && optIdx === questionData.answer && (
+                <CheckCircle2 size={18} className="inline-block ml-2 text-green-600" />
+              )}
+              {selectedOption !== null && optIdx === selectedOption && !isCorrect && (
+                <X size={18} className="inline-block ml-2 text-red-500" />
+              )}
+            </button>
+          );
+        })}
+      </div>
+      
+      {selectedOption !== null && (
+        <div className={`mt-5 p-4 rounded-xl text-sm ${isCorrect ? 'bg-green-100 text-green-900' : 'bg-blue-50 text-blue-900'}`}>
+          <span className="font-bold">{isCorrect ? '✅ Correct! ' : '💡 Explanation: '}</span> 
+          {questionData.explanation}
+        </div>
+      )}
     </div>
   );
 }

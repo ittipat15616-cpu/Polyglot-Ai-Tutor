@@ -4,6 +4,10 @@ import hsk3AnswerKey from '../data/hsk3_answer_key.json';
 import hsk4AnswerKey from '../data/hsk4_answer_key.json';
 import hsk5AnswerKey from '../data/hsk5_answer_key.json';
 import hsk6AnswerKey from '../data/hsk6_answer_key.json';
+import { GoogleGenerativeAI } from '@google/generative-ai';
+import { hsk4Keywords } from './hsk4Keywords';
+import { hsk5WritingPrompts } from './hsk5Keywords';
+import { hsk6Articles } from './hsk6Articles';
 
 export interface ExamResult {
   totalScore: number;
@@ -23,7 +27,7 @@ export interface ExamResult {
   }[];
 }
 
-export function gradeExam(level: string, examId: string, userAnswers: Record<string, string>): ExamResult {
+export async function gradeExam(level: string, examId: string, userAnswers: Record<string, string>): Promise<ExamResult> {
   if (level === 'HSK1' && (hsk1AnswerKey as any)[examId]) {
     const answers = (hsk1AnswerKey as any)[examId];
     let listeningCorrect = 0;
@@ -181,6 +185,8 @@ export function gradeExam(level: string, examId: string, userAnswers: Record<str
       const userAns = (userAnswers[qNum] || "").trim();
       
       let isCorrect = false;
+      let explanationThai = "";
+
       if (i <= 85) {
         isCorrect = userAns !== "" && correctAnsRaw.toLowerCase() === userAns.toLowerCase();
         if (isCorrect) {
@@ -192,10 +198,46 @@ export function gradeExam(level: string, examId: string, userAnswers: Record<str
         const possibleAnswers = correctAnsRaw.split("/").map((a: string) => a.replace(/[。！？?!\s]/g, ""));
         isCorrect = cleanUserAns !== "" && possibleAnswers.includes(cleanUserAns);
         if (isCorrect) {
-          writingScore += 5;
+          writingScore += 6; // Q86-95 (10 items * 6 pts = 60 pts)
         }
       } else {
-        isCorrect = false;
+        // Q96-100: AI Grading (8 pts max each)
+        if (userAns !== "") {
+          try {
+            const apiKey = import.meta.env.VITE_GEMINI_API_KEY;
+            const genAI = new GoogleGenerativeAI(apiKey);
+            const model = genAI.getGenerativeModel({ model: "gemini-2.5-flash" });
+            const keyword = hsk4Keywords[examId]?.[qNum] || "";
+            const prompt = `คุณคือผู้ตรวจข้อสอบ HSK4 พาร์ทการเขียน (แต่งประโยคจากคำศัพท์ที่กำหนด)
+คำศัพท์ที่กำหนดให้คือ: "${keyword}"
+ประโยคที่นักเรียนแต่งคือ: "${userAns}"
+
+เกณฑ์การให้คะแนน (เต็ม 8 คะแนน):
+- ใช้คำศัพท์ที่กำหนดให้ได้ถูกต้อง
+- ไวยากรณ์ถูกต้องตามระดับ HSK4
+- ความหมายสมเหตุสมผล
+
+หน้าที่ของคุณ:
+1. ให้คะแนนประโยคนี้ (0-8)
+2. ถ้าได้ 8 คะแนนเต็ม ให้คืนค่าเป็น JSON แบบนี้: {"score": 8, "feedback": "ได้คะแนนเต็ม"} (ห้ามอธิบายเพิ่ม)
+3. ถ้าถูกหักคะแนน ให้อธิบายข้อผิดพลาดและเหตุผลที่หักคะแนนสั้นๆ เป็นภาษาไทย คืนค่า JSON แบบนี้: {"score": <คะแนน>, "feedback": "<คำอธิบาย>"}
+
+กรุณาตอบเป็น JSON เท่านั้น ไม่ต้องมี markdown block`;
+            
+            const aiResult = await model.generateContent(prompt);
+            const responseText = aiResult.response.text();
+            const parsed = JSON.parse(responseText.replace(/```json/g, '').replace(/```/g, '').trim());
+            writingScore += parsed.score;
+            isCorrect = parsed.score === 8; // Full mark means fully correct
+            explanationThai = parsed.feedback;
+          } catch (e) {
+            console.error("AI Grading error:", e);
+            explanationThai = "เกิดข้อผิดพลาดในการเรียกใช้ AI ตรวจคำตอบ";
+          }
+        } else {
+          isCorrect = false;
+          explanationThai = "ไม่ได้ตอบคำถามข้อนี้";
+        }
       }
       
       results.push({
@@ -203,23 +245,23 @@ export function gradeExam(level: string, examId: string, userAnswers: Record<str
         userAnswer: userAns,
         correctAnswer: correctAnsRaw,
         isCorrect,
-        explanationThai: i > 95 ? "พาร์ทนี้เป็นอัตนัย (แต่งประโยค) ระบบยังไม่สามารถตรวจให้คะแนนได้ในขณะนี้" : ""
+        explanationThai
       });
     }
     
     const listeningScore = Math.round((listeningCorrect / 45) * 100);
     const readingScore = Math.round((readingCorrect / 40) * 100);
     const totalScore = listeningScore + readingScore + writingScore;
-    const isPass = totalScore >= 150;
+    const isPass = totalScore >= 180;
     
     return {
       totalScore,
-      maxScore: 250,
+      maxScore: 300,
       isPass,
       parts: {
         listening: { score: listeningScore, max: 100 },
         reading: { score: readingScore, max: 100 },
-        writing: { score: writingScore, max: 50 }
+        writing: { score: writingScore, max: 100 }
       },
       results
     };
@@ -238,6 +280,8 @@ export function gradeExam(level: string, examId: string, userAnswers: Record<str
       const userAns = (userAnswers[qNum] || "").trim();
       
       let isCorrect = false;
+      let explanationThai = "";
+
       if (i <= 90) {
         isCorrect = userAns !== "" && correctAnsRaw.toLowerCase() === userAns.toLowerCase();
         if (isCorrect) {
@@ -252,7 +296,64 @@ export function gradeExam(level: string, examId: string, userAnswers: Record<str
           writingScore += 5;
         }
       } else {
-        isCorrect = false;
+        // Q99-100: AI Grading (30 pts max each)
+        if (userAns !== "") {
+          try {
+            const apiKey = import.meta.env.VITE_GEMINI_API_KEY;
+            const genAI = new GoogleGenerativeAI(apiKey);
+            const model = genAI.getGenerativeModel({ model: "gemini-2.5-flash" });
+            
+            let prompt = "";
+            if (i === 99) {
+              const keywordList = hsk5WritingPrompts[examId]?.q99_keywords.join('、') || "";
+              prompt = `คุณคือผู้ตรวจข้อสอบ HSK5 พาร์ทการเขียน (แต่งประโยคจากคำศัพท์ที่กำหนด)
+คำศัพท์ที่กำหนดให้คือ: "${keywordList}"
+ประโยคที่นักเรียนแต่งคือ: "${userAns}"
+
+เกณฑ์การให้คะแนน (เต็ม 30 คะแนน):
+- ใช้คำศัพท์ที่กำหนดให้ได้ถูกต้องครบถ้วน
+- ไวยากรณ์ถูกต้องตามระดับ HSK5
+- ความหมายสมเหตุสมผล และมีความยาวประมาณ 80 ตัวอักษร
+
+หน้าที่ของคุณ:
+1. ให้คะแนนประโยคนี้ (0-30)
+2. ถ้าได้ 30 คะแนนเต็ม ให้คืนค่าเป็น JSON แบบนี้: {"score": 30, "feedback": "ได้คะแนนเต็ม"} (ห้ามอธิบายเพิ่ม)
+3. ถ้าถูกหักคะแนน ให้อธิบายข้อผิดพลาดและเหตุผลที่หักคะแนนสั้นๆ เป็นภาษาไทย คืนค่า JSON แบบนี้: {"score": <คะแนน>, "feedback": "<คำอธิบาย>"}
+
+กรุณาตอบเป็น JSON เท่านั้น ไม่ต้องมี markdown block`;
+            } else {
+              const imageTopic = hsk5WritingPrompts[examId]?.q100_image_topic || "";
+              prompt = `คุณคือผู้ตรวจข้อสอบ HSK5 พาร์ทการเขียน (แต่งประโยคจากรูปภาพ)
+รูปภาพที่กำหนดให้ในข้อสอบมีเนื้อหาดังนี้: "${imageTopic}"
+ประโยคที่นักเรียนแต่งคือ: "${userAns}"
+
+เกณฑ์การให้คะแนน (เต็ม 30 คะแนน):
+- เนื้อหาที่เขียนมีความสอดคล้องกับรูปภาพที่กำหนด
+- ไวยากรณ์และคำศัพท์ถูกต้องตามระดับ HSK5
+- ความหมายสมเหตุสมผล และมีความยาวประมาณ 80 ตัวอักษร
+
+หน้าที่ของคุณ:
+1. ให้คะแนนประโยคนี้ (0-30)
+2. ถ้าได้ 30 คะแนนเต็ม ให้คืนค่าเป็น JSON แบบนี้: {"score": 30, "feedback": "ได้คะแนนเต็ม"} (ห้ามอธิบายเพิ่ม)
+3. ถ้าถูกหักคะแนน ให้อธิบายข้อผิดพลาดและเหตุผลที่หักคะแนนสั้นๆ เป็นภาษาไทย คืนค่า JSON แบบนี้: {"score": <คะแนน>, "feedback": "<คำอธิบาย>"}
+
+กรุณาตอบเป็น JSON เท่านั้น ไม่ต้องมี markdown block`;
+            }
+            
+            const aiResult = await model.generateContent(prompt);
+            const responseText = aiResult.response.text();
+            const parsed = JSON.parse(responseText.replace(/```json/g, '').replace(/```/g, '').trim());
+            writingScore += parsed.score;
+            isCorrect = parsed.score === 30; // Full mark means fully correct
+            explanationThai = parsed.feedback;
+          } catch (e) {
+            console.error("AI Grading error:", e);
+            explanationThai = "เกิดข้อผิดพลาดในการเรียกใช้ AI ตรวจคำตอบ";
+          }
+        } else {
+          isCorrect = false;
+          explanationThai = "ไม่ได้ตอบคำถามข้อนี้";
+        }
       }
       
       results.push({
@@ -260,23 +361,23 @@ export function gradeExam(level: string, examId: string, userAnswers: Record<str
         userAnswer: userAns,
         correctAnswer: correctAnsRaw,
         isCorrect,
-        explanationThai: i > 98 ? "พาร์ทนี้เป็นอัตนัย (แต่งประโยคสั้นๆ) ระบบยังไม่สามารถตรวจให้คะแนนได้ในขณะนี้" : ""
+        explanationThai
       });
     }
     
     const listeningScore = Math.round((listeningCorrect / 45) * 100);
     const readingScore = Math.round((readingCorrect / 45) * 100);
     const totalScore = listeningScore + readingScore + writingScore;
-    const isPass = totalScore >= 144;
+    const isPass = totalScore >= 180;
     
     return {
       totalScore,
-      maxScore: 240,
+      maxScore: 300,
       isPass,
       parts: {
         listening: { score: listeningScore, max: 100 },
         reading: { score: readingScore, max: 100 },
-        writing: { score: writingScore, max: 40 }
+        writing: { score: writingScore, max: 100 }
       },
       results
     };
@@ -286,6 +387,7 @@ export function gradeExam(level: string, examId: string, userAnswers: Record<str
     const answers = (hsk6AnswerKey as any)[examId];
     let listeningCorrect = 0;
     let readingCorrect = 0;
+    let writingScore = 0;
     const results = [];
     
     for (let i = 1; i <= 101; i++) {
@@ -294,6 +396,8 @@ export function gradeExam(level: string, examId: string, userAnswers: Record<str
       const userAns = (userAnswers[qNum] || "").trim();
       
       let isCorrect = false;
+      let explanationThai = "";
+      
       if (i <= 100) {
         isCorrect = userAns !== "" && correctAnsRaw.toLowerCase() === userAns.toLowerCase();
         if (isCorrect) {
@@ -301,7 +405,45 @@ export function gradeExam(level: string, examId: string, userAnswers: Record<str
           else readingCorrect++;
         }
       } else {
-        isCorrect = false;
+        // Q101: AI Grading (100 pts max)
+        if (userAns !== "") {
+          try {
+            const apiKey = import.meta.env.VITE_GEMINI_API_KEY;
+            const genAI = new GoogleGenerativeAI(apiKey);
+            const model = genAI.getGenerativeModel({ model: "gemini-2.5-flash" });
+            const originalArticle = hsk6Articles[examId] || "";
+            const prompt = `คุณคือผู้ตรวจข้อสอบ HSK6 พาร์ทการเขียน (ย่อความบทความ)
+บทความต้นฉบับคือ: "${originalArticle}"
+
+บทความที่นักเรียนเขียนสรุปคือ: "${userAns}"
+
+เกณฑ์การให้คะแนน (เต็ม 100 คะแนน):
+1. มีการตั้งชื่อเรื่องที่สอดคล้องกับเนื้อหา
+2. ความยาวประมาณ 400 ตัวอักษร (ถ้ายาวไปหรือสั้นไปให้หักคะแนน)
+3. สรุปใจความสำคัญจากบทความต้นฉบับได้อย่างครบถ้วน ถูกต้อง ไม่ใส่ความคิดเห็นส่วนตัวลงไป
+4. ไวยากรณ์และคำศัพท์มีความถูกต้องตามระดับ HSK6
+
+หน้าที่ของคุณ:
+1. ให้คะแนนบทความนี้ (0-100)
+2. ถ้าได้ 100 คะแนนเต็ม ให้คืนค่าเป็น JSON แบบนี้: {"score": 100, "feedback": "ได้คะแนนเต็ม"} (ห้ามอธิบายเพิ่ม)
+3. ถ้าถูกหักคะแนน ให้อธิบายข้อผิดพลาดและเหตุผลที่หักคะแนนสั้นๆ เป็นภาษาไทย คืนค่า JSON แบบนี้: {"score": <คะแนน>, "feedback": "<คำอธิบาย>"}
+
+กรุณาตอบเป็น JSON เท่านั้น ไม่ต้องมี markdown block`;
+            
+            const aiResult = await model.generateContent(prompt);
+            const responseText = aiResult.response.text();
+            const parsed = JSON.parse(responseText.replace(/```json/g, '').replace(/```/g, '').trim());
+            writingScore += parsed.score;
+            isCorrect = parsed.score === 100;
+            explanationThai = parsed.feedback;
+          } catch (e) {
+            console.error("AI Grading error:", e);
+            explanationThai = "เกิดข้อผิดพลาดในการเรียกใช้ AI ตรวจคำตอบ";
+          }
+        } else {
+          isCorrect = false;
+          explanationThai = "ไม่ได้ตอบคำถามข้อนี้";
+        }
       }
       
       results.push({
@@ -309,23 +451,23 @@ export function gradeExam(level: string, examId: string, userAnswers: Record<str
         userAnswer: userAns,
         correctAnswer: correctAnsRaw,
         isCorrect,
-        explanationThai: i === 101 ? "พาร์ทนี้เป็นอัตนัย (เขียนสรุปความ) ระบบยังไม่สามารถตรวจให้คะแนนได้ในขณะนี้" : ""
+        explanationThai
       });
     }
     
     const listeningScore = Math.round((listeningCorrect / 50) * 100);
     const readingScore = Math.round((readingCorrect / 50) * 100);
-    const totalScore = listeningScore + readingScore;
-    const isPass = totalScore >= 120;
+    const totalScore = listeningScore + readingScore + writingScore;
+    const isPass = totalScore >= 180;
     
     return {
       totalScore,
-      maxScore: 200,
+      maxScore: 300,
       isPass,
       parts: {
         listening: { score: listeningScore, max: 100 },
         reading: { score: readingScore, max: 100 },
-        writing: { score: 0, max: 0 }
+        writing: { score: writingScore, max: 100 }
       },
       results
     };

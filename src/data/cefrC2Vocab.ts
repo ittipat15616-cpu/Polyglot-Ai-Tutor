@@ -1,9 +1,9 @@
-export const cefrC2Vocab = {
+export const cefrC2Vocab: Record<string, any[]> = {
   "TH_โลกธุรกิจ": [
     {
       "word": "Conglomerate",
       "type": "n",
-      "th": "กลุ่มบริษัท",
+      "th": "กลุ่มบริษัท, บริษัทรวมธุรกิจ",
       "phonetic": "/kənˈɡlɒm.ər.ət/",
       "en": "",
       "cn": "",
@@ -13,7 +13,7 @@ export const cefrC2Vocab = {
     {
       "word": "Mogul",
       "type": "n",
-      "th": "ผู้ทรงอิทธิพลในวงการธุรกิจ",
+      "th": "ผู้มีอิทธิพล, มหาเศรษฐี, เจ้าพ่อ",
       "phonetic": "/ˈməʊ.ɡəl/",
       "en": "",
       "cn": "",
@@ -23,7 +23,7 @@ export const cefrC2Vocab = {
     {
       "word": "Consortium",
       "type": "n",
-      "th": "สมาคม",
+      "th": "กลุ่มบริษัทร่วมทุน, สมาคม, คณะบุคคล",
       "phonetic": "/kənˈsɔː.ti.əm/",
       "en": "",
       "cn": "",
@@ -33,7 +33,7 @@ export const cefrC2Vocab = {
     {
       "word": "Loophole",
       "type": "n",
-      "th": "ช่องโหว่ทางกฎหมาย",
+      "th": "ช่องโหว่, ช่องว่างทางกฎหมาย",
       "phonetic": "/ˈluːp.həʊl/",
       "en": "",
       "cn": "",
@@ -43,7 +43,7 @@ export const cefrC2Vocab = {
     {
       "word": "Delegation",
       "type": "n",
-      "th": "การมอบหมาย",
+      "th": "คณะผู้แทน, การมอบหมาย",
       "phonetic": "/ˌdel.ɪˈɡeɪ.ʃən/",
       "en": "",
       "cn": "",
@@ -53,7 +53,7 @@ export const cefrC2Vocab = {
     {
       "word": "Indemnify",
       "type": "v",
-      "th": "ชดใช้ค่าเสียหาย",
+      "th": "ชดเชย, ค้ำประกัน",
       "phonetic": "/ɪnˈdem.nɪ.faɪ/",
       "en": "",
       "cn": "",
@@ -63,7 +63,7 @@ export const cefrC2Vocab = {
     {
       "word": "Ascertain",
       "type": "v",
-      "th": "สืบให้แน่ใจ",
+      "th": "ตรวจสอบให้แน่ใจ, ค้นหาความจริง",
       "phonetic": "/ˌæs.əˈteɪn/",
       "en": "",
       "cn": "",
@@ -73,7 +73,7 @@ export const cefrC2Vocab = {
     {
       "word": "Mandate",
       "type": "n",
-      "th": "อาณัติ",
+      "th": "อาณัติ, คำสั่ง, อำนาจหน้าที่",
       "phonetic": "/ˈmæn.deɪt/",
       "en": "",
       "cn": "",
@@ -83,7 +83,7 @@ export const cefrC2Vocab = {
     {
       "word": "Unsolicited",
       "type": "adj",
-      "th": "ไม่พึงประสงค์",
+      "th": "ไม่ได้ร้องขอ, ไม่ได้เชิญชวน",
       "phonetic": "/ˌʌn.səˈlɪs.ɪ.tɪd/",
       "en": "",
       "cn": "",
@@ -93,7 +93,7 @@ export const cefrC2Vocab = {
     {
       "word": "Margin",
       "type": "n",
-      "th": "ความแตกต่างระหว่างต้นทุนกับราคาขาย",
+      "th": "อัตรากำไร, ขอบ, ส่วนต่าง",
       "phonetic": "/ˈmɑː.dʒɪn/",
       "en": "",
       "cn": "",
@@ -103,7 +103,7 @@ export const cefrC2Vocab = {
     {
       "word": "Penetration",
       "type": "n",
-      "th": "การเจาะทะลุ",
+      "th": "การเข้าถึง, การเจาะตลาด, การแทรกซึม",
       "phonetic": "/ˌpen.ɪˈtreɪ.ʃən/",
       "en": "",
       "cn": "",
@@ -113,7 +113,7 @@ export const cefrC2Vocab = {
     {
       "word": "Inventory",
       "type": "n",
-      "th": "รายการสิ่งของในอาคาร",
+      "th": "สินค้าคงคลัง, รายการสิ่งของ",
       "phonetic": "/ˈɪn.vən.tɔːr.i/",
       "en": "",
       "cn": "",
@@ -123,7 +123,7 @@ export const cefrC2Vocab = {
     {
       "word": "Orientation",
       "type": "n",
-      "th": "ปฐมนิเทศ",
+      "th": "การปฐมนิเทศ, การปรับตัว, ทิศทาง",
       "phonetic": "/ˌɔː.ri.enˈteɪ.ʃən/",
       "en": "",
       "cn": "",
@@ -133,7 +133,7 @@ export const cefrC2Vocab = {
     {
       "word": "Purveyor",
       "type": "n",
-      "th": "ผู้ส่งของ",
+      "th": "ผู้จัดหา, ผู้จัดจำหน่าย",
       "phonetic": "/pəˈveɪ.ər/",
       "en": "",
       "cn": "",
@@ -143,7 +143,7 @@ export const cefrC2Vocab = {
     {
       "word": "Mitigate",
       "type": "v",
-      "th": "บรรเทา",
+      "th": "บรรเทา, ทำให้เบาลง, ลดความรุนแรง",
       "phonetic": "/ˈmɪt.ɪ.ɡeɪt/",
       "en": "",
       "cn": "",
@@ -163,7 +163,7 @@ export const cefrC2Vocab = {
     {
       "word": "Predatory",
       "type": "adj",
-      "th": "เอารัดเอาเปรียบทางเศรษฐกิจ",
+      "th": "ล่าเหยื่อ, เอารัดเอาเปรียบ",
       "phonetic": "/ˈpred.ə.tɔːr.i/",
       "en": "",
       "cn": "",
@@ -173,7 +173,7 @@ export const cefrC2Vocab = {
     {
       "word": "Nominal",
       "type": "adj",
-      "th": "ในนาม",
+      "th": "เล็กน้อย, ในนาม, เพียงเล็กน้อย",
       "phonetic": "/ˈnɒm.ɪ.nəl/",
       "en": "",
       "cn": "",
@@ -183,7 +183,7 @@ export const cefrC2Vocab = {
     {
       "word": "Meritocracy",
       "type": "n",
-      "th": "ระบบคุณธรรม",
+      "th": "ระบบคุณธรรม, การปกครองโดยผู้มีความสามารถ",
       "phonetic": "/ˌmer.ɪˈtɒk.rə.si/",
       "en": "",
       "cn": "",
@@ -193,7 +193,7 @@ export const cefrC2Vocab = {
     {
       "word": "Mark-up",
       "type": "n",
-      "th": "การเพิ่มขึ้นของราคา",
+      "th": "การบวกเพิ่มราคา, ส่วนต่างราคา",
       "phonetic": "/ˈmɑːrk.ʌp/",
       "en": "",
       "cn": "",
@@ -203,7 +203,7 @@ export const cefrC2Vocab = {
     {
       "word": "Protectionism",
       "type": "n",
-      "th": "การปกป้องอุตสาหกรรมภายในประเทศ",
+      "th": "นโยบายกีดกันทางการค้า, ลัทธิคุ้มครองอุตสาหกรรมภายใน",
       "phonetic": "/prəˈtek.ʃən.ɪ.zəm/",
       "en": "",
       "cn": "",
@@ -213,7 +213,7 @@ export const cefrC2Vocab = {
     {
       "word": "Tranche",
       "type": "n",
-      "th": "ส่วนของเงินหรือหุ้น",
+      "th": "งวด, ส่วน, ชุด",
       "phonetic": "/trɑːnʃ/",
       "en": "",
       "cn": "",
@@ -223,7 +223,7 @@ export const cefrC2Vocab = {
     {
       "word": "Ideologically",
       "type": "adv",
-      "th": "ทางอุดมการณ์",
+      "th": "ตามอุดมการณ์, ทางความคิด",
       "phonetic": "/ˌaɪ.di.əˈlɒdʒ.ɪ.kəl.i/",
       "en": "",
       "cn": "",
@@ -233,7 +233,7 @@ export const cefrC2Vocab = {
     {
       "word": "Cut-throat business",
       "type": "n",
-      "th": "ธุรกิจแข่งขันสูง",
+      "th": "ธุรกิจที่แข่งขันรุนแรง, ธุรกิจที่ห้ำหั่นกัน",
       "phonetic": "/ˈkʌt.θrəʊt ˈbɪz.nɪs/",
       "en": "",
       "cn": "",
@@ -243,7 +243,7 @@ export const cefrC2Vocab = {
     {
       "word": "Punitive",
       "type": "adj",
-      "th": "เป็นการลงโทษ",
+      "th": "เป็นการลงโทษ, เกี่ยวกับการลงโทษ",
       "phonetic": "/ˈpjuː.nɪ.tɪv/",
       "en": "",
       "cn": "",
@@ -253,7 +253,7 @@ export const cefrC2Vocab = {
     {
       "word": "False bottom",
       "type": "n",
-      "th": "จุดต่ำสุดผิดพลาด",
+      "th": "ก้นปลอม, พื้นสองชั้น",
       "phonetic": "/ˈfɔːls ˈbɒt.əm/",
       "en": "",
       "cn": "",
@@ -273,7 +273,7 @@ export const cefrC2Vocab = {
     {
       "word": "Junk bond",
       "type": "n",
-      "th": "พันธบัตรความเสี่ยงสูง",
+      "th": "หุ้นกู้ด้อยคุณภาพ, ตราสารหนี้เกรดขยะ",
       "phonetic": "/ˈdʒʌŋk bɒnd/",
       "en": "",
       "cn": "",
@@ -283,7 +283,7 @@ export const cefrC2Vocab = {
     {
       "word": "Precedent",
       "type": "n",
-      "th": "ตัวอย่างก่อนหน้า",
+      "th": "บรรทัดฐาน, แบบอย่าง, กรณีตัวอย่าง",
       "phonetic": "/ˈpres.ɪ.dənt/",
       "en": "",
       "cn": "",
@@ -303,7 +303,7 @@ export const cefrC2Vocab = {
     {
       "word": "Capitulation",
       "type": "n",
-      "th": "การยอมจำนน",
+      "th": "การยอมจำนน, การยอมแพ้",
       "phonetic": "/kəˌpɪtʃ.uˈleɪ.ʃən/",
       "en": "",
       "cn": "",
@@ -313,7 +313,7 @@ export const cefrC2Vocab = {
     {
       "word": "Credit check",
       "type": "n",
-      "th": "การตรวจสอบเครดิต",
+      "th": "การตรวจสอบเครดิต, การตรวจสอบฐานะทางการเงิน",
       "phonetic": "/ˈkred.ɪt tʃek/",
       "en": "",
       "cn": "",
@@ -323,7 +323,7 @@ export const cefrC2Vocab = {
     {
       "word": "Unilaterally",
       "type": "adv",
-      "th": "โดยฝ่ายเดียว",
+      "th": "ฝ่ายเดียว, แต่เพียงฝ่ายเดียว",
       "phonetic": "/ˌjuː.nɪˈlæt.ər.əl.i/",
       "en": "",
       "cn": "",
@@ -333,7 +333,7 @@ export const cefrC2Vocab = {
     {
       "word": "Factory floor",
       "type": "n",
-      "th": "พื้นที่ทำงานในโรงงาน",
+      "th": "พื้นที่โรงงาน, แผนกผลิต",
       "phonetic": "/ˈfæk.tər.i flɔːr/",
       "en": "",
       "cn": "",
@@ -343,7 +343,7 @@ export const cefrC2Vocab = {
     {
       "word": "Viability",
       "type": "n",
-      "th": "ความสามารถในการทำงาน",
+      "th": "ความเป็นไปได้, ความสามารถในการอยู่รอด",
       "phonetic": "/ˌvaɪ.əˈbɪl.ɪ.ti/",
       "en": "",
       "cn": "",
@@ -353,7 +353,7 @@ export const cefrC2Vocab = {
     {
       "word": "Double-dip recession",
       "type": "n",
-      "th": "ภาวะเศรษฐกิจถดถอยสองรอบ",
+      "th": "ภาวะเศรษฐกิจถดถอยซ้ำซ้อน, การถดถอยสองรอบ",
       "phonetic": "/ˌdʌb.əlˈdɪp rɪˈseʃ.ən/",
       "en": "",
       "cn": "",
@@ -363,7 +363,7 @@ export const cefrC2Vocab = {
     {
       "word": "Insolvent",
       "type": "n",
-      "th": "ล้มละลาย",
+      "th": "ล้มละลาย, ไม่มีเงินชำระหนี้",
       "phonetic": "/ɪnˈsɒl.vənt/",
       "en": "",
       "cn": "",
@@ -373,7 +373,7 @@ export const cefrC2Vocab = {
     {
       "word": "Corporate ladder",
       "type": "n",
-      "th": "ลำดับขั้นในองค์กร",
+      "th": "ลำดับขั้นในองค์กร, บันไดอาชีพในบริษัท",
       "phonetic": "/ˈkɔː.pər.ət ˈlæd.ər/",
       "en": "",
       "cn": "",
@@ -383,7 +383,7 @@ export const cefrC2Vocab = {
     {
       "word": "Requisition",
       "type": "n",
-      "th": "คำขออย่างเป็นทางการ",
+      "th": "ใบเบิก, การร้องขอ, การยึด",
       "phonetic": "/ˌrek.wɪˈzɪʃ.ən/",
       "en": "",
       "cn": "",
@@ -393,7 +393,7 @@ export const cefrC2Vocab = {
     {
       "word": "Credit crunch",
       "type": "n",
-      "th": "ภาวะวิกฤตสินเชื่อ",
+      "th": "วิกฤตสินเชื่อ, การขาดแคลนสินเชื่อ",
       "phonetic": "/ˈkred.ɪt krʌntʃ/",
       "en": "",
       "cn": "",
@@ -403,7 +403,7 @@ export const cefrC2Vocab = {
     {
       "word": "Repossessed property",
       "type": "n",
-      "th": "ทรัพย์สินถูกยึดคืน",
+      "th": "ทรัพย์สินที่ถูกยึดคืน",
       "phonetic": "/ˌriː.pəˈzest ˈprɒp.ə.ti/",
       "en": "",
       "cn": "",
@@ -413,7 +413,7 @@ export const cefrC2Vocab = {
     {
       "word": "Cottage industry",
       "type": "n",
-      "th": "ธุรกิจขนาดเล็กทำในครอบครัว",
+      "th": "อุตสาหกรรมในครัวเรือน, หัตถกรรมในครัวเรือน",
       "phonetic": "/ˈkɒt.ɪdʒ ˈɪn.də.stri/",
       "en": "",
       "cn": "",
@@ -423,7 +423,7 @@ export const cefrC2Vocab = {
     {
       "word": "Inheritance",
       "type": "n",
-      "th": "มรดก",
+      "th": "มรดก, การสืบทอด",
       "phonetic": "/ɪnˈher.ɪ.təns/",
       "en": "",
       "cn": "",
@@ -435,7 +435,7 @@ export const cefrC2Vocab = {
     {
       "word": "Concede",
       "type": "v",
-      "th": "ยอมรับ",
+      "th": "ยอมรับ, ยอมแพ้, ยินยอม",
       "phonetic": "/kənˈsiːd/",
       "en": "",
       "cn": "",
@@ -455,7 +455,7 @@ export const cefrC2Vocab = {
     {
       "word": "Renege",
       "type": "v",
-      "th": "ผิดสัญญา",
+      "th": "ผิดสัญญา, ไม่ทำตามสัญญา",
       "phonetic": "/rɪˈneɪɡ/",
       "en": "",
       "cn": "",
@@ -465,7 +465,7 @@ export const cefrC2Vocab = {
     {
       "word": "Front runner",
       "type": "n",
-      "th": "ผู้นำ",
+      "th": "ตัวเต็ง, ผู้ที่มีคะแนนนำ",
       "phonetic": "/ˈfrʌnt ˈrʌn.ər/",
       "en": "",
       "cn": "",
@@ -475,7 +475,7 @@ export const cefrC2Vocab = {
     {
       "word": "Capture",
       "type": "v",
-      "th": "จับกุม",
+      "th": "จับ, ยึด, ครอบครอง",
       "phonetic": "/ˈkæp.tʃər/",
       "en": "",
       "cn": "",
@@ -485,7 +485,7 @@ export const cefrC2Vocab = {
     {
       "word": "Dark horse",
       "type": "n",
-      "th": "ผู้สมัครที่ไม่ค่อยมีใครรู้จักแต่กลับประสบความสำเร็จ",
+      "th": "ม้ามืด, ผู้ที่ถูกมองข้ามแต่มีโอกาสชนะ",
       "phonetic": "/ˌdɑːk ˈhɔːs/",
       "en": "",
       "cn": "",
@@ -495,7 +495,7 @@ export const cefrC2Vocab = {
     {
       "word": "Convene",
       "type": "v",
-      "th": "จัดการประชุม",
+      "th": "เรียกประชุม, จัดให้มีการประชุม",
       "phonetic": "/kənˈviːn/",
       "en": "",
       "cn": "",
@@ -505,7 +505,7 @@ export const cefrC2Vocab = {
     {
       "word": "Exit poll",
       "type": "n",
-      "th": "โพลสำรวจหลังการเลือกตั้ง",
+      "th": "การสำรวจคะแนนเสียงจากผู้ลงคะแนน",
       "phonetic": "/ˈek.sɪt pəʊl/",
       "en": "",
       "cn": "",
@@ -515,7 +515,7 @@ export const cefrC2Vocab = {
     {
       "word": "Heckle",
       "type": "v",
-      "th": "ขัดคอ",
+      "th": "ตะโกนขัดจังหวะ, โห่ฮา",
       "phonetic": "/ˈhek.əl/",
       "en": "",
       "cn": "",
@@ -525,7 +525,7 @@ export const cefrC2Vocab = {
     {
       "word": "Hung parliament",
       "type": "n",
-      "th": "รัฐสภาที่ไม่มีพรรคใดครองเสียงข้างมาก",
+      "th": "สภาแขวน, สภาที่ไม่มีพรรคใดได้เสียงข้างมากเด็ดขาด",
       "phonetic": "/ˌhʌŋ ˈpɑː.lɪ.mənt/",
       "en": "",
       "cn": "",
@@ -535,7 +535,7 @@ export const cefrC2Vocab = {
     {
       "word": "Canvassing",
       "type": "v",
-      "th": "การหาเสียงสนับสนุนทางการเมือง",
+      "th": "การหาเสียง, การเดินสายหาเสียง",
       "phonetic": "/ˈkæn.vəs.ɪŋ/",
       "en": "",
       "cn": "",
@@ -555,7 +555,7 @@ export const cefrC2Vocab = {
     {
       "word": "Withdraw",
       "type": "v",
-      "th": "ถอนตัว",
+      "th": "ถอนตัว, ถอนออก, ถอนเงิน",
       "phonetic": "/wɪðˈdrɔː/",
       "en": "",
       "cn": "",
@@ -565,7 +565,7 @@ export const cefrC2Vocab = {
     {
       "word": "Landslide victory",
       "type": "n",
-      "th": "ชัยชนะอย่างถล่มทลาย",
+      "th": "ชนะอย่างถล่มทลาย",
       "phonetic": "/ˈlænd.slaɪd ˈvɪk.tər.i/",
       "en": "",
       "cn": "",
@@ -575,7 +575,7 @@ export const cefrC2Vocab = {
     {
       "word": "Ratify",
       "type": "v",
-      "th": "ให้สัตยาบัน",
+      "th": "ให้สัตยาบัน, รับรอง",
       "phonetic": "/ˈræt.ɪ.faɪ/",
       "en": "",
       "cn": "",
@@ -585,7 +585,7 @@ export const cefrC2Vocab = {
     {
       "word": "Financial ombudsman",
       "type": "n",
-      "th": "ผู้ตรวจการการเงิน",
+      "th": "ผู้ตรวจการด้านการเงิน",
       "phonetic": "/faɪˈnæn.ʃəl ˈɒm.bʊdz.mən/",
       "en": "",
       "cn": "",
@@ -595,7 +595,7 @@ export const cefrC2Vocab = {
     {
       "word": "Nominate",
       "type": "v",
-      "th": "เสนอชื่อ",
+      "th": "เสนอชื่อ, แต่งตั้ง",
       "phonetic": "/ˈnɒm.ɪ.neɪt/",
       "en": "",
       "cn": "",
@@ -605,7 +605,7 @@ export const cefrC2Vocab = {
     {
       "word": "Public-private partnership",
       "type": "n",
-      "th": "ความร่วมมือระหว่างภาครัฐและเอกชน",
+      "th": "ความร่วมมือภาครัฐและเอกชน",
       "phonetic": "/ˌpʌb.lɪkˈpraɪ.vət ˈpɑːt.nə.ʃɪp/",
       "en": "",
       "cn": "",
@@ -615,7 +615,7 @@ export const cefrC2Vocab = {
     {
       "word": "Pledge",
       "type": "v",
-      "th": "ให้คำมั่น",
+      "th": "ให้คำมั่นสัญญา, หลักประกัน, การจำนำ",
       "phonetic": "/pledʒ/",
       "en": "",
       "cn": "",
@@ -635,7 +635,7 @@ export const cefrC2Vocab = {
     {
       "word": "Polarize",
       "type": "v",
-      "th": "แบ่งแยก",
+      "th": "แบ่งขั้ว, ทำให้แตกแยก",
       "phonetic": "/ˈpəʊ.lə.raɪz/",
       "en": "",
       "cn": "",
@@ -655,7 +655,7 @@ export const cefrC2Vocab = {
     {
       "word": "Gambit",
       "type": "n",
-      "th": "กลเม็ด",
+      "th": "กลยุทธ์, อุบาย, การเดินหมากเสี่ยง",
       "phonetic": "/ˈɡæm.bɪt/",
       "en": "",
       "cn": "",
@@ -665,7 +665,7 @@ export const cefrC2Vocab = {
     {
       "word": "Tertiary sector",
       "type": "n",
-      "th": "ภาคบริการ",
+      "th": "ภาคบริการ, อุตสาหกรรมบริการ",
       "phonetic": "/ˈtɜː.ʃər.i ˈsek.tər/",
       "en": "",
       "cn": "",
@@ -675,7 +675,7 @@ export const cefrC2Vocab = {
     {
       "word": "Catalyst",
       "type": "n",
-      "th": "ตัวเร่ง",
+      "th": "ตัวเร่ง, ตัวกระตุ้น",
       "phonetic": "/ˈkæt.ə.lɪst/",
       "en": "",
       "cn": "",
@@ -685,7 +685,7 @@ export const cefrC2Vocab = {
     {
       "word": "National debt",
       "type": "n",
-      "th": "หนี้สาธารณะ",
+      "th": "หนี้สาธารณะ, หนี้ของประเทศ",
       "phonetic": "/ˌnæʃ.ən.əl ˈdet/",
       "en": "",
       "cn": "",
@@ -695,7 +695,7 @@ export const cefrC2Vocab = {
     {
       "word": "Whistle-stop",
       "type": "n",
-      "th": "การเยี่ยมชมหลายสถานที่ในเวลาอันสั้น",
+      "th": "การหาเสียงแบบรวดเร็ว, การแวะพักสั้นๆ",
       "phonetic": "/ˈwɪs.əl.stɒp/",
       "en": "",
       "cn": "",
@@ -715,7 +715,7 @@ export const cefrC2Vocab = {
     {
       "word": "Gerrymandering",
       "type": "n",
-      "th": "การแบ่งเขตเลือกตั้งเพื่อผลประโยชน์ทางการเมือง",
+      "th": "การแบ่งเขตเลือกตั้งแบบเอาเปรียบ",
       "phonetic": "/ˈdʒer.iˌmæn.dər.ɪŋ/",
       "en": "",
       "cn": "",
@@ -725,7 +725,7 @@ export const cefrC2Vocab = {
     {
       "word": "Excise duty",
       "type": "n",
-      "th": "ภาษีสรรพสามิตร",
+      "th": "ภาษีสรรพสามิต",
       "phonetic": "/ˈek.saɪz ˈdjuː.ti/",
       "en": "",
       "cn": "",
@@ -735,7 +735,7 @@ export const cefrC2Vocab = {
     {
       "word": "Bureaucratic",
       "type": "adj",
-      "th": "เกี่ยวกับระบบราชการ",
+      "th": "เกี่ยวกับระบบราชการ, ระบบเจ้าขุนมูลนาย",
       "phonetic": "/ˌbjʊə.rəˈkræt.ɪk/",
       "en": "",
       "cn": "",
@@ -745,7 +745,7 @@ export const cefrC2Vocab = {
     {
       "word": "Attorney general",
       "type": "n",
-      "th": "อัยการสูงสุด",
+      "th": "อัยการสูงสุด, รัฐมนตรีกระทรวงยุติธรรม",
       "phonetic": "/əˈtɜː.ni ˈdʒen.ər.əl/",
       "en": "",
       "cn": "",
@@ -755,7 +755,7 @@ export const cefrC2Vocab = {
     {
       "word": "Bipartisan",
       "type": "n",
-      "th": "สนับสนุนจากทั้งสองพรรค",
+      "th": "สองพรรค, ร่วมกันสองพรรค",
       "phonetic": "/ˌbaɪˈpɑː.tɪ.zən/",
       "en": "",
       "cn": "",
@@ -765,7 +765,7 @@ export const cefrC2Vocab = {
     {
       "word": "Civil service",
       "type": "n",
-      "th": "ราชการ",
+      "th": "ข้าราชการ, ระบบราชการ",
       "phonetic": "/ˌsɪv.əl ˈsɜː.vɪs/",
       "en": "",
       "cn": "",
@@ -775,7 +775,7 @@ export const cefrC2Vocab = {
     {
       "word": "Partisan",
       "type": "n",
-      "th": "พรรคพวก",
+      "th": "ผู้สนับสนุนพรรค, ผู้ฝักใฝ่พรรค, ลำเอียง",
       "phonetic": "/ˈpɑː.tɪ.zæn/",
       "en": "",
       "cn": "",
@@ -785,7 +785,7 @@ export const cefrC2Vocab = {
     {
       "word": "Semi-state company",
       "type": "n",
-      "th": "บริษัทที่รัฐเป็นเจ้าของ",
+      "th": "รัฐวิสาหกิจ, บริษัทกึ่งรัฐ",
       "phonetic": "/ˌse.mɪˈsteɪt ˈkʌm.pə.ni/",
       "en": "",
       "cn": "",
@@ -795,7 +795,7 @@ export const cefrC2Vocab = {
     {
       "word": "Appetite",
       "type": "n",
-      "th": "ความปรารถนา",
+      "th": "ความอยาก, ความต้องการ",
       "phonetic": "/ˈæp.ɪ.taɪt/",
       "en": "",
       "cn": "",
@@ -815,7 +815,7 @@ export const cefrC2Vocab = {
     {
       "word": "Take over",
       "type": "v",
-      "th": "เข้าครอบครอง",
+      "th": "เข้าครอบครอง, เข้าควบคุม, เข้าบริหาร",
       "phonetic": "/ˌteɪk ˈəʊ.vər/",
       "en": "",
       "cn": "",
@@ -837,7 +837,7 @@ export const cefrC2Vocab = {
     {
       "word": "Permanent",
       "type": "adj",
-      "th": "​ถาวร",
+      "th": "ถาวร, ประจำ",
       "phonetic": "/ˈpɜː.mə.nənt/",
       "en": "",
       "cn": "",
@@ -847,7 +847,7 @@ export const cefrC2Vocab = {
     {
       "word": "Blue-collar worker",
       "type": "n",
-      "th": "แรงงาน",
+      "th": "แรงงานใช้แรงงาน, ชนชั้นแรงงาน",
       "phonetic": "/ˌbluːˈkɒl.ər ˈwɜː.kər/",
       "en": "",
       "cn": "",
@@ -867,7 +867,7 @@ export const cefrC2Vocab = {
     {
       "word": "Benefit in kind",
       "type": "n",
-      "th": "สิทธิประโยชน์พนักงาน",
+      "th": "สวัสดิการที่ไม่ใช่ตัวเงิน, ผลประโยชน์ในรูปสิ่งของ",
       "phonetic": "/ˈben.ɪ.fɪt ɪn kaɪnd/",
       "en": "",
       "cn": "",
@@ -887,7 +887,7 @@ export const cefrC2Vocab = {
     {
       "word": "Unemployment benefit",
       "type": "n",
-      "th": "เงินสนับสนุนคนว่างงาน",
+      "th": "เงินชดเชยการว่างงาน, สวัสดิการคนว่างงาน",
       "phonetic": "/ˌʌn.ɪmˈplɔɪ.mənt ˈben.ɪ.fɪt/",
       "en": "",
       "cn": "",
@@ -897,7 +897,7 @@ export const cefrC2Vocab = {
     {
       "word": "Autocrat",
       "type": "n",
-      "th": "ผู้นำที่มีอำนาจสมบูรณ์",
+      "th": "ผู้เผด็จการ, ผู้มีอำนาจเบ็ดเสร็จ",
       "phonetic": "/ˈɔː.tə.kræt/",
       "en": "",
       "cn": "",
@@ -917,7 +917,7 @@ export const cefrC2Vocab = {
     {
       "word": "Hierarchy",
       "type": "n",
-      "th": "ระบบลำดับขั้น",
+      "th": "ลำดับชั้น, ลำดับตำแหน่ง",
       "phonetic": "/ˈhaɪə.rɑː.ki/",
       "en": "",
       "cn": "",
@@ -927,7 +927,7 @@ export const cefrC2Vocab = {
     {
       "word": "Constructive dismissal",
       "type": "n",
-      "th": "การเลิกจ้างโดยจงใจ",
+      "th": "การเลิกจ้างทางอ้อม",
       "phonetic": "/kənˈstrʌk.tɪv dɪˈsmɪs.əl/",
       "en": "",
       "cn": "",
@@ -937,7 +937,7 @@ export const cefrC2Vocab = {
     {
       "word": "Apprenticeship",
       "type": "n",
-      "th": "การฝึกงาน",
+      "th": "การฝึกงาน, การเป็นลูกมือ",
       "phonetic": "/əˈpren.tɪs.ʃɪp/",
       "en": "",
       "cn": "",
@@ -957,7 +957,7 @@ export const cefrC2Vocab = {
     {
       "word": "Profession",
       "type": "n",
-      "th": "อาชีพที่ต้องการทักษะเฉพาะ",
+      "th": "อาชีพ, วิชาชีพ",
       "phonetic": "/prəˈfeʃ.ən/",
       "en": "",
       "cn": "",
@@ -967,7 +967,7 @@ export const cefrC2Vocab = {
     {
       "word": "Glass ceiling",
       "type": "n",
-      "th": "ทัศนคติที่ไม่ยุติธรรมที่กีดกันผู้หญิงออกจากตำแหน่งที่สูงขึ้น",
+      "th": "เพดานแก้ว, อุปสรรคทางอาชีพ",
       "phonetic": "/ˌɡlɑːs ˈsiː.lɪŋ/",
       "en": "",
       "cn": "",
@@ -977,7 +977,7 @@ export const cefrC2Vocab = {
     {
       "word": "White-collar worker",
       "type": "n",
-      "th": "พนักงานออฟฟิศ",
+      "th": "พนักงานออฟฟิศ, ชนชั้นมันสมอง",
       "phonetic": "/ˌwaɪt ˈkɒl.ər ˈwɜː.kər/",
       "en": "",
       "cn": "",
@@ -997,7 +997,7 @@ export const cefrC2Vocab = {
     {
       "word": "Remuneration",
       "type": "n",
-      "th": "ค่าตอบแทน",
+      "th": "ค่าตอบแทน, ค่าจ้าง",
       "phonetic": "/rɪˌmjuː.nəˈreɪ.ʃən/",
       "en": "",
       "cn": "",
@@ -1007,7 +1007,7 @@ export const cefrC2Vocab = {
     {
       "word": "Performance appraisal",
       "type": "n",
-      "th": "การประเมินผลการปฏิบัติงาน",
+      "th": "การประเมินผลการปฏิบัติงาน, การประเมินผลงาน",
       "phonetic": "/pəˈfɔː.məns əˈpreɪ.zəl/",
       "en": "",
       "cn": "",
@@ -1017,7 +1017,7 @@ export const cefrC2Vocab = {
     {
       "word": "Threshold",
       "type": "n",
-      "th": "เกณฑ์",
+      "th": "ธรณีประตู, จุดเริ่มต้น, ขีดจำกัด",
       "phonetic": "/ˈθreʃ.həʊld/",
       "en": "",
       "cn": "",
@@ -1027,7 +1027,7 @@ export const cefrC2Vocab = {
     {
       "word": "Shop steward",
       "type": "n",
-      "th": "ผู้ดูแลร้าน",
+      "th": "ตัวแทนคนงาน, ตัวแทนสหภาพ",
       "phonetic": "/ˈʃɒp ˈstjuː.əd/",
       "en": "",
       "cn": "",
@@ -1037,7 +1037,7 @@ export const cefrC2Vocab = {
     {
       "word": "Partner",
       "type": "n",
-      "th": "คู่หู",
+      "th": "หุ้นส่วน, คู่ค้า, คู่ชีวิต",
       "phonetic": "/ˈpɑːt.nər/",
       "en": "",
       "cn": "",
@@ -1047,7 +1047,7 @@ export const cefrC2Vocab = {
     {
       "word": "Salary freeze",
       "type": "n",
-      "th": "การหยุดเพิ่มค่าจ้างพนักงาน",
+      "th": "การตรึงเงินเดือน, การไม่ขึ้นเงินเดือน",
       "phonetic": "/ˈsæl.ər.i friːz/",
       "en": "",
       "cn": "",
@@ -1057,7 +1057,7 @@ export const cefrC2Vocab = {
     {
       "word": "Camaraderie",
       "type": "n",
-      "th": "ความเป็นมิตร",
+      "th": "มิตรภาพ, ความเป็นกันเอง, ความสนิทสนม",
       "phonetic": "/ˌkæm.əˈrɑː.dər.i/",
       "en": "",
       "cn": "",
@@ -1067,7 +1067,7 @@ export const cefrC2Vocab = {
     {
       "word": "Pay dispute",
       "type": "n",
-      "th": "ความขัดแย้งเรื่องเงินเดือน",
+      "th": "ข้อพิพาทเรื่องค่าจ้าง, ข้อโต้แย้งเรื่องเงินเดือน",
       "phonetic": "/peɪ dɪˈspjuːt/",
       "en": "",
       "cn": "",
@@ -1077,7 +1077,7 @@ export const cefrC2Vocab = {
     {
       "word": "Fringe benefit",
       "type": "n",
-      "th": "สิ่งที่นายจ้างให้ลูกจ้างรวมทั้งค่าจ้าง",
+      "th": "สวัสดิการพิเศษ, ผลประโยชน์เพิ่มเติม",
       "phonetic": "/frɪndʒ ˈben.ɪ.fɪt/",
       "en": "",
       "cn": "",
@@ -1087,7 +1087,7 @@ export const cefrC2Vocab = {
     {
       "word": "Career prospects",
       "type": "n",
-      "th": "โอกาสในการประสบความสำเร็จในอาชีพ",
+      "th": "โอกาสก้าวหน้าในอาชีพ, อนาคตทางอาชีพ",
       "phonetic": "/kəˈrɪə ˈprɒs.pekts/",
       "en": "",
       "cn": "",
@@ -1097,7 +1097,7 @@ export const cefrC2Vocab = {
     {
       "word": "Receivership",
       "type": "n",
-      "th": "การพิทักษ์ทรัพย์",
+      "th": "การถูกควบคุมทรัพย์สิน, การถูกพิทักษ์ทรัพย์",
       "phonetic": "/rɪˈsiː.və.ʃɪp/",
       "en": "",
       "cn": "",
@@ -1107,7 +1107,7 @@ export const cefrC2Vocab = {
     {
       "word": "Office politics",
       "type": "n",
-      "th": "การเมืองในสำนักงาน",
+      "th": "การเมืองในที่ทำงาน",
       "phonetic": "/ˈɒf.ɪs ˈpɒl.ɪ.tɪks/",
       "en": "",
       "cn": "",
@@ -1117,7 +1117,7 @@ export const cefrC2Vocab = {
     {
       "word": "Pseudonym",
       "type": "n",
-      "th": "นามแฝง",
+      "th": "นามแฝง, นามปากกา",
       "phonetic": "/ˈsjuː.də.nɪm/",
       "en": "",
       "cn": "",
@@ -1137,7 +1137,7 @@ export const cefrC2Vocab = {
     {
       "word": "Plaintiff",
       "type": "n",
-      "th": "โจทก์",
+      "th": "โจทก์, ผู้ฟ้องร้อง",
       "phonetic": "/ˈpleɪn.tɪf/",
       "en": "",
       "cn": "",
@@ -1147,7 +1147,7 @@ export const cefrC2Vocab = {
     {
       "word": "Pay slip",
       "type": "n",
-      "th": "สลิปเงินเดือน",
+      "th": "ใบแจ้งเงินเดือน, สลิปเงินเดือน",
       "phonetic": "/ˈpeɪ slɪp/",
       "en": "",
       "cn": "",
@@ -1157,7 +1157,7 @@ export const cefrC2Vocab = {
     {
       "word": "Enforcement",
       "type": "n",
-      "th": "การบังคับใช้",
+      "th": "การบังคับใช้, การทำให้มีผลบังคับ",
       "phonetic": "/ɪnˈfɔː.smənt/",
       "en": "",
       "cn": "",
@@ -1167,7 +1167,7 @@ export const cefrC2Vocab = {
     {
       "word": "Job specification",
       "type": "n",
-      "th": "คำอธิบายลักษณะงาน",
+      "th": "รายละเอียดงาน, คุณสมบัติของตำแหน่ง",
       "phonetic": "/dʒɒb ˌspesɪfɪˈkeɪʃən/",
       "en": "",
       "cn": "",
@@ -1189,7 +1189,7 @@ export const cefrC2Vocab = {
     {
       "word": "Subpoena",
       "type": "v",
-      "th": "หมายเรียก",
+      "th": "หมายเรียก, หมายศาล",
       "phonetic": "/səˈpiː.nə/",
       "en": "",
       "cn": "",
@@ -1199,7 +1199,7 @@ export const cefrC2Vocab = {
     {
       "word": "Homicidal",
       "type": "adj",
-      "th": "มีแนวโน้มที่จะฆ่าคน",
+      "th": "ซึ่งมีเจตนาฆ่า, ที่คิดจะฆ่า",
       "phonetic": "​​/ˌhɒmɪˈsaɪdəl/",
       "en": "",
       "cn": "",
@@ -1209,7 +1209,7 @@ export const cefrC2Vocab = {
     {
       "word": "Apprehend",
       "type": "v",
-      "th": "จับกุม",
+      "th": "จับกุม, เข้าใจ, ตระหนัก",
       "phonetic": "/ˌæp.rɪˈhend/",
       "en": "",
       "cn": "",
@@ -1219,7 +1219,7 @@ export const cefrC2Vocab = {
     {
       "word": "Embezzle",
       "type": "v",
-      "th": "ยักยอก",
+      "th": "ยักยอกเงิน, ฉ้อโกง",
       "phonetic": "/ɪmˈbez.əl/",
       "en": "",
       "cn": "",
@@ -1229,7 +1229,7 @@ export const cefrC2Vocab = {
     {
       "word": "Incarcerate",
       "type": "v",
-      "th": "จำคุก",
+      "th": "จำคุก, กักขัง",
       "phonetic": "/ɪnˈkɑː.sər.eɪt/",
       "en": "",
       "cn": "",
@@ -1239,7 +1239,7 @@ export const cefrC2Vocab = {
     {
       "word": "Harassment",
       "type": "n",
-      "th": "การล่วงละเมิด",
+      "th": "การคุกคาม, การรบกวน, การก่อกวน",
       "phonetic": "/ˈhær.əs.mənt/",
       "en": "",
       "cn": "",
@@ -1249,7 +1249,7 @@ export const cefrC2Vocab = {
     {
       "word": "Bail",
       "type": "v",
-      "th": "ประกันตัว",
+      "th": "การประกันตัว, เงินประกัน",
       "phonetic": "/beɪl/",
       "en": "",
       "cn": "",
@@ -1269,7 +1269,7 @@ export const cefrC2Vocab = {
     {
       "word": "Deport",
       "type": "v",
-      "th": "เนรเทศ",
+      "th": "เนรเทศ, ขับไล่",
       "phonetic": "/dɪˈpɔːt/",
       "en": "",
       "cn": "",
@@ -1279,7 +1279,7 @@ export const cefrC2Vocab = {
     {
       "word": "Racketeering",
       "type": "n",
-      "th": "การหาเงินผ่านกิจกรรมที่ไม่สุจริต",
+      "th": "การกรรโชกทรัพย์, การขู่กรรโชก",
       "phonetic": "/ˌrækɪˈtɪərɪŋ/",
       "en": "",
       "cn": "",
@@ -1299,7 +1299,7 @@ export const cefrC2Vocab = {
     {
       "word": "Smuggler",
       "type": "n",
-      "th": "ผู้ลักลอบขนของผิดกฎหมาย",
+      "th": "ผู้ลักลอบนำเข้า, ผู้ลักลอบ",
       "phonetic": "/ˈsmʌɡ.lər/",
       "en": "",
       "cn": "",
@@ -1309,7 +1309,7 @@ export const cefrC2Vocab = {
     {
       "word": "Inspect",
       "type": "v",
-      "th": "ตรวจสอบ",
+      "th": "ตรวจสอบ, ตรวจตรา, ตรวจดู",
       "phonetic": "/ɪnˈspekt/",
       "en": "",
       "cn": "",
@@ -1319,7 +1319,7 @@ export const cefrC2Vocab = {
     {
       "word": "Blackmail",
       "type": "n",
-      "th": "การขู่กรรโชก",
+      "th": "แบล็กเมล์, ขู่กรรโชก",
       "phonetic": "/ˈblæk.meɪl/",
       "en": "",
       "cn": "",
@@ -1329,7 +1329,7 @@ export const cefrC2Vocab = {
     {
       "word": "Impose",
       "type": "v",
-      "th": "บังคับใช้",
+      "th": "กำหนด, บังคับใช้, วางภาระ",
       "phonetic": "/ɪmˈpəʊz/",
       "en": "",
       "cn": "",
@@ -1339,7 +1339,7 @@ export const cefrC2Vocab = {
     {
       "word": "Stalk",
       "type": "v",
-      "th": "ติดตามอย่างผิดกฎหมาย",
+      "th": "สะกดรอยตาม, แอบตาม",
       "phonetic": "/stɔːk/",
       "en": "",
       "cn": "",
@@ -1349,7 +1349,7 @@ export const cefrC2Vocab = {
     {
       "word": "Overturn",
       "type": "v",
-      "th": "พลิกคว่ำ",
+      "th": "คว่ำ, ล้มล้าง, กลับคำตัดสิน",
       "phonetic": "/ˌəʊ.vəˈtɜːn/",
       "en": "",
       "cn": "",
@@ -1359,7 +1359,7 @@ export const cefrC2Vocab = {
     {
       "word": "Petty criminal",
       "type": "n",
-      "th": "อาชญากรรมเล็กน้อย",
+      "th": "อาชญากรรายย่อย, อาชญากรเล็กๆ น้อยๆ",
       "phonetic": "/ˈpet.i ˈkrɪm.ɪ.nəl/",
       "en": "",
       "cn": "",
@@ -1369,7 +1369,7 @@ export const cefrC2Vocab = {
     {
       "word": "Dismiss",
       "type": "v",
-      "th": "ยกฟ้อง",
+      "th": "ไล่ออก, ปฏิเสธ, ยกฟ้อง",
       "phonetic": "/dɪsˈmɪs/",
       "en": "",
       "cn": "",
@@ -1379,7 +1379,7 @@ export const cefrC2Vocab = {
     {
       "word": "Manslaughter",
       "type": "n",
-      "th": "การฆ่าโดยไม่เจตนา",
+      "th": "การฆ่าคนโดยไม่เจตนา",
       "phonetic": "/ˈmænˌslɔː.tər/",
       "en": "",
       "cn": "",
@@ -1399,7 +1399,7 @@ export const cefrC2Vocab = {
     {
       "word": "Vandalize",
       "type": "v",
-      "th": "ทำลายทรัพย์สิน",
+      "th": "ทำลายทรัพย์สิน, ทำลายสาธารณสมบัติ",
       "phonetic": "/ˈvæn.dəl.aɪz/",
       "en": "",
       "cn": "",
@@ -1409,7 +1409,7 @@ export const cefrC2Vocab = {
     {
       "word": "Abduct",
       "type": "v",
-      "th": "ลักพาตัวโดยกำลัง",
+      "th": "ลักพาตัว",
       "phonetic": "/æbˈdʌkt/",
       "en": "",
       "cn": "",
@@ -1419,7 +1419,7 @@ export const cefrC2Vocab = {
     {
       "word": "Hijacking",
       "type": "n",
-      "th": "จี้เครื่องบิน",
+      "th": "การจี้, การปล้นเครื่องบิน/รถ",
       "phonetic": "/ˈhaɪ.dʒæk.ɪŋ/",
       "en": "",
       "cn": "",
@@ -1439,7 +1439,7 @@ export const cefrC2Vocab = {
     {
       "word": "Forge",
       "type": "v",
-      "th": "ปลอมแปลงสำเนา",
+      "th": "ปลอมแปลง, สร้างสรรค์",
       "phonetic": "/fɔːdʒ/",
       "en": "",
       "cn": "",
@@ -1449,7 +1449,7 @@ export const cefrC2Vocab = {
     {
       "word": "Assault",
       "type": "v",
-      "th": "จู่โจมอย่างรุนแรง",
+      "th": "การทำร้ายร่างกาย, การโจมตี",
       "phonetic": "/əˈsɔːlt/",
       "en": "",
       "cn": "",
@@ -1461,7 +1461,7 @@ export const cefrC2Vocab = {
     {
       "word": "Impetuous",
       "type": "adj",
-      "th": "ใจร้อน",
+      "th": "หุนหันพลันแล่น, ใจร้อน",
       "phonetic": "/ɪmˈpetʃ.u.əs/",
       "en": "",
       "cn": "",
@@ -1471,7 +1471,7 @@ export const cefrC2Vocab = {
     {
       "word": "Steadfast",
       "type": "adj",
-      "th": "แน่วแน่",
+      "th": "มั่นคง, แน่วแน่, ซื่อสัตย์",
       "phonetic": "/ˈsted.fɑːst/",
       "en": "",
       "cn": "",
@@ -1481,7 +1481,7 @@ export const cefrC2Vocab = {
     {
       "word": "Cynical",
       "type": "adj",
-      "th": "เหยียดนาม",
+      "th": "ดูถูก, เหยียดหยาม, มองโลกในแง่ร้าย",
       "phonetic": "/ˈsɪn.ɪ.kəl/",
       "en": "",
       "cn": "",
@@ -1491,7 +1491,7 @@ export const cefrC2Vocab = {
     {
       "word": "Wilful",
       "type": "adj",
-      "th": "จงใจ",
+      "th": "จงใจ, โดยเจตนา, ดื้อรั้น",
       "phonetic": "/ˈwɪl.fəl/",
       "en": "",
       "cn": "",
@@ -1501,7 +1501,7 @@ export const cefrC2Vocab = {
     {
       "word": "Gregarious",
       "type": "adj",
-      "th": "ชอบที่จะอยู่กับคนอื่น",
+      "th": "ชอบเข้าสังคม, ชอบอยู่เป็นกลุ่ม",
       "phonetic": "/ɡrɪˈɡeə.ri.əs/",
       "en": "",
       "cn": "",
@@ -1511,7 +1511,7 @@ export const cefrC2Vocab = {
     {
       "word": "Stoic",
       "type": "adj",
-      "th": "อดทนต่อความเจ็บปวดโดยไม่บ่น",
+      "th": "อดทน, ไม่แสดงความรู้สึก, สุขุม",
       "phonetic": "/ˈstəʊ.ɪk/",
       "en": "",
       "cn": "",
@@ -1521,7 +1521,7 @@ export const cefrC2Vocab = {
     {
       "word": "Vociferous",
       "type": "adj",
-      "th": "เสียงดังและมั่นใจ",
+      "th": "เสียงดัง, โวยวาย, ส่งเสียงอื้ออึง",
       "phonetic": "/vəˈsɪf.ər.əs/",
       "en": "",
       "cn": "",
@@ -1531,7 +1531,7 @@ export const cefrC2Vocab = {
     {
       "word": "Erudite",
       "type": "adj",
-      "th": "มีความรู้มาก",
+      "th": "คงแก่เรียน, มีความรู้มาก",
       "phonetic": "/ˈer.jʊ.daɪt/",
       "en": "",
       "cn": "",
@@ -1541,7 +1541,7 @@ export const cefrC2Vocab = {
     {
       "word": "Wistful",
       "type": "adj",
-      "th": "โหยหา",
+      "th": "เศร้าโศกอาดูร, คิดถึงอดีต, อาลัยอาวรณ์",
       "phonetic": "/ˈwɪst.fəl/",
       "en": "",
       "cn": "",
@@ -1551,7 +1551,7 @@ export const cefrC2Vocab = {
     {
       "word": "Indolent",
       "type": "adj",
-      "th": "เกียจคร้าน",
+      "th": "ขี้เกียจ, เกียจคร้าน",
       "phonetic": "/ˈɪn.dəl.ənt/",
       "en": "",
       "cn": "",
@@ -1561,7 +1561,7 @@ export const cefrC2Vocab = {
     {
       "word": "Scrupulous",
       "type": "adj",
-      "th": "ระมัดระวังและใส่ใจทุกรายละเอียด",
+      "th": "ซื่อสัตย์, พิถีพิถัน, รอบคอบ",
       "phonetic": "/ˈskruː.pjə.ləs/",
       "en": "",
       "cn": "",
@@ -1571,7 +1571,7 @@ export const cefrC2Vocab = {
     {
       "word": "Dogmatic",
       "type": "adj",
-      "th": "ดันทุรัง",
+      "th": "ดื้อรั้น, ยึดมั่นในหลักการ, หัวรั้น",
       "phonetic": "/dɒɡˈmæt.ɪk/",
       "en": "",
       "cn": "",
@@ -1581,7 +1581,7 @@ export const cefrC2Vocab = {
     {
       "word": "Sanguine",
       "type": "adj",
-      "th": "ร่าเริงและมั่นใจกับอนาคต",
+      "th": "มองโลกในแง่ดี, ร่าเริง",
       "phonetic": "/ˈsæŋ.ɡwɪn/",
       "en": "",
       "cn": "",
@@ -1591,7 +1591,7 @@ export const cefrC2Vocab = {
     {
       "word": "Affable",
       "type": "adj",
-      "th": "เป็นกันเอง",
+      "th": "มีอัธยาศัยดี, เป็นกันเอง, เข้าถึงง่าย",
       "phonetic": "/ˈæf.ə.bəl/",
       "en": "",
       "cn": "",
@@ -1601,7 +1601,7 @@ export const cefrC2Vocab = {
     {
       "word": "Insolent",
       "type": "adj",
-      "th": "หยาบคาย ไม่เคารพ",
+      "th": "หยาบคาย, ทะลึ่ง, อวดดี",
       "phonetic": "/ˈɪn.səl.ənt/",
       "en": "",
       "cn": "",
@@ -1611,7 +1611,7 @@ export const cefrC2Vocab = {
     {
       "word": "Aloof",
       "type": "adj",
-      "th": "ไม่เป็นมิตรหรือสนใจผู้อื่น",
+      "th": "ห่างเหิน, ไม่เป็นกันเอง, เย็นชา",
       "phonetic": "/əˈluːf/",
       "en": "",
       "cn": "",
@@ -1621,7 +1621,7 @@ export const cefrC2Vocab = {
     {
       "word": "Mendacious",
       "type": "adj",
-      "th": "ไม่พูดความจริง",
+      "th": "โกหก, ไม่จริงใจ",
       "phonetic": "/menˈdeɪ.ʃəs/",
       "en": "",
       "cn": "",
@@ -1631,7 +1631,7 @@ export const cefrC2Vocab = {
     {
       "word": "Benevolent",
       "type": "adj",
-      "th": "ใจดีและช่วยเหลือดี",
+      "th": "เมตตา, ใจบุญ, มีเจตนาดี",
       "phonetic": "/bəˈnev.əl.ənt/",
       "en": "",
       "cn": "",
@@ -1641,7 +1641,7 @@ export const cefrC2Vocab = {
     {
       "word": "Mercurial",
       "type": "adj",
-      "th": "เหลาะแหละ ใจง่าย",
+      "th": "แปรปรวน, อารมณ์เปลี่ยนแปลงง่าย",
       "phonetic": "/mɜːˈkjʊə.ri.əl/",
       "en": "",
       "cn": "",
@@ -1651,7 +1651,7 @@ export const cefrC2Vocab = {
     {
       "word": "Capricious",
       "type": "adj",
-      "th": "ตามอำเภอใจ",
+      "th": "เอาแต่ใจ, ไม่แน่นอน, แปรปรวน",
       "phonetic": "/kəˈprɪʃ.əs/",
       "en": "",
       "cn": "",
@@ -1661,7 +1661,7 @@ export const cefrC2Vocab = {
     {
       "word": "Irascibility",
       "type": "n",
-      "th": "ความขี้หงุดหงิด",
+      "th": "ความหงุดหงิดง่าย, ความโมโหง่าย",
       "phonetic": "/ɪˌræs.ɪˈbɪl.ɪ.ti/",
       "en": "",
       "cn": "",
@@ -1671,7 +1671,7 @@ export const cefrC2Vocab = {
     {
       "word": "Eccentric",
       "type": "adj",
-      "th": "แหกคอก",
+      "th": "แปลกประหลาด, ผิดปกติ",
       "phonetic": "/ɪkˈsen.trɪk/",
       "en": "",
       "cn": "",
@@ -1681,7 +1681,7 @@ export const cefrC2Vocab = {
     {
       "word": "Pensive",
       "type": "adj",
-      "th": "หม่นหมอง",
+      "th": "ครุ่นคิด, วิตกกังวล, คิดมาก",
       "phonetic": "/ˈpen.sɪv/",
       "en": "",
       "cn": "",
@@ -1691,7 +1691,7 @@ export const cefrC2Vocab = {
     {
       "word": "Patriarch",
       "type": "n",
-      "th": "หัวหน้าผู้ชายของครอบครัว",
+      "th": "หัวหน้าครอบครัว, ผู้ก่อตั้ง, บิดาผู้ก่อตั้ง",
       "phonetic": "/ˈpeɪ.tri.ɑːk/",
       "en": "",
       "cn": "",
@@ -1701,7 +1701,7 @@ export const cefrC2Vocab = {
     {
       "word": "Pernickety",
       "type": "n",
-      "th": "กังวลมากเกินไปกับรายละเอียดที่ไม่สำคัญ",
+      "th": "จู้จี้จุกจิก, พิถีพิถันเกินไป",
       "phonetic": "/pəˈnɪk.ɪ.ti/",
       "en": "",
       "cn": "",
@@ -1711,7 +1711,7 @@ export const cefrC2Vocab = {
     {
       "word": "Recalcitrant",
       "type": "n",
-      "th": "พยศ",
+      "th": "ดื้อรั้น, ไม่เชื่อฟัง",
       "phonetic": "/rɪˈkæl.sɪ.trənt/",
       "en": "",
       "cn": "",
@@ -1721,7 +1721,7 @@ export const cefrC2Vocab = {
     {
       "word": "Denizen",
       "type": "n",
-      "th": "ผู้อาศัย",
+      "th": "ผู้อยู่อาศัย, พลเมือง, สัตว์ที่อยู่ประจำถิ่น",
       "phonetic": "/ˈden.ɪ.zən/",
       "en": "",
       "cn": "",
@@ -1731,7 +1731,7 @@ export const cefrC2Vocab = {
     {
       "word": "Sanguine",
       "type": "adj",
-      "th": "ร่าเริงและมั่นใจกับอนาคต",
+      "th": "มองโลกในแง่ดี, ร่าเริง",
       "phonetic": "/ˈsæŋ.ɡwɪn/",
       "en": "",
       "cn": "",
@@ -1741,7 +1741,7 @@ export const cefrC2Vocab = {
     {
       "word": "Mercenary",
       "type": "n",
-      "th": "ทหารรับจ้าง",
+      "th": "ทหารรับจ้าง, เห็นแก่เงิน",
       "phonetic": "/ˈmɜː.sən.ər.i/",
       "en": "",
       "cn": "",
@@ -1751,7 +1751,7 @@ export const cefrC2Vocab = {
     {
       "word": "Quixotic",
       "type": "adj",
-      "th": "เพ้อฟัน",
+      "th": "เพ้อฝัน, ไม่คำนึงถึงความเป็นจริง, อุดมคติเกินไป",
       "phonetic": "kwɪkˈsɒt.ɪk/",
       "en": "",
       "cn": "",
@@ -1761,7 +1761,7 @@ export const cefrC2Vocab = {
     {
       "word": "Luminary",
       "type": "n",
-      "th": "บุคคลที่มีอิทธิพลมาก",
+      "th": "ผู้มีชื่อเสียง, ผู้ทรงคุณวุฒิ, ดาวเด่น",
       "phonetic": "/ˈluː.mɪ.nər.i/",
       "en": "",
       "cn": "",
@@ -1771,7 +1771,7 @@ export const cefrC2Vocab = {
     {
       "word": "Self-righteous",
       "type": "adj",
-      "th": "เชื่อว่าตนเองถูกเสมอ",
+      "th": "ชอบตัดสินผู้อื่น, คิดว่าตัวเองถูกเสมอ, ทะนงตน",
       "phonetic": "/ˌselfˈraɪ.tʃəs/",
       "en": "",
       "cn": "",
@@ -1781,7 +1781,7 @@ export const cefrC2Vocab = {
     {
       "word": "Subordinate",
       "type": "n",
-      "th": "ผู้ใต้บังคับบัญชา",
+      "th": "ผู้ใต้บังคับบัญชา, ด้อยกว่า, รองลงมา",
       "phonetic": "/səˈbɔː.dɪ.nət/",
       "en": "",
       "cn": "",
@@ -1791,7 +1791,7 @@ export const cefrC2Vocab = {
     {
       "word": "Brazen",
       "type": "adj",
-      "th": "หน้าด้าน",
+      "th": "ไร้ยางอาย, หน้าด้าน, ทะลึ่ง",
       "phonetic": "/ˈbreɪ.zən/",
       "en": "",
       "cn": "",
@@ -1801,7 +1801,7 @@ export const cefrC2Vocab = {
     {
       "word": "Villain",
       "type": "n",
-      "th": "ตัวร้าย",
+      "th": "ตัวร้าย, คนชั่ว",
       "phonetic": "/ˈvɪl.ən/",
       "en": "",
       "cn": "",
@@ -1811,7 +1811,7 @@ export const cefrC2Vocab = {
     {
       "word": "Quarrelsome",
       "type": "adj",
-      "th": "มักจะทะเลาะกับคนอื่น",
+      "th": "ชอบทะเลาะวิวาท, ขี้ทะเลาะ",
       "phonetic": "/ˈkwɒr.əl.səm/",
       "en": "",
       "cn": "",
@@ -1821,7 +1821,7 @@ export const cefrC2Vocab = {
     {
       "word": "Proponent",
       "type": "n",
-      "th": "ผู้สนับสนุน",
+      "th": "ผู้สนับสนุน, ผู้เสนอ",
       "phonetic": "/prəˈpəʊ.nənt/",
       "en": "",
       "cn": "",
@@ -1831,7 +1831,7 @@ export const cefrC2Vocab = {
     {
       "word": "Truculence",
       "type": "n",
-      "th": "ความก้าวร้าว",
+      "th": "ความดุร้าย, ความก้าวร้าว, ความเกรี้ยวกราด",
       "phonetic": "/ˈtrʌk.jə.ləns/",
       "en": "",
       "cn": "",
@@ -1841,7 +1841,7 @@ export const cefrC2Vocab = {
     {
       "word": "Protagonist",
       "type": "n",
-      "th": "ตัวเอก",
+      "th": "ตัวเอก, ตัวละครหลัก, ผู้สนับสนุนหลัก",
       "phonetic": "/prəˈtæɡ.ən.ɪst/",
       "en": "",
       "cn": "",
@@ -1851,7 +1851,7 @@ export const cefrC2Vocab = {
     {
       "word": "Meddlesome",
       "type": "adj",
-      "th": "ชอบสอดแส่",
+      "th": "ชอบสอดแทรก, ชอบยุ่งเรื่องคนอื่น",
       "phonetic": "/ˈmed.əl.səm/",
       "en": "",
       "cn": "",
@@ -1861,7 +1861,7 @@ export const cefrC2Vocab = {
     {
       "word": "Aristocrat",
       "type": "n",
-      "th": "ขุนนาง ชนชั้นสูง",
+      "th": "ขุนนาง, ชนชั้นสูง",
       "phonetic": "/ˈær.ɪ.stə.kræt/",
       "en": "",
       "cn": "",
@@ -1871,7 +1871,7 @@ export const cefrC2Vocab = {
     {
       "word": "Clinging",
       "type": "n",
-      "th": "การเกาะติด การติดสอยห้อยตาม",
+      "th": "เกาะติด, เหนียวแน่น, ยึดติด",
       "phonetic": "/ˈklɪŋ.ɪŋ/",
       "en": "",
       "cn": "",
@@ -1881,7 +1881,7 @@ export const cefrC2Vocab = {
     {
       "word": "Vindictive",
       "type": "adj",
-      "th": "อาฆาต",
+      "th": "พยาบาท, เจ้าคิดเจ้าแค้น",
       "phonetic": "/vɪnˈdɪk.tɪv/",
       "en": "",
       "cn": "",
@@ -1891,7 +1891,7 @@ export const cefrC2Vocab = {
     {
       "word": "Remorse",
       "type": "n",
-      "th": "ความสำนึกผิด",
+      "th": "ความสำนึกผิด, ความเสียใจ",
       "phonetic": "/rɪˈmɔːs/",
       "en": "",
       "cn": "",
@@ -1901,7 +1901,7 @@ export const cefrC2Vocab = {
     {
       "word": "Audacity",
       "type": "n",
-      "th": "ความกล้าแบบผิด ๆ",
+      "th": "ความกล้าหาญ, ความอาจหาญ, ความบ้าบิ่น",
       "phonetic": "/ɔːˈdæs.ɪ.ti/",
       "en": "",
       "cn": "",
@@ -1913,7 +1913,7 @@ export const cefrC2Vocab = {
     {
       "word": "Weather",
       "type": "v",
-      "th": "ผ่านพ้น",
+      "th": "สภาพอากาศ, อากาศ, ฝ่าฟัน",
       "phonetic": "/ˈweð.ər/",
       "en": "",
       "cn": "",
@@ -1923,7 +1923,7 @@ export const cefrC2Vocab = {
     {
       "word": "Domestic violence",
       "type": "n",
-      "th": "ความรุนแรงภายในครอบครัว",
+      "th": "ความรุนแรงในครอบครัว",
       "phonetic": "/dəˈmes.tɪk ˈvaɪə.ləns/",
       "en": "",
       "cn": "",
@@ -1933,7 +1933,7 @@ export const cefrC2Vocab = {
     {
       "word": "Cast",
       "type": "v",
-      "th": "โยน",
+      "th": "โยน, ทิ้ง, หล่อ",
       "phonetic": "/kɑːst/",
       "en": "",
       "cn": "",
@@ -1943,7 +1943,7 @@ export const cefrC2Vocab = {
     {
       "word": "Checkered history",
       "type": "n",
-      "th": "ประวัติที่มีทั้งดีและไม่ดี",
+      "th": "ประวัติที่ไม่แน่นอน, ประวัติที่มีทั้งดีและไม่ดี, ประวัติที่ไม่น่าเชื่อถือ",
       "phonetic": "/ˈtʃek.əd ˈhɪs.tər.i/",
       "en": "",
       "cn": "",
@@ -1953,7 +1953,7 @@ export const cefrC2Vocab = {
     {
       "word": "Scrounge",
       "type": "v",
-      "th": "ขโมย ฉกชิงทรัพย์",
+      "th": "ขอ, ยืมโดยไม่คืน, รีดไถ",
       "phonetic": "/skraʊndʒ/",
       "en": "",
       "cn": "",
@@ -1963,7 +1963,7 @@ export const cefrC2Vocab = {
     {
       "word": "Emotional scar",
       "type": "n",
-      "th": "แผลทางจิตใจ",
+      "th": "แผลใจ, บาดแผลทางอารมณ์",
       "phonetic": "/ɪˈməʊ.ʃən.əl skɑːr/",
       "en": "",
       "cn": "",
@@ -1973,7 +1973,7 @@ export const cefrC2Vocab = {
     {
       "word": "Sponge",
       "type": "v",
-      "th": "ล้างด้วยฟองน้ำ",
+      "th": "ฟองน้ำ, คนที่ชอบพึ่งพาคนอื่น, ดูดซับ",
       "phonetic": "/spʌndʒ/",
       "en": "",
       "cn": "",
@@ -1983,7 +1983,7 @@ export const cefrC2Vocab = {
     {
       "word": "Illicit drug",
       "type": "n",
-      "th": "ยาเสพติดผิดกฎหมาย",
+      "th": "ยาเสพติดผิดกฎหมาย, ยาเสพติด",
       "phonetic": "/ɪˈlɪs.ɪt drʌɡ/",
       "en": "",
       "cn": "",
@@ -1993,7 +1993,7 @@ export const cefrC2Vocab = {
     {
       "word": "Pilfer",
       "type": "v",
-      "th": "ขโมยเล็กๆน้อยๆ",
+      "th": "ลักเล็กขโมยน้อย, ฉกฉวย",
       "phonetic": "/ˈpɪl.fər/",
       "en": "",
       "cn": "",
@@ -2003,7 +2003,7 @@ export const cefrC2Vocab = {
     {
       "word": "Illiteracy",
       "type": "n",
-      "th": "การไม่รู้หนังสือ",
+      "th": "การไม่รู้หนังสือ, การอ่านไม่ออกเขียนไม่ได้",
       "phonetic": "/ɪˈlɪt.ər.ə.si/",
       "en": "",
       "cn": "",
@@ -2013,7 +2013,7 @@ export const cefrC2Vocab = {
     {
       "word": "Rough sleeping",
       "type": "n",
-      "th": "การนอนข้างถนน",
+      "th": "การนอนข้างถนน, การนอนเร่ร่อน, คนไร้บ้าน",
       "phonetic": "/rʌf ˈsliː.pɪŋ/",
       "en": "",
       "cn": "",
@@ -2023,7 +2023,7 @@ export const cefrC2Vocab = {
     {
       "word": "Innumeracy",
       "type": "n",
-      "th": "การไม่รู้เลข",
+      "th": "การไม่รู้ตัวเลข, การไม่เข้าใจคณิตศาสตร์พื้นฐาน",
       "phonetic": "/ɪˈnjuː.mə.rə.si/",
       "en": "",
       "cn": "",
@@ -2033,7 +2033,7 @@ export const cefrC2Vocab = {
     {
       "word": "Substance abuse",
       "type": "n",
-      "th": "การใช้สารเสพติด",
+      "th": "การใช้สารเสพติด, การใช้ยาในทางที่ผิด",
       "phonetic": "/ˈsʌb.stəns əˈbjuːs/",
       "en": "",
       "cn": "",
@@ -2043,7 +2043,7 @@ export const cefrC2Vocab = {
     {
       "word": "Impoverished",
       "type": "adj",
-      "th": "ยากจน",
+      "th": "ยากจน, ขัดสน, ยากไร้",
       "phonetic": "/ɪmˈpɒv.ər.ɪʃt/",
       "en": "",
       "cn": "",
@@ -2053,7 +2053,7 @@ export const cefrC2Vocab = {
     {
       "word": "People tracking",
       "type": "n",
-      "th": "การติดตามบุคคล",
+      "th": "การติดตามผู้คน, การแกะรอยคน",
       "phonetic": "/ˈpiː.pəl ˈtræf.ɪ.kɪŋ/",
       "en": "",
       "cn": "",
@@ -2063,7 +2063,7 @@ export const cefrC2Vocab = {
     {
       "word": "Emancipation",
       "type": "n",
-      "th": "การปลดปล่อย",
+      "th": "การปลดปล่อย, การปลดแอก, การเป็นอิสระ",
       "phonetic": "/ɪˌmæn.sɪˈpeɪ.ʃən/",
       "en": "",
       "cn": "",
@@ -2083,7 +2083,7 @@ export const cefrC2Vocab = {
     {
       "word": "Privilege",
       "type": "n",
-      "th": "สิทธิพิเศษ",
+      "th": "อภิสิทธิ์, สิทธิพิเศษ",
       "phonetic": "/ˈprɪv.əl.ɪdʒ/",
       "en": "",
       "cn": "",
@@ -2093,7 +2093,7 @@ export const cefrC2Vocab = {
     {
       "word": "Asylum",
       "type": "n",
-      "th": "การลี้ภัย",
+      "th": "ที่ลี้ภัย, การลี้ภัย",
       "phonetic": "/əˈsaɪ.ləm/",
       "en": "",
       "cn": "",
@@ -2103,7 +2103,7 @@ export const cefrC2Vocab = {
     {
       "word": "Preoccupy",
       "type": "v",
-      "th": "หมกหมุ่น",
+      "th": "หมกมุ่น, ครอบงำจิตใจ",
       "phonetic": "/priˈɒk.jʊ.paɪ/",
       "en": "",
       "cn": "",
@@ -2113,7 +2113,7 @@ export const cefrC2Vocab = {
     {
       "word": "Cosmopolitan",
       "type": "adj",
-      "th": "เป็นสากล",
+      "th": "เป็นสากล, คนเมือง",
       "phonetic": "/ˌkɒz.məˈpɒl.ɪ.tən/",
       "en": "",
       "cn": "",
@@ -2123,7 +2123,7 @@ export const cefrC2Vocab = {
     {
       "word": "Intolerance",
       "type": "n",
-      "th": "ความไม่ยอมรับ",
+      "th": "การไม่ยอมรับความแตกต่าง, ความไม่ทนทาน",
       "phonetic": "/ɪnˈtɒl.ər.əns/",
       "en": "",
       "cn": "",
@@ -2133,7 +2133,7 @@ export const cefrC2Vocab = {
     {
       "word": "Surrogate",
       "type": "n",
-      "th": "ตัวแทน",
+      "th": "ตัวแทน, มารดาอุ้มบุญ",
       "phonetic": "/ˈsʌr.ə.ɡət/",
       "en": "",
       "cn": "",
@@ -2143,7 +2143,7 @@ export const cefrC2Vocab = {
     {
       "word": "Unscrupulous",
       "type": "adj",
-      "th": "ไร้ยางอาย",
+      "th": "ไร้ศีลธรรม, ไม่ซื่อสัตย์, ไม่มีจรรยาบรรณ",
       "phonetic": "/ʌnˈskruː.pjə.ləs/",
       "en": "",
       "cn": "",
@@ -2153,7 +2153,7 @@ export const cefrC2Vocab = {
     {
       "word": "Tangible",
       "type": "adj",
-      "th": "ที่จับต้องได้",
+      "th": "จับต้องได้, เป็นรูปธรรม, มีตัวตน",
       "phonetic": "/ˈtæn.dʒə.bəl/",
       "en": "",
       "cn": "",
@@ -2163,7 +2163,7 @@ export const cefrC2Vocab = {
     {
       "word": "Extremism",
       "type": "n",
-      "th": "ลัทธิหัวรุนแรง",
+      "th": "ลัทธิหัวรุนแรง, ความสุดโต่ง",
       "phonetic": "/ɪkˈstriː.mɪ.zəm/",
       "en": "",
       "cn": "",
@@ -2173,7 +2173,7 @@ export const cefrC2Vocab = {
     {
       "word": "Oppression",
       "type": "n",
-      "th": "การกดขี่ข่มเหง",
+      "th": "การกดขี่, การข่มเหง",
       "phonetic": "/əˈpreʃ.ən/",
       "en": "",
       "cn": "",
@@ -2183,7 +2183,7 @@ export const cefrC2Vocab = {
     {
       "word": "Aspiration",
       "type": "n",
-      "th": "ความปรารถนา",
+      "th": "ความปรารถนา, ความมุ่งมั่น, แรงบันดาลใจ",
       "phonetic": "/ˌæs.pɪˈreɪ.ʃən/",
       "en": "",
       "cn": "",
@@ -2193,7 +2193,7 @@ export const cefrC2Vocab = {
     {
       "word": "Malnutrition",
       "type": "n",
-      "th": "ภาวะทุพโภชนาการ",
+      "th": "ภาวะทุพโภชนาการ, การขาดสารอาหาร",
       "phonetic": "/ˌmæl.njuːˈtrɪʃ.ən/",
       "en": "",
       "cn": "",
@@ -2203,7 +2203,7 @@ export const cefrC2Vocab = {
     {
       "word": "Metropolis",
       "type": "n",
-      "th": "เมืองใหญ่",
+      "th": "มหานคร, เมืองใหญ่",
       "phonetic": "/məˈtrɒp.əl.ɪs/",
       "en": "",
       "cn": "",
@@ -2213,7 +2213,7 @@ export const cefrC2Vocab = {
     {
       "word": "Deprivation",
       "type": "n",
-      "th": "การขาดแคลน",
+      "th": "การขาดแคลน, การถูกจำกัด",
       "phonetic": "/ˌdep.rɪˈveɪ.ʃən/",
       "en": "",
       "cn": "",
@@ -2233,7 +2233,7 @@ export const cefrC2Vocab = {
     {
       "word": "Deportation",
       "type": "n",
-      "th": "การเนรเทศ",
+      "th": "การเนรเทศ, การส่งกลับประเทศ",
       "phonetic": "/ˌdiː.pɔːˈteɪ.ʃən/",
       "en": "",
       "cn": "",
@@ -2243,7 +2243,7 @@ export const cefrC2Vocab = {
     {
       "word": "Destitution",
       "type": "n",
-      "th": "ความยากจน",
+      "th": "ความยากแค้น, ความแร้นแค้น, ความยากไร้",
       "phonetic": "/ˌdes.tɪˈtʃuː.ʃən/",
       "en": "",
       "cn": "",
@@ -2253,7 +2253,7 @@ export const cefrC2Vocab = {
     {
       "word": "Repercussion",
       "type": "n",
-      "th": "ผลสะท้อนกลับ",
+      "th": "ผลกระทบ, ผลสะท้อนกลับ",
       "phonetic": "/ˌriː.pəˈkʌʃ.ən/",
       "en": "",
       "cn": "",
@@ -2263,7 +2263,7 @@ export const cefrC2Vocab = {
     {
       "word": "Sustenance",
       "type": "n",
-      "th": "ปัจจัยยังชีพ",
+      "th": "เครื่องยังชีพ, การยังชีพ, อาหาร",
       "phonetic": "/ˈsʌs.tɪ.nəns/",
       "en": "",
       "cn": "",
@@ -2273,7 +2273,7 @@ export const cefrC2Vocab = {
     {
       "word": "Starvation",
       "type": "n",
-      "th": "ภาวะอดอยาก",
+      "th": "การอดอยาก, ความอดอยาก",
       "phonetic": "/stɑːˈveɪ.ʃən/",
       "en": "",
       "cn": "",
@@ -2283,7 +2283,7 @@ export const cefrC2Vocab = {
     {
       "word": "Inferiority",
       "type": "n",
-      "th": "ปมด้อย สถานะด้อย",
+      "th": "ความด้อยกว่า, ความรู้สึกด้อย",
       "phonetic": "/ɪnˌfɪə.riˈɒr.ɪ.ti/",
       "en": "",
       "cn": "",
@@ -2293,7 +2293,7 @@ export const cefrC2Vocab = {
     {
       "word": "Corruption",
       "type": "n",
-      "th": "คอร์รัปชั่น",
+      "th": "การทุจริต, การคอร์รัปชัน, การฉ้อราษฎร์บังหลวง",
       "phonetic": "/kəˈrʌp.ʃən/",
       "en": "",
       "cn": "",
@@ -2303,7 +2303,7 @@ export const cefrC2Vocab = {
     {
       "word": "Despotic",
       "type": "adj",
-      "th": "เผด็จการ",
+      "th": "เผด็จการ, ซึ่งกดขี่",
       "phonetic": "/dɪˈspɒt.ɪk/",
       "en": "",
       "cn": "",
@@ -2313,7 +2313,7 @@ export const cefrC2Vocab = {
     {
       "word": "Inequity",
       "type": "n",
-      "th": "ความไม่เท่าเทียม",
+      "th": "ความไม่เท่าเทียม, ความไม่เป็นธรรม",
       "phonetic": "/ɪˈnek.wɪ.ti/",
       "en": "",
       "cn": "",
@@ -2323,7 +2323,7 @@ export const cefrC2Vocab = {
     {
       "word": "Ostensible",
       "type": "adj",
-      "th": "เห็นได้ชัดเจน",
+      "th": "ที่อ้างว่า, ดูเหมือนว่า",
       "phonetic": "/ɒsˈten.sə.bəl/",
       "en": "",
       "cn": "",
@@ -2333,7 +2333,7 @@ export const cefrC2Vocab = {
     {
       "word": "Indigenous",
       "type": "adj",
-      "th": "พื้นเมือง",
+      "th": "ดั้งเดิม, พื้นเมือง, ชนพื้นเมือง",
       "phonetic": "/ɪnˈdɪdʒ.ɪ.nəs/",
       "en": "",
       "cn": "",
@@ -2343,7 +2343,7 @@ export const cefrC2Vocab = {
     {
       "word": "Subservient",
       "type": "adj",
-      "th": "ยอมจำนน",
+      "th": "ยอมจำนน, รับใช้, ผู้ใต้บังคับบัญชา",
       "phonetic": "/səbˈsɜː.vi.ənt/",
       "en": "",
       "cn": "",
@@ -2353,7 +2353,7 @@ export const cefrC2Vocab = {
     {
       "word": "Financial aid",
       "type": "n",
-      "th": "ความช่วยเหลือทางการเงิน",
+      "th": "ความช่วยเหลือทางการเงิน, เงินช่วยเหลือ",
       "phonetic": "/faɪˈnæn.ʃəl eɪd/",
       "en": "",
       "cn": "",
@@ -2363,7 +2363,7 @@ export const cefrC2Vocab = {
     {
       "word": "Squalor",
       "type": "n",
-      "th": "ความสกปรก",
+      "th": "ความสกปรก, ความเสื่อมโทรม, ความแออัด",
       "phonetic": "/ˈskwɒl.ər/",
       "en": "",
       "cn": "",
@@ -2373,7 +2373,7 @@ export const cefrC2Vocab = {
     {
       "word": "Rebel fighter",
       "type": "n",
-      "th": "นักสู้กบฏ",
+      "th": "นักรบกบฏ, กองกำลังกบฏ",
       "phonetic": "/ˈreb.əl ˈfaɪ.tər/",
       "en": "",
       "cn": "",
@@ -2383,7 +2383,7 @@ export const cefrC2Vocab = {
     {
       "word": "Disheartening",
       "type": "adj",
-      "th": "ทำให้เสียกำลังใจ",
+      "th": "น่าท้อแท้, ทำให้หมดกำลังใจ",
       "phonetic": "/dɪsˈhɑː.tən.ɪŋ/",
       "en": "",
       "cn": "",
@@ -2393,7 +2393,7 @@ export const cefrC2Vocab = {
     {
       "word": "Religious zealot",
       "type": "n",
-      "th": "ผู้คลั่งไคล้ทางศาสนา",
+      "th": "ผู้คลั่งศาสนา",
       "phonetic": "/rɪˈlɪdʒ.əs ˈzel.ət/",
       "en": "",
       "cn": "",
@@ -2403,7 +2403,7 @@ export const cefrC2Vocab = {
     {
       "word": "Indigence",
       "type": "n",
-      "th": "ความยากจน",
+      "th": "ความยากจน, ความขัดสน",
       "phonetic": "/ˈɪn.dɪ.dʒəns/",
       "en": "",
       "cn": "",
@@ -2413,7 +2413,7 @@ export const cefrC2Vocab = {
     {
       "word": "Regime change",
       "type": "n",
-      "th": "การเปลี่ยนแปลงการปกครอง",
+      "th": "การเปลี่ยนแปลงระบอบการปกครอง, การเปลี่ยนรัฐบาล",
       "phonetic": "/reɪˈʒiːm tʃeɪndʒ/",
       "en": "",
       "cn": "",
@@ -2423,7 +2423,7 @@ export const cefrC2Vocab = {
     {
       "word": "Mortality",
       "type": "n",
-      "th": "การเสียชีวิต",
+      "th": "อัตราการตาย, ความตาย",
       "phonetic": "/mɔːˈtæl.ɪ.ti/",
       "en": "",
       "cn": "",
@@ -2433,7 +2433,7 @@ export const cefrC2Vocab = {
     {
       "word": "Racial tension",
       "type": "n",
-      "th": "ความตึงเครียดทางเชื้อชาติ",
+      "th": "ความตึงเครียดทางเชื้อชาติ, ความขัดแย้งทางเชื้อชาติ",
       "phonetic": "/ˈreɪ.ʃəl ˈten.ʃən/",
       "en": "",
       "cn": "",
@@ -2443,7 +2443,7 @@ export const cefrC2Vocab = {
     {
       "word": "Culture clash",
       "type": "n",
-      "th": "การปะทะทางวัฒนธรรม",
+      "th": "ความขัดแย้งทางวัฒนธรรม, การปะทะกันทางวัฒนธรรม",
       "phonetic": "/ˈkʌl.tʃər klæʃ/",
       "en": "",
       "cn": "",
@@ -2453,7 +2453,7 @@ export const cefrC2Vocab = {
     {
       "word": "Physical infrastructure",
       "type": "n",
-      "th": "โครงสร้างพื้นฐานทางกายภาพ",
+      "th": "โครงสร้างพื้นฐานทางกายภาพ, สาธารณูปโภค",
       "phonetic": "/ˈfɪz.ɪ.kəl ˈɪn.frəˌstrʌk.tʃər/",
       "en": "",
       "cn": "",
@@ -2465,7 +2465,7 @@ export const cefrC2Vocab = {
     {
       "word": "Quaint",
       "type": "adj",
-      "th": "แปลกตา",
+      "th": "แปลกตา, น่ารักแบบโบราณ, มีเสน่ห์แบบเก่า",
       "phonetic": "/kweɪnt/",
       "en": "",
       "cn": "",
@@ -2485,7 +2485,7 @@ export const cefrC2Vocab = {
     {
       "word": "Subtle",
       "type": "adj",
-      "th": "ละเอียดอ่อน",
+      "th": "ละเอียดอ่อน, บอบบาง, แยบยล",
       "phonetic": "/ˈsʌt.əl/",
       "en": "",
       "cn": "",
@@ -2495,7 +2495,7 @@ export const cefrC2Vocab = {
     {
       "word": "Devour",
       "type": "v",
-      "th": "กินอย่างตะกละ",
+      "th": "กลืนกิน, สวาปาม, กินอย่างตะกละ",
       "phonetic": "/dɪˈvaʊər/",
       "en": "",
       "cn": "",
@@ -2505,7 +2505,7 @@ export const cefrC2Vocab = {
     {
       "word": "Elegant",
       "type": "adj",
-      "th": "สง่างาม",
+      "th": "สง่างาม, สละสลวย, หรูหรา",
       "phonetic": "สง่างาม",
       "en": "",
       "cn": "",
@@ -2515,7 +2515,7 @@ export const cefrC2Vocab = {
     {
       "word": "Simmer",
       "type": "v",
-      "th": "เคี่ยว (อาหาร)",
+      "th": "เคี่ยว, ตุ๋น, คุกรุ่น",
       "phonetic": "/ˈsɪm.ər/",
       "en": "",
       "cn": "",
@@ -2525,7 +2525,7 @@ export const cefrC2Vocab = {
     {
       "word": "Garish",
       "type": "adj",
-      "th": "ฉูดฉาด",
+      "th": "ฉูดฉาด, แสบตา, หรูหราฟุ่มเฟือย",
       "phonetic": "/ˈɡeə.rɪʃ/",
       "en": "",
       "cn": "",
@@ -2535,7 +2535,7 @@ export const cefrC2Vocab = {
     {
       "word": "Gorge",
       "type": "v",
-      "th": "กินจนเกินอิ่ม",
+      "th": "กินอย่างตะกละ, ช่องแคบ, หุบเหว",
       "phonetic": "/ɡɔːdʒ/",
       "en": "",
       "cn": "",
@@ -2545,7 +2545,7 @@ export const cefrC2Vocab = {
     {
       "word": "Boisterous",
       "type": "adj",
-      "th": "เอะอะโวยวาย",
+      "th": "เอะอะ, โวยวาย, อึกทึกครึกโครม",
       "phonetic": "/ˈbɔɪ.stər.əs/",
       "en": "",
       "cn": "",
@@ -2555,7 +2555,7 @@ export const cefrC2Vocab = {
     {
       "word": "Marinate",
       "type": "v",
-      "th": "หมักดอง",
+      "th": "หมัก (อาหาร)",
       "phonetic": "/ˈmær.ɪ.neɪt/",
       "en": "",
       "cn": "",
@@ -2565,7 +2565,7 @@ export const cefrC2Vocab = {
     {
       "word": "Somber",
       "type": "adj",
-      "th": "หม่นหมอง",
+      "th": "มืดมิด, หม่นหมอง, เศร้าสร้อย",
       "phonetic": "/ˈsɒm.bər/",
       "en": "",
       "cn": "",
@@ -2575,7 +2575,7 @@ export const cefrC2Vocab = {
     {
       "word": "Munch",
       "type": "v",
-      "th": "เคี้ยวเสียงดัง",
+      "th": "เคี้ยว (เสียงดัง), กินจุกจิก",
       "phonetic": "/mʌntʃ/",
       "en": "",
       "cn": "",
@@ -2585,7 +2585,7 @@ export const cefrC2Vocab = {
     {
       "word": "Cramped",
       "type": "adj",
-      "th": "คับแคบ",
+      "th": "คับแคบ, อึดอัด",
       "phonetic": "/kræmpt/",
       "en": "",
       "cn": "",
@@ -2595,7 +2595,7 @@ export const cefrC2Vocab = {
     {
       "word": "Scrumptious",
       "type": "adj",
-      "th": "อร่อยมาก",
+      "th": "อร่อยล้ำ, น่ารับประทาน",
       "phonetic": "/ˈskrʌmp.ʃəs/",
       "en": "",
       "cn": "",
@@ -2605,7 +2605,7 @@ export const cefrC2Vocab = {
     {
       "word": "Cluttered",
       "type": "adj",
-      "th": "รก",
+      "th": "รก, ไม่เป็นระเบียบ",
       "phonetic": "/ˈklʌt.əd/",
       "en": "",
       "cn": "",
@@ -2615,7 +2615,7 @@ export const cefrC2Vocab = {
     {
       "word": "Bountiful",
       "type": "adj",
-      "th": "อุดมสมบูรณ์",
+      "th": "อุดมสมบูรณ์, มากมาย, ใจกว้าง",
       "phonetic": "/ˈbaʊn.tɪ.fəl/",
       "en": "",
       "cn": "",
@@ -2625,7 +2625,7 @@ export const cefrC2Vocab = {
     {
       "word": "Quirky",
       "type": "adj",
-      "th": "แปลก",
+      "th": "แปลก, พิลึก, มีเอกลักษณ์เฉพาะตัว",
       "phonetic": "/ˈkwɜː.ki/",
       "en": "",
       "cn": "",
@@ -2635,7 +2635,7 @@ export const cefrC2Vocab = {
     {
       "word": "Tangy",
       "type": "adj",
-      "th": "มีรสเปรี้ยว",
+      "th": "รสจัดจ้าน, เปรี้ยวอมหวาน, ฉุน",
       "phonetic": "/ˈtæŋ.i/",
       "en": "",
       "cn": "",
@@ -2645,7 +2645,7 @@ export const cefrC2Vocab = {
     {
       "word": "Picturesque",
       "type": "adj",
-      "th": "งดงาม",
+      "th": "สวยงามราวภาพวาด, งดงาม",
       "phonetic": "/ˌpɪk.tʃərˈesk/",
       "en": "",
       "cn": "",
@@ -2655,7 +2655,7 @@ export const cefrC2Vocab = {
     {
       "word": "Delectable",
       "type": "adj",
-      "th": "อร่อย",
+      "th": "อร่อย, น่ารับประทาน, รสเลิศ",
       "phonetic": "/dɪˈlek.tə.bəl/",
       "en": "",
       "cn": "",
@@ -2665,7 +2665,7 @@ export const cefrC2Vocab = {
     {
       "word": "Inconspicuous",
       "type": "adj",
-      "th": "ไม่โดดเด่น",
+      "th": "ไม่เด่นสะดุดตา, ไม่เป็นที่สังเกต",
       "phonetic": "/ˌɪn.kənˈspɪk.ju.əs/",
       "en": "",
       "cn": "",
@@ -2675,7 +2675,7 @@ export const cefrC2Vocab = {
     {
       "word": "Starchy",
       "type": "adj",
-      "th": "แข็งและไม่มีอารมณ์ขัน",
+      "th": "มีแป้งมาก, เป็นทางการ, หัวแข็ง",
       "phonetic": "/ˈstɑː.tʃi/",
       "en": "",
       "cn": "",
@@ -2685,7 +2685,7 @@ export const cefrC2Vocab = {
     {
       "word": "Gaudy",
       "type": "adj",
-      "th": "ฉูดฉาด",
+      "th": "ฉูดฉาด, แสบตา, หรูหราฟุ่มเฟือย",
       "phonetic": "/ˈɡɔː.di/",
       "en": "",
       "cn": "",
@@ -2695,7 +2695,7 @@ export const cefrC2Vocab = {
     {
       "word": "Soggy",
       "type": "adj",
-      "th": "(อาหาร) เปียกแฉะ",
+      "th": "แฉะ, เปียกชุ่ม, นิ่มเละ",
       "phonetic": "/ˈsɒɡ.i/",
       "en": "",
       "cn": "",
@@ -2705,7 +2705,7 @@ export const cefrC2Vocab = {
     {
       "word": "Rowdy",
       "type": "adj",
-      "th": "เอะอะ",
+      "th": "เอะอะโวยวาย, เกเร, อันธพาล",
       "phonetic": "/ˈraʊ.di/",
       "en": "",
       "cn": "",
@@ -2715,7 +2715,7 @@ export const cefrC2Vocab = {
     {
       "word": "Curdle",
       "type": "v",
-      "th": "ทำให้เป็นก้อนแข็ง",
+      "th": "จับตัวเป็นก้อน, เสีย (นม), ทำให้ตกใจ",
       "phonetic": "/ˈkɜː.dəl/",
       "en": "",
       "cn": "",
@@ -2725,7 +2725,7 @@ export const cefrC2Vocab = {
     {
       "word": "Subdued",
       "type": "adj",
-      "th": "สงบเงียบ",
+      "th": "สงบลง, อ่อนลง, ถูกกดขี่",
       "phonetic": "/səbˈdjuːd/",
       "en": "",
       "cn": "",
@@ -2735,7 +2735,7 @@ export const cefrC2Vocab = {
     {
       "word": "Putrid",
       "type": "adj",
-      "th": "เน่าเปื่อยและมีกลิ่นเหม็น",
+      "th": "เน่าเปื่อย, เหม็นเน่า",
       "phonetic": "/ˈpjuː.trɪd/",
       "en": "",
       "cn": "",
@@ -2745,7 +2745,7 @@ export const cefrC2Vocab = {
     {
       "word": "Offbeat",
       "type": "adj",
-      "th": "แปลกแหวกแนว",
+      "th": "แปลกไม่เหมือนใคร, นอกแนว, ไม่ธรรมดา",
       "phonetic": "/ˌɒfˈbiːt/",
       "en": "",
       "cn": "",
@@ -2755,7 +2755,7 @@ export const cefrC2Vocab = {
     {
       "word": "Satiate",
       "type": "v",
-      "th": "ทำให้พอใจ",
+      "th": "ทำให้อิ่มแปล้, ทำให้พอใจ",
       "phonetic": "/ˈseɪ.ʃi.eɪt/",
       "en": "",
       "cn": "",
@@ -2765,7 +2765,7 @@ export const cefrC2Vocab = {
     {
       "word": "Assortment",
       "type": "n",
-      "th": "การแบ่งประเภท",
+      "th": "การคละ, ของหลากหลาย, สารพัด",
       "phonetic": "/əˈsɔːt.mənt/",
       "en": "",
       "cn": "",
@@ -2775,7 +2775,7 @@ export const cefrC2Vocab = {
     {
       "word": "Amenity",
       "type": "n",
-      "th": "สิ่งอำนวยความสะดวก การบริการ",
+      "th": "สิ่งอำนวยความสะดวก, ความผาสุก",
       "phonetic": "/əˈmiː.nə.ti/",
       "en": "",
       "cn": "",
@@ -2785,7 +2785,7 @@ export const cefrC2Vocab = {
     {
       "word": "Accompaniment",
       "type": "n",
-      "th": "สิ่งที่ใช้ร่วมกับสิ่งอื่น",
+      "th": "เครื่องเคียง, สิ่งที่มาพร้อมกัน, การเล่นดนตรีคลอ",
       "phonetic": "/əˈkʌm.pən.ɪ.mənt/",
       "en": "",
       "cn": "",
@@ -2795,7 +2795,7 @@ export const cefrC2Vocab = {
     {
       "word": "Jaunt",
       "type": "n",
-      "th": "การเดินทางระยะสั้นๆ",
+      "th": "การเดินทางระยะสั้น, การเที่ยวเล่น",
       "phonetic": "/dʒɔːnt/",
       "en": "",
       "cn": "",
@@ -2805,7 +2805,7 @@ export const cefrC2Vocab = {
     {
       "word": "Casserole",
       "type": "n",
-      "th": "อาหารจานร้อน",
+      "th": "อาหารอบในหม้อ, หม้ออบ",
       "phonetic": "/ˈkæs.ə.rəʊl/",
       "en": "",
       "cn": "",
@@ -2815,7 +2815,7 @@ export const cefrC2Vocab = {
     {
       "word": "Junket",
       "type": "n",
-      "th": "การท่องเที่ยวของเจ้าหน้าที่",
+      "th": "การเดินทางเพื่อความบันเทิง, การเดินทางทัศนศึกษา",
       "phonetic": "/ˈdʒʌŋ.kɪt/",
       "en": "",
       "cn": "",
@@ -2825,7 +2825,7 @@ export const cefrC2Vocab = {
     {
       "word": "Connoisseur",
       "type": "n",
-      "th": "ผู้เชี่ยวชาญ",
+      "th": "ผู้เชี่ยวชาญ, ผู้รู้รส, นักเลง (ในทางที่ดี)",
       "phonetic": "/ˌkɒn.əˈsɜːr/",
       "en": "",
       "cn": "",
@@ -2845,7 +2845,7 @@ export const cefrC2Vocab = {
     {
       "word": "Culinary",
       "type": "n",
-      "th": "การทำอาหาร",
+      "th": "เกี่ยวกับการทำอาหาร, การครัว",
       "phonetic": "/ˈkʌl.ɪ.nər.i/",
       "en": "",
       "cn": "",
@@ -2855,7 +2855,7 @@ export const cefrC2Vocab = {
     {
       "word": "Promenade",
       "type": "n",
-      "th": "ทางเดิน",
+      "th": "ทางเดินเล่น, การเดินเล่น",
       "phonetic": "/ˌprɒm.əˈnɑːd/",
       "en": "",
       "cn": "",
@@ -2865,7 +2865,7 @@ export const cefrC2Vocab = {
     {
       "word": "Eatery",
       "type": "n",
-      "th": "ร้านอาหาร",
+      "th": "ร้านอาหาร, ที่กิน",
       "phonetic": "/ˈiː.tər.i/",
       "en": "",
       "cn": "",
@@ -2875,7 +2875,7 @@ export const cefrC2Vocab = {
     {
       "word": "Sabbatical",
       "type": "adj",
-      "th": "ช่วงเวลาพักงานเพื่อศึกษา",
+      "th": "การลาพักผ่อน (เพื่อศึกษาหรือพักผ่อน), ช่วงพัก",
       "phonetic": "/səˈbæt.ɪ.kəl/",
       "en": "",
       "cn": "",
@@ -2885,7 +2885,7 @@ export const cefrC2Vocab = {
     {
       "word": "Fusion",
       "type": "n",
-      "th": "การรวมกัน",
+      "th": "การหลอมรวม, การรวมกัน, การผสมผสาน",
       "phonetic": "/ˈfjuː.ʒən/",
       "en": "",
       "cn": "",
@@ -2895,7 +2895,7 @@ export const cefrC2Vocab = {
     {
       "word": "Hiatus",
       "type": "n",
-      "th": "การหยุดพัก",
+      "th": "การหยุดพักชั่วคราว, ช่องว่าง",
       "phonetic": "/haɪˈeɪ.təs/",
       "en": "",
       "cn": "",
@@ -2905,7 +2905,7 @@ export const cefrC2Vocab = {
     {
       "word": "Inedible",
       "type": "adj",
-      "th": "กินไม่ได้",
+      "th": "กินไม่ได้, ไม่น่ากิน",
       "phonetic": "/ɪˈned.ə.bəl/",
       "en": "",
       "cn": "",
@@ -2915,7 +2915,7 @@ export const cefrC2Vocab = {
     {
       "word": "Regatta",
       "type": "n",
-      "th": "การแข่งขันเรือ",
+      "th": "การแข่งขันเรือใบ, การแข่งเรือ",
       "phonetic": "/rɪˈɡæt.ə/",
       "en": "",
       "cn": "",
@@ -2927,7 +2927,7 @@ export const cefrC2Vocab = {
     {
       "word": "Conspicuous",
       "type": "adj",
-      "th": "โดดเด่น",
+      "th": "เด่นชัด, เห็นได้ชัด, สะดุดตา",
       "phonetic": "/kənˈspɪk.ju.əs/",
       "en": "",
       "cn": "",
@@ -2937,7 +2937,7 @@ export const cefrC2Vocab = {
     {
       "word": "Ostracize",
       "type": "v",
-      "th": "ขับไล่",
+      "th": "ขับไล่, ตัดออกจากสังคม, คว่ำบาตร",
       "phonetic": "/ˈɒs.trə.saɪz/",
       "en": "",
       "cn": "",
@@ -2947,7 +2947,7 @@ export const cefrC2Vocab = {
     {
       "word": "Woes",
       "type": "n",
-      "th": "ความทุกข์",
+      "th": "ความทุกข์, ความโศกเศร้า, ปัญหา",
       "phonetic": "/wəʊz/",
       "en": "",
       "cn": "",
@@ -2957,7 +2957,7 @@ export const cefrC2Vocab = {
     {
       "word": "Exclude",
       "type": "v",
-      "th": "กีดกัน",
+      "th": "กีดกัน, ไม่รวม, ยกเว้น",
       "phonetic": "/ɪkˈskluːd/",
       "en": "",
       "cn": "",
@@ -2967,7 +2967,7 @@ export const cefrC2Vocab = {
     {
       "word": "Chasm",
       "type": "n",
-      "th": "รอยแยก",
+      "th": "เหวลึก, รอยแยก, ความแตกต่างอย่างมาก",
       "phonetic": "/ˈkæz.əm/",
       "en": "",
       "cn": "",
@@ -2977,7 +2977,7 @@ export const cefrC2Vocab = {
     {
       "word": "Compromising",
       "type": "adj",
-      "th": "ประนีประนอม",
+      "th": "ที่เป็นอันตราย, ที่เสี่ยงต่อชื่อเสียง, ที่ประนีประนอม",
       "phonetic": "/ˈkɒm.prə.maɪzɪŋ/",
       "en": "",
       "cn": "",
@@ -2987,7 +2987,7 @@ export const cefrC2Vocab = {
     {
       "word": "Crisis",
       "type": "n",
-      "th": "วิกฤต",
+      "th": "วิกฤตการณ์, ความไม่มั่นคง, สถานการณ์ร้ายแรง",
       "phonetic": "/ˈkraɪ.sɪs/",
       "en": "",
       "cn": "",
@@ -2997,7 +2997,7 @@ export const cefrC2Vocab = {
     {
       "word": "Instill",
       "type": "v",
-      "th": "ปลูกฝัง",
+      "th": "ปลูกฝัง, ซึมซับ, ทำให้เกิด",
       "phonetic": "/ɪnˈstɪl/",
       "en": "",
       "cn": "",
@@ -3007,7 +3007,7 @@ export const cefrC2Vocab = {
     {
       "word": "Amok",
       "type": "adj",
-      "th": "อาละวาด",
+      "th": "คลุ้มคลั่ง, บ้าคลั่ง, ออกอาละวาด",
       "phonetic": "/əˈmɒk/",
       "en": "",
       "cn": "",
@@ -3017,7 +3017,7 @@ export const cefrC2Vocab = {
     {
       "word": "Exorbitant",
       "type": "n",
-      "th": "สูงเกินไป มากเกินไป",
+      "th": "แพงเกินไป, มากเกินไป, สูงลิ่ว",
       "phonetic": "/ɪɡˈzɔː.bɪ.tənt/",
       "en": "",
       "cn": "",
@@ -3027,7 +3027,7 @@ export const cefrC2Vocab = {
     {
       "word": "Inept",
       "type": "adj",
-      "th": "ไม่เหมาะสม",
+      "th": "งุ่มง่าม, ไร้ความสามารถ, ไม่เอาไหน",
       "phonetic": "/ɪˈnept/",
       "en": "",
       "cn": "",
@@ -3037,7 +3037,7 @@ export const cefrC2Vocab = {
     {
       "word": "Suburbia",
       "type": "n",
-      "th": "ชานเมือง",
+      "th": "ชานเมือง, เขตชานเมือง",
       "phonetic": "/səˈbɜː.bi.ə/",
       "en": "",
       "cn": "",
@@ -3047,7 +3047,7 @@ export const cefrC2Vocab = {
     {
       "word": "Obstinate",
       "type": "adj",
-      "th": "ดื้อรั้น",
+      "th": "ดื้อรั้น, หัวแข็ง, หัวดื้อ",
       "phonetic": "/ˈɒb.stɪ.nət/",
       "en": "",
       "cn": "",
@@ -3057,7 +3057,7 @@ export const cefrC2Vocab = {
     {
       "word": "Revelation",
       "type": "n",
-      "th": "การเปิดเผย",
+      "th": "การเปิดเผย, การเผยให้เห็น, สิ่งที่เปิดเผย",
       "phonetic": "/ˌrev.əˈleɪ.ʃən/",
       "en": "",
       "cn": "",
@@ -3067,7 +3067,7 @@ export const cefrC2Vocab = {
     {
       "word": "Promiscuous",
       "type": "adj",
-      "th": "สำส่อน",
+      "th": "สำส่อน, มากชู้หลายผัว/เมีย",
       "phonetic": "/prəˈmɪs.kju.əs/",
       "en": "",
       "cn": "",
@@ -3077,7 +3077,7 @@ export const cefrC2Vocab = {
     {
       "word": "Proportion",
       "type": "n",
-      "th": "สัดส่วน",
+      "th": "สัดส่วน, อัตราส่วน, ส่วนแบ่ง",
       "phonetic": "/prəˈpɔː.ʃən/",
       "en": "",
       "cn": "",
@@ -3087,7 +3087,7 @@ export const cefrC2Vocab = {
     {
       "word": "Unrealistic",
       "type": "adj",
-      "th": "ไม่สมจริง",
+      "th": "ไม่เป็นจริง, ไม่สมจริง, เกินจริง",
       "phonetic": "/ˌʌn.rɪəˈlɪs.tɪk/",
       "en": "",
       "cn": "",
@@ -3097,7 +3097,7 @@ export const cefrC2Vocab = {
     {
       "word": "Deposit",
       "type": "n",
-      "th": "เงินฝาก",
+      "th": "เงินฝาก, มัดจำ, ฝาก (เงิน)",
       "phonetic": "/dɪˈpɒz.ɪt/",
       "en": "",
       "cn": "",
@@ -3107,7 +3107,7 @@ export const cefrC2Vocab = {
     {
       "word": "Pushy",
       "type": "adj",
-      "th": "ก้าวร้าว",
+      "th": "บังคับ, คะยั้นคะยอ, ก้าวร้าว",
       "phonetic": "/ˈpʊʃ.i/",
       "en": "",
       "cn": "",
@@ -3117,7 +3117,7 @@ export const cefrC2Vocab = {
     {
       "word": "Arrears",
       "type": "n",
-      "th": "เงินค้างชำระ",
+      "th": "เงินค้างชำระ, หนี้ค้างชำระ, ค้างชำระ",
       "phonetic": "/əˈrɪəz/",
       "en": "",
       "cn": "",
@@ -3127,7 +3127,7 @@ export const cefrC2Vocab = {
     {
       "word": "Suicide",
       "type": "v",
-      "th": "ฆ่าตัวตาย",
+      "th": "ฆ่าตัวตาย, การฆ่าตัวตาย",
       "phonetic": "/ˈsuː.ɪ.saɪd/",
       "en": "",
       "cn": "",
@@ -3137,7 +3137,7 @@ export const cefrC2Vocab = {
     {
       "word": "Foreclosure",
       "type": "n",
-      "th": "การยึดทรัพย์สิน",
+      "th": "การยึดทรัพย์จำนอง, การยึดบ้าน",
       "phonetic": "/fɔːˈkləʊ.ʒər/",
       "en": "",
       "cn": "",
@@ -3147,7 +3147,7 @@ export const cefrC2Vocab = {
     {
       "word": "Virtual",
       "type": "adj",
-      "th": "เสมือน",
+      "th": "เสมือนจริง, แทบจะ, จริงๆ แล้ว",
       "phonetic": "/ˈvɜː.tʃu.əl/",
       "en": "",
       "cn": "",
@@ -3157,7 +3157,7 @@ export const cefrC2Vocab = {
     {
       "word": "Repossession",
       "type": "n",
-      "th": "การยึดทรัพย์สิน",
+      "th": "การยึดคืน, การยึดทรัพย์คืน",
       "phonetic": "/ˌriː.pəˈzeʃ.ən/",
       "en": "",
       "cn": "",
@@ -3167,7 +3167,7 @@ export const cefrC2Vocab = {
     {
       "word": "Antisocial",
       "type": "adj",
-      "th": "ต่อต้านสังคม",
+      "th": "ต่อต้านสังคม, ไม่เข้าสังคม, เก็บตัว",
       "phonetic": "/ˌæn.tiˈsəʊ.ʃəl/",
       "en": "",
       "cn": "",
@@ -3177,7 +3177,7 @@ export const cefrC2Vocab = {
     {
       "word": "Plummet",
       "type": "v",
-      "th": "ตกอย่างรวดเร็ว",
+      "th": "ตกฮวบ, ร่วงลงอย่างรวดเร็ว, ดิ่งลง",
       "phonetic": "/ˈplʌm.ɪt/",
       "en": "",
       "cn": "",
@@ -3187,7 +3187,7 @@ export const cefrC2Vocab = {
     {
       "word": "Sedentary",
       "type": "adj",
-      "th": "ที่ไม่ได้เคลื่อนไหวมาก",
+      "th": "อยู่กับที่, นั่งๆ นอนๆ, ไม่ค่อยเคลื่อนไหว",
       "phonetic": "/ˈsed.ən.tər.i/",
       "en": "",
       "cn": "",
@@ -3197,7 +3197,7 @@ export const cefrC2Vocab = {
     {
       "word": "Prudence",
       "type": "n",
-      "th": "ความรอบคอบ",
+      "th": "ความรอบคอบ, ความระมัดระวัง",
       "phonetic": "/ˈpruː.dəns/",
       "en": "",
       "cn": "",
@@ -3207,7 +3207,7 @@ export const cefrC2Vocab = {
     {
       "word": "Morbid",
       "type": "adj",
-      "th": "สนใจเรื่องน่ากลัวเกินไป",
+      "th": "หมกมุ่นกับความตาย/สิ่งผิดปกติ, น่าขนลุก",
       "phonetic": "/ˈmɔː.bɪd/",
       "en": "",
       "cn": "",
@@ -3229,7 +3229,7 @@ export const cefrC2Vocab = {
     {
       "word": "Ratings",
       "type": "n",
-      "th": "เรตติ้ง",
+      "th": "เรตติ้ง, คะแนน, การจัดอันดับ",
       "phonetic": "/ˈreɪ.tɪŋz/",
       "en": "",
       "cn": "",
@@ -3239,7 +3239,7 @@ export const cefrC2Vocab = {
     {
       "word": "Feature film",
       "type": "n",
-      "th": "ภาพยนตร์สารคดี",
+      "th": "ภาพยนตร์ยาว, หนังใหญ่",
       "phonetic": "/ˈfiː.tʃər fɪlm/",
       "en": "",
       "cn": "",
@@ -3249,7 +3249,7 @@ export const cefrC2Vocab = {
     {
       "word": "Demographics",
       "type": "n",
-      "th": "ข้อมูลประชากร",
+      "th": "ประชากรศาสตร์, ข้อมูลประชากร",
       "phonetic": "/ˌdem.əˈɡræf.ɪks/",
       "en": "",
       "cn": "",
@@ -3259,7 +3259,7 @@ export const cefrC2Vocab = {
     {
       "word": "Opening night",
       "type": "n",
-      "th": "คืนวันเปิดตัวภาพยนตร์หรือละคร",
+      "th": "คืนแรกที่ฉาย, รอบปฐมทัศน์",
       "phonetic": "/ˈəʊ.pənɪŋ naɪt/",
       "en": "",
       "cn": "",
@@ -3269,7 +3269,7 @@ export const cefrC2Vocab = {
     {
       "word": "Viewers",
       "type": "n",
-      "th": "ผู้ชม",
+      "th": "ผู้ชม, คนดู",
       "phonetic": "/ˈvjuː.ərz/",
       "en": "",
       "cn": "",
@@ -3279,7 +3279,7 @@ export const cefrC2Vocab = {
     {
       "word": "General release",
       "type": "n",
-      "th": "การฉายรอบทั่วไป",
+      "th": "เข้าฉายทั่วไป, ฉายวงกว้าง",
       "phonetic": "/ˈdʒen.ər.əl rɪˈliːs/",
       "en": "",
       "cn": "",
@@ -3289,7 +3289,7 @@ export const cefrC2Vocab = {
     {
       "word": "Penetrating",
       "type": "adj",
-      "th": "แหลมคม",
+      "th": "เจาะลึก, เข้าถึง, เฉียบแหลม",
       "phonetic": "/ˈpen.ɪ.treɪ.tɪŋ/",
       "en": "",
       "cn": "",
@@ -3299,7 +3299,7 @@ export const cefrC2Vocab = {
     {
       "word": "Movie premiere",
       "type": "n",
-      "th": "ภาพยนตร์รอบปฐมทัศน์",
+      "th": "รอบปฐมทัศน์ภาพยนตร์",
       "phonetic": "/ˈmuː.vi ˈprem.i.eər/",
       "en": "",
       "cn": "",
@@ -3309,7 +3309,7 @@ export const cefrC2Vocab = {
     {
       "word": "Subscription",
       "type": "n",
-      "th": "การสมัครสมาชิก",
+      "th": "การสมัครสมาชิก, ค่าสมัคร",
       "phonetic": "/səbˈskrɪp.ʃən/",
       "en": "",
       "cn": "",
@@ -3319,7 +3319,7 @@ export const cefrC2Vocab = {
     {
       "word": "Release date",
       "type": "n",
-      "th": "วันปล่อย",
+      "th": "วันที่ออกฉาย, วันวางจำหน่าย",
       "phonetic": "/rɪˈliːs deɪt/",
       "en": "",
       "cn": "",
@@ -3329,7 +3329,7 @@ export const cefrC2Vocab = {
     {
       "word": "Merchandise",
       "type": "n",
-      "th": "สินค้า",
+      "th": "สินค้า, ของที่ระลึก",
       "phonetic": "/ˈmɜː.tʃən.daɪs/",
       "en": "",
       "cn": "",
@@ -3339,7 +3339,7 @@ export const cefrC2Vocab = {
     {
       "word": "Ensemble cast",
       "type": "n",
-      "th": "นักแสดงหลายคน",
+      "th": "นักแสดงสมทบหลายคน, รวมดารานักแสดง",
       "phonetic": "/ɒnˈsɒm.bəl kɑːst/",
       "en": "",
       "cn": "",
@@ -3349,7 +3349,7 @@ export const cefrC2Vocab = {
     {
       "word": "Circulation",
       "type": "n",
-      "th": "การแพร่กระจาย",
+      "th": "การหมุนเวียน, การไหลเวียน, ยอดพิมพ์",
       "phonetic": "/ˌsɜː.kjəˈleɪ.ʃən/",
       "en": "",
       "cn": "",
@@ -3359,7 +3359,7 @@ export const cefrC2Vocab = {
     {
       "word": "Leading lady",
       "type": "n",
-      "th": "นักแสดงนำหญิง",
+      "th": "นางเอก, นักแสดงนำหญิง",
       "phonetic": "/ˈliː.dɪŋ ˈleɪ.di/",
       "en": "",
       "cn": "",
@@ -3369,7 +3369,7 @@ export const cefrC2Vocab = {
     {
       "word": "Soundbites",
       "type": "n",
-      "th": "วรรคทอง",
+      "th": "วาทะเด็ด, คำคมสั้นๆ, ข้อความสั้นๆ",
       "phonetic": "/ˈsaʊnd.baɪts/",
       "en": "",
       "cn": "",
@@ -3379,7 +3379,7 @@ export const cefrC2Vocab = {
     {
       "word": "Critical reception",
       "type": "n",
-      "th": "การรับจากนักวิจารณ์",
+      "th": "การตอบรับจากนักวิจารณ์, เสียงวิจารณ์",
       "phonetic": "/ˈkrɪt.ɪ.kəl rɪˈsep.ʃən/",
       "en": "",
       "cn": "",
@@ -3389,7 +3389,7 @@ export const cefrC2Vocab = {
     {
       "word": "Anticlimactic",
       "type": "adj",
-      "th": "น่าผิดหวัง",
+      "th": "ไม่น่าตื่นเต้นอย่างที่คิด, จบแบบกร่อยๆ",
       "phonetic": "/ˌæn.ti.klaɪˈmæk.tɪk/",
       "en": "",
       "cn": "",
@@ -3399,7 +3399,7 @@ export const cefrC2Vocab = {
     {
       "word": "Enrapturing",
       "type": "adj",
-      "th": "น่าหลงใหล",
+      "th": "น่าหลงใหล, น่าทึ่ง, ตรึงใจ",
       "phonetic": "/ɪnˈræp.tʃərɪŋ/",
       "en": "",
       "cn": "",
@@ -3409,7 +3409,7 @@ export const cefrC2Vocab = {
     {
       "word": "Cliffhanger",
       "type": "n",
-      "th": "สถานการณ์ที่น่าตื่นเต้น",
+      "th": "ตอนจบที่ค้างคา, สถานการณ์ที่ค้างคา",
       "phonetic": "/ˈklɪfˌhæŋ.ər/",
       "en": "",
       "cn": "",
@@ -3419,7 +3419,7 @@ export const cefrC2Vocab = {
     {
       "word": "Gripping",
       "type": "adj",
-      "th": "น่าตื่นเต้น",
+      "th": "น่าตื่นเต้น, น่าติดตาม, ตรึงใจ",
       "phonetic": "/ˈɡrɪp.ɪŋ/",
       "en": "",
       "cn": "",
@@ -3429,7 +3429,7 @@ export const cefrC2Vocab = {
     {
       "word": "Tearjerker",
       "type": "n",
-      "th": "ภาพยนตร์หรือเรื่องราวที่เรียกน้ำตา",
+      "th": "หนังเรียกน้ำตา, เรื่องเรียกน้ำตา",
       "phonetic": "/ˈtɪəˌdʒɜː.kər/",
       "en": "",
       "cn": "",
@@ -3439,7 +3439,7 @@ export const cefrC2Vocab = {
     {
       "word": "Nail biting",
       "type": "adj",
-      "th": "ทำให้รู้สึกตื่นเต้น",
+      "th": "ลุ้นระทึก, ตื่นเต้นจนกัดเล็บ",
       "phonetic": "/ˈneɪl ˌbaɪ.tɪŋ/",
       "en": "",
       "cn": "",
@@ -3449,7 +3449,7 @@ export const cefrC2Vocab = {
     {
       "word": "Acclaim",
       "type": "n",
-      "th": "การยกย่อง",
+      "th": "คำชมเชย, เสียงปรบมือ, การยกย่อง",
       "phonetic": "/əˈkleɪm/",
       "en": "",
       "cn": "",
@@ -3459,7 +3459,7 @@ export const cefrC2Vocab = {
     {
       "word": "Harrowing",
       "type": "adj",
-      "th": "น่าสลดใจ",
+      "th": "น่าสะพรึงกลัว, น่าขนลุก, แสนสาหัส",
       "phonetic": "/ˈhær.əʊ.ɪŋ/",
       "en": "",
       "cn": "",
@@ -3469,7 +3469,7 @@ export const cefrC2Vocab = {
     {
       "word": "Abysmal",
       "type": "adj",
-      "th": "แย่มาก",
+      "th": "แย่มาก, เลวร้ายที่สุด, ตกต่ำสุดๆ",
       "phonetic": "/əˈbɪz.məl/",
       "en": "",
       "cn": "",
@@ -3479,7 +3479,7 @@ export const cefrC2Vocab = {
     {
       "word": "Enigmatic",
       "type": "adj",
-      "th": "ลึกลับ",
+      "th": "ลึกลับ, เข้าใจยาก, คลุมเครือ",
       "phonetic": "/ˌen.ɪɡˈmæt.ɪk/",
       "en": "",
       "cn": "",
@@ -3489,7 +3489,7 @@ export const cefrC2Vocab = {
     {
       "word": "Interweave",
       "type": "v",
-      "th": "สานเข้าด้วยกัน",
+      "th": "สานกัน, ถักทอ, ผสมผสานกัน",
       "phonetic": "/ˌɪn.təˈwiːv/",
       "en": "",
       "cn": "",
@@ -3499,7 +3499,7 @@ export const cefrC2Vocab = {
     {
       "word": "Intoxicating",
       "type": "adj",
-      "th": "น่าหลงใหล",
+      "th": "มึนเมา, น่าหลงใหล, ทำให้มัวเมา",
       "phonetic": "/ɪnˈtɒk.sɪ.keɪ.tɪŋ/",
       "en": "",
       "cn": "",
@@ -3509,7 +3509,7 @@ export const cefrC2Vocab = {
     {
       "word": "Compelling",
       "type": "adj",
-      "th": "ที่น่าสนใจ",
+      "th": "น่าสนใจ, น่าติดตาม, น่าเชื่อถือ",
       "phonetic": "/kəmˈpel.ɪŋ/",
       "en": "",
       "cn": "",
@@ -3519,7 +3519,7 @@ export const cefrC2Vocab = {
     {
       "word": "Visceral",
       "type": "adj",
-      "th": "เกี่ยวกับความรู้สึกที่รุนแรง",
+      "th": "สัญชาตญาณ, ความรู้สึกภายใน, เข้าถึงอารมณ์",
       "phonetic": "/ˈvɪs.ər.əl/",
       "en": "",
       "cn": "",
@@ -3529,7 +3529,7 @@ export const cefrC2Vocab = {
     {
       "word": "Consensus",
       "type": "n",
-      "th": "ฉันทามติ",
+      "th": "ฉันทามติ, ความเห็นพ้อง, ข้อตกลงร่วมกัน",
       "phonetic": "/kənˈsen.səs/",
       "en": "",
       "cn": "",
@@ -3539,7 +3539,7 @@ export const cefrC2Vocab = {
     {
       "word": "Buoyant",
       "type": "adj",
-      "th": "ลอยตัว",
+      "th": "ลอยตัว, ร่าเริง, มีชีวิตชีวา",
       "phonetic": "/ˈbɔɪ.ənt/",
       "en": "",
       "cn": "",
@@ -3549,7 +3549,7 @@ export const cefrC2Vocab = {
     {
       "word": "Frenetic",
       "type": "adj",
-      "th": "บ้าระห่ำ",
+      "th": "บ้าคลั่ง, กระตือรือร้นจัด, วุ่นวาย",
       "phonetic": "/frəˈnet.ɪk/",
       "en": "",
       "cn": "",
@@ -3559,7 +3559,7 @@ export const cefrC2Vocab = {
     {
       "word": "Unapologetic",
       "type": "adj",
-      "th": "ไม่รู้สึกผิด",
+      "th": "ไม่ขอโทษ, ไม่รู้สึกผิด, ไม่สำนึก",
       "phonetic": "/ˌʌn.əˌpɒl.əˈdʒet.ɪk/",
       "en": "",
       "cn": "",
@@ -3569,7 +3569,7 @@ export const cefrC2Vocab = {
     {
       "word": "Suspense",
       "type": "n",
-      "th": "ความระทึกใจ",
+      "th": "ความระทึกใจ, ความตื่นเต้น, การคาดไม่ถึง",
       "phonetic": "/səˈspens/",
       "en": "",
       "cn": "",
@@ -3579,7 +3579,7 @@ export const cefrC2Vocab = {
     {
       "word": "Pretentious",
       "type": "adj",
-      "th": "พยายามทำให้ดูสำคัญ",
+      "th": "เสแสร้ง, อวดอ้าง, โอ้อวด",
       "phonetic": "/prɪˈten.ʃəs/",
       "en": "",
       "cn": "",
@@ -3589,7 +3589,7 @@ export const cefrC2Vocab = {
     {
       "word": "Riveting",
       "type": "adj",
-      "th": "น่าสนใจ",
+      "th": "น่าสนใจมาก, ตรึงตาตรึงใจ, น่าติดตาม",
       "phonetic": "/ˈrɪv.ɪ.tɪŋ/",
       "en": "",
       "cn": "",
@@ -3599,7 +3599,7 @@ export const cefrC2Vocab = {
     {
       "word": "Insipid",
       "type": "adj",
-      "th": "ไม่น่าสนใจ",
+      "th": "จืดชืด, ไม่มีรสชาติ, ไม่น่าสนใจ",
       "phonetic": "/ɪnˈsɪp.ɪd/",
       "en": "",
       "cn": "",
@@ -3609,7 +3609,7 @@ export const cefrC2Vocab = {
     {
       "word": "Spellbinding",
       "type": "adj",
-      "th": "ดึงดูดความสนใจ",
+      "th": "สะกดใจ, น่าหลงใหล, ตรึงใจ",
       "phonetic": "/ˈspelˌbaɪn.dɪŋ/",
       "en": "",
       "cn": "",
@@ -3619,7 +3619,7 @@ export const cefrC2Vocab = {
     {
       "word": "Wearisome",
       "type": "adj",
-      "th": "ที่ทำให้เบื่อ",
+      "th": "เหนื่อยหน่าย, น่าเบื่อ, น่ารำคาญ",
       "phonetic": "/ˈwɪə.rɪ.səm/",
       "en": "",
       "cn": "",
@@ -3629,7 +3629,7 @@ export const cefrC2Vocab = {
     {
       "word": "Enthralling",
       "type": "adj",
-      "th": "น่าหลงใหล",
+      "th": "น่าหลงใหล, ตรึงใจ, ทำให้เคลิบเคลิ้ม",
       "phonetic": "/ɪnˈθrɔː.lɪŋ/",
       "en": "",
       "cn": "",
@@ -3639,7 +3639,7 @@ export const cefrC2Vocab = {
     {
       "word": "Absorbing",
       "type": "adj",
-      "th": "น่าสนใจ",
+      "th": "น่าสนใจมาก, ดึงดูดความสนใจ, เพลิน",
       "phonetic": "/əbˈzɔː.bɪŋ/",
       "en": "",
       "cn": "",
@@ -3651,7 +3651,7 @@ export const cefrC2Vocab = {
     {
       "word": "two-tiered society",
       "type": "n",
-      "th": "ระบบสังคมสองชั้น",
+      "th": "สังคมสองชนชั้น",
       "phonetic": "/ˌtuː ˈtɪəd səˈsaɪ.ə.ti/",
       "en": "",
       "cn": "",
@@ -3661,7 +3661,7 @@ export const cefrC2Vocab = {
     {
       "word": "Innate",
       "type": "adj",
-      "th": "โดยกำเนิด",
+      "th": "มีมาแต่กำเนิด, โดยธรรมชาติ, ติดตัว",
       "phonetic": "/ɪˈneɪt/",
       "en": "",
       "cn": "",
@@ -3681,7 +3681,7 @@ export const cefrC2Vocab = {
     {
       "word": "Conscience",
       "type": "n",
-      "th": "มโนธรรม",
+      "th": "มโนธรรม, สติ, ความรู้สึกผิดชอบชั่วดี",
       "phonetic": "/ˈkɒn.ʃəns/",
       "en": "",
       "cn": "",
@@ -3691,7 +3691,7 @@ export const cefrC2Vocab = {
     {
       "word": "Blood diamond",
       "type": "n",
-      "th": "เพชรที่ขายอย่างผิดกฎหมาย",
+      "th": "เพชรสีเลือด, เพชรที่ได้จากการค้าผิดกฎหมาย",
       "phonetic": "/ˈblʌd ˈdaɪə.mənd/",
       "en": "",
       "cn": "",
@@ -3711,7 +3711,7 @@ export const cefrC2Vocab = {
     {
       "word": "Corrupt administration",
       "type": "n",
-      "th": "การบริหารที่ทุจริต",
+      "th": "การบริหารที่ฉ้อฉล, รัฐบาลคอร์รัปชัน",
       "phonetic": "/kəˈrʌpt ədˌmɪn.ɪˈstreɪ.ʃən/",
       "en": "",
       "cn": "",
@@ -3721,7 +3721,7 @@ export const cefrC2Vocab = {
     {
       "word": "Cultivation",
       "type": "n",
-      "th": "การเตรียมการเพาะปลูก",
+      "th": "การเพาะปลูก, การบ่มเพาะ, การพัฒนา",
       "phonetic": "/ˌkʌl.tɪˈveɪ.ʃən/",
       "en": "",
       "cn": "",
@@ -3731,7 +3731,7 @@ export const cefrC2Vocab = {
     {
       "word": "the general populace",
       "type": "n",
-      "th": "ประชาชนทั่วไป",
+      "th": "ประชาชนทั่วไป, ประชากรโดยรวม",
       "phonetic": "/ðə ˈdʒen.ər.əl ˈpɒp.jʊ.ləs/",
       "en": "",
       "cn": "",
@@ -3741,7 +3741,7 @@ export const cefrC2Vocab = {
     {
       "word": "Swathe",
       "type": "n",
-      "th": "พื้นที่ขนาดใหญ่",
+      "th": "แถบกว้าง, แนว, ห่อหุ้ม",
       "phonetic": "/sweɪð/",
       "en": "",
       "cn": "",
@@ -3751,7 +3751,7 @@ export const cefrC2Vocab = {
     {
       "word": "carbon footprint",
       "type": "n",
-      "th": "รอยเท้าคาร์บอน",
+      "th": "รอยเท้าคาร์บอน, ปริมาณคาร์บอน",
       "phonetic": "/ˈkɑː.bən ˈfʊt.prɪnt/",
       "en": "",
       "cn": "",
@@ -3761,7 +3761,7 @@ export const cefrC2Vocab = {
     {
       "word": "Deforestation",
       "type": "n",
-      "th": "การตัดไม้ทำลายป่า",
+      "th": "การทำลายป่า, การตัดไม้ทำลายป่า",
       "phonetic": "/diːˌfɒr.ɪˈsteɪ.ʃən/",
       "en": "",
       "cn": "",
@@ -3771,7 +3771,7 @@ export const cefrC2Vocab = {
     {
       "word": "the greater good",
       "type": "n",
-      "th": "ประโยชน์ของส่วนรวม",
+      "th": "ประโยชน์ส่วนรวม, ประโยชน์ที่ยิ่งใหญ่กว่า",
       "phonetic": "/ðə ˈɡreɪ.tər ɡʊd/",
       "en": "",
       "cn": "",
@@ -3791,7 +3791,7 @@ export const cefrC2Vocab = {
     {
       "word": "Tacit approval",
       "type": "n",
-      "th": "การอนุมัติโดยปริยาย",
+      "th": "การเห็นชอบโดยปริยาย, การอนุมัติโดยไม่แสดงออก",
       "phonetic": "/ˈtæs.ɪt əˈpruː.vəl/",
       "en": "",
       "cn": "",
@@ -3801,7 +3801,7 @@ export const cefrC2Vocab = {
     {
       "word": "Agrarian",
       "type": "adj",
-      "th": "เกี่ยวกับเกษตรกรรม",
+      "th": "เกี่ยวกับการเกษตร, เกษตรกรรม",
       "phonetic": "/əˈɡreə.ri.ən/",
       "en": "",
       "cn": "",
@@ -3811,7 +3811,7 @@ export const cefrC2Vocab = {
     {
       "word": "Shady deal",
       "type": "n",
-      "th": "กิจกรรมที่ไม่สุจริตหรือผิดกฎหมาย",
+      "th": "ข้อตกลงที่น่าสงสัย, การตกลงที่ผิดกฎหมาย",
       "phonetic": "/ˈʃeɪ.di diːl/",
       "en": "",
       "cn": "",
@@ -3821,7 +3821,7 @@ export const cefrC2Vocab = {
     {
       "word": "Arid",
       "type": "adj",
-      "th": "แห้งแล้ง",
+      "th": "แห้งแล้ง, กันดาร",
       "phonetic": "/ˈær.ɪd/",
       "en": "",
       "cn": "",
@@ -3831,7 +3831,7 @@ export const cefrC2Vocab = {
     {
       "word": "irrevocable harm",
       "type": "n",
-      "th": "อันตรายที่ไม่สามารถแก้ไขได้",
+      "th": "ความเสียหายที่ไม่อาจแก้ไขได้",
       "phonetic": "/ɪˈrev.ə.kə.bəl hɑːm/",
       "en": "",
       "cn": "",
@@ -3841,7 +3841,7 @@ export const cefrC2Vocab = {
     {
       "word": "Absorption",
       "type": "n",
-      "th": "กระบวนการดูดซึม",
+      "th": "การดูดซับ, การซึมซับ, การรวมเข้า",
       "phonetic": "/əbˈzɔːp.ʃən/",
       "en": "",
       "cn": "",
@@ -3851,7 +3851,7 @@ export const cefrC2Vocab = {
     {
       "word": "Confront",
       "type": "v",
-      "th": "เผชิญหน้า",
+      "th": "เผชิญหน้า, ประจันหน้า, ต่อต้าน",
       "phonetic": "/kənˈfrʌnt/",
       "en": "",
       "cn": "",
@@ -3861,7 +3861,7 @@ export const cefrC2Vocab = {
     {
       "word": "Conducive",
       "type": "v",
-      "th": "เอื้ออำนวย",
+      "th": "เอื้ออำนวย, นำไปสู่, เป็นผลดี",
       "phonetic": "/kənˈdjuː.sɪv/",
       "en": "",
       "cn": "",
@@ -3871,7 +3871,7 @@ export const cefrC2Vocab = {
     {
       "word": "Maximize",
       "type": "v",
-      "th": "เพิ่มบางสิ่งบางอย่างให้มากที่สุด",
+      "th": "ทำให้มากที่สุด, เพิ่มสูงสุด, ใช้ประโยชน์สูงสุด",
       "phonetic": "/ˈmæk.sɪ.maɪz/",
       "en": "",
       "cn": "",
@@ -3881,7 +3881,7 @@ export const cefrC2Vocab = {
     {
       "word": "Inhospitable",
       "type": "adj",
-      "th": "ไม่เอื้ออำนวย",
+      "th": "ไม่เหมาะแก่การอยู่อาศัย, ไม่เป็นมิตร, ไม่ต้อนรับ",
       "phonetic": "/ˌɪn.hɒˈspɪt.ə.bəl/",
       "en": "",
       "cn": "",
@@ -3891,7 +3891,7 @@ export const cefrC2Vocab = {
     {
       "word": "Fundamental",
       "type": "adj",
-      "th": "ขั้นพื้นฐาน",
+      "th": "พื้นฐาน, สำคัญ, เป็นรากฐาน",
       "phonetic": "/ˌfʌn.dəˈmen.təl/",
       "en": "",
       "cn": "",
@@ -3901,7 +3901,7 @@ export const cefrC2Vocab = {
     {
       "word": "Depletion",
       "type": "n",
-      "th": "การพร่อง",
+      "th": "การลดลง, การใช้จนหมด, การพร่อง",
       "phonetic": "/dɪˈpliː.ʃən/",
       "en": "",
       "cn": "",
@@ -3911,7 +3911,7 @@ export const cefrC2Vocab = {
     {
       "word": "Essence",
       "type": "n",
-      "th": "แก่นแท้",
+      "th": "สาระสำคัญ, แก่นแท้, หัวใจ",
       "phonetic": "/ˈes.əns/",
       "en": "",
       "cn": "",
@@ -3921,7 +3921,7 @@ export const cefrC2Vocab = {
     {
       "word": "Abundance",
       "type": "n",
-      "th": "ปริมาณมากที่มากเกินพอ",
+      "th": "ความอุดมสมบูรณ์, ความมากมาย, จำนวนมาก",
       "phonetic": "/əˈbʌn.dəns/",
       "en": "",
       "cn": "",
@@ -3931,7 +3931,7 @@ export const cefrC2Vocab = {
     {
       "word": "Differentiate",
       "type": "v",
-      "th": "แยกแยะ",
+      "th": "แยกแยะความแตกต่าง, ทำให้แตกต่าง, จำแนก",
       "phonetic": "/ˌdɪf.əˈren.ʃi.eɪt/",
       "en": "",
       "cn": "",
@@ -3941,7 +3941,7 @@ export const cefrC2Vocab = {
     {
       "word": "Recognition",
       "type": "n",
-      "th": "การยอมรับ",
+      "th": "การยอมรับ, การรับรู้, การจำได้",
       "phonetic": "/ˌrek.əɡˈnɪʃ.ən/",
       "en": "",
       "cn": "",
@@ -3951,7 +3951,7 @@ export const cefrC2Vocab = {
     {
       "word": "Embarrass",
       "type": "v",
-      "th": "ทำให้อาย",
+      "th": "ทำให้ขายหน้า, ทำให้อับอาย, ทำให้ลำบากใจ",
       "phonetic": "/ɪmˈbær.əs/",
       "en": "",
       "cn": "",

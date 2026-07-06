@@ -1,6 +1,8 @@
 import React, { useState } from 'react';
 import { BookOpen, Headphones, PenTool, Mic, ChevronLeft, FileText, PlayCircle, Bot, ShieldAlert, Clock, Info, Download, ArrowRight, X } from 'lucide-react';
 import DocumentGallery from './DocumentGallery';
+import mockExams from '../data/mock_exams.json';
+import InteractiveExamViewer from './InteractiveExamViewer';
 
 
 const hskExamsData: Record<string, { id: string, name: string, videoId: string }[]> = {
@@ -178,6 +180,17 @@ export default function ExamsArea({ activeLang, onAskAI }: { activeLang: 'EN' | 
   };
 
   if (selectedExamSet && selectedCategory) {
+    const interactiveExam = mockExams.find(e => e.id === selectedExamSet);
+    if (interactiveExam) {
+      return (
+        <InteractiveExamViewer 
+          exam={interactiveExam as any} 
+          onBack={() => setSelectedExamSet(null)} 
+          onAskAI={onAskAI} 
+        />
+      );
+    }
+
     const examsList = hskExamsData[selectedCategory] || [];
     const examData = examsList.find(e => e.id === selectedExamSet);
     const folderName = selectedCategory.startsWith('HSKK') ? selectedCategory.toLowerCase() : selectedCategory.replace('HSK', 'H');
@@ -363,6 +376,23 @@ export default function ExamsArea({ activeLang, onAskAI }: { activeLang: 'EN' | 
               </div>
             </button>
           ))}
+          
+          {/* Inject HSK Interactive Mock Exams */}
+          {mockExams.filter(e => e.type === 'HSK' && selectedCategory === 'HSK4').map(exam => (
+            <button
+              key={exam.id}
+              onClick={() => setSelectedExamSet(exam.id)}
+              className="bg-white border border-gray-200 rounded-2xl p-6 flex flex-col items-start gap-3 hover:border-emerald-400 hover:shadow-md transition-all text-left group"
+            >
+              <div className="w-12 h-12 rounded-xl bg-emerald-50 flex items-center justify-center text-emerald-600 font-bold group-hover:scale-110 transition-transform shrink-0">
+                <Bot size={24} />
+              </div>
+              <div>
+                <h3 className="text-lg font-bold text-gray-900 mb-1">{exam.title}</h3>
+                <p className="text-emerald-500 text-sm font-medium">Interactive Reading Quiz</p>
+              </div>
+            </button>
+          ))}
         </div>
       </div>
     );
@@ -370,6 +400,8 @@ export default function ExamsArea({ activeLang, onAskAI }: { activeLang: 'EN' | 
 
   // General Skill Selection for non-HSK categories
   if (selectedSkill && selectedCategory) {
+    const availableExams = mockExams.filter(e => e.type === selectedCategory && e.skill.toLowerCase() === selectedSkill.toLowerCase());
+
     return (
       <div className="flex flex-col h-full w-full max-w-4xl mx-auto">
         <button 
@@ -378,13 +410,38 @@ export default function ExamsArea({ activeLang, onAskAI }: { activeLang: 'EN' | 
         >
           <ChevronLeft size={20} /> ย้อนกลับ
         </button>
-        <div className="bg-white rounded-2xl shadow-sm border border-gray-100 p-8 flex flex-col items-center justify-center min-h-[400px]">
-          <FileText size={48} className="text-indigo-200 mb-4" />
-          <h2 className="text-2xl font-bold text-gray-900 mb-2">{selectedCategory} - {selectedSkill} (ตัวอย่างข้อสอบ)</h2>
-          <p className="text-gray-500 text-center max-w-md">
-            (ส่วนรับรองการอัปโหลดไฟล์/วิดีโอตัวอย่างข้อสอบจะอยู่ตรงนี้)
-          </p>
-        </div>
+        
+        {availableExams.length > 0 ? (
+          <div>
+            <h2 className="text-2xl font-bold text-gray-900 mb-2">ข้อสอบ {selectedCategory} - {selectedSkill}</h2>
+            <p className="text-gray-500 mb-8">เลือกชุดข้อสอบที่คุณต้องการฝึกทำ (Interactive Mode)</p>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+              {availableExams.map(exam => (
+                <button
+                  key={exam.id}
+                  onClick={() => setSelectedExamSet(exam.id)}
+                  className="bg-white border border-gray-200 rounded-2xl p-6 flex flex-col items-start gap-3 hover:border-indigo-400 hover:shadow-md transition-all text-left group"
+                >
+                  <div className="w-12 h-12 rounded-xl bg-indigo-50 flex items-center justify-center text-indigo-600 font-bold group-hover:scale-110 transition-transform shrink-0">
+                    <FileText size={24} />
+                  </div>
+                  <div>
+                    <h3 className="text-lg font-bold text-gray-900 mb-1">{exam.title}</h3>
+                    <p className="text-indigo-500 text-sm font-medium">ข้อสอบฝึกทำ (Interactive)</p>
+                  </div>
+                </button>
+              ))}
+            </div>
+          </div>
+        ) : (
+          <div className="bg-white rounded-2xl shadow-sm border border-gray-100 p-8 flex flex-col items-center justify-center min-h-[400px]">
+            <FileText size={48} className="text-indigo-200 mb-4" />
+            <h2 className="text-2xl font-bold text-gray-900 mb-2">{selectedCategory} - {selectedSkill} (ตัวอย่างข้อสอบ)</h2>
+            <p className="text-gray-500 text-center max-w-md">
+              (ส่วนรับรองการอัปโหลดไฟล์/วิดีโอตัวอย่างข้อสอบจะอยู่ตรงนี้)
+            </p>
+          </div>
+        )}
       </div>
     );
   }

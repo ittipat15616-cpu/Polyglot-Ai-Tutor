@@ -70,7 +70,7 @@ export default function MockTestArea({ level, examId, videoId, onExit }: MockTes
 
     try {
       // Use client-side grading instead of calling the server API
-      const resultData = gradeExam(level, examId, answersRef.current);
+      const resultData = await gradeExam(level, examId, answersRef.current);
       setResult(resultData);
     } catch (err) {
       console.error(err);
