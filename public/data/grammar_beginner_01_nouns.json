@@ -1,0 +1,464 @@
+[
+  {
+    "id": "1_1_Common_Proper",
+    "title": "1.1 Common Nouns & Proper Nouns (คำนามทั่วไป & คำนามเฉพาะ)",
+    "explanation": "Nouns (คำนาม) คือ คำที่เราใช้เรียก คน สัตว์ สิ่งของ สถานที่ และแนวคิดต่างๆ แบ่งออกเป็น 2 ประเภทหลักๆ คือ\n\n1. Common Nouns (คำนามทั่วไป): คือคำนามที่ใช้เรียกสิ่งต่างๆ แบบกว้างๆ ไม่ได้เจาะจงว่าเป็นอันไหน หรือของใคร เช่น หมา (dog), เมือง (city), รถ (car)\n\n2. Proper Nouns (คำนามเฉพาะ): คือคำนามที่ตั้งขึ้นมาเพื่อเรียกชื่อ 'เฉพาะเจาะจง' ของสิ่งใดสิ่งหนึ่ง มักจะเป็นชื่อคน ชื่อสถานที่ ชื่อแบรนด์ หรือวัน/เดือน กฎเหล็กของ Proper Noun คือ 'ต้องขึ้นต้นด้วยตัวอักษรพิมพ์ใหญ่ (Capital Letter) เสมอ!' เช่น Snoopy (ชื่อหมา), Bangkok (ชื่อเมือง), Toyota (ชื่อรถ)",
+    "examples": [
+      {
+        "eng": "city (Common Noun)",
+        "thai": "เมือง (เมืองอะไรก็ได้ ทั่วๆไป)"
+      },
+      {
+        "eng": "Tokyo (Proper Noun)",
+        "thai": "โตเกียว (ระบุชัดเจน ต้องขึ้นต้นด้วยตัวพิมพ์ใหญ่)"
+      },
+      {
+        "eng": "day (Common Noun)",
+        "thai": "วัน (วันไหนก็ได้)"
+      },
+      {
+        "eng": "Monday (Proper Noun)",
+        "thai": "วันจันทร์ (ระบุชื่อวัน)"
+      },
+      {
+        "eng": "man (Common Noun)",
+        "thai": "ผู้ชาย (ใครก็ได้)"
+      },
+      {
+        "eng": "David (Proper Noun)",
+        "thai": "เดวิด (ชื่อคน)"
+      }
+    ],
+    "common_mistakes": "1. คนไทยมักลืมเขียน 'ตัวพิมพ์ใหญ่' เมื่อเขียน Proper Nouns ไว้กลางประโยค เช่น I live in bangkok. (ผิด) ต้องเขียนว่า I live in Bangkok. (ถูก)\n2. ชื่อวันและเดือนในภาษาอังกฤษถือเป็น Proper Nouns ต้องขึ้นต้นด้วยตัวพิมพ์ใหญ่เสมอ (Monday, January)",
+    "practice_questions": [
+      {
+        "question": "Which word is a Proper Noun?",
+        "options": [
+          "A. hospital",
+          "B. teacher",
+          "C. London",
+          "D. school"
+        ],
+        "answer": "C",
+        "explanation": "London เป็นชื่อเฉพาะของเมือง จึงเป็น Proper Noun และขึ้นต้นด้วยตัวพิมพ์ใหญ่ ส่วนตัวเลือกอื่นเป็นคำนามทั่วไป"
+      },
+      {
+        "question": "Choose the correct sentence.",
+        "options": [
+          "A. i saw sarah at the mall.",
+          "B. I saw sarah at the mall.",
+          "C. I saw Sarah at the mall.",
+          "D. i saw Sarah at the mall."
+        ],
+        "answer": "C",
+        "explanation": "ประโยคต้องขึ้นต้นด้วยตัวพิมพ์ใหญ่ (I) และ Sarah เป็นชื่อคน (Proper Noun) จึงต้องขึ้นต้นด้วย S พิมพ์ใหญ่"
+      },
+      {
+        "question": "Which of the following is a Common Noun?",
+        "options": [
+          "A. Apple",
+          "B. iPhone",
+          "C. phone",
+          "D. Samsung"
+        ],
+        "answer": "C",
+        "explanation": "phone (โทรศัพท์) เป็นคำนามเรียกสิ่งของทั่วไป ส่วน Apple, iPhone, Samsung เป็นชื่อเฉพาะของแบรนด์และสินค้า"
+      },
+      {
+        "question": "I am going to visit _____ next week.",
+        "options": [
+          "A. japan",
+          "B. Japan",
+          "C. country",
+          "D. The japan"
+        ],
+        "answer": "B",
+        "explanation": "Japan เป็นชื่อประเทศ (Proper Noun) ต้องขึ้นต้นด้วยตัวพิมพ์ใหญ่เสมอ"
+      },
+      {
+        "question": "Which group contains ONLY Proper Nouns?",
+        "options": [
+          "A. boy, girl, man",
+          "B. John, Mary, David",
+          "C. dog, Snoopy, cat",
+          "D. city, Bangkok, town"
+        ],
+        "answer": "B",
+        "explanation": "John, Mary, David เป็นชื่อเฉพาะของคนทั้งหมด จึงเป็น Proper Noun ล้วน"
+      },
+      {
+        "question": "My favorite month is _____.",
+        "options": [
+          "A. december",
+          "B. December",
+          "C. month",
+          "D. year"
+        ],
+        "answer": "B",
+        "explanation": "ชื่อเดือน (December) เป็นคำนามเฉพาะ (Proper Noun) ต้องขึ้นต้นด้วยตัวพิมพ์ใหญ่"
+      },
+      {
+        "question": "Identify the Proper Noun in this sentence: 'The president of Microsoft is very smart.'",
+        "options": [
+          "A. president",
+          "B. Microsoft",
+          "C. very",
+          "D. smart"
+        ],
+        "answer": "B",
+        "explanation": "Microsoft เป็นชื่อเฉพาะของบริษัท (Proper Noun)"
+      },
+      {
+        "question": "Which pair is correctly matched?",
+        "options": [
+          "A. River - Chao Phraya",
+          "B. chao phraya - River",
+          "C. river - chao phraya",
+          "D. River - chao phraya"
+        ],
+        "answer": "A",
+        "explanation": "River เป็น Common Noun ส่วน Chao Phraya เป็นชื่อแม่น้ำเฉพาะเจาะจง (Proper Noun) ต้องขึ้นต้นด้วยพิมพ์ใหญ่"
+      },
+      {
+        "question": "I bought a new _____ yesterday.",
+        "options": [
+          "A. Car",
+          "B. car",
+          "C. Toyota",
+          "D. Both B and C are grammatically acceptable, but B fits 'a new' best as a general statement."
+        ],
+        "answer": "B",
+        "explanation": "car เป็น Common Noun ไม่ต้องพิมพ์ใหญ่กลางประโยค ส่วน Toyota สามารถใช้ได้ถ้าหมายถึงรถโตโยต้าหนึ่งคัน (a new Toyota)"
+      },
+      {
+        "question": "What is the Common Noun in this sentence: 'Anna loves eating chocolate.'",
+        "options": [
+          "A. Anna",
+          "B. loves",
+          "C. eating",
+          "D. chocolate"
+        ],
+        "answer": "D",
+        "explanation": "chocolate เป็นคำนามทั่วไป (Common Noun) เรียกของกิน ส่วน Anna เป็นชื่อคน (Proper Noun)"
+      }
+    ]
+  },
+  {
+    "id": "1_2_Countable_Uncountable",
+    "title": "1.2 Countable & Uncountable Nouns (นามนับได้ & นามนับไม่ได้)",
+    "explanation": "นามในภาษาอังกฤษแบ่งตามการนับได้ 2 ประเภทหลัก\n\n1. Countable Nouns (นามนับได้): คือสิ่งที่เราสามารถนับเป็นชิ้น เป็นอัน เป็นตัวได้ชัดเจน สามารถใส่ตัวเลขข้างหน้าได้ (one dog, two dogs) และสามารถทำเป็นรูปพหูพจน์ (เติม s/es) ได้\n\n2. Uncountable Nouns (นามนับไม่ได้): คือสิ่งที่นับเป็นชิ้นๆ ไม่ได้ มักจะเป็นของเหลว (water), ผง/เมล็ดเล็กๆ (sugar, rice), ก๊าซ (air), หรือสิ่งที่เป็นนามธรรม (love, knowledge) คำนามกลุ่มนี้ 'ห้ามเติม s เด็ดขาด' และมักใช้ในรูปเอกพจน์เสมอ\n\nข้อสังเกต: ถ้าอยากนับนามนับไม่ได้ ต้องเอาไปใส่ภาชนะก่อน เช่น 'a glass of water' (น้ำ 1 แก้ว)",
+    "examples": [
+      {
+        "eng": "apple (Countable)",
+        "thai": "แอปเปิ้ล (นับเป็นลูกได้: 1 apple, 2 apples)"
+      },
+      {
+        "eng": "water (Uncountable)",
+        "thai": "น้ำ (นับเป็นหยดไม่ได้ ห้ามพูด 2 waters)"
+      },
+      {
+        "eng": "chair (Countable)",
+        "thai": "เก้าอี้ (นับเป็นตัวได้)"
+      },
+      {
+        "eng": "furniture (Uncountable)",
+        "thai": "เฟอร์นิเจอร์ (ในภาษาอังกฤษถือว่าเป็นภาพรวม นับไม่ได้)"
+      },
+      {
+        "eng": "coin (Countable)",
+        "thai": "เหรียญ (นับเป็นเหรียญๆ ได้)"
+      },
+      {
+        "eng": "money (Uncountable)",
+        "thai": "เงิน (คำว่า money นับไม่ได้ แต่นับหน่วยบาท/ดอลลาร์ได้)"
+      }
+    ],
+    "common_mistakes": "1. คนไทยชอบคิดว่า 'เงิน' (money) นับได้ แต่ในภาษาอังกฤษถือว่านับไม่ได้ ห้ามใช้ monies\n2. คำว่า information (ข้อมูล) และ furniture (เฟอร์นิเจอร์) เป็น Uncountable เสมอ ห้ามเติม s เด็ดขาด (ห้ามเขียน informations, furnitures)",
+    "practice_questions": [
+      {
+        "question": "Which of the following is an Uncountable Noun?",
+        "options": [
+          "A. book",
+          "B. water",
+          "C. pen",
+          "D. dog"
+        ],
+        "answer": "B",
+        "explanation": "water (น้ำ) เป็นของเหลว ไม่สามารถนับเป็นชิ้นได้ จึงเป็น Uncountable Noun"
+      },
+      {
+        "question": "Choose the correct sentence.",
+        "options": [
+          "A. I have many moneys.",
+          "B. I have much moneys.",
+          "C. I have a lot of money.",
+          "D. I have many money."
+        ],
+        "answer": "C",
+        "explanation": "money นับไม่ได้ ห้ามเติม s และต้องใช้คู่กับ much หรือ a lot of (many ใช้กับนามนับได้)"
+      },
+      {
+        "question": "Which noun is Countable?",
+        "options": [
+          "A. rice",
+          "B. sugar",
+          "C. salt",
+          "D. apple"
+        ],
+        "answer": "D",
+        "explanation": "apple นับเป็นลูกๆ ได้ ส่วน rice, sugar, salt เป็นเม็ดเล็กๆ ภาษาอังกฤษถือว่านับไม่ได้"
+      },
+      {
+        "question": "I need some _____ to read.",
+        "options": [
+          "A. book",
+          "B. books",
+          "C. informations",
+          "D. knowledges"
+        ],
+        "answer": "B",
+        "explanation": "books นับได้ เติม s ได้หลัง some ส่วน information และ knowledge นับไม่ได้ ห้ามเติม s"
+      },
+      {
+        "question": "Can you give me _____ advice?",
+        "options": [
+          "A. an",
+          "B. a",
+          "C. some",
+          "D. two"
+        ],
+        "answer": "C",
+        "explanation": "advice (คำแนะนำ) เป็นนามนับไม่ได้ ห้ามใช้ a/an หรือตัวเลขนำหน้า ต้องใช้ some"
+      },
+      {
+        "question": "She bought three _____ of milk.",
+        "options": [
+          "A. milks",
+          "B. bottle",
+          "C. bottles",
+          "D. water"
+        ],
+        "answer": "C",
+        "explanation": "milk นับไม่ได้ ต้องนำไปใส่ภาชนะ (bottle) และมี 3 ขวด bottle จึงต้องเติม s เป็น bottles"
+      },
+      {
+        "question": "There is a lot of _____ on the road.",
+        "options": [
+          "A. car",
+          "B. cars",
+          "C. traffic",
+          "D. traffics"
+        ],
+        "answer": "C",
+        "explanation": "traffic (การจราจร) เป็นนามนับไม่ได้ ห้ามเติม s"
+      },
+      {
+        "question": "I want to buy some new _____ for my bedroom.",
+        "options": [
+          "A. furnitures",
+          "B. furniture",
+          "C. chair",
+          "D. table"
+        ],
+        "answer": "B",
+        "explanation": "furniture เป็นนามนับไม่ได้ ห้ามเติม s (ถ้าจะใช้ chair/table หลัง some ต้องเติม s เป็น chairs/tables)"
+      },
+      {
+        "question": "Which group contains ONLY Uncountable Nouns?",
+        "options": [
+          "A. water, milk, coffee",
+          "B. pen, pencil, eraser",
+          "C. dog, cat, bird",
+          "D. car, bus, train"
+        ],
+        "answer": "A",
+        "explanation": "water, milk, coffee เป็นของเหลวทั้งหมด นับไม่ได้"
+      },
+      {
+        "question": "How _____ time do we have left?",
+        "options": [
+          "A. many",
+          "B. much",
+          "C. a lot of",
+          "D. some"
+        ],
+        "answer": "B",
+        "explanation": "time (เวลา) เป็นนามนับไม่ได้ ต้องใช้ how much (ถ้าเป็น how many จะใช้กับนามนับได้พหูพจน์)"
+      }
+    ]
+  },
+  {
+    "id": "1_8_Summary",
+    "title": "1.8 Summary of Nouns (สรุปรวบยอดเรื่อง Nouns)",
+    "explanation": "บทนี้เป็นการสรุปความรู้ทั้งหมดเกี่ยวกับคำนาม (Nouns) ที่คุณได้เรียนมาในบทที่ 1:\n\n1. Common vs Proper: คำนามทั่วไป ไม่ต้องพิมพ์ใหญ่ (city, boy) / คำนามเฉพาะ ต้องขึ้นต้นพิมพ์ใหญ่เสมอ (Bangkok, John)\n2. Countable vs Uncountable: นับได้ เติม s ได้ มี 1 ชิ้นใช้ a/an (dogs) / นับไม่ได้ ห้ามเติม s ห้ามใช้ a/an มักเป็นของเหลว ผง นามธรรม (water, love)\n3. Singular vs Plural: เอกพจน์มี 1 (a cat) / พหูพจน์มีมากกว่า 1 เติม s/es (cats, boxes) และมีบางคำเปลี่ยนรูป (man -> men, child -> children)\n4. Collective Nouns: นามบอกหมวดหมู่ กลุ่มก้อน (team, family, police)\n5. Abstract vs Concrete: นามธรรม จับต้องไม่ได้ (happiness) / รูปธรรม จับต้องได้ (table)\n6. Compound Nouns: นามประสม เกิดจากคำ 2 คำรวมกัน (tooth + paste = toothpaste)\n7. Possessive Nouns: นามแสดงความเป็นเจ้าของ ใช้ 's (John's car)\n\nแบบฝึกหัดด้านล่างมีทั้งหมด 15 ข้อ (คัดลอกตัวอย่างเพื่อความรวดเร็ว) เพื่อทบทวนความรู้ทุกหัวข้อ!",
+    "examples": [],
+    "common_mistakes": "",
+    "practice_questions": [
+      {
+        "question": "1. Which word is a Proper Noun?",
+        "options": [
+          "A. country",
+          "B. England",
+          "C. language",
+          "D. flag"
+        ],
+        "answer": "B",
+        "explanation": "England เป็นชื่อเฉพาะของประเทศ"
+      },
+      {
+        "question": "2. Choose the uncountable noun.",
+        "options": [
+          "A. idea",
+          "B. song",
+          "C. music",
+          "D. instrument"
+        ],
+        "answer": "C",
+        "explanation": "music (ดนตรี) นับไม่ได้ ส่วนเพลง (song) นับได้"
+      },
+      {
+        "question": "3. What is the plural form of 'child'?",
+        "options": [
+          "A. childs",
+          "B. children",
+          "C. childrens",
+          "D. childes"
+        ],
+        "answer": "B",
+        "explanation": "child เปลี่ยนรูปพหูพจน์เป็น children"
+      },
+      {
+        "question": "4. Which sentence is correct?",
+        "options": [
+          "A. I need some informations.",
+          "B. She has a lot of luggages.",
+          "C. They bought new furniture.",
+          "D. He gave me an advice."
+        ],
+        "answer": "C",
+        "explanation": "furniture นับไม่ได้ ไม่เติม s (ข้อมูล information, สัมภาระ luggage, คำแนะนำ advice ก็นับไม่ได้ ห้ามเติม s หรือ a/an)"
+      },
+      {
+        "question": "5. 'A flock of birds' - What type of noun is 'flock'?",
+        "options": [
+          "A. Proper Noun",
+          "B. Collective Noun",
+          "C. Abstract Noun",
+          "D. Uncountable Noun"
+        ],
+        "answer": "B",
+        "explanation": "flock (ฝูง) เป็น Collective Noun (คำนามบอกหมวดหมู่)"
+      },
+      {
+        "question": "6. The plural of 'mouse' (animal) is ____.",
+        "options": [
+          "A. mouses",
+          "B. mice",
+          "C. mices",
+          "D. mouse"
+        ],
+        "answer": "B",
+        "explanation": "mouse เปลี่ยนรูปเป็น mice"
+      },
+      {
+        "question": "7. Identify the Abstract Noun.",
+        "options": [
+          "A. Teacher",
+          "B. Classroom",
+          "C. Education",
+          "D. Book"
+        ],
+        "answer": "C",
+        "explanation": "Education (การศึกษา) เป็นสิ่งที่เป็นนามธรรม จับต้องไม่ได้"
+      },
+      {
+        "question": "8. Which is a Compound Noun?",
+        "options": [
+          "A. Happiness",
+          "B. Bedroom",
+          "C. Beautiful",
+          "D. Quickly"
+        ],
+        "answer": "B",
+        "explanation": "Bedroom มาจาก bed + room"
+      },
+      {
+        "question": "9. This is _____ car. (แสดงความเป็นเจ้าของ)",
+        "options": [
+          "A. Peter",
+          "B. Peters",
+          "C. Peter's",
+          "D. Peters'"
+        ],
+        "answer": "C",
+        "explanation": "ใช้ 's หลังชื่อ Peter เพื่อแสดงความเป็นเจ้าของ (รถของปีเตอร์)"
+      },
+      {
+        "question": "10. The plural of 'potato' is ____.",
+        "options": [
+          "A. potatos",
+          "B. potatoes",
+          "C. potato",
+          "D. potatoies"
+        ],
+        "answer": "B",
+        "explanation": "คำนามลงท้ายด้วย o หน้า o เป็นพยัญชนะ ให้เติม es"
+      },
+      {
+        "question": "11. 'Freedom' is an example of a/an ____ noun.",
+        "options": [
+          "A. Abstract",
+          "B. Concrete",
+          "C. Proper",
+          "D. Collective"
+        ],
+        "answer": "A",
+        "explanation": "Freedom (อิสรภาพ) จับต้องไม่ได้ เป็น Abstract Noun"
+      },
+      {
+        "question": "12. How _____ sugar do you want in your coffee?",
+        "options": [
+          "A. many",
+          "B. much",
+          "C. some",
+          "D. any"
+        ],
+        "answer": "B",
+        "explanation": "sugar นับไม่ได้ ใช้ How much"
+      },
+      {
+        "question": "13. There are three _____ in the room.",
+        "options": [
+          "A. woman",
+          "B. womans",
+          "C. women",
+          "D. womens"
+        ],
+        "answer": "C",
+        "explanation": "woman เปลี่ยนรูปพหูพจน์เป็น women"
+      },
+      {
+        "question": "14. Which is correct?",
+        "options": [
+          "A. my father's car",
+          "B. my fathers car",
+          "C. my fathers's car",
+          "D. the car of my fathers"
+        ],
+        "answer": "A",
+        "explanation": "แสดงความเป็นเจ้าของของพ่อ 1 คน ใช้ father's"
+      },
+      {
+        "question": "15. I brush my _____ every morning.",
+        "options": [
+          "A. tooths",
+          "B. teethes",
+          "C. teeth",
+          "D. tooth"
+        ],
+        "answer": "C",
+        "explanation": "ฟันหลายซี่ใช้ teeth (พหูพจน์ของ tooth)"
+      }
+    ]
+  }
+]

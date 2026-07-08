@@ -52,10 +52,10 @@ export default function DocumentGallery({
       return numA - numB;
     });
     
-    // Map to Firebase Storage URLs
+    // Map to Local Storage URLs for preview with cache busting for development
     let finalImages = matchedFiles.map(f => {
       const fullPath = `${manifestKey}/${f}`;
-      return `https://firebasestorage.googleapis.com/v0/b/${BUCKET_NAME}/o/${encodeURIComponent(fullPath)}?alt=media`;
+      return `/${fullPath}?t=${Date.now()}`;
     });
     
     if (hideLastNPages && finalImages.length > hideLastNPages) {
@@ -108,8 +108,8 @@ export default function DocumentGallery({
   return (
     <div className="w-full h-full flex flex-col bg-gray-100 relative">
       {enableAnnotation && (
-        <div className="absolute top-4 left-0 w-full z-50 pointer-events-none flex justify-center">
-          <div className="pointer-events-auto">
+        <div className="absolute top-20 sm:top-24 left-0 w-full z-50 pointer-events-none flex justify-center">
+          <div className="pointer-events-auto shadow-lg rounded-full">
             <AnnotationToolbar 
               state={annotationState} 
               onChange={setAnnotationState} 
@@ -118,7 +118,7 @@ export default function DocumentGallery({
           </div>
         </div>
       )}
-      <div className="w-full flex-1 overflow-y-auto p-4 pt-24">
+      <div className="w-full flex-1 overflow-y-auto p-4 pt-40 sm:pt-48">
         <div className="flex flex-col gap-6 max-w-3xl mx-auto">
           {prependNode}
           {images.map((url, idx) => (

@@ -1,0 +1,1162 @@
+[
+  {
+    "id": "3_1",
+    "title": "3.1 Indefinite Articles (การใช้ a, an เบื้องต้น)",
+    "explanation": "Indefinite Articles คือคำนำหน้านาม (Articles) ที่ใช้กับคำนามนับได้เอกพจน์ (Singular Countable Nouns) ทั่วๆ ไป ไม่ได้เจาะจงว่าเป็นอันไหน คนไหน หรือสิ่งไหน\n\nคำว่า 'a' และ 'an' มีความหมายเหมือนกันคือ 'หนึ่ง' (one) ใช้เพื่อกล่าวถึงสิ่งใดสิ่งหนึ่งเป็นครั้งแรก\n\nหลักการใช้ง่ายๆ คือ:\n1.  **ใช้กับนามนับได้ (Countable Noun) ที่เป็นเอกพจน์ (Singular) เท่านั้น** เช่น cat, book, apple, man\n2.  **ใช้เมื่อกล่าวถึงสิ่งนั้นแบบไม่เจาะจง** เช่น \"I need a pen.\" (ฉันต้องการปากกาแท่งหนึ่ง - แท่งไหนก็ได้ ไม่ได้เจาะจง)\n\n**กฎการเลือกระหว่าง a และ an:**\nกฎข้อนี้สำคัญมากและเป็นจุดที่คนไทยพลาดบ่อยที่สุด คือเราจะ **ยึดตาม 'เสียง' พยัญชนะแรกของคำที่ตามมา ไม่ใช่ 'รูป' ตัวอักษร**\n\n*   **an** ใช้นำหน้าคำที่ขึ้นต้นด้วย **เสียงสระ** (a, e, i, o, u) หรือเสียง อ อ่าง\n*   **a** ใช้นำหน้าคำที่ขึ้นต้นด้วย **เสียงพยัญชนะ** (เสียงอื่นๆ ทั้งหมด)\n\n**ข้อควรจำ:** เราดูเสียงของ 'คำที่อยู่ติดกัน' ไม่ใช่ตัวนามเสมอไป เช่น ถ้ามี Adjective ขยายนาม ก็ให้ดูเสียงของ Adjective คำนั้น",
+    "examples": [
+      {
+        "eng": "I bought a book.",
+        "thai": "ฉันซื้อหนังสือมาเล่มหนึ่ง (เล่มไหนก็ได้ ไม่เจาะจง) - 'book' ขึ้นต้นด้วยเสียงพยัญชนะ /b/ จึงใช้ 'a'"
+      },
+      {
+        "eng": "She is eating an apple.",
+        "thai": "เธอกำลังกินแอปเปิ้ลผลหนึ่ง - 'apple' ขึ้นต้นด้วยเสียงสระ /æ/ จึงใช้ 'an'"
+      },
+      {
+        "eng": "He is a university student.",
+        "thai": "เขาเป็นนักศึกษามหาวิทยาลัย - 'university' แม้จะขึ้นต้นด้วยตัว 'u' แต่มีเสียงพยัญชนะ /j/ (เสียง 'ยู') จึงใช้ 'a'"
+      },
+      {
+        "eng": "It will take about an hour.",
+        "thai": "มันจะใช้เวลาประมาณหนึ่งชั่วโมง - 'hour' แม้จะขึ้นต้นด้วยตัว 'h' แต่ตัว h ไม่ออกเสียง คำนี้จึงขึ้นต้นด้วยเสียงสระ /aʊ/ (เสียง 'อาว') จึงใช้ 'an'"
+      },
+      {
+        "eng": "My father is an honest man.",
+        "thai": "พ่อของฉันเป็นคนซื่อสัตย์ - เราดูคำว่า 'honest' ซึ่งตัว 'h' ไม่ออกเสียง ขึ้นต้นด้วยเสียงสระ /ɒ/ (เสียง 'ออ') จึงใช้ 'an'"
+      },
+      {
+        "eng": "This is a very useful tool.",
+        "thai": "นี่เป็นเครื่องมือที่มีประโยชน์มาก - เราดูคำว่า 'very' ซึ่งขึ้นต้นด้วยเสียงพยัญชนะ /v/ จึงใช้ 'a'"
+      }
+    ],
+    "common_mistakes": "- **ยึดติดกับรูปตัวอักษร ไม่ฟังเสียง:** นี่คือข้อผิดพลาดที่พบบ่อยที่สุด คนไทยจะจำว่า a, e, i, o, u ต้องใช้ an เสมอ ซึ่งผิด ต้องยึดหลัก 'เสียง' เท่านั้น เช่น เห็นคำว่า 'university' ขึ้นต้นด้วย 'u' เลยใช้ 'an university' (ผิด) หรือเห็นคำว่า 'hour' ขึ้นต้นด้วย 'h' เลยใช้ 'a hour' (ผิด)\n- **ลืมใส่ a/an:** ในภาษาไทยเราพูดว่า \"ฉันเป็นนักเรียน\" ได้เลย แต่ในภาษาอังกฤษต้องพูดว่า \"I am a student.\" เสมอ ห้ามลืม a/an เมื่อพูดถึงนามนับได้เอกพจน์\n- **ใช้ a/an กับนามพหูพจน์:** a/an แปลว่า 'หนึ่ง' จึงใช้กับนามที่มีมากกว่าหนึ่งไม่ได้ เช่น \"I have a books.\" (ผิด) ต้องเป็น \"I have a book.\" หรือ \"I have books.\"\n- **ใช้ a/an กับนามนับไม่ได้:** คำนามที่นับไม่ได้ เช่น water, information, advice, furniture จะใช้ a/an นำหน้าไม่ได้ เช่น \"He gave me an advice.\" (ผิด) ต้องเป็น \"He gave me some advice.\"",
+    "practice_questions": [
+      {
+        "question": "My sister works as ___ teacher in a local school.",
+        "options": [
+          "A. a",
+          "B. an",
+          "C. the",
+          "D. -"
+        ],
+        "answer": "A",
+        "explanation": "คำว่า 'teacher' ขึ้นต้นด้วยเสียงพยัญชนะ /t/ (ท) และเป็นอาชีพซึ่งเป็นนามนับได้เอกพจน์ จึงต้องใช้ 'a'"
+      },
+      {
+        "question": "We are looking for ___ apartment with two bedrooms.",
+        "options": [
+          "A. a",
+          "B. an",
+          "C. some",
+          "D. -"
+        ],
+        "answer": "B",
+        "explanation": "คำว่า 'apartment' ขึ้นต้นด้วยเสียงสระ /ə/ (อะ) จึงต้องใช้ 'an'"
+      },
+      {
+        "question": "It takes me ___ hour to get to the office every morning.",
+        "options": [
+          "A. a",
+          "B. an",
+          "C. the",
+          "D. one"
+        ],
+        "answer": "B",
+        "explanation": "คำว่า 'hour' แม้จะขึ้นต้นด้วยตัว h แต่ h ไม่ออกเสียง ทำให้คำนี้ขึ้นต้นด้วยเสียงสระ /aʊ/ (อาว) จึงต้องใช้ 'an'"
+      },
+      {
+        "question": "He is studying for ___ MBA degree from a well-known university.",
+        "options": [
+          "A. a",
+          "B. an",
+          "C. the",
+          "D. -"
+        ],
+        "answer": "B",
+        "explanation": "ตัวย่อ 'MBA' เวลาออกเสียงจะขึ้นต้นว่า 'เอ็ม' (/ɛm/) ซึ่งเป็นเสียงสระ ดังนั้นจึงใช้ 'an'"
+      },
+      {
+        "question": "Thailand is ___ beautiful country in Southeast Asia.",
+        "options": [
+          "A. a",
+          "B. an",
+          "C. the",
+          "D. -"
+        ],
+        "answer": "A",
+        "explanation": "เราดูคำที่ตามหลัง article คือ 'beautiful' ซึ่งขึ้นต้นด้วยเสียงพยัญชนะ /b/ (บ) จึงใช้ 'a'"
+      },
+      {
+        "question": "I saw ___ UFO last night, but no one believes me.",
+        "options": [
+          "A. a",
+          "B. an",
+          "C. the",
+          "D. -"
+        ],
+        "answer": "A",
+        "explanation": "ตัวย่อ 'UFO' เวลาออกเสียงจะขึ้นต้นว่า 'ยู' (/juː/) ซึ่งเป็นเสียงพยัญชนะ (เสียง y) ไม่ใช่เสียงสระ ดังนั้นจึงใช้ 'a'"
+      },
+      {
+        "question": "My grandfather is ___ very honest man.",
+        "options": [
+          "A. a",
+          "B. an",
+          "C. the",
+          "D. -"
+        ],
+        "answer": "A",
+        "explanation": "แม้ว่าคำว่า 'honest' จะขึ้นต้นด้วยเสียงสระ แต่คำที่อยู่ติดกับ article คือ 'very' ซึ่งขึ้นต้นด้วยเสียงพยัญชนะ /v/ (ว) ดังนั้นเราจึงต้องใช้ 'a'"
+      },
+      {
+        "question": "Is there ___ university in this town?",
+        "options": [
+          "A. a",
+          "B. an",
+          "C. any",
+          "D. the"
+        ],
+        "answer": "A",
+        "explanation": "คำว่า 'university' แม้จะขึ้นต้นด้วยตัว u แต่การออกเสียงขึ้นต้นด้วยเสียง 'ยู' (/juː/) ซึ่งเป็นเสียงพยัญชนะ (เสียง y) จึงใช้ 'a'"
+      },
+      {
+        "question": "This is ___ one-way street; you cannot turn left here.",
+        "options": [
+          "A. a",
+          "B. an",
+          "C. the",
+          "D. -"
+        ],
+        "answer": "A",
+        "explanation": "คำว่า 'one' แม้จะขึ้นต้นด้วยตัว o แต่การออกเสียงขึ้นต้นด้วยเสียง 'วอน' (/wʌn/) ซึ่งเป็นเสียงพยัญชนะ (เสียง w) จึงใช้ 'a'"
+      },
+      {
+        "question": "You need to be ___ patient person to work with children.",
+        "options": [
+          "A. a",
+          "B. an",
+          "C. the",
+          "D. -"
+        ],
+        "answer": "A",
+        "explanation": "คำว่า 'patient' ขึ้นต้นด้วยเสียงพยัญชนะ /p/ (พ) และ 'person' เป็นนามนับได้เอกพจน์ จึงใช้ 'a'"
+      }
+    ]
+  },
+  {
+    "id": "3_2",
+    "title": "3.2 Definite Article (การใช้ the เบื้องต้น)",
+    "explanation": "Definite Article คือคำนำหน้านาม 'the' ซึ่งใช้เพื่อชี้เฉพาะเจาะจงว่าเรากำลังพูดถึงคำนามตัวไหน\nหลักการสำคัญคือ 'ผู้พูดและผู้ฟังเข้าใจตรงกันว่าหมายถึงสิ่งไหน'\n\nหลักการใช้ the เบื้องต้น:\n1.  **ชี้เฉพาะเจาะจง (Specific):** ใช้เมื่อพูดถึงสิ่งของ คน หรือสถานที่ที่ผู้พูดและผู้ฟังรู้กันอยู่แล้วว่าเป็นอันไหน\n    - เทียบกับ a/an: 'a cat' (แมวตัวไหนก็ได้), 'the cat' (แมวตัวที่เรารู้กัน)\n\n2.  **กล่าวถึงเป็นครั้งที่สอง (Second Mention):** เมื่อเราพูดถึงคำนามนั้นเป็นครั้งแรก จะใช้ a/an แต่เมื่อพูดถึงมันอีกครั้งในประโยคถัดๆ ไป จะเปลี่ยนเป็น the เพราะตอนนี้ผู้ฟังรู้แล้วว่าเราหมายถึงตัวไหน\n\n3.  **สิ่งที่มีเพียงสิ่งเดียวในโลกหรือในบริบทนั้น (Unique Things):**\n    - ในโลก/จักรวาล: the sun, the moon, the earth, the sky\n    - ในบริบทนั้นๆ: the door (ประตูบานที่อยู่ตรงหน้า), the teacher (ครูคนที่สอนเราอยู่), the CEO (CEO ของบริษัทนี้)\n\n4.  **ใช้กับขั้นสูงสุด (Superlatives) และลำดับที่ (Ordinal Numbers):**\n    - ขั้นสูงสุด: the best, the tallest, the most expensive\n    - ลำดับที่: the first, the second, the tenth, the last\n\n5.  **ใช้กับชื่อเฉพาะบางประเภท:** เช่น ชื่อแม่น้ำ, มหาสมุทร, เทือกเขา, ทะเลทราย, กลุ่มเกาะ, ประเทศที่เป็นพหูพจน์หรือมีคำว่า Kingdom/Republic\n    - the Chao Phraya River, the Pacific Ocean, the Himalayas, the United States, the United Kingdom",
+    "examples": [
+      {
+        "eng": "I saw a dog in the park. The dog was chasing a ball.",
+        "thai": "ฉันเห็นหมาตัวหนึ่งในสวนสาธารณะ หมาตัวนั้นกำลังวิ่งไล่ลูกบอล (ครั้งแรกใช้ 'a dog' เพราะยังไม่เจาะจง ครั้งที่สองใช้ 'the dog' เพราะผู้ฟังรู้แล้วว่าหมายถึงหมาตัวไหน)"
+      },
+      {
+        "eng": "Can you pass me the salt, please?",
+        "thai": "ช่วยส่งเกลือให้หน่อยได้ไหม? (ใช้ 'the' เพราะในสถานการณ์นั้น (เช่น บนโต๊ะอาหาร) มีเกลืออยู่กระปุกเดียวที่ผู้พูดและผู้ฟังเข้าใจตรงกัน)"
+      },
+      {
+        "eng": "The sun is very bright today.",
+        "thai": "วันนี้พระอาทิตย์สว่างมาก (The sun เพราะมีดวงอาทิตย์เพียงดวงเดียว)"
+      },
+      {
+        "eng": "This is the best movie I have ever seen.",
+        "thai": "นี่คือหนังที่ดีที่สุดที่ฉันเคยดูมา (ใช้ 'the' นำหน้าขั้นสูงสุด 'best')"
+      },
+      {
+        "eng": "His birthday is on the third of May.",
+        "thai": "วันเกิดของเขาคือวันที่สามของเดือนพฤษภาคม (ใช้ 'the' นำหน้าลำดับที่ 'third')"
+      }
+    ],
+    "common_mistakes": "1.  **ใช้ 'the' กับคำนามทั่วไปที่ไม่ชี้เฉพาะเจาะจง:** คนไทยมักจะติดใส่ 'the' ไปกับทุกอย่าง เช่นพูดว่า 'I like the dogs.' ซึ่งผิด ถ้าหมายถึงชอบสุนัขโดยทั่วไป ต้องพูดว่า 'I like dogs.' (ไม่ต้องมี a, an, the หรือที่เรียกว่า Zero Article)\n2.  **ลืมใช้ 'the' กับสิ่งที่ต้องใช้เสมอ:** เช่น ลืมใส่ 'the' หน้า a sun, moon, sky หรือชื่อแม่น้ำ เช่น 'I went to Chao Phraya River.' ที่ถูกต้องคือ 'I went to the Chao Phraya River.'\n3.  **สับสนระหว่างการกล่าวครั้งแรกและครั้งที่สอง:** ใช้ 'the' ตั้งแต่ครั้งแรกที่พูดถึง ทั้งที่ผู้ฟังยังไม่รู้ว่าหมายถึงอันไหน เช่น เริ่มประโยคว่า 'I saw the man.' ทั้งๆ ที่ควรเป็น 'I saw a man.' ก่อน",
+    "practice_questions": [
+      {
+        "question": "I have a cat and a dog. ___ cat is black and ___ dog is brown.",
+        "options": [
+          "A. A / A",
+          "B. The / The",
+          "C. A / The",
+          "D. The / A"
+        ],
+        "answer": "B",
+        "explanation": "เมื่อกล่าวถึงแมวและหมาเป็นครั้งที่สอง เราจะใช้ 'The' เพราะผู้ฟังรู้แล้วว่าหมายถึงแมวและหมาตัวที่เราเพิ่งพูดถึงไป"
+      },
+      {
+        "question": "Look at ___ moon! It's a full moon tonight.",
+        "options": [
+          "A. a",
+          "B. an",
+          "C. the",
+          "D. - (no article)"
+        ],
+        "answer": "C",
+        "explanation": "เราใช้ 'the' กับสิ่งที่มีเพียงสิ่งเดียวในโลกหรือในธรรมชาติ เช่น the sun, the moon, the earth"
+      },
+      {
+        "question": "This is ___ most difficult question in the test.",
+        "options": [
+          "A. a",
+          "B. an",
+          "C. the",
+          "D. some"
+        ],
+        "answer": "C",
+        "explanation": "เราใช้ 'the' นำหน้าคำคุณศัพท์ขั้นสูงสุด (Superlative) เช่น the most difficult, the biggest, the best"
+      },
+      {
+        "question": "We live on ___ fourth floor of this apartment building.",
+        "options": [
+          "A. a",
+          "B. the",
+          "C. an",
+          "D. - (no article)"
+        ],
+        "answer": "B",
+        "explanation": "เราใช้ 'the' นำหน้าลำดับที่ (Ordinal Numbers) เช่น the first, the second, the third, the fourth"
+      },
+      {
+        "question": "Could you close ___ door, please? It's cold outside.",
+        "options": [
+          "A. a",
+          "B. an",
+          "C. the",
+          "D. any"
+        ],
+        "answer": "C",
+        "explanation": "ในบริบทนี้ ผู้พูดและผู้ฟังเข้าใจตรงกันว่าหมายถึงประตูบานที่อยู่ใกล้ๆ หรือประตูของห้องนั้น จึงเป็นการชี้เฉพาะเจาะจง ต้องใช้ 'the'"
+      },
+      {
+        "question": "___ President of the United States lives in the White House.",
+        "options": [
+          "A. A",
+          "B. An",
+          "C. The",
+          "D. - (no article)"
+        ],
+        "answer": "C",
+        "explanation": "ตำแหน่งที่มีเพียงหนึ่งเดียวในองค์กรหรือประเทศนั้นๆ เช่น The President, The CEO, The Pope จะใช้ 'the' นำหน้า"
+      },
+      {
+        "question": "My father bought a new car. He will show me ___ car tomorrow.",
+        "options": [
+          "A. a",
+          "B. an",
+          "C. the",
+          "D. some"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคแรกใช้ 'a new car' เพื่อกล่าวถึงครั้งแรก แต่ประโยคที่สองเป็นการกล่าวถึง 'รถคันนั้น' เป็นครั้งที่สอง จึงต้องใช้ 'the car'"
+      },
+      {
+        "question": "What is ___ longest river in the world?",
+        "options": [
+          "A. a",
+          "B. an",
+          "C. the",
+          "D. - (no article)"
+        ],
+        "answer": "C",
+        "explanation": "คำว่า 'longest' เป็นการเปรียบเทียบขั้นสูงสุด (Superlative) ดังนั้นต้องใช้ 'the' นำหน้าเสมอ"
+      },
+      {
+        "question": "I can't find my keys. I think I left them in ___ kitchen.",
+        "options": [
+          "A. a",
+          "B. the",
+          "C. an",
+          "D. -"
+        ],
+        "answer": "B",
+        "explanation": "ผู้พูดหมายถึง 'ห้องครัว' ของบ้านตัวเอง ซึ่งเป็นที่ที่ผู้ฟังก็รู้จักและเข้าใจตรงกันว่าเป็นห้องไหน จึงเป็นการชี้เฉพาะเจาะจง ต้องใช้ 'the'"
+      },
+      {
+        "question": "She was wearing a beautiful dress. ___ dress was red.",
+        "options": [
+          "A. A",
+          "B. An",
+          "C. The",
+          "D. -"
+        ],
+        "answer": "C",
+        "explanation": "เป็นการกล่าวถึงชุดเดรสเป็นครั้งที่สอง หลังจากที่เกริ่นไปแล้วในประโยคแรกด้วย 'a beautiful dress' ดังนั้นจึงต้องใช้ 'The' เพื่อชี้เฉพาะว่าเป็นชุดตัวนั้น"
+      }
+    ]
+  },
+  {
+    "id": "3_3",
+    "title": "3.3 Zero Article (ข้อยกเว้นที่ไม่ต้องเติม Article เลย)",
+    "explanation": "Zero Article คือกรณีที่เรา 'ไม่ต้องใส่' Article (a, an, the) หน้าคำนามเลย ซึ่งเป็นเรื่องที่คนไทยมักสับสน เพราะในภาษาไทยไม่มีการใช้ Article อยู่แล้ว ทำให้หลายคนใส่ 'the' ไปก่อนเพราะคิดว่าปลอดภัยที่สุด แต่จริงๆ แล้วมีกฎเกณฑ์ชัดเจนว่าเมื่อไหร่ที่ไม่ต้องใส่ครับ\n\nเราจะไม่ใช้ Article ในกรณีต่อไปนี้:\n\n1. **คำนามนับไม่ได้ (Uncountable Nouns) และคำนามพหูพจน์ (Plural Nouns) ที่พูดถึงในความหมายกว้างๆ ทั่วไป ไม่ได้เจาะจง**\n   - ถ้าพูดถึงสิ่งนั้นแบบลอยๆ เป็นภาพรวม เราจะไม่ใส่ Article\n   - เช่น: **Water** is essential. (น้ำเป็นสิ่งจำเป็น - พูดถึงน้ำโดยทั่วไป), **Cats** are independent animals. (แมวเป็นสัตว์ที่รักอิสระ - พูดถึงแมวทุกตัวบนโลก)\n\n2. **ชื่อเฉพาะ (Proper Nouns) ส่วนใหญ่**\n   - **ชื่อคน/บริษัท:** Lisa, Tim Cook, Google, Microsoft\n   - **ชื่อทวีป, ประเทศ, รัฐ, เมือง, ถนน:** Asia, Thailand, Bangkok, Sukhumvit Road (มีข้อยกเว้นบางประเทศที่เป็นกลุ่มเกาะหรือสหพันธรัฐ เช่น the United States, the Philippines, the United Kingdom)\n   - **ชื่อภูเขาเดี่ยวๆ, ทะเลสาบ:** Mount Fuji, Lake Superior (แต่ถ้าเป็นเทือกเขาหรือกลุ่มทะเลสาบ จะใช้ the เช่น the Himalayas, the Great Lakes)\n\n3. **มื้ออาหาร (Meals)**\n   - เมื่อพูดถึงมื้ออาหารทั่วๆ ไป เช่น breakfast, lunch, dinner\n   - เช่น: I had **breakfast** at 8 AM. (ฉันทานอาหารเช้าตอน 8 โมง)\n   - *ข้อควรระวัง:* ถ้าพูดถึงมื้ออาหารมื้อนั้นแบบเจาะจง จะใช้ 'the' ได้ เช่น **The dinner** we had last night was delicious. (อาหารเย็นมื้อที่เรากินกันเมื่อคืนอร่อยมาก)\n\n4. **ภาษา (Languages) และ สัญชาติ (Nationalities)**\n   - เช่น: She speaks **Thai**. He is learning **Japanese**.\n\n5. **วิชาเรียน (Academic Subjects)**\n   - เช่น: I am good at **Mathematics**. **History** is an interesting subject.\n\n6. **กีฬาและเกม (Sports and Games)**\n   - เช่น: He plays **football** every weekend. Let's play **chess**.\n\n7. **วันในสัปดาห์, เดือน, วันหยุดเทศกาล**\n   - เช่น: I will see you on **Monday**. My birthday is in **December**. We celebrate **Songkran** in April.\n\n8. **สถานที่บางแห่ง เมื่อพูดถึงกิจกรรมหลักของสถานที่นั้น**\n   - เช่น: go to **bed** (ไปนอน), go to **school** (ไปเรียน), go to **church** (ไปสวดมนต์), be in **prison** (ติดคุก), be at **home** (อยู่ที่บ้าน)\n   - *เปรียบเทียบ:* He goes to **school**. (เขาไปโรงเรียนเพื่อเรียนหนังสือ) vs. His father went to **the school** to meet the teacher. (พ่อของเขาไปที่ 'โรงเรียนนั้น' เพื่อพบครู - ไม่ได้ไปเรียนเอง แต่ไปแบบเจาะจง)\n\n9. **คำนามที่เป็นแนวคิด/นามธรรม (Abstract Nouns)**\n   - เมื่อพูดถึงในความหมายกว้างๆ เช่น love, happiness, knowledge, freedom\n   - เช่น: **Love** is a beautiful feeling. **Knowledge** is power.",
+    "examples": [
+      {
+        "eng": "**Information** is valuable.",
+        "thai": "ข้อมูลเป็นสิ่งที่มีค่า (Information เป็นนามนับไม่ได้ พูดในความหมายทั่วไป ไม่ต้องใส่ Article)"
+      },
+      {
+        "eng": "**Dogs** are loyal.",
+        "thai": "สุนัขเป็นสัตว์ที่ซื่อสัตย์ (Dogs เป็นนามพหูพจน์ พูดถึงสุนัขโดยทั่วไป ไม่ใช่กลุ่มที่เจาะจง)"
+      },
+      {
+        "eng": "I'm going to **Japan** next year.",
+        "thai": "ฉันจะไปประเทศญี่ปุ่นปีหน้า (Japan เป็นชื่อประเทศ ไม่ต้องใส่ Article)"
+      },
+      {
+        "eng": "We usually eat **dinner** together.",
+        "thai": "พวกเรามักจะทานอาหารเย็นด้วยกัน (Dinner เป็นชื่อมื้ออาหารทั่วไป)"
+      },
+      {
+        "eng": "She is studying **biology** at university.",
+        "thai": "เธอกำลังเรียนวิชาชีววิทยาที่มหาวิทยาลัย (Biology เป็นชื่อวิชา)"
+      },
+      {
+        "eng": "The kids are at **school** now.",
+        "thai": "ตอนนี้เด็กๆ อยู่ที่โรงเรียน (หมายถึงไปเรียนตามปกติ ไม่ได้เจาะจงว่าเป็นโรงเรียนแห่งไหนเป็นพิเศษ)"
+      },
+      {
+        "eng": "My favorite sport is **tennis**.",
+        "thai": "กีฬาที่ฉันชอบคือเทนนิส (Tennis เป็นชื่อกีฬา)"
+      },
+      {
+        "eng": "**Life** is unpredictable.",
+        "thai": "ชีวิตเป็นสิ่งที่คาดเดาไม่ได้ (Life เป็นนามธรรม พูดในความหมายกว้างๆ)"
+      }
+    ],
+    "common_mistakes": "1. **ใส่ 'the' กับคำนามพหูพจน์ที่พูดแบบกว้างๆ:** คนไทยมักจะติดพูดว่า \"I like the dogs.\" ซึ่งถ้าจะหมายถึงสุนัขโดยทั่วไป ต้องพูดว่า \"I like dogs.\" การใส่ 'the' จะหมายถึงสุนัขกลุ่มนั้นที่คุณและผู้ฟังรู้จักกันดีอยู่แล้ว\n\n2. **ใส่ 'the' กับชื่อประเทศส่วนใหญ่:** เช่น พูดว่า \"I live in the Thailand.\" ที่ถูกต้องคือ \"I live in Thailand.\" จะมีเพียงไม่กี่ประเทศที่ต้องใช้ the นำหน้า เช่น the USA, the UK, the Netherlands, the Philippines.\n\n3. **ใส่ 'a' หรือ 'the' กับมื้ออาหารทั่วไป:** เช่น \"Let's have a lunch.\" หรือ \"Let's have the lunch.\" ที่ถูกต้องคือ \"Let's have lunch.\"\n\n4. **สับสนระหว่างการใช้สถานที่แบบเจาะจงกับไม่เจาะจง:** เช่น ระหว่าง \"He is in hospital.\" (เขาป่วยและนอนพักรักษาตัวอยู่ที่โรงพยาบาล) กับ \"He is in the hospital.\" (เขาอยู่ในอาคารโรงพยาบาล อาจจะไปเยี่ยมคนป่วยหรือทำธุระอื่น ไม่ได้ป่วยเอง) คนไทยมักจะใช้ 'the' ตลอด ซึ่งความหมายอาจผิดเพี้ยนไป",
+    "practice_questions": [
+      {
+        "question": "I believe that ___ honesty is the best policy.",
+        "options": [
+          "A. a",
+          "B. an",
+          "C. the",
+          "D. -- (no article)"
+        ],
+        "answer": "D",
+        "explanation": "Honesty (ความซื่อสัตย์) เป็นคำนามที่เป็นนามธรรม (Abstract Noun) เมื่อพูดถึงในความหมายทั่วไป จึงไม่ต้องใส่ Article"
+      },
+      {
+        "question": "My little sister is afraid of ___ dogs.",
+        "options": [
+          "A. a",
+          "B. an",
+          "C. the",
+          "D. -- (no article)"
+        ],
+        "answer": "D",
+        "explanation": "Dogs ในที่นี้หมายถึงสุนัขโดยทั่วไป ไม่ได้เจาะจงว่าเป็นสุนัขกลุ่มไหน จึงเป็นคำนามพหูพจน์ที่กล่าวแบบกว้างๆ ไม่ต้องใช้ Article"
+      },
+      {
+        "question": "We are having ___ pasta for ___ dinner tonight.",
+        "options": [
+          "A. a / the",
+          "B. the / the",
+          "C. -- (no article) / -- (no article)",
+          "D. a / -- (no article)"
+        ],
+        "answer": "C",
+        "explanation": "Pasta เป็นนามนับไม่ได้เมื่อพูดถึงอาหาร และ dinner เป็นมื้ออาหารที่พูดถึงทั่วไป ทั้งสองคำจึงไม่ต้องใส่ Article"
+      },
+      {
+        "question": "Can you speak ___ French?",
+        "options": [
+          "A. a",
+          "B. an",
+          "C. the",
+          "D. -- (no article)"
+        ],
+        "answer": "D",
+        "explanation": "French ในที่นี้หมายถึงภาษาฝรั่งเศส ซึ่งเป็นชื่อภาษา จึงไม่ต้องเติม Article"
+      },
+      {
+        "question": "He wants to study ___ engineering at a famous university.",
+        "options": [
+          "A. an",
+          "B. the",
+          "C. a",
+          "D. -- (no article)"
+        ],
+        "answer": "D",
+        "explanation": "Engineering (วิศวกรรมศาสตร์) เป็นชื่อสาขาวิชาเรียน (Academic Subject) จึงไม่ต้องใส่ Article"
+      },
+      {
+        "question": "The children usually go to ___ bed at 9 p.m.",
+        "options": [
+          "A. a",
+          "B. the",
+          "C. -- (no article)",
+          "D. an"
+        ],
+        "answer": "C",
+        "explanation": "สำนวน 'go to bed' หมายถึง 'ไปนอน' ซึ่งเป็นการใช้สถานที่ (เตียง) เพื่อกิจกรรมหลักของมัน จึงไม่ต้องใส่ Article"
+      },
+      {
+        "question": "My father loves playing ___ golf on weekends.",
+        "options": [
+          "A. a",
+          "B. the",
+          "C. an",
+          "D. -- (no article)"
+        ],
+        "answer": "D",
+        "explanation": "Golf เป็นชื่อกีฬา ซึ่งตามกฎแล้วไม่ต้องใส่ Article นำหน้า"
+      },
+      {
+        "question": "We are flying to ___ Italy for our holiday.",
+        "options": [
+          "A. the",
+          "B. an",
+          "C. -- (no article)",
+          "D. a"
+        ],
+        "answer": "C",
+        "explanation": "Italy เป็นชื่อประเทศส่วนใหญ่ที่ไม่ต้องมี Article นำหน้า (ยกเว้นบางประเทศที่เป็นกลุ่มรัฐหรือหมู่เกาะ)"
+      },
+      {
+        "question": "___ water is composed of hydrogen and oxygen.",
+        "options": [
+          "A. A",
+          "B. An",
+          "C. The",
+          "D. -- (no article)"
+        ],
+        "answer": "D",
+        "explanation": "Water ในประโยคนี้หมายถึงน้ำในความหมายทั่วไปทางวิทยาศาสตร์ เป็นคำนามนับไม่ได้ที่พูดแบบกว้างๆ จึงไม่ต้องใช้ Article"
+      },
+      {
+        "question": "My favorite month is ___ October because of the cool weather.",
+        "options": [
+          "A. a",
+          "B. the",
+          "C. an",
+          "D. -- (no article)"
+        ],
+        "answer": "D",
+        "explanation": "October เป็นชื่อเดือน ซึ่งเป็นชื่อเฉพาะประเภทหนึ่งที่ไม่ต้องใส่ Article นำหน้า"
+      }
+    ]
+  },
+  {
+    "id": "3_4",
+    "title": "3.4 Articles with Geography & Names (การใช้ Article กับชื่อสถานที่ ภูเขา แม่น้ำ)",
+    "explanation": "การใช้ Article (a, an, the) กับชื่อทางภูมิศาสตร์เป็นหัวข้อที่มีกฎเกณฑ์ชัดเจนและข้อยกเว้นบางอย่างที่ต้องจำ การเข้าใจกฎเหล่านี้จะช่วยให้เราใช้ภาษาอังกฤษได้อย่างถูกต้องและเป็นธรรมชาติมากขึ้นครับ\n\n**หลักการใหญ่ๆ แบ่งได้เป็น 2 กลุ่ม คือ กลุ่มที่ต้องใช้ 'the' และกลุ่มที่ไม่ต้องใช้ Article (Zero Article)**\n\n**1. กรณีที่ต้องใช้ 'the' นำหน้า**\nใช้ 'the' กับชื่อเฉพาะทางภูมิศาสตร์ที่เป็นกลุ่มก้อน เป็นพหูพจน์ หรือเป็นหนึ่งเดียวในลักษณะนั้นๆ:\n*   **ชื่อประเทศที่เป็นพหูพจน์ หรือมีคำว่า 'Republic', 'Kingdom', 'States', 'Union'**: เช่น the United States, the United Kingdom, the Netherlands, the Philippines, the Republic of Korea.\n*   **เทือกเขา (Mountain Ranges)**: ใช้กับชื่อเทือกเขาที่มีภูเขาหลายลูกเรียงกัน เช่น the Himalayas, the Alps, the Rocky Mountains.\n*   **กลุ่มเกาะ (Groups of Islands)**: เช่น the Bahamas, the Maldives, the Andaman Islands.\n*   **แม่น้ำ (Rivers)**: เช่น the Chao Phraya River, the Nile, the Amazon, the Thames.\n*   **ทะเลและมหาสมุทร (Seas and Oceans)**: เช่น the Pacific Ocean, the Atlantic Ocean, the Mediterranean Sea, the Gulf of Thailand.\n*   **ทะเลทราย (Deserts)**: เช่น the Sahara Desert, the Gobi Desert.\n*   **คลอง (Canals)**: เช่น the Suez Canal, the Panama Canal.\n*   **กลุ่มทะเลสาบ (Groups of Lakes)**: เช่น the Great Lakes.\n*   **จุดที่ระบุตำแหน่งบนโลก**: เช่น the Equator (เส้นศูนย์สูตร), the North Pole (ขั้วโลกเหนือ).\n\n**2. กรณีที่ไม่ต้องใช้ Article (Zero Article)**\nไม่ต้องใช้ Article ใดๆ กับชื่อเฉพาะที่เป็นเอกเทศ เป็นหนึ่งเดียว และไม่ใช่ชื่อกลุ่ม:\n*   **ชื่อทวีป (Continents)**: เช่น Asia, Europe, Africa, North America.\n*   **ชื่อประเทศ, รัฐ, จังหวัด, เมือง ส่วนใหญ่**: เช่น Thailand, Japan, California, Bangkok, London. (ยกเว้นกลุ่มที่กล่าวไปข้างบน)\n*   **ภูเขาหรือยอดเขา ลูกเดียว (Single Mountains or Peaks)**: เช่น Mount Everest, Doi Inthanon, Mount Fuji.\n*   **เกาะ เกาะเดียว (Single Islands)**: เช่น Phuket, Koh Samui, Sicily.\n*   **ทะเลสาบ แห่งเดียว (Single Lakes)**: เช่น Lake Superior, Lake Geneva, กว๊านพะเยา (Phayao Lake).\n*   **ถนน, จัตุรัส, สวนสาธารณะ**: เช่น Sukhumvit Road, Times Square, Lumpini Park.",
+    "examples": [
+      {
+        "eng": "He is from the United States.",
+        "thai": "เขามาจากประเทศสหรัฐอเมริกา (ใช้ 'the' เพราะชื่อประเทศมีคำว่า 'States')"
+      },
+      {
+        "eng": "We visited Thailand last year.",
+        "thai": "เราไปเที่ยวประเทศไทยเมื่อปีที่แล้ว (ไม่ต้องใช้ Article เพราะเป็นชื่อประเทศทั่วไป)"
+      },
+      {
+        "eng": "The Himalayas are the highest mountain range in the world.",
+        "thai": "เทือกเขาหิมาลัยเป็นเทือกเขาที่สูงที่สุดในโลก (ใช้ 'the' เพราะ 'Himalayas' เป็นชื่อเทือกเขา)"
+      },
+      {
+        "eng": "Mount Everest is the highest peak.",
+        "thai": "ยอดเขาเอเวอเรสต์คือยอดเขาที่สูงที่สุด (ไม่ต้องใช้ Article เพราะ 'Mount Everest' เป็นชื่อยอดเขาเดียว)"
+      },
+      {
+        "eng": "The Nile River is very long.",
+        "thai": "แม่น้ำไนล์ยาวมาก (ใช้ 'the' เพราะ 'Nile' เป็นชื่อแม่น้ำ)"
+      },
+      {
+        "eng": "They went swimming in Lake Michigan.",
+        "thai": "พวกเขาไปว่ายน้ำในทะเลสาบมิชิแกน (ไม่ต้องใช้ Article เพราะ 'Lake Michigan' เป็นชื่อทะเลสาบเดียว)"
+      },
+      {
+        "eng": "She dreams of visiting the Philippines.",
+        "thai": "เธอฝันอยากไปเที่ยวประเทศฟิลิปปินส์ (ใช้ 'the' เพราะเป็นชื่อประเทศที่เป็นพหูพจน์)"
+      }
+    ],
+    "common_mistakes": "คนไทยมักจะสับสนระหว่างการใช้ 'the' กับการไม่ใช้ Article กับชื่อสถานที่ต่างๆ ข้อผิดพลาดที่พบบ่อยที่สุดคือ:\n\n1.  **ใส่ 'the' หน้าชื่อประเทศไทย**: หลายคนติดพูดหรือเขียนว่า *'the Thailand'* ซึ่งไม่ถูกต้อง ที่ถูกต้องคือ **'Thailand'** (ไม่มี Article)\n2.  **ลืมใส่ 'the' หน้าชื่อประเทศที่เป็นพหูพจน์หรือมีคำว่า Kingdom/States**: เช่น พูดว่า *'I live in United States.'* ที่ถูกต้องคือ **'I live in the United States.'** หรือ *'She visited Philippines.'* ที่ถูกต้องคือ **'She visited the Philippines.'**\n3.  **ใช้ 'the' สลับกันระหว่างเทือกเขากับภูเขาลูกเดียว**: จำง่ายๆ คือ 'เทือกเขา' (ยาวๆ หลายลูก) ใช้ 'the' เช่น **the Himalayas** แต่ถ้า 'ภูเขาลูกเดียว' ไม่ต้องใช้ เช่น **Mount Fuji**.\n4.  **ลืมใส่ 'the' หน้าชื่อแม่น้ำและมหาสมุทร**: เช่น *'Chao Phraya River is in Bangkok.'* ที่ถูกต้องคือ **'The Chao Phraya River is in Bangkok.'**",
+    "practice_questions": [
+      {
+        "question": "My family is planning a trip to ___ United Kingdom next summer.",
+        "options": [
+          "A. a",
+          "B. an",
+          "C. the",
+          "D. -- (no article)"
+        ],
+        "answer": "C",
+        "explanation": "ต้องใช้ 'the' กับชื่อประเทศที่มีคำว่า 'Kingdom', 'States', หรือ 'Republic' ดังนั้น 'the United Kingdom' จึงถูกต้อง"
+      },
+      {
+        "question": "___ Mount Everest is the highest mountain in the world.",
+        "options": [
+          "A. A",
+          "B. An",
+          "C. The",
+          "D. -- (no article)"
+        ],
+        "answer": "D",
+        "explanation": "ไม่ต้องใช้ Article กับชื่อภูเขาหรือยอดเขาที่อยู่เดี่ยวๆ 'Mount Everest' เป็นชื่อยอดเขาเดียว จึงไม่ต้องมี Article นำหน้า"
+      },
+      {
+        "question": "We sailed across ___ Pacific Ocean to get to Hawaii.",
+        "options": [
+          "A. a",
+          "B. an",
+          "C. the",
+          "D. -- (no article)"
+        ],
+        "answer": "C",
+        "explanation": "ต้องใช้ 'the' นำหน้าชื่อมหาสมุทร ทะเล แม่น้ำ และทะเลทรายเสมอ 'the Pacific Ocean' จึงเป็นคำตอบที่ถูกต้อง"
+      },
+      {
+        "question": "She grew up in a small town near ___ Lake Superior.",
+        "options": [
+          "A. a",
+          "B. the",
+          "C. an",
+          "D. -- (no article)"
+        ],
+        "answer": "D",
+        "explanation": "ไม่ต้องใช้ Article กับชื่อทะเลสาบเดี่ยวๆ 'Lake Superior' เป็นชื่อทะเลสาบเดียวจึงไม่ต้องใช้ Article"
+      },
+      {
+        "question": "Many people visit ___ Philippines for its beautiful beaches.",
+        "options": [
+          "A. a",
+          "B. the",
+          "C. an",
+          "D. -- (no article)"
+        ],
+        "answer": "B",
+        "explanation": "ต้องใช้ 'the' กับชื่อประเทศที่เป็นพหูพจน์ (ลงท้ายด้วย -s) 'the Philippines' จึงถูกต้อง"
+      },
+      {
+        "question": "The tour guide told us a lot about ___ Sahara Desert.",
+        "options": [
+          "A. the",
+          "B. a",
+          "C. -- (no article)",
+          "D. an"
+        ],
+        "answer": "A",
+        "explanation": "ต้องใช้ 'the' นำหน้าชื่อทะเลทรายเสมอ ดังนั้น 'the Sahara Desert' จึงถูกต้อง"
+      },
+      {
+        "question": "Bangkok, the capital of ___ Thailand, is a vibrant city.",
+        "options": [
+          "A. a",
+          "B. an",
+          "C. the",
+          "D. -- (no article)"
+        ],
+        "answer": "D",
+        "explanation": "ไม่ต้องใช้ Article กับชื่อประเทศส่วนใหญ่ (ที่ไม่ใช่พหูพจน์หรือมีคำว่า Kingdom/States) ดังนั้น 'Thailand' จึงถูกต้อง"
+      },
+      {
+        "question": "Hiking in ___ Alps can be challenging but rewarding.",
+        "options": [
+          "A. a",
+          "B. the",
+          "C. -- (no article)",
+          "D. an"
+        ],
+        "answer": "B",
+        "explanation": "ต้องใช้ 'the' นำหน้าชื่อ 'เทือกเขา' (mountain range) 'the Alps' จึงเป็นคำตอบที่ถูกต้อง"
+      },
+      {
+        "question": "___ Nile River flows through several countries in Africa.",
+        "options": [
+          "A. A",
+          "B. The",
+          "C. -- (no article)",
+          "D. An"
+        ],
+        "answer": "B",
+        "explanation": "ต้องใช้ 'the' นำหน้าชื่อแม่น้ำเสมอ ดังนั้น 'The Nile River' จึงถูกต้อง"
+      },
+      {
+        "question": "He spent a month traveling through ___ South America.",
+        "options": [
+          "A. a",
+          "B. an",
+          "C. the",
+          "D. -- (no article)"
+        ],
+        "answer": "D",
+        "explanation": "ไม่ต้องใช้ Article นำหน้าชื่อทวีป 'South America' เป็นชื่อทวีป จึงไม่ต้องมี Article"
+      }
+    ]
+  },
+  {
+    "id": "3_5",
+    "title": "3.5 Summary: Articles (สรุป Articles + 50 Exercises)",
+    "explanation": "มาถึงบทสรุปของ Articles (a, an, the, และ Zero Article) กันแล้วครับ หน้านี้จะรวบรวมใจความสำคัญทั้งหมดเพื่อให้เห็นภาพรวมและทบทวนได้ง่าย\n\n**1. Indefinite Articles (a, an): คำนำหน้านามไม่ชี้เฉพาะ**\n- ใช้กับ **คำนามนับได้ เอกพจน์** (singular countable noun) เท่านั้น\n- **a**: ใช้นำหน้าคำที่ขึ้นต้นด้วย **เสียงพยัญชนะ** (consonant sound) เช่น a book, a cat, a university (u ออกเสียง 'ยู' เหมือน y), a European\n- **an**: ใช้นำหน้าคำที่ขึ้นต้นด้วย **เสียงสระ** (vowel sound: a, e, i, o, u) เช่น an apple, an egg, an hour (h ไม่ออกเสียง)\n- **หน้าที่**: ใช้กล่าวถึงสิ่งใดสิ่งหนึ่งเป็นครั้งแรก, กล่าวถึงสิ่งใดสิ่งหนึ่งแบบทั่วไปไม่เจาะจง, หรือบอกอาชีพ/ประเภท\n\n**2. Definite Article (the): คำนำหน้านามชี้เฉพาะ**\n- ใช้ได้กับ **คำนามทุกประเภท** (นับได้เอกพจน์/พหูพจน์ และ นามนับไม่ได้)\n- **หน้าที่**:\n  - กล่าวถึงสิ่งที่ **ผู้พูดและผู้ฟังเข้าใจตรงกัน** ว่าคือสิ่งไหน (เช่น พูดถึงเป็นครั้งที่ 2, มีสิ่งเดียวในบริบทนั้น)\n  - ใช้นำหน้าสิ่งที่ **มีเพียงสิ่งเดียวในโลก** หรือในธรรมชาติ เช่น the sun, the moon, the earth, the sky\n  - ใช้นำหน้า **ขั้นสูงสุด (Superlatives)** เช่น the best, the most beautiful, the tallest\n  - ใช้นำหน้าชื่อเฉพาะบางอย่าง เช่น ชื่อมหาสมุทร (the Pacific Ocean), แม่น้ำ (the Chao Phraya River), เทือกเขา (the Himalayas), กลุ่มเกาะ (the Philippines), ประเทศที่เป็นพหูพจน์หรือมีคำว่า 'Republic', 'Kingdom', 'States' (the USA, the UK)\n  - ใช้นำหน้าเครื่องดนตรี (play the piano)\n\n**3. Zero Article: การไม่ใช้ Article**\n- **หน้าที่**:\n  - ใช้นำหน้า **คำนามนับได้พหูพจน์** และ **คำนามนับไม่ได้** เมื่อกล่าวถึงแบบ **ทั่วไป** ไม่เจาะจง เช่น \"Dogs are loyal.\", \"I love music.\", \"Water is essential for life.\"\n  - ไม่ใช้กับ **ชื่อเฉพาะส่วนใหญ่** เช่น ชื่อคน (Somsak), ชื่อเมือง (Bangkok), ชื่อประเทศส่วนใหญ่ (Thailand, Japan)\n  - ไม่ใช้กับมื้ออาหาร (breakfast, lunch, dinner), วิชา (Math, English), กีฬา (play football), ภาษา (speak Thai)\n  - ไม่ใช้กับคำนามที่เป็นแนวคิด/นามธรรม (abstract nouns) ทั่วไป เช่น love, happiness, freedom",
+    "examples": [
+      {
+        "eng": "I saw a cat on the street. The cat was black.",
+        "thai": "ฉันเห็นแมวตัวหนึ่งบนถนน แมวตัวนั้นสีดำ ('a cat' กล่าวถึงครั้งแรก, 'the cat' กล่าวถึงแมวตัวเดิมที่รู้จักแล้ว)"
+      },
+      {
+        "eng": "She is an engineer.",
+        "thai": "เธอเป็นวิศวกร (บอกอาชีพ ใช้ a/an)"
+      },
+      {
+        "eng": "The sun rises in the east.",
+        "thai": "ดวงอาทิตย์ขึ้นทางทิศตะวันออก ('the sun' และ 'the east' เป็นสิ่งที่มีเพียงหนึ่งเดียว)"
+      },
+      {
+        "eng": "I like coffee, but the coffee I had this morning was too strong.",
+        "thai": "ฉันชอบกาแฟ (พูดถึงกาแฟทั่วไป ไม่ใช้ article) แต่กาแฟที่ฉันดื่มเมื่อเช้านี้มันเข้มเกินไป (เจาะจงว่าเป็นกาแฟแก้วนั้น จึงใช้ the)"
+      }
+    ],
+    "common_mistakes": "- **ลืมใส่ a/an หน้าคำนามนับได้เอกพจน์:** คนไทยมักพูดว่า \"I am student.\" ที่ถูกต้องคือ \"I am a student.\" หรือ \"She is doctor.\" ที่ถูกต้องคือ \"She is a doctor.\"\n- **ใช้ a/an ตามตัวอักษร ไม่ใช่ตามเสียง:** เช่น ใช้ 'an' university เพราะเห็นตัว 'u' แต่จริงๆ ต้องใช้ 'a' university เพราะออกเสียง 'ยู' (เสียงพยัญชนะ) หรือใช้ 'a' hour เพราะเห็น 'h' แต่ต้องใช้ 'an' hour เพราะ 'h' ไม่ออกเสียง (เสียงสระ)\n- **ใช้ the กับชื่อประเทศ/เมืองโดยไม่จำเป็น:** เช่น \"I want to go to the Japan.\" ที่ถูกต้องคือ \"I want to go to Japan.\"\n- **สับสนระหว่างการพูดทั่วไปกับการเจาะจง:** เช่น พูดว่า \"I like the dogs.\" ทั้งที่ตั้งใจจะบอกว่าชอบสุนัขโดยทั่วไป ซึ่งควรพูดว่า \"I like dogs.\" (ไม่มี article)",
+    "practice_questions": [
+      {
+        "question": "She is wearing ___ beautiful dress.",
+        "options": [
+          "A. a",
+          "B. an",
+          "C. the",
+          "D. - (no article)"
+        ],
+        "answer": "A",
+        "explanation": "dress เป็นคำนามนับได้เอกพจน์ ขึ้นต้นด้วยเสียงพยัญชนะ (b) และเป็นการกล่าวถึงแบบไม่เจาะจง จึงใช้ 'a'"
+      },
+      {
+        "question": "Can you pass me ___ salt, please?",
+        "options": [
+          "A. a",
+          "B. an",
+          "C. the",
+          "D. - (no article)"
+        ],
+        "answer": "C",
+        "explanation": "ผู้พูดและผู้ฟังเข้าใจตรงกันว่าหมายถึงเกลือขวด/กระปุกไหนที่อยู่ตรงนั้น เป็นการชี้เฉพาะเจาะจง จึงใช้ 'the'"
+      },
+      {
+        "question": "I need to buy ___ new umbrella.",
+        "options": [
+          "A. a",
+          "B. an",
+          "C. the",
+          "D. - (no article)"
+        ],
+        "answer": "B",
+        "explanation": "umbrella เป็นคำนามนับได้เอกพจน์ และขึ้นต้นด้วยเสียงสระ 'อั' (u) เป็นการกล่าวถึงร่มคันใหม่แบบไม่เจาะจง จึงใช้ 'an'"
+      },
+      {
+        "question": "___ sun is a star.",
+        "options": [
+          "A. A",
+          "B. An",
+          "C. The",
+          "D. - (no article)"
+        ],
+        "answer": "C",
+        "explanation": "The sun หมายถึงดวงอาทิตย์ ซึ่งเป็นสิ่งที่มีเพียงหนึ่งเดียวในระบบสุริยะของเรา จึงต้องใช้ 'The'"
+      },
+      {
+        "question": "My father is ___ honest man.",
+        "options": [
+          "A. a",
+          "B. an",
+          "C. the",
+          "D. - (no article)"
+        ],
+        "answer": "B",
+        "explanation": "คำว่า honest ขึ้นต้นด้วยตัว h แต่ไม่ออกเสียง ทำให้เสียงแรกเป็นเสียงสระ 'ออ' จึงต้องใช้ 'an'"
+      },
+      {
+        "question": "I love listening to ___ music.",
+        "options": [
+          "A. a",
+          "B. an",
+          "C. the",
+          "D. - (no article)"
+        ],
+        "answer": "D",
+        "explanation": "music ในที่นี้หมายถึงดนตรีโดยทั่วไป เป็นนามนับไม่ได้ที่พูดแบบกว้างๆ จึงไม่ต้องใส่ article (Zero Article)"
+      },
+      {
+        "question": "We went to ___ party last night.",
+        "options": [
+          "A. a",
+          "B. an",
+          "C. the",
+          "D. - (no article)"
+        ],
+        "answer": "A",
+        "explanation": "เป็นการกล่าวถึงงานปาร์ตี้งานหนึ่งที่ไม่เจาะจงเป็นครั้งแรก party เป็นคำนามนับได้เอกพจน์ จึงใช้ 'a'"
+      },
+      {
+        "question": "___ party we went to last night was fun.",
+        "options": [
+          "A. A",
+          "B. An",
+          "C. The",
+          "D. - (no article)"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้เจาะจงว่าหมายถึง 'ปาร์ตี้ที่เราไปมาเมื่อคืน' ซึ่งผู้ฟังเข้าใจดี จึงต้องใช้ 'The'"
+      },
+      {
+        "question": "He is from ___ small town in France.",
+        "options": [
+          "A. a",
+          "B. an",
+          "C. the",
+          "D. - (no article)"
+        ],
+        "answer": "A",
+        "explanation": "เป็นการพูดถึงเมืองเล็กๆ เมืองหนึ่งแบบไม่เจาะจง จึงใช้ 'a'"
+      },
+      {
+        "question": "What is ___ capital of Thailand?",
+        "options": [
+          "A. a",
+          "B. an",
+          "C. the",
+          "D. - (no article)"
+        ],
+        "answer": "C",
+        "explanation": "เมืองหลวงของประเทศมีเพียงแห่งเดียว เป็นการชี้เฉพาะเจาะจง จึงใช้ 'the'"
+      },
+      {
+        "question": "I have ___ appointment at 10 AM.",
+        "options": [
+          "A. a",
+          "B. an",
+          "C. the",
+          "D. - (no article)"
+        ],
+        "answer": "B",
+        "explanation": "appointment ขึ้นต้นด้วยเสียงสระ 'แอ' เป็นนามนับได้เอกพจน์ กล่าวถึงครั้งแรก จึงใช้ 'an'"
+      },
+      {
+        "question": "She wants to be ___ astronaut.",
+        "options": [
+          "A. a",
+          "B. an",
+          "C. the",
+          "D. - (no article)"
+        ],
+        "answer": "B",
+        "explanation": "การบอกอาชีพใช้ a/an และ astronaut ขึ้นต้นด้วยเสียงสระ จึงใช้ 'an'"
+      },
+      {
+        "question": "Mount Everest is ___ highest mountain in the world.",
+        "options": [
+          "A. a",
+          "B. an",
+          "C. the",
+          "D. - (no article)"
+        ],
+        "answer": "C",
+        "explanation": "highest เป็นการเปรียบเทียบขั้นสูงสุด (superlative) ต้องใช้ 'the' นำหน้าเสมอ"
+      },
+      {
+        "question": "I don't usually eat ___ breakfast.",
+        "options": [
+          "A. a",
+          "B. an",
+          "C. the",
+          "D. - (no article)"
+        ],
+        "answer": "D",
+        "explanation": "ชื่อมื้ออาหาร (breakfast, lunch, dinner) เมื่อกล่าวถึงโดยทั่วไป จะไม่ใช้ article"
+      },
+      {
+        "question": "He plays ___ guitar very well.",
+        "options": [
+          "A. a",
+          "B. an",
+          "C. the",
+          "D. - (no article)"
+        ],
+        "answer": "C",
+        "explanation": "เมื่อพูดถึงการเล่นเครื่องดนตรี เราจะใช้ 'the' นำหน้าชื่อเครื่องดนตรีนั้น"
+      },
+      {
+        "question": "Could you open ___ window, please?",
+        "options": [
+          "A. a",
+          "B. an",
+          "C. the",
+          "D. - (no article)"
+        ],
+        "answer": "C",
+        "explanation": "ในสถานการณ์นั้น ผู้พูดและผู้ฟังรู้ว่าหมายถึงหน้าต่างบานไหน เป็นการชี้เฉพาะเจาะจง จึงใช้ 'the'"
+      },
+      {
+        "question": "My cousin is studying at ___ university in Bangkok.",
+        "options": [
+          "A. a",
+          "B. an",
+          "C. the",
+          "D. - (no article)"
+        ],
+        "answer": "A",
+        "explanation": "university ขึ้นต้นด้วยเสียง 'ยู' ซึ่งเป็นเสียงพยัญชนะ (เหมือน y) จึงใช้ 'a'"
+      },
+      {
+        "question": "___ English is spoken all over the world.",
+        "options": [
+          "A. A",
+          "B. An",
+          "C. The",
+          "D. - (no article)"
+        ],
+        "answer": "D",
+        "explanation": "ชื่อภาษา (English) เมื่อกล่าวถึงตัวภาษาเอง จะไม่ใช้ article"
+      },
+      {
+        "question": "We visited ___ United States last year.",
+        "options": [
+          "A. a",
+          "B. an",
+          "C. the",
+          "D. - (no article)"
+        ],
+        "answer": "C",
+        "explanation": "ชื่อประเทศที่มีคำว่า States, Kingdom, Republic หรือเป็นพหูพจน์ ต้องใช้ 'the' นำหน้า"
+      },
+      {
+        "question": "___ water is essential for life.",
+        "options": [
+          "A. A",
+          "B. An",
+          "C. The",
+          "D. - (no article)"
+        ],
+        "answer": "D",
+        "explanation": "water ในประโยคนี้หมายถึง 'น้ำ' โดยทั่วไป เป็นนามนับไม่ได้ที่กล่าวแบบกว้างๆ จึงไม่ต้องใช้ article"
+      },
+      {
+        "question": "Can I have ___ glass of water?",
+        "options": [
+          "A. a",
+          "B. an",
+          "C. the",
+          "D. - (no article)"
+        ],
+        "answer": "A",
+        "explanation": "เป็นการขอน้ำ 1 แก้ว (a glass) ซึ่งเป็นนามนับได้เอกพจน์ กล่าวถึงแบบไม่เจาะจง จึงใช้ 'a'"
+      },
+      {
+        "question": "What ___ amazing view!",
+        "options": [
+          "A. a",
+          "B. an",
+          "C. the",
+          "D. - (no article)"
+        ],
+        "answer": "B",
+        "explanation": "ในประโยคอุทานที่ขึ้นต้นด้วย What และตามด้วยนามนับได้เอกพจน์ จะใช้ a/an ซึ่ง amazing ขึ้นต้นด้วยเสียงสระ จึงใช้ 'an'"
+      },
+      {
+        "question": "It took me ___ hour to get here.",
+        "options": [
+          "A. a",
+          "B. an",
+          "C. the",
+          "D. - (no article)"
+        ],
+        "answer": "B",
+        "explanation": "คำว่า hour ขึ้นต้นด้วย h ที่ไม่ออกเสียง ทำให้เสียงแรกเป็นเสียงสระ 'อา' จึงต้องใช้ 'an'"
+      },
+      {
+        "question": "He is ___ only person who can help us.",
+        "options": [
+          "A. a",
+          "B. an",
+          "C. the",
+          "D. - (no article)"
+        ],
+        "answer": "C",
+        "explanation": "คำว่า 'only' ในความหมายว่า 'เพียงคนเดียว/สิ่งเดียว' มักจะใช้กับ 'the' เพื่อเน้นความเฉพาะเจาะจง"
+      },
+      {
+        "question": "I need ___ advice about my career.",
+        "options": [
+          "A. a",
+          "B. an",
+          "C. the",
+          "D. - (no article)"
+        ],
+        "answer": "D",
+        "explanation": "advice (คำแนะนำ) เป็นคำนามนับไม่ได้ จึงไม่สามารถใช้ a/an ได้ และในที่นี้เป็นการพูดถึงคำแนะนำทั่วไป จึงไม่ต้องใช้ the"
+      },
+      {
+        "question": "She gave me ___ piece of advice.",
+        "options": [
+          "A. a",
+          "B. an",
+          "C. the",
+          "D. - (no article)"
+        ],
+        "answer": "A",
+        "explanation": "ถึงแม้ advice จะนับไม่ได้ แต่เราสามารถทำให้นับได้โดยใช้ 'a piece of' ซึ่ง piece เป็นนามนับได้เอกพจน์ จึงใช้ 'a'"
+      },
+      {
+        "question": "___ Earth revolves around the Sun.",
+        "options": [
+          "A. A",
+          "B. An",
+          "C. The",
+          "D. - (no article)"
+        ],
+        "answer": "C",
+        "explanation": "Earth ในความหมายว่า 'โลก' เป็นสิ่งที่มีเพียงหนึ่งเดียว จึงต้องใช้ 'The'"
+      },
+      {
+        "question": "I saw ___ eagle flying high in the sky.",
+        "options": [
+          "A. a",
+          "B. an",
+          "C. the",
+          "D. - (no article)"
+        ],
+        "answer": "B",
+        "explanation": "eagle ขึ้นต้นด้วยเสียงสระ 'อี' เป็นนามนับได้เอกพจน์ที่กล่าวถึงครั้งแรก จึงใช้ 'an'"
+      },
+      {
+        "question": "They live in ___ apartment in the city center.",
+        "options": [
+          "A. a",
+          "B. an",
+          "C. the",
+          "D. - (no article)"
+        ],
+        "answer": "B",
+        "explanation": "apartment ขึ้นต้นด้วยเสียงสระ 'แอ' เป็นนามนับได้เอกพจน์ที่ไม่เจาะจง จึงใช้ 'an'"
+      },
+      {
+        "question": "___ information on this website is not reliable.",
+        "options": [
+          "A. A",
+          "B. An",
+          "C. The",
+          "D. - (no article)"
+        ],
+        "answer": "C",
+        "explanation": "Information เป็นนามนับไม่ได้ แต่ในที่นี้ชี้เฉพาะว่าเป็น 'ข้อมูลในเว็บไซต์นี้' จึงต้องใช้ 'The'"
+      },
+      {
+        "question": "___ happiness is something everyone seeks.",
+        "options": [
+          "A. A",
+          "B. An",
+          "C. The",
+          "D. - (no article)"
+        ],
+        "answer": "D",
+        "explanation": "happiness เป็นนามธรรม (abstract noun) ที่กล่าวถึงในความหมายทั่วไป จึงไม่ต้องใช้ article"
+      },
+      {
+        "question": "I'm going to ___ cinema tonight.",
+        "options": [
+          "A. a",
+          "B. an",
+          "C. the",
+          "D. - (no article)"
+        ],
+        "answer": "C",
+        "explanation": "สำนวน 'go to the cinema/movies/theater' เป็นการใช้แบบตายตัว มักจะใช้ 'the' เสมอ"
+      },
+      {
+        "question": "She has ___ excellent command of English.",
+        "options": [
+          "A. a",
+          "B. an",
+          "C. the",
+          "D. - (no article)"
+        ],
+        "answer": "B",
+        "explanation": "excellent ขึ้นต้นด้วยเสียงสระ 'เอะ' และ 'command' ในที่นี้เป็นนามนับได้เอกพจน์ จึงใช้ 'an'"
+      },
+      {
+        "question": "He is looking for ___ job.",
+        "options": [
+          "A. a",
+          "B. an",
+          "C. the",
+          "D. - (no article)"
+        ],
+        "answer": "A",
+        "explanation": "job เป็นนามนับได้เอกพจน์ และเป็นการหางานทั่วๆ ไป ไม่ได้เจาะจงว่าเป็นงานไหน จึงใช้ 'a'"
+      },
+      {
+        "question": "We need to protect ___ environment.",
+        "options": [
+          "A. a",
+          "B. an",
+          "C. the",
+          "D. - (no article)"
+        ],
+        "answer": "C",
+        "explanation": "environment (สิ่งแวดล้อม) เป็นคำที่มักจะใช้กับ 'the' เสมอ เพราะหมายถึงสิ่งแวดล้อมของโลกที่เราอาศัยอยู่ร่วมกัน"
+      },
+      {
+        "question": "My flight departs from ___ Gate 23.",
+        "options": [
+          "A. a",
+          "B. an",
+          "C. the",
+          "D. - (no article)"
+        ],
+        "answer": "D",
+        "explanation": "เมื่อมีชื่อเฉพาะตามด้วยตัวเลข เช่น Gate 23, Platform 5, Room 101 เราจะไม่ใช้ article"
+      },
+      {
+        "question": "I study ___ history at university.",
+        "options": [
+          "A. a",
+          "B. an",
+          "C. the",
+          "D. - (no article)"
+        ],
+        "answer": "D",
+        "explanation": "ชื่อวิชา (history) โดยทั่วไปจะไม่ใช้ article"
+      },
+      {
+        "question": "___ history of Rome is fascinating.",
+        "options": [
+          "A. A",
+          "B. An",
+          "C. The",
+          "D. - (no article)"
+        ],
+        "answer": "C",
+        "explanation": "ถึงแม้ history จะเป็นชื่อวิชา แต่ในที่นี้ชี้เฉพาะว่าเป็น 'ประวัติศาสตร์ของกรุงโรม' จึงต้องใช้ 'The'"
+      },
+      {
+        "question": "He is ___ European citizen.",
+        "options": [
+          "A. a",
+          "B. an",
+          "C. the",
+          "D. - (no article)"
+        ],
+        "answer": "A",
+        "explanation": "European ขึ้นต้นด้วยตัว e แต่เสียงแรกคือเสียง 'ยู' ซึ่งเป็นเสียงพยัญชนะ (เหมือน y) จึงต้องใช้ 'a'"
+      },
+      {
+        "question": "Let's meet at ___ front of the school.",
+        "options": [
+          "A. a",
+          "B. an",
+          "C. the",
+          "D. - (no article)"
+        ],
+        "answer": "C",
+        "explanation": "สำนวน 'in front of' จะไม่ใช้ article แต่เมื่อพูดถึง 'the front of...' ที่หมายถึง 'ส่วนหน้าของ...' จะต้องใช้ the เพื่อชี้เฉพาะ"
+      },
+      {
+        "question": "There is ___ fly in my soup!",
+        "options": [
+          "A. a",
+          "B. an",
+          "C. the",
+          "D. - (no article)"
+        ],
+        "answer": "A",
+        "explanation": "เป็นการกล่าวถึงแมลงวันตัวหนึ่ง (นามนับได้เอกพจน์) เป็นครั้งแรก ไม่เจาะจง จึงใช้ 'a'"
+      },
+      {
+        "question": "We sailed across ___ Pacific Ocean.",
+        "options": [
+          "A. a",
+          "B. an",
+          "C. the",
+          "D. - (no article)"
+        ],
+        "answer": "C",
+        "explanation": "ชื่อมหาสมุทร แม่น้ำ ทะเล ต้องใช้ 'the' นำหน้าเสมอ"
+      },
+      {
+        "question": "He has ___ unique talent for painting.",
+        "options": [
+          "A. a",
+          "B. an",
+          "C. the",
+          "D. - (no article)"
+        ],
+        "answer": "A",
+        "explanation": "unique ขึ้นต้นด้วยเสียง 'ยู' ซึ่งเป็นเสียงพยัญชนะ จึงใช้ 'a'"
+      },
+      {
+        "question": "___ rich should help the poor.",
+        "options": [
+          "A. A",
+          "B. An",
+          "C. The",
+          "D. - (no article)"
+        ],
+        "answer": "C",
+        "explanation": "เราใช้ 'the' + adjective (เช่น rich, poor, old, young) เพื่อหมายถึงกลุ่มคนที่มีคุณสมบัตินั้นๆ (The rich = คนรวย)"
+      },
+      {
+        "question": "I need to go to ___ hospital to visit my friend.",
+        "options": [
+          "A. a",
+          "B. an",
+          "C. the",
+          "D. - (no article)"
+        ],
+        "answer": "C",
+        "explanation": "เมื่อไปสถานที่ (hospital, school, church) ในฐานะ 'ผู้เยี่ยมชม' ไม่ใช่เพื่อจุดประสงค์หลักของสถานที่นั้น จะใช้ 'the' เพื่อระบุว่าไปโรงพยาบาลแห่งที่เพื่อนอยู่"
+      },
+      {
+        "question": "He broke his leg and was taken to ___ hospital.",
+        "options": [
+          "A. a",
+          "B. an",
+          "C. the",
+          "D. - (no article)"
+        ],
+        "answer": "D",
+        "explanation": "เมื่อไปสถานที่ (hospital, school, prison) เพื่อจุดประสงค์หลักของสถานที่นั้น (เช่น ไปโรงพยาบาลเพราะป่วย) ในภาษาอังกฤษแบบบริติชจะไม่ใช้ article"
+      },
+      {
+        "question": "___ President gave a speech on TV.",
+        "options": [
+          "A. A",
+          "B. An",
+          "C. The",
+          "D. - (no article)"
+        ],
+        "answer": "C",
+        "explanation": "ตำแหน่งที่มีเพียงคนเดียวในองค์กรหรือประเทศนั้นๆ เช่น The President, The CEO, The Prime Minister จะใช้ 'the'"
+      },
+      {
+        "question": "This is ___ most delicious cake I have ever eaten.",
+        "options": [
+          "A. a",
+          "B. an",
+          "C. the",
+          "D. - (no article)"
+        ],
+        "answer": "C",
+        "explanation": "'most delicious' เป็นการเปรียบเทียบขั้นสูงสุด (superlative) ซึ่งต้องใช้ 'the' นำหน้าเสมอ"
+      },
+      {
+        "question": "Can you give me ___ hand with this box?",
+        "options": [
+          "A. a",
+          "B. an",
+          "C. the",
+          "D. - (no article)"
+        ],
+        "answer": "A",
+        "explanation": "'give someone a hand' เป็นสำนวนที่หมายถึง 'ช่วย' ซึ่งจะใช้ 'a' เสมอ"
+      },
+      {
+        "question": "I am on ___ diet.",
+        "options": [
+          "A. a",
+          "B. an",
+          "C. the",
+          "D. - (no article)"
+        ],
+        "answer": "A",
+        "explanation": "'on a diet' เป็นสำนวนที่หมายถึง 'กำลังลดน้ำหนัก' และใช้ 'a' เป็นส่วนหนึ่งของสำนวน"
+      }
+    ]
+  }
+]

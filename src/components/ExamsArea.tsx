@@ -140,6 +140,7 @@ export default function ExamsArea({ activeLang, onAskAI }: { activeLang: 'EN' | 
 
   // IELTS Options
   const ieltsSkills = [
+    { id: 'full', name: 'Full Mock Exams', icon: <FileText size={24} className="text-red-500" /> },
     { id: 'listening', name: 'Listening', icon: <Headphones size={24} className="text-blue-500" /> },
     { id: 'reading', name: 'Reading', icon: <BookOpen size={24} className="text-emerald-500" /> },
     { id: 'writing', name: 'Writing', icon: <PenTool size={24} className="text-amber-500" /> },
@@ -400,6 +401,42 @@ export default function ExamsArea({ activeLang, onAskAI }: { activeLang: 'EN' | 
 
   // General Skill Selection for non-HSK categories
   if (selectedSkill && selectedCategory) {
+    if (selectedCategory === 'IELTS' && selectedSkill === 'Full Mock Exams') {
+      if (!selectedExamSet) {
+        return (
+          <div className="flex flex-col h-full w-full max-w-4xl mx-auto">
+             <button onClick={handleBack} className="flex items-center gap-2 text-indigo-600 font-medium hover:text-indigo-700 transition-colors mb-6 self-start">
+               <ChevronLeft size={20} /> ย้อนกลับ
+             </button>
+             <h2 className="text-2xl font-bold text-gray-900 mb-2">IELTS Full Mock Exams</h2>
+             <p className="text-gray-500 mb-8">ข้อสอบจำลอง IELTS ฉบับเต็มพร้อมเฉลย (10 ชุด)</p>
+             <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-4">
+                {Array.from({ length: 10 }).map((_, i) => (
+                  <button key={i} onClick={() => setSelectedExamSet(`IELTS_Mock_${i + 1}`)} className="bg-white p-4 rounded-xl border border-gray-100 shadow-sm hover:border-red-300 hover:shadow-md transition-all flex flex-col items-center gap-2 group">
+                    <div className="w-12 h-12 bg-red-50 text-red-500 rounded-full flex items-center justify-center group-hover:scale-110 transition-transform">
+                       <FileText size={24} />
+                    </div>
+                    <span className="font-bold text-gray-700">Exam {i + 1}</span>
+                  </button>
+                ))}
+             </div>
+          </div>
+        )
+      } else {
+        const imgUrl = `/ielts_exams/${selectedExamSet}.jpg`;
+        return (
+          <div className="flex flex-col h-full w-full max-w-4xl mx-auto pb-10">
+            <button onClick={() => setSelectedExamSet(null)} className="flex items-center gap-2 text-indigo-600 font-medium hover:text-indigo-700 transition-colors mb-6 self-start">
+              <ChevronLeft size={20} /> ย้อนกลับไปเลือกชุดข้อสอบ
+            </button>
+            <div className="w-full bg-white shadow-xl rounded-2xl overflow-hidden p-4 min-h-screen">
+               <img src={imgUrl} alt={selectedExamSet} className="w-full h-auto block" />
+            </div>
+          </div>
+        )
+      }
+    }
+
     const availableExams = mockExams.filter(e => e.type === selectedCategory && e.skill.toLowerCase() === selectedSkill.toLowerCase());
 
     return (

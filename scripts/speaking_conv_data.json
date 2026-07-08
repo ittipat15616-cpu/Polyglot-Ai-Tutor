@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "title": "Conversation Lesson 1: At the Restaurant",
+    "situation": "You are at a restaurant and want to order food, but you have a peanut allergy. You need to communicate this to the waiter.",
+    "dialogue": [
+      {"speaker": "Waiter", "text": "Good evening! Are you ready to order?"},
+      {"speaker": "You", "text": "Yes, I am. But before I order, I need to let you know that I have a severe peanut allergy. Does the Pad Thai contain peanuts?"},
+      {"speaker": "Waiter", "text": "Yes, our traditional Pad Thai is garnished with crushed peanuts. However, we can definitely make it without them for you."},
+      {"speaker": "You", "text": "That would be great, thank you. Could you also ensure that it's cooked in a separate pan to avoid cross-contamination?"},
+      {"speaker": "Waiter", "text": "Absolutely, I will make a special note for the kitchen. Would you like anything to drink?"}
+    ],
+    "difficult_vocabulary": [
+      {"word": "Severe", "definition": "(of something bad or undesirable) very great; intense."},
+      {"word": "Garnished", "definition": "Decorated or embellished (especially food)."},
+      {"word": "Cross-contamination", "definition": "The process by which bacteria or other microorganisms are unintentionally transferred from one substance or object to another, with harmful effect."}
+    ]
+  }
+]

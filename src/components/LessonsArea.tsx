@@ -4,6 +4,8 @@ import {
 } from 'lucide-react';
 import { getVocabData } from '../data/mockContent';
 import voaLessons from '../data/voa_lessons.json';
+import AnnotatableImage from './AnnotatableImage';
+import AnnotationToolbar, { AnnotationState } from './AnnotationToolbar';
 
 interface NavNode {
   id: string;
@@ -34,6 +36,8 @@ export default function LessonsArea({ activeLang, onAskAI }: { activeLang: 'EN' 
   const langKey = langNode ? langNode.id : activeLang; // fallback to activeLang
 
   const [isPlayingAI, setIsPlayingAI] = useState(false);
+  const [annotationState, setAnnotationState] = useState<AnnotationState>({ activeTool: 'none', color: '#ef4444', size: 4 });
+  const [clearTrigger, setClearTrigger] = useState(0);
 
   const playAudio = useCallback(async (text: string, forceLang?: string) => {
     if (!text) return;
@@ -336,193 +340,87 @@ export default function LessonsArea({ activeLang, onAskAI }: { activeLang: 'EN' 
   };
 
   const renderVOAArticleList = () => {
+    const levelStr = current.data?.level || 'Intermediate';
+    const levelKey = levelStr === 'Advanced' ? 'advanced' : 'intermediate';
+    const articles = (voaLessons as any)[levelKey]?.articles || [];
+
     return (
       <div className="animate-in fade-in duration-300">
-        <h2 className="text-2xl font-bold mb-2">บทความข่าว (VOA News)</h2>
-        <p className="text-gray-500 mb-8">เลือกบทความที่สนใจเพื่อฝึกทักษะการอ่านและการฟังไปพร้อมๆ กัน</p>
-        <div className="flex flex-col gap-4">
-          {voaLessons.map((article: any, index: number) => (
-            <button 
-              key={index}
-              onClick={() => push({ id: 'voa_article_detail', title: 'News Reader', data: { article } })}
-              className="bg-white p-6 rounded-2xl border border-gray-100 shadow-sm hover:border-blue-300 hover:shadow-md transition-all text-left flex flex-col md:flex-row gap-6 md:items-center group"
-            >
-              <div className="w-16 h-16 bg-blue-50 text-blue-600 rounded-2xl flex items-center justify-center shrink-0 text-3xl group-hover:scale-110 transition-transform">
-                📰
-              </div>
-              <div className="flex-1">
-                <h3 className="text-xl font-bold text-gray-900 group-hover:text-blue-600 transition-colors mb-2">{article.title}</h3>
-                <p className="text-gray-500 line-clamp-2">{article.paragraphs[0]}</p>
-                <div className="mt-3 flex flex-wrap gap-2">
-                   {article.audioUrl && <span className="bg-indigo-50 text-indigo-700 text-xs px-2 py-1 rounded-md font-medium">🔊 มีไฟล์เสียง (Audio)</span>}
-                   {article.vocabList?.length > 0 && <span className="bg-purple-50 text-purple-700 text-xs px-2 py-1 rounded-md font-medium">📚 เรียนศัพท์จากข่าว</span>}
+        <h2 className="text-2xl font-bold mb-2">บทความข่าว (VOA News) - {levelStr}</h2>
+        <p className="text-gray-500 mb-8">เลือกบทความที่สนใจเพื่อฝึกทักษะการอ่านและการฟังไปพร้อมๆ กัน (รูปแบบ PDF)</p>
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+          {articles.map((article: any, index: number) => {
+            const lessonNum = index + 1;
+            const imgUrl = `/voa/${levelKey}/Lesson${lessonNum}.jpg`;
+
+            return (
+              <button 
+                key={index}
+                onClick={() => push({ id: 'voa_article_detail', title: `Lesson ${lessonNum}`, data: { article, imgUrl, lessonNum, levelKey } })}
+                className="bg-white p-5 rounded-xl border border-gray-100 shadow-sm hover:-translate-y-1 hover:border-blue-300 hover:shadow-md transition-all flex flex-col items-start justify-between group gap-3"
+              >
+                <div className="flex items-center gap-4 w-full">
+                  <div className="w-12 h-12 rounded-xl bg-blue-50 text-blue-600 font-bold flex items-center justify-center shrink-0 text-xl border border-blue-100">
+                    {lessonNum}
+                  </div>
+                  <div className="text-left flex-1 min-w-0">
+                    <h4 className="font-bold text-gray-900 group-hover:text-blue-600 transition-colors truncate w-full pr-2" title={article.title}>{article.title}</h4>
+                    <p className="text-sm text-gray-500 mt-0.5">รวมคำศัพท์และควิซท้ายบท</p>
+                  </div>
                 </div>
-              </div>
-              <ArrowRight className="text-gray-300 group-hover:text-blue-500 group-hover:translate-x-1 transition-all hidden md:block shrink-0" />
-            </button>
-          ))}
+              </button>
+            );
+          })}
         </div>
       </div>
     );
-  };
-
-  const [voaSelectedAnswers, setVoaSelectedAnswers] = useState<Record<string, number>>({});
-  const [voaShowExplanation, setVoaShowExplanation] = useState<Record<string, boolean>>({});
-
-  const handleVoaSelectOption = (qIndex: number, optionIndex: number) => {
-    if (voaSelectedAnswers[qIndex] !== undefined) return;
-    setVoaSelectedAnswers(prev => ({ ...prev, [qIndex]: optionIndex }));
-    setVoaShowExplanation(prev => ({ ...prev, [qIndex]: true }));
   };
 
   const renderVOAArticleDetail = () => {
-    const article = current.data?.article;
+    const { article, imgUrl, lessonNum, levelKey } = current.data || {};
     if (!article) return null;
 
-    // Reset state if we switch articles? (For simplicity, we assume state resets when component unmounts, but since it's same component, it might not. We can use a key or just handle it if it becomes an issue)
-
     return (
-      <div className="animate-in fade-in duration-300">
-        <div className="flex flex-col lg:flex-row gap-6 h-[850px]">
-          
-          {/* Left Panel: Article & Vocab */}
-          <div className="w-full lg:w-1/2 bg-white rounded-3xl shadow-sm border border-gray-100 flex flex-col h-full overflow-hidden">
-            <div className="flex-1 overflow-y-auto custom-scrollbar">
-              <div className="p-8 md:p-10 border-b border-gray-100 bg-gradient-to-b from-blue-50/50 to-white">
-                <h1 className="text-3xl font-bold text-gray-900 leading-tight mb-6">{article.title}</h1>
-                
-                {article.audioUrl && (
-                  <div className="bg-white p-4 rounded-2xl border border-gray-200 shadow-sm flex items-center gap-4">
-                     <div className="w-10 h-10 bg-blue-100 text-blue-600 rounded-full flex items-center justify-center shrink-0">
-                        <Volume2 size={20} />
-                     </div>
-                     <div className="flex-1">
-                        <p className="text-sm font-bold text-gray-800 mb-1">ฝึกฟังเสียงอ่านข่าว (Listen)</p>
-                        <audio controls src={article.audioUrl} className="w-full h-10 outline-none" />
-                     </div>
-                  </div>
-                )}
-              </div>
+      <div className="animate-in fade-in duration-300 h-full flex flex-col">
+        <div className="flex items-center justify-between mb-6">
+          <button 
+            onClick={pop}
+            className="flex items-center gap-2 text-indigo-600 font-medium hover:text-indigo-700 transition-colors"
+          >
+            <ChevronLeft size={20} /> กลับไปหน้าเลือกบทความ
+          </button>
+          <h2 className="text-xl font-bold text-gray-900">{article.title}</h2>
+        </div>
 
-              <div className="p-8 md:p-10">
-                <div className="prose prose-lg prose-indigo max-w-none text-gray-700 leading-relaxed space-y-6">
-                  {article.paragraphs.map((p: string, idx: number) => (
-                    <p key={idx}>{p}</p>
-                  ))}
-                </div>
-              </div>
+        {article.audioUrl && (
+          <div className="bg-white p-4 rounded-2xl border border-gray-200 shadow-sm flex items-center gap-4 mb-6">
+             <div className="w-10 h-10 bg-blue-100 text-blue-600 rounded-full flex items-center justify-center shrink-0">
+                <Volume2 size={20} />
+             </div>
+             <div className="flex-1">
+                <p className="text-sm font-bold text-gray-800 mb-1">ฝึกฟังเสียงอ่านข่าว (Listen)</p>
+                <audio controls src={article.audioUrl} className="w-full h-10 outline-none" />
+             </div>
+          </div>
+        )}
 
-              {article.vocabList && article.vocabList.length > 0 && (
-                <div className="p-8 md:p-10 border-t border-gray-100 bg-gray-50/50">
-                  <h3 className="text-2xl font-bold text-gray-900 mb-6 flex items-center gap-2">
-                    <span className="text-purple-600">📚</span> Words in This Story
-                  </h3>
-                  <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-                    {article.vocabList.map((v: string, idx: number) => {
-                       const parts = v.split(/[-–]/);
-                       const word = parts[0]?.trim();
-                       const meaning = parts.slice(1).join('-').trim();
-                       return (
-                         <div key={idx} className="bg-white p-5 rounded-2xl border border-gray-200 shadow-sm hover:border-purple-300 transition-colors">
-                            <div className="font-bold text-gray-900 text-lg mb-1">{word || v}</div>
-                            {meaning && <div className="text-gray-600 text-sm">{meaning}</div>}
-                         </div>
-                       );
-                    })}
-                  </div>
-                </div>
-              )}
+        {/* Full width Annotatable Image Viewer */}
+        <div className="flex-1 w-full bg-gray-100 rounded-3xl overflow-hidden relative border border-gray-200 shadow-sm" style={{ minHeight: '800px' }}>
+          <div className="absolute top-4 left-0 w-full z-50 pointer-events-none flex justify-center">
+            <div className="pointer-events-auto bg-white/90 backdrop-blur shadow-md rounded-xl">
+              <AnnotationToolbar state={annotationState} onChange={setAnnotationState} onClear={() => setClearTrigger(c => c+1)} />
             </div>
           </div>
-
-          {/* Right Panel: Quiz */}
-          <div className="w-full lg:w-1/2 bg-gray-50 rounded-3xl border border-gray-200 p-6 flex flex-col h-full">
-            <div className="flex items-center gap-2 mb-4 pb-4 border-b border-gray-200">
-              <Bot size={22} className="text-emerald-500" />
-              <h3 className="text-xl font-bold text-gray-800">Reading Comprehension Quiz</h3>
-            </div>
-            
-            <div className="flex-1 overflow-y-auto pr-4 custom-scrollbar space-y-6">
-              {article.quiz && article.quiz.length > 0 ? (
-                article.quiz.map((q: any, qIndex: number) => {
-                  const isAnswered = voaSelectedAnswers[qIndex] !== undefined;
-                  const selectedIdx = voaSelectedAnswers[qIndex];
-                  const isCorrect = selectedIdx === q.answer;
-
-                  return (
-                    <div key={qIndex} className="bg-white p-5 rounded-xl border border-gray-100 shadow-sm">
-                      <h4 className="text-gray-900 font-medium mb-4 text-lg">
-                        <span className="text-indigo-600 font-bold mr-2">{qIndex + 1}.</span>
-                        {q.question}
-                      </h4>
-                      <div className="space-y-3">
-                        {q.options.map((opt: string, optIndex: number) => {
-                          let btnClass = "w-full text-left px-4 py-3 rounded-lg border transition-all ";
-                          
-                          if (!isAnswered) {
-                            btnClass += "border-gray-200 hover:border-indigo-400 hover:bg-indigo-50 text-gray-700";
-                          } else {
-                            if (optIndex === q.answer) {
-                              btnClass += "border-green-500 bg-green-50 text-green-800 font-medium";
-                            } else if (optIndex === selectedIdx && !isCorrect) {
-                              btnClass += "border-red-500 bg-red-50 text-red-800";
-                            } else {
-                              btnClass += "border-gray-200 opacity-50 text-gray-500 cursor-not-allowed";
-                            }
-                          }
-
-                          return (
-                            <button
-                              key={optIndex}
-                              onClick={() => handleVoaSelectOption(qIndex, optIndex)}
-                              disabled={isAnswered}
-                              className={btnClass}
-                            >
-                              <div className="flex items-center justify-between">
-                                <span>{opt}</span>
-                              </div>
-                            </button>
-                          );
-                        })}
-                      </div>
-
-                      {voaShowExplanation[qIndex] && (
-                        <div className={`mt-4 p-4 rounded-lg text-sm ${isCorrect ? 'bg-green-50 border border-green-100' : 'bg-orange-50 border border-orange-100'}`}>
-                          <div className="flex items-start gap-2">
-                            <Bot size={18} className={isCorrect ? "text-green-600 mt-0.5" : "text-orange-600 mt-0.5"} />
-                            <div>
-                              <p className={`font-bold mb-1 ${isCorrect ? 'text-green-800' : 'text-orange-800'}`}>
-                                {isCorrect ? 'Correct! 🎉' : 'Incorrect'}
-                              </p>
-                              <p className="text-gray-700 leading-relaxed">{q.explanation}</p>
-                              
-                              {onAskAI && (
-                                <button 
-                                  onClick={() => onAskAI(`ฉันสงสัยข้อนี้ในข่าว VOA: "${q.question}" ทำไมคำตอบที่ถูกคือ "${q.options[q.answer]}" ช่วยอธิบายเพิ่มเติมให้หน่อยได้ไหม?`)}
-                                  className="mt-3 text-indigo-600 hover:text-indigo-800 font-medium text-xs flex items-center gap-1 underline"
-                                >
-                                  ถาม AI Tutor เพิ่มเติม
-                                </button>
-                              )}
-                            </div>
-                          </div>
-                        </div>
-                      )}
-                    </div>
-                  );
-                })
-              ) : (
-                <div className="flex flex-col items-center justify-center h-full text-gray-500">
-                  <div className="text-4xl mb-4">🤖</div>
-                  <p>กำลังประมวลผลข้อสอบสำหรับบทความนี้...</p>
-                </div>
-              )}
-            </div>
+          <div className="w-full h-full overflow-y-auto p-4 pt-20 custom-scrollbar">
+             <div className="max-w-4xl w-full mx-auto bg-white shadow-lg rounded-xl overflow-hidden">
+               <AnnotatableImage src={imgUrl} alt={`Lesson ${lessonNum}`} annotationState={annotationState} clearTrigger={clearTrigger} isActive={true} className="w-full h-auto block" />
+             </div>
           </div>
         </div>
       </div>
     );
   };
+
 
   return (
     <div className="w-full h-full relative">

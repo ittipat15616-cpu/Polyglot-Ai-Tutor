@@ -1,0 +1,1570 @@
+[
+  {
+    "id": "1_1",
+    "title": "1.1 Common Nouns & Proper Nouns (คำนามทั่วไปและคำนามเฉพาะ)",
+    "explanation": "Nouns (คำนาม) คือคำที่ใช้เรียกชื่อ คน สัตว์ สิ่งของ สถานที่ และแนวคิดที่เป็นนามธรรม โดยแบ่งออกเป็น 2 ประเภทหลักๆ ที่เราต้องรู้จักในเบื้องต้นคือ:\n\n1.  **Common Nouns (คำนามทั่วไป หรือ สามานยนาม)**\n    *   คือคำนามที่ใช้เรียกชื่อคน สัตว์ สิ่งของ หรือสถานที่แบบ 'ทั่วไป' ไม่ได้เจาะจงว่าเป็นอันไหน คนไหน หรือที่ไหน\n    *   **กฎสำคัญ:** จะไม่ขึ้นต้นด้วยตัวพิมพ์ใหญ่ (Capital Letter) ยกเว้นจะอยู่ต้นประโยค\n    *   ตัวอย่าง: boy (เด็กผู้ชาย), city (เมือง), country (ประเทศ), dog (สุนัข), book (หนังสือ), river (แม่น้ำ), teacher (ครู)\n\n2.  **Proper Nouns (คำนามเฉพาะ หรือ วิสามานยนาม)**\n    *   คือคำนามที่ใช้เรียกชื่อ 'เฉพาะ' ของคน สัตว์ สิ่งของ หรือสถานที่นั้นๆ ทำให้เรารู้ทันทีว่าหมายถึงใคร อันไหน หรือที่ไหน\n    *   **กฎสำคัญ:** จะต้องขึ้นต้นด้วยตัวพิมพ์ใหญ่ (Capital Letter) เสมอ! ไม่ว่าจะอยู่ส่วนไหนของประโยคก็ตาม\n    *   ตัวอย่าง: John (ชื่อคน), Bangkok (ชื่อเมือง), Thailand (ชื่อประเทศ), Fido (ชื่อสุนัข), Harry Potter (ชื่อหนังสือ), Chao Phraya River (ชื่อแม่น้ำ), Mr. Smith (ชื่อครู)",
+    "examples": [
+      {
+        "eng": "A **boy** lives in a **city**.",
+        "thai": "เด็กผู้ชายคนหนึ่งอาศัยอยู่ในเมืองแห่งหนึ่ง (boy และ city เป็น Common Nouns เพราะไม่ได้บอกว่าเด็กชายคนไหน หรือเมืองอะไร)"
+      },
+      {
+        "eng": "**Somchai** lives in **Bangkok**.",
+        "thai": "สมชายอาศัยอยู่ในกรุงเทพฯ (Somchai และ Bangkok เป็น Proper Nouns เพราะเป็นชื่อเฉพาะของคนและเมือง ต้องขึ้นต้นด้วยตัวพิมพ์ใหญ่เสมอ)"
+      },
+      {
+        "eng": "My favorite **day** of the **week** is **Friday**.",
+        "thai": "วันที่ฉันชอบที่สุดในสัปดาห์คือวันศุกร์ (day และ week เป็นคำนามทั่วไป แต่ Friday เป็นชื่อเฉพาะของวันจึงเป็น Proper Noun)"
+      },
+      {
+        "eng": "I bought a new **phone** from **Apple**.",
+        "thai": "ฉันซื้อโทรศัพท์เครื่องใหม่จาก Apple (phone เป็นคำนามทั่วไป แต่ Apple เป็นชื่อแบรนด์เฉพาะ จึงเป็น Proper Noun)"
+      },
+      {
+        "eng": "The **Pacific Ocean** is very large.",
+        "thai": "มหาสมุทรแปซิฟิกใหญ่มาก (Ocean เฉยๆ เป็นคำนามทั่วไป แต่เมื่อเป็นชื่อเฉพาะ Pacific Ocean จะกลายเป็น Proper Noun และต้องเขียนตัวใหญ่ทั้งสองคำ)"
+      }
+    ],
+    "common_mistakes": "1.  **ไม่ใช้ตัวพิมพ์ใหญ่กับ Proper Nouns:** นี่คือข้อผิดพลาดที่พบบ่อยที่สุด เพราะในภาษาไทยไม่มีการใช้ตัวพิมพ์ใหญ่ คนไทยจึงมักลืมเขียนชื่อคน (Somsak), ชื่อเมือง/ประเทศ (Bangkok, Japan), วัน/เดือน (Monday, January), หรือชื่อแบรนด์ (Toyota) ด้วยตัวพิมพ์ใหญ่\n    *   ผิด: I live in bangkok.\n    *   ถูก: I live in Bangkok.\n\n2.  **ใช้ตัวพิมพ์ใหญ่กับ Common Nouns โดยไม่จำเป็น:** บางครั้งผู้เรียนอาจสับสนและเผลอใช้ตัวพิมพ์ใหญ่กับคำนามทั่วไปกลางประโยค ซึ่งผิดหลักไวยากรณ์\n    *   ผิด: I have a new Computer.\n    *   ถูก: I have a new computer.\n\n3.  **สับสนกับชื่อเฉพาะที่มีคำนามทั่วไปประกอบ:** เช่น Chao Phraya River, Mount Everest คำว่า River หรือ Mount เป็นคำนามทั่วไป แต่เมื่อมันกลายเป็นส่วนหนึ่งของ 'ชื่อเฉพาะ' มันจะต้องเขียนด้วยตัวพิมพ์ใหญ่ด้วย\n    *   ผิด: I want to visit mount Fuji.\n    *   ถูก: I want to visit Mount Fuji.",
+    "practice_questions": [
+      {
+        "question": "Which word in the following sentence is a proper noun?\n'The girl gave a book to David.'",
+        "options": [
+          "A. girl",
+          "B. book",
+          "C. David",
+          "D. gave"
+        ],
+        "answer": "C",
+        "explanation": "David เป็นชื่อเฉพาะของคน จึงเป็น Proper Noun (คำนามเฉพาะ) และต้องขึ้นต้นด้วยตัวพิมพ์ใหญ่เสมอ ส่วน girl และ book เป็น Common Nouns (คำนามทั่วไป)"
+      },
+      {
+        "question": "Which of the following is a COMMON noun?",
+        "options": [
+          "A. London",
+          "B. January",
+          "C. Honda",
+          "D. car"
+        ],
+        "answer": "D",
+        "explanation": "car (รถยนต์) เป็นคำนามทั่วไป เพราะไม่ได้ระบุว่าเป็นรถคันไหน ยี่ห้ออะไร ส่วน London (ชื่อเมือง), January (ชื่อเดือน), และ Honda (ชื่อแบรนด์) เป็น Proper Nouns ทั้งหมด"
+      },
+      {
+        "question": "Choose the correctly written sentence.",
+        "options": [
+          "A. We will fly to korea in may.",
+          "B. We will fly to Korea in may.",
+          "C. We will fly to korea in May.",
+          "D. We will fly to Korea in May."
+        ],
+        "answer": "D",
+        "explanation": "Korea (ชื่อประเทศ) และ May (ชื่อเดือน) เป็น Proper Nouns ดังนั้นทั้งสองคำจึงต้องขึ้นต้นด้วยตัวพิมพ์ใหญ่เสมอ"
+      },
+      {
+        "question": "In the sentence 'My cat, named Mimi, sleeps on the sofa.', which word is a proper noun?",
+        "options": [
+          "A. cat",
+          "B. Mimi",
+          "C. sofa",
+          "D. sleeps"
+        ],
+        "answer": "B",
+        "explanation": "Mimi เป็นชื่อที่ตั้งขึ้นมาเฉพาะสำหรับแมวตัวนี้ จึงเป็น Proper Noun ในขณะที่ cat และ sofa เป็น Common Nouns"
+      },
+      {
+        "question": "Which word in this sentence should be capitalized?\n'My favorite movie is titanic.'",
+        "options": [
+          "A. movie",
+          "B. favorite",
+          "C. titanic",
+          "D. No words need to be capitalized."
+        ],
+        "answer": "C",
+        "explanation": "Titanic เป็นชื่อเฉพาะของภาพยนตร์ จึงเป็น Proper Noun และต้องขึ้นต้นด้วยตัวพิมพ์ใหญ่เสมอ (Titanic)"
+      },
+      {
+        "question": "Identify the common noun in the sentence: 'Lisa visited the Eiffel Tower in Paris.'",
+        "options": [
+          "A. Lisa",
+          "B. Eiffel Tower",
+          "C. Paris",
+          "D. None of the above"
+        ],
+        "answer": "D",
+        "explanation": "ในประโยคนี้ Lisa (ชื่อคน), Eiffel Tower (ชื่อสถานที่เฉพาะ), และ Paris (ชื่อเมือง) ล้วนเป็น Proper Nouns ทั้งหมด จึงไม่มี Common Noun ที่เป็นตัวเลือก"
+      },
+      {
+        "question": "Which sentence is grammatically correct?",
+        "options": [
+          "A. My favorite Teacher is mr. brown.",
+          "B. My favorite teacher is Mr. Brown.",
+          "C. My favorite Teacher is Mr. Brown.",
+          "D. My favorite teacher is mr. brown."
+        ],
+        "answer": "B",
+        "explanation": "teacher เป็น Common noun จึงไม่ต้องใช้ตัวพิมพ์ใหญ่ (ยกเว้นขึ้นต้นประโยค) ส่วน Mr. Brown เป็นชื่อเฉพาะของคน จึงต้องใช้ตัวพิมพ์ใหญ่เสมอ"
+      },
+      {
+        "question": "What type of noun is the word 'country'?",
+        "options": [
+          "A. Proper Noun",
+          "B. Common Noun",
+          "C. Both",
+          "D. Neither"
+        ],
+        "answer": "B",
+        "explanation": "country (ประเทศ) เป็น Common Noun เพราะเป็นคำเรียกทั่วไป แต่ถ้าเป็นชื่อประเทศ เช่น Thailand หรือ Japan จะเป็น Proper Noun"
+      },
+      {
+        "question": "How should the underlined part of the sentence be corrected?\n'We crossed the chao phraya river.'",
+        "options": [
+          "A. Chao phraya river",
+          "B. chao Phraya River",
+          "C. Chao Phraya River",
+          "D. It is already correct."
+        ],
+        "answer": "C",
+        "explanation": "Chao Phraya River เป็นชื่อเฉพาะของแม่น้ำ ดังนั้นทุกส่วนของชื่อ (Chao, Phraya, River) จะต้องขึ้นต้นด้วยตัวพิมพ์ใหญ่"
+      },
+      {
+        "question": "Which of these is NOT a proper noun?",
+        "options": [
+          "A. English",
+          "B. Monday",
+          "C. Ocean",
+          "D. Amazon"
+        ],
+        "answer": "C",
+        "explanation": "Ocean (มหาสมุทร) เป็นคำนามทั่วไป แต่ถ้าเป็นชื่อเฉพาะ เช่น Pacific Ocean จะกลายเป็น Proper Noun ส่วน English (ชื่อภาษา), Monday (ชื่อวัน), และ Amazon (ชื่อบริษัท/แม่น้ำ) เป็น Proper Nouns"
+      }
+    ]
+  },
+  {
+    "id": "1_2",
+    "title": "1.2 Countable & Uncountable Nouns (นามนับได้และนับไม่ได้)",
+    "explanation": "ในภาษาอังกฤษ คำนาม (Nouns) แบ่งออกเป็น 2 ประเภทหลักๆ ตามการนับ คือ นามนับได้ (Countable Nouns) และ นามนับไม่ได้ (Uncountable Nouns) ซึ่งการแบ่งประเภทนี้สำคัญมาก เพราะมีผลต่อการใช้ไวยากรณ์อื่นๆ เช่น การใช้ a/an, a few/a little, many/much และการทำเป็นรูปพหูพจน์\n\n**1. Countable Nouns (นามนับได้)**\nคือคำนามที่เราสามารถนับจำนวนเป็นชิ้น เป็นอัน เป็นตัว ได้อย่างชัดเจน\n*   **มีรูปเอกพจน์ (Singular)** และ **พหูพจน์ (Plural)**\n*   **รูปเอกพจน์:** มักจะใช้กับ a/an หรือ a number 'one'. เช่น a book, an apple, one student.\n*   **รูปพหูพจน์:** มักจะลงท้ายด้วย -s หรือ -es หรือเปลี่ยนรูปไปเลย เช่น books, boxes, children. สามารถใช้กับตัวเลขที่มากกว่า 1 (two cats, five chairs) หรือคำบอกปริมาณ เช่น many, a few, several.\n\n**2. Uncountable Nouns (นามนับไม่ได้)**\nคือคำนามที่เราไม่สามารถนับจำนวนเป็นชิ้นๆ ได้โดยตรง มักจะเป็นแนวคิด (idea), ของเหลว (liquid), สสาร (substance), หรือสิ่งที่เป็นกลุ่มก้อนใหญ่ๆ\n*   **มีเพียงรูปเดียว** คือรูปเอกพจน์เท่านั้น จะไม่เติม -s หรือ -es เด็ดขาด\n*   **ไม่สามารถใช้กับ a/an** หรือตัวเลขโดยตรงได้\n*   มักใช้กับคำบอกปริมาณ เช่น much, a little, some, a lot of.\n*   **ถ้านับได้ ต้องใช้ภาชนะหรือหน่วยวัดมาช่วย:** เราไม่สามารถนับ 'water' ได้ แต่เรานับ 'a glass of water' (น้ำ 1 แก้ว) หรือ 'two bottles of water' (น้ำ 2 ขวด) ได้ คำว่า glass และ bottle คือ 'หน่วยนับ' (counters/partitives).\n\n**ตัวอย่างกลุ่มนามนับไม่ได้ที่พบบ่อย:**\n*   **ของเหลว/ก๊าซ:** water, coffee, milk, oil, air, smoke\n*   **อาหารที่เป็นเนื้อ/ผง:** rice, sugar, salt, flour, bread, cheese, meat\n*   **แนวคิด/นามธรรม:** advice, information, news, knowledge, happiness, love, time\n*   **กลุ่ม/หมวดหมู่:** furniture, luggage, baggage, money, equipment, mail",
+    "examples": [
+      {
+        "eng": "I have **two dogs** and **a cat**.",
+        "thai": "ฉันมีสุนัข 2 ตัวและแมว 1 ตัว (dog และ cat เป็นนามนับได้ มีทั้งรูปเอกพจน์และพหูพจน์)"
+      },
+      {
+        "eng": "She needs **some water** because she is thirsty.",
+        "thai": "เธอต้องการน้ำ เพราะเธอหิวน้ำ (water เป็นนามนับไม่ได้ ใช้ some นำหน้า ไม่ใช้ a water)"
+      },
+      {
+        "eng": "Can you give me **a piece of advice**?",
+        "thai": "คุณช่วยให้คำแนะนำฉันสักหน่อยได้ไหม? (advice เป็นนามนับไม่ได้ หากต้องการบอกว่า '1 คำแนะนำ' ต้องใช้หน่วยนับ a piece of มาช่วย)"
+      },
+      {
+        "eng": "We don't have **much time** left.",
+        "thai": "เราไม่มีเวลาเหลือมากแล้ว (time ในความหมาย 'เวลา' ทั่วไป เป็นนามนับไม่ได้ จึงใช้ much)"
+      },
+      {
+        "eng": "There is **a lot of furniture** in this room.",
+        "thai": "มีเฟอร์นิเจอร์มากมายในห้องนี้ (furniture เป็นนามนับไม่ได้ ไม่เติม -s แม้จะมีหลายชิ้นก็ตาม)"
+      }
+    ],
+    "common_mistakes": "**1. เติม -s ให้นามนับไม่ได้:** คนไทยมักติดนิสัยเติม -s เมื่อคิดว่ามีของสิ่งนั้นเยอะๆ\n*   ผิด: I need some informations about the course.\n*   ถูก: I need some information about the course.\n*   ผิด: He bought new furnitures for his house.\n*   ถูก: He bought new furniture / some new furniture for his house.\n\n**2. ใช้ a/an กับนามนับไม่ได้:**\n*   ผิด: I would like a water, please.\n*   ถูก: I would like some water / a glass of water, please.\n\n**3. สับสนระหว่าง many/much และ a few/a little:**\n*   `many` และ `a few` + นามนับได้พหูพจน์ (many friends, a few cars)\n*   `much` และ `a little` + นามนับไม่ได้ (much money, a little sugar)\n*   ผิด: How many money do you have?\n*   ถูก: How much money do you have?\n\n**4. คำนามที่สับสน:** คำบางคำในภาษาอังกฤษเป็นนามนับไม่ได้ แต่ในความรู้สึกของคนไทยอาจจะนับได้\n*   **Money (เงิน):** เรานับ 'บาท' 'ดอลลาร์' ได้ แต่นับคอนเซ็ปต์ของ 'เงิน' ไม่ได้ จึงเป็นนามนับไม่ได้\n*   **Luggage/Baggage (สัมภาระ):** เป็นคำเรียกกลุ่มก้อนของกระเป๋าเดินทางทั้งหมด ถ้าจะนับต้องนับเป็น a suitcase, two bags.\n*   **News (ข่าว):** แม้จะลงท้ายด้วย s แต่เป็นนามนับไม่ได้เสมอ (The news is on at 7 PM.)\n*   **Bread (ขนมปัง):** ในภาษาอังกฤษมองเป็นก้อนใหญ่ ถ้าจะนับต้องใช้หน่วยนับ เช่น a slice of bread (ขนมปัง 1 แผ่น), a loaf of bread (ขนมปัง 1 แถว)",
+    "practice_questions": [
+      {
+        "question": "How ___ rice do we need to cook for dinner?",
+        "options": [
+          "A. many",
+          "B. much",
+          "C. a few",
+          "D. several"
+        ],
+        "answer": "B",
+        "explanation": "'rice' (ข้าว) เป็นนามนับไม่ได้ (Uncountable Noun) ดังนั้นต้องใช้ 'much' เพื่อถามปริมาณ"
+      },
+      {
+        "question": "My teacher gave me a very useful piece of ___.",
+        "options": [
+          "A. advices",
+          "B. advice",
+          "C. an advice",
+          "D. many advice"
+        ],
+        "answer": "B",
+        "explanation": "'advice' (คำแนะนำ) เป็นนามนับไม่ได้ ไม่สามารถเติม -s หรือใช้ a/an นำหน้าได้โดยตรง การใช้ 'a piece of' เป็นวิธีที่ถูกต้องในการทำให้นับเป็น '1 ชิ้น' ได้"
+      },
+      {
+        "question": "I don't have ___ in my wallet. I need to go to the ATM.",
+        "options": [
+          "A. many money",
+          "B. much moneys",
+          "C. much money",
+          "D. a money"
+        ],
+        "answer": "C",
+        "explanation": "'money' (เงิน) เป็นนามนับไม่ได้ จึงต้องใช้กับ 'much' และไม่สามารถเติม -s ได้"
+      },
+      {
+        "question": "There are only ___ students in the classroom today because it's raining.",
+        "options": [
+          "A. a little",
+          "B. much",
+          "C. a few",
+          "D. some of"
+        ],
+        "answer": "A",
+        "explanation": "'students' เป็นนามนับได้รูปพหูพจน์ (Countable Noun) 'a few' แปลว่า 'จำนวนน้อย' ใช้กับนามนับได้ ในขณะที่ 'a little' ใช้กับนามนับไม่ได้"
+      },
+      {
+        "question": "We need to buy new ___ for the living room; the old sofa is broken.",
+        "options": [
+          "A. furnitures",
+          "B. furniture",
+          "C. a furniture",
+          "D. furnituress"
+        ],
+        "answer": "B",
+        "explanation": "'furniture' เป็นนามนับไม่ได้ (Uncountable Noun) ซึ่งหมายถึงเครื่องเรือนโดยรวม จะไม่มีการเติม -s"
+      },
+      {
+        "question": "Can I have ___ water, please? I'm very thirsty.",
+        "options": [
+          "A. a glass of",
+          "B. a",
+          "C. many",
+          "D. two"
+        ],
+        "answer": "A",
+        "explanation": "'water' เป็นนามนับไม่ได้ เราไม่สามารถใช้ 'a' หรือ 'two' กับมันได้โดยตรง แต่เราสามารถใช้นามบอกหน่วยนับ (counter) เช่น 'a glass of' เพื่อระบุจำนวนได้"
+      },
+      {
+        "question": "The ___ on TV tonight was very sad.",
+        "options": [
+          "A. new",
+          "B. news",
+          "C. a news",
+          "D. some newses"
+        ],
+        "answer": "B",
+        "explanation": "'news' (ข่าว) เป็นนามนับไม่ได้เสมอ ถึงแม้จะลงท้ายด้วย -s ก็ตาม และถือเป็นเอกพจน์ (The news was...)"
+      },
+      {
+        "question": "Hurry up! We only have ___ time before the train leaves.",
+        "options": [
+          "A. a few",
+          "B. many",
+          "C. a little",
+          "D. several"
+        ],
+        "answer": "C",
+        "explanation": "'time' (เวลา) เป็นนามนับไม่ได้ จึงต้องใช้กับ 'a little' ที่แปลว่า 'เล็กน้อย' ส่วน 'a few' ใช้กับนามนับได้"
+      },
+      {
+        "question": "Which of the following sentences is grammatically CORRECT?",
+        "options": [
+          "A. She has many luggages.",
+          "B. I need an information.",
+          "C. He eats a lot of rices.",
+          "D. There are three people waiting outside."
+        ],
+        "answer": "D",
+        "explanation": "ข้อ A, B, C ผิด เพราะ luggage, information, และ rice เป็นนามนับไม่ได้ จึงเติม -s หรือใช้ 'an' ไม่ได้ ส่วนข้อ D ถูกต้อง เพราะ 'people' เป็นรูปพหูพจน์ของ 'person' ซึ่งเป็นนามนับได้"
+      },
+      {
+        "question": "To make bread countable, we can say '___'.",
+        "options": [
+          "A. a breads",
+          "B. two breads",
+          "C. a slice of bread",
+          "D. much bread"
+        ],
+        "answer": "C",
+        "explanation": "'bread' (ขนมปัง) เป็นนามนับไม่ได้ หากต้องการนับ เราต้องใช้หน่วยนับ (counter) มาช่วย เช่น 'a slice of' ( một lát) หรือ 'a loaf of' ( một ổ)."
+      }
+    ]
+  },
+  {
+    "id": "1_3",
+    "title": "1.3 Singular & Plural Nouns (การเปลี่ยนรูปเอกพจน์เป็นพหูพจน์ ทั้ง Regular และ Irregular)",
+    "explanation": "ในภาษาอังกฤษ คำนาม (Nouns) แบ่งได้เป็น 2 รูปแบบตามจำนวน คือ คำนามเอกพจน์ (Singular Noun) หมายถึงคำนามที่มีเพียงสิ่งเดียว และ คำนามพหูพจน์ (Plural Noun) หมายถึงคำนามที่มีมากกว่าหนึ่งสิ่งขึ้นไป การเปลี่ยนคำนามเอกพพจน์ให้เป็นพหูพจน์มีกฎเกณฑ์ที่ชัดเจน แบ่งเป็น 2 ประเภทใหญ่ๆ คือ\n\n1. Regular Plurals (คำนามพหูพจน์ปกติ): เปลี่ยนรูปโดยการเติม -s หรือ -es ท้ายคำ ซึ่งมีกฎย่อยๆ ดังนี้\n   - กฎข้อที่ 1: คำนามทั่วไปส่วนใหญ่ สามารถเติม -s ท้ายคำได้เลย เช่น book → books, cat → cats, table → tables\n   - กฎข้อที่ 2: คำนามที่ลงท้ายด้วย s, ss, sh, ch, x, z ให้เติม -es เพื่อให้ออกเสียงง่ายขึ้น เช่น bus → buses, watch → watches, box → boxes\n   - กฎข้อที่ 3: คำนามที่ลงท้ายด้วย y มี 2 กรณี\n     - หน้า y เป็นพยัญชนะ: ให้เปลี่ยน y เป็น i แล้วเติม -es เช่น baby → babies, story → stories, city → cities\n     - หน้า y เป็นสระ (a, e, i, o, u): ให้เติม -s ได้เลย เช่น boy → boys, key → keys, toy → toys\n   - กฎข้อที่ 4: คำนามที่ลงท้ายด้วย o มี 2 กรณี\n     - ส่วนใหญ่จะเติม -es เช่น potato → potatoes, tomato → tomatoes, hero → heroes\n     - บางคำ (มักเป็นคำที่มาจากภาษาอื่นหรือเกี่ยวกับดนตรี) เติมแค่ -s เช่น photo → photos, piano → pianos, radio → radios (ข้อนี้ต้องอาศัยการจดจำ)\n   - กฎข้อที่ 5: คำนามที่ลงท้ายด้วย f หรือ fe\n     - ส่วนใหญ่ให้เปลี่ยน f หรือ fe เป็น v แล้วเติม -es เช่น leaf → leaves, wife → wives, wolf → wolves\n     - มีข้อยกเว้นบางคำที่เติม -s ได้เลย เช่น roof → roofs, chief → chiefs\n\n2. Irregular Plurals (คำนามพหูพจน์ที่เปลี่ยนรูปแบบพิเศษ): คำนามกลุ่มนี้จะไม่เป็นไปตามกฎข้างต้น และต้องอาศัยการท่องจำเป็นหลัก\n   - เปลี่ยนสระภายในคำ: เช่น man → men, woman → women, foot → feet, tooth → teeth, mouse → mice\n   - เติม -en หรือ -ren: เช่น child → children, ox → oxen\n   - ไม่เปลี่ยนรูปเลย (เอกพจน์และพหูพจน์เหมือนกัน): เช่น sheep → sheep, fish → fish, deer → deer, species → species\n   - คำที่มาจากภาษาอื่น: เช่น crisis → crises, phenomenon → phenomena, cactus → cacti",
+    "examples": [
+      {
+        "eng": "I read one book, but my sister read three books.",
+        "thai": "ฉันอ่านหนังสือหนึ่งเล่ม แต่น้องสาวของฉันอ่านหนังสือสามเล่ม (book เป็นคำนามทั่วไป เติม -s)"
+      },
+      {
+        "eng": "The church is old, but there are many new churches in this town.",
+        "thai": "โบสถ์หลังนี้เก่า แต่มีโบสถ์ใหม่ๆ หลายแห่งในเมืองนี้ (church ลงท้ายด้วย ch เติม -es)"
+      },
+      {
+        "eng": "A new family just moved into our neighborhood. Now there are ten families on our street.",
+        "thai": "มีครอบครัวใหม่ย้ายเข้ามาในละแวกบ้านของเรา ตอนนี้มีสิบครอบครัวแล้วบนถนนของเรา (family ลงท้ายด้วย y และหน้า y เป็นพยัญชนะ จึงเปลี่ยน y เป็น i แล้วเติม -es)"
+      },
+      {
+        "eng": "She lost a key yesterday, so she made copies of all her other keys.",
+        "thai": "เธอทำกุญแจหายไปหนึ่งดอกเมื่อวานนี้ เธอจึงไปทำสำเนากุญแจดอกอื่นๆ ทั้งหมด (key ลงท้ายด้วย y และหน้า y เป็นสระ จึงเติม -s)"
+      },
+      {
+        "eng": "A single leaf fell from the tree, but soon all the leaves will turn brown.",
+        "thai": "ใบไม้หนึ่งใบหล่นจากต้นไม้ แต่ในไม่ช้าใบไม้ทั้งหมดจะเปลี่ยนเป็นสีน้ำตาล (leaf ลงท้ายด้วย f จึงเปลี่ยนเป็น v แล้วเติม -es)"
+      },
+      {
+        "eng": "The little boy has one new tooth, while his grandfather has no teeth at all.",
+        "thai": "เด็กชายตัวเล็กมีฟันซี่ใหม่หนึ่งซี่ ในขณะที่คุณปู่ของเขาไม่มีฟันเลย (tooth เป็น Irregular Plural เปลี่ยนรูปเป็น teeth)"
+      },
+      {
+        "eng": "We saw a deer by the river, and then a group of five more deer appeared.",
+        "thai": "เราเห็นกวางหนึ่งตัวริมแม่น้ำ และหลังจากนั้นกวางอีกห้าตัวก็ปรากฏตัวขึ้น (deer เป็น Irregular Plural ที่ไม่เปลี่ยนรูป)"
+      }
+    ],
+    "common_mistakes": "1. ลืมเปลี่ยนรูปคำนาม: คนไทยมักจะลืมเปลี่ยนคำนามเป็นรูปพหูพจน์เมื่อพูดถึงของหลายสิ่ง เช่น \"I have two cat.\" (ผิด) ที่ถูกต้องคือ \"I have two cats.\"\n2. เติม 's' กับ Irregular Nouns: เป็นข้อผิดพลาดที่พบบ่อยมาก โดยเฉพาะการนำคำนามพหูพจน์ที่เปลี่ยนรูปไปแล้วมาเติม s ซ้ำอีก เช่น \"childrens\" (ผิด) ที่ถูกต้องคือ \"children\" หรือ \"mens\" (ผิด) ที่ถูกต้องคือ \"men\"\n3. ใช้รูปพหูพจน์กับคำนามที่ไม่เปลี่ยนรูป: คำนามบางคำ เช่น sheep, fish, deer มีรูปเอกพจน์และพหูพจน์เหมือนกัน แต่คนไทยมักเผลอเติม s เข้าไป เช่น \"I see three sheeps.\" (ผิด) ที่ถูกต้องคือ \"I see three sheep.\"\n4. สับสนกฎการเติม -es และการเปลี่ยน y เป็น -ies: มักจะใช้สลับกัน หรือเติม s ในคำที่ควรเติม es เช่น \"watchs\" (ผิด) ต้องเป็น \"watches\" หรือ \"studys\" (ผิด) ต้องเป็น \"studies\"",
+    "practice_questions": [
+      {
+        "question": "My teacher gave me three ______ to read over the weekend.",
+        "options": [
+          "A. book",
+          "B. books",
+          "C. bookes",
+          "D. booken"
+        ],
+        "answer": "B",
+        "explanation": "คำว่า book เป็นคำนามทั่วไป เมื่อมีจำนวนมากกว่าหนึ่ง (three) ให้เติม -s เพื่อทำเป็นรูปพหูพจน์"
+      },
+      {
+        "question": "Please put all the empty ______ in the recycling bin.",
+        "options": [
+          "A. boxs",
+          "B. boxies",
+          "C. boxes",
+          "D. box"
+        ],
+        "answer": "C",
+        "explanation": "คำว่า box ลงท้ายด้วย x ดังนั้นตามกฎต้องเติม -es เพื่อทำเป็นรูปพหูพจน์"
+      },
+      {
+        "question": "There are many interesting ______ in this book.",
+        "options": [
+          "A. storys",
+          "B. stories",
+          "C. storyes",
+          "D. story"
+        ],
+        "answer": "B",
+        "explanation": "คำว่า story ลงท้ายด้วย y และหน้า y คือพยัญชนะ 'r' จึงต้องเปลี่ยน y เป็น i แล้วเติม -es"
+      },
+      {
+        "question": "The fairy tale was about two ______ who lived in the forest.",
+        "options": [
+          "A. wolfs",
+          "B. wolfes",
+          "C. wolves",
+          "D. wolf"
+        ],
+        "answer": "C",
+        "explanation": "คำว่า wolf ลงท้ายด้วย f ตามกฎส่วนใหญ่จะต้องเปลี่ยน f เป็น v แล้วเติม -es"
+      },
+      {
+        "question": "The dentist told me to brush my ______ twice a day.",
+        "options": [
+          "A. tooths",
+          "B. toothes",
+          "C. teeth",
+          "D. teeths"
+        ],
+        "answer": "C",
+        "explanation": "คำว่า tooth เป็น Irregular Noun (คำนามพหูพจน์เปลี่ยนรูป) รูปพหูพจน์ของ tooth คือ teeth"
+      },
+      {
+        "question": "Many different kinds of ______ live in this large aquarium.",
+        "options": [
+          "A. fish",
+          "B. fishes",
+          "C. fishs",
+          "D. fishies"
+        ],
+        "answer": "B",
+        "explanation": "โดยปกติแล้วรูปพหูพจน์ของ fish คือ fish แต่เมื่อพูดถึงปลา 'หลายชนิด' หรือ 'หลายสายพันธุ์' (different kinds) เราสามารถใช้ fishes ได้ ในบริบทนี้ fishes จึงเหมาะสมที่สุด"
+      },
+      {
+        "question": "The park is full of ______ playing on the swings.",
+        "options": [
+          "A. childs",
+          "B. childes",
+          "C. children",
+          "D. childrens"
+        ],
+        "answer": "C",
+        "explanation": "คำว่า child เป็น Irregular Noun รูปพหูพจน์คือ children ห้ามเติม s ซ้ำ (childrens คือรูปที่ผิด)"
+      },
+      {
+        "question": "Two ______ applied for the manager position.",
+        "options": [
+          "A. woman",
+          "B. womans",
+          "C. women",
+          "D. womens"
+        ],
+        "answer": "C",
+        "explanation": "คำว่า woman เป็น Irregular Noun รูปพหูพจน์คือ women (เปลี่ยน a เป็น e)"
+      },
+      {
+        "question": "For the stew, you will need two ______ and five carrots.",
+        "options": [
+          "A. potatos",
+          "B. potatoes",
+          "C. potato",
+          "D. potatoies"
+        ],
+        "answer": "B",
+        "explanation": "คำว่า potato ลงท้ายด้วย o และเป็นคำนามทั่วไปที่ต้องเติม -es เพื่อทำเป็นรูปพหูพจน์"
+      },
+      {
+        "question": "I can't find my car ______ anywhere!",
+        "options": [
+          "A. key",
+          "B. keyies",
+          "C. keies",
+          "D. keys"
+        ],
+        "answer": "D",
+        "explanation": "คำว่า key ลงท้ายด้วย y และหน้า y เป็นสระ 'e' จึงไม่ต้องเปลี่ยน y เป็น i แค่เติม -s ได้เลย"
+      }
+    ]
+  },
+  {
+    "id": "1_4",
+    "title": "1.4 Collective Nouns (สมุหนาม เช่น family, team, police)",
+    "explanation": "Collective Nouns หรือ สมุหนาม คือคำนามที่ใช้เรียกกลุ่มของคน, สัตว์, หรือสิ่งของ ที่อยู่รวมกันเป็นหมู่คณะหรือเป็นหน่วยเดียวกัน เช่น family (ครอบครัว), team (ทีม), committee (คณะกรรมการ), audience (ผู้ชม), government (รัฐบาล)\n\nหลักการสำคัญที่ต้องจำคือ Collective Nouns สามารถเป็นได้ทั้งเอกพจน์ (Singular) และพหูพจน์ (Plural) ขึ้นอยู่กับบริบทและความหมายในประโยค\n\n1.  **มองเป็นหน่วยเดียว (Singular)**: เมื่อเรามองกลุ่มนั้นว่าทำอะไรบางอย่างร่วมกันเป็นหนึ่งเดียว, เป็นเอกฉันท์, หรือเป็นก้อนเดียวกัน เราจะใช้กริยาสำหรับเอกพจน์ (เช่น is, was, has, plays)\n    *   **ตัวอย่าง:** The team **is** winning. (ทีมกำลังชนะ - มองทั้งทีมเป็นหน่วยเดียวที่กำลังชนะ)\n\n2.  **มองเป็นรายบุคคล (Plural)**: เมื่อเรามองไปที่สมาชิกแต่ละคนในกลุ่มว่ากำลังทำกิจกรรมที่แตกต่างกัน หรือมีความคิดเห็นที่แตกต่างกัน เราจะใช้กริยาสำหรับพหูพจน์ (เช่น are, were, have, play)\n    *   **ตัวอย่าง:** The team **are** arguing about the strategy. (สมาชิกในทีมกำลังเถียงกันเรื่องกลยุทธ์ - แต่ละคนมีความเห็นของตัวเอง)\n\n**ข้อควรจำพิเศษ:**\n*   **American English (AmE):** ส่วนใหญ่มักจะใช้ Collective Nouns เป็นเอกพจน์เสมอ เพื่อความง่าย\n*   **British English (BrE):** นิยมใช้เป็นพหูพจน์มากกว่าเมื่อต้องการเน้นถึงสมาชิกแต่ละคน\n*   **คำว่า 'police' (ตำรวจ):** เป็นข้อยกเว้นที่สำคัญ! คำนี้จะถูกมองเป็น **พหูพจน์เสมอ** (The police **are** coming.) ห้ามใช้ The police is... เด็ดขาด ถ้าจะหมายถึงตำรวจคนเดียว ให้ใช้คำว่า 'a police officer'",
+    "examples": [
+      {
+        "eng": "My family **is** on vacation in Japan.",
+        "thai": "ครอบครัวของฉันไปเที่ยวพักผ่อนที่ญี่ปุ่น (มองทั้งครอบครัวเป็นหน่วยเดียวที่ไปด้วยกัน)"
+      },
+      {
+        "eng": "My family **are** all doing different things today; my dad is working, and my sister is shopping.",
+        "thai": "วันนี้สมาชิกในครอบครัวของฉันต่างคนต่างทำกิจกรรมของตัวเอง พ่อกำลังทำงาน และพี่สาวกำลังช้อปปิ้ง (เน้นว่าสมาชิกแต่ละคนทำกิจกรรมต่างกัน)"
+      },
+      {
+        "eng": "The committee **has** made its decision.",
+        "thai": "คณะกรรมการได้ตัดสินใจแล้ว (คณะกรรมการทั้งชุดมีความเห็นเป็นเอกฉันท์)"
+      },
+      {
+        "eng": "The committee **are** divided in their opinions.",
+        "thai": "คณะกรรมการมีความคิดเห็นแตกแยก (สมาชิกแต่ละคนมีความเห็นไม่ตรงกัน)"
+      },
+      {
+        "eng": "The police **have** arrested a suspect.",
+        "thai": "ตำรวจได้จับกุมผู้ต้องสงสัยแล้ว (Police เป็นพหูพจน์เสมอ ใช้ have)"
+      }
+    ],
+    "common_mistakes": "1.  **สับสนการใช้กริยาเอกพจน์/พหูพจน์:** คนไทยมักจะใช้กริยาเอกพจน์ตามหลัง Collective Noun เสมอ เพราะตัวคำนามไม่มี 's' ต่อท้าย เช่น พูดว่า 'My family are...' อาจจะรู้สึกแปลกๆ วิธีแก้คือให้ถามตัวเองว่า ประโยคนั้นกำลังพูดถึงกลุ่มที่ทำอะไรเป็น 'ก้อนเดียว' หรือพูดถึง 'สมาชิกแต่ละคน' ในกลุ่ม\n\n2.  **ใช้คำว่า 'police' ผิด:** ข้อผิดพลาดที่เจอบ่อยที่สุดคือ 'The police is coming.' ซึ่งผิดหลักไวยากรณ์ ต้องจำให้ขึ้นใจว่า 'police' เป็นพหูพจน์เสมอ และต้องใช้ 'The police **are** coming.' หากต้องการพูดถึงตำรวจนายเดียว ให้ใช้คำว่า 'a police officer' เช่น 'A police officer **is** standing there.'\n\n3.  **ใช้สรรพนาม (Pronoun) ไม่สอดคล้อง:** เมื่อใช้ Collective Noun เป็นเอกพจน์ สรรพนามที่ใช้แทนก็ต้องเป็นเอกพจน์ด้วย (it, its) แต่ถ้าใช้เป็นพหูพจน์ สรรพนามก็ต้องเป็นพหูพจน์ (they, them, their)\n    *   **ถูก:** The team won **its** final game. (ทีมชนะเกมสุดท้ายของมัน - ทีมเป็นเอกพจน์, สรรพนามคือ its)\n    *   **ผิด:** The team won **their** final game. (ถ้ามอง team เป็นเอกพจน์ การใช้ their จะไม่สอดคล้องกัน)",
+    "practice_questions": [
+      {
+        "question": "The government ___ announced new policies to help the economy.",
+        "options": [
+          "A. has",
+          "B. have",
+          "C. is",
+          "D. are"
+        ],
+        "answer": "A",
+        "explanation": "ในบริบทนี้ รัฐบาล (government) ทำหน้าที่เป็นหน่วยงานเดียวในการประกาศนโยบาย จึงใช้กริยาเอกพจน์ 'has'"
+      },
+      {
+        "question": "The staff ___ discussing their ideas for the new project in the meeting.",
+        "options": [
+          "A. is",
+          "B. was",
+          "C. are",
+          "D. has"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้เน้นว่าพนักงาน 'แต่ละคน' (their ideas) กำลังแสดงความคิดเห็น จึงมองเป็นกลุ่มของปัจเจกบุคคล ต้องใช้กริยาพหูพจน์ 'are'"
+      },
+      {
+        "question": "Attention everyone! The police ___ surrounded the building.",
+        "options": [
+          "A. is",
+          "B. has",
+          "C. have",
+          "D. was"
+        ],
+        "answer": "C",
+        "explanation": "คำว่า 'police' เป็น Collective Noun ที่เป็นข้อยกเว้นและต้องใช้เป็นพหูพจน์เสมอ ดังนั้นจึงต้องใช้ 'have'"
+      },
+      {
+        "question": "Our football team ___ playing exceptionally well this season.",
+        "options": [
+          "A. are",
+          "B. is",
+          "C. have",
+          "D. were"
+        ],
+        "answer": "B",
+        "explanation": "ทีมฟุตบอลทั้งทีมเล่นร่วมกันเป็นหนึ่งเดียวเพื่อทำผลงานได้ดี จึงมองเป็นหน่วยเดียวและใช้กริยาเอกพจน์ 'is'"
+      },
+      {
+        "question": "The audience ___ on its feet, giving a standing ovation.",
+        "options": [
+          "A. were",
+          "B. are",
+          "C. have",
+          "D. was"
+        ],
+        "answer": "D",
+        "explanation": "ผู้ชมทั้งหมดลุกขึ้นยืนปรบมือพร้อมกันเป็นหนึ่งเดียว (a standing ovation) และสรรพนาม 'its' ก็บ่งชี้ว่าผู้พูดมองผู้ชมเป็นเอกพจน์ จึงใช้ 'was'"
+      },
+      {
+        "question": "My family ___ arguing about which movie to watch tonight.",
+        "options": [
+          "A. is",
+          "B. are",
+          "C. has",
+          "D. was"
+        ],
+        "answer": "B",
+        "explanation": "การโต้เถียง (arguing) แสดงว่าสมาชิกในครอบครัวแต่ละคนมีความคิดเห็นที่แตกต่างกัน จึงต้องใช้กริยาพหูพจน์ 'are'"
+      },
+      {
+        "question": "A herd of elephants ___ moving slowly across the savanna.",
+        "options": [
+          "A. is",
+          "B. are",
+          "C. were",
+          "D. have"
+        ],
+        "answer": "A",
+        "explanation": "'A herd' (โขลง) หมายถึงกลุ่มก้อนเดียวที่เคลื่อนที่ไปด้วยกัน ดังนั้นจึงใช้กริยาเอกพจน์ 'is'"
+      },
+      {
+        "question": "The jury ___ unable to agree on a verdict.",
+        "options": [
+          "A. has been",
+          "B. is",
+          "C. was",
+          "D. were"
+        ],
+        "answer": "D",
+        "explanation": "การที่คณะลูกขุน 'ไม่สามารถตกลงกันได้' (unable to agree) หมายความว่าสมาชิกแต่ละคนมีความเห็นต่างกัน จึงต้องมองเป็นพหูพจน์และใช้ 'were'"
+      },
+      {
+        "question": "If you see a crime, you should call the ___ immediately.",
+        "options": [
+          "A. police",
+          "B. polices",
+          "C. police officer",
+          "D. a police"
+        ],
+        "answer": "A",
+        "explanation": "คำว่า 'police' ใช้เรียกหน่วยงานตำรวจโดยรวม และเป็นคำที่ถูกต้องในบริบทนี้ 'polices' เป็นคำที่ผิด, 'police officer' หมายถึงนายเดียว และ 'a police' ก็ผิดหลักไวยากรณ์"
+      },
+      {
+        "question": "The entire class ___ listening attentively to the guest speaker.",
+        "options": [
+          "A. were",
+          "B. are",
+          "C. was",
+          "D. have"
+        ],
+        "answer": "C",
+        "explanation": "นักเรียนทั้งชั้น (The entire class) กำลังตั้งใจฟังพร้อมกันเป็นกลุ่มเดียว จึงใช้กริยาเอกพจน์ 'was'"
+      }
+    ]
+  },
+  {
+    "id": "1_5",
+    "title": "1.5 Abstract & Concrete Nouns (นามธรรมและรูปธรรม)",
+    "explanation": "ในภาษาอังกฤษ คำนาม (Nouns) สามารถแบ่งออกได้เป็น 2 ประเภทใหญ่ๆ ตามการรับรู้ของเรา คือ นามรูปธรรม (Concrete Nouns) และ นามธรรม (Abstract Nouns) ซึ่งมีความแตกต่างกันอย่างชัดเจน\n\n1. **Concrete Nouns (นามรูปธรรม)**\nคือคำนามที่หมายถึงสิ่งที่เราสามารถรับรู้ได้ด้วยประสาทสัมผัสทั้ง 5 (Five Senses) ได้แก่ การมองเห็น (Sight), การได้ยิน (Hearing), การได้กลิ่น (Smell), การรับรส (Taste) และการสัมผัส (Touch) พูดง่ายๆ คือเป็นสิ่งของที่จับต้องได้ มีตัวตนจริงทางกายภาพ\nเช่น: table (โต๊ะ), dog (สุนัข), water (น้ำ), music (ดนตรี), flower (ดอกไม้), smoke (ควัน), computer (คอมพิวเตอร์)\n\n2. **Abstract Nouns (นามธรรม)**\nคือคำนามที่หมายถึงสิ่งที่เราไม่สามารถรับรู้ได้ด้วยประสาทสัมผัสทั้ง 5 เป็นสิ่งที่จับต้องไม่ได้ ไม่มีรูปร่างทางกายภาพ แต่นึกถึงและเข้าใจได้ มักจะหมายถึง แนวคิด (Idea), ความรู้สึก (Feeling), คุณสมบัติ (Quality), สภาวะ (State), หรือการกระทำ (Action)\nเช่น: love (ความรัก), happiness (ความสุข), freedom (อิสรภาพ), knowledge (ความรู้), time (เวลา), idea (ความคิด), courage (ความกล้าหาญ)\n\n**ข้อสังเกต:** Abstract Nouns มักจะสร้างมาจากคำคุณศัพท์ (Adjectives) หรือคำกริยา (Verbs) เช่น\n- `happy` (adj.) -> `happiness` (n.)\n- `strong` (adj.) -> `strength` (n.)\n- `decide` (v.) -> `decision` (n.)\n- `grow` (v.) -> `growth` (n.)",
+    "examples": [
+      {
+        "eng": "The **cat** is sleeping on the **chair**.",
+        "thai": "แมวกำลังนอนอยู่บนเก้าอี้\n- **cat** และ **chair** เป็น Concrete Nouns เพราะเราสามารถมองเห็นและสัมผัสได้"
+      },
+      {
+        "eng": "**Honesty** is an important **quality**.",
+        "thai": "ความซื่อสัตย์เป็นคุณสมบัติที่สำคัญ\n- **Honesty** และ **quality** เป็น Abstract Nouns เพราะเป็นแนวคิดและคุณสมบัติที่เราไม่สามารถสัมผัสได้"
+      },
+      {
+        "eng": "She felt a great sense of **joy** when she received the **gift**.",
+        "thai": "เธอรู้สึกปิติยินดีอย่างมากเมื่อได้รับของขวัญ\n- **joy** (ความปิติยินดี) เป็น Abstract Noun เพราะเป็นความรู้สึก\n- **gift** (ของขวัญ) เป็น Concrete Noun เพราะเป็นวัตถุที่จับต้องได้"
+      },
+      {
+        "eng": "We need **courage** to face our **problems**.",
+        "thai": "เราต้องการความกล้าหาญเพื่อเผชิญหน้ากับปัญหาของเรา\n- **courage** (ความกล้าหาญ) เป็น Abstract Noun เพราะเป็นคุณสมบัติภายใน\n- **problems** (ปัญหา) ในที่นี้มักจะถูกจัดเป็น Abstract Noun เพราะเป็นแนวคิดหรือสภาวะ ไม่ใช่วัตถุทางกายภาพ"
+      }
+    ],
+    "common_mistakes": "1. **สับสนระหว่าง Abstract Noun กับ Adjective:** คนไทยมักใช้คำคุณศัพท์ (Adjective) แทนที่คำนามนามธรรม (Abstract Noun) เพราะในภาษาไทยอาจใช้คำเดียวกันได้ เช่น \"ฉันมีความสุข\" อาจจะแปลผิดเป็น \"I have happy.\" ที่ถูกต้องคือ \"I have happiness.\" (ฉันมีความสุข - ในฐานะสิ่งที่เป็นนามธรรม) หรือ \"I am happy.\" (ฉันมีความสุข - ในฐานะที่เป็นคำคุณศัพท์บอกสภาวะ)\n   - ผิด: Her **beautiful** is famous. \n   - ถูก: Her **beauty** is famous. (ความสวยของเธอโด่งดัง)\n\n2. **พยายามทำให้ Abstract Noun เป็นพหูพจน์:** Abstract Nouns ส่วนใหญ่เป็นคำนามนับไม่ได้ (Uncountable) ดังนั้นจึงไม่สามารถเติม -s หรือ -es เพื่อทำให้เป็นพหูพจน์ได้\n   - ผิด: He gave me some useful **advices**.\n   - ถูก: He gave me some useful **advice**. (เขาให้คำแนะนำที่เป็นประโยชน์แก่ฉัน)\n   - ผิด: We need more **informations**.\n   - ถูก: We need more **information**. (เราต้องการข้อมูลเพิ่มเติม)\n\n3. **คิดว่าสิ่งที่มองไม่เห็นทั้งหมดเป็น Abstract Noun:** บางสิ่งเรามองไม่เห็น แต่สามารถรับรู้ได้ด้วยสัมผัสอื่น เช่น `air` (อากาศ - สัมผัสได้), `wind` (ลม - สัมผัสได้), `music` (ดนตรี - ได้ยิน), `smell` (กลิ่น - ได้กลิ่น) สิ่งเหล่านี้จัดเป็น Concrete Nouns เพราะสามารถรับรู้ได้ด้วยประสาทสัมผัส ไม่ใช่แนวคิดหรือความรู้สึก",
+    "practice_questions": [
+      {
+        "question": "Which of the following is an ABSTRACT noun?",
+        "options": [
+          "A. Book",
+          "B. Happiness",
+          "C. Water",
+          "D. Tree"
+        ],
+        "answer": "B",
+        "explanation": "Happiness (ความสุข) เป็นความรู้สึก เป็นแนวคิดที่ไม่สามารถจับต้องได้ด้วยประสาทสัมผัสทั้ง 5 จึงเป็น Abstract Noun ส่วน Book, Water, Tree เป็นสิ่งที่จับต้องหรือรับรู้ได้ จัดเป็น Concrete Nouns"
+      },
+      {
+        "question": "Which of the following is a CONCRETE noun?",
+        "options": [
+          "A. Idea",
+          "B. Friendship",
+          "C. Music",
+          "D. Knowledge"
+        ],
+        "answer": "C",
+        "explanation": "Music (ดนตรี) เป็น Concrete Noun เพราะเราสามารถรับรู้ได้ด้วยการได้ยิน (sense of hearing) ส่วน Idea, Friendship, และ Knowledge เป็นแนวคิดที่ไม่สามารถจับต้องได้"
+      },
+      {
+        "question": "In the sentence 'Her bravery is admirable', what type of noun is 'bravery'?",
+        "options": [
+          "A. Concrete Noun",
+          "B. Abstract Noun",
+          "C. Proper Noun",
+          "D. Collective Noun"
+        ],
+        "answer": "B",
+        "explanation": "'Bravery' (ความกล้าหาญ) คือคุณสมบัติหรือคุณภาพ เป็นสิ่งที่ไม่สามารถมองเห็นหรือสัมผัสได้ ดังนั้นจึงเป็น Abstract Noun"
+      },
+      {
+        "question": "Identify the abstract noun in the sentence: 'We must fight for our freedom.'",
+        "options": [
+          "A. We",
+          "B. fight",
+          "C. our",
+          "D. freedom"
+        ],
+        "answer": "D",
+        "explanation": "'Freedom' (อิสรภาพ) เป็นสภาวะหรือแนวคิดที่ไม่สามารถจับต้องได้ จึงเป็น Abstract Noun ส่วน We เป็น pronoun, fight เป็น verb, our เป็น possessive adjective"
+      },
+      {
+        "question": "Choose the correct word to complete the sentence: 'We value her ______.'",
+        "options": [
+          "A. honest",
+          "B. honestly",
+          "C. honesty",
+          "D. is honest"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้ต้องการคำนาม (Noun) มาทำหน้าที่เป็นกรรมของกริยา 'value' คำว่า 'honesty' (ความซื่อสัตย์) เป็น Abstract Noun ที่เหมาะสมที่สุด ส่วน 'honest' เป็น Adjective และ 'honestly' เป็น Adverb"
+      },
+      {
+        "question": "Which sentence contains ONLY concrete nouns?",
+        "options": [
+          "A. The girl felt great joy.",
+          "B. The dog chased the car.",
+          "C. His knowledge is impressive.",
+          "D. Justice is important for society."
+        ],
+        "answer": "B",
+        "explanation": "ในประโยค 'The dog chased the car.' ทั้ง 'dog' และ 'car' เป็นสิ่งที่จับต้องได้ (Concrete) ส่วนประโยคอื่นมี Abstract Nouns (joy, knowledge, justice, society) ปนอยู่"
+      },
+      {
+        "question": "Which of these is NOT an abstract noun?",
+        "options": [
+          "A. Love",
+          "B. Anger",
+          "C. Air",
+          "D. Fear"
+        ],
+        "answer": "C",
+        "explanation": "'Air' (อากาศ) แม้จะมองไม่เห็น แต่เราสามารถรู้สึกหรือสัมผัสได้เมื่อมันเคลื่อนที่ (ลม) จึงจัดเป็น Concrete Noun ส่วน Love, Anger, และ Fear เป็นความรู้สึก จึงเป็น Abstract Nouns"
+      },
+      {
+        "question": "Identify the concrete noun in the sentence: 'His decision brought chaos to the city.'",
+        "options": [
+          "A. decision",
+          "B. chaos",
+          "C. city",
+          "D. his"
+        ],
+        "answer": "C",
+        "explanation": "'City' (เมือง) เป็นสถานที่ทางกายภาพที่เรามองเห็นและสัมผัสได้ จึงเป็น Concrete Noun ส่วน 'decision' (การตัดสินใจ) และ 'chaos' (ความวุ่นวาย) เป็น Abstract Nouns"
+      },
+      {
+        "question": "Choose the correct sentence.",
+        "options": [
+          "A. I need an information about the flight.",
+          "B. I need informations about the flight.",
+          "C. I need some informations about the flight.",
+          "D. I need some information about the flight."
+        ],
+        "answer": "D",
+        "explanation": "'Information' (ข้อมูล) เป็น Abstract Noun ที่นับไม่ได้ (Uncountable) จึงไม่สามารถใช้กับ a/an และไม่สามารถเติม -s ได้ การใช้ 'some information' จึงถูกต้องที่สุด"
+      },
+      {
+        "question": "The ______ of the mountain is breathtaking.",
+        "options": [
+          "A. beautiful",
+          "B. beauty",
+          "C. beautifully",
+          "D. beautify"
+        ],
+        "answer": "B",
+        "explanation": "ตำแหน่งนี้ต้องการคำนามเพื่อทำหน้าที่เป็นประธานของประโยค 'Beauty' (ความงาม) เป็น Abstract Noun ที่เหมาะสมที่สุด 'Beautiful' เป็น Adjective, 'beautifully' เป็น Adverb, และ 'beautify' เป็น Verb"
+      }
+    ]
+  },
+  {
+    "id": "1_6",
+    "title": "1.6 Compound Nouns (คำนามประสม)",
+    "explanation": "Compound Nouns หรือ คำนามประสม คือคำนามที่เกิดจากการนำคำตั้งแต่ 2 คำขึ้นไปมารวมกันเพื่อสร้างคำใหม่ที่มีความหมายใหม่ ซึ่งมักจะมีความหมายเฉพาะเจาะจงมากขึ้น\n\nCompound Nouns มี 3 รูปแบบหลักๆ:\n1.  **แบบเขียนติดกัน (Closed Form):** คำสองคำถูกนำมาเขียนติดกันเป็นคำเดียว เช่น `bedroom` (ห้องนอน), `toothpaste` (ยาสีฟัน), `sunglasses` (แว่นกันแดด)\n2.  **แบบมีขีดกลาง (Hyphenated Form):** คำต่างๆ ถูกเชื่อมด้วยเครื่องหมายขีดกลาง (-) ส่วนใหญ่มักใช้กับคำที่แสดงความสัมพันธ์ทางเครือญาติ หรือคำที่ประกอบด้วยหลายส่วน เช่น `mother-in-law` (แม่ยาย/แม่สามี), `well-being` (สุขภาวะ), `check-in` (การลงทะเบียนเข้า)\n3.  **แบบเขียนแยกกัน (Open Form):** คำต่างๆ จะเขียนแยกกันเหมือนคำปกติ แต่ทำหน้าที่เป็นคำนามคำเดียวเมื่ออยู่ด้วยกัน เช่น `swimming pool` (สระว่ายน้ำ), `high school` (โรงเรียนมัธยมปลาย), `ice cream` (ไอศกรีม)\n\n**การสร้างรูปพหูพจน์ (Plural Form) ของ Compound Nouns:**\n-   โดยทั่วไป เราจะเติม -s หรือ -es ที่ท้ายคำนามหลัก (main noun) ซึ่งเป็นคำที่สำคัญที่สุดในกลุ่มคำนั้น\n-   **สำหรับแบบ Closed Form:** เติม -s ที่ท้ายคำเลย เช่น `bedrooms`, `toothbrushes`\n-   **สำหรับแบบ Open Form:** เติม -s ที่คำนามตัวสุดท้าย ซึ่งมักเป็นคำนามหลัก เช่น `swimming pools`, `high schools`\n-   **สำหรับแบบ Hyphenated Form:** เติม -s ที่คำนามหลัก ซึ่งอาจไม่ใช่คำสุดท้าย เช่น `mothers-in-law` (คำหลักคือ mother), `passers-by` (คำหลักคือ passer)",
+    "examples": [
+      {
+        "eng": "I need to buy a new toothbrush.",
+        "thai": "ฉันต้องซื้อแปรงสีฟันอันใหม่ (Toothbrush เป็น Closed Form เกิดจาก noun 'tooth' + noun 'brush')"
+      },
+      {
+        "eng": "The bus stop is just around the corner.",
+        "thai": "ป้ายรถเมล์อยู่ตรงหัวมุมพอดี (Bus stop เป็น Open Form เกิดจาก noun 'bus' + noun 'stop')"
+      },
+      {
+        "eng": "My sister-in-law is coming to visit us this weekend.",
+        "thai": "พี่/น้องสะใภ้ของฉันจะมาเยี่ยมพวกเราสุดสัปดาห์นี้ (Sister-in-law เป็น Hyphenated Form)"
+      },
+      {
+        "eng": "There are many high schools in this city.",
+        "thai": "มีโรงเรียนมัธยมปลายหลายแห่งในเมืองนี้ (การทำเป็นพหูพจน์ของ Open Form โดยเติม s ที่คำนามหลัก คือ schools)"
+      },
+      {
+        "eng": "All three of my brothers-in-law are firefighters.",
+        "thai": "พี่/น้องเขยของฉันทั้งสามคนเป็นนักดับเพลิง (การทำเป็นพหูพจน์ของ Hyphenated Form โดยเติม s ที่คำนามหลัก คือ brothers)"
+      }
+    ],
+    "common_mistakes": "1.  **การทำเป็นพหูพจน์ผิดตำแหน่ง:** คนไทยมักจะเติม -s ที่ท้ายสุดของคำเสมอ ซึ่งผิดสำหรับ Compound Noun บางประเภท\n    -   ผิด: I have two sister-in-laws.\n    -   ถูก: I have two sisters-in-law. (ต้องเติม s ที่คำนามหลักคือ sister)\n\n2.  **สับสนระหว่าง Open Form กับ Closed Form:** การเว้นวรรคหรือไม่เว้นวรรคอาจทำให้ความหมายเปลี่ยนไป หรือกลายเป็นคำที่สะกดผิด\n    -   ผิด: I sleep in my bed room.\n    -   ถูก: I sleep in my bedroom.\n    -   ผิด: He goes to a highschool.\n    -   ถูก: He goes to a high school.\n\n3.  **ใช้ 's แสดงความเป็นเจ้าของ (Possessive 's) แทน:** เข้าใจผิดว่าคำนามตัวแรกขยายคำนามตัวที่สองในฐานะเจ้าของ ซึ่งไม่ถูกต้อง คำนามตัวแรกทำหน้าที่คล้าย Adjective มากกว่า\n    -   ผิด: Where is the car's park?\n    -   ถูก: Where is the car park? (ที่จอดรถสำหรับรถยนต์ ไม่ใช่ที่จอดของรถยนต์คันใดคันหนึ่ง)\n    -   ผิด: Let's meet at the bus's stop.\n    -   ถูก: Let's meet at the bus stop.",
+    "practice_questions": [
+      {
+        "question": "Which of the following is the correct plural form of 'passer-by'?",
+        "options": [
+          "A. passer-bys",
+          "B. passers-by",
+          "C. passers-bys",
+          "D. passer-byes"
+        ],
+        "answer": "B",
+        "explanation": "คำนามหลักใน 'passer-by' คือ 'passer' (ผู้ที่ผ่านไปมา) ดังนั้น การทำให้เป็นพหูพจน์จึงต้องเติม 's' ที่คำว่า passers"
+      },
+      {
+        "question": "I need to go to the ___ to mail this letter.",
+        "options": [
+          "A. office post",
+          "B. post office",
+          "C. posting office",
+          "D. office of post"
+        ],
+        "answer": "B",
+        "explanation": "'Post office' (ที่ทำการไปรษณีย์) คือคำนามประสม (Compound Noun) ที่ถูกต้องสำหรับสถานที่ส่งจดหมาย"
+      },
+      {
+        "question": "My father gave me a new ___ for my birthday.",
+        "options": [
+          "A. creditcard",
+          "B. card credit",
+          "C. credit card",
+          "D. card of credit"
+        ],
+        "answer": "C",
+        "explanation": "'Credit card' เป็นคำนามประสมแบบ Open Form (เขียนแยกกัน) ที่ถูกต้อง"
+      },
+      {
+        "question": "The city decided to build three new ___ to solve the traffic problem.",
+        "options": [
+          "A. car parks",
+          "B. cars park",
+          "C. car's parks",
+          "D. cars parks"
+        ],
+        "answer": "A",
+        "explanation": "รูปพหูพจน์ของ 'car park' คือ 'car parks' โดยเติม 's' ที่คำนามหลักซึ่งเป็นคำสุดท้าย"
+      },
+      {
+        "question": "A place where you wait for a train is called a ___.",
+        "options": [
+          "A. trainstation",
+          "B. station train",
+          "C. train's station",
+          "D. train station"
+        ],
+        "answer": "D",
+        "explanation": "'Train station' (สถานีรถไฟ) เป็นคำนามประสมแบบ Open Form ที่ถูกต้อง"
+      },
+      {
+        "question": "How many ___ do you have?",
+        "options": [
+          "A. sons-in-law",
+          "B. son-in-laws",
+          "C. son-in-law",
+          "D. sons-in-laws"
+        ],
+        "answer": "A",
+        "explanation": "คำนามหลักใน 'son-in-law' คือ 'son' ดังนั้น รูปพหูพจน์ที่ถูกต้องคือ 'sons-in-law'"
+      },
+      {
+        "question": "Don't forget to put on ___ when you go out in the sun.",
+        "options": [
+          "A. screen sun",
+          "B. sun screen",
+          "C. sunscreen",
+          "D. sun-screen"
+        ],
+        "answer": "C",
+        "explanation": "'Sunscreen' (ครีมกันแดด) เป็นคำนามประสมแบบ Closed Form (เขียนติดกัน) ที่ใช้กันทั่วไป"
+      },
+      {
+        "question": "We need to buy some ___ for our new bathroom.",
+        "options": [
+          "A. toothpaste",
+          "B. teethpaste",
+          "C. paste tooth",
+          "D. tooth's paste"
+        ],
+        "answer": "A",
+        "explanation": "'Toothpaste' (ยาสีฟัน) คือคำนามประสมที่ถูกต้อง เกิดจากคำว่า 'tooth' และ 'paste'"
+      },
+      {
+        "question": "My ___ is a very kind woman.",
+        "options": [
+          "A. mother's-in-law",
+          "B. mother-in-law",
+          "C. mother in law",
+          "D. mother-in-laws"
+        ],
+        "answer": "B",
+        "explanation": "คำนามประสมที่หมายถึงแม่สามี/แม่ยาย คือ 'mother-in-law' ซึ่งเป็นรูปเอกพจน์และมีขีดกลาง (Hyphenated Form)"
+      },
+      {
+        "question": "This building has a very advanced ___.",
+        "options": [
+          "A. security system",
+          "B. system security",
+          "C. security's system",
+          "D. system of security"
+        ],
+        "answer": "A",
+        "explanation": "'Security system' (ระบบรักษาความปลอดภัย) เป็นคำนามประสมแบบ Open Form ที่ถูกต้อง โดย 'security' ทำหน้าที่ขยาย 'system'"
+      }
+    ]
+  },
+  {
+    "id": "1_7",
+    "title": "1.7 Possessive Nouns (การแสดงความเป็นเจ้าของด้วย 's และ s')",
+    "explanation": "Possessive Nouns คือ รูปแบบของคำนามที่ใช้แสดงความเป็นเจ้าของว่า 'ใคร' เป็นเจ้าของ 'อะไร' โดยมีเครื่องหมาย Apostrophe (') เข้ามาเกี่ยวข้อง หลักการใช้ง่ายๆ มีดังนี้ครับ\n\n1.  **คำนามเอกพจน์ (Singular Nouns)**: เติม Apostrophe s ('s) ต่อท้ายคำนามได้เลย\n    -   ตัวอย่าง: a boy -> a boy's book (หนังสือของเด็กชายคนหนึ่ง)\n\n2.  **คำนามพหูพจน์ที่ลงท้ายด้วย -s (Plural Nouns ending in -s)**: เติมแค่ Apostrophe (') อย่างเดียว\n    -   ตัวอย่าง: the boys -> the boys' books (หนังสือของเด็กชายหลายคน)\n\n3.  **คำนามพหูพจน์ที่ไม่ได้ลงท้ายด้วย -s (Irregular Plural Nouns)**: ให้เติม Apostrophe s ('s) เหมือนคำนามเอกพจน์\n    -   ตัวอย่าง: the children -> the children's toys (ของเล่นของเด็กๆ)\n\n4.  **คำนามเอกพจน์ที่ลงท้ายด้วย -s (Singular Nouns ending in -s)**: มี 2 วิธีที่ยอมรับได้\n    -   วิธีที่ 1 (นิยมกว่า): เติม Apostrophe s ('s) -> James's car\n    -   วิธีที่ 2: เติมแค่ Apostrophe (') -> James' car\n    -   แนะนำให้ใช้วิธีแรกเพื่อความชัดเจนครับ\n\n5.  **การแสดงความเป็นเจ้าของร่วมกัน (Joint Possession)**: ถ้าคน 2 คนขึ้นไปเป็นเจ้าของสิ่งเดียวกัน ให้เติม 's ที่ชื่อคนสุดท้ายคนเดียว\n    -   ตัวอย่าง: Tom and Jerry's house (บ้านของทอมและเจอร์รี่ - อยู่บ้านหลังเดียวกัน)\n\n6.  **การแสดงความเป็นเจ้าของแยกกัน (Separate Possession)**: ถ้าคน 2 คนขึ้นไปเป็นเจ้าของของคนละชิ้น ให้เติม 's ที่ชื่อของทุกคน\n    -   ตัวอย่าง: Tom's and Jerry's cars (รถของทอมและรถของเจอร์รี่ - เป็นรถคนละคัน)\n\n7.  **สิ่งของไม่มีชีวิต (Inanimate Objects)**: โดยทั่วไปเราจะไม่ใช้ 's กับสิ่งของ แต่จะใช้โครงสร้าง '... of the ...' แทน\n    -   ตัวอย่าง: the leg of the table (ขาของโต๊ะ) *ไม่ควรใช้* the table's leg",
+    "examples": [
+      {
+        "eng": "This is my dog's favorite toy.",
+        "thai": "นี่คือของเล่นชิ้นโปรดของสุนัขของฉัน (สุนัข 1 ตัว)"
+      },
+      {
+        "eng": "The students' exams are next week.",
+        "thai": "การสอบของนักเรียน (หลายคน) จะมีขึ้นในสัปดาห์หน้า"
+      },
+      {
+        "eng": "The women's changing room is on the left.",
+        "thai": "ห้องเปลี่ยนเสื้อผ้าของผู้หญิง (หลายคน) อยู่ทางซ้าย"
+      },
+      {
+        "eng": "We are going to Chris's party tonight.",
+        "thai": "เราจะไปปาร์ตี้ของคริสคืนนี้ (Chris เป็นชื่อคน ลงท้ายด้วย s แต่ยังเป็นเอกพจน์)"
+      },
+      {
+        "eng": "Let's meet at Tim and Sarah's new cafe.",
+        "thai": "ไปเจอกันที่คาเฟ่ใหม่ของทิมและซาร่าห์กันเถอะ (คาเฟ่ร้านเดียวที่ทั้งสองคนเป็นเจ้าของร่วมกัน)"
+      },
+      {
+        "eng": "My mom's and my aunt's birthdays are in the same month.",
+        "thai": "วันเกิดของแม่ของฉันและวันเกิดของป้าของฉันอยู่ในเดือนเดียวกัน (วันเกิดเป็นของคนละคนกัน)"
+      },
+      {
+        "eng": "The roof of the house was damaged by the storm.",
+        "thai": "หลังคาของบ้านได้รับความเสียหายจากพายุ (House เป็นสิ่งของ ใช้ of the house)"
+      }
+    ],
+    "common_mistakes": "- **สับสนระหว่าง Possessive ('s) กับ Plural (s)**: คนไทยมักสับสนระหว่าง 's ที่แสดงความเป็นเจ้าของ กับ s ที่ทำให้คำนามเป็นพหูพจน์\n  - ผิด: The dogs food is in the bowl. (แปลว่า สุนัขหลายตัว อาหาร...)\n  - ถูก: The dog's food is in the bowl. (อาหารของสุนัข 1 ตัว)\n  - ถูก: The dogs' food is in the bowl. (อาหารของสุนัขหลายตัว)\n\n- **สับสนระหว่าง Possessive ('s) กับ Verb Contraction ('s = is/has)**: หน้าตาเหมือนกันเป๊ะ แต่ทำหน้าที่ต่างกันโดยสิ้นเชิง\n  - He's my friend. ('s = is) -> เขาคือเพื่อนของฉัน\n  - David's friend is here. ('s = possessive) -> เพื่อนของเดวิดอยู่ที่นี่\n\n- **ใช้ 's กับสิ่งของไม่มีชีวิต**: แม้จะพอเข้าใจได้ แต่ไม่เป็นธรรมชาติในภาษาอังกฤษ ควรใช้โครงสร้าง 'of the' มากกว่า\n  - ควรเลี่ยง: The computer's screen is broken.\n  - ควรใช้: The screen of the computer is broken.\n\n- **ใส่ Apostrophe ผิดตำแหน่งสำหรับคำพหูพจน์**: เป็นเรื่องที่ต้องระวังมาก เพราะความหมายเปลี่ยนทันที\n  - the boy's toys (ของเล่นของเด็กชายคนเดียว)\n  - the boys' toys (ของเล่นของเด็กชายหลายคน)",
+    "practice_questions": [
+      {
+        "question": "My _____ car is parked outside.",
+        "options": [
+          "A. father",
+          "B. fathers",
+          "C. father's",
+          "D. fathers'"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคต้องการแสดงความเป็นเจ้าของรถยนต์ของ 'พ่อ' ซึ่งเป็นคำนามเอกพจน์ จึงต้องใช้ 's ต่อท้าย กลายเป็น father's"
+      },
+      {
+        "question": "The _____ restroom is down the hall.",
+        "options": [
+          "A. mens'",
+          "B. men's",
+          "C. men",
+          "D. mens"
+        ],
+        "answer": "B",
+        "explanation": "'men' เป็นคำนามพหูพจน์ที่ไม่ได้ลงท้ายด้วย s (irregular plural) ดังนั้นการแสดงความเป็นเจ้าของจึงต้องเติม 's"
+      },
+      {
+        "question": "I need to borrow all the _____ notes from yesterday's class.",
+        "options": [
+          "A. students",
+          "B. student's",
+          "C. students'",
+          "D. student"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้หมายถึงสมุดโน้ตของ 'นักเรียนหลายคน' (students) ซึ่งเป็นคำนามพหูพจน์ที่ลงท้ายด้วย s อยู่แล้ว จึงเติมแค่ apostrophe (') ต่อท้าย"
+      },
+      {
+        "question": "We celebrated at _____ and _____ anniversary party.",
+        "options": [
+          "A. Mom and Dad",
+          "B. Mom's and Dad's",
+          "C. Moms' and Dads'",
+          "D. Mom and Dad's"
+        ],
+        "answer": "D",
+        "explanation": "เป็นการฉลองปาร์ตี้ครบรอบ 'ร่วมกัน' ของพ่อและแม่ (งานเดียว) จึงเติม 's ที่คนสุดท้ายคนเดียว"
+      },
+      {
+        "question": "Can you fix the _____?",
+        "options": [
+          "A. chair's leg",
+          "B. leg of the chair",
+          "C. chairs' leg",
+          "D. leg's chair"
+        ],
+        "answer": "B",
+        "explanation": "โดยทั่วไปแล้ว เราไม่ใช้ 's เพื่อแสดงความเป็นเจ้าของกับสิ่งไม่มีชีวิต (inanimate object) อย่างเก้าอี้ แต่จะใช้โครงสร้าง '... of the ...' แทน"
+      },
+      {
+        "question": "This is my friend, _____ house is beautiful.",
+        "options": [
+          "A. James's",
+          "B. James'",
+          "C. James",
+          "D. Both A and B are correct"
+        ],
+        "answer": "D",
+        "explanation": "James เป็นชื่อเฉพาะที่ลงท้ายด้วย s สามารถแสดงความเป็นเจ้าของได้ทั้ง 2 แบบ คือการเติม 's (James's) หรือเติมแค่ ' (James') แต่นิยมใช้แบบ A มากกว่าในปัจจุบัน"
+      },
+      {
+        "question": "_____ a lovely day today!",
+        "options": [
+          "A. It's",
+          "B. Its",
+          "C. Its'",
+          "D. It"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้ต้องการคำว่า 'It is' ซึ่งย่อได้เป็น It's ส่วน Its (ไม่มี ') เป็นคำแสดงความเป็นเจ้าของ เช่น The dog wagged its tail."
+      },
+      {
+        "question": "The _____ toys are scattered all over the floor.",
+        "options": [
+          "A. childrens'",
+          "B. child's",
+          "C. children's",
+          "D. childrens"
+        ],
+        "answer": "C",
+        "explanation": "'children' เป็นคำนามพหูพจน์ที่ไม่ได้ลงท้ายด้วย s การแสดงความเป็นเจ้าของจึงต้องเติม 's กลายเป็น children's"
+      },
+      {
+        "question": "I admire both _____ and _____ painting styles.",
+        "options": [
+          "A. Lisa and Rose's",
+          "B. Lisas and Roses",
+          "C. Lisa's and Rose's",
+          "D. Lisa's and Rose"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้กล่าวถึงสไตล์การวาดภาพของแต่ละคน 'แยกกัน' (เป็นของคนละคน) ดังนั้นจึงต้องเติม 's หลังชื่อของทั้งสองคน"
+      },
+      {
+        "question": "All of the _____ lockers must be cleaned out by Friday.",
+        "options": [
+          "A. player's",
+          "B. players'",
+          "C. players",
+          "D. player"
+        ],
+        "answer": "B",
+        "explanation": "คำว่า 'All of the...' บ่งบอกว่าหมายถึงผู้เล่นหลายคน (players) ซึ่งลงท้ายด้วย s อยู่แล้ว การแสดงความเป็นเจ้าของจึงต้องเติมแค่ apostrophe (') ต่อท้าย"
+      }
+    ]
+  },
+  {
+    "id": "1_8",
+    "title": "1.8 Summary: Nouns (สรุปคำนาม + 50 Exercises)",
+    "explanation": "มาถึงบทสรุปของเรื่อง 'คำนาม' (Nouns) กันแล้วนะครับ ในบทนี้เราจะทบทวนภาพรวมทั้งหมดของคำนามเพื่อให้เข้าใจและจดจำได้ง่ายขึ้น\n\n**คำนาม (Nouns) คืออะไร?**\nคำนามคือคำที่ใช้เรียกชื่อ คน, สัตว์, สิ่งของ, สถานที่, ความคิด, หรือความรู้สึก พูดง่ายๆ ก็คือ 'ทุกสิ่งทุกอย่าง' รอบตัวเราล้วนมีชื่อเรียก ซึ่งชื่อเหล่านั้นก็คือคำนามนั่นเอง\n\n**ประเภทของคำนาม (Types of Nouns) - สรุปรวบยอด:**\n1.  **Common Nouns (สามานยนาม):** คำนามทั่วไป ไม่ชี้เฉพาะเจาะจง เช่น `dog`, `city`, `teacher`, `book` (สุนัข, เมือง, ครู, หนังสือ)\n2.  **Proper Nouns (วิสามานยนาม):** คำนามที่เป็นชื่อเฉพาะ ต้องขึ้นต้นด้วยตัวพิมพ์ใหญ่เสมอ เช่น `Max` (ชื่อสุนัข), `Bangkok` (ชื่อเมือง), `Teacher Somchai`, `Harry Potter` (ชื่อหนังสือ)\n3.  **Countable Nouns (นามนับได้):** คำนามที่สามารถนับจำนวนเป็นชิ้น เป็นอันได้ มีทั้งรูปเอกพจน์ (singular) และพหูพจน์ (plural) เช่น `one apple`, `two apples`, `a cat`, `three cats`\n4.  **Uncountable Nouns (นามนับไม่ได้):** คำนามที่ไม่สามารถนับจำนวนได้โดยตรง มักเป็นของเหลว, ผง, หรือนามธรรม จะมีแค่รูปเดียว (ไม่มีพหูพจน์) เช่น `water`, `sugar`, `information`, `happiness` (หากจะนับ ต้องใช้ภาชนะหรือหน่วยวัดมาช่วย เช่น `a glass of water`)\n5.  **Concrete Nouns (วัตถุนาม):** คำนามที่จับต้องได้ สัมผัสได้ด้วยประสาทสัมผัสทั้ง 5 (เห็น, ได้ยิน, ดมกลิ่น, ชิม, สัมผัส) เช่น `table`, `flower`, `music`, `rain`\n6.  **Abstract Nouns (อาการนาม):** คำนามที่เป็นนามธรรม จับต้องไม่ได้ เป็นเรื่องของความคิด, ความรู้สึก, คุณสมบัติ เช่น `love`, `freedom`, `courage`, `honesty`\n7.  **Collective Nouns (สมุหนาม):** คำนามที่หมายถึงกลุ่มของคน, สัตว์, หรือสิ่งของ เช่น `a team` (ทีม), `a family` (ครอบครัว), `a flock of birds` (ฝูงนก)\n8.  **Compound Nouns (นามประสม):** คำนามที่เกิดจากการนำคำ 2 คำขึ้นไปมารวมกันเป็นคำใหม่ เช่น `bus stop` (ป้ายรถเมล์), `swimming pool` (สระว่ายน้ำ), `mother-in-law` (แม่ยาย/แม่สามี)\n\n**กฎสำคัญที่ต้องจำ:**\n*   **การทำเป็นพหูพจน์ (Plurals):** ส่วนใหญ่เติม `-s` หรือ `-es` แต่มีรูปพิเศษที่ต้องจำ เช่น `child` -> `children`, `mouse` -> `mice`, `leaf` -> `leaves`\n*   **การแสดงความเป็นเจ้าของ (Possessive 's):** ใช้ `'s` กับนามเอกพจน์ (`the dog's toy`) และใช้ `'` (apostrophe อย่างเดียว) กับนามพหูพจน์ที่ลงท้ายด้วย s (`the students' books`)\n*   **นามนับไม่ได้:** ห้ามเติม `-s` และห้ามใช้ `a/an` นำหน้าเด็ดขาด",
+    "examples": [
+      {
+        "eng": "My **teacher** works in a **school** in **Bangkok**.",
+        "thai": "`teacher` และ `school` เป็น Common Noun, ส่วน `Bangkok` เป็น Proper Noun เพราะเป็นชื่อเฉพาะ"
+      },
+      {
+        "eng": "I need some **information** about this **course**.",
+        "thai": "`information` เป็น Uncountable Noun (นามนับไม่ได้) จึงไม่มีรูปพหูพจน์ ส่วน `course` เป็น Countable Noun (นามนับได้)"
+      },
+      {
+        "eng": "The **children's** laughter filled the room.",
+        "thai": "แสดงความเป็นเจ้าของของนามพหูพจน์ที่ไม่ลงท้ายด้วย s (children) โดยใช้ `'s` หมายถึง 'เสียงหัวเราะของเด็กๆ'"
+      },
+      {
+        "eng": "We saw a **flock** of **sheep** on the hill.",
+        "thai": "`flock` เป็น Collective Noun (สมุหนาม) หมายถึงฝูง ส่วน `sheep` เป็นนามที่มีรูปเอกพจน์และพหูพจน์เหมือนกัน"
+      }
+    ],
+    "common_mistakes": "จุดที่คนไทยมักพลาดเกี่ยวกับคำนาม:\n1.  **สับสนระหว่างนามนับได้และนับไม่ได้:** มักจะเติม -s ให้นามนับไม่ได้ เช่น `informations`, `furnitures`, `advices` ซึ่งผิดทั้งหมด คำเหล่านี้ไม่มีรูปพหูพจน์\n2.  **ใช้รูปพหูพจน์ผิด:** จำรูปพหูพจน์พิเศษ (Irregular Plurals) ไม่ได้ เช่น ใช้ `childs` แทน `children`, `mans` แทน `men`, หรือ `sheeps` แทน `sheep`\n3.  **ลืม Capitalize ตัวอักษรแรกของ Proper Nouns:** ชื่อเฉพาะ เช่น `monday` (ต้องเป็น `Monday`), `thailand` (ต้องเป็น `Thailand`) ต้องขึ้นต้นด้วยตัวพิมพ์ใหญ่เสมอ\n4.  **ใช้ Possessive 's ไม่ถูกต้อง:** สับสนระหว่าง `its` (ของมัน) กับ `it's` (it is) หรือวาง apostrophe ผิดตำแหน่งสำหรับคำพหูพจน์ เช่น `the student's books` (หนังสือของนักเรียนคนเดียว) กับ `the students' books` (หนังสือของนักเรียนหลายคน)",
+    "practice_questions": [
+      {
+        "question": "Which of the following is a proper noun?",
+        "options": [
+          "A. city",
+          "B. river",
+          "C. London",
+          "D. building"
+        ],
+        "answer": "C",
+        "explanation": "`London` เป็นชื่อเฉพาะของเมือง จึงเป็น Proper Noun และต้องขึ้นต้นด้วยตัวพิมพ์ใหญ่เสมอ ส่วนข้ออื่นเป็น Common Noun"
+      },
+      {
+        "question": "Choose the correct plural form of 'child'.",
+        "options": [
+          "A. childs",
+          "B. childes",
+          "C. children",
+          "D. childrens"
+        ],
+        "answer": "C",
+        "explanation": "'child' เป็นคำนามที่มีรูปพหูพจน์พิเศษ (Irregular Plural) คือ 'children'"
+      },
+      {
+        "question": "I need some _______ to make a cake.",
+        "options": [
+          "A. flour",
+          "B. flours",
+          "C. a flour",
+          "D. an flour"
+        ],
+        "answer": "A",
+        "explanation": "`flour` (แป้ง) เป็น Uncountable Noun (นามนับไม่ได้) จึงไม่มีรูปพหูพจน์และใช้ a/an นำหน้าไม่ได้"
+      },
+      {
+        "question": "The _______ toys are all over the floor.",
+        "options": [
+          "A. dog's",
+          "B. dogs'",
+          "C. dogs",
+          "D. dog"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้ต้องการแสดงความเป็นเจ้าของของสุนัขหนึ่งตัว (a dog) จึงใช้ `dog's`"
+      },
+      {
+        "question": "Which word is an abstract noun?",
+        "options": [
+          "A. table",
+          "B. happiness",
+          "C. water",
+          "D. phone"
+        ],
+        "answer": "B",
+        "explanation": "`happiness` (ความสุข) เป็นนามธรรม (Abstract Noun) ไม่สามารถจับต้องได้ ส่วนข้ออื่นเป็น Concrete Noun"
+      },
+      {
+        "question": "A _______ of lions is called a pride.",
+        "options": [
+          "A. group",
+          "B. herd",
+          "C. team",
+          "D. flock"
+        ],
+        "answer": "A",
+        "explanation": "ในบริบททั่วไป `group` (กลุ่ม) สามารถใช้ได้ แต่ถ้าเป็นศัพท์เฉพาะของกลุ่มสิงโตจะเรียกว่า a pride of lions. อย่างไรก็ตาม ในตัวเลือกนี้ `group` เหมาะสมที่สุด `herd` ใช้กับสัตว์กินพืช, `team` ใช้กับคน, `flock` ใช้กับนกหรือแกะ"
+      },
+      {
+        "question": "What is the plural of 'mouse'?",
+        "options": [
+          "A. mouses",
+          "B. mice",
+          "C. mouse",
+          "D. meece"
+        ],
+        "answer": "B",
+        "explanation": "'mouse' (หนู) มีรูปพหูพจน์พิเศษคือ 'mice'"
+      },
+      {
+        "question": "We bought a lot of new _______ for our apartment.",
+        "options": [
+          "A. furnitures",
+          "B. a furniture",
+          "C. furniture",
+          "D. furnituress"
+        ],
+        "answer": "C",
+        "explanation": "`furniture` เป็น Uncountable Noun (นามนับไม่ได้) หมายถึงเครื่องเรือนโดยรวม จะไม่มีการเติม -s"
+      },
+      {
+        "question": "My _______ car is red.",
+        "options": [
+          "A. sister's",
+          "B. sisters'",
+          "C. sister",
+          "D. sisters"
+        ],
+        "answer": "A",
+        "explanation": "แสดงความเป็นเจ้าของของพี่สาว/น้องสาวหนึ่งคน จึงใช้ `sister's`"
+      },
+      {
+        "question": "Which of these is a compound noun?",
+        "options": [
+          "A. beautiful",
+          "B. friendship",
+          "C. bus stop",
+          "D. quickly"
+        ],
+        "answer": "C",
+        "explanation": "`bus stop` เกิดจากการรวมกันของคำว่า `bus` และ `stop` จึงเป็น Compound Noun (นามประสม)"
+      },
+      {
+        "question": "She gave me a very useful piece of _______.",
+        "options": [
+          "A. advices",
+          "B. advice",
+          "C. an advice",
+          "D. advise"
+        ],
+        "answer": "B",
+        "explanation": "`advice` (คำแนะนำ) เป็น Uncountable Noun หากต้องการนับจะใช้ `a piece of advice`"
+      },
+      {
+        "question": "How many _______ are in this photo?",
+        "options": [
+          "A. person",
+          "B. people",
+          "C. persons",
+          "D. peoples"
+        ],
+        "answer": "B",
+        "explanation": "รูปพหูพจน์ของ `person` คือ `people`"
+      },
+      {
+        "question": "I saw three _______ in the field.",
+        "options": [
+          "A. deers",
+          "B. deer",
+          "C. a deer",
+          "D. deeres"
+        ],
+        "answer": "B",
+        "explanation": "`deer` (กวาง) เป็นคำนามที่รูปเอกพจน์และพหูพจน์เหมือนกัน"
+      },
+      {
+        "question": "This is my _______ office.",
+        "options": [
+          "A. boss'",
+          "B. boss's",
+          "C. bosses",
+          "D. bosses'"
+        ],
+        "answer": "B",
+        "explanation": "แสดงความเป็นเจ้าของของเจ้านายหนึ่งคนที่ชื่อลงท้ายด้วย s สามารถเขียนได้ทั้ง `boss's` หรือ `boss'` แต่ `boss's` เป็นที่นิยมมากกว่าในปัจจุบัน"
+      },
+      {
+        "question": "The _______ are flying south for the winter.",
+        "options": [
+          "A. goose",
+          "B. gooses",
+          "C. geese",
+          "D. geeses"
+        ],
+        "answer": "C",
+        "explanation": "รูปพหูพจน์ของ `goose` (ห่าน) คือ `geese`"
+      },
+      {
+        "question": "_______ is the best policy.",
+        "options": [
+          "A. Honest",
+          "B. Honestly",
+          "C. Honesty",
+          "D. An honesty"
+        ],
+        "answer": "C",
+        "explanation": "ตำแหน่งประธานของประโยคต้องการคำนาม `Honesty` (ความซื่อสัตย์) เป็น Abstract Noun"
+      },
+      {
+        "question": "The police are looking for more _______.",
+        "options": [
+          "A. information",
+          "B. informations",
+          "C. an information",
+          "D. one information"
+        ],
+        "answer": "A",
+        "explanation": "`information` เป็น Uncountable Noun ไม่สามารถเติม -s ได้"
+      },
+      {
+        "question": "Please put the _______ on the table.",
+        "options": [
+          "A. bookes",
+          "B. book's",
+          "C. book",
+          "D. books"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคนี้มีความหมายเป็นนัยว่ามีหนังสือหลายเล่ม หรือหนังสือโดยทั่วไป การใช้รูปพหูพจน์ `books` จึงเหมาะสมที่สุด"
+      },
+      {
+        "question": "What is the noun form of the word 'decide'?",
+        "options": [
+          "A. decision",
+          "B. decisive",
+          "C. decidedly",
+          "D. deciding"
+        ],
+        "answer": "A",
+        "explanation": "`decision` (การตัดสินใจ) คือคำนามของกริยา `decide`"
+      },
+      {
+        "question": "A group of birds is called a _______.",
+        "options": [
+          "A. pack",
+          "B. school",
+          "C. flock",
+          "D. herd"
+        ],
+        "answer": "C",
+        "explanation": "สมุหนาม (Collective Noun) ที่ใช้เรียกฝูงนกคือ `flock`"
+      },
+      {
+        "question": "He brushes his _______ every day.",
+        "options": [
+          "A. tooths",
+          "B. teeths",
+          "C. teeth",
+          "D. tooth"
+        ],
+        "answer": "C",
+        "explanation": "คนเรามีฟันหลายซี่ จึงต้องใช้รูปพหูพจน์ของ `tooth` ซึ่งก็คือ `teeth`"
+      },
+      {
+        "question": "Can you buy two _______ of bread?",
+        "options": [
+          "A. loafs",
+          "B. loaf",
+          "C. loaves",
+          "D. loafes"
+        ],
+        "answer": "C",
+        "explanation": "รูปพหูพจน์ของ `loaf` (แถว) ซึ่งลงท้ายด้วย f คือ `loaves`"
+      },
+      {
+        "question": "All the _______ have been sent.",
+        "options": [
+          "A. news",
+          "B. new",
+          "C. newes",
+          "D. a news"
+        ],
+        "answer": "A",
+        "explanation": "`news` (ข่าว) เป็น Uncountable Noun แม้จะลงท้ายด้วย s แต่ก็ถือเป็นเอกพจน์เสมอ (The news is...) แต่ในที่นี้ 'All the news' หมายถึงข่าวทั้งหมด"
+      },
+      {
+        "question": "My _______ are going on vacation.",
+        "options": [
+          "A. parents's",
+          "B. parent's",
+          "C. parents'",
+          "D. parents"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคนี้ต้องการคำนามที่เป็นประธาน `parents` (พ่อแม่) ไม่ได้ต้องการแสดงความเป็นเจ้าของ"
+      },
+      {
+        "question": "_______ is a big problem in many cities.",
+        "options": [
+          "A. Traffics",
+          "B. A traffic",
+          "C. The traffics",
+          "D. Traffic"
+        ],
+        "answer": "D",
+        "explanation": "`traffic` (การจราจร) เป็น Uncountable Noun จึงไม่มีรูปพหูพจน์"
+      },
+      {
+        "question": "What is the plural of 'woman'?",
+        "options": [
+          "A. womans",
+          "B. women",
+          "C. womanes",
+          "D. womens"
+        ],
+        "answer": "B",
+        "explanation": "รูปพหูพจน์ของ 'woman' คือ 'women' (ออกเสียงว่า วิม-เมิน)"
+      },
+      {
+        "question": "The _______ are in the classroom.",
+        "options": [
+          "A. student's",
+          "B. students'",
+          "C. students",
+          "D. studentes"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้ต้องการคำนามพหูพจน์ `students` (นักเรียนหลายคน) เพื่อทำหน้าที่เป็นประธาน"
+      },
+      {
+        "question": "I don't have much _______ to do today.",
+        "options": [
+          "A. works",
+          "B. work",
+          "C. a work",
+          "D. working"
+        ],
+        "answer": "B",
+        "explanation": "ในความหมายว่า 'งาน' `work` เป็น Uncountable Noun จึงใช้กับ `much` และไม่มีรูปพหูพจน์"
+      },
+      {
+        "question": "You need a lot of _______ to be a good leader.",
+        "options": [
+          "A. courageous",
+          "B. courages",
+          "C. courage",
+          "D. a courage"
+        ],
+        "answer": "C",
+        "explanation": "`courage` (ความกล้าหาญ) เป็น Abstract Noun และเป็น Uncountable Noun"
+      },
+      {
+        "question": "The _______ were stolen from the museum.",
+        "options": [
+          "A. paintings'",
+          "B. painting",
+          "C. painting's",
+          "D. paintings"
+        ],
+        "answer": "D",
+        "explanation": "กริยา 'were' เป็นพหูพจน์ ดังนั้นประธานของประโยคต้องเป็นนามพหูพจน์ คือ `paintings` (ภาพวาดหลายภาพ)"
+      },
+      {
+        "question": "The _______ keys are on the table.",
+        "options": [
+          "A. cars'",
+          "B. car's",
+          "C. cars",
+          "D. car"
+        ],
+        "answer": "B",
+        "explanation": "กริยา 'are' ในที่นี้หมายถึง keys (พหูพจน์) ประโยคนี้แสดงความเป็นเจ้าของของรถหนึ่งคัน จึงใช้ `car's keys` (กุญแจของรถ)"
+      },
+      {
+        "question": "We need to buy some new kitchen _______.",
+        "options": [
+          "A. knife",
+          "B. knifes",
+          "C. knives",
+          "D. knive"
+        ],
+        "answer": "C",
+        "explanation": "รูปพหูพจน์ของคำนามที่ลงท้ายด้วย -fe เช่น `knife` คือการเปลี่ยน -fe เป็น -ves จึงได้ `knives`"
+      },
+      {
+        "question": "Which of these is NOT a collective noun?",
+        "options": [
+          "A. team",
+          "B. crowd",
+          "C. family",
+          "D. student"
+        ],
+        "answer": "D",
+        "explanation": "`team`, `crowd`, `family` เป็นคำนามที่หมายถึงกลุ่ม (Collective Noun) ส่วน `student` เป็นคำนามทั่วไป (Common Noun)"
+      },
+      {
+        "question": "I would like a glass of _______, please.",
+        "options": [
+          "A. waters",
+          "B. water",
+          "C. a water",
+          "D. the waters"
+        ],
+        "answer": "B",
+        "explanation": "`water` เป็น Uncountable Noun เราใช้ `a glass of` เพื่อบอกปริมาณ"
+      },
+      {
+        "question": "There are many _______ in the ocean.",
+        "options": [
+          "A. fish",
+          "B. fishs",
+          "C. fishes",
+          "D. a fish"
+        ],
+        "answer": "A",
+        "explanation": "`fish` เป็นคำนามที่รูปเอกพจน์และพหูพจน์เหมือนกัน (Fishes ใช้เมื่อหมายถึงปลาต่างสายพันธุ์)"
+      },
+      {
+        "question": "This company has a lot of ______.",
+        "options": [
+          "A. equipments",
+          "B. equipment",
+          "C. an equipment",
+          "D. many equipment"
+        ],
+        "answer": "B",
+        "explanation": "`equipment` (อุปกรณ์) เป็น Uncountable Noun ไม่มีการเติม -s"
+      },
+      {
+        "question": "All the _______ bags are in the car.",
+        "options": [
+          "A. women's",
+          "B. womans'",
+          "C. womens'",
+          "D. woman's"
+        ],
+        "answer": "A",
+        "explanation": "แสดงความเป็นเจ้าของของ 'women' (ผู้หญิงหลายคน) ซึ่งเป็นนามพหูพจน์ที่ไม่ลงท้ายด้วย s จึงใช้ `'s`"
+      },
+      {
+        "question": "Do you have any _______ for the trip?",
+        "options": [
+          "A. luggages",
+          "B. luggage",
+          "C. a luggage",
+          "D. lugging"
+        ],
+        "answer": "B",
+        "explanation": "`luggage` หรือ `baggage` (สัมภาระ) เป็น Uncountable Noun"
+      },
+      {
+        "question": "The fall of _______ makes the forest beautiful.",
+        "options": [
+          "A. leafs",
+          "B. leaf",
+          "C. leaves",
+          "D. leavs"
+        ],
+        "answer": "C",
+        "explanation": "รูปพหูพจน์ของ `leaf` (ใบไม้) คือ `leaves`"
+      },
+      {
+        "question": "Could you chop the _______ for the salad?",
+        "options": [
+          "A. potato",
+          "B. potatoes",
+          "C. potato's",
+          "D. potatos"
+        ],
+        "answer": "B",
+        "explanation": "รูปพหูพจน์ของคำนามที่ลงท้ายด้วย -o และหน้า -o เป็นพยัญชนะ ส่วนใหญ่จะเติม -es เช่น `potatoes`, `tomatoes`"
+      },
+      {
+        "question": "The _______ are sleeping in their beds.",
+        "options": [
+          "A. babies",
+          "B. baby's",
+          "C. babys",
+          "D. babyes"
+        ],
+        "answer": "A",
+        "explanation": "รูปพหูพจน์ของคำนามที่ลงท้ายด้วย -y และหน้า -y เป็นพยัญชนะ คือการเปลี่ยน y เป็น i แล้วเติม es จึงได้ `babies`"
+      },
+      {
+        "question": "_______ is my favorite subject.",
+        "options": [
+          "A. Mathematics'",
+          "B. A mathematics",
+          "C. Mathematics",
+          "D. The mathematics"
+        ],
+        "answer": "C",
+        "explanation": "ชื่อวิชา เช่น `Mathematics`, `Physics` แม้จะลงท้ายด้วย s แต่ถือเป็นคำนามเอกพจน์"
+      },
+      {
+        "question": "I can see a _______ of sheep on the hill.",
+        "options": [
+          "A. team",
+          "B. pack",
+          "C. school",
+          "D. flock"
+        ],
+        "answer": "D",
+        "explanation": "สมุหนาม (Collective Noun) ที่ใช้เรียกฝูงแกะคือ `flock`"
+      },
+      {
+        "question": "The cat is washing _______ paws.",
+        "options": [
+          "A. it's",
+          "B. its'",
+          "C. its",
+          "D. it"
+        ],
+        "answer": "C",
+        "explanation": "`its` เป็นคำสรรพนามแสดงความเป็นเจ้าของ แปลว่า 'ของมัน' ส่วน `it's` ย่อมาจาก `it is`"
+      },
+      {
+        "question": "There isn't _______ rice left.",
+        "options": [
+          "A. many",
+          "B. much",
+          "C. a lot",
+          "D. several"
+        ],
+        "answer": "B",
+        "explanation": "`rice` (ข้าว) เป็น Uncountable Noun จึงต้องใช้กับ `much` ในประโยคปฏิเสธ"
+      },
+      {
+        "question": "We visited several _______ in Europe.",
+        "options": [
+          "A. countrys",
+          "B. country",
+          "C. countries",
+          "D. country's"
+        ],
+        "answer": "C",
+        "explanation": "`several` (หลาย) ต้องตามด้วยนามพหูพจน์ รูปพหูพจน์ของ `country` คือ `countries`"
+      },
+      {
+        "question": "The _______ speech was very inspiring.",
+        "options": [
+          "A. hero's",
+          "B. heros'",
+          "C. heroes'",
+          "D. heroe's"
+        ],
+        "answer": "A",
+        "explanation": "แสดงความเป็นเจ้าของของวีรบุรุษหนึ่งคน จึงใช้ `hero's`"
+      },
+      {
+        "question": "You can find this book in the _______.",
+        "options": [
+          "A. children's section",
+          "B. childrens' section",
+          "C. child's section",
+          "D. childs' section"
+        ],
+        "answer": "A",
+        "explanation": "หมายถึง 'แผนกของเด็กๆ' ซึ่งแสดงความเป็นเจ้าของของ `children` (พหูพจน์) จึงใช้ `children's`"
+      },
+      {
+        "question": "The story is about two _______ and a wolf.",
+        "options": [
+          "A. ox",
+          "B. oxes",
+          "C. oxen",
+          "D. oxs"
+        ],
+        "answer": "C",
+        "explanation": "รูปพหูพจน์ของ `ox` (วัวตัวผู้) คือ `oxen`"
+      },
+      {
+        "question": "Can I have two _______ of coffee, please?",
+        "options": [
+          "A. cup",
+          "B. cups",
+          "C. cupes",
+          "D. cup's"
+        ],
+        "answer": "B",
+        "explanation": "`two` ต้องตามด้วยนามพหูพจน์ ซึ่งรูปพหูพจน์ของ `cup` คือ `cups`"
+      }
+    ]
+  }
+]

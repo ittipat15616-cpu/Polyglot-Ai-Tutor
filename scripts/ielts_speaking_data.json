@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "title": "IELTS Mock Speaking 1: Hometown and Travel",
+    "task1": {
+      "topic": "Hometown",
+      "questions": [
+        "Where is your hometown?",
+        "What do you like most about it?",
+        "Is it a good place for young people to live?"
+      ]
+    },
+    "task2": {
+      "topic": "Describe a memorable journey you have made.",
+      "prompts": [
+        "Where you went",
+        "How you traveled",
+        "Who you went with",
+        "And explain why it was so memorable"
+      ]
+    },
+    "task3": {
+      "topic": "Tourism and Environment",
+      "questions": [
+        "How has tourism changed the way people travel?",
+        "What are the environmental impacts of tourism?",
+        "How can governments promote eco-tourism?"
+      ]
+    }
+  }
+]

@@ -1,0 +1,1146 @@
+[
+  {
+    "id": "2_1",
+    "title": "2.1 Subject Pronouns (สรรพนามทำหน้าที่ประธาน)",
+    "explanation": "Subject Pronouns หรือ สรรพนามประธาน คือคำสรรพนามที่ใช้แทนคำนาม (คน, สัตว์, สิ่งของ) ที่ทำหน้าที่เป็น 'ประธาน' ของประโยค\nประธานคือผู้กระทำกริยาในประโยค ดังนั้น Subject Pronoun จะวางอยู่หน้าคำกริยาเสมอ\n\nSubject Pronouns ในภาษาอังกฤษมีทั้งหมด 7 ตัว ได้แก่:\n1.  **I** (ไอ) = ฉัน, ผม, ดิฉัน (ผู้พูดคนเดียว)\n2.  **You** (ยู) = คุณ, เธอ, ท่าน (ผู้ฟัง อาจมีคนเดียวหรือหลายคนก็ได้)\n3.  **We** (วี) = เรา, พวกเรา (กลุ่มที่มีผู้พูดรวมอยู่ด้วย)\n4.  **They** (เด) = พวกเขา, พวกมัน (กลุ่มคน, สัตว์, หรือสิ่งของที่ถูกกล่าวถึง)\n5.  **He** (ฮี) = เขา (ผู้ชายคนเดียวที่ถูกกล่าวถึง)\n6.  **She** (ชี) = เธอ, หล่อน (ผู้หญิงคนเดียวที่ถูกกล่าวถึง)\n7.  **It** (อิท) = มัน (สัตว์หรือสิ่งของสิ่งเดียวที่ถูกกล่าวถึง)\n\nหลักการจำง่ายๆ คือ 'ใคร' หรือ 'อะไร' เป็นคนทำกริยา ให้ใช้คำสรรพนามกลุ่มนี้มาแทนที่ เช่น แทนที่จะพูดว่า 'Somsak runs.' (สมศักดิ์วิ่ง) เราสามารถใช้ 'He runs.' (เขาวิ่ง) แทนได้",
+    "examples": [
+      {
+        "eng": "Ploy is a student. She studies hard.",
+        "thai": "พลอยเป็นนักเรียน 'She' (เธอ) ใช้แทนชื่อ 'Ploy' ซึ่งเป็นประธานของประโยคที่สอง"
+      },
+      {
+        "eng": "I am learning English.",
+        "thai": "'I' (ฉัน) เป็นประธานของประโยค ทำกริยา 'am learning' (กำลังเรียน)"
+      },
+      {
+        "eng": "My parents are at home. They are watching TV.",
+        "thai": "'They' (พวกเขา) ใช้แทน 'My parents' (พ่อแม่ของฉัน) ซึ่งเป็นประธานพหูพจน์"
+      },
+      {
+        "eng": "The cat is sleeping. It is on the sofa.",
+        "thai": "'It' (มัน) ใช้แทน 'The cat' (แมว) ซึ่งเป็นประธานเอกพจน์ (สัตว์)"
+      },
+      {
+        "eng": "You and I are a team. We should work together.",
+        "thai": "'We' (พวกเรา) ใช้แทน 'You and I' (คุณและฉัน) เพราะเป็นกลุ่มที่มีผู้พูด (I) รวมอยู่ด้วย"
+      }
+    ],
+    "common_mistakes": "1. **สับสนระหว่าง Subject Pronoun (I, he, she) กับ Object Pronoun (me, him, her)**: นี่คือข้อผิดพลาดที่พบบ่อยที่สุด คนไทยมักจะพูดผิดเป็น 'Me go to school.' ที่ถูกต้องคือ 'I go to school.' หรือ 'Him is my friend.' ที่ถูกต้องคือ 'He is my friend.'\n   - **วิธีจำ:** ถ้าคำนั้นเป็น 'ผู้กระทำ' (อยู่หน้ากริยา) ต้องใช้ I, you, we, they, he, she, it เสมอ\n\n2. **ละประธานของประโยค**: ในภาษาไทย เรามักจะละประธานไว้ในฐานที่เข้าใจ แต่ในภาษาอังกฤษ ประโยคส่วนใหญ่ต้องมีประธานเสมอ\n   - **ผิด:** Is a doctor. (เป็นหมอ)\n   - **ถูก:** He is a doctor. / She is a doctor.\n\n3. **ใช้ 'They' กับคนเท่านั้น**: คนไทยมักจะคิดว่า 'They' (พวกเขา) ใช้กับคนเท่านั้น แต่จริงๆ แล้ว 'They' ใช้แทนคำนามพหูพจน์ได้ทั้งหมด ไม่ว่าจะเป็น คน, สัตว์, หรือสิ่งของ\n   - **ตัวอย่าง:** I have two dogs. They are cute. (ฉันมีสุนัขสองตัว พวกมันน่ารัก)\n\n4. **สับสน 'He' กับ 'She'**: เนื่องจากภาษาไทยใช้คำว่า 'เขา' ได้ทั้งกับผู้ชายและผู้หญิง ทำให้บางครั้งสับสนเวลาพูดภาษาอังกฤษ ต้องจำให้แม่นว่า 'He' คือผู้ชาย และ 'She' คือผู้หญิง",
+    "practice_questions": [
+      {
+        "question": "My name is Suda. ___ am a teacher.",
+        "options": [
+          "A. She",
+          "B. Her",
+          "C. I",
+          "D. Me"
+        ],
+        "answer": "C",
+        "explanation": "ผู้พูดกำลังแนะนำตัวเอง ประธานที่ใช้แทนตัวเองคือ 'I' (ฉัน)"
+      },
+      {
+        "question": "Mr. Smith is from America. ___ speaks English.",
+        "options": [
+          "A. He",
+          "B. His",
+          "C. Him",
+          "D. It"
+        ],
+        "answer": "A",
+        "explanation": "Mr. Smith เป็นผู้ชายคนเดียว สรรพนามประธานที่ใช้แทนคือ 'He' (เขา)"
+      },
+      {
+        "question": "My sister loves cats. ___ has two of them.",
+        "options": [
+          "A. He",
+          "B. She",
+          "C. They",
+          "D. Her"
+        ],
+        "answer": "B",
+        "explanation": "'My sister' (พี่สาว/น้องสาว) เป็นผู้หญิงคนเดียว สรรพนามประธานที่ใช้แทนคือ 'She' (เธอ)"
+      },
+      {
+        "question": "The dogs are playing in the garden. ___ look happy.",
+        "options": [
+          "A. It",
+          "B. We",
+          "C. Them",
+          "D. They"
+        ],
+        "answer": "D",
+        "explanation": "'The dogs' เป็นคำนามพหูพจน์ (สัตว์หลายตัว) จึงต้องใช้ 'They' (พวกมัน) มาแทน"
+      },
+      {
+        "question": "This is my computer. ___ is very fast.",
+        "options": [
+          "A. It",
+          "B. He",
+          "C. They",
+          "D. She"
+        ],
+        "answer": "A",
+        "explanation": "'My computer' เป็นสิ่งของสิ่งเดียว สรรพนามประธานที่ใช้แทนคือ 'It' (มัน)"
+      },
+      {
+        "question": "My friends and I study at the same school. ___ are classmates.",
+        "options": [
+          "A. They",
+          "B. We",
+          "C. You",
+          "D. Us"
+        ],
+        "answer": "B",
+        "explanation": "กลุ่มคำว่า 'My friends and I' (เพื่อนๆ และฉัน) หมายถึงกลุ่มที่มีตัวผู้พูดรวมอยู่ด้วย ดังนั้นจึงใช้ 'We' (พวกเรา)"
+      },
+      {
+        "question": "Lisa, ___ need to finish your homework.",
+        "options": [
+          "A. she",
+          "B. you",
+          "C. I",
+          "D. we"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้เป็นการพูดกับ Lisa โดยตรง สรรพนามที่ใช้แทนผู้ฟังคือ 'You' (คุณ, เธอ)"
+      },
+      {
+        "question": "My grandparents live in Chiang Mai. ___ visit them every year.",
+        "options": [
+          "A. We",
+          "B. He",
+          "C. It",
+          "D. They"
+        ],
+        "answer": "D",
+        "explanation": "'My grandparents' (ปู่ย่าตายาย) เป็นบุคคลพหูพจน์ที่ถูกกล่าวถึง จึงใช้สรรพนาม 'They' (พวกเขา)"
+      },
+      {
+        "question": "___ is raining outside. Don't forget your umbrella.",
+        "options": [
+          "A. He",
+          "B. She",
+          "C. It",
+          "D. They"
+        ],
+        "answer": "C",
+        "explanation": "เราใช้ 'It' เป็นประธานของประโยคเมื่อพูดถึงสภาพอากาศ ดินฟ้าอากาศ หรือเวลา"
+      },
+      {
+        "question": "___ and my brother are going to the cinema.",
+        "options": [
+          "A. Me",
+          "B. My",
+          "C. I",
+          "D. Mine"
+        ],
+        "answer": "C",
+        "explanation": "ตำแหน่งนี้ต้องการประธานของประโยค (Subject) จึงต้องใช้ 'I' ไม่ใช่ 'Me' ซึ่งเป็นกรรม (Object)"
+      }
+    ]
+  },
+  {
+    "id": "2_2",
+    "title": "2.2 Object Pronouns (สรรพนามทำหน้าที่กรรม)",
+    "explanation": "Object Pronouns คือคำสรรพนามที่ทำหน้าที่เป็น 'กรรม' ของประโยค ไม่ว่าจะเป็นกรรมตรง (Direct Object) หรือกรรมรอง (Indirect Object) ของคำกริยา หรือเป็นกรรมของคำบุพบท (Object of Preposition) พูดง่ายๆ ก็คือ เป็นผู้ 'ถูกกระทำ' ในประโยคนั่นเองครับ\n\nตำแหน่งของ Object Pronouns มักจะอยู่ 'หลัง' คำกริยา (Verb) หรือ 'หลัง' คำบุพบท (Preposition) เช่น for, to, with, at, in\n\nตารางเปรียบเทียบ Subject Pronouns และ Object Pronouns:\n- I (ฉัน - ประธาน)  ->  me (ฉัน - กรรม)\n- You (คุณ - ประธาน) ->  you (คุณ - กรรม)\n- He (เขา - ประธาน)  ->  him (เขา - กรรม)\n- She (เธอ - ประธาน) ->  her (เธอ - กรรม)\n- It (มัน - ประธาน)   ->  it (มัน - กรรม)\n- We (พวกเรา - ประธาน) -> us (พวกเรา - กรรม)\n- They (พวกเขา/พวกมัน - ประธาน) -> them (พวกเขา/พวกมัน - กรรม)\n\nหลักการจำง่ายๆ คือ 'ถ้าไม่ใช่ประธานของประโยค และเป็นผู้ถูกกระทำ ให้ใช้รูปกรรม (Object Pronoun)'",
+    "examples": [
+      {
+        "eng": "She loves me.",
+        "thai": "เธอรักฉัน ('ฉัน' เป็นผู้ถูกรัก จึงใช้ me ซึ่งเป็นกรรม อยู่หลังกริยา loves)"
+      },
+      {
+        "eng": "I will call him tomorrow.",
+        "thai": "ฉันจะโทรหาเขาพรุ่งนี้ ('เขา' เป็นผู้ถูกโทรหา จึงใช้ him ซึ่งเป็นกรรม อยู่หลังกริยา call)"
+      },
+      {
+        "eng": "The teacher gave her a book.",
+        "thai": "คุณครูให้หนังสือแก่เธอ ('เธอ' เป็นผู้ได้รับหนังสือ เป็นกรรมรอง จึงใช้ her)"
+      },
+      {
+        "eng": "Please wait for us.",
+        "thai": "กรุณารอพวกเราด้วย ('พวกเรา' เป็นผู้ถูกรอ จึงใช้ us ซึ่งเป็นกรรม อยู่หลังคำบุพบท for)"
+      },
+      {
+        "eng": "Can you help them?",
+        "thai": "คุณช่วยพวกเขาได้ไหม ('พวกเขา' เป็นผู้ได้รับการช่วยเหลือ จึงใช้ them ซึ่งเป็นกรรม อยู่หลังกริยา help)"
+      },
+      {
+        "eng": "My dog is cute. I love it.",
+        "thai": "สุนัขของฉันน่ารัก ฉันรักมัน ('มัน' หมายถึงสุนัข เป็นผู้ถูกรัก จึงใช้ it ซึ่งเป็นกรรม)"
+      }
+    ],
+    "common_mistakes": "ข้อผิดพลาดที่คนไทยเจอบ่อยที่สุด คือการสับสนระหว่าง Subject Pronoun (รูปประธาน) กับ Object Pronoun (รูปกรรม) และนำไปใช้ผิดตำแหน่ง\n\n1. ใช้รูปประธานในตำแหน่งกรรม (ผิดหลักไวยากรณ์อย่างชัดเจน)\n- ผิด: My mother told I to clean my room.\n- ถูก: My mother told me to clean my room. (แม่บอก 'ฉัน' ซึ่งเป็นผู้ถูกบอก ต้องใช้ me)\n\n- ผิด: Can you pass the salt to she?\n- ถูก: Can you pass the salt to her? (ส่งเกลือให้ 'เธอ' ซึ่งเป็นผู้รับ ต้องใช้ her หลังบุพบท to)\n\n- ผิด: The gift is for they.\n- ถูก: The gift is for them. (ของขวัญสำหรับ 'พวกเขา' ซึ่งเป็นผู้รับ ต้องใช้ them หลังบุพบท for)\n\n2. สับสนระหว่าง 'her' (Object Pronoun) กับ 'her' (Possessive Adjective)\n- Her ที่เป็น Object Pronoun จะอยู่เดี่ยวๆ และทำหน้าที่เป็นกรรม แปลว่า 'เธอ(ผู้หญิง)'\n  ตัวอย่าง: I saw her at the market. (ฉันเห็นเธอที่ตลาด)\n- Her ที่เป็น Possessive Adjective จะต้องมีคำนามตามหลังเสมอ แปลว่า 'ของเธอ'\n  ตัวอย่าง: I saw her car at the market. (ฉันเห็นรถของเธอที่ตลาด)\nจุดสังเกตง่ายๆ คือ ถ้าเจอ her แล้วตามด้วยคำนาม แสดงว่าเป็น Possessive Adjective แต่ถ้าเจอ her แล้วจบประโยคหรือตามด้วยอย่างอื่นที่ไม่ใช่คำนาม แสดงว่าเป็น Object Pronoun",
+    "practice_questions": [
+      {
+        "question": "The teacher is looking at ______. We should be quiet.",
+        "options": [
+          "A. we",
+          "B. our",
+          "C. us",
+          "D. ours"
+        ],
+        "answer": "C",
+        "explanation": "ในประโยคนี้ คำสรรพนามอยู่หลังคำบุพบท (preposition) 'at' จึงต้องใช้ในรูปกรรม (Object Pronoun) ซึ่งก็คือ 'us' (พวกเรา) เพื่อทำหน้าที่เป็นกรรมของบุพบท"
+      },
+      {
+        "question": "I can't find my keys. Have you seen ______?",
+        "options": [
+          "A. they",
+          "B. them",
+          "C. their",
+          "D. it"
+        ],
+        "answer": "B",
+        "explanation": "'keys' เป็นคำนามพหูพจน์ สรรพนามที่ใช้แทนคือ 'they' แต่ในประโยคนี้ทำหน้าที่เป็นกรรม (ผู้ถูกเห็น) จึงต้องใช้รูปกรรมคือ 'them'"
+      },
+      {
+        "question": "This package is for Mr. Smith. Could you please give it to ______?",
+        "options": [
+          "A. he",
+          "B. his",
+          "C. her",
+          "D. him"
+        ],
+        "answer": "D",
+        "explanation": "Mr. Smith เป็นผู้ชาย สรรพนามที่ใช้แทนคือ he/him ตำแหน่งในประโยคนี้อยู่หลังคำบุพบท 'to' จึงต้องใช้รูปกรรมคือ 'him'"
+      },
+      {
+        "question": "My sister is calling. I need to talk to ______ now.",
+        "options": [
+          "A. she",
+          "B. her",
+          "C. hers",
+          "D. she's"
+        ],
+        "answer": "B",
+        "explanation": "สรรพนามที่ใช้แทน 'my sister' คือ she/her ในประโยคนี้ตำแหน่งอยู่หลังบุพบท 'to' จึงต้องใช้รูปกรรมคือ 'her'"
+      },
+      {
+        "question": "Please don't tell ______ the secret. It's a surprise for her birthday.",
+        "options": [
+          "A. she",
+          "B. her",
+          "C. hers",
+          "D. his"
+        ],
+        "answer": "B",
+        "explanation": "ในที่นี้ต้องการสรรพนามที่เป็นกรรมของกริยา 'tell' (บอก) เพื่อหมายถึง 'เธอ' ผู้หญิง ดังนั้นจึงต้องใช้ 'her'"
+      },
+      {
+        "question": "My friends and I are going to the party. You can come with ______.",
+        "options": [
+          "A. them",
+          "B. we",
+          "C. us",
+          "D. me"
+        ],
+        "answer": "C",
+        "explanation": "สรรพนามที่แทน 'My friends and I' (เพื่อนๆ และฉัน) คือ 'we' (พวกเรา) แต่ในประโยคนี้ตำแหน่งอยู่หลังบุพบท 'with' จึงต้องใช้รูปกรรมคือ 'us'"
+      },
+      {
+        "question": "The book was very interesting. I recommend ______ to everyone.",
+        "options": [
+          "A. it",
+          "B. its",
+          "C. he",
+          "D. them"
+        ],
+        "answer": "A",
+        "explanation": "สรรพนามที่แทน 'The book' (หนังสือ 1 เล่ม) คือ 'it' ในตำแหน่งกรรมของกริยา 'recommend' (แนะนำ) ก็ยังคงใช้ 'it' เหมือนเดิม"
+      },
+      {
+        "question": "If you see John, please give ______ this message.",
+        "options": [
+          "A. he",
+          "B. him",
+          "C. his",
+          "D. them"
+        ],
+        "answer": "B",
+        "explanation": "'John' เป็นผู้ชาย และทำหน้าที่เป็นกรรมรอง (ผู้รับ) ของกริยา 'give' จึงต้องใช้ Object Pronoun คือ 'him'"
+      },
+      {
+        "question": "That's my new phone! Please give it back to ______.",
+        "options": [
+          "A. I",
+          "B. my",
+          "C. mine",
+          "D. me"
+        ],
+        "answer": "D",
+        "explanation": "สรรพนามในที่นี้อยู่หลังบุพบท 'to' และเป็นผู้รับ จึงต้องใช้รูปกรรม (Object Pronoun) ของ 'I' ซึ่งก็คือ 'me'"
+      },
+      {
+        "question": "I don't understand this homework. Can you explain it to ______?",
+        "options": [
+          "A. me",
+          "B. I",
+          "C. my",
+          "D. us"
+        ],
+        "answer": "A",
+        "explanation": "ผู้พูด (I) ต้องการให้คนอื่นอธิบายการบ้านให้ 'ฉัน' ฟัง ดังนั้น 'ฉัน' จึงเป็นผู้รับการกระทำ (กรรม) และอยู่หลังบุพบท 'to' จึงต้องใช้ 'me'"
+      }
+    ]
+  },
+  {
+    "id": "2_3",
+    "title": "2.3 Possessive Adjectives & Pronouns (my vs. mine)",
+    "explanation": "ในภาษาอังกฤษ การแสดงความเป็นเจ้าของมี 2 รูปแบบหลักๆ ที่มักทำให้คนไทยสับสน คือ Possessive Adjectives และ Possessive Pronouns ซึ่งมีหน้าตาคล้ายกันมาก แต่ตำแหน่งและวิธีการใช้งานต่างกันโดยสิ้นเชิงครับ\n\n**1. Possessive Adjectives (คุณศัพท์แสดงความเป็นเจ้าของ)**\n- **หน้าที่:** ใช้วางไว้ 'หน้า' คำนาม (Noun) เพื่อขยายว่าคำนามนั้นเป็นของใคร\n- **กฎเหล็ก:** ต้องมีคำนามตามหลังเสมอ! อยู่เดี่ยวๆ ไม่ได้\n- **คำศัพท์:** my, your, his, her, its, our, their\n- **โครงสร้าง:** Possessive Adjective + Noun\n- **ตัวอย่าง:** my car (รถของฉัน), her book (หนังสือของหล่อน), their house (บ้านของพวกเขา)\n\n**2. Possessive Pronouns (สรรพนามแสดงความเป็นเจ้าของ)**\n- **หน้าที่:** ใช้แทนที่ 'คำนามที่เป็นของใครสักคน' เพื่อเลี่ยงการพูดซ้ำ\n- **กฎเหล็ก:** ไม่ต้องมีคำนามตามหลัง! เพราะตัวมันเองทำหน้าที่เหมือนคำนามอยู่แล้ว\n- **คำศัพท์:** mine, yours, his, hers, ours, theirs (สังเกตว่าส่วนใหญ่จะเติม -s ต่อท้าย ยกเว้น mine และ his ที่คงรูปเดิม)\n- **โครงสร้าง:** สามารถเป็นประธาน หรือ กรรม ของประโยคได้เลย\n- **ตัวอย่าง:** That car is mine. (รถคันนั้นเป็นของฉัน) = mine แทนคำว่า my car\n\n**ตารางเปรียบเทียบเพื่อง่ายต่อการจำ:**\n| บุคคล | Possessive Adjective (ต้องมี Noun ตาม) | Possessive Pronoun (ไม่ต้องมี Noun ตาม) |\n|---|---|---|\n| I (ฉัน) | my | mine |\n| You (คุณ) | your | yours |\n| He (เขาผู้ชาย) | his | his |\n| She (เขาผู้หญิง) | her | hers |\n| It (มัน) | its | (ไม่นิยมใช้) |\n| We (พวกเรา) | our | ours |\n| They (พวกเขา) | their | theirs |",
+    "examples": [
+      {
+        "eng": "This is **my** pen. This pen is **mine**.",
+        "thai": "**my pen** (my เป็น Adjective ต้องมีนาม pen ตามหลัง) \n**is mine** (mine เป็น Pronoun ไม่ต้องมีนามตามหลัง และมักจะอยู่ท้ายประโยคแบบนี้)"
+      },
+      {
+        "eng": "Is that **your** house? Yes, that house is **yours**.",
+        "thai": "**your house** (your เป็น Adjective ขยาย house) \n**is yours** (yours เป็น Pronoun แทนคำว่า your house)"
+      },
+      {
+        "eng": "I saw **her** new car. The red car over there is **hers**.",
+        "thai": "**her car** (her เป็น Adjective ขยาย car) \n**is hers** (hers เป็น Pronoun แทนคำว่า her car)"
+      },
+      {
+        "eng": "This is **his** wallet. This wallet is **his**.",
+        "thai": "คำว่า **his** สามารถเป็นได้ทั้ง Adjective (ต้องมีนามตาม) และ Pronoun (ไม่ต้องมีนามตาม) ต้องดูตำแหน่งในประโยค"
+      },
+      {
+        "eng": "**Our** team won the match. The victory is **ours**.",
+        "thai": "**Our team** (Our เป็น Adjective ขยาย team) \n**is ours** (ours เป็น Pronoun แทนความสำเร็จของทีมเรา)"
+      },
+      {
+        "eng": "The dog wagged **its** tail.",
+        "thai": "**its tail** (its เป็น Adjective แสดงความเป็นเจ้าของของ 'มัน' คือหมา) **ข้อควรระวัง:** อย่าสับสนกับ it's ที่แปลว่า it is"
+      }
+    ],
+    "common_mistakes": "**1. ใช้ Possessive Pronoun (mine, yours) นำหน้าคำนาม:**\n- **ผิด:** This is mine book.\n- **ผิด:** Can I borrow yours pen?\n- **อธิบาย:** mine, yours, hers, ours, theirs เป็น Pronoun ไม่สามารถวางหน้าคำนามเพื่อขยายได้\n- **แก้ไข:** This is **my** book. หรือ This book is **mine**.\n- **แก้ไข:** Can I borrow **your** pen?\n\n**2. สับสนระหว่าง its (ของมัน) กับ it's (มันคือ/มันมี):**\n- **ผิด:** The cat is licking it's paw.\n- **อธิบาย:** its (ไม่มี apostrophe ') คือ Possessive Adjective แสดงความเป็นเจ้าของ ส่วน it's (มี apostrophe ') คือรูปย่อของ it is หรือ it has\n- **แก้ไข:** The cat is licking **its** paw. (แมวกำลังเลียอุ้งเท้า 'ของมัน')\n- **ตัวอย่างที่ถูกต้องของ it's:** **It's** a beautiful day. (**It is** a beautiful day.)\n\n**3. เติม Apostrophe ('s) ให้กับ Possessive Pronouns:**\n- **ผิด:** The house is her's.\n- **ผิด:** Is this book your's?\n- **อธิบาย:** คำว่า yours, hers, ours, theirs มี s อยู่ในตัวแล้ว ไม่ต้องเติม apostrophe ซ้ำเพื่อแสดงความเป็นเจ้าของอีก\n- **แก้ไข:** The house is **hers**.\n- **แก้ไข:** Is this book **yours**?",
+    "practice_questions": [
+      {
+        "question": "Excuse me, I think you dropped this. Is this wallet ___?",
+        "options": [
+          "A. your",
+          "B. you",
+          "C. yours",
+          "D. your's"
+        ],
+        "answer": "C",
+        "explanation": "ตำแหน่งนี้อยู่ท้ายประโยคและไม่มีคำนามตามหลัง จึงต้องใช้ Possessive Pronoun คือ yours ส่วน your's เป็นคำที่ผิดหลักไวยากรณ์"
+      },
+      {
+        "question": "My phone battery is dead. Can I borrow ___ for a moment?",
+        "options": [
+          "A. your",
+          "B. yours",
+          "C. mine",
+          "D. my"
+        ],
+        "answer": "B",
+        "explanation": "ในที่นี้ 'yours' ทำหน้าที่เป็นสรรพนามแทนคำว่า 'your phone' เพื่อหลีกเลี่ยงการพูดซ้ำ ประโยคเต็มคือ Can I borrow your phone for a moment?"
+      },
+      {
+        "question": "That's not my car. ___ is parked over there.",
+        "options": [
+          "A. My",
+          "B. I",
+          "C. Myself",
+          "D. Mine"
+        ],
+        "answer": "D",
+        "explanation": "คำว่า 'Mine' ในที่นี้ทำหน้าที่เป็นประธานของประโยค และหมายถึง 'My car' (รถของฉัน) การใช้ My เฉยๆ ไม่ได้เพราะต้องมีคำนามตามหลัง"
+      },
+      {
+        "question": "Look at that dog! ___ tail is so fluffy.",
+        "options": [
+          "A. It's",
+          "B. Its",
+          "C. It",
+          "D. Its'"
+        ],
+        "answer": "B",
+        "explanation": "เราต้องการแสดงความเป็นเจ้าของว่า 'หางของมัน' จึงต้องใช้ Possessive Adjective คือ its ส่วน It's ย่อมาจาก It is"
+      },
+      {
+        "question": "The teacher collected everyone's homework, but Sarah couldn't find ___.",
+        "options": [
+          "A. her",
+          "B. she",
+          "C. hers",
+          "D. her's"
+        ],
+        "answer": "C",
+        "explanation": "คำว่า 'hers' ในที่นี้เป็น Possessive Pronoun แทนคำว่า 'her homework' เพื่อไม่ให้ประโยคซ้ำซ้อน"
+      },
+      {
+        "question": "We live on this street. That blue house is ___.",
+        "options": [
+          "A. our",
+          "B. we",
+          "C. ours",
+          "D. us"
+        ],
+        "answer": "C",
+        "explanation": "ตำแหน่งนี้อยู่ท้ายประโยค ไม่มีคำนามตามหลัง และแสดงความเป็นเจ้าของของ 'we' (พวกเรา) จึงต้องใช้ Possessive Pronoun คือ ours"
+      },
+      {
+        "question": "I met the new neighbors today. ___ children are very polite.",
+        "options": [
+          "A. Their",
+          "B. They",
+          "C. Theirs",
+          "D. Them"
+        ],
+        "answer": "A",
+        "explanation": "มีคำนาม 'children' ตามหลัง จึงต้องใช้ Possessive Adjective คือ Their เพื่อขยายว่า 'ลูกๆ ของพวกเขา'"
+      },
+      {
+        "question": "The jacket on the chair, is it ___ or John's?",
+        "options": [
+          "A. his",
+          "B. he",
+          "C. him",
+          "D. he's"
+        ],
+        "answer": "A",
+        "explanation": "คำว่า 'his' สามารถเป็นได้ทั้ง Possessive Adjective (his jacket) และ Possessive Pronoun (the jacket is his) ในที่นี้มันทำหน้าที่เป็น Pronoun เพื่อเปรียบเทียบกับ John's (jacket)"
+      },
+      {
+        "question": "You can't use that computer, it's not working. You can use ___.",
+        "options": [
+          "A. my",
+          "B. me",
+          "C. mine",
+          "D. myself"
+        ],
+        "answer": "C",
+        "explanation": "คำว่า 'mine' ในที่นี้เป็น Possessive Pronoun แทนคำว่า 'my computer' เพื่อเลี่ยงการใช้คำซ้ำ"
+      },
+      {
+        "question": "This coffee is very sweet. Is it ___ or ___?",
+        "options": [
+          "A. my, your",
+          "B. mine, yours",
+          "C. me, you",
+          "D. mine, your"
+        ],
+        "answer": "B",
+        "explanation": "ทั้งสองช่องว่างไม่มีคำนามตามหลัง และเป็นการถามถึงความเป็นเจ้าของ จึงต้องใช้ Possessive Pronouns ทั้งคู่ คือ mine (ของฉัน) และ yours (ของคุณ)"
+      }
+    ]
+  },
+  {
+    "id": "2_4",
+    "title": "2.4 Reflexive Pronouns (การสะท้อนตัวเอง myself, yourself)",
+    "explanation": "Reflexive Pronouns คือ คำสรรพนามที่ใช้เมื่อประธาน (Subject) และกรรม (Object) ของประโยคเป็นคนๆ เดียวกันหรือสิ่งเดียวกัน พูดง่ายๆ คือ ประธานทำกริยานั้นกับ 'ตัวเอง' ครับ\n\nนอกจากนี้ ยังใช้เพื่อ 'เน้นย้ำ' ว่าประธานเป็นผู้กระทำสิ่งนั้นด้วยตัวเองจริงๆ ไม่ได้มีใครมาช่วย\n\nหลักการสร้าง Reflexive Pronoun:\n1.  สำหรับรูปเอกพจน์ (Singular): จะลงท้ายด้วย -self\n    - my + self = myself (ตัวฉันเอง)\n    - your + self = yourself (ตัวคุณเอง - คนเดียว)\n    - him + self = himself (ตัวเขาเอง - ผู้ชาย)\n    - her + self = herself (ตัวเธอเอง - ผู้หญิง)\n    - it + self = itself (ตัวมันเอง)\n\n2.  สำหรับรูปพหูพจน์ (Plural): จะลงท้ายด้วย -selves\n    - our + selves = ourselves (พวกเราเอง)\n    - your + selves = yourselves (พวกคุณเอง - หลายคน)\n    - them + selves = themselves (พวกเขา/พวกมันเอง)\n\nสรุปง่ายๆ คือ:\n- ถ้าการกระทำนั้น 'สะท้อนกลับ' มาหาผู้ทำเอง ให้ใช้ Reflexive Pronoun\n- ถ้าต้องการ 'เน้นย้ำ' ว่าประธานทำเอง ก็ใช้ Reflexive Pronoun ได้เช่นกัน (มักจะวางไว้หลังประธาน หรือท้ายประโยค)",
+    "examples": [
+      {
+        "eng": "I accidentally cut myself with the knife.",
+        "thai": "ฉันเผลอทำมีดบาดตัวเอง (ประธาน 'I' และกรรม 'myself' คือคนเดียวกัน)"
+      },
+      {
+        "eng": "He taught himself to play the piano.",
+        "thai": "เขาสอนตัวเองให้เล่นเปียโน (เขาเป็นทั้งผู้สอนและผู้เรียน)"
+      },
+      {
+        "eng": "The cat is licking itself.",
+        "thai": "แมวกำลังเลียตัวเอง (ประธาน 'The cat' และกรรม 'itself' คือตัวเดียวกัน)"
+      },
+      {
+        "eng": "We must prepare ourselves for the exam.",
+        "thai": "พวกเราต้องเตรียมตัวของพวกเราเองสำหรับการสอบ (ประธาน 'We' และกรรม 'ourselves' คือกลุ่มเดียวกัน)"
+      },
+      {
+        "eng": "The president himself answered the phone.",
+        "thai": "ท่านประธานาธิบดีรับโทรศัพท์ด้วยตัวของเขาเอง (เป็นการเน้นย้ำว่าประธานเป็นคนทำเอง ไม่ใช่คนอื่น)"
+      },
+      {
+        "eng": "You need to finish this report by yourselves, kids.",
+        "thai": "พวกเธอต้องทำรายงานนี้ให้เสร็จด้วยตัวเองนะเด็กๆ (พูดกับเด็กหลายคน จึงใช้ yourselves)"
+      }
+    ],
+    "common_mistakes": "1. ใช้ Object Pronoun (me, him, them) แทน Reflexive Pronoun:\n   - ผิด: I saw me in the reflection. (ฉันเห็นฉันในการสะท้อน)\n   - ถูก: I saw myself in the reflection. (ฉันเห็นตัวเองในการสะท้อน)\n   - *จำไว้ว่า: ถ้าประธานกับกรรมคือคนเดียวกัน ต้องใช้ Reflexive Pronoun เสมอ*\n\n2. สับสนกับการใช้ each other (ซึ่งกันและกัน):\n   - They blame themselves. = พวกเขาต่างคนต่างโทษตัวเอง\n   - They blame each other. = พวกเขาโทษกันไปมา (คนหนึ่งโทษอีกคนหนึ่ง)\n\n3. ใช้รูปที่ไม่ถูกต้อง:\n   - ผิด: He did it hisself. / They did it theirselves.\n   - ถูก: He did it himself. / They did it themselves.\n   - *คำว่า hisself และ theirselves ไม่มีในภาษาอังกฤษมาตรฐาน*\n\n4. ใช้ Reflexive Pronoun เป็นประธานของประโยค:\n   - ผิด: Myself and John went to the party.\n   - ถูก: John and I went to the party.\n   - *Reflexive Pronoun ไม่สามารถทำหน้าที่เป็นประธานของประโยคได้*",
+    "practice_questions": [
+      {
+        "question": "The children had to cook dinner by ______ because their parents were late.",
+        "options": [
+          "A. themself",
+          "B. theirselves",
+          "C. themselves",
+          "D. them"
+        ],
+        "answer": "C",
+        "explanation": "ประธานคือ 'The children' ซึ่งเป็นพหูพจน์ (หมายถึง 'they') ดังนั้น Reflexive Pronoun ที่ถูกต้องคือ themselves"
+      },
+      {
+        "question": "Be careful, son! You might hurt ______ with that saw.",
+        "options": [
+          "A. yourself",
+          "B. you",
+          "C. yourselves",
+          "D. himself"
+        ],
+        "answer": "A",
+        "explanation": "ประธานคือ 'You' และในบริบทนี้พูดกับ 'son' (ลูกชาย) ซึ่งเป็นคนเดียว ดังนั้นจึงใช้ yourself ที่เป็นรูปเอกพจน์"
+      },
+      {
+        "question": "I ______ will take responsibility for this mistake.",
+        "options": [
+          "A. me",
+          "B. my",
+          "C. myself",
+          "D. mine"
+        ],
+        "answer": "C",
+        "explanation": "ในประโยคนี้เป็นการใช้ Reflexive Pronoun เพื่อเน้นย้ำประธาน 'I' ว่าฉันนี่แหละที่จะเป็นคนรับผิดชอบด้วยตัวเอง"
+      },
+      {
+        "question": "She looked at ______ in the mirror before leaving the house.",
+        "options": [
+          "A. she",
+          "B. hers",
+          "C. her",
+          "D. herself"
+        ],
+        "answer": "D",
+        "explanation": "ประธานคือ 'She' และกรรมคือคนเดียวกัน (มองดูตัวเองในกระจก) ดังนั้นต้องใช้ Reflexive Pronoun คือ herself"
+      },
+      {
+        "question": "The computer will restart ______ after the update is complete.",
+        "options": [
+          "A. itself",
+          "B. it's self",
+          "C. himself",
+          "D. its"
+        ],
+        "answer": "A",
+        "explanation": "ประธานคือ 'The computer' ซึ่งเป็นสิ่งของ (it) ดังนั้น Reflexive Pronoun ที่สอดคล้องกันคือ itself"
+      },
+      {
+        "question": "We promised ______ that we would work harder next semester.",
+        "options": [
+          "A. us",
+          "B. ourself",
+          "C. ourselves",
+          "D. we"
+        ],
+        "answer": "C",
+        "explanation": "ประธานคือ 'We' ซึ่งเป็นพหูพจน์ การกระทำ (promise) สะท้อนกลับมาที่กลุ่มตัวเอง จึงต้องใช้ ourselves"
+      },
+      {
+        "question": "My brother lives by ______, so he has to do all the housework.",
+        "options": [
+          "A. himself",
+          "B. hisself",
+          "C. him",
+          "D. he"
+        ],
+        "answer": "A",
+        "explanation": "ประธานคือ 'My brother' ซึ่งเป็นผู้ชายคนเดียว (he) ดังนั้น Reflexive Pronoun ที่ถูกต้องคือ himself (คำว่า hisself เป็นคำที่ผิดหลักไวยากรณ์)"
+      },
+      {
+        "question": "Ladies and gentlemen, please help ______ to some snacks and drinks.",
+        "options": [
+          "A. yourself",
+          "B. themselves",
+          "C. you",
+          "D. yourselves"
+        ],
+        "answer": "D",
+        "explanation": "ผู้พูดกำลังพูดกับ 'Ladies and gentlemen' ซึ่งเป็นคนกลุ่มใหญ่ (you แบบพหูพจน์) ดังนั้นจึงต้องใช้ yourselves"
+      },
+      {
+        "question": "Even though nobody believed in her, Sarah built the successful company all by ______.",
+        "options": [
+          "A. herself",
+          "B. she",
+          "C. her",
+          "D. itself"
+        ],
+        "answer": "A",
+        "explanation": "ประธานในที่นี้คือ 'Sarah' ซึ่งเป็นผู้หญิง (she) การกระทำนี้เป็นการเน้นย้ำว่าเธอทำด้วยตัวเอง จึงใช้ herself"
+      },
+      {
+        "question": "The new phone is amazing. It can even repair minor software issues by ______.",
+        "options": [
+          "A. himself",
+          "B. itself",
+          "C. themselves",
+          "D. its"
+        ],
+        "answer": "B",
+        "explanation": "ประธานคือ 'It' (หมายถึง 'the new phone') ซึ่งเป็นสิ่งของ การกระทำสะท้อนกลับมาที่ตัวมันเอง จึงใช้ Reflexive Pronoun คือ itself"
+      }
+    ]
+  },
+  {
+    "id": "2_5",
+    "title": "2.5 Summary: Pronouns (สรุปคำสรรพนาม + 50 Exercises)",
+    "explanation": "คำสรรพนาม (Pronouns) คือคำที่ใช้แทนคำนาม เพื่อหลีกเลี่ยงการกล่าวถึงคำนามนั้นซ้ำๆ ทำให้ประโยคสละสลวยและกระชับขึ้น สรุปประเภทของคำสรรพนามทั้งหมดที่ได้เรียนมามีดังนี้:\n\n1.  **Subject Pronouns (สรรพนามประธาน):** I, you, we, they, he, she, it\n    *   ทำหน้าที่เป็น 'ผู้กระทำ' หรือประธานของประโยค มักจะวางไว้หน้าคำกริยา\n\n2.  **Object Pronouns (สรรพนามกรรม):** me, you, us, them, him, her, it\n    *   ทำหน้าที่เป็น 'ผู้ถูกกระทำ' หรือกรรมของประโยค มักจะวางไว้หลังคำกริยาหรือคำบุพบท (Preposition)\n\n3.  **Possessive Adjectives (คุณศัพท์แสดงความเป็นเจ้าของ):** my, your, our, their, his, her, its\n    *   ใช้แสดงความเป็นเจ้าของ 'ต้องมีคำนามตามหลังเสมอ' เช่น my book, her car\n\n4.  **Possessive Pronouns (สรรพนามแสดงความเป็นเจ้าของ):** mine, yours, ours, theirs, his, hers, its\n    *   ใช้แสดงความเป็นเจ้าของเช่นกัน แต่ 'ไม่ต้องมีคำนามตามหลัง' เพราะมีความหมายว่า '...ของฉัน/คุณ/เขา' ในตัวมันเอง เช่น The book is mine.\n\n5.  **Reflexive Pronouns (สรรพนามสะท้อนกลับ):** myself, yourself/yourselves, ourselves, themselves, himself, herself, itself\n    *   ใช้เมื่อประธานและกรรมของประโยคเป็นคนหรือสิ่งเดียวกัน (ทำกริยากับตัวเอง) หรือใช้เพื่อเน้นย้ำว่าประธานเป็นผู้ทำสิ่งนั้นด้วยตัวเอง\n\n6.  **Relative Pronouns (สรรพนามเชื่อมความ):** who, whom, whose, which, that\n    *   ใช้เชื่อมประโยคย่อย (Clause) เข้ากับคำนามที่อยู่ข้างหน้า เพื่อขยายความคำนามนั้นๆ\n\n7.  **Demonstrative Pronouns (สรรพนามชี้เฉพาะ):** this, that, these, those\n    *   ใช้ชี้เฉพาะเจาะจงถึงสิ่งของหรือบุคคล\n    *   This (นี่ - เอกพจน์ใกล้), That (นั่น - เอกพจน์ไกล), These (เหล่านี้ - พหูพจน์ใกล้), Those (เหล่านั้น - พหูพจน์ไกล)\n\n8.  **Interrogative Pronouns (สรรพนามคำถาม):** who, whom, whose, which, what\n    *   ใช้ขึ้นต้นประโยคเพื่อสร้างคำถาม",
+    "examples": [
+      {
+        "eng": "She (Subject) gave me (Object) her (Possessive Adj.) book because the one on the table is mine (Possessive Pro.).",
+        "thai": "เธอ (ประธาน) ให้หนังสือของเธอ (แสดงความเป็นเจ้าของ+นาม) กับฉัน (กรรม) เพราะว่าเล่มที่อยู่บนโต๊ะนั้นเป็นของฉัน (แสดงความเป็นเจ้าของ)"
+      },
+      {
+        "eng": "The man who (Relative) lives next door fixed the car himself (Reflexive).",
+        "thai": "ผู้ชายคนซึ่ง (เชื่อมความ) อาศัยอยู่ข้างบ้านได้ซ่อมรถด้วยตัวของเขาเอง (เน้นย้ำ)"
+      },
+      {
+        "eng": "What (Interrogative) is this (Demonstrative)?",
+        "thai": "นี่ (ชี้เฉพาะ) คืออะไร (คำถาม)?"
+      }
+    ],
+    "common_mistakes": "1.  **สับสนระหว่าง Possessive Adjectives (my) กับ Possessive Pronouns (mine):**\n    *   ผิด: This is mine book.\n    *   ถูก: This is my book. (my ต้องมีนามตามหลัง)\n    *   ถูก: This book is mine. (mine ไม่ต้องมีนามตามหลัง)\n\n2.  **สับสนระหว่าง Subject Pronouns (I) กับ Object Pronouns (me):**\n    *   ผิด: Me and my mom went shopping. (Me เป็นกรรม ไม่สามารถเป็นประธาน)\n    *   ถูก: My mom and I went shopping.\n    *   ผิด: She gave the gift to I. (หลังบุพบท to ต้องใช้กรรม)\n    *   ถูก: She gave the gift to me.\n\n3.  **สับสนระหว่าง 'its' กับ 'it's':**\n    *   `its` คือ Possessive Adjective แปลว่า 'ของมัน' เช่น The dog wagged its tail. (สุนัขกระดิกหางของมัน)\n    *   `it's` คือรูปย่อของ 'it is' หรือ 'it has' เช่น It's a beautiful day. (มันเป็นวันที่สวยงาม)\n\n4.  **การใช้ Who/Whom ผิด:**\n    *   `Who` ใช้แทนประธาน (ผู้กระทำ) เช่น The man who called you is my boss.\n    *   `Whom` ใช้แทนกรรม (ผู้ถูกกระทำ) มักตามหลังบุพบท เช่น The man to whom I spoke was my boss. (ในการพูดทั่วไปมักอนุโลมให้ใช้ Who แต่ในการเขียนที่เป็นทางการควรใช้ Whom ให้ถูกต้อง)",
+    "practice_questions": [
+      {
+        "question": "My sister and ___ are going to the cinema tonight.",
+        "options": [
+          "A. me",
+          "B. I",
+          "C. my",
+          "D. mine"
+        ],
+        "answer": "B",
+        "explanation": "ตำแหน่งนี้ต้องการประธาน (Subject) ของประโยคคู่กับ 'My sister' จึงต้องใช้ 'I'"
+      },
+      {
+        "question": "The teacher explained the lesson to Tim and ___.",
+        "options": [
+          "A. I",
+          "B. my",
+          "C. me",
+          "D. myself"
+        ],
+        "answer": "C",
+        "explanation": "หลังคำบุพบท 'to' ต้องใช้สรรพนามที่เป็นกรรม (Object Pronoun) จึงต้องใช้ 'me'"
+      },
+      {
+        "question": "This beautiful scarf is not mine. Is it ___?",
+        "options": [
+          "A. you",
+          "B. your",
+          "C. yours",
+          "D. yourself"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้ถามว่า 'มันเป็นของคุณใช่ไหม' โดยไม่มีคำนามตามหลัง จึงต้องใช้ Possessive Pronoun คือ 'yours'"
+      },
+      {
+        "question": "The cat is cleaning ___ fur with its tongue.",
+        "options": [
+          "A. it's",
+          "B. its'",
+          "C. its",
+          "D. it"
+        ],
+        "answer": "C",
+        "explanation": "ต้องการคำที่แสดงความเป็นเจ้าของของ 'the cat' คือ 'its' (ของมัน) ซึ่งต้องไม่มี apostrophe ส่วน 'it's' ย่อมาจาก 'it is'"
+      },
+      {
+        "question": "She looked at ___ in the mirror and smiled.",
+        "options": [
+          "A. her",
+          "B. she",
+          "C. hers",
+          "D. herself"
+        ],
+        "answer": "D",
+        "explanation": "ประธาน 'She' และกรรมเป็นคนเดียวกัน (มองตัวเอง) จึงต้องใช้ Reflexive Pronoun คือ 'herself'"
+      },
+      {
+        "question": "The woman ___ lives across the street is a famous writer.",
+        "options": [
+          "A. who",
+          "B. whom",
+          "C. whose",
+          "D. which"
+        ],
+        "answer": "A",
+        "explanation": "ต้องการ Relative Pronoun ที่ทำหน้าที่เป็นประธานของกริยา 'lives' และใช้กับคน จึงต้องใช้ 'who'"
+      },
+      {
+        "question": "This is the best movie ___ I have ever seen.",
+        "options": [
+          "A. who",
+          "B. whose",
+          "C. what",
+          "D. that"
+        ],
+        "answer": "D",
+        "explanation": "'that' เป็น Relative Pronoun ที่ใช้เชื่อมประโยคเพื่อขยายความคำนาม 'movie' ซึ่งเป็นสิ่งของ"
+      },
+      {
+        "question": "Can you see ___ birds flying over there?",
+        "options": [
+          "A. this",
+          "B. that",
+          "C. these",
+          "D. those"
+        ],
+        "answer": "D",
+        "explanation": "'birds' เป็นคำนามพหูพจน์ และ 'over there' บอกว่าอยู่ไกล จึงต้องใช้ 'those'"
+      },
+      {
+        "question": "___ is the capital of Thailand?",
+        "options": [
+          "A. Which",
+          "B. Who",
+          "C. What",
+          "D. Whose"
+        ],
+        "answer": "C",
+        "explanation": "เป็นคำถามทั่วไปที่ต้องการข้อมูล ไม่ได้มีตัวเลือกให้เลือก จึงใช้ 'What'"
+      },
+      {
+        "question": "Can you ask ___ to return my book?",
+        "options": [
+          "A. he",
+          "B. him",
+          "C. his",
+          "D. himself"
+        ],
+        "answer": "B",
+        "explanation": "หลังคำกริยา 'ask' ต้องใช้สรรพนามที่เป็นกรรม (Object Pronoun) จึงต้องใช้ 'him'"
+      },
+      {
+        "question": "___ car is parked outside? It's blocking my driveway.",
+        "options": [
+          "A. Who",
+          "B. Whom",
+          "C. Whose",
+          "D. Which"
+        ],
+        "answer": "C",
+        "explanation": "เป็นคำถามที่ต้องการทราบเจ้าของรถ จึงต้องใช้ 'Whose' (ของใคร)"
+      },
+      {
+        "question": "My friends and I made this delicious meal all by ___.",
+        "options": [
+          "A. ourselves",
+          "B. themselves",
+          "C. us",
+          "D. our"
+        ],
+        "answer": "A",
+        "explanation": "ประธานคือ 'My friends and I' (พวกเรา) การกระทำที่เน้นย้ำตัวเองจึงต้องใช้ 'ourselves'"
+      },
+      {
+        "question": "I don't like ___ painting on the wall. The colors are too bright.",
+        "options": [
+          "A. this",
+          "B. that",
+          "C. these",
+          "D. those"
+        ],
+        "answer": "B",
+        "explanation": "'painting' เป็นคำนามเอกพจน์ และมักจะหมายถึงสิ่งที่อยู่ไกลตัวกว่า 'this' เล็กน้อย หรือสิ่งที่กำลังพูดถึงอยู่ จึงใช้ 'that'"
+      },
+      {
+        "question": "The package was sent to ___ by mistake.",
+        "options": [
+          "A. they",
+          "B. their",
+          "C. theirs",
+          "D. them"
+        ],
+        "answer": "D",
+        "explanation": "หลังคำบุพบท 'to' ต้องใช้สรรพนามที่เป็นกรรม (Object Pronoun) จึงต้องใช้ 'them'"
+      },
+      {
+        "question": "This isn't your jacket. It's ___.",
+        "options": [
+          "A. my",
+          "B. I",
+          "C. mine",
+          "D. me"
+        ],
+        "answer": "C",
+        "explanation": "ตำแหน่งนี้ต้องการ Possessive Pronoun ที่แปลว่า 'ของฉัน' และไม่ต้องมีคำนามตามหลัง คือ 'mine'"
+      },
+      {
+        "question": "The boy ___ parents you met is my best friend.",
+        "options": [
+          "A. who",
+          "B. whom",
+          "C. whose",
+          "D. which"
+        ],
+        "answer": "C",
+        "explanation": "ต้องการ Relative Pronoun ที่แสดงความเป็นเจ้าของ (พ่อแม่ 'ของ' เด็กชายคนนั้น) จึงใช้ 'whose'"
+      },
+      {
+        "question": "___ of these shirts should I wear for the party?",
+        "options": [
+          "A. What",
+          "B. Which",
+          "C. Who",
+          "D. Whose"
+        ],
+        "answer": "B",
+        "explanation": "เป็นคำถามที่ให้เลือกจากสิ่งที่มีอยู่ (these shirts) จึงต้องใช้ 'Which'"
+      },
+      {
+        "question": "You need to believe in ___ if you want to succeed.",
+        "options": [
+          "A. you",
+          "B. your",
+          "C. yours",
+          "D. yourself"
+        ],
+        "answer": "D",
+        "explanation": "ประธาน 'You' และกรรมเป็นคนเดียวกัน (เชื่อในตัวเอง) จึงต้องใช้ Reflexive Pronoun คือ 'yourself'"
+      },
+      {
+        "question": "Could you please pass ___ the salt?",
+        "options": [
+          "A. I",
+          "B. me",
+          "C. my",
+          "D. mine"
+        ],
+        "answer": "B",
+        "explanation": "ตำแหน่งนี้เป็นกรรมรองของประโยค (ส่งให้ใคร) จึงต้องใช้ Object Pronoun คือ 'me'"
+      },
+      {
+        "question": "Is that ___ dog running in the park?",
+        "options": [
+          "A. they",
+          "B. them",
+          "C. their",
+          "D. theirs"
+        ],
+        "answer": "C",
+        "explanation": "มีคำนาม 'dog' ตามหลัง จึงต้องใช้ Possessive Adjective คือ 'their' เพื่อขยายว่า 'สุนัขของพวกเขา'"
+      },
+      {
+        "question": "It was ___ who solved the difficult puzzle.",
+        "options": [
+          "A. her",
+          "B. she",
+          "C. hers",
+          "D. herself"
+        ],
+        "answer": "B",
+        "explanation": "ในโครงสร้าง 'It was/is + pronoun + who...' เราจะใช้ Subject Pronoun ดังนั้นคำตอบคือ 'she'"
+      },
+      {
+        "question": "The manager to ___ I reported the issue was very understanding.",
+        "options": [
+          "A. who",
+          "B. whom",
+          "C. whose",
+          "D. that"
+        ],
+        "answer": "B",
+        "explanation": "สรรพนามนี้ทำหน้าที่เป็นกรรมของบุพบท 'to' (to whom) และใช้กับคน จึงต้องใช้ 'whom'"
+      },
+      {
+        "question": "We should finish ___ homework before we go out.",
+        "options": [
+          "A. us",
+          "B. we",
+          "C. ours",
+          "D. our"
+        ],
+        "answer": "D",
+        "explanation": "มีคำนาม 'homework' ตามหลัง จึงต้องใช้ Possessive Adjective คือ 'our' (การบ้านของพวกเรา)"
+      },
+      {
+        "question": "Look at ___ new shoes! I bought them yesterday.",
+        "options": [
+          "A. this",
+          "B. that",
+          "C. these",
+          "D. those"
+        ],
+        "answer": "C",
+        "explanation": "'shoes' เป็นคำนามพหูพจน์ และเป็นการชี้ให้ดูสิ่งที่อยู่ใกล้ตัว จึงต้องใช้ 'these'"
+      },
+      {
+        "question": "The students prepared for the exam by ___.",
+        "options": [
+          "A. them",
+          "B. their",
+          "C. theirs",
+          "D. themselves"
+        ],
+        "answer": "D",
+        "explanation": "ประธาน 'The students' ทำกริยาเพื่อตัวเอง (เตรียมตัวด้วยตัวเอง) จึงใช้ Reflexive Pronoun คือ 'themselves'"
+      },
+      {
+        "question": "My phone's battery is dead. Can I borrow ___?",
+        "options": [
+          "A. you",
+          "B. your",
+          "C. yours",
+          "D. yourself"
+        ],
+        "answer": "C",
+        "explanation": "หมายถึง 'borrow your phone' แต่เพื่อไม่ให้พูดซ้ำ จึงใช้ Possessive Pronoun คือ 'yours' ที่แปลว่า 'เครื่องของคุณ'"
+      },
+      {
+        "question": "Let's keep this secret between you and ___.",
+        "options": [
+          "A. I",
+          "B. my",
+          "C. me",
+          "D. myself"
+        ],
+        "answer": "C",
+        "explanation": "หลังคำบุพบท 'between' ต้องใช้ Object Pronoun ดังนั้นจึงเป็น 'between you and me'"
+      },
+      {
+        "question": "This is the hospital ___ I was born.",
+        "options": [
+          "A. which",
+          "B. that",
+          "C. where",
+          "D. when"
+        ],
+        "answer": "A",
+        "explanation": "ถึงแม้ 'where' จะดูเหมาะสมกว่าในฐานะ Relative Adverb แต่ในตัวเลือกนี้ 'which' ก็สามารถใช้แทนสถานที่ได้ในบางบริบท เช่น 'This is the hospital in which I was born.' ดังนั้น 'which' จึงเป็นคำตอบที่ถูกต้องที่สุดในตัวเลือกที่เป็น Pronoun (Choice C และ D เป็น Adverb)"
+      },
+      {
+        "question": "The new employee introduced ___ to the team.",
+        "options": [
+          "A. him",
+          "B. his",
+          "C. himself",
+          "D. he"
+        ],
+        "answer": "C",
+        "explanation": "ประธาน 'The new employee' (he) และกรรมเป็นคนเดียวกัน (แนะนำตัวเอง) จึงต้องใช้ 'himself'"
+      },
+      {
+        "question": "___ are my keys on the table?",
+        "options": [
+          "A. That",
+          "B. This",
+          "C. Those",
+          "D. These"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคนี้เป็นการระบุว่า 'นี่คือกุญแจของฉัน' 'keys' เป็นพหูพจน์และอยู่ใกล้ตัว (on the table) จึงใช้ 'These'"
+      },
+      {
+        "question": "A friend of ___ called me this morning.",
+        "options": [
+          "A. him",
+          "B. he",
+          "C. his",
+          "D. himself"
+        ],
+        "answer": "C",
+        "explanation": "โครงสร้าง 'a friend of + possessive pronoun' หมายถึง 'เพื่อนคนหนึ่งของ...' ในกรณีนี้ 'his' ทำหน้าที่เป็น Possessive Pronoun (เพื่อนคนหนึ่งของเขา)"
+      },
+      {
+        "question": "Please give this message to ___ you see first.",
+        "options": [
+          "A. whoever",
+          "B. whomever",
+          "C. whosever",
+          "D. whichever"
+        ],
+        "answer": "A",
+        "explanation": "ตำแหน่งนี้ต้องการประธานของกริยา 'see' ในอนุประโยคย่อย แม้จะดูเหมือนเป็นกรรมของ 'to' แต่จริงๆ แล้วมันเป็นประธานของ '... see first' ในการพูดปัจจุบัน 'whoever' เป็นที่ยอมรับมากกว่า 'whomever' ในกรณีส่วนใหญ่"
+      },
+      {
+        "question": "The company has to protect ___ reputation.",
+        "options": [
+          "A. it's",
+          "B. its",
+          "C. their",
+          "D. theirs"
+        ],
+        "answer": "B",
+        "explanation": "ต้องการคำแสดงความเป็นเจ้าของของ 'The company' (it) คือ 'its' ส่วน 'it's' ย่อมาจาก 'it is'"
+      },
+      {
+        "question": "___ of you can answer the question?",
+        "options": [
+          "A. What",
+          "B. Which",
+          "C. Who",
+          "D. Whom"
+        ],
+        "answer": "B",
+        "explanation": "'Which' ใช้เมื่อถามเพื่อเลือกจากกลุ่มที่จำกัด (กลุ่มของพวกคุณ 'of you') ว่าคนไหนสามารถตอบคำถามได้"
+      },
+      {
+        "question": "The man sitting next to ___ is her brother.",
+        "options": [
+          "A. she",
+          "B. her",
+          "C. hers",
+          "D. herself"
+        ],
+        "answer": "B",
+        "explanation": "หลังคำบุพบท 'to' ต้องใช้สรรพนามที่เป็นกรรม (Object Pronoun) คือ 'her'"
+      },
+      {
+        "question": "We painted the fence by ___.",
+        "options": [
+          "A. ourself",
+          "B. us",
+          "C. ours",
+          "D. ourselves"
+        ],
+        "answer": "D",
+        "explanation": "ประธานคือ 'We' (พหูพจน์) การกระทำที่เน้นย้ำตัวเองจึงต้องใช้ 'ourselves'"
+      },
+      {
+        "question": "The house, ___ roof is red, belongs to my uncle.",
+        "options": [
+          "A. who",
+          "B. which",
+          "C. that",
+          "D. whose"
+        ],
+        "answer": "D",
+        "explanation": "ต้องการ Relative Pronoun ที่แสดงความเป็นเจ้าของ (หลังคา 'ของ' บ้าน) จึงใช้ 'whose'"
+      },
+      {
+        "question": "Is this laptop ___ or your brother's?",
+        "options": [
+          "A. you",
+          "B. your",
+          "C. yours",
+          "D. yourself"
+        ],
+        "answer": "C",
+        "explanation": "เป็นการเปรียบเทียบความเป็นเจ้าของระหว่าง 'ของคุณ' กับ 'ของพี่ชายคุณ' จึงต้องใช้ Possessive Pronoun คือ 'yours'"
+      },
+      {
+        "question": "___ did you meet at the conference yesterday?",
+        "options": [
+          "A. Who",
+          "B. Whom",
+          "C. Whose",
+          "D. Which"
+        ],
+        "answer": "B",
+        "explanation": "คำถามนี้ถามถึง 'ใคร' ที่เป็นกรรมของกริยา 'meet' (คุณเจอใคร) ในภาษาเขียนที่ถูกต้องจึงควรใช้ 'Whom' (แม้ว่าในการพูด 'Who' จะเป็นที่ยอมรับ)"
+      },
+      {
+        "question": "Neither of ___ is ready for the presentation.",
+        "options": [
+          "A. they",
+          "B. their",
+          "C. them",
+          "D. themselves"
+        ],
+        "answer": "C",
+        "explanation": "หลังคำบุพบท 'of' ต้องใช้ Object Pronoun ดังนั้นจึงเป็น 'Neither of them'"
+      },
+      {
+        "question": "The children promised to behave ___.",
+        "options": [
+          "A. themself",
+          "B. them",
+          "C. theirselves",
+          "D. themselves"
+        ],
+        "answer": "D",
+        "explanation": "ประธาน 'The children' กระทำกริยากับตัวเอง (ทำตัวดีๆ) และเป็นพหูพจน์ จึงใช้ 'themselves' (หมายเหตุ: themself และ theirselves เป็นคำที่ผิดหลักไวยากรณ์)"
+      },
+      {
+        "question": "___ do you think will win the game?",
+        "options": [
+          "A. Who",
+          "B. Whom",
+          "C. Whose",
+          "D. Which"
+        ],
+        "answer": "A",
+        "explanation": "แม้จะดูซับซ้อน แต่ถ้าลองสลับประโยคเป็น 'You think [who] will win the game?' จะเห็นว่า [who] เป็นประธานของ 'will win' ดังนั้นจึงต้องใช้ 'Who'"
+      },
+      {
+        "question": "Everything depends on ___ decision.",
+        "options": [
+          "A. you",
+          "B. your",
+          "C. yours",
+          "D. yourself"
+        ],
+        "answer": "B",
+        "explanation": "มีคำนาม 'decision' ตามหลัง จึงต้องใช้ Possessive Adjective คือ 'your' (การตัดสินใจของคุณ)"
+      },
+      {
+        "question": "The story ___ he told us wasn't true.",
+        "options": [
+          "A. who",
+          "B. whom",
+          "C. which",
+          "D. whose"
+        ],
+        "answer": "C",
+        "explanation": "'which' หรือ 'that' (ซึ่งละไว้ได้) ใช้เป็น Relative Pronoun แทน 'the story' ซึ่งเป็นสิ่งของ"
+      },
+      {
+        "question": "Everyone except ___ has submitted the assignment.",
+        "options": [
+          "A. he",
+          "B. his",
+          "C. himself",
+          "D. him"
+        ],
+        "answer": "D",
+        "explanation": "'except' ในที่นี้ทำหน้าที่คล้ายคำบุพบท ดังนั้นคำที่ตามมาต้องเป็น Object Pronoun คือ 'him'"
+      },
+      {
+        "question": "Take any of the cakes. ___ one would you like?",
+        "options": [
+          "A. What",
+          "B. Whose",
+          "C. Which",
+          "D. Who"
+        ],
+        "answer": "C",
+        "explanation": "เป็นการให้เลือกจากกลุ่มที่กำหนด (any of the cakes) จึงต้องใช้ 'Which'"
+      },
+      {
+        "question": "The dog hurt ___ when it jumped over the fence.",
+        "options": [
+          "A. it",
+          "B. its",
+          "C. itself",
+          "D. it's"
+        ],
+        "answer": "C",
+        "explanation": "ประธาน 'The dog' (it) และกรรมเป็นสิ่งเดียวกัน (ทำตัวเองเจ็บ) จึงต้องใช้ Reflexive Pronoun คือ 'itself'"
+      },
+      {
+        "question": "Both of ___ are my brothers.",
+        "options": [
+          "A. they",
+          "B. their",
+          "C. them",
+          "D. theirs"
+        ],
+        "answer": "C",
+        "explanation": "หลังคำบุพบท 'of' ต้องใช้ Object Pronoun ดังนั้นจึงเป็น 'Both of them'"
+      },
+      {
+        "question": "Paul and Susan bought a new house. The house is ___.",
+        "options": [
+          "A. they",
+          "B. them",
+          "C. their",
+          "D. theirs"
+        ],
+        "answer": "D",
+        "explanation": "ต้องการ Possessive Pronoun ที่แปลว่า 'ของพวกเขา' และไม่ต้องมีคำนามตามหลัง คือ 'theirs'"
+      },
+      {
+        "question": "He is the only person ___ I can trust completely.",
+        "options": [
+          "A. who",
+          "B. which",
+          "C. whose",
+          "D. whom"
+        ],
+        "answer": "D",
+        "explanation": "สรรพนามนี้เป็นกรรมของกริยา 'trust' (I can trust [whom]) และใช้กับคน จึงควรใช้ 'whom' หรือ 'that' (ซึ่งละไว้ได้)"
+      }
+    ]
+  }
+]
