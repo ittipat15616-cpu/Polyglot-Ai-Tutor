@@ -1,0 +1,842 @@
+[
+  {
+    "id": "45_1",
+    "title": "45.1 Turning Verbs/Adjectives into Nouns for formal writing (Discuss -> Discussion)",
+    "explanation": "Nominalization คือ กระบวนการ 'เสก' คำกริยา (Verbs) หรือ คำคุณศัพท์ (Adjectives) ให้กลายเป็นคำนาม (Nouns) ซึ่งเป็นหัวใจสำคัญของการเขียนเชิงวิชาการ (Academic Writing) หรือการสื่อสารที่เป็นทางการในระดับ C1-C2 ครับ\n\n**ทำไมต้องใช้ Nominalization?**\n1.  **เพื่อความกระชับและอัดแน่น (Conciseness and Information Density):** แทนที่จะใช้ประโยคยาวๆ ที่มีประธาน-กริยา-กรรม เราสามารถรวบใจความทั้งหมดไว้ในกลุ่มคำนามที่สั้นกว่าแต่ทรงพลังกว่าได้ ทำให้งานเขียนดูเป็นมืออาชีพและหนักแน่น\n2.  **เพื่อสร้างความเป็นกลางและลดความเป็นส่วนตัว (Objectivity and Impersonality):** การใช้ Nominalization ช่วยเบี่ยงเบนความสนใจจาก 'ผู้กระทำ' (Subject) ไปสู่ 'การกระทำ' หรือ 'แนวคิด' (Concept) นั้นๆ โดยตรง ทำให้ประโยคดูเป็นกลาง ไม่ลำเอียง และเหมาะกับงานเขียนเชิงวิชาการที่เน้นข้อเท็จจริงมากกว่าความคิดเห็นส่วนตัว\n3.  **เพื่อสร้างแนวคิดเชิงนามธรรม (Creating Abstract Concepts):** เราสามารถเปลี่ยนการกระทำหรือสภาวะให้กลายเป็น 'สิ่งของ' หรือ 'แนวคิด' ที่สามารถนำมาวิเคราะห์, วัดผล, หรืออภิปรายต่อได้ เช่น เราพูดถึง 'ความสำคัญ' (importance) ของงานวิจัยชิ้นหนึ่งได้ แทนที่จะพูดแค่ว่า 'มันสำคัญ' (it is important)\n\n**วิธีการสร้าง (How to nominalize):**\nโดยทั่วไปเราจะใช้ Suffixes (คำที่เติมท้ายคำ) เข้ามาช่วย:\n*   **จาก Verbs เป็น Nouns:**\n    *   **-tion/-sion:** investigate -> investigation, decide -> decision\n    *   **-ment:** develop -> development, argue -> argument\n    *   **-ance/-ence:** perform -> performance, exist -> existence\n    *   **-al:** refuse -> refusal, arrive -> arrival\n    *   **-ure:** fail -> failure, depart -> departure\n    *   **-ing (Gerund):** The reading of the will... (การอ่านพินัยกรรม...) - Gerund ก็ถือเป็นรูปแบบหนึ่งของ Nominalization\n\n*   **จาก Adjectives เป็น Nouns:**\n    *   **-ness:** aware -> awareness, complex -> complexity (ผิด! ต้องเป็น complexity) -> happy -> happiness\n    *   **-ity:** responsible -> responsibility, complex -> complexity, possible -> possibility\n    *   **-ance/-ence:** important -> importance, brilliant -> brilliance\n    *   **-cy:** fluent -> fluency, accurate -> accuracy\n\n**โครงสร้างประโยคที่เปลี่ยนไป (Syntactic Changes):**\nนี่คือส่วนที่ท้าทายที่สุดสำหรับระดับสูง! เมื่อเราเปลี่ยน Verb เป็น Noun ส่วนอื่นๆ ในประโยคต้องปรับตามไปด้วย:\n*   **Subject (ประธาน):** มักจะเปลี่ยนเป็นรูป Possessive (แสดงความเป็นเจ้าของ) เช่น 's, my, their, of the...\n    *   *Scientists investigated* the anomaly. -> *The scientists' investigation* of the anomaly...\n*   **Object (กรรม):** มักจะตามหลัง Noun ตัวใหม่โดยมี Preposition (ส่วนใหญ่คือ 'of') คั่น\n    *   They analyzed *the data*. -> Their analysis *of the data*...\n*   **Adverb (คำวิเศษณ์):** จะเปลี่ยนเป็น Adjective เพื่อขยาย Noun ตัวใหม่\n    *   The team collaborated *successfully*. -> The team's *successful collaboration*...",
+    "examples": [
+      {
+        "eng": "The commission's exhaustive investigation into the misappropriation of funds culminated in several high-profile resignations.",
+        "thai": "การสืบสวนอย่างละเอียดถี่ถ้วนของคณะกรรมาธิการเกี่ยวกับการยักยอกเงินทุนได้นำไปสู่การลาออกของบุคคลสำคัญหลายคน\nคำอธิบาย: ประโยคนี้ใช้ Nominalization ถึง 3 จุด! \n1. 'investigation' มาจาก Verb 'investigate'.\n2. 'misappropriation' มาจาก Verb 'misappropriate'.\n3. 'resignations' มาจาก Verb 'resign'.\nสังเกตว่าโครงสร้างทำให้ประโยคดูเป็นทางการและหนักแน่นมาก แทนที่จะพูดว่า 'The commission investigated... and people resigned...'"
+      },
+      {
+        "eng": "A profound sense of disillusionment with the political process is a direct consequence of the perpetual failure to address systemic inequality.",
+        "thai": "ความรู้สึกผิดหวังอย่างสุดซึ้งต่อกระบวนการทางการเมืองเป็นผลสืบเนื่องโดยตรงมาจากความล้มเหลวอย่างต่อเนื่องในการจัดการกับปัญหาความไม่เท่าเทียมกันในเชิงโครงสร้าง\nคำอธิบาย: ประโยคนี้แสดงการเปลี่ยน Adjective/Verb เป็น Noun เชิงนามธรรม:\n1. 'disillusionment' (ความผิดหวัง) มาจาก Verb 'disillusion'.\n2. 'consequence' (ผลสืบเนื่อง) มาจาก Verb 'consequor' (Latin) หรือเกี่ยวเนื่องกับ 'consequent' (adj).\n3. 'failure' (ความล้มเหลว) มาจาก Verb 'fail'.\n4. 'inequality' (ความไม่เท่าเทียม) มาจาก Adjective 'unequal'."
+      },
+      {
+        "eng": "The justification for the substantial increase in surveillance measures rests on the unsubstantiated assertion of an imminent threat.",
+        "thai": "เหตุผลสนับสนุนสำหรับการเพิ่มขึ้นอย่างมีนัยสำคัญของมาตรการสอดส่องดูแลนั้น ตั้งอยู่บนการกล่าวอ้างที่ไม่มีมูลความจริงเกี่ยวกับภัยคุกคามที่ใกล้จะเกิดขึ้น\nคำอธิบาย: ประโยคนี้แสดงการใช้ Noun ที่ซ้อนกันอย่างซับซ้อน: 'justification' (จาก justify), 'increase' (จาก increase - เป็น zero-derivation คือรูปเดิม), 'surveillance' (จาก surveil), และ 'assertion' (จาก assert). โครงสร้างแบบนี้พบได้บ่อยในเอกสารทางกฎหมายหรือราชการ"
+      }
+    ],
+    "common_mistakes": "- **เลือก Suffix ผิด (Incorrect Suffix):** ในระดับ C1-C2 อาจไม่ใช่คำง่ายๆ อย่าง 'develoption' แต่จะเป็นการสับสนระหว่าง Suffix ที่ใกล้เคียงกัน เช่น ใช้ 'persistancy' แทนที่จะเป็น 'persistence' หรือ 'importantness' แทนที่จะเป็น 'importance' ที่เป็นที่ยอมรับกันมากกว่า\n- **ลืมปรับโครงสร้างประโยค (Syntactic Negligence):** ข้อผิดพลาดที่พบบ่อยที่สุดคือการเปลี่ยน Verb เป็น Noun แต่ยังคงใช้โครงสร้างเดิม เช่น *\"The analysis the data showed...\"* (ผิด) ที่ถูกต้องคือ *\"The analysis of the data showed...\"* หรือ *\"The scientists investigation of the problem...\"* (ผิด) ที่ถูกต้องคือ *\"The scientists' investigation of the problem...\"*\n- **ใช้มากเกินไปจนอ่านไม่รู้เรื่อง (Over-nominalization):** การใช้คำนามซ้อนกันหลายๆ คำ (Noun Stacks) ทำให้อ่านยากและคลุมเครือ เช่น *\"The initiation of the facilitation of the implementation process...\"* ประโยคแบบนี้แม้จะถูกไวยากรณ์แต่ขาดความชัดเจน (clarity) ซึ่งเป็นทักษะสำคัญในการเขียนระดับสูง การรู้จักใช้เมื่อจำเป็นคือศิลปะอย่างหนึ่ง\n- **สับสนความหมายของ Noun ที่มาจากรากเดียวกัน:** Verb บางตัวสามารถสร้าง Noun ได้หลายรูปและความหมายต่างกันเล็กน้อย เช่น 'observe' -> 'observation' (การสังเกต, สิ่งที่สังเกตเห็น) vs. 'observance' (การปฏิบัติตามกฎหรือประเพณี) การใช้สลับกันเป็นข้อผิดพลาดที่ชี้วัดระดับความเชี่ยวชาญได้ดี",
+    "practice_questions": [
+      {
+        "question": "The CEO's abrupt ______ of the merger talks sent shockwaves through the financial markets.",
+        "options": [
+          "A. terminate",
+          "B. terminational",
+          "C. termination",
+          "D. terminating"
+        ],
+        "answer": "C",
+        "explanation": "ตำแหน่งที่หายไปต้องการคำนาม (Noun) เพื่อทำหน้าที่เป็นกรรมของคำบุพบท 'of' และแสดงถึง 'การกระทำ' ที่ CEO ทำ 'Termination' (การยุติ) เป็นคำนามที่ถูกต้องซึ่งมาจาก Verb 'terminate' ส่วน A เป็น Verb, B เป็น Adjective ที่ไม่มีอยู่จริง, และ D เป็น Gerund/Participle ซึ่งไม่เข้ากับโครงสร้างนี้ที่ต้องการนามธรรมของการกระทำ"
+      },
+      {
+        "question": "The ________ of the new environmental regulations has been met with considerable resistance from industrial lobbyists.",
+        "options": [
+          "A. implement",
+          "B. implementation",
+          "C. implementer",
+          "D. implementing"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคต้องการคำนามที่หมายถึง 'กระบวนการนำไปใช้' เพื่อทำหน้าที่เป็นประธานของประโยค 'Implementation' (การนำไปปฏิบัติ) คือคำนามที่ถูกต้องจาก Verb 'implement' ส่วน A เป็น Verb, C คือ 'ผู้ปฏิบัติ' ซึ่งไม่ใช่ความหมายที่ต้องการ, และ D (Gerund) แม้จะเป็นคำนามแต่ 'implementation' เป็นคำที่เป็นทางการและเหมาะสมกว่าในบริบทนี้"
+      },
+      {
+        "question": "Critics questioned the ______ of the evidence presented, suggesting it had been selectively curated.",
+        "options": [
+          "A. valid",
+          "B. validation",
+          "C. validity",
+          "D. validate"
+        ],
+        "answer": "C",
+        "explanation": "ตำแหน่งนี้ต้องการคำนามที่หมายถึง 'ความน่าเชื่อถือ' หรือ 'ความถูกต้องสมเหตุสมผล' ซึ่งเป็นคุณสมบัติของหลักฐาน 'Validity' เป็นคำนามที่มาจาก Adjective 'valid' ส่วน A เป็น Adjective, B คือ 'การทำให้ถูกต้อง', และ D คือ Verb"
+      },
+      {
+        "question": "Which sentence best rephrases 'The committee decided to approve the project, which surprised everyone' using nominalization?",
+        "options": [
+          "A. The committee's surprising decision approved the project.",
+          "B. The committee's decision to approve the project was a surprise to everyone.",
+          "C. The deciding of the committee to approve the project was surprising.",
+          "D. The approval of the project, which was decided by the committee, surprised everyone."
+        ],
+        "answer": "B",
+        "explanation": "ข้อ B ใช้ Nominalization ได้อย่างเป็นธรรมชาติและถูกต้องที่สุด 'decided' -> 'decision' และ 'surprised' -> 'a surprise' โครงสร้างประโยคชัดเจน ข้อ A ความหมายเพี้ยนไป ('การตัดสินใจที่น่าประหลาดใจ' ไปอนุมัติ) ข้อ C ใช้ 'the deciding of' ซึ่งไม่เป็นธรรมชาติเท่า 'decision' ข้อ D แม้จะถูกไวยากรณ์แต่ยาวและซับซ้อนกว่าข้อ B"
+      },
+      {
+        "question": "A complete ______ of the company's data security protocols is necessary following the recent breach.",
+        "options": [
+          "A. overhaul",
+          "B. overhauling",
+          "C. overhauled",
+          "D. overhauls"
+        ],
+        "answer": "A",
+        "explanation": "คำว่า 'overhaul' เป็นตัวอย่างของ Zero-derivation หรือ Conversion ซึ่งสามารถเป็นได้ทั้ง Verb (ปรับปรุงครั้งใหญ่) และ Noun (การปรับปรุงครั้งใหญ่) ในที่นี้ เราต้องการคำนามตามหลัง Adjective 'complete' ข้อ A จึงถูกต้องที่สุด ข้อ B 'overhauling' (Gerund) ก็เป็นไปได้ แต่ 'overhaul' ในรูปคำนามจะใช้บ่อยและเป็นทางการกว่าในบริบทนี้"
+      },
+      {
+        "question": "The scholar's ______ of ancient texts revealed previously unknown historical details.",
+        "options": [
+          "A. meticulous examination",
+          "B. examination meticulously",
+          "C. examine meticulous",
+          "D. meticulously examine"
+        ],
+        "answer": "A",
+        "explanation": "เมื่อเปลี่ยน Verb 'examine' เป็น Noun 'examination' คำวิเศษณ์ (Adverb) 'meticulously' ที่เคยขยาย Verb ก็ต้องเปลี่ยนเป็น Adjective 'meticulous' เพื่อขยาย Noun ตัวใหม่ ดังนั้น 'meticulous examination' (การตรวจสอบอย่างพิถีพิถัน) จึงเป็นโครงสร้างที่ถูกต้อง"
+      },
+      {
+        "question": "The ______ of the defendant from all charges was due to a lack of conclusive evidence.",
+        "options": [
+          "A. acquittal",
+          "B. acquittance",
+          "C. acquiring",
+          "D. acquirement"
+        ],
+        "answer": "A",
+        "explanation": "นี่คือการทดสอบคำศัพท์ระดับสูง Verb 'acquit' (ตัดสินให้พ้นผิด) เมื่อกลายเป็น Noun ในบริบททางกฎหมายคือ 'acquittal' (การตัดสินให้พ้นผิด) ส่วน 'acquittance' เป็นคำโบราณหมายถึงการชำระหนี้ 'acquiring' และ 'acquirement' มาจาก verb 'acquire' (ได้มา) ซึ่งไม่เกี่ยวกับบริบทเลย"
+      },
+      {
+        "question": "There is a growing ______ among climatologists that immediate action is required to mitigate the effects of climate change.",
+        "options": [
+          "A. consensus",
+          "B. consent",
+          "C. concession",
+          "D. conscience"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้ต้องการคำนามที่หมายถึง 'ความเห็นพ้องต้องกัน' หรือ 'ฉันทามติ' ซึ่งคำที่ถูกต้องคือ 'consensus' (มาจาก Verb 'consentire' ในภาษาละติน) แม้ว่า 'consent' (n. การอนุญาต) และ 'concession' (n. การยอมให้) จะเป็นคำนามที่คล้ายกัน แต่ความหมายไม่ตรงกับบริบทที่พูดถึงความคิดเห็นของกลุ่มผู้เชี่ยวชาญ ส่วน 'conscience' คือ 'มโนธรรม'"
+      },
+      {
+        "question": "Her ______ to the new regulations was passive; she complied without any overt protest.",
+        "options": [
+          "A. acquiescent",
+          "B. acquiescence",
+          "C. acquisition",
+          "D. acquirement"
+        ],
+        "answer": "B",
+        "explanation": "คำนามที่ถูกต้องสำหรับ 'การยอมรับหรือยินยอมอย่างไม่เต็มใจ' จาก Verb 'acquiesce' คือ 'acquiescence' ข้อ A 'acquiescent' เป็น Adjective ส่วน C และ D มาจาก Verb 'acquire' ซึ่งมีความหมายว่า 'การได้มา' และไม่เกี่ยวข้องกับบริบท"
+      },
+      {
+        "question": "The ______ of such a complex theory requires not only intelligence but also a significant amount of prior knowledge.",
+        "options": [
+          "A. comprehensive",
+          "B. comprehend",
+          "C. comprehension",
+          "D. comprehensible"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคต้องการประธานที่เป็นคำนาม หมายถึง 'ความเข้าใจ' หรือ 'การทำความเข้าใจ' 'Comprehension' คือคำนามที่ถูกต้องจาก Verb 'comprehend' และ Adjective 'comprehensive' (ที่ครอบคลุม) หรือ 'comprehensible' (ที่สามารถเข้าใจได้) ไม่สามารถทำหน้าที่เป็นประธานในบริบทนี้ได้"
+      }
+    ]
+  },
+  {
+    "id": "45_2",
+    "title": "45.2 Restructuring sentences using Nominalization",
+    "explanation": "ในระดับ C1-C2, Nominalization ไม่ใช่แค่การเปลี่ยน Verb หรือ Adjective ให้เป็น Noun อีกต่อไป แต่มันคือ 'เครื่องมือทางกลยุทธ์' ในการปรับโครงสร้างประโยค (Restructuring) เพื่อยกระดับการเขียนให้มีความเป็นวิชาการ (Academic), เป็นทางการ (Formal), และอัดแน่นด้วยข้อมูล (Information-dense) มากขึ้น\n\n**แก่นของการ Restructuring ด้วย Nominalization:**\nคือการเปลี่ยน 'กระบวนการ' หรือ 'สภาวะ' (ที่แสดงโดย Verb/Adjective) ให้กลายเป็น 'แนวคิด' หรือ 'ปรากฏการณ์' (ที่แสดงโดย Noun) และทำให้ 'แนวคิด' นั้นกลายเป็นศูนย์กลางของประโยคแทน\n\n**การเปลี่ยนแปลงที่เกิดขึ้นในโครงสร้างประโยค:**\n1.  **การเปลี่ยนภาคประธาน (Subject) และภาคแสดง (Predicate):**\n    *   **ประโยคเดิม:** The government **implemented** the policy. (ประธาน = government, กริยา = implemented)\n    *   **ประโยคใหม่:** The **implementation** of the policy by the government was successful. (ประธานกลายเป็น 'The implementation of the policy by the government' ซึ่งเป็น Noun Phrase ที่ซับซ้อน ส่วนกริยาแท้เปลี่ยนเป็น 'was')\n    สังเกตว่าผู้กระทำ (agent) อย่าง 'the government' ถูกย้ายไปอยู่ใน prepositional phrase (by the government) หรืออาจถูกละไปเลยเพื่อสร้างความ Objective\n\n2.  **การยุบรวมอนุประโยค (Clause Combination):**\n    Nominalization เป็นเครื่องมือชั้นยอดในการรวมสองประโยคหรือ clause เข้าด้วยกัน ทำให้ประโยคกระชับและไหลลื่นขึ้น\n    *   **ประโยคเดิม:** The economy recovered quickly. This surprised many analysts. (2 ประโยค)\n    *   **ประโยคใหม่:** The quick **recovery** of the economy was a **surprise** to many analysts. (1 ประโยค) 'recovered quickly' กลายเป็น 'quick recovery' ซึ่งทำหน้าที่เป็นประธานของประโยคใหม่\n\n3.  **การสร้างความหนาแน่นของข้อมูล (Information Density):**\n    เราสามารถนำคำขยาย (modifiers) ต่างๆ มาใส่ไว้รอบๆ Noun ที่สร้างขึ้นใหม่ได้ง่ายกว่า ทำให้ประโยคเดียวสื่อความได้มหาศาล\n    *   **ประโยคเดิม:** The researchers discovered something significant when they analyzed the data meticulously.\n    *   **ประโยคใหม่:** The researchers' meticulous **analysis** of the data led to a significant **discovery**. \n    สังเกตว่า Adverb 'meticulously' กลายเป็น Adjective 'meticulous' เพื่อขยาย 'analysis'\n\n**ทำไมและเมื่อไหร่จึงควรใช้?**\n*   **ในงานเขียนเชิงวิชาการ/กฎหมาย/ธุรกิจ:** เพื่อสร้างโทนที่เป็นกลาง, จริงจัง, และเน้นที่ 'แนวคิด' มากกว่า 'ผู้กระทำ'\n*   **เพื่อสร้าง Cohesion:** ใช้ Noun ที่แปลงมา เชื่อมโยงกับไอเดียจากประโยคก่อนหน้า เช่น \"The system failed repeatedly. This **failure** prompted an immediate investigation.\" (failure เชื่อมกลับไปที่ failed)\n*   **ข้อควรระวัง (The Nuance):** การใช้มากเกินไป (Over-nominalization) จะทำให้ประโยคดูอุ้ยอ้าย, อ่านไม่รู้เรื่อง และซ่อน 'ผู้กระทำ' จนขาดความชัดเจน (Vague) ศิลปะคือการใช้ให้ถูกที่ถูกเวลาเพื่อยกระดับภาษา ไม่ใช่ใช้จนภาษาน่าเบื่อ",
+    "examples": [
+      {
+        "eng": "The fact that the corporation divested its less profitable assets so strategically was universally applauded by shareholders.",
+        "thai": "การที่บริษัทขายสินทรัพย์ที่ทำกำไรน้อยออกไปอย่างมีกลยุทธ์นั้นได้รับการชื่นชมอย่างเป็นเอกฉันท์จากผู้ถือหุ้น\n\n**Restructured using Nominalization:**\n`The corporation's strategic divestment of its less profitable assets received universal applause from shareholders.`\n\n**การเปลี่ยนแปลง:**\n*   `The fact that the corporation divested` ทั้ง Clause นี้ถูกยุบเหลือเพียง Noun Phrase `The corporation's strategic divestment` (การขายสินทรัพย์เชิงกลยุทธ์ของบริษัท)\n*   Adverb `strategically` กลายเป็น Adjective `strategic` เพื่อขยาย Noun `divestment`\n*   Verb `was applauded` ถูกเปลี่ยนเป็น Noun `applause` และใช้ Verb ใหม่คือ `received` ทำให้ประโยคมีพลวัตมากขึ้น"
+      },
+      {
+        "eng": "Because the evidence was so ambiguous, the jury could not convict the defendant.",
+        "thai": "เนื่องจากหลักฐานมีความคลุมเครืออย่างมาก คณะลูกขุนจึงไม่สามารถตัดสินลงโทษจำเลยได้\n\n**Restructured using Nominalization:**\n`The ambiguity of the evidence precluded the defendant's conviction by the jury.`\n\n**การเปลี่ยนแปลง:**\n*   `the evidence was so ambiguous` กลายเป็น Noun Phrase `The ambiguity of the evidence` ซึ่งขึ้นมาเป็นประธาน\n*   `the jury could not convict the defendant` ถูกเปลี่ยนเป็น `the defendant's conviction by the jury`\n*   ที่สำคัญคือมีการใช้ Verb ขั้นสูงอย่าง `precluded` (ขัดขวาง, ทำให้เป็นไปไม่ได้) มาแทนที่ `could not` เพื่อเชื่อมสองแนวคิดนี้เข้าด้วยกันอย่างสละสลวย"
+      },
+      {
+        "eng": "It is profoundly important that we address how climate change is accelerating.",
+        "thai": "เป็นเรื่องสำคัญอย่างยิ่งที่เราต้องจัดการกับปัญหาที่ว่าการเปลี่ยนแปลงสภาพภูมิอากาศกำลังเร่งความเร็วขึ้นอย่างไร\n\n**Restructured using Nominalization:**\n`Addressing the acceleration of climate change is of profound importance.`\n\n**การเปลี่ยนแปลง:**\n*   `we address` กลายเป็น Gerund `Addressing`\n*   `climate change is accelerating` กลายเป็น Noun Phrase `the acceleration of climate change`\n*   `is profoundly important` ถูกเปลี่ยนโครงสร้างเป็น `is of profound importance` ซึ่งเป็นรูปแบบที่เป็นทางการและเน้นย้ำความสำคัญได้ดีมาก (be + of + abstract noun = be + adjective)"
+      }
+    ],
+    "common_mistakes": "**1. เลือก Preposition ผิด:** นี่คือข้อผิดพลาดที่พบบ่อยที่สุดหลังการทำ Nominalization คนไทยมักสับสนว่าจะใช้ 'of', 'in', 'for', 'by' หรือตัวไหนดี เช่น พูดว่า 'the analysis on the data' แทนที่จะเป็น 'the analysis **of** the data' หรือ 'their belief to the theory' แทนที่จะเป็น 'their belief **in** the theory' ทางแก้คือต้องจำ Collocation ที่มากับ Noun แต่ละตัว\n\n**2. โครงสร้างแสดงความเป็นเจ้าของ (Possession) ที่ไม่เป็นธรรมชาติ:** เมื่อเปลี่ยน Verb เป็น Noun ผู้กระทำ (agent) มักต้องแสดงด้วย 's หรือ of phrase แต่คนไทยมักจะลืมใส่ หรือใส่แล้วฟังดูแปร่ง เช่น\n*   **ประโยคเดิม:** The CEO decided.\n*   **ผิด:** The decide of CEO... (ผิดไวยากรณ์)\n*   **ควรจะเป็น:** The CEO's **decision**... หรือ The **decision** of the CEO...\n\n**3. ใช้ Nominalization พร่ำเพรื่อจนน่าเบื่อ (Over-nominalization):** ในระดับสูง ความผิดพลาดไม่ใช่เรื่องไวยากรณ์ แต่เป็นเรื่อง 'Style' การแปลงทุกอย่างเป็น Noun จะทำให้ประโยคยาว, ไร้ชีวิตชีวา, และอ่านยากมาก\n*   **แย่:** The **commencement** of the **investigation** was a **consequence** of the **revelation** of fraud.\n*   **ดีกว่า:** The fraud **revelation** prompted an immediate **investigation**. (ผสมผสานระหว่าง Noun และ Verb ที่ทรงพลัง)\n\n**4. สับสน Subject-Verb Agreement:** เมื่อประธานของประโยคคือ Noun Phrase ยาวๆ ที่เกิดจาก Nominalization อาจทำให้สับสนและใช้ Verb ผิดรูปได้\n*   **ผิด:** The **implications** of this single decision for the entire company *is* staggering. (ประธานคือ implications (พหูพจน์) ไม่ใช่ decision)\n*   **ถูก:** The **implications** ... *are* staggering.",
+    "practice_questions": [
+      {
+        "question": "Choose the most effective and formal restructuring of the following sentence: 'The committee argued contentiously about the new policy, so they did not reach a decision.'",
+        "options": [
+          "A. The committee's contentious argument about the new policy resulted in their non-decision.",
+          "B. The contentiousness of the committee's argument regarding the new policy precluded any decision-making.",
+          "C. A decision was not reached by the committee because their argument about the new policy was contentious.",
+          "D. The committee's contentious argument about the new policy led to a failure of decision reaching."
+        ],
+        "answer": "B",
+        "explanation": "ข้อ B เป็นตัวเลือกที่ดีที่สุดเพราะใช้ Nominalization ได้อย่างทรงพลังและเป็นธรรมชาติ 'argued contentiously' กลายเป็น 'The contentiousness of the committee's argument' และ 'did not reach a decision' ถูกแทนที่ด้วย verb ขั้นสูง 'precluded' (ขัดขวาง) ตามด้วย 'any decision-making' ซึ่งสละสลวยกว่าข้ออื่น\nข้อ A: 'non-decision' เป็นคำที่ไม่เป็นทางการและค่อนข้างอ색\nข้อ C: ยังคงโครงสร้างแบบ Passive Voice และใช้ 'because' ซึ่งตรงไปตรงมาเกินไปสำหรับระดับนี้\nข้อ D: 'failure of decision reaching' เป็นโครงสร้างที่ไม่เป็นธรรมชาติและผิดหลักไวยากรณ์"
+      },
+      {
+        "question": "Restructure the sentence: 'It is essential that we scrutinize the long-term ramifications of this technology.'",
+        "options": [
+          "A. The essential scrutiny of the long-term ramifications of this technology is a must.",
+          "B. Scrutiny to the long-term ramifications of this technology is of the essence.",
+          "C. Scrutinizing the long-term ramifications of this technology is an essentiality.",
+          "D. A thorough scrutiny of this technology's long-term ramifications is essential."
+        ],
+        "answer": "D",
+        "explanation": "ข้อ D เป็นการปรับโครงสร้างที่สมบูรณ์แบบที่สุด 'scrutinize' (v.) กลายเป็น 'scrutiny' (n.) และถูกนำมาเป็นส่วนหนึ่งของประธาน (Subject) ของประโยคใหม่ได้อย่างราบรื่น 'A thorough scrutiny... is essential.' เป็นโครงสร้างที่เป็นธรรมชาติและเป็นทางการ\nข้อ A: 'is a must' เป็นสำนวนที่ไม่เป็นทางการเท่าที่ควร\nข้อ B: ใช้ preposition ผิด 'Scrutiny' ต้องตามด้วย 'of' ไม่ใช่ 'to' และ 'of the essence' แม้จะถูก แต่โดยรวมยังไม่ดีเท่า D\nข้อ C: 'essentiality' เป็นคำนามที่ถูกต้อง แต่ไม่นิยมใช้ในบริบทนี้ ทำให้ประโยคฟังดูไม่เป็นธรรมชาติ"
+      },
+      {
+        "question": "Which sentence best rephrases 'The government's attempts to ameliorate poverty have been largely ineffectual' using nominalization differently?",
+        "options": [
+          "A. The government's ineffectual amelioration of poverty has been attempted.",
+          "B. The general ineffectuality of the government's attempts at poverty amelioration is widely noted.",
+          "C. Poverty amelioration has been an ineffectual attempt by the government.",
+          "D. The attempt by the government for ameliorating poverty is ineffectual."
+        ],
+        "answer": "B",
+        "explanation": "ข้อ B คือการปรับโครงสร้างที่ซับซ้อนและมีประสิทธิภาพที่สุด โดยเปลี่ยน 'ineffectual' (adj.) ให้เป็น 'ineffectuality' (n.) แล้วยกขึ้นมาเป็นประธาน ทำให้การวิเคราะห์มีความเป็นนามธรรมและเป็นวิชาการมากขึ้น 'attempts at poverty amelioration' เป็นการใช้ Nominalization ซ้อนกันอย่างถูกต้อง\nข้อ A: โครงสร้าง Passive voice ที่น่าสับสนและไม่สื่อความหมายเดิม\nข้อ C: เปลี่ยนความหมายไปเล็กน้อย และ 'an ineffectual attempt' ฟังดูอ่อนกว่าประโยคเดิม\nข้อ D: ใช้ preposition 'for' ผิด และโครงสร้าง 'attempt for ameliorating' ไม่ถูกต้อง"
+      },
+      {
+        "question": "Combine the two sentences using nominalization: 'The legislators promulgated the new law. This action provoked widespread public opposition.'",
+        "options": [
+          "A. The promulgation of the new law by the legislators was the provocation for widespread public opposition.",
+          "B. The legislators' promulgation of the new law provoked widespread public opposition.",
+          "C. Widespread public opposition was provoked because of the new law's promulgation by the legislators.",
+          "D. By promulgating the new law, legislators provoked widespread public opposition."
+        ],
+        "answer": "B",
+        "explanation": "ข้อ B เป็นวิธีรวมประโยคที่กระชับและทรงพลังที่สุด 'promulgated' (v.) กลายเป็น 'promulgation' (n.) ซึ่งทำหน้าที่เป็นส่วนหนึ่งของประธาน `The legislators' promulgation of the new law` แล้วตามด้วยกริยา 'provoked' จากประโยคที่สอง ทำให้ประโยคต่อเนื่องและเป็นเหตุเป็นผล\nข้อ A: 'was the provocation for' เป็น cấu trúc ที่ยาวและอุ้ยอ้ายกว่า\nข้อ C: เป็น Passive voice ซึ่งไม่จำเป็นและทำให้ประโยคซับซ้อนโดยใช่เหตุ\nข้อ D: ใช้ Gerund phrase ซึ่งก็ถูกต้อง แต่ข้อ B ที่ใช้ Nominalization เป็นประธานจะมีความเป็นทางการมากกว่า"
+      },
+      {
+        "question": "Which sentence demonstrates an overuse of nominalization, leading to awkward, 'noun-heavy' prose?",
+        "options": [
+          "A. The evaluation of our performance indicated a need for the implementation of a new strategy.",
+          "B. Our poor performance indicated that we needed to implement a new strategy.",
+          "C. A new strategy was implemented after our performance was evaluated as poor.",
+          "D. The indication from our performance evaluation was the necessity for new strategy implementation."
+        ],
+        "answer": "A",
+        "explanation": "ข้อ A คือตัวอย่างคลาสสิกของ Over-nominalization หรือ 'noun plague' สังเกตว่ามี Noun ที่มาจาก Verb ถึง 3 คำในประโยคเดียว (`evaluation`, `need`, `implementation`) ทำให้ประโยคขาดพลัง ขาดผู้กระทำ และอ่านยาก\nข้อ B เป็นประโยคที่ชัดเจนและตรงไปตรงมาที่สุด ใช้ Verb เป็นหลัก\nข้อ C ใช้ Passive Voice แต่ก็ยังอ่านเข้าใจง่ายกว่า A\nข้อ D คล้ายกับ A แต่โครงสร้างแย่กว่าและไม่เป็นธรรมชาติอย่างยิ่ง"
+      },
+      {
+        "question": "Restructure the sentence: 'The sudden depreciation of the currency significantly impacted the nation's economy.'",
+        "options": [
+          "A. The nation's economy was significantly impactful by the sudden depreciation of the currency.",
+          "B. The sudden depreciation of the currency had a significant impact on the nation's economy.",
+          "C. A significant impact to the nation's economy was from the currency's sudden depreciation.",
+          "D. There was a significant economic impact because the currency depreciated suddenly."
+        ],
+        "answer": "B",
+        "explanation": "ข้อ B เป็นวิธีปรับโครงสร้างที่พบบ่อยและเป็นธรรมชาติที่สุด โดยเปลี่ยน Verb 'impacted' เป็น Noun 'impact' แล้วใช้โครงสร้าง 'have an impact on...' ซึ่งเป็น Collocation ที่ถูกต้องและใช้กันอย่างแพร่หลาย\nข้อ A: 'was impactful by' เป็นไวยากรณ์ที่ผิด\nข้อ C: 'impact to' เป็น preposition ที่ผิด ต้องใช้ 'on' และโครงสร้างประโยคโดยรวมค่อนข้างแปลก\nข้อ D: ใช้โครงสร้าง 'There was...' และ 'because' ซึ่งทำให้ความเป็นทางการลดลง"
+      },
+      {
+        "question": "Choose the best restructuring of 'The researchers' conclusion that the hypothesis was invalid rested on incontrovertible data.'",
+        "options": [
+          "A. The invalidity of the hypothesis was the researchers' conclusion from incontrovertible data.",
+          "B. The researchers concluded the invalidity of the hypothesis on the basis of incontrovertible data.",
+          "C. Resting on incontrovertible data, the conclusion of the researchers was the hypothesis's invalidity.",
+          "D. The researchers' conclusion regarding the hypothesis's invalidity was predicated upon incontrovertible data."
+        ],
+        "answer": "D",
+        "explanation": "ข้อ D เป็นตัวเลือกที่ใช้ศัพท์และโครงสร้างระดับสูงที่สุด 'rested on' ถูกแทนที่ด้วย 'was predicated upon' ซึ่งเป็นทางการและมีความหมายเดียวกัน 'that the hypothesis was invalid' ถูกแปลงเป็น Noun Phrase 'regarding the hypothesis's invalidity' ได้อย่างชาญฉลาด\nข้อ A และ C: มีโครงสร้างที่ค่อนข้างสับสนและไม่เป็นธรรมชาติ\nข้อ B: ถูกต้องตามไวยากรณ์ แต่ยังไม่สละสลวยและใช้ศัพท์ระดับสูงเท่าข้อ D"
+      },
+      {
+        "question": "Restructure: 'The fact that the company is transparent about its operations builds consumer trust.'",
+        "options": [
+          "A. The company's operational transparency is a builder of consumer trust.",
+          "B. Consumer trust is built by the company being transparent in its operations.",
+          "C. The company's transparency in its operations is conducive to building consumer trust.",
+          "D. Building consumer trust is a result from the company's transparency about its operations."
+        ],
+        "answer": "C",
+        "explanation": "ข้อ C เป็นการปรับโครงสร้างที่ยอดเยี่ยม 'The company is transparent' กลายเป็น 'The company's transparency' และใช้สำนวนขั้นสูง 'is conducive to' (เอื้อต่อ, นำไปสู่) ซึ่งเป็นภาษาเขียนที่เป็นทางการมาก\nข้อ A: 'is a builder of' เป็นการใช้คำที่ไม่เป็นธรรมชาติ\nข้อ B: ใช้ Passive voice และ Gerund ซึ่งไม่กระชับเท่า C\nข้อ D: ใช้ preposition ผิด ต้องเป็น 'a result of' ไม่ใช่ 'from' และโครงสร้างโดยรวมยังไม่ดีเท่า C"
+      },
+      {
+        "question": "Which sentence correctly nominalizes 'He eloquently articulated his dissent'?",
+        "options": [
+          "A. His eloquent articulation of his dissent was impressive.",
+          "B. His dissent was articulated by him with eloquence.",
+          "C. The eloquence of his dissent's articulation was noted.",
+          "D. His articulation on his dissent was full of eloquence."
+        ],
+        "answer": "A",
+        "explanation": "ข้อ A เป็นคำตอบที่ถูกต้องและสมบูรณ์แบบที่สุด 'eloquently' (adv) กลายเป็น 'eloquent' (adj) เพื่อขยาย Noun 'articulation' (มาจาก verb 'articulated') และ 'dissent' (n) ถูกเชื่อมด้วย preposition 'of' ที่ถูกต้อง ('articulation of something')\nข้อ B: เป็น Passive voice ที่ไม่จำเป็น\nข้อ C: โครงสร้าง 'dissent's articulation' ใช้ 's ซ้อนกันทำให้ไม่เป็นธรรมชาติ\nข้อ D: ใช้ preposition 'on' ผิด ต้องเป็น 'of'"
+      },
+      {
+        "question": "Restructure: 'The project failed primarily because the team did not communicate adequately.'",
+        "options": [
+          "A. The project's failure was a primary result of the team's inadequacy in communication.",
+          "B. The primary reason for the project's failure was the team's inadequate communication.",
+          "C. The team's communication inadequacy was the primary failing reason of the project.",
+          "D. The failure of the project came from the team's inadequate communication primarily."
+        ],
+        "answer": "B",
+        "explanation": "ข้อ B เป็นประโยคที่ชัดเจน กระชับ และเป็นธรรมชาติที่สุด 'failed' กลายเป็น 'failure', 'did not communicate adequately' ถูกย่อเหลือเพียง 'inadequate communication' ซึ่งเป็น Noun phrase ที่ทรงพลัง 'The primary reason for... was...' เป็นโครงสร้างที่ใช้เชื่อมเหตุและผลได้อย่างยอดเยี่ยม\nข้อ A: 'inadequacy in communication' แม้จะถูกไวยากรณ์ แต่ 'inadequate communication' กระชับกว่า\nข้อ C: 'failing reason' เป็นการใช้คำที่ไม่ถูกต้อง\nข้อ D: การวาง 'primarily' ไว้ท้ายประโยคทำให้ประโยคฟังดูไม่เป็นธรรมชาติ"
+      }
+    ]
+  },
+  {
+    "id": "45_3",
+    "title": "45.3 Summary: Nominalization (สรุปการทำเป็นคำนาม + 50 Exercises)",
+    "explanation": "Nominalization (การทำเป็นคำนาม) คือหัวใจสำคัญของการเขียนภาษาอังกฤษในระดับสูง (C1-C2) โดยเฉพาะในเชิงวิชาการ (Academic), วิชาชีพ (Professional) และการเขียนที่เป็นทางการ (Formal Writing) โดยแก่นแท้แล้ว มันคือกระบวนการเปลี่ยนคำกริยา (Verbs) และคำคุณศัพท์ (Adjectives) ให้กลายเป็นคำนาม (Nouns)\n\nเหตุใดจึงสำคัญในระดับสูง?\n1.  **ความกระชับและเป็นทางการ (Conciseness and Formality):** การใช้ Nominalization ช่วยลดการใช้ประโยคย่อย (clauses) ทำให้ประโยคสั้นกระชับและมีน้ำเสียงที่เป็นทางการมากขึ้น เช่น แทนที่จะพูดว่า 'The economy grew unexpectedly, which surprised economists.' เราสามารถยกระดับเป็น 'The economy's unexpected growth surprised economists.'\n2.  **การสร้างแนวคิดเชิงนามธรรม (Creating Abstract Concepts):** Nominalization ช่วยให้เราสามารถพูดถึง 'การกระทำ' หรือ 'สภาวะ' ราวกับว่าเป็น 'สิ่งของ' ที่จับต้องได้ ทำให้ง่ายต่อการนำมาวิเคราะห์ วิจารณ์ หรืออภิปราย เช่น คำว่า 'privatization' (การแปรรูป), 'globalization' (โลกาภิวัตน์), 'sustainability' (ความยั่งยืน) ล้วนเกิดจากกระบวนการนี้ ทำให้เราสามารถถกเถียงแนวคิดที่ซับซ้อนเหล่านี้ได้\n3.  **การเน้นย้ำข้อมูล (Information Focus):** การใช้คำนามเป็นประธานของประโยคช่วยดึงความสนใจไปที่ 'แนวคิด' หรือ 'ผลลัพธ์' ของการกระทำนั้นๆ มากกว่าตัวผู้กระทำ เช่น 'The investigation revealed several inconsistencies.' จะเน้นที่ 'การสืบสวน' มากกว่าประโยคที่ว่า 'They investigated and revealed...'\n\nสรุปเทคนิคการทำ Nominalization ในระดับ C1-C2:\n*   **การเติม Suffix (Suffixation):** นอกเหนือจาก Suffix พื้นฐาน (-tion, -ment, -ness) ในระดับสูงต้องรู้จัก Suffix ที่หลากหลายและเข้าใจความแตกต่างเล็กๆ น้อยๆ เช่น -ity (profundity, scarcity), -ance/-ence (adherence, persistence), -al (refusal, arrival), -ure (failure, departure), -age (shortage, usage)\n*   **การไม่เปลี่ยนรูป (Zero Derivation/Conversion):** การใช้คำกริยาเป็นคำนามโดยไม่เปลี่ยนรูปเลย เป็นลักษณะที่พบได้บ่อยในภาษาอังกฤษธุรกิจและเทคนิค เช่น an increase, a challenge, a review, a collapse, a protest\n*   **การใช้ Gerunds (-ing) เป็นคำนามเชิงนามธรรม:** ในระดับสูง Gerund ไม่ได้เป็นแค่ชื่อกิจกรรม (Swimming is fun.) แต่ยังใช้แทน 'กระบวนการ' ที่ซับซ้อน มักจะมีส่วนขยายตามมา เช่น 'The meticulous mapping of the human genome was a monumental achievement.'\n*   **การซ้อนคำนาม (Noun Stacks/Noun Compounds):** เป็นโครงสร้างขั้นสูงที่พบในบทความวิชาการ คือการนำคำนามหลายๆ คำมาวางซ้อนกันเพื่อขยายความคำนามหลักตัวสุดท้าย เช่น 'consumer behavior analysis' หรือ 'data privacy regulation implementation' ซึ่งผู้เรียนต้องสามารถถอดความหมายได้อย่างถูกต้อง",
+    "examples": [
+      {
+        "eng": "The institutionalization of meritocratic principles is fundamental to the eradication of systemic corruption.",
+        "thai": "ประโยคนี้ใช้ Nominalization ถึงสามคำ ได้แก่ 'institutionalization' (การทำให้เป็นสถาบัน/ระบบ จากกริยา institutionalize), 'eradication' (การขจัดให้สิ้นซาก จากกริยา eradicate), และ 'corruption' (การทุจริต จากกริยา corrupt) ทำให้สามารถพูดถึงแนวคิดที่ซับซ้อนมากๆ ในประโยคเดียวได้อย่างกระชับและเป็นวิชาการ"
+      },
+      {
+        "eng": "Her refusal to compromise on ethical standards, despite immense pressure, earned her the admiration of her colleagues.",
+        "thai": "ประโยคนี้ใช้ 'refusal' (การปฏิเสธ จากกริยา refuse) และ 'admiration' (ความชื่นชม จากกริยา admire) เป็นแกนหลัก โครงสร้าง 'Her refusal to...' แสดงให้เห็นว่า Nominalization สามารถมีส่วนขยาย (to compromise...) ตามหลังได้เช่นเดียวกับกริยา ทำให้สามารถถ่ายทอดข้อมูลซับซ้อนได้"
+      },
+      {
+        "eng": "There has been a noticeable decline in public trust following the release of the government's internal audit.",
+        "thai": "ประโยคนี้แสดงการใช้ Zero Derivation คือ 'decline' (การลดลง) และ 'release' (การเปิดเผย) ซึ่งมาจากกริยาโดยไม่เปลี่ยนรูป และใช้ 'audit' (การตรวจสอบ) ซึ่งก็เป็นได้ทั้งคำนามและกริยา เป็นตัวอย่างที่ดีของการใช้ศัพท์ในแวดวงธุรกิจและการเมือง"
+      },
+      {
+        "eng": "A comprehensive review of the current employee performance evaluation process is underway.",
+        "thai": "นี่คือตัวอย่างของ Noun Stack (การซ้อนคำนาม) ที่ซับซ้อน 'employee performance evaluation process' คือคำนาม 4 คำที่เรียงต่อกันเพื่อขยายคำว่า 'process' โดยคำนามหลักคือ 'review' แสดงให้เห็นถึงความหนาแน่นของข้อมูลที่พบได้บ่อยในเอกสารองค์กร"
+      }
+    ],
+    "common_mistakes": "1.  **การใช้ Nominalization ฟุ่มเฟือย (Over-nominalization):** การใช้คำนามที่มาจากการผันคำกริยามากเกินไปจนทำให้ประโยคดูอุ้ยอ้าย อ่านไม่ลื่นไหล หรือที่เรียกว่า 'Zombie Nouns' คนไทยระดับสูงบางครั้งพยายามทำให้เป็นทางการมากเกินไปจนผิดธรรมชาติ\n    *   ผิด: The team's making of a decision was quick. (ดูอ้อมค้อม)\n    *   ถูก: The team's decision was quick. (กระชับกว่า)\n    *   ถูกกว่า (ในบางบริบท): The team decided quickly. (เป็นธรรมชาติที่สุด)\n\n2.  **การเลือก Suffix ผิด:** แม้จะรู้ว่าต้องเติม Suffix แต่เลือกใช้ตัวที่ไม่มีอยู่จริง หรือสับสนระหว่าง Suffix ที่ใกล้เคียงกัน\n    *   ผิด: We need to ensure the *accuracy* of this data. (ถูกต้อง)\n    *   ผิด: We need to ensure the *accurateness* of this data. (แม้ accurateness จะมีใช้บ้าง แต่ accuracy เป็นทางการและแพร่หลายกว่ามาก)\n    *   ผิดพลาดบ่อย: *approvement* (ไม่มี) -> approval, *develepment* (สะกดผิด) -> development\n\n3.  **การละเลย Articles และ Determiners:** เมื่อเปลี่ยนกริยาเป็นคำนามที่นับได้ (Countable Noun) มักลืมใส่ a, an, the หรือ other determiners (my, their, this) ไว้ข้างหน้า ทำให้ผิดหลักไวยากรณ์\n    *   ผิด: *Challenge* we face is lack of funding.\n    *   ถูก: **The** challenge we face is a lack of funding.\n\n4.  **การใช้บุพบท (Preposition) ตามหลังคำนามผิด:** คำนามที่ผันมาจากกริยามักจะใช้ Preposition ตัวเดียวกับกริยาเดิม แต่ไม่เสมอไป และเป็นจุดที่ผิดบ่อยมาก\n    *   ผิด: His reliance *to* his parents is concerning. (กริยาคือ rely on)\n    *   ถูก: His reliance **on** his parents is concerning.\n    *   ผิด: She showed great proficiency *of* English. (proficient in)\n    *   ถูก: She showed great proficiency **in** English.",
+    "practice_questions": [
+      {
+        "question": "The ______ of the new software across all departments is scheduled for the next quarter.",
+        "options": [
+          "A. implement",
+          "B. implementation",
+          "C. implementing",
+          "D. implementality"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคต้องการคำนามที่เป็น 'การกระทำ' หรือ 'กระบวนการ' เพื่อทำหน้าที่เป็นประธานของประโยค 'Implementation' (การนำไปปฏิบัติ) เป็นคำนามที่เหมาะสมที่สุดซึ่งมาจากกริยา 'implement' ส่วน 'implement' เป็นกริยา, 'implementing' เป็น gerund/participle และ 'implementality' ไม่มีในภาษาอังกฤษ"
+      },
+      {
+        "question": "The ______ of her argument lay in its impeccable logic and empirical evidence.",
+        "options": [
+          "A. profound",
+          "B. profoundly",
+          "C. profundity",
+          "D. profoundness"
+        ],
+        "answer": "C",
+        "explanation": "คำว่า 'profundity' (ความลึกซึ้ง) เป็นคำนามเชิงนามธรรมที่มาจากคุณศัพท์ 'profound' และเหมาะสมกับบริบททางวิชาการนี้ที่สุด 'Profoundness' แม้จะมีความหมายคล้ายกัน แต่ 'profundity' เป็นที่นิยมและเป็นทางการกว่ามาก"
+      },
+      {
+        "question": "The CEO's abrupt ______ sent shockwaves through the financial markets.",
+        "options": [
+          "A. resignation",
+          "B. resigning",
+          "C. resign",
+          "D. resignment"
+        ],
+        "answer": "A",
+        "explanation": "'Resignation' (การลาออก) คือคำนามที่ถูกต้องซึ่งหมายถึงการกระทำของการลาออกจากตำแหน่ง 'Resigning' เป็น gerund, 'resign' เป็นกริยา และ 'resignment' เป็นคำที่ไม่มีอยู่จริง"
+      },
+      {
+        "question": "We need a more innovative ______ to solving this long-standing issue.",
+        "options": [
+          "A. approaching",
+          "B. approach",
+          "C. approached",
+          "D. approachement"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้ใช้ 'approach' ในรูปแบบของ Zero Derivation (Conversion) ซึ่งเป็นคำนามที่แปลว่า 'แนวทาง' หรือ 'วิธีการ' ในที่นี้ 'a more innovative approach' หมายถึง 'แนวทางที่สร้างสรรค์ยิ่งขึ้น' 'Approachement' ไม่มีในภาษาอังกฤษ"
+      },
+      {
+        "question": "A meticulous ______ of the ancient manuscript revealed a previously unknown author.",
+        "options": [
+          "A. examination",
+          "B. examining",
+          "C. examine",
+          "D. examiner"
+        ],
+        "answer": "A",
+        "explanation": "'Examination' (การตรวจสอบอย่างละเอียด) เป็นคำนามที่เหมาะสมที่สุดในบริบทนี้ หมายถึงกระบวนการของการตรวจสอบ 'Examiner' หมายถึง 'ผู้ตรวจสอบ' ซึ่งเป็นบุคคล ไม่ใช่การกระทำ"
+      },
+      {
+        "question": "Strict ______ to safety protocols is non-negotiable in this facility.",
+        "options": [
+          "A. adhesion",
+          "B. adherence",
+          "C. adhering",
+          "D. adherent"
+        ],
+        "answer": "B",
+        "explanation": "'Adherence to' (การยึดมั่นต่อ) เป็นคำนามที่ถูกต้องและใช้คู่กับบุพบท 'to' เพื่อหมายถึงการปฏิบัติตามกฎหรือหลักการอย่างเคร่งครัด 'Adhesion' หมายถึงการยึดติดทางกายภาพ 'Adherent' หมายถึงผู้ติดตามหรือผู้สนับสนุน"
+      },
+      {
+        "question": "The rapid ______ of misinformation online poses a significant threat to democracy.",
+        "options": [
+          "A. proliferate",
+          "B. prolific",
+          "C. proliferating",
+          "D. proliferation"
+        ],
+        "answer": "D",
+        "explanation": "'Proliferation' (การแพร่กระจายอย่างรวดเร็ว) เป็นคำนามที่มาจากกริยา 'proliferate' และอธิบายปรากฏการณ์ของการเพิ่มจำนวนอย่างรวดเร็วได้อย่างถูกต้องที่สุดในประโยคนี้"
+      },
+      {
+        "question": "The ______ of potable water is a critical issue in many arid regions.",
+        "options": [
+          "A. scarce",
+          "B. scarcity",
+          "C. scarcely",
+          "D. scarceness"
+        ],
+        "answer": "B",
+        "explanation": "'Scarcity' (ความขาดแคลน) เป็นคำนามที่มาจากคุณศัพท์ 'scarce' และเป็นคำมาตรฐานที่ใช้ในบริบททางวิชาการและเศรษฐศาสตร์ 'Scarceness' มีความหมายเหมือนกันแต่ใช้น้อยกว่ามาก"
+      },
+      {
+        "question": "There is a significant ______ between the official report and the eyewitness accounts.",
+        "options": [
+          "A. discrepant",
+          "B. discrepancy",
+          "C. discrepantly",
+          "D. discrepance"
+        ],
+        "answer": "B",
+        "explanation": "'Discrepancy' (ความคลาดเคลื่อน, ความไม่สอดคล้องกัน) เป็นคำนามที่ถูกต้องเพื่ออธิบายความแตกต่างระหว่างข้อมูลสองชุด 'Discrepant' เป็นคำคุณศัพท์ 'Discrepance' เป็นรูปที่ไม่มีใช้"
+      },
+      {
+        "question": "The company's recent ______ of a smaller tech startup has bolstered its market position.",
+        "options": [
+          "A. acquiring",
+          "B. acquisition",
+          "C. acquisitive",
+          "D. acquirement"
+        ],
+        "answer": "B",
+        "explanation": "'Acquisition' (การเข้าซื้อกิจการ) เป็นคำนามมาตรฐานในโลกธุรกิจที่หมายถึงการซื้อบริษัทอื่น 'Acquirement' แม้จะมีอยู่แต่ไม่นิยมใช้ในบริบทนี้ 'Acquisition' เป็นคำที่ถูกต้องและเป็นทางการ"
+      },
+      {
+        "question": "Which sentence best rephrases 'The politician refused to comment on the allegations' using nominalization?",
+        "options": [
+          "A. The politician's refusal to comment on the allegations was noted.",
+          "B. The politician was refusing the comment about the allegations.",
+          "C. The refusal of the politician for commenting was noted.",
+          "D. The politician's refusing to comment was noted allegation-wise."
+        ],
+        "answer": "A",
+        "explanation": "ข้อ A ใช้ 'refusal' (การปฏิเสธ) ซึ่งเป็นคำนามจากกริยา 'refuse' และตามด้วย infinitive 'to comment' สร้างโครงสร้างที่เป็นทางการและกระชับที่สุด ข้อ B, C, และ D ใช้ไวยากรณ์ที่ไม่เป็นธรรมชาติและผิดพลาด"
+      },
+      {
+        "question": "Rephrase 'The committee approved the budget' for a formal report.",
+        "options": [
+          "A. The committee's approve of the budget was given.",
+          "B. The approval of the budget by the committee is complete.",
+          "C. The budget was with the approval from the committee.",
+          "D. The committee's approval of the budget was formally recorded."
+        ],
+        "answer": "D",
+        "explanation": "ข้อ D ใช้ 'approval' ซึ่งเป็นคำนามที่ถูกต้องจาก 'approve' และสร้างประโยคที่เป็นธรรมชาติและเป็นทางการ ('The committee's approval of the budget...'). ข้อ A ใช้ 'approve' ซึ่งเป็นกริยาในตำแหน่งคำนาม ข้อ B และ C มีโครงสร้างที่อ้อมค้อม"
+      },
+      {
+        "question": "How can 'The scientist discovered a new element' be expressed more academically?",
+        "options": [
+          "A. The scientist's making a discovery of a new element was important.",
+          "B. The discovery of a new element by the scientist marked a breakthrough.",
+          "C. A new element's discovery was done by the scientist.",
+          "D. Discovering a new element was what the scientist did."
+        ],
+        "answer": "B",
+        "explanation": "ข้อ B ใช้ 'discovery' (การค้นพบ) เป็นประธานของประโยค ทำให้เน้นไปที่ 'การค้นพบ' เอง ซึ่งเป็นสไตล์การเขียนเชิงวิชาการที่ดีเยี่ยม ข้อ A ใช้ 'making a discovery' ซึ่งฟุ่มเฟือย ข้อ C และ D เป็นประโยคที่ไม่เป็นทางการและมีโครงสร้างไม่ดี"
+      },
+      {
+        "question": "Rephrase: 'He persisted in pursuing his ambitious goals, and that led to his success.'",
+        "options": [
+          "A. His persistence in the pursuing of his ambitious goals led to his success.",
+          "B. His persistence in pursuing his ambitious goals led to his success.",
+          "C. His persistent pursuing of his goals was his success.",
+          "D. His success came from the persistence of his pursuing goals."
+        ],
+        "answer": "B",
+        "explanation": "ข้อ B ถูกต้องที่สุด โดยใช้ 'persistence' (ความมุมานะ) และตามด้วย gerund phrase 'in pursuing...' ซึ่งเป็นโครงสร้างที่ถูกต้องและเป็นธรรมชาติ ข้อ A ใส่ 'the' หน้า 'pursuing' โดยไม่จำเป็น ข้อ C และ D มีโครงสร้างที่สับสนและไม่ถูกต้อง"
+      },
+      {
+        "question": "Which sentence correctly nominalizes 'The building gradually deteriorated'?",
+        "options": [
+          "A. The gradual deterioration of the building was a cause for concern.",
+          "B. The building's gradual deteriorating was concerning.",
+          "C. The deterioration gradually of the building was a concern.",
+          "D. There was a gradual deterioration to the building that caused concern."
+        ],
+        "answer": "A",
+        "explanation": "ข้อ A ใช้ 'deterioration' (การเสื่อมสภาพ) อย่างถูกต้อง และใช้คุณศัพท์ 'gradual' ขยาย ทำให้ได้ประโยคที่สละสลวยและเป็นทางการ ข้อ B ใช้ gerund 'deteriorating' ในลักษณะที่ไม่เป็นธรรมชาติ ข้อ C วาง adverb ผิดตำแหน่ง ข้อ D ใช้โครงสร้าง 'There was' ที่ทำให้ประโยคอ่อนลง"
+      },
+      {
+        "question": "Rephrase for a formal context: 'The government intervened in the economy.'",
+        "options": [
+          "A. The government's intervention in the economy was controversial.",
+          "B. The government made an intervention into the economy.",
+          "C. The government's intervening in the economy was controversial.",
+          "D. An intervention was what the government did in the economy."
+        ],
+        "answer": "A",
+        "explanation": "ข้อ A ใช้คำนาม 'intervention' (การแทรกแซง) อย่างสมบูรณ์แบบในโครงสร้าง possessive ('The government's intervention') ซึ่งเป็นวิธีมาตรฐานในการ nominalize ประโยคที่มีประธานและกริยา ข้อ B ใช้ 'made an intervention' ซึ่งไม่กระชับเท่า ข้อ C และ D มีโครงสร้างที่ค่อนข้างぎこちない (awkward)"
+      },
+      {
+        "question": "How would you rewrite 'The company will expand into Asian markets' in a business plan?",
+        "options": [
+          "A. The company's expansion into Asian markets is our primary objective.",
+          "B. The expanding of the company into Asian markets is the objective.",
+          "C. The company will make an expansion into Asian markets as an objective.",
+          "D. An expansion into Asian markets by the company is the main objective."
+        ],
+        "answer": "A",
+        "explanation": "ข้อ A เป็นวิธีเขียนที่เป็นมืออาชีพและกระชับที่สุด โดยใช้ 'expansion' (การขยายตัว) เป็นคำนามหลักในวลี 'The company's expansion...' ข้อ B, C, และ D ล้วนมีโครงสร้างที่ฟุ่มเฟือยและไม่เป็นธรรมชาติเท่า"
+      },
+      {
+        "question": "Which sentence best nominalizes 'They responded to the crisis immediately'?",
+        "options": [
+          "A. Their responding to the crisis was immediate.",
+          "B. The response of them to the crisis was with immediacy.",
+          "C. Their immediate response to the crisis was praised.",
+          "D. They had an immediate response for the crisis."
+        ],
+        "answer": "C",
+        "explanation": "ข้อ C ใช้ 'response' (การตอบสนอง) เป็นคำนาม และใช้ 'immediate' เป็นคุณศัพท์ขยาย ทำให้เกิดวลี 'Their immediate response' ที่กระชับและทรงพลัง เป็นการ nominalize ที่สมบูรณ์แบบ ข้ออื่นใช้ไวยากรณ์ที่ผิดหรืออ้อมค้อม"
+      },
+      {
+        "question": "Rephrase: 'The author depicts rural life with great accuracy.'",
+        "options": [
+          "A. The author's depiction of rural life is characterized by great accuracy.",
+          "B. The author's depicting of rural life has great accuracy.",
+          "C. The depiction from the author about rural life is accurate.",
+          "D. Rural life is depicted with accuracy by the author's depiction."
+        ],
+        "answer": "A",
+        "explanation": "ข้อ A ใช้ 'depiction' (การพรรณนา) เป็นประธานของประโยค ทำให้โฟกัสอยู่ที่ผลงานของผู้เขียน ซึ่งเป็นสไตล์ที่เป็นวิชาการและเป็นกลาง ข้อ B, C, และ D มีการใช้คำและโครงสร้างที่ไม่เป็นมาตรฐาน"
+      },
+      {
+        "question": "How to formally state 'The system failed to operate as expected'?",
+        "options": [
+          "A. The system's failing to operate was not expected.",
+          "B. The failure of the system to operate as expected led to an investigation.",
+          "C. The system had a failure in its operation which was not expected.",
+          "D. A failure was in the system's operation."
+        ],
+        "answer": "B",
+        "explanation": "ข้อ B ใช้ 'failure' (ความล้มเหลว) เป็นคำนามหลัก ตามด้วย infinitive phrase 'to operate as expected' ซึ่งเป็นโครงสร้างที่ถูกต้องและเป็นทางการที่สุดเพื่ออธิบายเหตุการณ์นี้ ข้อ A, C, และ D มีโครงสร้างที่ไม่กระชับและไม่เป็นทางการเท่า"
+      },
+      {
+        "question": "The company reported a sharp ______ in profits during the last fiscal year.",
+        "options": [
+          "A. increase",
+          "B. increasing",
+          "C. increasement",
+          "D. increased"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้ต้องการคำนามที่หมายถึง 'การเพิ่มขึ้น' คำว่า 'increase' สามารถทำหน้าที่เป็นคำนามได้โดยตรง (Zero Derivation) ในขณะที่ยังเป็นกริยาได้ด้วย 'a sharp increase' จึงเป็นวลีที่ถูกต้อง"
+      },
+      {
+        "question": "Overcoming this logistical ______ will require significant international cooperation.",
+        "options": [
+          "A. challenging",
+          "B. challengeable",
+          "C. challenger",
+          "D. challenge"
+        ],
+        "answer": "D",
+        "explanation": "'Challenge' ในที่นี้เป็นคำนาม (Zero Derivation) หมายถึง 'ความท้าทาย' หรือ 'อุปสรรค' เป็นการใช้คำกริยาเป็นคำนามโดยไม่เปลี่ยนรูป ซึ่งเป็นเรื่องปกติในภาษาอังกฤษ"
+      },
+      {
+        "question": "Economists are forecasting a gradual ______ in consumer spending over the next few months.",
+        "options": [
+          "A. declining",
+          "B. declination",
+          "C. decline",
+          "D. declined"
+        ],
+        "answer": "C",
+        "explanation": "'Decline' เป็นคำนาม (Zero Derivation) ที่หมายถึง 'การลดลง' และเป็นคำที่ใช้กันทั่วไปในบริบททางเศรษฐกิจ 'Declination' เป็นคำที่มีอยู่จริงแต่มีความหมายเฉพาะทาง (เช่น ในทางดาราศาสตร์) และไม่ใช้ในบริบทนี้"
+      },
+      {
+        "question": "The board has requested a comprehensive ______ of the project's budget overruns.",
+        "options": [
+          "A. reviewing",
+          "B. review",
+          "C. reviewer",
+          "D. reviewal"
+        ],
+        "answer": "B",
+        "explanation": "'Review' ในที่นี้ทำหน้าที่เป็นคำนาม (Zero Derivation) หมายถึง 'การทบทวน' หรือ 'การตรวจสอบ' 'a comprehensive review' เป็นวลีมาตรฐาน 'Reviewal' ไม่มีในภาษาอังกฤษ"
+      },
+      {
+        "question": "The new environmental law sparked a massive public ______ in the capital.",
+        "options": [
+          "A. protestation",
+          "B. protest",
+          "C. protesting",
+          "D. protester"
+        ],
+        "answer": "B",
+        "explanation": "'Protest' เป็นได้ทั้งคำนามและคำกริยา ในบริบทนี้ทำหน้าที่เป็นคำนาม (Zero Derivation) หมายถึง 'การประท้วง' 'Protestation' มีความหมายที่ต่างออกไปคือ 'การยืนยันหรือประกาศอย่างหนักแน่น' และไม่ใช้ในความหมายของการเดินขบวน"
+      },
+      {
+        "question": "His daring ______ from the maximum-security prison was the subject of headlines worldwide.",
+        "options": [
+          "A. escape",
+          "B. escaping",
+          "C. escapism",
+          "D. escaper"
+        ],
+        "answer": "A",
+        "explanation": "'Escape' เป็นคำนาม (Zero Derivation) หมายถึง 'การหลบหนี' 'Escapism' หมายถึง 'การหลีกหนีจากความเป็นจริง' ซึ่งเป็นแนวคิดทางจิตวิทยา"
+      },
+      {
+        "question": "After lengthy negotiations, both parties finally reached a ______.",
+        "options": [
+          "A. compromising",
+          "B. compromised",
+          "C. compromise",
+          "D. compromiser"
+        ],
+        "answer": "C",
+        "explanation": "'Compromise' ทำหน้าที่เป็นคำนาม (Zero Derivation) หมายถึง 'การประนีประนอม' หรือ 'ข้อตกลงที่มาจากการประนีประนอม' ในวลี 'reached a compromise' (บรรลุข้อตกลง)"
+      },
+      {
+        "question": "You must obtain a special ______ before you can import these goods.",
+        "options": [
+          "A. permission",
+          "B. permitting",
+          "C. permit",
+          "D. permissible"
+        ],
+        "answer": "C",
+        "explanation": "'Permit' เป็นคำนาม (Zero Derivation) หมายถึง 'ใบอนุญาต' ซึ่งเป็นเอกสารที่เป็นทางการ ในขณะที่ 'permission' หมายถึง 'การอนุญาต' ซึ่งเป็นแนวคิดทั่วไป ในบริบทนี้ที่ต้องการเอกสาร จึงใช้ 'permit'"
+      },
+      {
+        "question": "His sarcastic remark was taken as a personal ______ by several members of the committee.",
+        "options": [
+          "A. insult",
+          "B. insulting",
+          "C. insulter",
+          "D. insultation"
+        ],
+        "answer": "A",
+        "explanation": "'Insult' เป็นคำนาม (Zero Derivation) หมายถึง 'การดูถูก' หรือ 'คำสบประมาท' ซึ่งเหมาะสมกับบริบทนี้ 'Insultation' เป็นคำที่ไม่มีอยู่จริง"
+      },
+      {
+        "question": "The meteorological ______ predicts heavy snowfall for the coming weekend.",
+        "options": [
+          "A. forecasting",
+          "B. forecast",
+          "C. forecaster",
+          "D. forecasted"
+        ],
+        "answer": "B",
+        "explanation": "'Forecast' เป็นคำนาม (Zero Derivation) หมายถึง 'คำพยากรณ์' และเป็นคำมาตรฐานที่ใช้ในการพยากรณ์อากาศ 'The meteorological forecast' คือ 'คำพยากรณ์ทางอุตุนิยมวิทยา'"
+      },
+      {
+        "question": "The developing world's ______ on foreign aid has been a subject of intense debate.",
+        "options": [
+          "A. reliance on",
+          "B. reliance with",
+          "C. reliable to",
+          "D. relying for"
+        ],
+        "answer": "A",
+        "explanation": "คำนาม 'reliance' (การพึ่งพา) ซึ่งมาจากกริยา 'rely' ต้องใช้คู่กับบุพบท 'on' เสมอ ดังนั้น 'reliance on' จึงเป็นโครงสร้างที่ถูกต้อง"
+      },
+      {
+        "question": "The union leader voiced a strong ______ to the proposed changes in the pension plan.",
+        "options": [
+          "A. objection against",
+          "B. objection of",
+          "C. objection to",
+          "D. objecting with"
+        ],
+        "answer": "C",
+        "explanation": "คำนาม 'objection' (การคัดค้าน) ใช้คู่กับบุพบท 'to' เสมอเพื่อระบุสิ่งที่ถูกคัดค้าน 'objection to something' เป็นสำนวนที่ถูกต้อง"
+      },
+      {
+        "question": "She expressed a clear ______ for classical music over contemporary pop.",
+        "options": [
+          "A. preference of",
+          "B. preference for",
+          "C. preferring about",
+          "D. preference on"
+        ],
+        "answer": "B",
+        "explanation": "คำนาม 'preference' (ความพึงใจ, ความชอบมากกว่า) ใช้คู่กับบุพบท 'for' เพื่อบอกถึงสิ่งที่ชอบ 'a preference for something' เป็นโครงสร้างที่ถูกต้อง"
+      },
+      {
+        "question": "His ______ in multiple programming languages makes him a highly valuable asset to the team.",
+        "options": [
+          "A. proficient of",
+          "B. proficiency in",
+          "C. proficiency about",
+          "D. proficience on"
+        ],
+        "answer": "B",
+        "explanation": "คำนาม 'proficiency' (ความเชี่ยวชาญ) ใช้คู่กับบุพบท 'in' เพื่อบอกถึงทักษะหรือสาขาที่เชี่ยวชาญ คล้ายกับคุณศัพท์ 'proficient in'"
+      },
+      {
+        "question": "A certain level of ______ with the local culture is essential for any expatriate.",
+        "options": [
+          "A. familiar with",
+          "B. familiarizing of",
+          "C. familiarity to",
+          "D. familiarity with"
+        ],
+        "answer": "D",
+        "explanation": "คำนาม 'familiarity' (ความคุ้นเคย) ใช้คู่กับบุพบท 'with' เพื่อบอกถึงสิ่งที่คุ้นเคย 'familiarity with something' เป็นสำนวนที่ถูกต้อง"
+      },
+      {
+        "question": "The ______ of renewable energy sources for fossil fuels is a global priority.",
+        "options": [
+          "A. substitution...for",
+          "B. substitute...with",
+          "C. substitution...with",
+          "D. substitute...for"
+        ],
+        "answer": "A",
+        "explanation": "โครงสร้างที่ถูกต้องคือ 'the substitution of X for Y' หมายถึง 'การนำ X มาแทนที่ Y' ในที่นี้คือการนำ 'renewable energy sources' (X) มาแทนที่ 'fossil fuels' (Y) ดังนั้น A จึงเป็นคำตอบที่ถูกต้อง"
+      },
+      {
+        "question": "I would like to express my sincere ______ for your invaluable assistance.",
+        "options": [
+          "A. gratitude of",
+          "B. gratefulness to",
+          "C. gratitude for",
+          "D. gratitude with"
+        ],
+        "answer": "C",
+        "explanation": "คำนาม 'gratitude' (ความกตัญญู, ความขอบคุณ) ใช้คู่กับบุพบท 'for' เพื่อบอกถึงเหตุผลของความขอบคุณ 'gratitude for something'"
+      },
+      {
+        "question": "The ______ of this historical data to our current predicament is questionable.",
+        "options": [
+          "A. relevance on",
+          "B. relevant with",
+          "C. relevance to",
+          "D. relating of"
+        ],
+        "answer": "C",
+        "explanation": "คำนาม 'relevance' (ความเกี่ยวข้อง) ใช้คู่กับบุพบท 'to' เพื่อเชื่อมโยงกับสิ่งที่มันเกี่ยวข้องด้วย 'relevance to something' เป็นโครงสร้างที่ถูกต้อง"
+      },
+      {
+        "question": "The committee has assumed full ______ for overseeing the project's completion.",
+        "options": [
+          "A. responsible of",
+          "B. responsibility for",
+          "C. responsibility of",
+          "D. response for"
+        ],
+        "answer": "B",
+        "explanation": "คำนาม 'responsibility' (ความรับผิดชอบ) ใช้คู่กับบุพบท 'for' เพื่อระบุสิ่งที่เราต้องรับผิดชอบ 'responsibility for something'"
+      },
+      {
+        "question": "Her ______ in her own abilities was the key to her overcoming the numerous obstacles.",
+        "options": [
+          "A. confident of",
+          "B. confidence with",
+          "C. confidence about",
+          "D. confidence in"
+        ],
+        "answer": "D",
+        "explanation": "คำนาม 'confidence' (ความมั่นใจ) ใช้คู่กับบุพบท 'in' เพื่อบอกถึงสิ่งที่เรามั่นใจ 'confidence in oneself' หรือ 'confidence in something'"
+      },
+      {
+        "question": "Which sentence suffers from over-nominalization, making it sound awkward and bureaucratic?",
+        "options": [
+          "A. The company decided to restructure its operations.",
+          "B. The company's decision to restructure its operations was announced yesterday.",
+          "C. The making of a decision by the company in regard to operational restructuring has occurred.",
+          "D. The restructuring of operations was a key decision for the company."
+        ],
+        "answer": "C",
+        "explanation": "ข้อ C เป็นตัวอย่างที่ชัดเจนของ Over-nominalization หรือ 'zombie nouns' การใช้ 'The making of a decision' แทนที่จะใช้ 'The company decided' หรือ 'The decision' ทำให้ประโยคยาว, อ้อมค้อม, และไม่เป็นธรรมชาติอย่างยิ่ง"
+      },
+      {
+        "question": "Identify the sentence with an incorrect nominalization suffix.",
+        "options": [
+          "A. The suspect's denial of all charges was expected.",
+          "B. The manager's final approvement is required for all expenditures over $1,000.",
+          "C. His persistence eventually paid off, and he won the contract.",
+          "D. The emergence of new technologies has disrupted the industry."
+        ],
+        "answer": "B",
+        "explanation": "คำว่า 'approvement' ไม่มีอยู่จริงในภาษาอังกฤษ คำนามที่ถูกต้องจากกริยา 'approve' คือ 'approval' ดังนั้นประโยคที่ถูกต้องคือ 'The manager's final approval is required...'"
+      },
+      {
+        "question": "Which sentence contains a grammatical error related to nominalization?",
+        "options": [
+          "A. A thorough investigation into the matter has been launched.",
+          "B. His deep understanding of the subject is impressive.",
+          "C. Failure to comply with the regulations will result in severe penalties.",
+          "D. Analysis of the data revealed an unexpected trend."
+        ],
+        "answer": "D",
+        "explanation": "คำนาม 'analysis' เป็นคำนามนับได้ (countable noun) ในบริบทนี้ และเมื่อใช้เป็นประธานของประโยคครั้งแรก ควรมี article 'An' นำหน้า ประโยคที่ถูกต้องคือ 'An analysis of the data revealed...'"
+      },
+      {
+        "question": "Choose the most appropriate option: The ______ the intricate details of the plan is crucial for all team members.",
+        "options": [
+          "A. understanding of",
+          "B. understand",
+          "C. understanding",
+          "D. understood"
+        ],
+        "answer": "A",
+        "explanation": "เมื่อ 'understanding' ทำหน้าที่เป็นคำนามที่หมายถึง 'ความเข้าใจ' และมีกรรมตามมา (intricate details) เราต้องใช้โครงสร้าง 'The understanding of something' การใช้ article 'The' บ่งบอกว่าเป็นการพูดถึงความเข้าใจที่เฉพาะเจาะจง"
+      },
+      {
+        "question": "What is the most likely meaning of the noun stack 'climate change adaptation strategy'?",
+        "options": [
+          "A. A strategy for adapting to climate change.",
+          "B. A strategy to change the climate for adaptation.",
+          "C. A changing strategy for climate adaptation.",
+          "D. An adaptation of a climate strategy."
+        ],
+        "answer": "A",
+        "explanation": "ในการถอดความ Noun Stack เรามักจะอ่านจากหลังมาหน้า: 'strategy' (กลยุทธ์) -> 'adaptation' (สำหรับการปรับตัว) -> 'climate change' (ต่อการเปลี่ยนแปลงสภาพภูมิอากาศ) ดังนั้น ความหมายที่ถูกต้องคือ 'กลยุทธ์สำหรับการปรับตัวต่อการเปลี่ยนแปลงสภาพภูมิอากาศ'"
+      },
+      {
+        "question": "The police have two suspects, but the lead ______ is still working to gather more evidence.",
+        "options": [
+          "A. investigation",
+          "B. investigate",
+          "C. investigative",
+          "D. investigator"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคนี้ต้องการคำนามที่หมายถึง 'บุคคลผู้ทำการสืบสวน' ไม่ใช่ 'การกระทำของการสืบสวน' ดังนั้น 'investigator' (ผู้สืบสวน) จึงเป็นคำตอบที่ถูกต้อง 'Investigation' หมายถึงกระบวนการสืบสวน"
+      },
+      {
+        "question": "The primary objective of the research is the ______ of this complex biochemical pathway.",
+        "options": [
+          "A. elucidation",
+          "B. elucidating",
+          "C. elucidate",
+          "D. elucidator"
+        ],
+        "answer": "A",
+        "explanation": "'Elucidation' (การทำให้กระจ่าง, การอธิบายให้ชัดเจน) เป็นคำนามขั้นสูงที่มาจากกริยา 'elucidate' และเหมาะอย่างยิ่งในบริบททางวิทยาศาสตร์หรือวิชาการ หมายถึงกระบวนการทำให้สิ่งที่ซับซ้อนเข้าใจง่ายขึ้น"
+      },
+      {
+        "question": "His ______ with the bureaucratic intransigence of the government led him to resign from his post.",
+        "options": [
+          "A. disillusioning",
+          "B. disillusionment",
+          "C. disillusioned",
+          "D. disillusion"
+        ],
+        "answer": "B",
+        "explanation": "'Disillusionment' (ความผิดหวัง, การตาสว่างจากความหลงผิด) เป็นคำนามที่อธิบายสภาวะความรู้สึกผิดหวังเมื่อความเป็นจริงไม่เป็นไปตามที่คาดหวัง และใช้ในบริบทของการเมืองและสังคมได้อย่างเหมาะสม"
+      },
+      {
+        "question": "The subsequent ______ of the treaty by all member states was a landmark diplomatic achievement.",
+        "options": [
+          "A. ratification",
+          "B. ratifying",
+          "C. ratify",
+          "D. ratifier"
+        ],
+        "answer": "A",
+        "explanation": "'Ratification' (การให้สัตยาบัน) เป็นคำนามทางกฎหมายและการเมือง หมายถึงกระบวนการอนุมัติหรือยืนยันข้อตกลงหรือสนธิสัญญาอย่างเป็นทางการ ซึ่งเป็นคำที่เฉพาะเจาะจงและถูกต้องที่สุดในประโยคนี้"
+      },
+      {
+        "question": "His actions showed a complete ______ for the potential consequences.",
+        "options": [
+          "A. disregard",
+          "B. disregarding",
+          "C. disregardful",
+          "D. disregarded"
+        ],
+        "answer": "A",
+        "explanation": "'Disregard' ในที่นี้เป็นคำนาม (Zero Derivation) หมายถึง 'การเพิกเฉย' หรือ 'การไม่ใส่ใจ' และมักใช้ในวลี 'a disregard for something' เพื่อแสดงถึงการละเลยกฎหรือผลลัพธ์ที่อาจตามมา"
+      }
+    ]
+  }
+]

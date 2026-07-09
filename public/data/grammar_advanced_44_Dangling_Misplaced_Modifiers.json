@@ -1,0 +1,838 @@
+[
+  {
+    "id": "44_1",
+    "title": "44.1 Identifying Misplaced Modifiers (ส่วนขยายวางผิดที่)",
+    "explanation": "Misplaced Modifiers คือ ส่วนขยาย (คำ, วลี, หรืออนุประโยค) ที่ถูกวางไว้ในตำแหน่งที่ผิดในประโยค ทำให้เกิดความกำกวมหรือความหมายที่ผิดเพี้ยนไปจากที่ผู้เขียนตั้งใจไว้ หลักการสำคัญที่สุดคือ 'ส่วนขยายต้องวางให้ใกล้กับคำที่มันขยายมากที่สุดเท่าที่จะเป็นไปได้' ในระดับ C1-C2 เราจะเจาะลึกไปถึงความซับซ้อนของ Modifier ประเภทต่างๆ:\n\n1.  **Misplaced Adverbs (กริยาวิเศษณ์วางผิดที่):** Adverbs บางตัว เช่น only, just, almost, nearly, even, hardly มีความหมายเปลี่ยนไปอย่างสิ้นเชิงตามตำแหน่งที่มันวางอยู่\n    *   `She almost read the entire trilogy.` (เธอเกือบจะได้อ่าน แต่ยังไม่ได้เริ่ม)\n    *   `She read almost the entire trilogy.` (เธออ่านไปเกือบจะจบทั้งไตรภาค)\n\n2.  **Misplaced Phrases (วลีวางผิดที่):** วลีที่ทำหน้าที่เป็นส่วนขยาย (เช่น Prepositional, Participial, Infinitive Phrases) หากวางผิดที่ ก็จะทำให้ประโยคดูตลกหรือสื่อความหมายผิดได้\n    *   **Prepositional Phrase:** `The statesman discussed the escalating political crisis with his advisors in the opulent conference room.` (ที่ปรึกษาอยู่ในห้องประชุม หรือการพูดคุยเกิดขึ้นในห้องประชุม?) ที่ถูกต้องควรเป็น `In the opulent conference room, the statesman discussed the escalating political crisis with his advisors.`\n    *   **Participial Phrase:** `Having been meticulously calibrated, the scientist used the quantum microscope.` (ประโยคนี้ผิด เพราะ The scientist ไม่ได้ถูก calibrated แต่เป็น a quantum microscope) ที่ถูกต้องคือ `The scientist used the quantum microscope, which had been meticulously calibrated.` หรือ `Having meticulously calibrated the quantum microscope, the scientist began the experiment.`\n\n3.  **Misplaced Clauses (อนุประโยควางผิดที่):** โดยเฉพาะ Adjective Clauses (who, which, that) ต้องวางตามหลังคำนามที่มันขยายทันที\n    *   `The patient spoke to the therapist who was suffering from severe anxiety.` (ใครที่วิตกกังวลรุนแรง? คนไข้ หรือ นักบำบัด?) ที่ถูกต้องควรชัดเจนกว่านี้ เช่น `The patient who was suffering from severe anxiety spoke to the therapist.`\n\n4.  **Squinting Modifiers (ส่วนขยายคลุมเครือ/สองแง่สองง่าม):** นี่คือส่วนขยายที่วางอยู่ระหว่างสองส่วนของประโยค ทำให้ไม่แน่ใจว่ามันขยายส่วนที่อยู่ข้างหน้าหรือข้างหลังกันแน่\n    *   `Delegating tasks effectively often leads to success.` (การมอบหมายงาน 'อย่างมีประสิทธิภาพ' หรือการมอบหมายงานนำไปสู่ความสำเร็จ 'บ่อยครั้ง'?) การแก้คือการย้ายตำแหน่งให้ชัดเจน: `Effectively delegating tasks often leads to success.` หรือ `Delegating tasks often leads to success effectively.`",
+    "examples": [
+      {
+        "eng": "Erroneously filed under 'obsolete technologies', the researcher rediscovered the patent for a revolutionary energy source.",
+        "thai": "ประโยคนี้ผิดหลักไวยากรณ์ (Incorrect) เพราะ Participial Phrase 'Erroneously filed under 'obsolete technologies'' ดูเหมือนจะขยาย the researcher (นักวิจัยถูกจัดเก็บผิดหมวด) ซึ่งไม่สมเหตุสมผล สิ่งที่ถูกจัดเก็บผิดหมวดคือ the patent (สิทธิบัตร) \nประโยคที่ถูกต้องคือ: 'The researcher rediscovered the patent for a revolutionary energy source, which had been erroneously filed under 'obsolete technologies'.'"
+      },
+      {
+        "eng": "The executive mandated that employees who fail to meet their quarterly targets frequently will face a performance review.",
+        "thai": "ประโยคนี้เป็นตัวอย่างของ 'Squinting Modifier' คำว่า frequently (บ่อยครั้ง) สามารถขยายได้สองทาง: 1) พนักงานที่ล้มเหลวในการทำตามเป้า 'บ่อยครั้ง' หรือ 2) พนักงานที่ล้มเหลวในการทำตามเป้าจะต้องเผชิญกับการประเมินผลงาน 'บ่อยครั้ง' \nประโยคที่ถูกต้องและชัดเจนคือ: 'The executive mandated that employees who frequently fail to meet their quarterly targets will face a performance review.' (เน้นว่าล้มเหลวบ่อยๆ)"
+      },
+      {
+        "eng": "We nearly found a billion-dollar error in the audited financial statements.",
+        "thai": "คำว่า nearly (เกือบจะ) ในตำแหน่งนี้สร้างความกำกวม อาจหมายถึง 'เราเกือบจะเจอข้อผิดพลาด' (แต่สุดท้ายก็ไม่เจอ) หรือ 'เราเจอข้อผิดพลาดที่มีมูลค่าเกือบหนึ่งพันล้านดอลลาร์' หากต้องการสื่อความหมายอย่างหลัง ควรเรียบเรียงใหม่เป็น: 'In the audited financial statements, we found an error of nearly a billion dollars.'"
+      }
+    ],
+    "common_mistakes": "1.  **อิทธิพลจากภาษาไทย (L1 Interference):** โครงสร้างภาษาไทยมีความยืดหยุ่นในการวางส่วนขยายมากกว่าภาษาอังกฤษ คนไทยจึงมักวางวลีขยาย (เช่น วลีที่ขึ้นต้นด้วย 'ใน', 'บน', 'ด้วย') ไว้ท้ายประโยคตามความเคยชิน ซึ่งในภาษาอังกฤษอาจทำให้มันไปขยายคำที่อยู่ใกล้ที่สุดแทนที่จะเป็นคำที่ตั้งใจไว้\n2.  **การใช้ 'Only':** คนไทยมักวาง 'only' (แค่, เท่านั้น) ไว้ต้นประโยคเสมอ เช่น 'Only I want to eat pizza.' ซึ่งตามหลักแล้วจะแปลว่า 'มีแค่ฉันคนเดียวที่อยากกินพิซซ่า' แต่ถ้าความตั้งใจคือ 'ฉันอยากกินแค่พิซซ่า (ไม่กินอย่างอื่น)' จะต้องพูดว่า 'I want to eat only pizza.'\n3.  **วลีขยายที่ยาวและซับซ้อน:** ในระดับสูง ประโยคจะยาวขึ้นและมีวลีขยายซ้อนกันหลายชั้น ทำให้ผู้เรียนสับสนและวาง Participial Phrase หรือ Adjective Clause ห่างจากคำนามที่มันควรจะขยาย ทำให้ความหมายเพี้ยนไปโดยไม่รู้ตัว\n4.  **ไม่ทันสังเกตความตลก/ไม่สมเหตุสมผล:** เนื่องจากไม่ใช่เจ้าของภาษา บางครั้งผู้เรียนอาจไม่ทันสังเกตว่าประโยคที่ตัวเองสร้างขึ้นมีความหมายที่ผิดเพี้ยนหรือตลกขบขัน เช่น 'The boy was chasing the dog in the red pajamas.' (ใครใส่ชุดนอนสีแดง? เด็กชายหรือสุนัข?)",
+    "practice_questions": [
+      {
+        "question": "Which of the following sentences is grammatically correct and unambiguous?",
+        "options": [
+          "A. The scientist published a paper on quantum entanglement that he had been researching for a decade in a prestigious journal.",
+          "B. In a prestigious journal, the scientist published a paper on quantum entanglement that he had been researching for a decade.",
+          "C. The scientist published a paper on quantum entanglement in a prestigious journal that he had been researching for a decade.",
+          "D. Researching for a decade, a paper on quantum entanglement was published by the scientist in a prestigious journal."
+        ],
+        "answer": "B",
+        "explanation": "ข้อ B คือข้อที่ถูกต้องที่สุด เพราะวางส่วนขยายต่างๆ ได้อย่างชัดเจน 'In a prestigious journal' (Prepositional Phrase) ถูกย้ายมาไว้ข้างหน้าเพื่อบ่งชี้สถานที่ตีพิมพ์อย่างชัดเจน และ Adjective Clause 'that he had been researching for a decade' ยังคงตามหลัง 'quantum entanglement' ซึ่งเป็นสิ่งที่ถูกวิจัย\nข้อ A: 'in a prestigious journal' วางไว้ท้ายสุด ทำให้กำกวมว่าสิ่งที่อยู่ในวารสารคือ 'ทศวรรษ' หรือ 'การวิจัย' หรือ 'บทความ'\nข้อ C: 'that he had been researching for a decade' มาตามหลัง 'a prestigious journal' ซึ่งผิดความหมาย เพราะนักวิทยาศาสตร์ไม่ได้วิจัยวารสาร แต่เขาวิจัยทฤษฎีควอนตัม\nข้อ D: เป็น Dangling Modifier เพราะ 'Researching for a decade' ไม่ได้ขยาย a paper แต่ควรจะขยาย the scientist"
+      },
+      {
+        "question": "The meaning of the sentence 'The clandestine operative was instructed to neutralize the target without hesitation.' changes significantly if 'without hesitation' is moved. Which rewritten sentence implies that the *instruction itself* was given without hesitation?",
+        "options": [
+          "A. The clandestine operative without hesitation was instructed to neutralize the target.",
+          "B. The clandestine operative was instructed without hesitation to neutralize the target.",
+          "C. The clandestine operative was instructed to neutralize without hesitation the target.",
+          "D. Without hesitation, the clandestine operative was instructed to neutralize the target."
+        ],
+        "answer": "B",
+        "explanation": "ข้อ B ถูกต้องที่สุด เพราะวลี 'without hesitation' ถูกวางไว้หลัง 'was instructed' โดยตรง ทำให้มันทำหน้าที่เป็น Adverbial Phrase ขยายกริยา 'instructed' ซึ่งหมายความว่า 'การสั่งการ/การแนะนำ' นั้นเกิดขึ้นอย่างไม่ลังเล\nข้อ A: 'without hesitation' มาขยาย 'operative' ซึ่งไม่สมเหตุสมผล\nข้อ C: 'without hesitation' มาขยาย 'neutralize' ซึ่งหมายถึงให้ปฏิบัติการสังหารโดยไม่ลังเล (นี่คือความหมายของประโยคดั้งเดิม)\nข้อ D: การวาง 'Without hesitation,' ไว้หน้าสุด มักจะขยายการกระทำของประธานของประโยค (the operative) ซึ่งจะหมายความว่า 'สายลับได้รับคำสั่งอย่างไม่ลังเล' ซึ่งก็ใกล้เคียง แต่การวางไว้หลังกริยาที่มันขยายโดยตรงในข้อ B จะชัดเจนที่สุด"
+      },
+      {
+        "question": "Identify the sentence containing a 'squinting modifier'.",
+        "options": [
+          "A. The CEO promised on Tuesday to review the egregious financial report.",
+          "B. The CEO promised to review the egregious financial report on Tuesday.",
+          "C. On Tuesday, the CEO promised to review the egregious financial report.",
+          "D. The CEO promised to review on Tuesday the egregious financial report."
+        ],
+        "answer": "A",
+        "explanation": "ข้อ A มี Squinting Modifier คือ 'on Tuesday' ซึ่งวางอยู่ระหว่าง 'promised' และ 'to review' ทำให้เกิดความสับสนว่า 'คำสัญญา' เกิดขึ้นในวันอังคาร หรือ 'การตรวจสอบรายงาน' จะเกิดขึ้นในวันอังคาร\nข้อ B, C, และ D ได้แก้ไขความกำกวมนี้แล้ว โดยวาง 'on Tuesday' ในตำแหน่งที่ชัดเจนว่าหมายถึงวันที่จะทำการตรวจสอบรายงาน"
+      },
+      {
+        "question": "He almost lost all of his meticulously curated collection of rare artifacts. What does this sentence imply?",
+        "options": [
+          "A. He lost some, but not all, of his collection.",
+          "B. He came very close to losing the entire collection, but ultimately lost nothing.",
+          "C. He lost the entire collection.",
+          "D. He only lost the artifacts that were not meticulously curated."
+        ],
+        "answer": "B",
+        "explanation": "คำว่า 'almost' ในตำแหน่งนี้ขยายกริยา 'lost' ทั้งวลี หมายถึง 'เกือบจะสูญเสีย' แต่เหตุการณ์นั้นยังไม่เกิดขึ้นจริง ดังนั้น เขาจึงยังไม่ได้สูญเสียอะไรไปเลย ถ้าต้องการจะสื่อว่าเขาเสียไปเกือบทั้งหมด ต้องใช้ประโยคว่า 'He lost almost all of his meticulously curated collection...'"
+      },
+      {
+        "question": "Which sentence correctly places the modifier to describe the 'ephemeral nature of cherry blossoms'?",
+        "options": [
+          "A. The poet, captivated by their ephemeral nature, wrote a haiku about the cherry blossoms.",
+          "B. The poet wrote a haiku about the cherry blossoms captivated by their ephemeral nature.",
+          "C. Captivated by their ephemeral nature, a haiku about the cherry blossoms was written by the poet.",
+          "D. The poet wrote a haiku, captivated by their ephemeral nature, about the cherry blossoms."
+        ],
+        "answer": "A",
+        "explanation": "ข้อ A ถูกต้องที่สุด เพราะ Appositive Phrase 'captivated by their ephemeral nature' ถูกวางไว้ข้างหลัง 'The poet' ซึ่งเป็นผู้ที่รู้สึกประทับใจอย่างชัดเจน\nข้อ B: วลี 'captivated by...' ไปวางไว้ท้ายสุด ทำให้ดูเหมือนว่า 'cherry blossoms' เป็นสิ่งที่ 'captivated' ซึ่งผิดความหมาย\nข้อ C: เป็น Dangling Modifier เพราะวลี 'Captivated by...' ไม่สามารถขยาย 'a haiku' ได้\nข้อ D: การแทรกวลีเข้ามากลางประโยคทำให้โครงสร้างดูอึดอัดและไม่เป็นธรรมชาติ"
+      },
+      {
+        "question": "The lawyer for the defendant who was notoriously obstinate argued for a mistrial. Who was notoriously obstinate?",
+        "options": [
+          "A. The lawyer",
+          "B. The defendant",
+          "C. It's ambiguous.",
+          "D. The judge"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้กำกวม (ambiguous) เนื่องจาก Adjective Clause 'who was notoriously obstinate' วางตามหลัง 'the defendant' ทำให้ดูเหมือนขยายจำเลย แต่ในทางโครงสร้าง มันก็อาจจะขยายประธานของประโยคคือ 'The lawyer' ได้เช่นกัน เพราะทั้งสองเป็นบุคคล การเรียบเรียงประโยคใหม่ให้ชัดเจนเป็นสิ่งจำเป็น เช่น 'The notoriously obstinate lawyer for the defendant argued...' หรือ 'The lawyer argued for a mistrial for the defendant, who was notoriously obstinate.'"
+      },
+      {
+        "question": "Select the sentence where the modifier is placed correctly.",
+        "options": [
+          "A. I read an article about the impending collapse of the ecosystem in a scientific journal.",
+          "B. Covered in scintillating frost, the intrepid explorer photographed the quiescent volcano.",
+          "C. The board of directors fired the junior executive with a history of insubordination in a perfunctory meeting.",
+          "D. The intrepid explorer photographed the quiescent volcano, which was covered in scintillating frost."
+        ],
+        "answer": "D",
+        "explanation": "ข้อ D ถูกต้องและชัดเจนที่สุด Adjective Clause 'which was covered in scintillating frost' วางอยู่ติดกับ 'volcano' ซึ่งเป็นสิ่งที่มันขยายโดยตรง\nข้อ A: กำกวมว่า 'บทความ' อยู่ในวารสาร หรือ 'การล่มสลาย' เกิดขึ้นในวารสาร\nข้อ B: เป็น Dangling Modifier เพราะ 'Covered in scintillating frost' ควรจะขยาย 'volcano' แต่ตำแหน่งของมันกลับไปขยาย 'the intrepid explorer' (นักสำรวจถูกปกคลุมด้วยน้ำค้างแข็ง)\nข้อ C: กำกวมว่า 'การไล่ออก' เกิดขึ้นในการประชุม หรือ 'ผู้บริหาร' คนนั้นมีประวัติเสีย 'ในการประชุม'"
+      },
+      {
+        "question": "The new policy only allows senior managers to approve expenditures over $10,000. What is the most accurate interpretation of this sentence?",
+        "options": [
+          "A. Senior managers are allowed to do nothing else except approve these expenditures.",
+          "B. The only people who can approve these expenditures are senior managers.",
+          "C. Senior managers can only approve expenditures, not deny them.",
+          "D. Senior managers can approve expenditures of exactly $10,000, but no more."
+        ],
+        "answer": "B",
+        "explanation": "ตำแหน่งของ 'only' ในประโยคนี้อยู่ก่อน 'senior managers' ซึ่งหมายถึงมันจำกัดกลุ่มคนที่สามารถกระทำการนั้นได้ ดังนั้น ความหมายคือ 'มีเพียงผู้จัดการอาวุโสเท่านั้น' ที่สามารถอนุมัติค่าใช้จ่ายเหล่านี้ได้ คนกลุ่มอื่นไม่มีสิทธิ์\nถ้า 'only' ย้ายไปตำแหน่งอื่น ความหมายจะเปลี่ยนไป เช่น '...allows senior managers only to approve...' (ทำได้แค่อนุมัติ ทำอย่างอื่นไม่ได้) หรือ '...allows senior managers to approve only expenditures...' (อนุมัติได้แค่ค่าใช้จ่าย อนุมัติอย่างอื่นไม่ได้)"
+      },
+      {
+        "question": "Which sentence correctly conveys that the serendipitous discovery happened inside the forgotten archive?",
+        "options": [
+          "A. The historian made a serendipitous discovery in the forgotten archive that could rewrite history.",
+          "B. The historian made a serendipitous discovery that could rewrite history in the forgotten archive.",
+          "C. In the forgotten archive, the historian made a serendipitous discovery that could rewrite history.",
+          "D. That could rewrite history, the historian made a serendipitous discovery in the forgotten archive."
+        ],
+        "answer": "C",
+        "explanation": "ข้อ C ชัดเจนที่สุด การย้าย Prepositional Phrase 'In the forgotten archive' มาไว้ข้างหน้า ทำให้มันทำหน้าที่เป็น Adverbial Phrase บอกสถานที่ของการกระทำทั้งหมดในประโยค (การค้นพบ)\nข้อ B: เป็นข้อที่ผิดมากที่สุด เพราะ 'in the forgotten archive' มาตามหลัง 'history' ทำให้ดูเหมือนว่า 'ประวัติศาสตร์' เกิดขึ้นในหอจดหมายเหตุ ซึ่งผิดความหมาย\nข้อ A: มีความกำกวมเล็กน้อยว่า 'การค้นพบ' เกิดขึ้นในหอจดหมายเหตุ หรือ 'การค้นพบ' นั้นเกี่ยวกับหอจดหมายเหตุ\nข้อ D: เป็นการเรียงประโยคที่ผิดหลักไวยากรณ์และดูแปลก"
+      },
+      {
+        "question": "The auditors found a discrepancy in the ledger reviewing the quarterly reports. What is the fundamental error in this sentence?",
+        "options": [
+          "A. The modifier 'reviewing the quarterly reports' is misplaced; it should describe the auditors.",
+          "B. The modifier 'in the ledger' is misplaced; it should be at the beginning of the sentence.",
+          "C. The verb 'found' is in the wrong tense.",
+          "D. The sentence is grammatically correct as it is."
+        ],
+        "answer": "A",
+        "explanation": "ข้อ A คือคำตอบที่ถูกต้อง นี่คือกรณีคลาสสิกของ Misplaced/Dangling Participial Phrase วลี 'reviewing the quarterly reports' ควรจะขยายผู้ที่กระทำการตรวจสอบ ซึ่งก็คือ 'The auditors' แต่ตำแหน่งของมันในประโยคกลับไปอยู่หลัง 'the ledger' ทำให้ดูเหมือนว่า 'สมุดบัญชี' เป็นผู้ตรวจสอบรายงาน ซึ่งเป็นไปไม่ได้ ประโยคที่ถูกต้องควรเป็น: 'Reviewing the quarterly reports, the auditors found a discrepancy in the ledger.'"
+      }
+    ]
+  },
+  {
+    "id": "44_2",
+    "title": "44.2 Fixing Dangling Modifiers (ส่วนขยายที่ไม่มีประธานรองรับ)",
+    "explanation": "Dangling Modifier คือ วลี (phrase) หรืออนุประโยค (clause) ที่ทำหน้าที่ขยาย แต่กลับไม่มีประธานที่เหมาะสมให้ขยายในประโยคหลัก ทำให้เกิดความหมายที่ผิดเพี้ยน คลุมเครือ หรือผิดหลักเหตุผลไปอย่างสิ้นเชิง\n\n**แก่นของปัญหา:**\nModifier ที่อยู่ต้นประโยค (เช่น Participle Phrase, Infinitive Phrase) จะต้องมีประธานโดยนัย (implied subject) ที่เป็นผู้กระทำกริยานั้นๆ ซึ่งประธานโดยนัยนี้ จะต้องเป็นตัวเดียวกับประธาน (subject) ของประโยคหลัก (main clause) ที่ตามมาทันที เมื่อไหร่ก็ตามที่ประธานของประโยคหลักไม่ใช่ผู้กระทำกริยาในส่วนขยาย ก็จะเกิด Dangling Modifier ทันที\n\n**วิธีการแก้ไขอย่างละเอียด (3 วิธีหลัก):**\n\n1.  **เปลี่ยนประธานของประโยคหลัก (Change the Subject of the Main Clause):**\n    *   วิธีนี้ตรงไปตรงมาและใช้บ่อยที่สุด\n    *   ขั้นตอน: ถามตัวเองว่า 'ใคร' หรือ 'อะไร' คือผู้กระทำกริยาในส่วนขยายข้างหน้า? จากนั้น นำ 'คนนั้น' หรือ 'สิ่งนั้น' มาเป็นประธานของประโยคหลัก\n    *   ตัวอย่างผิด: `Having finished the arduous project, the vacation was well-deserved.` (การพักผ่อนไม่ได้ทำโปรเจกต์เสร็จ)\n    *   แก้ไข: `Having finished the arduous project, the team felt the vacation was well-deserved.` (ทีมเป็นผู้ทำโปรเจกต์เสร็จ)\n\n2.  **เปลี่ยนส่วนขยายให้เป็นอนุประโยคสมบูรณ์ (Turn the Modifier into a Clause):**\n    *   วิธีนี้เหมาะเมื่อเราไม่ต้องการเปลี่ยนประธานของประโยคหลัก\n    *   ขั้นตอน: เติมประธานและกริยาเข้าไปในส่วนขยาย ทำให้มันกลายเป็น Dependent Clause ที่สมบูรณ์ โดยมักจะใช้คำเชื่อมอย่าง `while`, `after`, `since`, `because` มาช่วย\n    *   ตัวอย่างผิด: `To understand the quantum physics theory, a powerful supercomputer was required.` (ซูเปอร์คอมพิวเตอร์ไม่ได้พยายามจะเข้าใจทฤษฎี)\n    *   แก้ไข: `Because the physicists needed to understand the quantum physics theory, a powerful supercomputer was required.` (สร้าง Clause ใหม่โดยใส่ประธาน `the physicists` เข้าไป)\n\n3.  **เขียนประโยคใหม่ทั้งหมด (Rewrite the Sentence):**\n    *   ในบางกรณีที่ประโยคซับซ้อนมาก การปรับโครงสร้างเพียงเล็กน้อยอาจไม่พอ การเขียนใหม่ทั้งหมดอาจเป็นทางออกที่ชัดเจนที่สุด\n    *   ตัวอย่างผิด: `After years of lying dormant, the archaeologists were thrilled to discover the ancient tomb.` (นักโบราณคดีไม่ได้นอนเฉยๆ มาหลายปี)\n    *   แก้ไข: `The archaeologists were thrilled to discover the ancient tomb, which had lain dormant for years.` (ใช้ Relative Clause มาขยายแทน)",
+    "examples": [
+      {
+        "eng": "Dangling: `Having been meticulously engineered for extreme environments, the mission's failure was a profound disappointment to the scientists.`\n\nCorrect 1: `Having been meticulously engineered for extreme environments, the probe's failure was a profound disappointment to the scientists.`\nCorrect 2: `Because the probe had been meticulously engineered for extreme environments, its failure was a profound disappointment to the scientists.`",
+        "thai": "ประโยคผิด: `Having been meticulously engineered...` (หลังจากถูกออกแบบทางวิศวกรรมอย่างพิถีพิถัน...) ส่วนขยายนี้ต้องการประธานที่เป็น 'สิ่งที่ถูกออกแบบ' แต่ประธานของประโยคหลักคือ `the mission's failure` (ความล้มเหลวของภารกิจ) ซึ่งไม่ใช่สิ่งที่ถูกออกแบบ ทำให้ประโยคผิดหลักเหตุผล\n\nแก้ไขแบบที่ 1: เปลี่ยนประธานของประโยคหลักเป็น `the probe's failure` (ความล้มเหลวของยานสำรวจ) แม้จะดีขึ้น แต่ที่ถูกต้องที่สุดคือ `the probe` (ยานสำรวจ) จึงควรปรับเป็น `Having meticulously engineered it for extreme environments, the scientists were profoundly disappointed by the probe's failure.` หรือตามตัวอย่างคือ `the probe's failure` ก็พออนุโลมได้ในบริบทที่ซับซ้อน แต่การระบุตัวผู้กระทำ (`the scientists`) จะชัดเจนกว่า\n\nแก้ไขแบบที่ 2: เปลี่ยนส่วนขยายให้เป็น Subordinate Clause ที่สมบูรณ์โดยใช้ `Because` และใส่ประธาน `the probe` เข้าไป ทำให้ประโยคชัดเจนว่าอะไรคือสิ่งที่ถูกออกแบบ และอะไรคือผลที่ตามมา"
+      },
+      {
+        "eng": "Dangling: `To elucidate the esoteric philosophical argument, a series of convoluted analogies was utilized.`\n\nCorrect 1: `To elucidate the esoteric philosophical argument, the professor utilized a series of convoluted analogies.`\nCorrect 2: `For the professor to elucidate the esoteric philosophical argument, a series of convoluted analogies was necessary.`",
+        "thai": "ประโยคผิด: `To elucidate...` (เพื่อที่จะอธิบาย...) ส่วนขยายนี้ต้องการประธานที่เป็น 'ผู้ที่จะอธิบาย' แต่ประธานของประโยคหลักคือ `a series of convoluted analogies` (ชุดของคำอุปมาอุปไมยที่ซับซ้อน) ซึ่งตัวมันเองอธิบายไม่ได้\n\nแก้ไขแบบที่ 1: เปลี่ยนประธานของประโยคหลักเป็น `the professor` ซึ่งเป็นผู้กระทำการ 'อธิบาย' ทำให้ Modifier มีประธานรองรับอย่างถูกต้อง\n\nแก้ไขแบบที่ 2: เป็นโครงสร้างที่ Advance ขึ้น โดยเปลี่ยน Infinitive Phrase เป็น `For + [Subject] + to-infinitive` ซึ่งเป็นการระบุผู้กระทำ (`the professor`) เข้าไปในส่วนขยายโดยตรง วิธีนี้มีประโยชน์เมื่อต้องการคงประธานเดิมของประโยคหลักไว้"
+      },
+      {
+        "eng": "Dangling: `While deeply embedded in negotiations, the CEO's family announced the unexpected merger.`\n\nCorrect 1: `While deeply embedded in negotiations, the CEO was surprised when his family announced the unexpected merger.`\nCorrect 2: `While the CEO was deeply embedded in negotiations, his family announced the unexpected merger.`",
+        "thai": "ประโยคผิด: `While deeply embedded in negotiations...` (ขณะที่กำลังหมกมุ่นอยู่กับการเจรจา...) ส่วนขยายนี้หมายถึง 'ใคร' ที่กำลังเจรจา แต่ประธานของประโยคหลักคือ `the CEO's family` (ครอบครัวของ CEO) ซึ่งไม่ได้เป็นผู้เจรจา\n\nแก้ไขแบบที่ 1: เปลี่ยนประธานของประโยคหลักเป็น `the CEO` ซึ่งเป็นคนที่กำลังเจรจาอยู่\n\nแก้ไขแบบที่ 2: ทำให้ Elliptical Clause (อนุประโยคที่ละประธานและกริยา) กลับมาสมบูรณ์โดยการเติมประธาน `the CEO` และกริยา `was` กลับเข้าไป ทำให้ทั้งสอง Clause มีประธานของตัวเองและเชื่อมกันอย่างถูกต้อง"
+      }
+    ],
+    "common_mistakes": "- **การแปลโครงสร้างภาษาไทยตรงตัว:** ภาษาไทยมักละประธานในฐานที่เข้าใจ (e.g., 'กินข้าวเสร็จแล้ว ก็ไปดูหนัง') เมื่อนำโครงสร้างนี้มาใช้ในภาษาอังกฤษโดยไม่ระบุประธานให้ชัดเจน จะทำให้เกิด Dangling Modifier ได้ง่ายมาก เช่น แปลเป็น `Having finished dinner, the movie was watched.` ซึ่งผิดทันที\n- **นิยมใช้ Passive Voice ในประโยคหลักมากเกินไป:** การใช้ Passive Voice (`be + V.3`) ในประโยคหลัก มักจะซ่อนหรือย้ายผู้กระทำจริงไปไว้ท้ายประโยค (หรือละทิ้งไปเลย) ทำให้ประธานของประโยคหลักกลายเป็นผู้ถูกกระทำ ซึ่งมักจะไม่ตรงกับผู้กระทำในส่วนขยายข้างหน้า เช่น `Walking through the forest, a rare bird was seen.` (นกไม่ได้เดินในป่า)\n- **ไม่ตั้งคำถาม 'ใครเป็นคนทำ?':** จุดชี้เป็นชี้ตายคือการถามตัวเองเสมอว่า 'ใคร/อะไร' เป็นผู้กระทำกริยาในวลีส่วนขยายที่ยกมาไว้ต้นประโยค หากคำตอบนั้นไม่ใช่ประธานที่ตามมาทันที แสดงว่ามีปัญหา Dangling Modifier เกิดขึ้นแล้ว\n- **สับสนกับ Misplaced Modifier:** Dangling Modifier คือ 'ไม่มีคำให้ขยาย' ในประโยคเลย ส่วน Misplaced Modifier คือ 'มีคำให้ขยาย แต่ดันไปวางผิดที่' ทำให้ขยายผิดคำ เช่น `The professor posted a notice about the upcoming exam on the classroom door.` (On the classroom door ขยาย notice ไม่ใช่ exam)",
+    "practice_questions": [
+      {
+        "question": "Which of the following sentences contains a dangling modifier?",
+        "options": [
+          "A. Having meticulously analyzed the financial data, the auditor uncovered several major discrepancies.",
+          "B. To prevent any misinterpretation, the CEO herself elucidated the new corporate policy to the staff.",
+          "C. Exhausted after a grueling sixteen-hour shift, the surgeon's hands trembled slightly.",
+          "D. After years of simmering geopolitical tension, a full-scale conflict was declared by the aggressor nation."
+        ],
+        "answer": "D",
+        "explanation": "ข้อ D มี Dangling Modifier ส่วนขยาย `After years of simmering geopolitical tension` (หลังจากความตึงเครียดทางภูมิรัฐศาสตร์ที่คุกรุ่นมานานหลายปี) ควรจะขยาย 'ผู้ที่' ได้รับผลกระทบหรือเป็นส่วนหนึ่งของความตึงเครียดนั้น แต่ประธานของประโยคหลักคือ `a full-scale conflict` (ความขัดแย้งเต็มรูปแบบ) ซึ่งตัวความขัดแย้งเองไม่ได้ 'ประสบ' กับความตึงเครียด ประโยคที่ถูกต้องควรจะเป็น `After years of simmering geopolitical tension, the two nations finally engaged in a full-scale conflict.`"
+      },
+      {
+        "question": "Choose the best revision for the following sentence: `To be considered a truly quintessential artist, a unique and influential body of work must be produced.`",
+        "options": [
+          "A. A unique and influential body of work must be produced to be considered a truly quintessential artist.",
+          "B. To be considered a truly quintessential artist, one must produce a unique and influential body of work.",
+          "C. For producing a unique and influential body of work, an artist is considered truly quintessential.",
+          "D. A truly quintessential artist must produce a unique and influential body of work to be considered as such."
+        ],
+        "answer": "B",
+        "explanation": "ประโยคเดิมมี Dangling Modifier เพราะ `To be considered a truly quintessential artist` (การที่จะถูกพิจารณาว่าเป็นศิลปินชั้นครู) ต้องมีผู้กระทำคือ 'ศิลปิน' แต่ประธานของประโยคหลักคือ `a unique and influential body of work` (ผลงาน) ซึ่งไม่ใช่คน ข้อ B แก้ไขได้ถูกต้องที่สุดโดยการนำ `one` (ซึ่งหมายถึงคนหรือศิลปิน) มาเป็นประธานของประโยคหลัก ทำให้เป็นผู้กระทำกริยา `produce` และเป็นผู้ที่ `to be considered` อย่างสมเหตุสมผล"
+      },
+      {
+        "question": "Which sentence is grammatically correct and logically sound?",
+        "options": [
+          "A. While meticulously calibrating the intricate apparatus, a sudden power surge ruined the experiment.",
+          "B. While the scientist was meticulously calibrating the intricate apparatus, a sudden power surge ruined the experiment.",
+          "C. Meticulously calibrating the intricate apparatus, the experiment was ruined by a sudden power surge.",
+          "D. The experiment, while meticulously calibrating the intricate apparatus, was ruined by a sudden power surge."
+        ],
+        "answer": "B",
+        "explanation": "ข้อ B ถูกต้องที่สุด เพราะได้แก้ไข Dangling Modifier โดยการเปลี่ยนส่วนขยายให้เป็น Dependent Clause ที่สมบูรณ์ `While the scientist was meticulously calibrating...` โดยระบุประธาน (`the scientist`) ของการกระทำ `calibrating` อย่างชัดเจน ข้อ A และ C ผิดเพราะประธานของประโยคหลักคือ `a sudden power surge` และ `the experiment` ซึ่งไม่ใช่ผู้ที่ทำการ `calibrating` ส่วนข้อ D มีโครงสร้างที่สับสนและผิดหลักไวยากรณ์"
+      },
+      {
+        "question": "Select the sentence that correctly revises the error in: `Believing the new algorithm's ramifications would be catastrophic, the project was immediately halted.`",
+        "options": [
+          "A. The project, believing the new algorithm's ramifications would be catastrophic, was immediately halted.",
+          "B. Believing the new algorithm's ramifications would be catastrophic, the ethics committee immediately halted the project.",
+          "C. The new algorithm's ramifications were believed to be catastrophic, so the project was immediately halted.",
+          "D. The project was immediately halted, believing the new algorithm's ramifications would be catastrophic."
+        ],
+        "answer": "B",
+        "explanation": "ประโยคเดิมมี Dangling Modifier เนื่องจาก `Believing...` (ด้วยความเชื่อว่า...) ต้องมีผู้ที่เชื่อ แต่ประธานของประโยคหลักคือ `the project` ซึ่งไม่สามารถมีความเชื่อได้ ข้อ B แก้ไขได้อย่างสมบูรณ์แบบโดยการใส่ประธานที่เหมาะสมคือ `the ethics committee` (คณะกรรมการจริยธรรม) ซึ่งเป็นกลุ่มบุคคลที่สามารถ 'เชื่อ' และ 'สั่งหยุด' โครงการได้"
+      },
+      {
+        "question": "Which of the following contains a dangling modifier?",
+        "options": [
+          "A. Having been left to deteriorate for nearly a century, the ancient manuscript was almost illegible.",
+          "B. To fully comprehend the author's intent, one must scrutinize the subtext of the novel.",
+          "C. Upon entering the dilapidated mansion, a sense of profound unease overwhelmed the investigators.",
+          "D. Though a ubiquitous presence in modern diets, nutritionists still debate the long-term effects of processed sugar."
+        ],
+        "answer": "D",
+        "explanation": "ข้อ D มี Dangling Modifier ส่วนขยาย `Though a ubiquitous presence in modern diets` (แม้ว่าจะเป็นสิ่งที่พบได้ทั่วไปในอาหารยุคใหม่) ควรจะขยาย 'สิ่งที่พบได้ทั่วไป' ซึ่งก็คือ `processed sugar` แต่ประธานของประโยคหลักกลับเป็น `nutritionists` (นักโภชนาการ) ซึ่งไม่ถูกต้อง ประโยคที่ถูกต้องควรเป็น `Though a ubiquitous presence in modern diets, processed sugar is still debated by nutritionists regarding its long-term effects.`"
+      },
+      {
+        "question": "Choose the best revision: `Once steeped in the esoteric traditions of the ancient order, the modern world seemed baffling.`",
+        "options": [
+          "A. The modern world seemed baffling, once steeped in the esoteric traditions of the ancient order.",
+          "B. Once steeped in the esoteric traditions of the ancient order, the initiate found the modern world baffling.",
+          "C. Having been steeped in the esoteric traditions of the ancient order, the modern world seemed baffling.",
+          "D. The modern world, once steeped in the esoteric traditions of the ancient order, seemed baffling."
+        ],
+        "answer": "B",
+        "explanation": "ประโยคเดิมผิดเพราะ `Once steeped in...` (เมื่อได้ซึมซับประเพณีอันลี้ลับ...) ต้องการประธานที่เป็น 'คน' ที่ไปซึมซับ แต่ประธานของประโยคหลักคือ `the modern world` (โลกสมัยใหม่) ซึ่งไม่สามารถทำกริยานั้นได้ ข้อ B แก้ไขโดยการนำประธานที่ถูกต้องคือ `the initiate` (ผู้เริ่มต้นหรือสมาชิกใหม่) เข้ามา ทำให้ส่วนขยายมีประธานรองรับอย่างสมเหตุสมผล"
+      },
+      {
+        "question": "Identify the flawed sentence.",
+        "options": [
+          "A. After the engineers had painstakingly reviewed the schematics, they identified the critical design flaw.",
+          "B. Painstakingly reviewing the schematics, the critical design flaw was identified by the engineers.",
+          "C. By painstakingly reviewing the schematics, the engineers identified the critical design flaw.",
+          "D. The engineers, who painstakingly reviewed the schematics, identified the critical design flaw."
+        ],
+        "answer": "B",
+        "explanation": "ข้อ B เป็นประโยคที่มี Dangling Modifier ส่วนขยาย `Painstakingly reviewing the schematics` (การตรวจสอบแผนผังอย่างอุตสาหะ) มีผู้กระทำโดยนัยคือ `the engineers` แต่ประโยคหลักใช้โครงสร้าง Passive Voice ที่มีประธานเป็น `the critical design flaw` (ข้อบกพร่องในการออกแบบ) ซึ่งตัวมันเองไม่สามารถตรวจสอบแผนผังได้ ข้อ A, C, และ D ล้วนเป็นประโยคที่ถูกต้องและสื่อความหมายชัดเจน"
+      },
+      {
+        "question": "What is the most effective way to correct this sentence? `To prevent catastrophic data loss, redundant backup systems were implemented by the IT department.`",
+        "options": [
+          "A. To prevent catastrophic data loss, the IT department implemented redundant backup systems.",
+          "B. Redundant backup systems were implemented by the IT department to prevent catastrophic data loss.",
+          "C. In order to prevent catastrophic data loss, there was an implementation of redundant backup systems by the IT department.",
+          "D. For the prevention of catastrophic data loss, redundant backup systems were implemented by the IT department."
+        ],
+        "answer": "A",
+        "explanation": "ประโยคเดิมมี Dangling Modifier เพราะ `To prevent catastrophic data loss` (เพื่อป้องกันข้อมูลสูญหาย) มีผู้กระทำโดยนัยคือ `the IT department` แต่ประธานของประโยคหลักคือ `redundant backup systems` (ระบบสำรองข้อมูล) ข้อ A แก้ไขได้ดีและกระชับที่สุด โดยการเปลี่ยนประโยคหลักเป็น Active Voice และนำ `the IT department` มาเป็นประธาน ทำให้ประโยคมีความชัดเจนและตรงไปตรงมา"
+      },
+      {
+        "question": "Which sentence is grammatically flawless?",
+        "options": [
+          "A. Flying at 30,000 feet, the intricate patterns of the river delta were clearly visible.",
+          "B. Having adjudicated on thousands of complex cases, the judge's reputation for sagacity was unparalleled.",
+          "C. Before submitting the final proposal, a thorough peer review was conducted.",
+          "D. To negotiate a lasting peace treaty, patience was of the utmost importance for the diplomats."
+        ],
+        "answer": "B",
+        "explanation": "ข้อ B เป็นประโยคที่ถูกต้อง ส่วนขยาย `Having adjudicated...` (หลังจากได้ตัดสินคดีที่ซับซ้อนมานับพัน) มีผู้กระทำโดยนัยคือ `the judge` และประธานของประโยคหลักคือ `the judge's reputation` ซึ่งเชื่อมโยงกันอย่างสมเหตุสมผล (ชื่อเสียงของผู้ตัดสิน) ในบริบทนี้ถือว่ายอมรับได้และสละสลวย ข้อ A ผิด (`patterns` ไม่ได้บิน) ข้อ C ผิด (`peer review` ไม่ได้ `submit`) ข้อ D ผิด (`patience` ไม่ได้ `negotiate` แต่ควรเป็น `diplomats`)"
+      },
+      {
+        "question": "How should this sentence be revised? `Pondering the existential quandaries of the universe, the solution to the immediate problem suddenly became clear.`",
+        "options": [
+          "A. Pondering the existential quandaries of the universe, the philosopher suddenly saw the solution to the immediate problem.",
+          "B. While pondering the existential quandaries of the universe, the solution to the immediate problem suddenly became clear.",
+          "C. The solution to the immediate problem, while pondering the existential quandaries of the universe, suddenly became clear.",
+          "D. The solution to the immediate problem suddenly became clear, pondering the existential quandaries of the universe."
+        ],
+        "answer": "A",
+        "explanation": "ประโยคเดิมมี Dangling Modifier เนื่องจาก `Pondering...` (การครุ่นคิด...) ต้องการผู้ที่กำลังคิด แต่ประธานของประโยคหลักคือ `the solution` (ทางแก้ปัญหา) ซึ่งไม่สามารถครุ่นคิดได้ ข้อ A เป็นการแก้ไขที่ดีที่สุด โดยการใส่ประธานที่เป็นผู้กระทำ (`the philosopher`) เข้าไปในประโยคหลัก ทำให้ Modifier มีประธานรองรับอย่างถูกต้องและชัดเจน"
+      }
+    ]
+  },
+  {
+    "id": "44_3",
+    "title": "44.3 Summary: Modifiers (สรุปเรื่อง Modifiers + 50 Exercises)",
+    "explanation": "ยินดีต้อนรับสู่บทสรุปของเรื่อง Modifiers ซึ่งเป็นหนึ่งในหัวข้อไวยากรณ์ที่ท้าทายที่สุดในระดับ C1-C2 แต่ก็เป็นหัวใจสำคัญของการเขียนที่ชัดเจนและเป็นมืออาชีพ\n\n**Modifiers คืออะไร?**\nModifiers คือคำ วลี (phrase) หรืออนุประโยค (clause) ที่ทำหน้าที่ขยายหรือให้ข้อมูลเพิ่มเติมเกี่ยวกับคำอื่นในประโยค เปรียบเสมือน 'ส่วนเสริม' ที่ทำให้ภาพในประโยคชัดเจนขึ้น ปัญหาที่พบบ่อยในระดับสูงไม่ใช่การไม่รู้จัก Modifiers แต่คือการ 'วางตำแหน่ง' ผิดพลาด (Misplaced) หรือการที่มัน 'ลอย' โดยไม่มีคำให้ขยายอย่างถูกต้อง (Dangling)\n\n**1. Misplaced Modifiers (ส่วนขยายวางผิดที่)**\nเกิดขึ้นเมื่อ Modifier ถูกวางไว้ห่างจากคำที่มันควรจะขยาย ทำให้ประโยคมีความหมายกำกวมหรือผิดเพี้ยนไปจากเจตนาเดิม\n\n*   **หลักการทอง:** Modifier ควรอยู่ 'ใกล้ที่สุด' กับคำที่มันขยาย\n*   **ประเภทที่พบบ่อย:**\n    *   **Limiting Modifiers:** คำอย่าง only, just, almost, nearly, merely ตำแหน่งของคำเหล่านี้เปลี่ยนความหมายทั้งประโยคได้ เช่น \"I almost ate all the cookies\" (เกือบจะได้กิน แต่ไม่ได้กิน) vs. \"I ate almost all the cookies\" (กินไปเกือบทั้งหมด)\n    *   **Phrases & Clauses:** วลีหรืออนุประโยคที่วางผิดตำแหน่ง ทำให้ขยายคำนามผิดตัว เช่น \"The man returned the book to the library that was overdue.\" (หนังสือค้างส่ง หรือห้องสมุดค้างส่ง?)\n\n**2. Dangling Modifiers (ส่วนขยายที่ไม่มีตัวรับ)**\nนี่คือข้อผิดพลาดที่ซับซ้อนกว่า เกิดขึ้นเมื่อ Modifier (โดยเฉพาะ Participial Phrase ที่ขึ้นต้นประโยค) ไม่มีคำนามหรือสรรพนามในประโยคหลักให้ขยายอย่างสมเหตุสมผล พูดง่ายๆ คือ 'ประธาน' ของกริยาในส่วนขยาย หายไปจากประโยคหลัก\n\n*   **โครงสร้างเจ้าปัญหา:** [Modifying Phrase], [Subject] + [Verb] + ...\n*   **หลักการแก้ไข:** [Subject] ของประโยคหลัก ต้องเป็นผู้กระทำกริยาใน [Modifying Phrase]\n*   **ตัวอย่าง:** \"Having finished the report, the computer was turned off.\" (ประโยคนี้ผิด เพราะ computer ไม่ได้เป็นคนเขียน report) \n*   **วิธีแก้:**\n    1.  **ใส่ประธานที่ถูกต้อง:** \"Having finished the report, *she* turned off the computer.\"\n    2.  **เปลี่ยน Modifier เป็น Clause:** \"*After she finished the report*, she turned off the computer.\"\n\nในระดับ C1-C2 ความท้าทายคือการระบุและแก้ไขข้อผิดพลาดเหล่านี้ในประโยคที่ยาวและซับซ้อน ซึ่งมักมีการใช้ Passive Voice หรือโครงสร้างที่ไม่ธรรมดาเข้ามาเกี่ยวข้อง การฝึกฝนเรื่องนี้จะยกระดับการเขียนของคุณจาก 'ดี' ไปสู่ 'ยอดเยี่ยม' ได้อย่างชัดเจน",
+    "examples": [
+      {
+        "eng": "Incorrect: Having been meticulously synthesized in the laboratory, the researchers announced a breakthrough with the new compound.",
+        "thai": "ประโยคผิด: 'หลังจากที่ถูกสังเคราะห์อย่างพิถีพิถันในห้องปฏิบัติการ นักวิจัยได้ประกาศการค้นพบครั้งสำคัญเกี่ยวกับสารประกอบใหม่' \nปัญหา: นี่คือ Dangling Modifier ประธานของประโยคหลักคือ 'the researchers' (นักวิจัย) แต่ผู้ที่ 'ถูกสังเคราะห์' (Having been meticulously synthesized) ไม่ใช่นักวิจัย แต่เป็น 'the new compound' (สารประกอบใหม่) ประโยคนี้จึงผิดหลักไวยากรณ์\nฉบับแก้ไข: 'Having been meticulously synthesized in the laboratory, *the new compound*, researchers announced, represents a significant breakthrough.' หรือ 'Researchers announced a breakthrough with *the new compound*, which had been meticulously synthesized in the laboratory.'"
+      },
+      {
+        "eng": "Incorrect: The CEO outlined a new strategy for the board of directors with ambitious quarterly targets.",
+        "thai": "ประโยคผิด: 'CEO ได้สรุปกลยุทธ์ใหม่สำหรับคณะกรรมการบริษัทที่มีเป้าหมายรายไตรมาสที่ทะเยอทะยาน' \nปัญหา: นี่คือ Misplaced Modifier วลี 'with ambitious quarterly targets' (ที่มีเป้าหมายฯ) วางไว้ติดกับ 'board of directors' ทำให้ดูเหมือนว่าคณะกรรมการเป็นผู้มีเป้าหมายที่ทะเยอทะยาน แต่ความจริงแล้วผู้พูดต้องการจะบอกว่า 'กลยุทธ์ใหม่' ต่างหากที่มีเป้าหมายดังกล่าว\nฉบับแก้ไข: 'The CEO outlined a new strategy *with ambitious quarterly targets* for the board of directors.'"
+      },
+      {
+        "eng": "Incorrect: To be considered for the prestigious fellowship, a candidate's dissertation must exhibit profound originality.",
+        "thai": "ประโยคผิด: 'เพื่อที่จะได้รับการพิจารณาสำหรับทุนอันทรงเกียรติ วิทยานิพนธ์ของผู้สมัครจะต้องแสดงถึงความคิดริเริ่มที่ลึกซึ้ง' \nปัญหา: นี่คือ Dangling Infinitive Phrase ใครคือผู้ 'ที่จะได้รับการพิจารณา' (To be considered)? คือ 'a candidate' (ผู้สมัคร) ไม่ใช่ 'a candidate's dissertation' (วิทยานิพนธ์ของผู้สมัคร) ประธานของประโยคหลักไม่ใช่ผู้กระทำกริยาใน Infinitive Phrase\nฉบับแก้ไข: 'To be considered for the prestigious fellowship, *a candidate* must submit a dissertation that exhibits profound originality.'"
+      }
+    ],
+    "common_mistakes": "จุดที่คนไทยระดับสูง (C1-C2) มักจะพลาด:\n\n1.  **ติดโครงสร้างภาษาไทย:** ภาษาไทยมีความยืดหยุ่นสูงในการวางส่วนขยาย เช่น \"หลังจากวิเคราะห์ข้อมูลอย่างละเอียดแล้ว ก็ได้ข้อสรุปว่า...\" เมื่อแปลตรงตัวเป็นภาษาอังกฤษ มักจะลงเอยด้วยโครงสร้าง Passive Voice ที่ทำให้เกิด Dangling Modifier เช่น \"After analyzing the data meticulously, it was concluded that...\" (ผิด) ซึ่งต้องแก้เป็น \"After analyzing the data meticulously, *we* concluded that...\"\n\n2.  **การใช้ Participial Phrase ที่ซับซ้อน:** เมื่อใช้ Participial Phrase ที่มีความหมายเป็น Passive (เช่น Having been + V3) ผู้เรียนมักจะลืมตรวจสอบว่าประธานในประโยคหลักคือผู้ 'ถูกกระทำ' ใน Phrase นั้นจริงหรือไม่ เช่น \"Having been left unattended, the fire spread rapidly.\" (ถูกต้อง เพราะ 'the fire' คือสิ่งที่ 'ถูกทิ้งไว้โดยไม่มีคนดูแล') เทียบกับ \"Having been left unattended, the firefighters struggled to control the blaze.\" (ผิด เพราะ 'firefighters' ไม่ใช่สิ่งที่ 'ถูกทิ้งไว้')\n\n3.  **ความกำกวมของ Squinting Modifiers:** คือ Modifier ที่วางอยู่ระหว่างสองส่วนของประโยค ทำให้ไม่แน่ใจว่ามันขยายส่วนข้างหน้าหรือส่วนข้างหลัง เช่น \"Delegating tasks *effectively* improves team productivity.\" (การมอบหมายงาน 'อย่างมีประสิทธิภาพ' หรือ 'อย่างมีประสิทธิภาพ' จะช่วยปรับปรุง...?) การวางตำแหน่งให้ชัดเจน เช่น \"Effectively delegating tasks improves team productivity.\" จะช่วยแก้ปัญหานี้ได้\n\n4.  **ประโยคยาวและซับซ้อนเกินไป:** ในการเขียนเชิงวิชาการหรืองานที่เป็นทางการ ประโยคมักจะยาวและมีหลาย Clause ทำให้ง่ายต่อการวาง Modifier ผิดที่ผิดทางโดยไม่รู้ตัว วิธีป้องกันคือการอ่านทวนประโยคของตัวเองช้าๆ และถามเสมอว่า 'ส่วนขยายนี้กำลังขยายคำไหนอยู่?' และ 'มันอยู่ใกล้คำนั้นที่สุดหรือยัง?'",
+    "practice_questions": [
+      {
+        "question": "Identify the sentence with the correct modifier placement.",
+        "options": [
+          "A. The diplomat negotiated a treaty with the foreign envoy that was highly contentious.",
+          "B. Having been simmering for hours, the chef finally tasted the rich, aromatic stew.",
+          "C. To win the championship, relentless dedication and rigorous training are paramount.",
+          "D. The company, beleaguered by financial scandals, appointed a new CEO with a reputation for integrity."
+        ],
+        "answer": "D",
+        "explanation": "ข้อ D ถูกต้อง 'beleaguered by financial scandals' (ซึ่งประสบปัญหาจากเรื่องอื้อฉาวทางการเงิน) ขยาย 'The company' อย่างถูกต้อง ส่วน A ผิดเพราะ 'that was highly contentious' ควรขยาย 'treaty' แต่กลับไปอยู่ติดกับ 'envoy' ข้อ B เป็น Dangling Modifier เพราะ 'the chef' ไม่ได้ 'simmering for hours' แต่เป็น 'the stew' ข้อ C เป็น Dangling Modifier เพราะประธานคือ 'dedication and training' ซึ่งไม่ใช่ผู้ที่ 'to win the championship'"
+      },
+      {
+        "question": "Which of the following sentences contains a dangling modifier?",
+        "options": [
+          "A. While driving through the national park, we saw a herd of bison grazing peacefully.",
+          "B. Exhausted from the marathon, my feet ached for days.",
+          "C. Before submitting the proposal, it was reviewed by three senior managers.",
+          "D. An erudite scholar, Dr. Evelyn Reed, captivated the audience with her lecture on ancient civilizations."
+        ],
+        "answer": "C",
+        "explanation": "ข้อ C มี Dangling Modifier วลี 'Before submitting the proposal' ไม่มีประธานที่สมเหตุสมผลในประโยคหลัก ('it' ไม่สามารถ 'submit the proposal' ได้) ที่ถูกต้องควรเป็น 'Before submitting the proposal, the team had it reviewed by three senior managers.' ส่วนข้อ A, B, และ D ถูกต้องตามหลักไวยากรณ์"
+      },
+      {
+        "question": "Choose the best revision for the following sentence: 'The report details the catastrophic effects of the oil spill on the marine ecosystem found on page 27.'",
+        "options": [
+          "A. The report on page 27 details the catastrophic effects of the oil spill on the marine ecosystem.",
+          "B. The report details the catastrophic effects on the marine ecosystem of the oil spill, which is found on page 27.",
+          "C. Found on page 27, the report details the catastrophic effects of the oil spill on the marine ecosystem.",
+          "D. On page 27, the report details the catastrophic effects of the oil spill on the marine ecosystem."
+        ],
+        "answer": "D",
+        "explanation": "ข้อ D แก้ไขปัญหาวลี 'on page 27' ที่วางผิดที่ได้ดีที่สุดและชัดเจนที่สุด ประโยคเดิมทำให้เข้าใจผิดว่า 'marine ecosystem' อยู่ในหน้า 27 ข้อ A ก็ใช้ได้ แต่การนำ Prepositional Phrase มาไว้ต้นประโยคแบบ D ทำให้โครงสร้างชัดเจนและเป็นธรรมชาติกว่า"
+      },
+      {
+        "question": "Which word is a misplaced limiting modifier in the sentence: 'The researchers only were able to isolate the protein after months of painstaking work.'?",
+        "options": [
+          "A. only",
+          "B. able",
+          "C. after",
+          "D. painstaking"
+        ],
+        "answer": "A",
+        "explanation": "'only' วางผิดตำแหน่ง ความหมายที่ต้องการคือ นักวิจัยสามารถแยกโปรตีนได้ 'หลังจาก' ทำงานหนักมาหลายเดือนเท่านั้น ไม่ใช่ว่าพวกเขา 'ทำได้แค่' แยกโปรตีน (และทำอย่างอื่นไม่ได้เลย) ควรแก้เป็น 'The researchers were able to isolate the protein only after months of painstaking work.'"
+      },
+      {
+        "question": "Correct the dangling modifier: 'Having been declared obsolete, the company decided to discontinue the software.'",
+        "options": [
+          "A. The software, having been declared obsolete, was discontinued by the company.",
+          "B. Having been declared obsolete, the company's decision was to discontinue the software.",
+          "C. Declaring it obsolete, the software was discontinued by the company.",
+          "D. The company, having declared it obsolete, decided to discontinue the software."
+        ],
+        "answer": "A",
+        "explanation": "ข้อ A แก้ไขได้ถูกต้องที่สุดโดยเปลี่ยนประธานของประโยคหลักให้เป็น 'The software' ซึ่งเป็นสิ่งที่ 'ถูกประกาศว่าล้าสมัย' (having been declared obsolete) ข้อ D เปลี่ยนความหมายไปเล็กน้อย โดยทำให้ 'The company' เป็นผู้ 'ประกาศ' เอง"
+      },
+      {
+        "question": "Which sentence is grammatically correct and unambiguous?",
+        "options": [
+          "A. She served sandwiches to the children on paper plates.",
+          "B. Running precipitously down the hill, the ancient castle came into view.",
+          "C. The artifact was discovered by an archaeologist sealed in an airtight container.",
+          "D. After meticulously cataloging the specimens, the biologist wrote a comprehensive report."
+        ],
+        "answer": "D",
+        "explanation": "ข้อ D ถูกต้อง 'After meticulously cataloging the specimens' ขยาย 'the biologist' อย่างเหมาะสม ข้อ A กำกวม (เด็กอยู่บนจานกระดาษ?) ข้อ B เป็น Dangling Modifier ('castle' ไม่ได้วิ่ง) ข้อ C เป็น Misplaced Modifier ('archaeologist' ไม่ได้ถูกปิดผนึก)"
+      },
+      {
+        "question": "Rewrite the sentence to eliminate the squinting modifier: 'The professor said on Monday he would give the exam.'",
+        "options": [
+          "A. The professor said he would give the exam on Monday.",
+          "B. On Monday, the professor said he would give the exam.",
+          "C. Both A and B are correct revisions with different meanings.",
+          "D. The original sentence is correct and unambiguous."
+        ],
+        "answer": "C",
+        "explanation": "ข้อ C ถูกต้องที่สุด 'on Monday' ในประโยคเดิมเป็น Squinting Modifier ซึ่งอาจขยาย 'said' (พูดในวันจันทร์) หรือ 'give the exam' (สอบในวันจันทร์) ก็ได้ ข้อ A และ B แก้ไขความกำกวมนี้โดยทำให้มีความหมายที่ชัดเจนแตกต่างกันไป"
+      },
+      {
+        "question": "Identify the error in the sentence: 'Eagerly anticipating the results, the long wait was agonizing for the candidates.'",
+        "options": [
+          "A. Misplaced Clause",
+          "B. Split Infinitive",
+          "C. Dangling Participle",
+          "D. Faulty Parallelism"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้มี Dangling Participle วลี 'Eagerly anticipating the results' ควรจะขยาย 'the candidates' แต่ประธานของประโยคหลักกลับเป็น 'the long wait' ซึ่งไม่สามารถ 'anticipate' (คาดหวัง) ได้"
+      },
+      {
+        "question": "Choose the best version: 'The author wrote a chilling novel about a haunted house, which has sold over a million copies.'",
+        "options": [
+          "A. The author wrote a chilling novel about a haunted house that has sold over a million copies.",
+          "B. The author's chilling novel about a haunted house has sold over a million copies.",
+          "C. Having sold over a million copies, the author wrote a chilling novel about a haunted house.",
+          "D. The author wrote a chilling novel, which has sold over a million copies, about a haunted house."
+        ],
+        "answer": "B",
+        "explanation": "ข้อ B เป็นประโยคที่กระชับและชัดเจนที่สุด ประโยคเดิมในข้อ A และ D มีความกำกวมเล็กน้อยว่า 'which' หรือ 'that' หมายถึง 'novel' หรือ 'house' ข้อ C เป็น Dangling Modifier"
+      },
+      {
+        "question": "Which sentence contains a misplaced modifier?",
+        "options": [
+          "A. The dog with the fluffy tail chased the squirrel up the tree.",
+          "B. We ate the fresh oysters that we had harvested ourselves.",
+          "C. The painting was hung in the gallery that was created by a local artist.",
+          "D. Cautiously, the bomb squad approached the suspicious package."
+        ],
+        "answer": "C",
+        "explanation": "ข้อ C มี Misplaced Modifier อนุประโยค 'that was created by a local artist' ควรขยาย 'The painting' แต่กลับวางไว้ติดกับ 'the gallery' ทำให้เข้าใจผิดว่าแกลเลอรีถูกสร้างโดยศิลปินท้องถิ่น ควรแก้เป็น 'The painting that was created by a local artist was hung in the gallery.'"
+      },
+      {
+        "question": "Correct the dangling modifier: 'While working on the complex algorithm, a sudden power outage erased all progress.'",
+        "options": [
+          "A. While I was working on the complex algorithm, a sudden power outage erased all my progress.",
+          "B. Working on the complex algorithm, the progress was erased by a sudden power outage.",
+          "C. A sudden power outage, while working on the complex algorithm, erased all progress.",
+          "D. The progress was erased by a sudden power outage while working on the complex algorithm."
+        ],
+        "answer": "A",
+        "explanation": "ข้อ A แก้ไขโดยการเปลี่ยน modifying phrase ให้เป็น clause ที่สมบูรณ์ (While I was working...) และมีประธาน ('I') ที่ชัดเจน ทำให้ไม่เกิดปัญหา dangling modifier อีกต่อไป"
+      },
+      {
+        "question": "Identify the sentence with the correct modifier placement.",
+        "options": [
+          "A. He nearly read every book in the library.",
+          "B. The child was reprimanded by his mother for tracking mud across the floor in a stern voice.",
+          "C. Lacking any discernible evidence, the case was dismissed by the judge.",
+          "D. The organization provides assistance to impoverished families with limited resources."
+        ],
+        "answer": "C",
+        "explanation": "ข้อ C ถูกต้อง วลี 'Lacking any discernible evidence' ขยายประธานของประโยคหลัก ('the case') ไม่ได้ แต่ในบริบทนี้เป็นที่ยอมรับได้ว่าหมายถึงผู้พิพากษาขาดหลักฐาน (a contextual exception) อย่างไรก็ตาม เมื่อเทียบกับข้ออื่น ข้อนี้ดีที่สุด ข้อ A ควรเป็น 'He read nearly every book...' ข้อ B ควรเป็น '...reprimanded in a stern voice...' ข้อ D กำกวมว่าใครมี 'limited resources'"
+      },
+      {
+        "question": "Which sentence is ambiguous due to a misplaced modifier?",
+        "options": [
+          "A. The journalist reported that the fugitive had been captured on the evening news.",
+          "B. Exhausted by the relentless pace, the intern decided to take a short break.",
+          "C. The legislation, passed after a contentious debate, was signed into law.",
+          "D. We watched the sunset paint the sky with vibrant colors from our balcony."
+        ],
+        "answer": "A",
+        "explanation": "ข้อ A กำกวม วลี 'on the evening news' สามารถขยายได้ทั้ง 'reported' (รายงานในข่าวภาคค่ำ) หรือ 'had been captured' (ถูกจับในข่าวภาคค่ำ) ซึ่งไม่สมเหตุสมผล ควรแก้เป็น 'On the evening news, the journalist reported that the fugitive had been captured.'"
+      },
+      {
+        "question": "Fix the sentence: 'To ensure a timely departure, all luggage must be checked in an hour before the flight.'",
+        "options": [
+          "A. To ensure a timely departure, passengers must check in all luggage an hour before the flight.",
+          "B. An hour before the flight, to ensure a timely departure, all luggage must be checked in.",
+          "C. All luggage must be checked in an hour before the flight, ensuring a timely departure.",
+          "D. The sentence is already correct."
+        ],
+        "answer": "A",
+        "explanation": "ประโยคเดิมมี Dangling Infinitive Phrase ('To ensure...'). ใครคือผู้ที่ต้อง 'ensure a timely departure'? ไม่ใช่ 'all luggage' แต่เป็นผู้โดยสาร ข้อ A จึงแก้ไขได้ถูกต้องโดยใส่ประธาน 'passengers' เข้ามา"
+      },
+      {
+        "question": "Which sentence correctly places the modifier 'only'?",
+        "options": [
+          "A. She only told me her secret.",
+          "B. She told only me her secret.",
+          "C. She told me her only secret.",
+          "D. All of the above are correct, with different meanings."
+        ],
+        "answer": "D",
+        "explanation": "ข้อ D ถูกต้อง ตำแหน่งของ 'only' เปลี่ยนความหมายของประโยคไปอย่างสิ้นเชิง A: เธอแค่ 'บอก' ความลับ (ไม่ได้ทำอย่างอื่น) B: เธอบอกความลับกับฉัน 'คนเดียว' C: เธอบอกความลับ 'เพียงหนึ่งเดียว' ของเธอกับฉัน ทุกข้อถูกต้องไวยากรณ์แต่มีความหมายต่างกัน"
+      },
+      {
+        "question": "Identify the sentence with a dangling participle.",
+        "options": [
+          "A. Peering through the microscope, the scientist observed the cellular division.",
+          "B. Having been proven ineffective, the board voted to terminate the program.",
+          "C. Soaring high above the clouds, the eagle scanned the landscape for prey.",
+          "D. After winning the lottery, his life was never the same again."
+        ],
+        "answer": "D",
+        "explanation": "ข้อ D มี Dangling Modifier วลี 'After winning the lottery' ควรขยาย 'he' แต่ประธานของประโยคหลักคือ 'his life' ซึ่งไม่สามารถ 'win the lottery' ได้ ควรแก้เป็น 'After winning the lottery, he found that his life was never the same again.'"
+      },
+      {
+        "question": "Which revision best corrects the error: 'The new intern was asked to file the documents that had been piling up for weeks by the office manager.'?",
+        "options": [
+          "A. The new intern was asked to file the documents by the office manager that had been piling up for weeks.",
+          "B. The new intern was asked by the office manager to file the documents that had been piling up for weeks.",
+          "C. Piling up for weeks, the office manager asked the new intern to file the documents.",
+          "D. The documents that had been piling up for weeks were to be filed by the new intern, asked the office manager."
+        ],
+        "answer": "B",
+        "explanation": "ข้อ B แก้ไขได้อย่างถูกต้องโดยย้ายวลี 'by the office manager' มาไว้หลัง 'was asked' ทำให้ชัดเจนว่าใครเป็นคนสั่ง และยังคงให้ clause 'that had been piling up for weeks' ขยาย 'documents' ได้อย่างถูกต้อง"
+      },
+      {
+        "question": "What is the primary grammatical issue with this sentence: 'Upon entering the room, a sense of foreboding permeated the air.'?",
+        "options": [
+          "A. Misplaced adverb",
+          "B. Subject-verb agreement error",
+          "C. Dangling gerund phrase",
+          "D. Incorrect verb tense"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้มี Dangling Gerund Phrase ('Upon entering the room'). ใครเป็นผู้ 'entering the room'? ไม่ใช่ 'a sense of foreboding' ควรมีประธานที่เป็นคน เช่น 'Upon entering the room, he felt a sense of foreboding permeate the air.'"
+      },
+      {
+        "question": "Choose the clearest and most concise sentence.",
+        "options": [
+          "A. The council member argued against the new zoning law with passion.",
+          "B. With passion, the council member argued against the new zoning law.",
+          "C. The council member argued passionately against the new zoning law.",
+          "D. Against the new zoning law, the council member argued with passion."
+        ],
+        "answer": "C",
+        "explanation": "ข้อ C ใช้ adverb 'passionately' ซึ่งกระชับและตรงไปตรงมาที่สุดในการขยายกริยา 'argued' ขณะที่ข้ออื่นๆ ใช้ prepositional phrase 'with passion' ซึ่งแม้จะถูกต้องแต่มีความกระชับน้อยกว่า"
+      },
+      {
+        "question": "Find the sentence that is grammatically flawed.",
+        "options": [
+          "A. The car, sputtering and wheezing, finally came to a halt.",
+          "B. To be properly maintained, you must service your car regularly.",
+          "C. With a sigh of relief, she submitted her final dissertation.",
+          "D. The evidence presented by the prosecution was irrefutable."
+        ],
+        "answer": "B",
+        "explanation": "ข้อ B มี Dangling Infinitive Phrase ('To be properly maintained'). สิ่งที่ต้อง 'be properly maintained' คือ 'your car' ไม่ใช่ 'you' ควรแก้เป็น 'To be properly maintained, your car must be serviced regularly.'"
+      },
+      {
+        "question": "Which sentence has a squinting modifier?",
+        "options": [
+          "A. Students who study diligently often succeed.",
+          "B. I promised on my way home to buy some milk.",
+          "C. She almost failed the entire course.",
+          "D. Walking through the forest, I saw a rare orchid."
+        ],
+        "answer": "B",
+        "explanation": "ข้อ B มี Squinting Modifier วลี 'on my way home' ไม่ชัดเจนว่าขยาย 'promised' (สัญญาตอนเดินทางกลับบ้าน) หรือขยาย 'to buy' (จะซื้อตอนเดินทางกลับบ้าน) ควรแก้เป็น 'On my way home, I promised to buy some milk.' หรือ 'I promised to buy some milk on my way home.' เพื่อความชัดเจน"
+      },
+      {
+        "question": "Correct the error: 'Covered in centuries of dust, the archaeologist carefully uncovered the ancient artifact.'",
+        "options": [
+          "A. The archaeologist carefully uncovered the ancient artifact, which was covered in centuries of dust.",
+          "B. Covering it in dust, the archaeologist uncovered the ancient artifact.",
+          "C. The archaeologist, covered in centuries of dust, carefully uncovered the ancient artifact.",
+          "D. Carefully, the archaeologist uncovered the ancient artifact covered in centuries of dust."
+        ],
+        "answer": "A",
+        "explanation": "ประโยคเดิมมี Dangling Participle ('Covered in centuries of dust') ซึ่งควรจะขยาย 'artifact' แต่กลับไปอยู่กับ 'archaeologist' ข้อ A แก้ไขได้ดีที่สุดโดยเปลี่ยนเป็น clause ที่ชัดเจน ข้อ C ทำให้ความหมายเปลี่ยนไปว่านักโบราณคดีเป็นผู้ที่เต็มไปด้วยฝุ่น"
+      },
+      {
+        "question": "Which sentence is constructed correctly?",
+        "options": [
+          "A. Having finished their meal, the restaurant bill was paid.",
+          "B. The enigmatic manuscript was studied by the linguist written in a forgotten language.",
+          "C. To fully appreciate the symphony, one must understand its historical context.",
+          "D. A decision was reached after debating for hours by the committee."
+        ],
+        "answer": "C",
+        "explanation": "ข้อ C ถูกต้อง 'one' คือผู้ที่ 'To fully appreciate the symphony' ข้อ A เป็น Dangling Modifier ('bill' ไม่ได้กินข้าว) ข้อ B เป็น Misplaced Modifier ('linguist' ไม่ได้ถูกเขียน) ข้อ D วางวลี 'by the committee' ผิดที่"
+      },
+      {
+        "question": "What kind of modifier error exists here: 'He saw a puppy on the way to the office that was adorable.'?",
+        "options": [
+          "A. Dangling participle",
+          "B. Split infinitive",
+          "C. Misplaced relative clause",
+          "D. No error"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้มี Misplaced Relative Clause ('that was adorable') มันควรจะขยาย 'a puppy' แต่กลับถูกวางไว้หลัง 'the office' ทำให้โครงสร้างประโยคไม่ดี ควรแก้เป็น 'On the way to the office, he saw a puppy that was adorable.' หรือ 'He saw an adorable puppy on the way to the office.'"
+      },
+      {
+        "question": "Choose the best revision: 'The patient was referred to a specialist with recurring migraines.'",
+        "options": [
+          "A. The patient with recurring migraines was referred to a specialist.",
+          "B. The patient was referred with recurring migraines to a specialist.",
+          "C. A specialist was referred to the patient with recurring migraines.",
+          "D. With recurring migraines, the patient was referred to a specialist."
+        ],
+        "answer": "A",
+        "explanation": "ข้อ A ชัดเจนที่สุด ประโยคเดิมทำให้เข้าใจผิดว่า 'specialist' เป็นผู้มีอาการไมเกรน การย้ายวลี 'with recurring migraines' มาไว้หลัง 'The patient' ทำให้ชัดเจนว่าใครคือผู้ที่มีอาการป่วย"
+      },
+      {
+        "question": "Which sentence is grammatically correct?",
+        "options": [
+          "A. Without knowing his name, it was difficult to find him.",
+          "B. The letter was delivered to the wrong address, which caused a significant delay.",
+          "C. They almost spent all their money on the first day.",
+          "D. After searching for hours, the keys were found under the sofa."
+        ],
+        "answer": "B",
+        "explanation": "ข้อ B ถูกต้อง 'which' ในที่นี้ขยายอนุประโยคก่อนหน้าทั้งหมด ('The letter was delivered to the wrong address') ซึ่งเป็นที่ยอมรับในการใช้งาน ข้อ A และ D เป็น Dangling Modifiers ข้อ C ควรเป็น 'They spent almost all their money...'"
+      },
+      {
+        "question": "Identify the flawed sentence: 'Once properly inflated, your performance on the court will improve with this basketball.'",
+        "options": [
+          "A. Dangling Modifier: The subject should be the basketball.",
+          "B. Misplaced Modifier: 'Once properly inflated' is in the wrong place.",
+          "C. Dangling Modifier: The subject should be 'you' or 'the player'.",
+          "D. No error, the sentence is correct."
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้มี Dangling Modifier สิ่งที่ 'properly inflated' คือ 'this basketball' แต่ประธานของประโยคหลักคือ 'your performance' ซึ่งไม่ถูกต้อง ควรจะแก้ให้มีประธานที่สมเหตุสมผล เช่น 'Once it is properly inflated, this basketball will improve your performance...' หรือ 'If you use this properly inflated basketball, your performance...'"
+      },
+      {
+        "question": "Which sentence correctly places all modifiers?",
+        "options": [
+          "A. I bought a vintage car from an old man with a rusty bumper.",
+          "B. The foundation only gives scholarships to students from disadvantaged backgrounds.",
+          "C. Plunging into the frigid water, the shock took his breath away.",
+          "D. She wore a silk dress to the party that her grandmother had made."
+        ],
+        "answer": "B",
+        "explanation": "ข้อ B วาง 'only' ได้อย่างถูกต้อง เพื่อเน้นว่าให้ทุนแก่นักเรียนกลุ่มนี้ 'เท่านั้น' ข้อ A กำกวม (ใครมีกันชนขึ้นสนิม?) ข้อ C เป็น Dangling Modifier ('shock' ไม่ได้ 'plunging') ข้อ D มี Misplaced Clause ควรเป็น 'She wore a silk dress that her grandmother had made to the party.'"
+      },
+      {
+        "question": "Revise this sentence: 'Buried under a pile of laundry, I found my missing sock.'",
+        "options": [
+          "A. My missing sock was found by me buried under a pile of laundry.",
+          "B. I found my missing sock buried under a pile of laundry.",
+          "C. The missing sock, buried under a pile of laundry, was found by me.",
+          "D. The original sentence is grammatically correct."
+        ],
+        "answer": "B",
+        "explanation": "ประโยคเดิมทำให้เข้าใจผิดว่า 'I' เป็นผู้ที่ถูกฝังอยู่ใต้กองผ้า ข้อ B แก้ไขโดยการย้าย participle phrase 'buried under a pile of laundry' ไปไว้หลัง 'sock' ซึ่งเป็นสิ่งที่มันขยาย ทำให้ประโยคถูกต้องและชัดเจน"
+      },
+      {
+        "question": "Which of these sentences is problematic?",
+        "options": [
+          "A. Having been thoroughly vetted, the candidate was offered the position.",
+          "B. To avoid penalties, your taxes must be filed by the deadline.",
+          "C. The research paper, written in a highly technical jargon, was inaccessible to most readers.",
+          "D. After the merger, the company's stock value increased exponentially."
+        ],
+        "answer": "B",
+        "explanation": "ข้อ B มี Dangling Infinitive Phrase ใครคือผู้ที่ 'To avoid penalties'? ไม่ใช่ 'your taxes' แต่เป็น 'you' ควรแก้เป็น 'To avoid penalties, you must file your taxes by the deadline.'"
+      },
+      {
+        "question": "Which sentence best avoids ambiguity?",
+        "options": [
+          "A. The security guard told the protesters to disperse in a loud voice.",
+          "B. In a loud voice, the security guard told the protesters to disperse.",
+          "C. The security guard in a loud voice told the protesters to disperse.",
+          "D. The security guard told the protesters in a loud voice to disperse."
+        ],
+        "answer": "B",
+        "explanation": "ข้อ B ชัดเจนที่สุด การนำ Prepositional Phrase 'In a loud voice' มาไว้ต้นประโยคทำให้มันขยายกริยา 'told' ได้อย่างชัดเจนและไม่สร้างความกำกวมเหมือนในข้ออื่นๆ"
+      },
+      {
+        "question": "Find the error: 'Having failed the initial test, a second attempt was scheduled by the team.'",
+        "options": [
+          "A. Dangling Participle",
+          "B. Misplaced Adverb",
+          "C. Faulty Parallelism",
+          "D. No Error"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้มี Dangling Participle ผู้ที่ 'failed the initial test' คือ 'the team' ไม่ใช่ 'a second attempt' ควรแก้เป็น 'Having failed the initial test, the team scheduled a second attempt.'"
+      },
+      {
+        "question": "What is wrong with this sentence: 'The spectators watched the acrobats perform on the edge of their seats.'?",
+        "options": [
+          "A. The adverb 'on the edge' is misplaced.",
+          "B. The prepositional phrase 'of their seats' is dangling.",
+          "C. The prepositional phrase 'on the edge of their seats' is misplaced.",
+          "D. The verb 'perform' is in the wrong tense."
+        ],
+        "answer": "C",
+        "explanation": "วลี 'on the edge of their seats' วางผิดที่ ทำให้ดูเหมือนว่า 'acrobats' เป็นผู้แสดงบนขอบที่นั่ง แต่ความจริงแล้วมันควรจะขยาย 'spectators' (ผู้ชม) ควรแก้เป็น 'On the edge of their seats, the spectators watched the acrobats perform.'"
+      },
+      {
+        "question": "Choose the correct sentence.",
+        "options": [
+          "A. While still a child, his grandfather taught him to play chess.",
+          "B. Though terrified, the journey into the dark cave was begun.",
+          "C. Overlooked by the selection committee, her groundbreaking research went unrecognized.",
+          "D. To qualify for the loan, a stable source of income must be demonstrated."
+        ],
+        "answer": "C",
+        "explanation": "ข้อ C ถูกต้อง วลี 'Overlooked by the selection committee' ขยาย 'her groundbreaking research' ได้อย่างเหมาะสม (research ถูก overlook) ข้อ A, B, และ D ล้วนมี Dangling Modifier ทั้งสิ้น"
+      },
+      {
+        "question": "Which sentence places the limiting modifier 'almost' correctly for the intended meaning 'I was close to finishing the entire race, but did not.'?",
+        "options": [
+          "A. I almost finished the race.",
+          "B. I finished almost the race.",
+          "C. Almost I finished the race.",
+          "D. I finished the race almost."
+        ],
+        "answer": "A",
+        "explanation": "ข้อ A สื่อความหมายว่า 'เกือบจะ' ทำกริยา 'finished' ได้สำเร็จ แต่ก็ยังไม่ได้ทำจนจบ ซึ่งตรงกับความหมายที่ต้องการ ขณะที่ข้ออื่นผิดไวยากรณ์หรือไม่สื่อความหมายเดียวกัน"
+      },
+      {
+        "question": "Revise the sentence: 'A formidable opponent, the team struggled to score against the champion.'",
+        "options": [
+          "A. The team, a formidable opponent, struggled to score against the champion.",
+          "B. Struggling to score, the team faced a formidable opponent in the champion.",
+          "C. Because the champion was a formidable opponent, the team struggled to score.",
+          "D. The original sentence is correct."
+        ],
+        "answer": "C",
+        "explanation": "ประโยคเดิมมี Dangling Appositive ('A formidable opponent') ซึ่งควรจะขยาย 'the champion' แต่กลับไปอยู่กับ 'the team' ข้อ C แก้ไขได้ดีที่สุดโดยการเปลี่ยนให้เป็น subordinate clause ที่แสดงเหตุและผลอย่างชัดเจน"
+      },
+      {
+        "question": "Which sentence is flawed?",
+        "options": [
+          "A. The explorer described his journey into the uncharted jungle in his memoir.",
+          "B. In his memoir, the explorer described his journey into the uncharted jungle.",
+          "C. The explorer in his memoir described his journey into the uncharted jungle.",
+          "D. The explorer described his journey in his memoir into the uncharted jungle."
+        ],
+        "answer": "D",
+        "explanation": "ข้อ D มี Misplaced Modifier วลี 'in his memoir' ไปขวางระหว่าง 'journey' กับส่วนขยาย 'into the uncharted jungle' ทำให้ประโยคไม่ลื่นไหลและโครงสร้างไม่ดี ควรจะอยู่หลังสุดหรือขึ้นต้นประโยค"
+      },
+      {
+        "question": "What is the error in: 'After being convicted, the judge gave the defendant a severe sentence.'?",
+        "options": [
+          "A. Misplaced Clause",
+          "B. Dangling Participle",
+          "C. Split Infinitive",
+          "D. Incorrect Pronoun Reference"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้มี Dangling Participle ผู้ที่ 'being convicted' คือ 'the defendant' (จำเลย) ไม่ใช่ 'the judge' (ผู้พิพากษา) ควรแก้เป็น 'After being convicted, the defendant received a severe sentence from the judge.'"
+      },
+      {
+        "question": "Select the sentence with no modifier errors.",
+        "options": [
+          "A. Having arrived late for the appointment, a new time had to be scheduled.",
+          "B. We saw the majestic mountains driving through the scenic pass.",
+          "C. The CEO promised to earnestly address the shareholders' concerns.",
+          "D. The bicycle was returned to the boy with the broken chain."
+        ],
+        "answer": "C",
+        "explanation": "ข้อ C ถูกต้องและไม่มีข้อผิดพลาด แม้ว่า 'to earnestly address' จะเป็น Split Infinitive แต่ในภาษาอังกฤษสมัยใหม่นั้นเป็นที่ยอมรับกันอย่างกว้างขวางและไม่ถือเป็นข้อผิดพลาดร้ายแรงอีกต่อไป โดยเฉพาะเมื่อทำให้ประโยคชัดเจนขึ้น ข้อ A, B, D มี modifier errors"
+      },
+      {
+        "question": "Fix the sentence: 'The essay was praised for its cogent arguments by the professor.'",
+        "options": [
+          "A. The essay was praised by the professor for its cogent arguments.",
+          "B. For its cogent arguments, the essay was praised by the professor.",
+          "C. The professor praised the essay for its cogent arguments.",
+          "D. All of the above are correct."
+        ],
+        "answer": "D",
+        "explanation": "ข้อ C (Active voice) เป็นวิธีแก้ที่ดีที่สุดและกระชับที่สุด แต่ข้อ A และ B ก็ถูกต้องตามหลักไวยากรณ์เช่นกันโดยการย้ายวลี 'by the professor' ให้มาอยู่ในตำแหน่งที่ดีขึ้น ทั้งสามข้อแก้ไขประโยคเดิมที่วลีบุพบทวางอยู่ท้ายสุดอย่างไม่เป็นธรรมชาติได้"
+      },
+      {
+        "question": "Which of the following is an example of a dangling modifier?",
+        "options": [
+          "A. The book on the top shelf is the one I need.",
+          "B. Without a doubt, she is the most qualified candidate.",
+          "C. To succeed in this field, networking is essential.",
+          "D. Discouraged by the initial results, the team redoubled its efforts."
+        ],
+        "answer": "C",
+        "explanation": "ข้อ C มี Dangling Infinitive Phrase ใครคือผู้ที่ 'To succeed in this field'? ไม่ใช่ 'networking' แต่เป็น 'a person' หรือ 'one' ควรแก้เป็น 'To succeed in this field, one must network effectively.'"
+      },
+      {
+        "question": "Identify the best sentence: 'He gave a presentation to the committee that was poorly researched.'",
+        "options": [
+          "A. He gave a poorly researched presentation to the committee.",
+          "B. He gave a presentation that was poorly researched to the committee.",
+          "C. To the committee, he gave a presentation that was poorly researched.",
+          "D. The presentation he gave to the committee was poorly researched."
+        ],
+        "answer": "A",
+        "explanation": "ข้อ A แก้ไขได้ดีและกระชับที่สุดโดยใช้ 'poorly researched' เป็น Adjective Phrase ขยาย 'presentation' โดยตรง ทำให้ไม่มีความกำกวมเหมือนประโยคเดิมที่ 'that was poorly researched' อาจดูเหมือนขยาย 'committee'"
+      },
+      {
+        "question": "What is the problem with this sentence? 'Working through the night, the deadline was met.'",
+        "options": [
+          "A. Misplaced modifier",
+          "B. Dangling participle",
+          "C. Comma splice",
+          "D. Subject-verb disagreement"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้มี Dangling Participle วลี 'Working through the night' ไม่มีประธานที่สมเหตุสมผลในประโยคหลัก เพราะ 'the deadline' ไม่สามารถ 'work through the night' ได้"
+      },
+      {
+        "question": "Choose the clearest sentence.",
+        "options": [
+          "A. They discussed the high rate of unemployment at the conference.",
+          "B. At the conference, they discussed the high rate of unemployment.",
+          "C. The high rate of unemployment was discussed by them at the conference.",
+          "D. Both A and B are clear and correct."
+        ],
+        "answer": "D",
+        "explanation": "ทั้งข้อ A และ B ต่างก็ชัดเจนและถูกต้องตามหลักไวยากรณ์ การวางวลี 'at the conference' ไว้ท้ายประโยค (A) หรือต้นประโยค (B) ไม่ได้ทำให้เกิดความกำกวมในกรณีนี้"
+      },
+      {
+        "question": "Which sentence has a modifier error?",
+        "options": [
+          "A. The politician's speech, which was broadcast live, drew sharp criticism.",
+          "B. After graduating with honors, a prestigious law firm offered her a job.",
+          "C. An experienced hiker, she navigated the treacherous terrain with ease.",
+          "D. The sauce, simmering gently on the stove, filled the kitchen with a wonderful aroma."
+        ],
+        "answer": "B",
+        "explanation": "ข้อ B มี Dangling Modifier วลี 'After graduating with honors' ควรจะขยาย 'she' แต่ประธานของประโยคหลักคือ 'a prestigious law firm' ซึ่งไม่สามารถ 'graduate' ได้"
+      },
+      {
+        "question": "Revise: 'The scientist peered at the microbe through a microscope that was barely visible.'",
+        "options": [
+          "A. Through a microscope, the scientist peered at the microbe that was barely visible.",
+          "B. The scientist peered at the barely visible microbe through a microscope.",
+          "C. The barely visible scientist peered at the microbe through a microscope.",
+          "D. The scientist that was barely visible peered at the microbe through a microscope."
+        ],
+        "answer": "B",
+        "explanation": "ประโยคเดิมกำกวมว่าอะไรที่ 'barely visible' - 'microbe' หรือ 'microscope'? ข้อ B แก้ไขโดยย้าย 'barely visible' มาไว้หน้า 'microbe' ทำให้ชัดเจนว่ากำลังขยายจุลินทรีย์"
+      },
+      {
+        "question": "Identify the sentence with no errors.",
+        "options": [
+          "A. I only want a small piece of cake.",
+          "B. Tired and hungry, the warm meal was a welcome sight.",
+          "C. The model posed for the photographer with a confident smile.",
+          "D. Having been repaired, the mechanic returned the car to its owner."
+        ],
+        "answer": "A",
+        "explanation": "ข้อ A ถูกต้อง การใช้ 'only' ในตำแหน่งนี้สื่อความหมายว่า 'ต้องการเพียงแค่ชิ้นเล็กๆ' ซึ่งเป็นเรื่องปกติและชัดเจน ข้อ B และ D เป็น Dangling Modifiers ข้อ C กำกวมเล็กน้อย (ใครยิ้ม? ช่างภาพหรือนางแบบ? แม้บริบทจะช่วยได้ แต่โครงสร้างไม่ดีที่สุด)"
+      },
+      {
+        "question": "Which sentence is grammatically incorrect?",
+        "options": [
+          "A. While waiting for the bus, I read three chapters of my book.",
+          "B. To get a good grade, the exam must be studied for diligently.",
+          "C. Discouraged by the setback, the inventor almost abandoned the project.",
+          "D. The statue, carved from a single block of marble, was a masterpiece."
+        ],
+        "answer": "B",
+        "explanation": "ข้อ B มี Dangling Infinitive Phrase ('To get a good grade'). ประธานของประโยคหลักคือ 'the exam' ซึ่งไม่สามารถ 'get a good grade' ได้ ควรเป็น 'To get a good grade, you must study for the exam diligently.'"
+      },
+      {
+        "question": "Correct the dangling modifier: 'Strolling through the park, the majestic fountain was awe-inspiring.'",
+        "options": [
+          "A. The majestic fountain was awe-inspiring, strolling through the park.",
+          "B. Strolling through the park, we found the majestic fountain awe-inspiring.",
+          "C. The majestic fountain, strolling through the park, was awe-inspiring.",
+          "D. The sentence is correct as is."
+        ],
+        "answer": "B",
+        "explanation": "ประโยคเดิมมี Dangling Modifier เพราะ 'fountain' ไม่ได้เป็นผู้ 'strolling' ข้อ B แก้ไขโดยใส่ประธาน 'we' เข้าไปในประโยคหลัก ทำให้ 'we' เป็นผู้ที่กำลังเดินในสวนสาธารณะอย่างถูกต้อง"
+      },
+      {
+        "question": "Which sentence has a misplaced modifier that creates a confusing or humorous image?",
+        "options": [
+          "A. The suspect was described as a tall man with a beard weighing 200 pounds.",
+          "B. We rented a small cabin by the lake for our vacation.",
+          "C. The new software, which promises to boost productivity, is now available.",
+          "D. Having considered all options, the committee made a final decision."
+        ],
+        "answer": "A",
+        "explanation": "ข้อ A สร้างภาพที่น่าขำ วลี 'weighing 200 pounds' ควรจะขยาย 'man' แต่กลับวางไว้ติดกับ 'beard' (หนวด) ทำให้ดูเหมือนว่าหนวดหนัก 200 ปอนด์ ควรแก้เป็น 'The suspect was described as a tall man, weighing 200 pounds, with a beard.'"
+      }
+    ]
+  }
+]

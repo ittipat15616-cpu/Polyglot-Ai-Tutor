@@ -1,0 +1,1126 @@
+[
+  {
+    "id": "41_1",
+    "title": "41.1 Nominal Substitution (one, ones)",
+    "explanation": "Nominal Substitution คือการใช้คำมาแทนที่คำนาม (Noun) หรือกลุ่มคำนาม (Noun Phrase) ที่กล่าวถึงไปแล้ว เพื่อหลีกเลี่ยงการพูดซ้ำซาก ทำให้ภาษาสละสลวยและเป็นธรรมชาติยิ่งขึ้น โดยคำที่ใช้แทนที่ในบทนี้คือ 'one' (สำหรับนามนับได้เอกพจน์) และ 'ones' (สำหรับนามนับได้พหูพจน์)\n\n**แก่นสำคัญที่ต้องเข้าใจในระดับ C1-C2:**\n\n1.  **ความแตกต่างระหว่าง 'one' และ 'it'**: นี่คือหัวใจหลักที่ต้องแยกให้ออก\n    *   **one**: ใช้แทนคำนามที่ไม่เจาะจง หมายถึง 'ของชิ้นใหม่แต่อยู่ในประเภทเดียวกัน' (a new instance of the same class) เปรียบเสมือนการพูดว่า 'อันหนึ่ง', 'สักอันหนึ่ง'\n    *   **it**: ใช้แทนคำนามที่ชี้เฉพาะเจาะจง หมายถึง 'ของชิ้นเดิมอันนั้นเป๊ะๆ' (the exact same, specific thing) ที่เพิ่งพูดถึงไป\n    *   ตัวอย่าง: \"I lost my umbrella. I need to buy a new **one**.\" (ร่มคันเก่าหาย ต้องซื้อคันใหม่ *ประเภทเดียวกัน*) vs. \"I left my umbrella at the restaurant. I hope I can go back and find **it**.\" (ลืมร่มไว้ที่ร้าน หวังว่าจะกลับไปเจอ *คันเดิมอันนั้น*)\n\n2.  **โครงสร้างและการละ 'one/ones' (Ellipsis)**: 'one/ones' มักจะตามหลังคำคุณศัพท์ (adjective) หรือคำนำหน้านาม (determiner) เช่น `the blue one`, `a cheaper one`, `these ones`. แต่ในระดับสูง เรามักจะ **ละ (omit)** 'one/ones' ได้ในกรณีต่อไปนี้เพื่อให้ประโยคกระชับขึ้น:\n    *   หลังคำคุณศัพท์ขั้นสูงสุด (Superlatives): `Of all the cars, I like the fastest (one).`\n    *   หลังลำดับที่ (Ordinals): `The first chapter was dull, but the second (one) was brilliant.`\n    *   หลัง `which`, `next`, `last`, `either`, `neither`, `another`: `Which (one) do you prefer?`\n\n3.  **กฎเหล็ก: ข้อห้ามใช้ 'one/ones'**: นี่คือจุดที่แม้แต่ผู้เรียนระดับสูงก็ยังพลาดได้\n    *   **ห้ามใช้กับคำนามนับไม่ได้ (Uncountable Nouns)**: กฎนี้สำคัญที่สุด! เราไม่สามารถใช้ 'one' แทน `information`, `advice`, `water`, `luggage`, `research` ฯลฯ ได้เด็ดขาด\n        *   ผิด: I prefer sparkling water to still *one*.\n        *   ถูก: I prefer sparkling water to still *water*.\n    *   **ห้ามใช้หลัง Possessive Pronouns (`my`, `your`, `his`...)**: ในภาษาเขียนที่เป็นทางการ เราจะใช้ `mine`, `yours`, `his`, `hers` แทนการพูดว่า `my one`, `your one`.\n        *   ผิด: My analysis of the situation differs from *your one*.\n        *   ถูก: My analysis of the situation differs from *yours*.\n    *   **หลีกเลี่ยงการใช้กับนามธรรม (Abstract Nouns)**: แม้ไม่มีกฎตายตัว แต่การใช้ 'one' แทนคำนามธรรม เช่น `understanding`, `knowledge`, `patience` มักจะฟังดูไม่เป็นธรรมชาติอย่างยิ่ง ควรเลี่ยงโดยการใช้คำนามนั้นซ้ำหรือปรับโครงสร้างประโยค",
+    "examples": [
+      {
+        "eng": "The consultant recommended a bespoke software solution, but the board opted for a pre-packaged one to save costs, hoping it would be sufficient.",
+        "thai": "ที่ปรึกษาได้แนะนำซอฟต์แวร์ที่ออกแบบขึ้นโดยเฉพาะ แต่คณะกรรมการเลือกโซลูชันแบบสำเร็จรูป (a pre-packaged one) เพื่อประหยัดค่าใช้จ่าย โดยหวังว่ามัน (it) จะเพียงพอ\nคำอธิบาย: 'one' ในที่นี้หมายถึง 'โซลูชันอันใหม่' ซึ่งเป็นประเภทสำเร็จรูป ไม่ใช่โซลูชันอันเดิมที่ถูกแนะนำ ส่วน 'it' หมายถึง 'โซลูชันสำเร็จรูปอันนั้น' ที่คณะกรรมการได้เลือกไปแล้ว"
+      },
+      {
+        "eng": "Of the two philosophical treatises, I found the earlier (one) far more accessible than the latter, which was notoriously abstruse.",
+        "thai": "ในบรรดาตำราปรัชญาสองเล่ม ฉันพบว่าเล่มแรก (the earlier (one)) เข้าใจง่ายกว่าเล่มหลังมาก ซึ่งเล่มหลังนั้นขึ้นชื่อว่าลึกซึ้งจนเข้าใจยาก\nคำอธิบาย: ในระดับสูง เราสามารถละ 'one' หลังคำว่า 'earlier' ซึ่งทำหน้าที่คล้ายลำดับที่ได้ ทำให้ประโยคกระชับและเป็นธรรมชาติมากขึ้น"
+      },
+      {
+        "eng": "He requested esoteric knowledge, not the rudimentary information available to the public.",
+        "thai": "เขาต้องการความรู้ที่ลึกลับซับซ้อน (esoteric knowledge) ไม่ใช่ข้อมูลพื้นฐาน (rudimentary information) ที่คนทั่วไปเข้าถึงได้\nคำอธิบาย: 'knowledge' และ 'information' เป็นนามนับไม่ได้ จึงไม่สามารถใช้ 'not the rudimentary one' แทนได้เด็ดขาด ต้องพูดคำนามซ้ำหรือหาทางเรียบเรียงประโยคใหม่"
+      },
+      {
+        "eng": "Her research methodology is groundbreaking, but his is considered more conventional.",
+        "thai": "ระเบียบวิธีวิจัยของเธอถือเป็นการบุกเบิกสิ่งใหม่ แต่ของเขา (his) ถูกมองว่าตามแบบแผนมากกว่า\nคำอธิบาย: เราใช้ 'his' (possessive pronoun) เพื่อแทน 'his methodology' จะไม่พูดว่า 'his one' เพราะฟังดูไม่เป็นธรรมชาติอย่างยิ่งในบริบททางวิชาการและเป็นทางการ"
+      }
+    ],
+    "common_mistakes": "- **ใช้ 'one/ones' กับนามนับไม่ได้**: นี่คือข้อผิดพลาดที่พบบ่อยและร้ายแรงที่สุด เช่น พูดว่า 'I need more information, a detailed one.' ที่ถูกต้องคือ '...detailed information.' หรือ '...a detailed account.'\n- **สับสนระหว่าง 'one' กับ 'it'**: การใช้สลับกันจะทำให้ความหมายผิดเพี้ยนไปโดยสิ้นเชิง เช่น 'My laptop is broken, so the company gave me a new one.' (บริษัทให้เครื่องใหม่มา 1 เครื่อง) vs. 'My laptop is broken, so I took it to be repaired.' (เอาเครื่องเดิมไปซ่อม)\n- **ใช้ 'my one', 'your one' แทน 'mine', 'yours'**: เป็นการใช้ที่ผิดหลักไวยากรณ์ในภาษาเขียนที่เป็นทางการ แม้จะพบได้บ้างในภาษาพูดที่ไม่เป็นทางการก็ตาม เช่น ผิด: 'This interpretation is mine, what is your one?' ถูก: '...what is yours?'\n- **ลืมเติม 'one' หลังคำคุณศัพท์**: ในกรณีที่ไม่สามารถละ 'one' ได้ การพูดแค่คำคุณศัพท์โดดๆ จะผิดไวยากรณ์ เช่น ผิด: 'I don’t want the large coffee, I’ll have the small.' ถูก: '...I’ll have the small one.'",
+    "practice_questions": [
+      {
+        "question": "The company is seeking innovative solutions to its logistical conundrum, not merely derivative ______ that have been tried before.",
+        "options": [
+          "A. ones",
+          "B. one",
+          "C. it",
+          "D. solutions"
+        ],
+        "answer": "A",
+        "explanation": "คำนามที่ถูกแทนคือ 'solutions' ซึ่งเป็นพหูพจน์ ดังนั้นคำที่ใช้แทน (substitute) จึงต้องเป็นพหูพจน์คือ 'ones' ข้อ B 'one' เป็นเอกพจน์จึงผิด ข้อ C 'it' ใช้แทนคำนามเอกพจน์ที่เจาะจงซึ่งไม่เข้ากับบริบทนี้ ส่วนข้อ D 'solutions' แม้จะถูกไวยากรณ์ แต่การใช้ 'ones' จะช่วยหลีกเลี่ยงการใช้คำซ้ำและเป็นธรรมชาติกว่าตามหลัก Ellipsis & Substitution"
+      },
+      {
+        "question": "I was given a great deal of sophisticated financial advice, but I found the ______ offered by the seasoned expert to be the most insightful.",
+        "options": [
+          "A. one",
+          "B. ones",
+          "C. advice",
+          "D. that"
+        ],
+        "answer": "C",
+        "explanation": "นี่คือกับดักคลาสสิก! คำว่า 'advice' เป็นคำนามนับไม่ได้ (Uncountable Noun) ดังนั้นเราจึงไม่สามารถใช้ 'one' หรือ 'ones' มาแทนที่ได้เด็ดขาด วิธีที่ถูกต้องที่สุดในบริบทนี้คือการใช้คำนามเดิมซ้ำคือ 'advice' ตัวเลือก D 'that' สามารถใช้ได้ในโครงสร้าง 'that which was offered' แต่เมื่อเป็นตัวเลือกเดี่ยวๆ 'advice' จะสมบูรณ์และถูกต้องที่สุด"
+      },
+      {
+        "question": "The initial prototype was functional but aesthetically displeasing. The design team is now working on a much sleeker ______, and they expect ______ to be ready for presentation by next week.",
+        "options": [
+          "A. one / it",
+          "B. it / one",
+          "C. one / one",
+          "D. it / it"
+        ],
+        "answer": "A",
+        "explanation": "ช่องว่างแรกพูดถึง 'prototype อันใหม่' ที่มีคุณสมบัติ 'sleeker' จึงต้องใช้ 'one' เพื่อแทน 'a new prototype' ช่องว่างที่สองพูดถึง 'prototype อันใหม่ที่เพรียวบางอันนั้น' ที่กำลังทำอยู่ ซึ่งเป็นการชี้เฉพาะเจาะจง จึงต้องใช้ 'it' เพื่ออ้างถึงสิ่งนั้น"
+      },
+      {
+        "question": "Among all the manuscripts scrutinized by the palaeographer, the medieval ______ was deemed the most historically significant.",
+        "options": [
+          "A. one is",
+          "B. one",
+          "C. which",
+          "D. it"
+        ],
+        "answer": "B",
+        "explanation": "ในที่นี้ 'one' ถูกใช้เพื่อแทนคำว่า 'manuscript' ในโครงสร้าง 'the medieval manuscript' กลายเป็น 'the medieval one' เพื่อหลีกเลี่ยงการพูดซ้ำ ประโยคมีกริยาแท้ 'was deemed' อยู่แล้ว ดังนั้นข้อ A 'one is' จึงผิดเพราะมีกริยาซ้อน"
+      },
+      {
+        "question": "My assessment of the geopolitical situation is admittedly pessimistic; I wonder if ______ is more sanguine.",
+        "options": [
+          "A. your",
+          "B. yours",
+          "C. your one",
+          "D. the one of you"
+        ],
+        "answer": "B",
+        "explanation": "เพื่อหลีกเลี่ยงการพูดซ้ำว่า 'your assessment' เราใช้ Possessive Pronoun คือ 'yours' ซึ่งมีความหมายว่า 'ของเธอ/ของคุณ' (your assessment) ได้ในตัวเอง ข้อ C 'your one' เป็นโครงสร้างที่ผิดไวยากรณ์ในภาษาเขียนที่เป็นทางการ ส่วนข้อ A 'your' เป็น Possessive Adjective ต้องมีคำนามตามหลังเสมอ"
+      },
+      {
+        "question": "The archeologists unearthed several artifacts, but the first ______ they found remains the most enigmatic.",
+        "options": [
+          "A. artifact",
+          "B. one",
+          "C. it",
+          "D. of which"
+        ],
+        "answer": "B",
+        "explanation": "หลังคำลำดับที่ (Ordinal) เช่น 'first', 'second', 'last' เราสามารถใช้ 'one' เพื่อแทนคำนามที่กล่าวถึงก่อนหน้าได้ (ในที่นี้คือ 'artifact') ในขณะเดียวกัน เราสามารถละ 'one' ในบริบทนี้ได้เช่นกัน ('the first they found') แต่เมื่อมี 'one' เป็นตัวเลือก ก็ถือเป็นคำตอบที่ถูกต้องและสมบูรณ์"
+      },
+      {
+        "question": "She has a profound understanding of quantum mechanics, a level of erudition that her colleagues, despite their efforts, have yet to acquire a comparable ______.",
+        "options": [
+          "A. understanding",
+          "B. one",
+          "C. it",
+          "D. ones"
+        ],
+        "answer": "A",
+        "explanation": "คำว่า 'understanding' เป็นนามธรรม (Abstract Noun) การใช้ 'one' เพื่อแทนที่นามธรรมในลักษณะนี้มักจะฟังดูประดักประเดิดและไม่เป็นธรรมชาติอย่างยิ่ง วิธีที่ชัดเจนและถูกต้องที่สุดคือการใช้คำนามเดิมซ้ำคือ 'understanding' ข้อนี้ทดสอบข้อยกเว้นในการใช้ 'one'"
+      },
+      {
+        "question": "Faced with two equally unpalatable options, the protagonist had to choose the lesser of two evils, a choice he knew would haunt him, whichever ______ he made.",
+        "options": [
+          "A. one",
+          "B. it",
+          "C. of them",
+          "D. that"
+        ],
+        "answer": "A",
+        "explanation": "หลังคำว่า 'whichever' เรานิยมใช้ 'one' เพื่ออ้างถึงคำนามที่เป็นตัวเลือก (ในที่นี้คือ 'choice' หรือ 'option') โครงสร้างเต็มๆ คือ 'whichever choice he made' ซึ่ง 'one' เข้ามาแทนที่ 'choice' ได้อย่างสมบูรณ์"
+      },
+      {
+        "question": "The critics lambasted his latest novel, calling it derivative, but I found it far more compelling than his previous ______.",
+        "options": [
+          "A. one",
+          "B. ones",
+          "C. it",
+          "D. them"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้เปรียบเทียบ 'latest novel' (นวนิยายเล่มล่าสุด - เอกพจน์) กับ 'previous...' ซึ่งโดยนัยหมายถึง 'นวนิยายเล่มก่อนๆ' (หลายเล่ม - พหูพจน์) ดังนั้นจึงต้องใช้คำสรรพนามแทนที่ที่เป็นพหูพจน์คือ 'ones'"
+      },
+      {
+        "question": "The system requires a sophisticated encryption algorithm; the generic ______ that comes with the software is utterly inadequate for our security needs.",
+        "options": [
+          "A. it",
+          "B. algorithm",
+          "C. which",
+          "D. one"
+        ],
+        "answer": "D",
+        "explanation": "นี่คือตัวอย่างการใช้งานแบบคลาสสิก 'one' ถูกใช้แทน 'algorithm' ในวลี 'the generic one' ซึ่งย่อมาจาก 'the generic algorithm' เพื่อหลีกเลี่ยงการพูดคำว่า 'algorithm' ซ้ำ การใช้ 'it' จะหมายถึง 'algorithm' ที่ซับซ้อนที่กล่าวถึงในตอนแรก ซึ่งขัดแย้งกับคำว่า 'generic' (พื้นๆ ทั่วไป)"
+      }
+    ]
+  },
+  {
+    "id": "41_2",
+    "title": "41.2 Verbal Substitution (do, does, did)",
+    "explanation": "Verbal Substitution คือการใช้คำกริยาช่วย (Auxiliary Verb) มาแทนที่คำกริยาหลัก (Main Verb) หรือทั้งวลี (Verb Phrase) ที่ถูกกล่าวถึงไปแล้ว เพื่อหลีกเลี่ยงการพูดซ้ำซาก ทำให้ประโยคกระชับและเป็นธรรมชาติมากขึ้น สำหรับ 'do', 'does', และ 'did' จะถูกใช้แทน 'Action Verbs' (กริยาแสดงการกระทำ) เท่านั้น\n\n**แก่นหลัก (Core Concept):**\n- **do/does** ใช้แทนกริยาในรูป Present Simple Tense\n- **did** ใช้แทนกริยาในรูป Past Simple Tense\n- การเลือกใช้ do หรือ does ขึ้นอยู่กับประธาน (I/You/We/They do, He/She/It does)\n\n**การใช้งานในระดับสูง (C1-C2 Nuances):**\n1.  **แทน Verb Phrase ที่ซับซ้อน:** ในระดับสูง 'do/does/did' ไม่ได้แทนแค่คำกริยาคำเดียว แต่สามารถแทนทั้งวลีที่ซับซ้อนได้ เช่น \"They meticulously planned to overhaul the entire infrastructure, and they ultimately *did*.\" (did แทน 'meticulously planned to overhaul the entire infrastructure')\n\n2.  **ในประโยคเปรียบเทียบ (Comparisons):** ใช้เพื่อทำให้การเปรียบเทียบกระชับขึ้น \"She navigates corporate politics with more finesse than her predecessor *did*.\" (เธอรับมือกับการเมืองในองค์กรได้ดีกว่าคนก่อนหน้าของเธอ)\n\n3.  **หลัง Adverbs:** มักใช้ตามหลัง Adverb เพื่อเน้นย้ำหรือแสดงความตรงกันข้าม \"He seldom expresses his opinion, but when he *does*, everyone listens.\" (เขาไม่ค่อยแสดงความเห็น แต่เมื่อเขาแสดงความเห็นขึ้นมา ทุกคนก็ตั้งใจฟัง)\n\n4.  **ในโครงสร้างเน้นย้ำและตอบรับ/ปฏิเสธ:** แม้หน้าที่หลักคือการแทนที่ แต่ก็มักจะมาพร้อมกับการเน้นย้ำ (Emphasis) ไปในตัว\n    - \"You didn't submit the quarterly report.\" - \"I assure you, I *did*.\" (did แทน 'submit the quarterly report' และเน้นว่าทำไปแล้วจริงๆ)\n\n5.  **ข้อควรระวัง: ห้ามใช้แทน State Verbs:** 'do/does/did' ใช้แทน Action Verbs เท่านั้น ห้ามใช้แทน State Verbs (เช่น be, seem, have (ที่แปลว่ามี), know, believe) หรือ Modal Verbs (can, should, will) โดยเด็ดขาด ในกรณีเหล่านี้ เราจะใช้ตัวกริยานั้นๆ ซ้ำเลย\n    - *ผิด:* He is ready, and she *does* too. -> *ถูก:* He is ready, and she *is* too.\n    - *ผิด:* I thought he knew the answer, but he *didn't*. (ในที่นี้ 'know' เป็น state verb แต่ 'did not know' เป็นสำนวนที่ยอมรับได้ในการปฏิเสธ การใช้ did แทน know ในเชิงบอกเล่าจะฟังดูแปลกกว่า เช่น *'I know the answer and he does too'* จะไม่เป็นธรรมชาติเท่า *'I know the answer and so does he'*)\n\nการใช้ Verbal Substitution ได้อย่างคล่องแคล่วเป็นเครื่องหมายของผู้ใช้ภาษาอังกฤษระดับสูง เพราะมันแสดงถึงความเข้าใจในโครงสร้างประโยคอย่างลึกซึ้งและความสามารถในการสื่อสารอย่างมีประสิทธิภาพและสละสลวย",
+    "examples": [
+      {
+        "eng": "The incumbent senator promised to reform the judiciary, just as his outspoken predecessor had vowed to do but never actually did.",
+        "thai": "ส.ว. คนปัจจุบันให้สัญญาว่าจะปฏิรูปกระบวนการยุติธรรม เช่นเดียวกับที่คนก่อนหน้าเขาซึ่งเป็นคนพูดตรงๆ เคยสาบานไว้ว่าจะทำ แต่ก็ไม่เคยได้ทำจริงๆ เลย\n- 'did' ในที่นี้แทน verb phrase ทั้งหมดคือ 'reform the judiciary' ช่วยให้ไม่ต้องพูดซ้ำในส่วนท้ายของประโยคที่ซับซ้อนนี้"
+      },
+      {
+        "eng": "She meticulously scrutinizes every detail of the financial reports, far more so than any of her colleagues currently do.",
+        "thai": "เธอตรวจสอบทุกรายละเอียดของรายงานทางการเงินอย่างพิถีพิถัน ซึ่งมากกว่าที่เพื่อนร่วมงานคนใดของเธอทำอยู่ในปัจจุบันอย่างมาก\n- 'do' แทน 'meticulously scrutinize every detail of the financial reports' ในประโยคเปรียบเทียบ ทำให้เห็นความแตกต่างของการกระทำอย่างชัดเจน"
+      },
+      {
+        "eng": "One might assume that he would capitulate under such immense pressure, but historical precedents suggest he will do anything but.",
+        "thai": "คนอาจจะคิดว่าเขาจะยอมจำนนภายใต้แรงกดดันมหาศาลขนาดนั้น แต่กรณีศึกษาในอดีตชี้ให้เห็นว่าเขาจะทำทุกอย่างยกเว้นการยอมจำนน\n- ประโยคนี้ซับซ้อนขึ้นไปอีก 'do anything but' เป็นสำนวน แปลว่า 'ไม่ทำสิ่งนั้นเด็ดขาด' ในที่นี้ 'do' ไม่ได้แทนกริยาตรงๆ แต่เป็นส่วนหนึ่งของโครงสร้างที่ละกริยา 'capitulate' เอาไว้ให้เข้าใจจากบริบท"
+      },
+      {
+        "eng": "They implored him to reconsider his resignation. He said he would, although we all knew he probably wouldn't.",
+        "thai": "พวกเขาขอร้องให้เขาทบทวนการลาออกของเขาอีกครั้ง เขาบอกว่าจะทำ (จะทบทวน) ถึงแม้ว่าพวกเราทุกคนจะรู้ว่าเขาคงจะไม่ทำ\n- ประโยคนี้ใช้ Modal verb 'would' และ 'wouldn't' แทน 'reconsider his resignation' ไม่ได้ใช้ do/did เพราะกริยาช่วยตัวแรกคือ Modal verb การแทนที่จึงต้องใช้ Modal verb ตัวเดิม"
+      }
+    ],
+    "common_mistakes": "- **ใช้ do/does/did แทน 'to be'**: นี่คือข้อผิดพลาดที่พบบ่อยที่สุด แม้ในผู้เรียนระดับสูง เช่น พูดว่า \"The results are inconclusive, and the previous findings *did* too.\" ที่ถูกต้องคือ \"...and the previous findings *were* too.\" ต้องจำให้ขึ้นใจว่า do/does/did ใช้แทน 'Action Verbs' เท่านั้น\n- **ใช้ Tense ผิด**: ในประโยคเปรียบเทียบที่ซับซ้อน อาจสับสนเรื่อง Tense ได้ง่าย เช่น \"He now handles crises more effectively than he *does* in his early years.\" ที่ถูกต้องคือ \"...than he *did* in his early years.\" เพราะเรากำลังเปรียบเทียบปัจจุบัน ('now handles') กับอดีต ('in his early years')\n- **ลืมเปลี่ยนรูปตามประธานในประโยคซ้อน**: เช่น \"Everyone acknowledges the problem, but only a handful of policymakers *do* anything about it.\" ที่ถูกต้องคือ \"...only a handful of policymakers *do*...\" เพราะประธานคือ 'a handful of policymakers' (พหูพจน์) แต่ถ้าเปลี่ยนเป็น \"...but the president *do* nothing.\" จะผิดทันที ต้องเป็น \"...the president *does* nothing.\"\n- **ใช้แทนกริยาที่ตามด้วย Gerund/Infinitive อย่างไม่ถูกต้อง**: เมื่อกริยาหลักตามด้วย V-ing หรือ to+V, การใช้ do/did แทนอาจทำให้ความหมายเปลี่ยนหรือฟังดูไม่เป็นธรรมชาติ ควรพิจารณาใช้ so + aux + S หรือย่อรูปแบบอื่นแทน เช่น 'She loves hiking and he does too.' (ถูกต้อง) แต่ถ้า 'She suggested leaving early, and he did too.' อาจกำกวมว่าเขา 'suggested' หรือ 'left early' กันแน่",
+    "practice_questions": [
+      {
+        "question": "The board expected the new CEO to prevaricate when questioned about the fiscal discrepancies, but much to their astonishment, she ______.",
+        "options": [
+          "A. did not",
+          "B. has not",
+          "C. was not",
+          "D. does not"
+        ],
+        "answer": "A",
+        "explanation": "คำตอบที่ถูกต้องคือ 'did not' เพราะมันใช้แทนกริยาในอดีต 'prevaricate' (พูด укщ evasively) จากประโยคส่วนแรก ('The board expected...') ซึ่งอยู่ในรูป Past Tense 'did not' จึงเป็นรูปที่สอดคล้องกับ Tense ดังกล่าว 'has not' เป็น Present Perfect, 'was not' ใช้กับกริยา to be หรือ V-ing, และ 'does not' เป็น Present Simple ซึ่งไม่เข้ากับบริบทของเหตุการณ์ในอดีต"
+      },
+      {
+        "question": "He meticulously catalogues every artifact, a task his predecessor only ______ perfunctorily.",
+        "options": [
+          "A. does",
+          "B. has done",
+          "C. did",
+          "D. would do"
+        ],
+        "answer": "C",
+        "explanation": "คำตอบที่ถูกต้องคือ 'did' เนื่องจากเป็นการเปรียบเทียบการกระทำในปัจจุบัน ('catalogues') กับการกระทำในอดีตของคนก่อนหน้า ('his predecessor') ดังนั้นจึงต้องใช้ Past Simple Tense (did) เพื่อแทนกริยา 'catalogued' ในความหมายแฝง 'did' ในที่นี้แทน 'catalogued every artifact'"
+      },
+      {
+        "question": "The opposition claims our policy will exacerbate socioeconomic inequality, and frankly, all empirical evidence suggests it ______.",
+        "options": [
+          "A. does",
+          "B. will",
+          "C. is",
+          "D. did"
+        ],
+        "answer": "B",
+        "explanation": "ข้อนี้เป็นข้อยกเว้นที่ท้าทาย! แม้ว่ากริยาหลักคือ 'exacerbate' ซึ่งเป็น Action Verb แต่ประโยคแรกใช้ Modal Verb 'will' ('our policy will exacerbate') ดังนั้นการแทนที่ (Substitution) ที่ถูกต้องที่สุดคือการใช้ Modal Verb ตัวเดิมคือ 'will' เพื่อรักษานัยของอนาคต ('it will [exacerbate socioeconomic inequality]') การใช้ 'does' จะเปลี่ยนความหมายเป็นเรื่องที่เกิดขึ้นเป็นประจำในปัจจุบัน ซึ่งไม่ตรงกับบริบท"
+      },
+      {
+        "question": "It was presumed that the diplomat would equivocate, but when pressed for a definitive answer, he refused to ______ so.",
+        "options": [
+          "A. do",
+          "B. be",
+          "C. have",
+          "D. make"
+        ],
+        "answer": "A",
+        "explanation": "โครงสร้าง 'refused to do so' เป็นวิธีที่สละสลวยในการแทนกริยาที่กล่าวไปก่อนหน้า ในที่นี้ 'do so' แทน 'equivocate' (พูดกำกวม) ตัวเลือกอื่นไม่สามารถใช้ในโครงสร้าง 'refuse to ___ so' ในลักษณะนี้ได้"
+      },
+      {
+        "question": "She tackles complex logistical challenges with an alacrity that few of her contemporaries ______.",
+        "options": [
+          "A. do",
+          "B. are",
+          "C. have",
+          "D. can"
+        ],
+        "answer": "A",
+        "explanation": "คำตอบคือ 'do' เพื่อแทนกริยา 'tackle complex logistical challenges' ประธานของส่วนที่สองคือ 'few of her contemporaries' ซึ่งเป็นพหูพจน์ และ Tense ของประโยคหลักคือ Present Simple ('tackles') ดังนั้น 'do' จึงเป็นตัวเลือกที่ถูกต้องตามหลักไวยากรณ์ทั้งประธานและกาล"
+      },
+      {
+        "question": "Many constituents feel their representative no longer advocates for their interests as ardently as he ______ when he was first elected.",
+        "options": [
+          "A. does",
+          "B. had",
+          "C. was",
+          "D. did"
+        ],
+        "answer": "D",
+        "explanation": "คำตอบที่ถูกต้องคือ 'did' เพราะเป็นการเปรียบเทียบการกระทำในปัจจุบัน ('no longer advocates') กับการกระทำในอดีต ('when he was first elected') 'did' ในที่นี้จึงใช้แทน 'advocated for their interests'"
+      },
+      {
+        "question": "The lawyer advised his client to cease all communication with the media, which, against all odds, he promptly ______.",
+        "options": [
+          "A. did",
+          "B. has done",
+          "C. made",
+          "D. was"
+        ],
+        "answer": "A",
+        "explanation": "คำตอบคือ 'did' เพื่อแทน Verb Phrase 'cease all communication with the media' เหตุการณ์ในประโยค ('advised', 'did') เป็นอดีต ดังนั้นการใช้ Past Simple (did) จึงถูกต้องและสอดคล้องกัน"
+      },
+      {
+        "question": "While the professor's earlier works were lauded for their erudition, his more recent publications ______ not seem to garner the same level of acclaim.",
+        "options": [
+          "A. have",
+          "B. are",
+          "C. did",
+          "D. do"
+        ],
+        "answer": "D",
+        "explanation": "ข้อนี้ทดสอบความเข้าใจเรื่อง State Verb คำกริยาในที่นี้คือ 'seem' ซึ่งเป็น State Verb เราไม่สามารถใช้ 'do/does/did' มาเป็นกริยาช่วยในประโยคปฏิเสธของ 'seem' ได้โดยตรง (ยกเว้นในกรณีเน้นย้ำมากๆ ซึ่งต่างออกไป) แต่ในที่นี้ 'do not seem' เป็นโครงสร้างมาตรฐานของ Present Simple Tense ในรูปปฏิเสธ ประธานคือ 'publications' (พหูพจน์) จึงต้องใช้ 'do'"
+      },
+      {
+        "question": "A: 'You never fully elucidated your rationale for the budget cuts.'\nB: 'On the contrary, I believe I ______ quite comprehensively during the last plenary session.'",
+        "options": [
+          "A. have",
+          "B. was",
+          "C. did",
+          "D. do"
+        ],
+        "answer": "C",
+        "explanation": "คำตอบคือ 'did' เพื่อตอบโต้และแทนที่กริยา 'elucidated' จากคำพูดของ A ซึ่งเป็น Past Tense ('elucidated') การตอบกลับจึงต้องใช้ Tense เดียวกันคือ 'did' ซึ่งในที่นี้ย่อมาจาก 'I did elucidate my rationale...'"
+      },
+      {
+        "question": "The algorithm consistently outperforms its predecessor, just as the developers predicted it ______.",
+        "options": [
+          "A. does",
+          "B. did",
+          "C. would",
+          "D. has"
+        ],
+        "answer": "C",
+        "explanation": "ข้อนี้เป็นกรณีพิเศษอีกข้อหนึ่ง ประโยคหลักอยู่ใน Present Tense ('outperforms') แต่ส่วนหลังกล่าวถึงคำทำนายในอดีต ('predicted') เกี่ยวกับสิ่งที่จะเกิดขึ้นในอนาคต (จากมุมมองของอดีต) ดังนั้นจึงต้องใช้ 'would' เพื่อแทน 'would outperform' การใช้ 'did' จะหมายถึง 'predicted it did [outperform]' ซึ่งผิดไวยากรณ์ และ 'does' จะไม่สอดคล้องกับ Tense ของ 'predicted'"
+      }
+    ]
+  },
+  {
+    "id": "41_3",
+    "title": "41.3 Clausal Substitution (so, not เช่น I hope so)",
+    "explanation": "Clausal Substitution คือสุดยอดเครื่องมือทางภาษาที่ช่วยให้การสื่อสารกระชับและเป็นธรรมชาติเหมือนเจ้าของภาษา โดยใช้คำว่า 'so' หรือ 'not' เข้ามาแทนที่อนุประโยค (clause) ทั้งหมดที่ผู้ฟังหรือผู้อ่านเข้าใจอยู่แล้วจากบริบท เพื่อหลีกเลี่ยงการพูดหรือเขียนซ้ำซาก\n\n**1. การใช้ 'so' แทนอนุประโยคเชิงบอกเล่า (Positive Clause)**\n\n'so' ถูกใช้เพื่อแทนที่ 'that-clause' ที่เป็นประโยคบอกเล่า โดยมักจะตามหลังกริยาที่เกี่ยวข้องกับความคิด การรับรู้ และการรายงาน (verbs of thinking, knowing, reporting) เช่น think, believe, hope, expect, suppose, imagine, guess, fear, say, tell, be afraid\n\nโครงสร้าง: Subject + Verb + so\nตัวอย่าง: \"Will the economic climate improve next year?\" (สภาพเศรษฐกิจจะดีขึ้นไหมปีหน้า)\nคำตอบ: \"All the analysts seem to think so.\" (นักวิเคราะห์ทุกคนดูจะคิดอย่างนั้น)\nในที่นี้ 'so' แทนที่ clause ที่ว่า 'that the economic climate will improve next year' ทั้งหมด\n\n**ความลึกซึ้งระดับ C1-C2:**\n*   **การใช้เพื่อเน้นย้ำ (Emphasis):** 'so' สามารถวางไว้ต้นประโยคเพื่อยืนยันหรือเน้นย้ำสิ่งที่เพิ่งพูดไป มักใช้ในโครงสร้าง 'and so + auxiliary verb + subject' หรือ 'and so it is/was'.\n    *   \"He claimed he had deciphered the ancient manuscript, and so he had.\" (เขาอ้างว่าถอดรหัสเอกสารโบราณได้ และเขาก็ทำได้จริงๆ)\n*   **กริยาที่ไม่นิยมใช้กับ 'so':** แม้กฎจะบอกว่าใช้กับ verbs of knowing แต่ในภาษาอังกฤษปัจจุบัน เราไม่นิยมพูดว่า \"I know so.\" หรือ \"I'm sure so.\" เพื่อตอบรับ แต่จะพูดว่า \"I know.\" หรือ \"Yes, I'm sure.\" แทน ส่วนคำว่า 'doubt' จะใช้กับ 'it' -> \"I doubt it.\"\n\n**2. การใช้ 'not' แทนอนุประโยคเชิงปฏิเสธ (Negative Clause)**\n\nการแทนที่ clause ที่เป็นปฏิเสธจะซับซ้อนกว่า 'so' เล็กน้อย และมีรูปแบบที่ต้องจดจำเป็นพิเศษ\n\n*   **กลุ่มที่ 1: Negative ที่ Verb หลัก (นิยมที่สุด)**\n    สำหรับกริยาอย่าง think, believe, suppose, expect, imagine เราจะสร้างรูปปฏิเสธที่ตัวกริยาหลัก แล้วตามด้วย 'so'\n    *   \"Will the board approve our proposal?\" (บอร์ดจะอนุมัติข้อเสนอเราไหม)\n    *   \"Honestly, I don't think so.\" (พูดตามตรงนะ ฉันไม่คิดว่าอย่างนั้น) -> นิยมและเป็นธรรมชาติกว่า \"I think not.\"\n\n*   **กลุ่มที่ 2: ใช้ 'not' ต่อท้ายโดยตรง**\n    สำหรับกริยาอย่าง hope, be afraid, guess เราจะใช้ 'not' ตามหลังกริยาโดยตรง และห้ามสร้างรูปปฏิเสธที่กริยาหลักเด็ดขาด\n    *   \"Is there any chance of data corruption during the transfer?\" (มีโอกาสที่ข้อมูลจะเสียหายระหว่างถ่ายโอนไหม)\n    *   \"I certainly hope not.\" (ฉันหวังว่าจะไม่นะ) -> **ห้ามพูดว่า** \"I don't hope so.\"\n    *   \"Did we lose the client's account?\" (เราเสียบัญชีลูกค้ารายนั้นไปเหรอ)\n    *   \"I'm afraid so.\" (ใช่ กลัวว่าจะเป็นอย่างนั้น - ยืนยันข่าวร้าย) หรือ \"I'm afraid not.\" (ไม่ กลัวว่าจะไม่เป็นอย่างนั้น - ปฏิเสธข่าวดี เช่น ถามว่า \"เราได้โบนัสไหม\" ตอบ \"I'm afraid not.\")\n\n*   **'I think not' / 'I suppose not':** รูปแบบนี้ถูกต้องตามไวยากรณ์ แต่จะมีความหมายที่เป็นทางการ (formal) มากกว่า และบางครั้งก็ใช้เพื่อแสดงการปฏิเสธที่หนักแน่นและเด็ดขาด มักพบในบริบทที่เป็นทางการ การเขียน หรือการพูดเพื่อเน้นย้ำ",
+    "examples": [
+      {
+        "eng": "A: \"Do you surmise that the new quantum computing algorithm will render current encryption methods obsolete within the decade?\" \nB: \"I'm afraid so. The preliminary findings are quite unequivocal.\"",
+        "thai": "A: \"คุณสันนิษฐานไหมว่าอัลกอริทึมควอนตัมคอมพิวติ้งตัวใหม่จะทำให้วิธีการเข้ารหัสในปัจจุบันล้าสมัยภายในทศวรรษนี้?\"\nB: \"ฉันเกรงว่าจะเป็นเช่นนั้น ผลการวิจัยเบื้องต้นค่อนข้างจะชัดเจนแจ่มแจ้งเลยทีเดียว\"\nคำอธิบาย: 'I'm afraid so' ถูกใช้เพื่อยืนยันความเป็นไปได้ของเหตุการณ์ในแง่ลบ (การเข้ารหัสจะล้าสมัย) โดย 'so' แทนที่ clause ทั้งหมดที่ว่า 'that the new quantum computing algorithm will render current encryption methods obsolete within the decade'."
+      },
+      {
+        "eng": "The lead counsel argued that the evidence was circumstantial at best. The judge, having reviewed the documents meticulously, was inclined to believe so too.",
+        "thai": "หัวหน้าทนายฝ่ายจำเลยแย้งว่าหลักฐานนั้นเป็นเพียงหลักฐานแวดล้อมอย่างดีที่สุด. ผู้พิพากษาซึ่งได้ตรวจสอบเอกสารอย่างพิถีพิถัน ก็มีแนวโน้มที่จะเชื่อเช่นนั้นเช่นกัน.\nคำอธิบาย: 'believe so' ในที่นี้เป็นการหลีกเลี่ยงการพูดซ้ำว่า 'believe that the evidence was circumstantial at best' ทำให้ประโยคกระชับและสละสลวยขึ้น"
+      },
+      {
+        "eng": "A: \"So, are we to assume the peace accord will finally be signed tomorrow?\" \nB: \"One would hope so, but given the protracted nature of these negotiations, I wouldn't be surprised if it wasn't.\"",
+        "thai": "A: \"ถ้าอย่างนั้น เราจะสรุปได้เลยไหมว่าข้อตกลงสันติภาพจะได้รับการลงนามในวันพรุ่งนี้?\"\nB: \"ใครๆ ก็คงหวังเช่นนั้น แต่เมื่อพิจารณาถึงลักษณะที่ยืดเยื้อของการเจรจาเหล่านี้ ฉันก็จะไม่แปลกใจเลยถ้ามันจะไม่เกิดขึ้น\"\nคำอธิบาย: ประโยคนี้แสดงการใช้ 'hope so' ในเชิงแสดงความปรารถนา แต่ผู้พูดก็ตามด้วยความเห็นที่แสดงความไม่แน่นอน เป็นการใช้ภาษาที่ซับซ้อนและเป็นธรรมชาติ"
+      },
+      {
+        "eng": "The CEO had been assured that the hostile takeover bid would fail. And fail it did, but not before causing considerable panic amongst the shareholders. The CFO had predicted it would not, and so it proved.",
+        "thai": "CEO ได้รับการรับรองว่าการพยายามเทคโอเวอร์แบบไม่เป็นมิตรจะล้มเหลว และมันก็ล้มเหลวจริงๆ แต่ก็หลังจากที่สร้างความตื่นตระหนกอย่างมากในหมู่ผู้ถือหุ้นไปแล้ว CFO ได้คาดการณ์ไว้ว่ามันจะไม่สำเร็จ และมันก็พิสูจน์ว่าเป็นเช่นนั้น\nคำอธิบาย: ตัวอย่างนี้ซับซ้อนขึ้นไปอีกขั้น 'predicted it would not' เป็นการใช้ ellipsis อีกรูปแบบหนึ่ง และตามด้วย 'and so it proved' ซึ่ง 'so' ในที่นี้ยืนยันว่าการคาดการณ์ของ CFO นั้นถูกต้อง ('so' แทน 'that the hostile takeover would fail')."
+      }
+    ],
+    "common_mistakes": "- **การใช้ `I don't hope so`:** นี่คือข้อผิดพลาดที่พบบ่อยที่สุด คนไทยมักแปลตรงตัวจาก \"ฉันไม่หวังว่าอย่างนั้น\" ซึ่งผิดหลักไวยากรณ์อย่างสิ้นเชิง รูปที่ถูกต้องคือ `I hope not` เสมอ\n- **ตอบคำถาม Wh-Questions:** Clausal Substitution ด้วย so/not ใช้แทน Yes/No clause เท่านั้น ไม่สามารถใช้ตอบคำถามที่ขึ้นต้นด้วย What, Where, When, Why, Who, How ได้ เช่น ถามว่า \"Why was the meeting cancelled?\" จะตอบว่า \"I don't know so.\" ไม่ได้เด็ดขาด\n- **ใช้ `so` กับ `know` และ `be sure`:** ในภาษาพูดปัจจุบัน เราแทบไม่ใช้ `I know so` หรือ `I'm sure so` การตอบรับที่ถูกต้องและเป็นธรรมชาติคือ `I know.` หรือ `Yes, I am.`\n- **ใช้ `I think not` พร่ำเพรื่อ:** แม้จะถูกต้อง แต่ `I think not` มีความหมายที่ค่อนข้างเป็นทางการและหนักแน่น การใช้ในบทสนทนาทั่วไปอาจทำให้ฟังดูแปลกหรือหยิ่งเกินไป ควรใช้ `I don't think so` เป็นหลัก\n- **สับสนระหว่าง `I'm afraid so` กับ `I'm afraid not`:** `I'm afraid so` ใช้เพื่อ 'ยืนยันข่าวร้าย' (Yes, unfortunately). ส่วน `I'm afraid not` ใช้เพื่อ 'ปฏิเสธข่าวดี' หรือ 'ปฏิเสธคำขอ' (No, unfortunately). เช่น \"Can I take Friday off?\" - \"I'm afraid not.\"",
+    "practice_questions": [
+      {
+        "question": "The meteorologist predicted a catastrophic hurricane, and _______ it proved to be, devastating the entire coastline.",
+        "options": [
+          "A. so",
+          "B. not",
+          "C. as",
+          "D. that"
+        ],
+        "answer": "A",
+        "explanation": "ในบริบทนี้ 'so' ถูกใช้เพื่อเน้นย้ำและยืนยันว่าสิ่งที่คาดการณ์ไว้นั้นเกิดขึ้นจริง 'and so it proved to be' หมายความว่า 'and it really was catastrophic, just as predicted' เป็นโครงสร้างที่ใช้เพื่อการยืนยันอย่างหนักแน่น ข้ออื่นไม่มีความหมายในบริบทนี้"
+      },
+      {
+        "question": "A: 'Is there any minuscule chance that the confidential data was compromised during the security breach?'\nB: 'I sincerely _______.'",
+        "options": [
+          "A. don't hope so",
+          "B. hope not",
+          "C. hope no",
+          "D. not hope"
+        ],
+        "answer": "B",
+        "explanation": "กริยา 'hope' เป็นหนึ่งในกริยาพิเศษที่เมื่อต้องการแทน clause ที่เป็นปฏิเสธ จะต้องใช้โครงสร้าง 'hope + not' เท่านั้น โครงสร้าง 'I don't hope so' เป็นข้อผิดพลาดทางไวยากรณ์ที่พบบ่อยมาก"
+      },
+      {
+        "question": "The dissidents speculated that the regime was on the verge of collapse, but the intelligence reports from our operatives on the ground suggested _______.",
+        "options": [
+          "A. not so",
+          "B. it so",
+          "C. not",
+          "D. otherwise"
+        ],
+        "answer": "D",
+        "explanation": "นี่เป็นคำถามหลอกที่ท้าทายมาก แม้ว่าเราจะเรียนเรื่อง so/not แต่ในบริบทนี้ 'suggested not' จะฟังดูไม่สมบูรณ์ คำว่า 'otherwise' (เป็นอย่างอื่น, ตรงกันข้าม) เหมาะสมที่สุดในการแสดงความขัดแย้งกับสิ่งที่กล่าวมาก่อนหน้า ('suggested otherwise' = a different situation) ในขณะที่ 'suggested not' อาจใช้ได้ในบางกรณี แต่ 'otherwise' สื่อความหมายได้สมบูรณ์และสละสลวยกว่าในระดับ C2"
+      },
+      {
+        "question": "A: 'Does the preliminary injunction effectively halt our competitor's product launch?'\nB: '_______, much to their legal team's chagrin.'",
+        "options": [
+          "A. I'm sure so",
+          "B. I know so",
+          "C. I believe so",
+          "D. I doubt so"
+        ],
+        "answer": "C",
+        "explanation": "กริยา 'be sure' และ 'know' ไม่นิยมใช้กับ 'so' ในการแทนที่ clause ในภาษาอังกฤษปัจจุบัน ส่วน 'doubt' ต้องใช้กับ 'it' ('I doubt it'). ดังนั้น 'I believe so' จึงเป็นคำตอบที่ถูกต้องและเป็นธรรมชาติที่สุดเพื่อแสดงความเชื่อหรือความคิดเห็น"
+      },
+      {
+        "question": "The inquiry sought to determine whether corporate malfeasance was the cause of the financial implosion. The CEO vehemently denied it, but the forensic audit implied _______.",
+        "options": [
+          "A. so",
+          "B. not",
+          "C. it",
+          "D. to"
+        ],
+        "answer": "A",
+        "explanation": "บริบทของประโยคนี้แสดงความขัดแย้ง CEO ปฏิเสธ แต่หลักฐานการตรวจสอบบัญชี 'บ่งชี้เป็นนัยว่าอย่างนั้น' ('implied so') โดย 'so' ในที่นี้แทนที่ clause 'that corporate malfeasance was the cause of the financial implosion' การใช้ 'so' เป็นวิธีที่กระชับที่สุดในการสื่อความหมายนี้"
+      },
+      {
+        "question": "A: 'Might we consider diversifying our portfolio into more volatile emerging markets?'\nB: 'In this precarious economic climate? I _______. The risk is simply untenable.'",
+        "options": [
+          "A. think not",
+          "B. don't think",
+          "C. not think",
+          "D. think no"
+        ],
+        "answer": "A",
+        "explanation": "คำตอบ B 'I don't think' ไม่สมบูรณ์ ต้องเป็น 'I don't think so'. ในขณะที่ 'I think not' เป็นรูปแบบที่ถูกต้องและเหมาะสมอย่างยิ่งในบริบทนี้ ซึ่งเป็นการปฏิเสธที่หนักแน่น เป็นทางการ และเด็ดขาด ('I firmly disagree with that idea') เหมาะสมกับการสนทนาเรื่องธุรกิจที่จริงจัง"
+      },
+      {
+        "question": "Her groundbreaking research was initially met with skepticism from the academic community, but subsequent experiments proved that she had been correct all along, and _______ she was lauded as a pioneer.",
+        "options": [
+          "A. deservedly not",
+          "B. undeservedly so",
+          "C. deservedly so",
+          "D. so deservedly"
+        ],
+        "answer": "C",
+        "explanation": "'deservedly so' เป็นสำนวนที่หมายถึง 'and she deserved it' (และเธอก็สมควรได้รับมัน). 'so' ในที่นี้ทำหน้าที่คล้ายการอ้างอิงถึงการกระทำก่อนหน้า (การได้รับยกย่อง) และ 'deservedly' เป็น adverb ขยายว่าการกระทำนั้นสมควรแล้ว โครงสร้างนี้เป็นวิธีที่สละสลวยในการแสดงความเห็นด้วย"
+      },
+      {
+        "question": "The prosecution presented what they called incontrovertible evidence of guilt. The jury, however, did not think _______ and delivered a verdict of not guilty.",
+        "options": [
+          "A. it",
+          "B. not",
+          "C. so",
+          "D. about it"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้ต้องการคำที่มาแทน clause 'that the evidence was incontrovertible'. รูปแบบปฏิเสธของ 'think' ที่ใช้กันทั่วไปคือ 'do not think so'. 'did not think so' จึงเป็นคำตอบที่ถูกต้องตามหลักไวยากรณ์และเหมาะสมกับบริบทนี้ที่สุด"
+      },
+      {
+        "question": "A: 'Have the peace talks collapsed entirely?'\nB: '_______, but the chief negotiator is clinging to a sliver of hope.'",
+        "options": [
+          "A. I'm afraid not",
+          "B. I don't afraid so",
+          "C. I don't hope so",
+          "D. I'm afraid so"
+        ],
+        "answer": "D",
+        "explanation": "คำถามถามถึงข่าวร้าย (การเจรจาล่มหรือไม่) ส่วนที่สองของคำตอบ ('clinging to a sliver of hope' - ยังมีความหวังเล็กน้อย) บ่งชี้ว่าสถานการณ์ส่วนใหญ่นั้นแย่แล้ว ดังนั้น การตอบเพื่อ 'ยืนยันข่าวร้าย' จึงต้องใช้ 'I'm afraid so' ซึ่งหมายถึง 'Yes, I'm afraid the talks have collapsed'. 'I'm afraid not' จะหมายถึงการเจรจายังไม่ล่ม ซึ่งขัดแย้งกับส่วนที่สองของประโยค"
+      },
+      {
+        "question": "It was presupposed that the antiquated system would be unable to handle the data influx. And unable to handle it, it _______ was, leading to a complete system-wide failure.",
+        "options": [
+          "A. so",
+          "B. indeed",
+          "C. absolutely",
+          "D. not"
+        ],
+        "answer": "B",
+        "explanation": "เป็นคำถามที่ซับซ้อนอีกข้อหนึ่ง โครงสร้าง 'And [adjective/adverb], it was' ใช้เพื่อการเน้นย้ำอย่างสูง ในกรณีนี้ 'And unable to handle it, it indeed was' เป็นการยืนยันสิ่งที่กล่าวมาก่อนหน้าอย่างหนักแน่นที่สุด คำว่า 'indeed' (จริงๆ แล้ว) ทำหน้าที่เน้นย้ำได้ดีที่สุดในโครงสร้างนี้ ในขณะที่ 'so' จะไม่ถูกใช้ในตำแหน่งนี้เพราะประโยคได้ย้าย 'unable to handle it' มาไว้ข้างหน้าเพื่อเน้นย้ำแล้ว การใส่ 'so' จะซ้ำซ้อนและผิดธรรมชาติ"
+      }
+    ]
+  },
+  {
+    "id": "41_4",
+    "title": "41.4 Ellipsis (การละคำที่เข้าใจตรงกันอยู่แล้ว)",
+    "explanation": "Ellipsis คือ กลวิธีทางไวยากรณ์ขั้นสูงที่ใช้ในการละ (omit) คำ, วลี, หรือประโยคย่อยที่ซ้ำซ้อนออกไป โดยที่ความหมายโดยรวมยังคงสมบูรณ์และชัดเจนจากบริบท (context) ที่แวดล้อมอยู่ หัวใจสำคัญของ Ellipsis คือการทำให้ประโยคกระชับ (concise), มีจังหวะจะโคน (rhythmic) และเป็นธรรมชาติเหมือนที่เจ้าของภาษาใช้กันในระดับสูง ทั้งในภาษาพูดและภาษาเขียนที่เป็นทางการ\n\nในระดับ C1-C2 เราจะเจาะลึก Ellipsis ในมิติที่ซับซ้อนกว่าแค่การตอบคำถามสั้นๆ:\n\n1.  **Situational/Final Ellipsis (การละส่วนท้าย)**: เป็นรูปแบบที่คุ้นเคยที่สุด คือการละส่วนท้ายของประโยคที่เข้าใจกันดีอยู่แล้ว\n    *   \"Who wants to volunteer?\" \"I do.\" (ละคำว่า volunteer)\n\n2.  **Initial Ellipsis (การละส่วนหน้า)**: มักพบในภาษาพูดที่ไม่เป็นทางการ หรือในพาดหัวข่าว เพื่อความรวดเร็ว\n    *   \"[Have you] Seen this report? It's full of inconsistencies.\" (ละ Subject และ Auxiliary verb)\n    *   \"[I'm] Glad you could make it.\" (ละ Subject และ verb to be)\n\n3.  **Medial Ellipsis (การละส่วนกลาง)**: เป็นส่วนที่ซับซ้อนและแสดงถึงความชำนาญทางภาษา แบ่งย่อยได้เป็นประเภทต่างๆ ที่สำคัญคือ:\n\n    *   **Verb Phrase Ellipsis (VPE)**: การละกลุ่มคำกริยา (Verb Phrase) ทั้งหมด เหลือไว้เพียง Auxiliary Verb (do, be, have) หรือ Modal Verb (can, will, should, etc.) เพื่ออ้างถึงกริยาที่กล่าวไปก่อนหน้า\n        *   \"She said she would finish the analysis by noon, and she did.\" (ในที่นี้ `did` = finish the analysis by noon)\n        *   Key Point: ต้องเลือกใช้ Auxiliary/Modal Verb ให้สอดคล้องกับ Tense และโครงสร้างเดิม เช่น ถ้าประโยคแรกเป็น Present Perfect (have done), VPE ก็ต้องใช้ `have/has`.\n\n    *   **Gapping**: การละคำกริยา (และส่วนขยาย) ที่อยู่ตรงกลางของประโยคย่อยที่สอง ซึ่งมีโครงสร้างขนาน (parallel structure) กับประโยคย่อยแรก และมักเชื่อมด้วย `and`, `but`, `or` หรือใช้เครื่องหมาย Semicolon (;) คั่น\n        *   \"The marketing team focuses on brand awareness; the sales team, on lead generation.\" (ละคำว่า `focuses` ในประโยคย่อยที่สอง)\n        *   สังเกตว่าการใช้ Comma (,) หรือ Semicolon (;) เป็นสิ่งจำเป็นเพื่อบอกให้รู้ว่ามีการละคำเกิดขึ้น\n\n    *   **Sluicing**: การละประโยคย่อยทั้งประโยค เหลือไว้เพียง Wh-word (who, what, when, where, why, how) เพื่อสร้างคำถามหรือแสดงความไม่แน่นอนต่อสิ่งที่เพิ่งพูดไป\n        *   \"An anonymous benefactor donated a substantial sum to the foundation, but we don't know who.\" (ในที่นี้ `who` = who donated a substantial sum to the foundation)\n\n    *   **Stripping (or Bare Argument Ellipsis)**: คล้าย Sluicing แต่สิ่งที่เหลือไว้ไม่ใช่ Wh-word แต่เป็นส่วนประกอบอื่นในประโยค มักตามหลังด้วย `and`, `but`, `or` และคำวิเศษณ์อย่าง `not` หรือ `too`.\n        *   \"The new policy benefits the corporation immensely, but not the employees.\" (ละ `benefits`)\n\n**เงื่อนไขสำคัญที่สุดของ Ellipsis**: ข้อมูลที่ถูกละไปต้องสามารถกู้คืนความหมายกลับมาได้ (recoverable) จากบริบทอย่างชัดเจน 100% เท่านั้น หากการละคำทำให้ประโยคกำกวม (ambiguous) หรือผิดไวยากรณ์ จะไม่สามารถใช้ Ellipsis ได้",
+    "examples": [
+      {
+        "eng": "The incumbent CEO has managed to placate the disgruntled shareholders, but his newly appointed successor might not be able to.",
+        "thai": "CEO คนปัจจุบันสามารถเอาใจผู้ถือหุ้นที่ไม่พอใจได้สำเร็จ แต่ผู้สืบทอดตำแหน่งที่เพิ่งได้รับการแต่งตั้งอาจทำไม่ได้\n(นี่คือ Verb Phrase Ellipsis หรือ VPE โดย `be able to` ละคำว่า `placate the disgruntled shareholders` ไว้ในฐานที่เข้าใจ โครงสร้างนี้ใช้ Modal Verb `might not be able to` เพื่อรับช่วงต่อจาก Verb Phrase เดิม)"
+      },
+      {
+        "eng": "The legal team meticulously scrutinised the contractual obligations; the financial team, the fiscal implications.",
+        "thai": "ทีมกฎหมายตรวจสอบภาระผูกพันตามสัญญาอย่างละเอียดถี่ถ้วน ส่วนทีมการเงินตรวจสอบผลกระทบทางการคลัง\n(นี่คือ Gapping ที่สมบูรณ์แบบ มีการใช้ Semicolon (;) เพื่อเชื่อมสองประโยคย่อยที่มีโครงสร้างขนานกัน โดยละคำกริยา `meticulously scrutinised` ในประโยคที่สอง ทำให้สั้นกระชับและสละสลวย)"
+      },
+      {
+        "eng": "They are planning a clandestine operation to exfiltrate the asset, although precisely when and how remains classified.",
+        "thai": "พวกเขากำลังวางแผนปฏิบัติการลับเพื่อนำบุคคลสำคัญออกมา แต่จะทำเมื่อไหร่และอย่างไรนั้นยังคงเป็นความลับ\n(นี่คือ Sluicing ที่ซับซ้อนขึ้น โดยเหลือ Wh-words สองตัวคือ `when` และ `how` ซึ่งละประโยคเต็มๆ คือ `when and how they are planning a clandestine operation to exfiltrate the asset`)"
+      },
+      {
+        "eng": "The new algorithm processes abstruse data sets with far greater alacrity than its predecessor ever could.",
+        "thai": "อัลกอริทึมใหม่ประมวลผลชุดข้อมูลที่ซับซ้อนด้วยความรวดเร็วกว่ารุ่นก่อนอย่างมาก\n(นี่คือ Ellipsis ในประโยคเปรียบเทียบ (Comparative Clause) โดยละ Verb Phrase `process abstruse data sets` หลัง Modal Verb `could` เพื่อหลีกเลี่ยงการพูดซ้ำ)"
+      },
+      {
+        "eng": "If cornered, the politician would prevaricate rather than divulge the truth.",
+        "thai": "หากจนมุม นักการเมืองคนนั้นเลือกที่จะพูดบ่ายเบี่ยงแทนที่จะเปิดเผยความจริง\n(นี่คือ Ellipsis ใน Conditional Clause โดยละ Subject และ Verb `he was` ออกไป เหลือเพียง `If cornered...` ซึ่งเป็นรูปที่สั้นและเป็นทางการ)"
+      }
+    ],
+    "common_mistakes": "1.  **ใช้ Auxiliary Verb ผิดใน VPE**: ข้อผิดพลาดที่พบบ่อยที่สุดคือการใช้ Auxiliary Verb (do, be, have) หรือ Modal Verb ไม่สอดคล้องกับ Verb Phrase ที่ถูกละไป\n    *   *ผิด*: \"He has submitted the requisite documents, but she didn't.\"\n    *   *ถูก*: \"He has submitted the requisite documents, but she **hasn't**.\" (ต้องใช้ `has` ให้ตรงกับ `has submitted`)\n\n2.  **ละคำจนเกิดความกำกวม (Ambiguity)**: การละคำในประโยคที่โครงสร้างไม่ชัดเจนพอ อาจทำให้เกิดการตีความได้หลายแบบ\n    *   *กำกวม*: \"I admire her more than John.\" (หมายถึง I admire her more than John does หรือ I admire her more than I admire John?)\n    *   *ชัดเจน*: \"I admire her more than John **does**.\" หรือ \"I admire her more than **I do** John.\"\n\n3.  **ละเมิดกฎโครงสร้างขนาน (Parallelism)**: ใน Gapping โครงสร้างของสองประโยคย่อยต้องขนานกัน การละ Verb ในโครงสร้างที่ไม่ขนานกันจะทำให้ประโยคผิดไวยากรณ์\n    *   *ผิด*: \"The report was meticulously written and the presentation given with confidence.\"\n    *   *ถูก*: \"The report was meticulously written; the presentation, given with confidence.\" (ใช้ Gapping ให้ถูกต้อง)\n\n4.  **ใช้ Ellipsis ในจุดที่ไม่สามารถใช้ได้**: บางครั้งการมีอยู่ของ Verb เป็นสิ่งจำเป็นต่อโครงสร้างประโยค แม้ความหมายจะดูเหมือนซ้ำซ้อนก็ตาม\n    *   *ผิด*: \"The CEO is confident, but the board still worried about the risks.\"\n    *   *ถูก*: \"The CEO is confident, but the board **is** still worried about the risks.\" (Predicate Adjective `confident` กับ `worried` ไม่ใช่สิ่งเดียวกันโดยตรง จึงต้องมี Verb `is` คงไว้)",
+    "practice_questions": [
+      {
+        "question": "The senior auditors should have identified the glaring discrepancy in the financial statements, but for some inexplicable reason, they ______.",
+        "options": [
+          "A. haven't",
+          "B. couldn't",
+          "C. didn't",
+          "D. weren't"
+        ],
+        "answer": "C",
+        "explanation": "คำตอบที่ถูกต้องคือ 'didn't' นี่คือ VPE (Verb Phrase Ellipsis) `didn't` ย่อมาจาก `did not identify the glaring discrepancy...` แม้ประโยคแรกจะใช้ `should have identified` แต่การละคำใน VPE ในกรณีนี้จะอ้างอิงถึง Main Verb ในรูป Infinitive (identify) และใช้ `do/does/did` เพื่อบ่งบอก Tense ของการกระทำที่เกิดขึ้นจริง (หรือไม่ได้เกิดขึ้น) ในอดีต ซึ่งก็คือพวกเขา 'ไม่ได้' ตรวจพบในอดีต จึงใช้ `didn't`"
+      },
+      {
+        "question": "The protagonist's journey represented a search for identity; the antagonist's, ______ for absolute power.",
+        "options": [
+          "A. represented a search",
+          "B. a search",
+          "C. it represented a search",
+          "D. representing a search"
+        ],
+        "answer": "B",
+        "explanation": "คำตอบที่ถูกต้องคือ 'a search' นี่คือการใช้ Gapping ที่ละคำกริยา 'represented' ในประโยคย่อยที่สอง เพื่อให้เกิดโครงสร้างคู่ขนานที่สละสลวย: The protagonist's journey represented [a search for identity]; the antagonist's [journey represented] [a search for absolute power]. การเลือกข้อ B ทำให้ประโยคคล้องจองและถูกต้องตามหลักไวยากรณ์ขั้นสูง"
+      },
+      {
+        "question": "The research institute received a substantial grant, but from whom and for what precise purpose ______.",
+        "options": [
+          "A. are remaining undisclosed",
+          "B. it remains undisclosed",
+          "C. remain undisclosed",
+          "D. remains undisclosed"
+        ],
+        "answer": "D",
+        "explanation": "คำตอบที่ถูกต้องคือ 'remains undisclosed' นี่คือการใช้ Sluicing โดย Subject ของประโยคคือ Wh-clause ทั้งหมด ('from whom and for what precise purpose') ซึ่งถือเป็นเอกพจน์ (singular) ดังนั้น Verb จึงต้องเป็น `remains` (เติม s) ประโยคเต็มคือ `...but from whom [they received the grant] and for what precise purpose [they received it] remains undisclosed.`"
+      },
+      {
+        "question": "While ______ to be a panacea for all economic woes, the proposed legislation does offer some tangible benefits.",
+        "options": [
+          "A. it is not intended",
+          "B. not intended",
+          "C. is not intended",
+          "D. intending not"
+        ],
+        "answer": "B",
+        "explanation": "คำตอบที่ถูกต้องคือ 'not intended' นี่คือการใช้ Ellipsis ใน Subordinate Clause (ขึ้นต้นด้วย While) โดยการละ Subject และ Verb to be (`it is`) ที่เข้าใจตรงกันอยู่แล้ว (`it` = the proposed legislation) ทำให้ประโยคกระชับขึ้น: `While [it is] not intended to be...`"
+      },
+      {
+        "question": "The diplomat handled the precarious negotiation with more sagacity than his predecessor ever ______.",
+        "options": [
+          "A. was",
+          "B. has",
+          "C. did",
+          "D. could have"
+        ],
+        "answer": "C",
+        "explanation": "คำตอบที่ถูกต้องคือ 'did' นี่คือ Ellipsis ในประโยคเปรียบเทียบ (comparative) `did` ทำหน้าที่เป็น Auxiliary Verb แทน Verb Phrase `handled the precarious negotiation with sagacity` เพื่อหลีกเลี่ยงการกล่าวซ้ำ เราใช้ `did` เพราะกริยาหลักในประโยคคือ `handled` ซึ่งเป็น Past Simple Tense"
+      },
+      {
+        "question": "The team had hoped to finalize the merger by Q3, but the regulatory body was recalcitrant, so they ______.",
+        "options": [
+          "A. hadn't",
+          "B. couldn't",
+          "C. didn't",
+          "D. weren't"
+        ],
+        "answer": "B",
+        "explanation": "คำตอบที่ถูกต้องคือ 'couldn't' ในบริบทนี้ 'hoped to' สื่อถึงความตั้งใจ แต่ผลลัพธ์คือ 'ทำไม่ได้' เพราะมีอุปสรรค (regulatory body was recalcitrant) `couldn't` (ย่อมาจาก could not finalize the merger) จึงสื่อความหมายของการไม่สามารถทำได้สำเร็จได้ดีที่สุด `didn't` ก็พอใช้ได้ แต่ `couldn't` ให้ความหมายที่ชัดเจนกว่าถึงความล้มเหลวในการกระทำ"
+      },
+      {
+        "question": "Her dissertation was lauded for its intellectual rigor; his, for its groundbreaking methodology.",
+        "options": [
+          "A. his was lauded",
+          "B. his dissertation",
+          "C. his it was",
+          "D. was lauded his"
+        ],
+        "answer": "A",
+        "explanation": "คำถามนี้ทดสอบความเข้าใจว่ามีอะไรถูกละไปในประโยคที่มี Gapping ประโยคเต็มคือ 'Her dissertation was lauded for its intellectual rigor; his [dissertation] was [lauded] for its groundbreaking methodology.' ดังนั้น ส่วนที่ถูกละไปคือ 'dissertation' และ 'was lauded' ตัวเลือก A 'his was lauded' คือรูปเต็มของส่วนที่สองก่อนจะถูกทำให้กระชับด้วย Ellipsis"
+      },
+      {
+        "question": "The company's quarterly earnings surpassed all expectations, though not ______ the previous fiscal year.",
+        "options": [
+          "A. as much as they did in",
+          "B. they did in",
+          "C. in",
+          "D. as much as"
+        ],
+        "answer": "A",
+        "explanation": "คำตอบที่ถูกต้องคือ 'as much as they did in' นี่คือการใช้ Stripping ที่ซับซ้อนขึ้น `though not...` ละประโยค `the earnings surpassed expectations` ไว้ และเหลือส่วนเปรียบเทียบไว้ ซึ่งโครงสร้างที่สมบูรณ์ที่สุดคือ `as much as they did in` โดย `did` ทำหน้าที่เป็น Auxiliary verb แทน `surpass expectations`"
+      },
+      {
+        "question": "The errant data was expunged from the server, but nobody seems to know by whom or ______.",
+        "options": [
+          "A. when was it",
+          "B. when it was",
+          "C. when",
+          "D. at what time"
+        ],
+        "answer": "C",
+        "explanation": "คำตอบที่ถูกต้องคือ 'when' นี่คือการใช้ Sluicing ที่มี Wh-word สองตัว (`by whom` และ `when`) เชื่อมกันด้วย `or` โดยละประโยคเต็ม `the errant data was expunged` ไว้ในฐานที่เข้าใจ `by whom [it was expunged] or when [it was expunged]` การใช้แค่ `when` ก็เพียงพอและถูกต้องตามหลักไวยากรณ์"
+      },
+      {
+        "question": "The chairman seems amenable to the compromise, but ______ is still vehemently opposed to it.",
+        "options": [
+          "A. the CEO",
+          "B. the CEO is",
+          "C. while the CEO",
+          "D. the CEO does"
+        ],
+        "answer": "B",
+        "explanation": "คำตอบที่ถูกต้องคือ 'the CEO is' นี่คือตัวอย่างของจุดที่ไม่สามารถใช้ Ellipsis ได้ เพราะ Predicate (ภาคแสดง) ของประโยคย่อยที่สอง (`is still vehemently opposed to it`) มีความหมายและโครงสร้างที่แตกต่างจากประโยคย่อยแรก (`seems amenable to the compromise`) อย่างสิ้นเชิง จึงไม่สามารถละกริยา `is` ทิ้งไปได้ การทำเช่นนั้นจะทำให้ประโยคผิดไวยากรณ์"
+      }
+    ]
+  },
+  {
+    "id": "41_5",
+    "title": "41.5 Summary: Ellipsis & Substitution (สรุปการละคำ + 50 Exercises)",
+    "explanation": "นี่คือบทสรุปของหัวข้อ Ellipsis (การละคำ) และ Substitution (การใช้คำแทน) ซึ่งเป็นสองกลไกทางไวยากรณ์ที่สำคัญอย่างยิ่งในระดับ C1-C2 เพื่อสร้างความลื่นไหล กระชับ และเป็นธรรมชาติให้กับภาษาอังกฤษ ทั้งสองเทคนิคช่วยหลีกเลี่ยงการกล่าวซ้ำคำหรือวลีที่ไม่จำเป็น ทำให้งานเขียนและการพูดมี Cohesion (ความเชื่อมโยง) และ Coherence (ความสมเหตุสมผล) มากขึ้น\n\n### **1. Ellipsis (การละคำ)**\nคือการจงใจละส่วนประกอบของประโยค (คำ, วลี, หรืออนุประโยค) ที่ผู้ฟังหรือผู้อ่านสามารถเข้าใจได้จากบริบท แบ่งได้เป็น 3 ประเภทหลักในเชิงโครงสร้าง:\n\n*   **Initial Ellipsis:** การละส่วนต้นของประโยค โดยมากคือประธานและกริยาช่วย มักพบในภาษาพูดที่ไม่เป็นทางการหรือการจดบันทึกส่วนตัว\n    *   *Full Form:* Have you seen my keys?\n    *   *Ellipsis:* Seen my keys?\n*   **Medial Ellipsis (Gapping):** การละกริยาหลัก (และอาจรวมถึงส่วนอื่น) ในอนุประโยคที่สองของประโยคความรวม (Coordinate Clause) ที่มีโครงสร้างขนานกัน\n    *   *Full Form:* The marketing team will handle the presentation, and the sales team will handle the client outreach.\n    *   *Ellipsis:* The marketing team will handle the presentation; the sales team, the client outreach.\n*   **Final Ellipsis:** การละส่วนท้ายของประโยคหรือวลี เป็นประเภทที่พบบ่อยที่สุดและสำคัญที่สุดในระดับสูง มักเกิดขึ้นหลังกริยาช่วย (Auxiliary Verbs) หรือหลัง 'to' (infinitive marker)\n    *   *After Auxiliary:* \"Can you finish this report by noon?\" \"I can.\" (ละ finish this report by noon)\n    *   *After 'to':* \"He never intended to hurt you, though he appeared to.\" (ละ hurt you)\n\n### **2. Substitution (การใช้คำแทน)**\nคือการใช้คำสั้นๆ (เช่น one, do, so, not) มาแทนที่คำ, วลี หรืออนุประโยคที่ยาวกว่าซึ่งถูกกล่าวถึงไปแล้ว\n\n*   **Nominal Substitution (แทนที่นาม):**\n    *   `one/ones`: ใช้แทนนามนับได้ (Countable Noun) เพื่อหลีกเลี่ยงการพูดซ้ำ\n        *   *Example:* I'm looking for a new laptop. I want **one** with a longer battery life.\n    *   `the same`: ใช้แทนแนวคิด, สถานการณ์ หรือการกระทำทั้งหมด\n        *   *Example:* She ordered a flat white, and I did **the same**.\n\n*   **Verbal Substitution (แทนที่กริยา):**\n    *   `do`: ใช้แทนกริยาแสดงการกระทำ (Dynamic Verb) และส่วนขยายของมัน มักใช้คู่กับกริยาช่วย\n        *   *Example:* He runs faster than she **does**.\n    *   `do so`: เป็นทางการกว่า `do` เล็กน้อย ใช้แทน Verb Phrase ทั้งหมด (กริยา+กรรม/ส่วนขยาย) ที่แสดงการกระทำ\n        *   *Example:* The manager asked everyone to submit their reports by Friday, and we are expected to **do so** without fail.\n\n*   **Clausal Substitution (แทนที่อนุประโยค):**\n    *   `so`: ใช้แทนอนุประโยคบอกเล่า (Positive Clause) ทั้งหมด โดยเฉพาะหลังกริยาที่แสดงความคิด/การรับรู้ (believe, think, hope, expect, suppose, guess, be afraid)\n        *   *Example:* \"Will the merger be successful?\" \"I certainly hope **so**.\"\n    *   `not`: ใช้แทนอนุประโยคปฏิเสธ (Negative Clause) ในลักษณะเดียวกัน\n        *   *Example:* \"Is it going to be a difficult negotiation?\" \"I'm afraid **so**.\" / \"I hope **not**.\"\n\nในระดับ C1-C2 ความท้าทายอยู่ที่การเลือกใช้เครื่องมือเหล่านี้ให้ถูกจังหวะและเป็นธรรมชาติที่สุด การผสมผสาน Ellipsis และ Substitution อย่างลงตัวคือเครื่องหมายของผู้ใช้ภาษาที่เชี่ยวชาญ",
+    "examples": [
+      {
+        "eng": "The CEO promised to implement sweeping reforms, and implement them she did, much to the chagrin of the old guard.",
+        "thai": "ประโยคนี้ใช้ทั้ง Verbal Substitution (`did`) และการเน้นความ (Emphasis) โดยการสลับตำแหน่งกริยา (`implement them`) มาไว้ข้างหน้า `she did` แทนที่จะพูดว่า \"...and she did implement them.\" โครงสร้างนี้ทรงพลังและเป็นวรรณศิลป์มาก แสดงให้เห็นว่า CEO ได้ทำตามสัญญาที่ให้ไว้จริงๆ"
+      },
+      {
+        "eng": "Some argue for immediate austerity measures; others, that a more gradual approach is warranted.",
+        "thai": "นี่คือตัวอย่างของ Medial Ellipsis (Gapping) ในระดับสูง คำว่า `argue` ถูกละไว้ในส่วนที่สองของประโยค ทำให้ประโยคกระชับและมีความขนานทางความคิดสูง ('Some argue for X; others [argue] that Y.')"
+      },
+      {
+        "eng": "You might not agree with the new policy, but you'll have to adhere to it whether you want to or not.",
+        "thai": "ประโยคนี้ใช้ Final Ellipsis หลัง `to` และ `not` โครงสร้างเต็มคือ \"...whether you want to [adhere to it] or [do] not [want to adhere to it].\" การละคำทำให้สำนวน `whether you want to or not` เป็นสำนวนที่ตายตัวและเป็นธรรมชาติ"
+      },
+      {
+        "eng": "They asked me to corroborate the witness's testimony, which I was unable to do, having been out of the country at the time.",
+        "thai": "ประโยคนี้ใช้ Verbal Substitution `do` ตามหลัง infinitive `to` (`to do`) เพื่อแทนที่วลี `corroborate the witness's testimony` เป็นการใช้ที่พบบ่อยในภาษาที่เป็นทางการ ช่วยให้ประโยคไม่เยิ่นเย้อ"
+      }
+    ],
+    "common_mistakes": "จุดที่คนไทยระดับสูงมักพลาดเกี่ยวกับ Ellipsis & Substitution:\n\n1.  **ละทิ้ง 'to' ที่จำเป็น (Dropping a necessary 'to'):** ในโครงสร้างที่ต้องการละกริยา infinitive แต่ยังคงต้องเก็บ `to` ไว้ เช่น \"He wanted to resign, and I advised him not **to**.\" คนไทยมักจะเผลอพูดว่า \"...I advised him not.\" ซึ่งผิดไวยากรณ์ เพราะ `to` ทำหน้าที่เป็นตัวแทนของ `to resign` ทั้งหมด\n\n2.  **สับสนระหว่าง 'do', 'do so', และ 'do it/that':**\n    *   `do so`: มักใช้แทน 'กระบวนการ' หรือ 'กิจกรรม' ที่เป็นนามธรรม (\"The instructions said to assemble the unit carefully, and I tried to **do so**.\")\n    *   `do it/that`: มักใช้แทน 'การกระทำ' ที่เฉพาะเจาะจงและจับต้องได้มากกว่า (\"He told me to push the red button, but I was afraid to **do it**.\") การใช้สลับกันอาจทำให้ความหมายผิดเพี้ยนเล็กน้อย\n\n3.  **ใช้ Gapping มากเกินไปจนกำกวม:** การละกริยาตรงกลาง (Medial Ellipsis) แม้จะทำให้ประโยคดูฉลาด แต่หากโครงสร้างซับซ้อนเกินไป อาจทำให้ผู้อ่านสับสนได้ เช่น \"Maria gave John a book and Susan a lecture.\" ประโยคนี้อาจแปลว่า Maria ให้หนังสือแก่ John และให้การบรรยายแก่ Susan หรืออาจแปลว่า Maria ให้หนังสือแก่ John และ Susan ก็ให้การบรรยาย (แก่ใครบางคน) การใช้ในระดับสูงต้องระวังความชัดเจนเป็นสำคัญ\n\n4.  **ใช้ 'one' กับนามนับไม่ได้ (Uncountable Nouns):** `one/ones` ใช้ได้กับนามนับได้เท่านั้น การพูดว่า \"I prefer classical music to modern **one**.\" เป็นข้อผิดพลาดที่พบบ่อย ต้องพูดว่า \"...to modern music\" หรือ \"...to the modern kind.\"\n\n5.  **ใช้ 'so' แทน Clause ที่ซับซ้อนเกินไป:** แม้ `so` จะใช้แทนอนุประโยคได้ แต่ถ้าอนุประโยคเดิมมีความซับซ้อนหรือมีเงื่อนไข การใช้ `so` อาจทำให้ความหมายหายไป ควรทวนประโยคเต็มจะดีกว่า เช่น \"Do you think the new algorithm will work if the input data is corrupted?\" การตอบว่า \"I think so.\" อาจไม่ชัดเจนเท่ากับ \"I think it will.\"",
+    "practice_questions": [
+      {
+        "question": "The preliminary findings suggest a correlation, but whether this implies causation is a question the researchers are not yet prepared to answer, though they suspect ______.",
+        "options": [
+          "A. so it is",
+          "B. it does",
+          "C. so",
+          "D. not"
+        ],
+        "answer": "B",
+        "explanation": "คำตอบที่ถูกต้องคือ 'it does' ในที่นี้ 'does' ทำหน้าที่เป็น Verbal Substitution แทน 'implies causation' ทั้งวลี การใช้ 'so' จะไม่ถูกต้อง เพราะ 'suspect' ในบริบทนี้ตามด้วย Noun Clause (that it implies causation) ไม่ใช่โครงสร้างแบบ 'I think so' ส่วน 'not' ก็ไม่สมเหตุสมผลกับบริบท"
+      },
+      {
+        "question": "While the veteran politician advocated for fiscal austerity, her younger counterpart ______ for substantial investment in public infrastructure.",
+        "options": [
+          "A. did",
+          "B. advocated",
+          "C. argued",
+          "D. so did"
+        ],
+        "answer": "C",
+        "explanation": "นี่คือตัวอย่างของ Medial Ellipsis หรือ Gapping ที่ละกริยา 'advocated' ไปใน clause ที่สอง อย่างไรก็ตาม บริบทแสดงความขัดแย้ง (While...) การเลือกใช้กริยาที่ต่างออกไปแต่มีความหมายใกล้เคียงกันอย่าง 'argued' จะทำให้ประโยคมีความสมบูรณ์และเป็นธรรมชาติที่สุด การใช้ 'did' หรือ 'advocated' ซ้ำ จะทำให้ประโยคไม่ลื่นไหล"
+      },
+      {
+        "question": "The shareholders demanded the CEO resign immediately, but he has unequivocally stated that he has no intention of ______.",
+        "options": [
+          "A. doing so",
+          "B. so doing",
+          "C. do so",
+          "D. doing"
+        ],
+        "answer": "A",
+        "explanation": "วลีที่ถูกต้องคือ 'doing so' ซึ่งทำหน้าที่เป็น Verbal Substitution แทน 'resigning immediately' โครงสร้าง 'of + gerund' (of doing) เป็นรูปแบบที่ถูกต้องตามไวยากรณ์ 'so doing' เป็นโครงสร้างที่เก่าและไม่นิยมใช้ 'do so' ผิดรูป และ 'doing' เฉยๆ ไม่สมบูรณ์ในบริบทนี้"
+      },
+      {
+        "question": "I haven't perused the final document in its entirety, but from what I've seen of it, it appears to be meticulously drafted, as ______ all previous versions.",
+        "options": [
+          "A. were",
+          "B. did",
+          "C. have",
+          "D. had been"
+        ],
+        "answer": "A",
+        "explanation": "คำตอบคือ 'were' ซึ่งเป็น Ellipsis ที่ละคำว่า 'meticulously drafted' ไว้ โครงสร้างเต็มคือ 'as all previous versions were meticulously drafted' เราใช้ 'were' เพื่อให้สอดคล้องกับ Verb to be 'be' ใน clause แรก ('to be meticulously drafted')"
+      },
+      {
+        "question": "She was asked to elaborate on her controversial theory, which she refused ______.",
+        "options": [
+          "A. to",
+          "B. doing",
+          "C. to do",
+          "D. so"
+        ],
+        "answer": "C",
+        "explanation": "คำตอบที่ถูกต้องคือ 'to do' ซึ่งแทนที่ 'to elaborate on her controversial theory' การใช้ 'to' อย่างเดียว (refused to) ก็เป็นไปได้และถูกต้อง แต่ 'to do' จะมีความชัดเจนและเป็นทางการมากกว่าในบริบทนี้ 'doing' และ 'so' ผิดโครงสร้างไวยากรณ์"
+      },
+      {
+        "question": "Some employees embrace the new open-plan office; others, ______.",
+        "options": [
+          "A. do not",
+          "B. not",
+          "C. lament it",
+          "D. don't embrace"
+        ],
+        "answer": "C",
+        "explanation": "นี่คือตัวอย่างของ Gapping ที่สร้างความขนานเชิงเปรียบเทียบ Clause แรกมีโครงสร้าง S+V+O (Some employees + embrace + the new office) ดังนั้น Clause ที่สองควรมีโครงสร้างคล้ายกัน 'lament it' (S [others] + V [lament] + O [it]) สร้างความขนานที่สมบูรณ์และมีความหมายตรงข้ามชัดเจนที่สุด 'do not' สั้นเกินไปและไม่เป็นธรรมชาติในโครงสร้างนี้"
+      },
+      {
+        "question": "The general was resolute in his decision to advance, even when his advisors unanimously cautioned him not ______.",
+        "options": [
+          "A. doing",
+          "B. to",
+          "C. advancing",
+          "D. do so"
+        ],
+        "answer": "B",
+        "explanation": "โครงสร้างที่ถูกต้องคือ 'cautioned him not to' ซึ่งเป็น Final Ellipsis ที่ละกริยา 'advance' ไว้ด้านหลัง 'to' ทำหน้าที่เป็นตัวแทนของ infinitive phrase ทั้งหมด การตอบ 'to do so' ก็เป็นไปได้ แต่ 'to' เพียงอย่างเดียวก็เพียงพอและกระชับกว่า"
+      },
+      {
+        "question": "This year's financial report is far more optimistic than last year's ______.",
+        "options": [
+          "A. one",
+          "B. report",
+          "C. was",
+          "D. did"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้กำลังเปรียบเทียบ 'This year's report' กับ 'last year's report' ในแง่ของ 'is far more optimistic' โครงสร้างเต็มคือ '...than last year's report was' เราสามารถใช้ Ellipsis โดยละ 'report' และคงกริยา 'was' ไว้เพื่อความชัดเจน การใช้ 'one' จะหมายถึง 'last year's one' ซึ่งไม่เป็นธรรมชาติ"
+      },
+      {
+        "question": "The diplomat skillfully deflected the journalist's probing questions, as he had been trained ______.",
+        "options": [
+          "A. doing so",
+          "B. to do",
+          "C. for",
+          "D. so"
+        ],
+        "answer": "B",
+        "explanation": "โครงสร้างที่ถูกต้องคือ 'trained to do' ซึ่งเป็นการผสมระหว่าง Passive voice ('had been trained') และ Verbal Substitution ('to do' แทน 'to deflect questions') ทำให้ประโยคสมบูรณ์และถูกต้องตามหลักไวยากรณ์"
+      },
+      {
+        "question": "Will the quantum computer solve the intractable problem? The scientists believe ______, given enough processing time.",
+        "options": [
+          "A. so",
+          "B. it will",
+          "C. that",
+          "D. to do so"
+        ],
+        "answer": "B",
+        "explanation": "ในขณะที่ 'I believe so' เป็นคำตอบที่เป็นไปได้ แต่การตอบว่า 'it will' ให้ความแน่นอนและเฉพาะเจาะจงมากกว่า ซึ่งเหมาะสมกับบริบททางวิทยาศาสตร์นี้ 'it' แทน 'the quantum computer' และ 'will' เป็น Ellipsis ของ 'will solve the intractable problem' 'So' จะดูเป็นการคาดเดามากกว่า"
+      },
+      {
+        "question": "He may not have perpetrated the crime himself, but it is irrefutable that he aided and abetted those who ______.",
+        "options": [
+          "A. did so",
+          "B. did",
+          "C. perpetrated",
+          "D. have"
+        ],
+        "answer": "B",
+        "explanation": "'did' เป็น Verbal Substitution ที่สมบูรณ์ที่สุดในที่นี้ มันแทนที่กริยา 'perpetrated the crime' ทั้งหมดในอดีต (Past Simple) ซึ่งสอดคล้องกับบริบท 'did so' ก็ใช้ได้ แต่ 'did' กระชับกว่าและเป็นธรรมชาติกว่าในโครงสร้างนี้"
+      },
+      {
+        "question": "The new legislation is ostensibly designed to protect consumers, but many suspect its true purpose is quite a different ______.",
+        "options": [
+          "A. so",
+          "B. one",
+          "C. it",
+          "D. same"
+        ],
+        "answer": "B",
+        "explanation": "'one' ในที่นี้เป็น Nominal Substitution ที่แทนคำนาม 'purpose' (a different purpose) การใช้ 'it' จะไม่ถูกต้องเพราะ 'it' ต้องอ้างถึงสิ่งเดิม ไม่ใช่สิ่งที่ 'different'"
+      },
+      {
+        "question": "To achieve carbon neutrality is a laudable goal, and ______ we must all strive.",
+        "options": [
+          "A. to achieve it",
+          "B. one which",
+          "C. for what",
+          "D. doing so"
+        ],
+        "answer": "B",
+        "explanation": "โครงสร้างที่สละสลวยที่สุดคือ 'one which' โดย 'one' แทนที่ 'a laudable goal' ทำให้ประโยคเต็มคือ '...a laudable goal which we must all strive for.' การย้าย 'for' มาข้างหน้า 'which' (for which we must strive) ก็เป็นไปได้ แต่ 'one which' สร้างประโยคที่ซับซ้อนและเป็นทางการได้ดี"
+      },
+      {
+        "question": "You think the situation is dire? I think ______.",
+        "options": [
+          "A. it dire",
+          "B. not",
+          "C. differently",
+          "D. so too"
+        ],
+        "answer": "C",
+        "explanation": "แม้ว่า 'I don't think so' จะเป็นคำตอบที่ถูกต้องตามไวยากรณ์ แต่ 'I think differently' เป็นวิธีตอบที่แสดงความไม่เห็นด้วยที่สละสลวยและอยู่ในระดับสูงกว่า มันไม่ได้เพียงแค่ปฏิเสธ แต่ยังเสนอว่ามีความคิดเห็นที่ 'แตกต่างออกไป' ซึ่งเป็นความหมายที่ลึกซึ้งกว่า"
+      },
+      {
+        "question": "His first novel was a bildungsroman; his second, ______ of a political thriller.",
+        "options": [
+          "A. one",
+          "B. it was more",
+          "C. more",
+          "D. the one"
+        ],
+        "answer": "C",
+        "explanation": "นี่คือ Medial Ellipsis (Gapping) ที่ละ 'was' ไป ประโยคเต็มคือ 'his second [was] more of a political thriller' คำว่า 'more' ทำหน้าที่เปรียบเทียบนวนิยายสองเล่มได้อย่างกระชับและมีประสิทธิภาพ"
+      },
+      {
+        "question": "If you are unable to attend the meeting in person, please arrange for a proxy to do ______ on your behalf.",
+        "options": [
+          "A. it",
+          "B. so",
+          "C. that",
+          "D. attending"
+        ],
+        "answer": "B",
+        "explanation": "สำนวนที่ถูกต้องและเป็นทางการคือ 'to do so' ซึ่งในที่นี้หมายถึง 'to attend the meeting' การใช้ 'it' หรือ 'that' ไม่เป็นธรรมชาติในบริบทที่เป็นทางการนี้ 'so' ใช้แทนการกระทำหรือกิจกรรม (attending) ทั้งหมด"
+      },
+      {
+        "question": "The company is facing unprecedented challenges, the likes of ______ have never been seen before.",
+        "options": [
+          "A. which",
+          "B. them",
+          "C. that",
+          "D. those"
+        ],
+        "answer": "A",
+        "explanation": "สำนวนที่ถูกต้องคือ 'the likes of which' ซึ่งเป็นวิธีพูดที่เป็นทางการและค่อนข้างเป็นวรรณกรรม หมายถึง 'สิ่งประเภทเดียวกันซึ่ง...' การใช้ 'them' หรือ 'that' จะผิดโครงสร้างไวยากรณ์ของ Relative Clause"
+      },
+      {
+        "question": "She could have accepted the lucrative job offer, and perhaps she should ______.",
+        "options": [
+          "A. have done",
+          "B. have",
+          "C. do it",
+          "D. have accepted"
+        ],
+        "answer": "B",
+        "explanation": "ในโครงสร้าง Perfect Modal (should have + V3) เราสามารถใช้ Ellipsis โดยคงไว้แค่ 'should have' เพื่อแทน 'should have accepted the lucrative job offer' การตอบ 'have done' ก็เป็นไปได้ แต่ 'have' อย่างเดียวก็เพียงพอและกระชับกว่า"
+      },
+      {
+        "question": "The defendant claimed he was coerced into signing the confession, but the prosecution argued that he did ______ of his own volition.",
+        "options": [
+          "A. so",
+          "B. it",
+          "C. that",
+          "D. signing"
+        ],
+        "answer": "B",
+        "explanation": "ในกรณีนี้ 'it' เป็นคำตอบที่ดีที่สุด เพราะมันอ้างถึงการกระทำที่เฉพาะเจาะจงและเป็นรูปธรรม คือ 'signing the confession' การใช้ 'did it' จึงหมายถึง 'signed it' (the confession) ซึ่งชัดเจนกว่า 'did so' ที่อาจหมายถึง 'กระทำการเซ็น' โดยทั่วไป"
+      },
+      {
+        "question": "I'd rather work with a team that is collaborative, not ______ that is overly competitive.",
+        "options": [
+          "A. a team",
+          "B. so",
+          "C. it",
+          "D. one"
+        ],
+        "answer": "D",
+        "explanation": "'one' เป็น Nominal Substitution ที่ถูกต้องสำหรับ 'a team' ซึ่งเป็นนามนับได้ การใช้ 'one' ช่วยหลีกเลี่ยงการพูดคำว่า 'team' ซ้ำซ้อน"
+      },
+      {
+        "question": "He was supposed to have finished the project by last Friday, but he failed ______.",
+        "options": [
+          "A. to have done",
+          "B. in doing so",
+          "C. to do so",
+          "D. having done"
+        ],
+        "answer": "C",
+        "explanation": "โครงสร้างที่ถูกต้องคือ 'failed to do so' ซึ่ง 'to do so' แทนที่ 'to finish the project by last Friday' เป็นวิธีพูดที่เป็นมาตรฐานและเป็นทางการ"
+      },
+      {
+        "question": "The party's manifesto promises radical change, but whether it can deliver on those promises is another question ______.",
+        "options": [
+          "A. entirely",
+          "B. so",
+          "C. it is",
+          "D. though"
+        ],
+        "answer": "A",
+        "explanation": "วลี 'is another question entirely' เป็นสำนวนที่ใช้เน้นว่าเรื่องนั้นเป็นประเด็นที่แตกต่างออกไปโดยสิ้นเชิง 'entirely' เป็น Adverb ที่ขยายความหมายของวลีนี้ได้อย่างสมบูรณ์ ไม่ใช่กรณีของ Ellipsis หรือ Substitution โดยตรง แต่เป็นการใช้ภาษาในระดับสูง"
+      },
+      {
+        "question": "Are you suggesting we capitulate? I would never countenance ______ a thing.",
+        "options": [
+          "A. doing so",
+          "B. such",
+          "C. so",
+          "D. it"
+        ],
+        "answer": "B",
+        "explanation": "สำนวนที่ถูกต้องคือ 'such a thing' ซึ่งหมายถึง 'สิ่งเช่นนั้น' (ในที่นี้คือการยอมแพ้) 'such' ทำหน้าที่เป็น Determiner เพื่อเน้นย้ำถึงประเภทของ 'thing' ที่ผู้พูดรับไม่ได้ การใช้ 'doing so' หรือ 'it' ไม่เข้ากับโครงสร้าง 'a thing'"
+      },
+      {
+        "question": "The first candidate was articulate and poised; the second, equally ______, but lacked substantive policy knowledge.",
+        "options": [
+          "A. so",
+          "B. was",
+          "C. one",
+          "D. poised"
+        ],
+        "answer": "A",
+        "explanation": "ในที่นี้ 'so' ทำหน้าที่เป็น Adverb of manner ที่แทน Adjective ก่อนหน้า ประโยคเต็มคือ 'the second was equally articulate and poised' การใช้ 'so' แทน 'articulate and poised' ทำให้ประโยคกระชับมาก 'equally so' เป็นสำนวนที่ใช้บ่อย"
+      },
+      {
+        "question": "They were on the verge of a breakthrough, or so it ______ to the junior researchers.",
+        "options": [
+          "A. did",
+          "B. was",
+          "C. seemed",
+          "D. believed"
+        ],
+        "answer": "C",
+        "explanation": "สำนวน 'or so it seemed' เป็นวลีที่ใช้แสดงว่าข้อมูลนั้นมาจากการรับรู้หรือความรู้สึก ไม่ใช่ข้อเท็จจริงที่ได้รับการยืนยัน 'seemed' เป็นกริยาที่เหมาะสมที่สุดในโครงสร้างนี้"
+      },
+      {
+        "question": "He has a penchant for grandiloquent speeches; his brother, for laconic, witty remarks.",
+        "options": [
+          "A. has one",
+          "B. does",
+          "C. has a penchant",
+          "D. by contrast"
+        ],
+        "answer": "C",
+        "explanation": "นี่คือตัวอย่างคลาสสิกของ Medial Ellipsis (Gapping) ที่ละวลี 'has a penchant' ใน Clause ที่สอง เพื่อสร้างความขนานทางโครงสร้างและทำให้ประโยคกระชับและสละสลวย การเติม 'has a penchant' กลับเข้าไปจะทำให้เห็นโครงสร้างที่สมบูรณ์"
+      },
+      {
+        "question": "We must either expedite the process or abandon the project entirely. I believe the latter option is the only prudent ______.",
+        "options": [
+          "A. it is",
+          "B. one",
+          "C. so",
+          "D. to do"
+        ],
+        "answer": "B",
+        "explanation": "'one' ในที่นี้ทำหน้าที่เป็น Nominal Substitution แทนคำว่า 'option' ทำให้ไม่ต้องพูดซ้ำว่า '...the only prudent option' ซึ่งเยิ่นเย้อ"
+      },
+      {
+        "question": "The committee couldn't reach a consensus, and ______ could the board of directors.",
+        "options": [
+          "A. so",
+          "B. neither",
+          "C. either",
+          "D. also not"
+        ],
+        "answer": "B",
+        "explanation": "เมื่อ Clause แรกเป็นประโยคปฏิเสธ (couldn't) การแสดงความคล้อยตามในทางปฏิเสธใน Clause ที่สองจะใช้โครงสร้าง 'neither/nor + auxiliary + subject' ดังนั้น 'neither could the board' จึงเป็นคำตอบที่ถูกต้อง"
+      },
+      {
+        "question": "He was reluctant to commit more funds to the venture, and with good reason, ______ many would argue.",
+        "options": [
+          "A. it is",
+          "B. as",
+          "C. so",
+          "D. that"
+        ],
+        "answer": "B",
+        "explanation": "วลี 'as many would argue' เป็น Clause แทรกที่ให้ความเห็นเพิ่มเติม หมายถึง 'ซึ่งเป็นสิ่งที่หลายคนจะโต้แย้ง/เห็นด้วย' 'as' ในที่นี้ทำหน้าที่เป็น Conjunction ที่เชื่อมโยงเหตุผลของเขากับความคิดเห็นของคนส่วนใหญ่"
+      },
+      {
+        "question": "Her analysis of the situation was insightful, but her proposed solution was less ______.",
+        "options": [
+          "A. insightful",
+          "B. so",
+          "C. than that",
+          "D. it"
+        ],
+        "answer": "B",
+        "explanation": "'so' ในที่นี้ทำหน้าที่แทน Adjective 'insightful' ที่กล่าวไปแล้ว วลี 'less so' เป็นวิธีพูดที่กระชับและเป็นธรรมชาติ หมายถึง 'insightful น้อยกว่า'"
+      },
+      {
+        "question": "The lawyer advised her client to remain silent, which he wisely ______.",
+        "options": [
+          "A. did so",
+          "B. did",
+          "C. remained",
+          "D. was"
+        ],
+        "answer": "B",
+        "explanation": "'did' เป็น Verbal Substitution ที่สมบูรณ์และกระชับที่สุดสำหรับ 'remained silent' การใช้ 'did so' ก็เป็นไปได้ แต่ 'did' เป็นที่นิยมมากกว่าในบริบทที่ไม่ต้องการความเป็นทางการสูงมากนัก"
+      },
+      {
+        "question": "The problem is not that the technology is unavailable, but rather that the political will to implement it is ______.",
+        "options": [
+          "A. not",
+          "B. absent",
+          "C. unavailable",
+          "D. so"
+        ],
+        "answer": "B",
+        "explanation": "ในขณะที่ 'unavailable' สามารถใช้ซ้ำได้ การเลือกใช้คำที่มีความหมายใกล้เคียงกันอย่าง 'absent' (ซึ่งหมายถึง 'ไม่มีอยู่') จะช่วยให้ประโยคมีความหลากหลายทางคำศัพท์และสละสลวยมากขึ้น นี่เป็นเรื่องของทางเลือกทางโวหาร (stylistic choice) มากกว่าไวยากรณ์ตายตัว และ 'absent' เป็นตัวเลือกที่เหนือกว่าในระดับ C1-C2"
+      },
+      {
+        "question": "Some prefer the austere beauty of minimalist design; others, the opulent grandeur of the baroque period.",
+        "options": [
+          "A. preferring",
+          "B. prefer",
+          "C. find preferable",
+          "D. do"
+        ],
+        "answer": "B",
+        "explanation": "นี่คือ Medial Ellipsis ที่ละกริยา 'prefer' ใน clause ที่สอง เพื่อความกระชับและขนานกันทางโครงสร้าง การเติม 'prefer' กลับเข้าไปทำให้เห็นภาพประโยคเต็ม: 'others [prefer] the opulent grandeur...'"
+      },
+      {
+        "question": "She resolved to master the violin, however arduous a task it might prove to be, and master it she eventually ______.",
+        "options": [
+          "A. did",
+          "B. has",
+          "C. was",
+          "D. could"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้ใช้โครงสร้างเน้นความ (Emphasis) โดยการนำ Object 'master it' มาไว้ข้างหน้า และใช้ 'did' เป็น Verbal Substitution สำหรับกริยา 'mastered' ใน Past Simple ซึ่งสอดคล้องกับคำว่า 'eventually'"
+      },
+      {
+        "question": "Is it imperative that we respond today? I suppose ______, given the urgency of the matter.",
+        "options": [
+          "A. it is",
+          "B. so",
+          "C. yes",
+          "D. that"
+        ],
+        "answer": "B",
+        "explanation": "Clausal Substitution ด้วย 'so' เป็นวิธีตอบที่เหมาะสมที่สุดหลังกริยา 'suppose' มันแทนที่ทั้ง Clause 'that it is imperative that we respond today' การตอบ 'it is' ก็ถูกต้องแต่ 'so' เป็นธรรมชาติกว่าในโครงสร้างนี้"
+      },
+      {
+        "question": "The regulations stipulate that all personnel must undergo security screening. There are no exceptions, ______.",
+        "options": [
+          "A. what is more",
+          "B. indeed",
+          "C. whatsoever",
+          "D. however"
+        ],
+        "answer": "C",
+        "explanation": "คำว่า 'whatsoever' เป็น Adverb ที่ใช้เน้นความปฏิเสธอย่างสิ้นเชิงในประโยค 'no exceptions whatsoever' หมายถึง 'ไม่มีข้อยกเว้นใดๆ ทั้งสิ้น' เป็นการใช้ภาษาที่หนักแน่นและเป็นทางการ"
+      },
+      {
+        "question": "Many assumed he would falter under pressure, but he proved to be far more resilient than they had ever thought ______.",
+        "options": [
+          "A. he would",
+          "B. possible",
+          "C. so",
+          "D. he was"
+        ],
+        "answer": "B",
+        "explanation": "วลี 'than they had ever thought possible' เป็นสำนวนที่ใช้บ่อย หมายถึง 'เกินกว่าที่พวกเขาเคยคิดว่าจะเป็นไปได้' 'possible' ในที่นี้ทำหน้าที่เป็น Adjective ที่ขยายความ 'resilient' ที่ละไว้ (resilient was possible)"
+      },
+      {
+        "question": "You should have proofread the document before sending it. Had you ______, you would have noticed the glaring error.",
+        "options": [
+          "A. done that",
+          "B. had",
+          "C. done so",
+          "D. proofread"
+        ],
+        "answer": "C",
+        "explanation": "นี่คือประโยคเงื่อนไขแบบที่ 3 ที่มีการ Inversion (สลับที่) ใน if-clause (Had you done so = If you had done so) คำว่า 'done so' ทำหน้าที่แทน 'proofread the document' ซึ่งเป็น Verbal Substitution ที่เหมาะสมที่สุด"
+      },
+      {
+        "question": "This particular model of car is highly sought after, but I'm afraid we don't have ______ in stock at the moment.",
+        "options": [
+          "A. it",
+          "B. that",
+          "C. one",
+          "D. this"
+        ],
+        "answer": "C",
+        "explanation": "'one' เป็น Nominal Substitution ที่ถูกต้องสำหรับ 'a model of car' ที่ไม่เฉพาะเจาะจง (indefinite) เรากำลังพูดถึงรถรุ่นนี้หนึ่งคัน ไม่ใช่คันที่เฉพาะเจาะจงที่เคยพูดถึงมาก่อน (ซึ่งจะใช้ 'it')"
+      },
+      {
+        "question": "His plan, audacious though it was, seemed the only viable ______.",
+        "options": [
+          "A. it was",
+          "B. so",
+          "C. one",
+          "D. that"
+        ],
+        "answer": "C",
+        "explanation": "'one' ในที่นี้ทำหน้าที่แทนคำนาม 'plan' หรือ 'option' ที่ละไว้ในใจความ เพื่อหลีกเลี่ยงการพูดซ้ำ ทำให้ประโยคจบลงอย่างกระชับว่า 'the only viable one' (ทางเลือกเดียวที่ทำได้)"
+      },
+      {
+        "question": "I don't particularly enjoy contemporary art, but my partner ______.",
+        "options": [
+          "A. enjoys",
+          "B. does",
+          "C. is",
+          "D. likes"
+        ],
+        "answer": "B",
+        "explanation": "'does' เป็น Verbal Substitution ที่ถูกต้องสำหรับ 'enjoys contemporary art' เพื่อสร้างความขนานและหลีกเลี่ยงการพูดซ้ำ เราใช้ 'do/does/did' เพื่อแทนกริยาแท้ในประโยคบอกเล่า/ปฏิเสธทั่วไป"
+      },
+      {
+        "question": "You are expected to comply with the safety procedures. Failure ______ will result in immediate dismissal.",
+        "options": [
+          "A. to do so",
+          "B. of doing so",
+          "C. doing so",
+          "D. so to do"
+        ],
+        "answer": "A",
+        "explanation": "โครงสร้างที่ถูกต้องคือ 'Failure to do so' ซึ่ง 'to do so' ทำหน้าที่เป็น Infinitive Phrase ที่ขยายคำนาม 'Failure' และแทนที่การกระทำ 'to comply with the safety procedures'"
+      },
+      {
+        "question": "The treaty was meant to foster peace, yet it seems to have done the exact ______.",
+        "options": [
+          "A. opposite",
+          "B. same",
+          "C. not",
+          "D. otherwise"
+        ],
+        "answer": "A",
+        "explanation": "วลี 'the exact opposite' เป็นสำนวนที่สมบูรณ์และใช้เพื่อแสดงผลลัพธ์ที่ตรงกันข้ามอย่างสิ้นเชิงกับที่คาดหวังไว้ 'done the exact opposite' หมายถึง 'ได้ก่อให้เกิดผลตรงกันข้าม' (เช่น ก่อสงครามแทนสันติภาพ)"
+      },
+      {
+        "question": "She possesses a formidable intellect, as ______ her siblings.",
+        "options": [
+          "A. are",
+          "B. have",
+          "C. possess",
+          "D. do"
+        ],
+        "answer": "D",
+        "explanation": "ในโครงสร้างเปรียบเทียบที่ใช้ 'as' หรือ 'than' เราสามารถใช้กริยาช่วยเพื่อทำ Ellipsis ได้ ในที่นี้ กริยาหลักคือ 'possesses' (Present Simple) ดังนั้นกริยาช่วยที่ถูกต้องสำหรับ 'her siblings' (plural) คือ 'do'"
+      },
+      {
+        "question": "The minister was evasive when questioned about the scandal, and ______ were his aides.",
+        "options": [
+          "A. so",
+          "B. also",
+          "C. too",
+          "D. neither"
+        ],
+        "answer": "A",
+        "explanation": "เมื่อต้องการแสดงความคล้อยตามในทางบอกเล่า เราใช้โครงสร้าง 'so + auxiliary + subject' ในที่นี้ กริยาคือ 'was' (verb to be) ดังนั้นโครงสร้างที่ถูกต้องคือ 'so were his aides' (และผู้ช่วยของเขาก็เป็นเช่นนั้นเหมือนกัน)"
+      },
+      {
+        "question": "He aspired to be a concert pianist, but lacked the requisite self-discipline to become ______.",
+        "options": [
+          "A. so",
+          "B. it",
+          "C. one",
+          "D. that"
+        ],
+        "answer": "C",
+        "explanation": "'one' ในที่นี้เป็น Nominal Substitution สำหรับ 'a concert pianist' ซึ่งเป็นบุคคลที่ไม่เฉพาะเจาะจง การใช้ 'it' หรือ 'that' จะไม่ถูกต้องเพราะหมายถึงสิ่งของ"
+      },
+      {
+        "question": "It's one thing to have a brilliant idea; it's quite another to execute it successfully, as many an entrepreneur has learned to their cost.",
+        "options": [
+          "A. to do it",
+          "B. another",
+          "C. so",
+          "D. it"
+        ],
+        "answer": "B",
+        "explanation": "สำนวน 'it's one thing to do X; it's quite another to do Y' เป็นโครงสร้างตายตัวที่ใช้เปรียบเทียบสองสิ่งที่แตกต่างกันอย่างมาก 'another' ในที่นี้ย่อมาจาก 'another thing' ซึ่งเป็นส่วนหนึ่งของสำนวน"
+      },
+      {
+        "question": "The negotiations have been protracted and arduous. Nevertheless, we are hopeful a resolution can be reached, and reached it must ______.",
+        "options": [
+          "A. be",
+          "B. do",
+          "C. have",
+          "D. so"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคสุดท้ายใช้โครงสร้างเน้นความ (Emphasis) และ Passive Voice โครงสร้างเต็มคือ 'and it must be reached' การสลับที่ 'reached' มาข้างหน้าทำให้ประโยคมีน้ำหนักมากขึ้น กริยาช่วยที่ถูกต้องซึ่งถูกละไว้คือ 'be' (must be reached)"
+      },
+      {
+        "question": "Her performance was technically flawless, if a little ______ in emotional depth.",
+        "options": [
+          "A. flawed",
+          "B. lacking",
+          "C. lesser",
+          "D. absent"
+        ],
+        "answer": "B",
+        "explanation": "วลี 'if a little lacking in...' เป็นวิธีพูดที่สุภาพเพื่อวิจารณ์ข้อบกพร่องเล็กน้อย 'lacking' (ซึ่งขาดไป) เป็น Participle ที่เหมาะสมที่สุดในการอธิบายถึง 'emotional depth' ที่ไม่มีอยู่"
+      },
+      {
+        "question": "Few politicians are willing to take a principled stand against popular opinion, but she is one of the few who ______.",
+        "options": [
+          "A. are",
+          "B. is",
+          "C. will",
+          "D. do"
+        ],
+        "answer": "D",
+        "explanation": "ในวลี 'one of the few who...' กริยาที่ตามมาจะผันตาม 'few' (plural) ไม่ใช่ 'one' (singular) กริยาที่ถูกละไปคือ 'take a principled stand' ซึ่งเป็นกริยาแท้ใน Present Simple ดังนั้น Verbal Substitution ที่ถูกต้องคือ 'do' (who do [take a stand])"
+      }
+    ]
+  }
+]

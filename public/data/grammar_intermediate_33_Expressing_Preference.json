@@ -1,0 +1,854 @@
+[
+  {
+    "id": "33_1",
+    "title": "33.1 Prefer & Would prefer (to do A rather than do B)",
+    "explanation": "การแสดงความชอบ (Preference) เป็นเรื่องพื้นฐาน แต่ในระดับ B1-B2 เราจะลงลึกในโครงสร้างที่ซับซ้อนขึ้น โดยเฉพาะการใช้ 'Prefer' และ 'Would prefer' ในการเปรียบเทียบสองสิ่ง\n\n1. **Prefer (การแสดงความชอบโดยทั่วไป - General Preferences)**\n   - ใช้พูดถึงสิ่งที่ชอบมากกว่าเป็นปกติ เป็นนิสัย หรือเป็นความจริงโดยทั่วไป\n   - **โครงสร้างที่ใช้บ่อย:**\n     a) **prefer + Noun + to + Noun:** ใช้เปรียบเทียบนามกับนาม\n        *   *I prefer coffee to tea.* (ฉันชอบกาแฟมากกว่าชา - โดยทั่วไป)\n     b) **prefer + V-ing + to + V-ing:** ใช้เปรียบเทียบกิจกรรมกับกิจกรรม (เป็นโครงสร้างที่นิยมมาก)\n        *   *She prefers reading books to watching movies.* (เธอชอบอ่านหนังสือมากกว่าดูหนัง)\n     c) **prefer + to-infinitive:** ใช้บอกว่าชอบทำสิ่งใดสิ่งหนึ่ง (ไม่ได้เปรียบเทียบกับอีกสิ่งโดยตรง)\n        *   *On weekends, I prefer to relax at home.* (ในวันหยุดสุดสัปดาห์ ฉันชอบพักผ่อนที่บ้าน)\n\n2. **Would prefer (การแสดงความชอบในสถานการณ์เฉพาะเจาะจง - Specific Preferences)**\n   - ใช้พูดถึงสิ่งที่อยากทำ 'มากกว่า' ในสถานการณ์นั้นๆ หรือในขณะที่พูด ไม่ใช่ความชอบโดยทั่วไป\n   - มักจะย่อเป็น 'd prefer\n   - **โครงสร้างที่สำคัญ:**\n     a) **would prefer + to-infinitive:** บอกความต้องการในสถานการณ์นั้น\n        *   *(At a restaurant) I'd prefer to sit by the window.* (ฉันอยากจะนั่งริมหน้าต่าง - เฉพาะตอนนี้)\n     b) **would prefer + to do (A) + rather than + do (B):** โครงสร้างหัวใจของบทนี้ คือการเปรียบเทียบการกระทำ 2 อย่างในสถานการณ์เฉพาะ โดย A และ B จะมีความขัดแย้งกัน\n        *   *I'd prefer to finish this report now rather than leave it for tomorrow.* (ฉันอยากจะทำรายงานนี้ให้เสร็จตอนนี้เลย มากกว่าที่จะทิ้งไว้ทำพรุ่งนี้)\n        *   **จุดสำคัญ:** หลัง 'rather than' ต้องตามด้วย 'Bare Infinitive' (Verb ช่อง 1 ไม่ผัน ไม่มี to) เสมอ\n\n**ข้อแตกต่างที่ต้องจำ:**\n- **Prefer:** ชอบอะไรมากกว่าอะไรเป็นปกติ (General)\n  *I prefer living in the city.* (ฉันชอบการใช้ชีวิตในเมือง - เป็นความจริงทั่วไปสำหรับฉัน)\n- **Would prefer:** อยากจะทำอะไรมากกว่าอะไรในตอนนี้ (Specific)\n  *I'm tired. I'd prefer to stay home tonight rather than go out.* (ฉันเหนื่อย คืนนี้ฉันอยากอยู่บ้านมากกว่าออกไปข้างนอก - เฉพาะคืนนี้เท่านั้น)",
+    "examples": [
+      {
+        "eng": "As a manager, I prefer delegating tasks to micromanaging my team.",
+        "thai": "ในฐานะผู้จัดการ ฉันชอบที่จะมอบหมายงานมากกว่าไปจัดการจู้จี้จุกจิกกับทีมของฉัน (เป็นการแสดงความชอบในสไตล์การทำงานโดยทั่วไป ใช้โครงสร้าง prefer V-ing to V-ing)"
+      },
+      {
+        "eng": "A: 'Should we take a taxi?' B: 'No, the traffic is terrible. I'd prefer to take the subway.'",
+        "thai": "A: 'เรานั่งแท็กซี่กันไหม' B: 'ไม่ดีกว่า รถติดมาก ฉันอยากจะไปรถไฟใต้ดินมากกว่า' (เป็นการตัดสินใจเลือกในสถานการณ์เฉพาะหน้า)"
+      },
+      {
+        "eng": "She would prefer to invest her savings in a long-term fund rather than spend it on frivolous luxuries.",
+        "thai": "เธออยากจะนำเงินออมไปลงทุนในกองทุนระยะยาว มากกว่าที่จะใช้จ่ายไปกับของฟุ่มเฟือยไร้สาระ (เป็นความต้องการเฉพาะเจาะจงเกี่ยวกับการใช้เงินก้อนนี้ สังเกตว่าหลัง rather than ใช้ spend ที่เป็น bare infinitive)"
+      },
+      {
+        "eng": "Given the tight deadline, we would prefer to focus on the core features rather than add more complex functionalities.",
+        "thai": "เมื่อพิจารณาถึงเดดไลน์ที่กระชั้นชิด เราอยากจะมุ่งเน้นไปที่คุณสมบัติหลัก มากกว่าที่จะเพิ่มฟังก์ชันที่ซับซ้อนเข้าไปอีก (เป็นการตัดสินใจเชิงกลยุทธ์ในสถานการณ์ปัจจุบัน หลัง rather than ใช้ add)"
+      }
+    ],
+    "common_mistakes": "1. **ใช้ 'than' กับ 'prefer'**: ผิดมหันต์! 'prefer' ต้องใช้คู่กับ 'to' เสมอในการเปรียบเทียบ\n   - **ผิด:** I prefer coffee *than* tea.\n   - **ถูก:** I prefer coffee *to* tea.\n\n2. **ใช้ Verb รูปอื่นหลัง 'rather than'**: ในโครงสร้าง 'would prefer to do A rather than...', คำกริยาที่ตามหลัง 'rather than' ต้องเป็น Bare Infinitive (V. ไม่ผัน ไม่มี to) เท่านั้น\n   - **ผิด:** I'd prefer to drive rather than *to take* the train.\n   - **ผิด:** I'd prefer to drive rather than *taking* the train.\n   - **ถูก:** I'd prefer to drive rather than *take* the train.\n\n3. **สับสนระหว่าง General กับ Specific**: การใช้ 'prefer' พูดถึงความต้องการเฉพาะหน้า ทำให้ฟังดูแปลก เหมือนเป็นกฎเกณฑ์ของชีวิต\n   - **ไม่ค่อยเป็นธรรมชาติ:** I prefer to go home now. (ฉันชอบที่จะกลับบ้านตอนนี้ - ฟังดูเหมือนเป็นกฎ)\n   - **เป็นธรรมชาติกว่า:** I'd prefer to go home now. (ฉันอยากจะกลับบ้านตอนนี้ - เพราะเหนื่อย/มีธุระ)\n\n4. **ใช้ V-ing ในโครงสร้าง 'would prefer'**: โครงสร้าง 'would prefer' โดยทั่วไปจะตามด้วย 'to-infinitive' ไม่ใช่ V-ing\n   - **ผิด:** I'd prefer *staying* home tonight.\n   - **ถูก:** I'd prefer *to stay* home tonight.",
+    "practice_questions": [
+      {
+        "question": "In general, most employees prefer a flexible work schedule ___ a rigid nine-to-five routine.",
+        "options": [
+          "A. than",
+          "B. to",
+          "C. rather than",
+          "D. from"
+        ],
+        "answer": "B",
+        "explanation": "คำถามนี้พูดถึงความชอบโดยทั่วไป (In general) และเป็นการเปรียบเทียบนาม (a flexible work schedule) กับนาม (a rigid nine-to-five routine) ดังนั้นต้องใช้โครงสร้าง prefer + Noun + to + Noun"
+      },
+      {
+        "question": "A: 'The team wants to launch the product next week.' B: 'I think that's too soon. I'd prefer ___ for another month.'",
+        "options": [
+          "A. waiting",
+          "B. to wait",
+          "C. wait",
+          "D. will wait"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้เป็นการแสดงความต้องการในสถานการณ์เฉพาะเจาะจง จึงใช้ 'I'd prefer' (I would prefer) ซึ่งต้องตามด้วย to-infinitive (to + V1) ดังนั้น 'to wait' จึงเป็นคำตอบที่ถูกต้อง"
+      },
+      {
+        "question": "He would prefer to address the problem directly ___ pretend it doesn't exist.",
+        "options": [
+          "A. to",
+          "B. than",
+          "C. rather than",
+          "D. instead of"
+        ],
+        "answer": "C",
+        "explanation": "นี่คือโครงสร้างหลัก 'would prefer to do A ... do B' ส่วนที่เชื่อมระหว่างการกระทำ A (to address) และ B (pretend) คือ 'rather than' และสังเกตว่า 'pretend' เป็น bare infinitive ซึ่งถูกต้องตามหลักไวยากรณ์"
+      },
+      {
+        "question": "She'd prefer to take on a leadership role rather than ___ a team member forever.",
+        "options": [
+          "A. remain",
+          "B. to remain",
+          "C. remaining",
+          "D. remains"
+        ],
+        "answer": "A",
+        "explanation": "ในโครงสร้าง 'would prefer to do A rather than do B' คำกริยาที่ตามหลัง 'rather than' จะต้องเป็น Bare Infinitive (V1 ไม่ผัน ไม่มี to) เสมอ ดังนั้นคำตอบคือ 'remain'"
+      },
+      {
+        "question": "My grandfather prefers ___ his own vegetables to ___ them from the supermarket.",
+        "options": [
+          "A. grow / buy",
+          "B. to grow / buying",
+          "C. growing / buying",
+          "D. growing / to buy"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้แสดงความชอบทั่วไป (general preference) ในการเปรียบเทียบระหว่างสองกิจกรรม จึงต้องใช้โครงสร้าง 'prefer + V-ing + to + V-ing' ดังนั้น 'growing' และ 'buying' จึงถูกต้องที่สุด"
+      },
+      {
+        "question": "Given the choice, our company would prefer to innovate ___ copy what our competitors are doing.",
+        "options": [
+          "A. rather than",
+          "B. to",
+          "C. than",
+          "D. instead"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคใช้ 'would prefer to innovate' (to do A) ดังนั้นส่วนที่ตามมาเพื่อเปรียบเทียบกับการกระทำที่สอง 'copy' (do B) จะต้องใช้ 'rather than' เพื่อให้ได้โครงสร้างที่สมบูรณ์"
+      },
+      {
+        "question": "I know you love action movies, but for tonight's film, I'd prefer ___ something more lighthearted.",
+        "options": [
+          "A. choosing",
+          "B. choose",
+          "C. to choose",
+          "D. having chosen"
+        ],
+        "answer": "C",
+        "explanation": "เป็นการแสดงความต้องการเฉพาะ 'คืนนี้' (tonight's film) จึงใช้ 'I'd prefer' ซึ่งตามด้วย to-infinitive ('to choose') เพื่อบอกว่าอยากจะเลือกทำอะไรในสถานการณ์นี้"
+      },
+      {
+        "question": "The client would prefer to receive a detailed proposal ___ discuss the project over the phone.",
+        "options": [
+          "A. to",
+          "B. than",
+          "C. rather to",
+          "D. rather than"
+        ],
+        "answer": "D",
+        "explanation": "โครงสร้างเปรียบเทียบการกระทำสองอย่างในสถานการณ์เฉพาะ (would prefer to do A ... do B) ต้องใช้ 'rather than' เพื่อเชื่อมระหว่าง 'to receive' และ 'discuss' (bare infinitive)"
+      },
+      {
+        "question": "To be honest, I'd prefer to work independently ___ collaborate on this particular task.",
+        "options": [
+          "A. from",
+          "B. rather than",
+          "C. than to",
+          "D. to"
+        ],
+        "answer": "B",
+        "explanation": "ผู้พูดกำลังแสดงความต้องการเฉพาะเจาะจงสำหรับ 'งานนี้' (this particular task) และเปรียบเทียบระหว่าง 'to work independently' (to do A) กับ 'collaborate' (do B) จึงต้องใช้ 'rather than' เป็นตัวเชื่อม"
+      },
+      {
+        "question": "The board of directors would prefer to postpone the decision rather than ___ a hasty choice they might regret later.",
+        "options": [
+          "A. making",
+          "B. to make",
+          "C. make",
+          "D. makes"
+        ],
+        "answer": "C",
+        "explanation": "นี่คือการทดสอบจุดที่คนมักพลาดที่สุด หลัง 'rather than' ในโครงสร้างนี้ต้องตามด้วย Bare Infinitive (V1 ไม่ผัน ไม่มี to) เท่านั้น คำตอบที่ถูกต้องคือ 'make'"
+      }
+    ]
+  },
+  {
+    "id": "33_2",
+    "title": "33.2 Would rather (do A than do B)",
+    "explanation": "โครงสร้าง 'Would rather' ใช้เพื่อแสดงความชอบหรือความต้องการว่าเราอยากจะทำสิ่งหนึ่งมากกว่าอีกสิ่งหนึ่ง เป็นสำนวนที่ใช้บ่อยในภาษาอังกฤษ มีความหมายคล้ายกับ 'prefer' แต่มีรูปแบบการใช้งานที่ต่างกัน\n\n**โครงสร้างหลัก:**\n\n1.  **บอกว่าอยากทำอะไร (ไม่มีการเปรียบเทียบ):**\n    `Subject + would rather + Verb 1 (infinitive without 'to')`\n    *   `I'd rather stay home tonight.` (ฉันอยากจะอยู่บ้านคืนนี้มากกว่า)\n    *   'd rather' คือรูปย่อของ 'would rather'\n\n2.  **เปรียบเทียบว่าอยากทำสิ่งหนึ่งมากกว่าอีกสิ่งหนึ่ง:**\n    `Subject + would rather + Verb 1 (A) + than + Verb 1 (B)`\n    *   `She'd rather read a book than watch a movie.` (เธออยากจะอ่านหนังสือมากกว่าดูหนัง)\n    *   สังเกตว่า Verb ที่ตามหลัง cả 'would rather' และ 'than' ต้องเป็นรูป base form (V.1) ทั้งคู่\n\n3.  **รูปปฏิเสธ:**\n    `Subject + would rather not + Verb 1`\n    *   `We'd rather not go out in this heavy rain.` (พวกเราไม่อยากจะออกไปข้างนอกตอนฝนตกหนักแบบนี้)\n\n4.  **เมื่อต้องการบอกว่าอยากให้ 'คนอื่น' ทำอะไร (โครงสร้างสำคัญสำหรับ B1-B2):**\n    `Subject 1 + would rather + Subject 2 + Past Simple Tense (V.2)`\n    *   โครงสร้างนี้ใช้เมื่อผู้พูด (Subject 1) ต้องการแสดงความชอบให้ผู้ฟังหรือบุคคลอื่น (Subject 2) ทำหรือไม่ทำบางอย่าง\n    *   ถึงแม้ว่าจะใช้ Past Simple Tense (V.2) แต่ความหมายจะสื่อถึง **ปัจจุบัน หรือ อนาคต**\n    *   `I would rather you told me the truth now.` (ฉันอยากให้คุณบอกความจริงกับฉันตอนนี้)\n    *   `My boss would rather I finished the report by tomorrow.` (เจ้านายของฉันอยากให้ฉันทำรายงานให้เสร็จภายในวันพรุ่งนี้)",
+    "examples": [
+      {
+        "eng": "Given the choice, I'd rather work on a challenging project that develops my skills than do a repetitive task for a higher salary.",
+        "thai": "ถ้าให้เลือก ฉันอยากจะทำงานในโปรเจกต์ที่ท้าทายซึ่งช่วยพัฒนาทักษะของฉัน มากกว่าทำงานซ้ำๆ เดิมๆ เพื่อเงินเดือนที่สูงกว่า"
+      },
+      {
+        "eng": "He'd rather not get involved in their argument; he prefers to remain neutral.",
+        "thai": "เขาไม่อยากจะเข้าไปยุ่งกับการโต้เถียงของพวกเขา เขาเลือกที่จะเป็นกลางมากกว่า"
+      },
+      {
+        "eng": "Honestly, I would rather you didn't post that photo of me online. It's not a flattering picture.",
+        "thai": "พูดตามตรงนะ ฉันอยากให้เธอไม่โพสต์รูปนั้นของฉันลงบนโลกออนไลน์ มันเป็นรูปที่ไม่ค่อยสวยเท่าไหร่ (สังเกตการใช้ didn't + V.1 ซึ่งเป็นรูป Past Simple)"
+      },
+      {
+        "eng": "Would you rather we postponed the meeting until everyone is available, or should we proceed with the current attendees?",
+        "thai": "คุณอยากให้เราเลื่อนการประชุมออกไปจนกว่าทุกคนจะว่าง หรือเราควรจะดำเนินการประชุมต่อกับผู้เข้าร่วมที่มีอยู่ตอนนี้เลย?"
+      },
+      {
+        "eng": "She told me she would rather her son pursued a degree in engineering than studied art, but she would support him either way.",
+        "thai": "เธอบอกฉันว่าเธออยากให้ลูกชายของเธอเรียนต่อปริญญาด้านวิศวกรรมมากกว่าเรียนศิลปะ แต่ไม่ว่าอย่างไรเธอก็จะสนับสนุนเขา (สังเกตการใช้ 'pursued' และ 'studied' ซึ่งเป็น Past Simple เพราะ Subject 1 (she) และ Subject 2 (her son) เป็นคนละคนกัน)"
+      }
+    ],
+    "common_mistakes": "1.  **ใช้ 'to' ตามหลัง 'would rather':** ผิดบ่อยที่สุด!\n    *   ผิด: `I would rather to drink coffee.`\n    *   ถูก: `I would rather drink coffee.`\n    *   **จำไว้ว่า:** หลัง 'would rather' ต้องตามด้วย Verb infinitive ที่ไม่มี 'to' เสมอ\n\n2.  **ใช้ Verb รูปอื่นที่ไม่ใช่ V.1 หลัง 'than':** เมื่อมีการเปรียบเทียบ Verb ทั้งสองตัวต้องอยู่ในรูปเดียวกัน (parallel structure)\n    *   ผิด: `I'd rather drive than taking the train.`\n    *   ถูก: `I'd rather drive than take the train.` (drive และ take เป็น V.1 ทั้งคู่)\n\n3.  **สับสนโครงสร้างเมื่อมี 2 ประธาน (Subject):** คนไทยมักจะใช้ Present Tense แทนที่จะเป็น Past Simple Tense\n    *   ผิด: `I would rather you don't make so much noise.`\n    *   ถูก: `I would rather you didn't make so much noise.`\n    *   **จำไว้ว่า:** `S1 + would rather + S2 + Past Simple (V.2)` เพื่อพูดถึงความต้องการในปัจจุบัน/อนาคต",
+    "practice_questions": [
+      {
+        "question": "My manager seems stressed. I think she would rather ___ alone for a while.",
+        "options": [
+          "A. to be left",
+          "B. being left",
+          "C. be left",
+          "D. has been left"
+        ],
+        "answer": "C",
+        "explanation": "หลัง 'would rather' ต้องตามด้วย Verb infinitive without 'to' (V.1) ในที่นี้เป็นรูป passive voice (be + V.3) ดังนั้น 'be left' จึงเป็นคำตอบที่ถูกต้อง หมายถึง 'อยากจะถูกปล่อยให้อยู่คนเดียว'"
+      },
+      {
+        "question": "A: Let's go to that new Italian restaurant.\nB: Actually, I'd rather ___ at home tonight. I'm exhausted.",
+        "options": [
+          "A. eat",
+          "B. to eat",
+          "C. eating",
+          "D. ate"
+        ],
+        "answer": "A",
+        "explanation": "โครงสร้างพื้นฐานคือ `Subject + would rather + V.1` ดังนั้นคำตอบที่ถูกต้องคือ 'eat'"
+      },
+      {
+        "question": "I would rather you ___ me the complete story before I make a decision.",
+        "options": [
+          "A. tell",
+          "B. told",
+          "C. will tell",
+          "D. are telling"
+        ],
+        "answer": "B",
+        "explanation": "นี่คือโครงสร้างที่ผู้พูด (I) อยากให้คนอื่น (you) ทำอะไรบางอย่าง จึงต้องใช้โครงสร้าง `S1 + would rather + S2 + Past Simple (V.2)` ถึงแม้ความหมายจะหมายถึงปัจจุบันหรืออนาคตก็ตาม ดังนั้น 'told' คือคำตอบที่ถูกต้อง"
+      },
+      {
+        "question": "He would rather invest his money in property ___ it in a low-interest savings account.",
+        "options": [
+          "A. than keeping",
+          "B. than keep",
+          "C. to keep",
+          "D. from keeping"
+        ],
+        "answer": "B",
+        "explanation": "เป็นการเปรียบเทียบระหว่าง 'invest' กับ 'keep' โครงสร้างคือ `would rather + V.1 (A) + than + V.1 (B)` ดังนั้นหลัง 'than' ต้องใช้ Verb รูปเดียวกันคือ 'keep' (V.1)"
+      },
+      {
+        "question": "To be honest, we'd rather not ___ this confidential information with anyone outside the team.",
+        "options": [
+          "A. share",
+          "B. to share",
+          "C. sharing",
+          "D. shared"
+        ],
+        "answer": "A",
+        "explanation": "ในรูปปฏิเสธ โครงสร้างคือ `would rather not + V.1` ดังนั้นคำตอบที่ถูกต้องคือ 'share'"
+      },
+      {
+        "question": "Would you rather ___ the presentation now or wait until you have more data?",
+        "options": [
+          "A. giving",
+          "B. to give",
+          "C. give",
+          "D. gave"
+        ],
+        "answer": "C",
+        "explanation": "ในประโยคคำถาม `Would you rather...?` เราจะตามด้วย Verb infinitive without 'to' (V.1) ดังนั้น 'give' จึงเป็นคำตอบที่ถูกต้อง"
+      },
+      {
+        "question": "My parents would rather I ___ a more stable career path, but I'm determined to be an artist.",
+        "options": [
+          "A. choose",
+          "B. have chosen",
+          "C. choosing",
+          "D. chose"
+        ],
+        "answer": "D",
+        "explanation": "เป็นโครงสร้างที่ผู้พูด (My parents) อยากให้คนอื่น (I) ทำอะไรบางอย่าง จึงใช้ `S1 + would rather + S2 + Past Simple (V.2)` ดังนั้น 'chose' คือคำตอบที่ถูกต้อง"
+      },
+      {
+        "question": "She'd rather face the challenge head-on ___ pretend the problem doesn't exist.",
+        "options": [
+          "A. instead of",
+          "B. from",
+          "C. than",
+          "D. to"
+        ],
+        "answer": "C",
+        "explanation": "เมื่อใช้ 'would rather' เพื่อเปรียบเทียบสองการกระทำ เราจะใช้คำว่า 'than' เพื่อเชื่อมการกระทำเหล่านั้น"
+      },
+      {
+        "question": "I know you're busy, but I'd rather we ___ this issue out today rather than letting it escalate.",
+        "options": [
+          "A. sort",
+          "B. sorting",
+          "C. sorted",
+          "D. to sort"
+        ],
+        "answer": "C",
+        "explanation": "เป็นโครงสร้าง `S1 (I) + would rather + S2 (we) + Past Simple (V.2)` เพื่อแสดงความต้องการให้คนอื่นทำบางอย่างในปัจจุบันหรืออนาคต ดังนั้น 'sorted' คือคำตอบที่ถูกต้อง"
+      },
+      {
+        "question": "Which of the following sentences is grammatically correct?",
+        "options": [
+          "A. I'd rather to check the facts before commenting.",
+          "B. He would rather you don't interrupt him.",
+          "C. They'd rather travel by train than flying.",
+          "D. We'd rather you paid in cash if possible."
+        ],
+        "answer": "D",
+        "explanation": "ข้อ A ผิดเพราะใช้ 'to check' (ต้องเป็น check) ข้อ B ผิดเพราะใช้ 'don't interrupt' (ต้องเป็น didn't interrupt) ข้อ C ผิดเพราะใช้ 'flying' (ต้องเป็น fly เพื่อให้ขนานกับ travel) ข้อ D ถูกต้องตามโครงสร้าง `S1 + would rather + S2 + Past Simple (V.2)`"
+      }
+    ]
+  },
+  {
+    "id": "33_3",
+    "title": "33.3 Summary: Expressing Preference (สรุปการบอกความชอบ + 50 Exercises)",
+    "explanation": "การสรุปโครงสร้างการบอกความชอบ (Expressing Preference) ในระดับกลาง (B1-B2) มีโครงสร้างหลักๆ ที่ต้องจำและใช้ให้ถูกต้อง ดังนี้:\n\n1. **Prefer + Noun/Gerund + to + Noun/Gerund**: ใช้พูดถึงความชอบทั่วๆ ไป ไม่ได้เจาะจงสถานการณ์\n   - `I prefer coffee to tea.` (ฉันชอบกาแฟมากกว่าชา)\n   - `She prefers reading books to watching movies.` (เธอชอบอ่านหนังสือมากกว่าดูหนัง)\n   *ข้อควรระวัง: ใช้ `to` ไม่ใช่ `than`*\n\n2. **Would prefer + to V1 + rather than + V1 (bare infinitive)**: ใช้พูดถึงความชอบในสถานการณ์ที่เฉพาะเจาะจง หรือในขณะที่พูด\n   - `I'm tired. I'd prefer to stay home tonight rather than go to the party.` (ฉันเหนื่อย คืนนี้ฉันอยากอยู่บ้านมากกว่าไปปาร์ตี้)\n   *สังเกต: หลัง `would prefer` ใช้ `to V1` แต่หลัง `rather than` ใช้ `V1` (ไม่มี to)*\n\n3. **Would rather + V1 (bare infinitive) + than + V1 (bare infinitive)**: ความหมายเหมือน `would prefer` แต่โครงสร้างต่างกัน ใช้กับความชอบในสถานการณ์เฉพาะเจาะจง\n   - `I would rather drive than take the train.` (ฉันอยากขับรถไปเองมากกว่านั่งรถไฟ)\n   *สังเกต: หลัง `would rather` และ `than` ใช้ `V1` (ไม่มี to) ทั้งคู่*\n\n4. **Would rather + (that) + Subject + Past Simple**: เป็นโครงสร้างขั้นสูงขึ้นมา (Subjunctive Mood) ใช้เมื่อเราอยากให้ \"คนอื่น\" ทำสิ่งใดสิ่งหนึ่ง\n   - `I'd rather you didn't smoke in this room.` (ฉันอยากให้คุณไม่สูบบุหรี่ในห้องนี้) -> ใช้ `didn't smoke` (Past Simple) แม้จะพูดถึงปัจจุบันหรืออนาคต\n   - `She'd rather her son studied medicine.` (เธออยากให้ลูกชายเรียนหมอ)\n\n5. **Like + Noun/Gerund + better than + Noun/Gerund**: เป็นโครงสร้างที่ไม่เป็นทางการเท่า `prefer` แต่ใช้บ่อยในชีวิตประจำวัน\n   - `I like pop music better than rock music.` (ฉันชอบเพลงป๊อปมากกว่าเพลงร็อก)",
+    "examples": [
+      {
+        "eng": "She prefers working independently to being part of a large team.",
+        "thai": "เธอชอบทำงานคนเดียวมากกว่าการเป็นส่วนหนึ่งของทีมใหญ่ (ใช้ prefer + gerund + to + gerund)"
+      },
+      {
+        "eng": "Given the choice, I'd prefer to invest in sustainable energy rather than rely on fossil fuels.",
+        "thai": "ถ้าให้เลือก ฉันอยากจะลงทุนในพลังงานยั่งยืนมากกว่าพึ่งพาเชื้อเพลิงฟอสซิล (ใช้ would prefer + to V1 + rather than + V1)"
+      },
+      {
+        "eng": "He would rather admit he was wrong than continue arguing endlessly.",
+        "thai": "เขายอมรับว่าผิดเสียดีกว่าที่จะเถียงต่อไปอย่างไม่รู้จบ (ใช้ would rather + V1 + than + V1)"
+      },
+      {
+        "eng": "To be honest, I'd rather you paid me back by the end of the week.",
+        "thai": "พูดตามตรงนะ ฉันอยากให้คุณคืนเงินฉันภายในสิ้นสัปดาห์นี้ (ใช้ would rather + subject + past simple)"
+      }
+    ],
+    "common_mistakes": "1. **ใช้ 'than' กับ 'prefer'**: ผิด! ต้องใช้ 'to' -> `I prefer tea to coffee.` (ถูก) / `I prefer tea than coffee.` (ผิด)\n2. **ใส่ 'to' หลัง 'would rather'**: ผิด! `Would rather` ต้องตามด้วย V1 (Bare Infinitive) -> `I would rather go.` (ถูก) / `I would rather to go.` (ผิด)\n3. **ใช้ Verb Form ผิดหลัง 'rather than'**: ในโครงสร้าง `would prefer to V1...` หลัง `rather than` ต้องเป็น V1 (Bare Infinitive) ไม่ใช่ `to V1` หรือ `V-ing` -> `I'd prefer to walk rather than take a taxi.` (ถูก) / `...rather than to take a taxi.` (ผิด)\n4. **ใช้ Tense ผิดในโครงสร้าง 'Would rather + Subject...'**: เมื่ออยากให้คนอื่นทำอะไร ต้องใช้ Past Simple ไม่ใช่ Present Simple -> `I'd rather you didn't leave.` (ถูก - อยากให้คุณไม่ออกไป) / `I'd rather you don't leave.` (ผิด)",
+    "practice_questions": [
+      {
+        "question": "She prefers tea ___ coffee.",
+        "options": [
+          "A. than",
+          "B. from",
+          "C. to",
+          "D. over"
+        ],
+        "answer": "C",
+        "explanation": "โครงสร้างคือ `prefer + noun + to + noun` เพื่อเปรียบเทียบความชอบ ดังนั้นต้องใช้ 'to'"
+      },
+      {
+        "question": "I would rather ___ at home tonight than go out.",
+        "options": [
+          "A. stay",
+          "B. to stay",
+          "C. staying",
+          "D. stayed"
+        ],
+        "answer": "A",
+        "explanation": "โครงสร้างคือ `would rather + V1 (bare infinitive) + than + V1 (bare infinitive)` ดังนั้นต้องใช้ 'stay'"
+      },
+      {
+        "question": "They'd prefer to travel by train ___ drive.",
+        "options": [
+          "A. than to",
+          "B. than",
+          "C. rather than",
+          "D. to"
+        ],
+        "answer": "C",
+        "explanation": "โครงสร้างคือ `would prefer + to V1 + rather than + V1 (bare infinitive)` ดังนั้นต้องใช้ 'rather than'"
+      },
+      {
+        "question": "Frankly, I'd rather you ___ mention this to anyone.",
+        "options": [
+          "A. don't",
+          "B. didn't",
+          "C. not",
+          "D. won't"
+        ],
+        "answer": "B",
+        "explanation": "โครงสร้าง `would rather + subject + past simple` ใช้เพื่อบอกว่าอยากให้คนอื่นทำ (หรือไม่ทำ) อะไร ดังนั้นจึงใช้ 'didn't'"
+      },
+      {
+        "question": "My brother prefers ___ video games to ___ his homework.",
+        "options": [
+          "A. playing / doing",
+          "B. play / do",
+          "C. to play / to do",
+          "D. playing / do"
+        ],
+        "answer": "A",
+        "explanation": "โครงสร้างคือ `prefer + gerund (V-ing) + to + gerund (V-ing)` รูปแบบของคำกริยาต้องเหมือนกันทั้งสองข้าง"
+      },
+      {
+        "question": "I'd prefer ___ a documentary rather than watch a comedy.",
+        "options": [
+          "A. watch",
+          "B. watching",
+          "C. to watch",
+          "D. watched"
+        ],
+        "answer": "C",
+        "explanation": "ตามหลัง `would prefer` ต้องใช้ `to + V1` (to infinitive)"
+      },
+      {
+        "question": "Would you rather have a dog ___ a cat?",
+        "options": [
+          "A. to",
+          "B. from",
+          "C. than",
+          "D. or"
+        ],
+        "answer": "C",
+        "explanation": "ในโครงสร้าง `would rather + V1 + than + V1` แม้จะละ V1 ตัวหลังไว้ (have) แต่ก็ยังต้องใช้ 'than' ในการเปรียบเทียบ"
+      },
+      {
+        "question": "I prefer taking the scenic route ___ the direct one.",
+        "options": [
+          "A. to",
+          "B. than",
+          "C. from",
+          "D. rather than"
+        ],
+        "answer": "A",
+        "explanation": "โครงสร้าง `prefer + V-ing + to + something` ใช้เปรียบเทียบความชอบทั่วไป"
+      },
+      {
+        "question": "We would rather ___ the project now than postpone it.",
+        "options": [
+          "A. starting",
+          "B. to start",
+          "C. start",
+          "D. started"
+        ],
+        "answer": "C",
+        "explanation": "หลัง `would rather` ต้องตามด้วย `V1 (bare infinitive)`"
+      },
+      {
+        "question": "It's getting late. I'd rather you ___ now.",
+        "options": [
+          "A. leave",
+          "B. leaving",
+          "C. to leave",
+          "D. left"
+        ],
+        "answer": "D",
+        "explanation": "โครงสร้าง `would rather + subject + past simple` ใช้ Past Simple ('left') เพื่อบอกความต้องการในปัจจุบันหรืออนาคต"
+      },
+      {
+        "question": "He would prefer to listen to the presentation ___ give it himself.",
+        "options": [
+          "A. than",
+          "B. to",
+          "C. from",
+          "D. rather than"
+        ],
+        "answer": "D",
+        "explanation": "เมื่อใช้ `would prefer + to V1` การเปรียบเทียบจะใช้ `rather than + V1 (bare infinitive)`"
+      },
+      {
+        "question": "She'd rather not ___ about her exam results.",
+        "options": [
+          "A. to talk",
+          "B. talk",
+          "C. talking",
+          "D. talked"
+        ],
+        "answer": "B",
+        "explanation": "รูปปฏิเสธของ `would rather` คือ `would rather not + V1 (bare infinitive)`"
+      },
+      {
+        "question": "Do you prefer spicy food ___ mild food?",
+        "options": [
+          "A. than",
+          "B. to",
+          "C. that",
+          "D. from"
+        ],
+        "answer": "B",
+        "explanation": "ใช้ 'to' เพื่อเปรียบเทียบนาม (spicy food) กับนาม (mild food) ในโครงสร้าง `prefer...to...`"
+      },
+      {
+        "question": "The manager would prefer us ___ the report by Friday.",
+        "options": [
+          "A. finish",
+          "B. to finish",
+          "C. finishing",
+          "D. finished"
+        ],
+        "answer": "B",
+        "explanation": "โครงสร้างคือ `would prefer + object + to + V1` เพื่อบอกว่าอยากให้ใครทำอะไร"
+      },
+      {
+        "question": "I'd rather you ___ me the truth earlier.",
+        "options": [
+          "A. tell",
+          "B. have told",
+          "C. had told",
+          "D. told"
+        ],
+        "answer": "C",
+        "explanation": "เมื่อพูดถึงความต้องการในอดีตที่ไม่ได้เกิดขึ้นจริง (regret) เราใช้โครงสร้าง `would rather + subject + past perfect (had + V3)`"
+      },
+      {
+        "question": "He prefers being self-employed ___ for a company.",
+        "options": [
+          "A. than working",
+          "B. to working",
+          "C. from working",
+          "D. rather than work"
+        ],
+        "answer": "B",
+        "explanation": "โครงสร้าง `prefer + gerund + to + gerund` ต้องใช้ 'to' และคำกริยาทั้งสองตัวต้องอยู่ในรูป V-ing"
+      },
+      {
+        "question": "I would prefer to walk in the park ___ on a treadmill at the gym.",
+        "options": [
+          "A. rather than run",
+          "B. to running",
+          "C. than run",
+          "D. rather than to run"
+        ],
+        "answer": "A",
+        "explanation": "หลัง `would prefer to + V1` เราใช้ `rather than + V1` ดังนั้น `rather than run` จึงถูกต้อง"
+      },
+      {
+        "question": "You look tired. Would you rather ___ a break?",
+        "options": [
+          "A. taking",
+          "B. take",
+          "C. to take",
+          "D. took"
+        ],
+        "answer": "B",
+        "explanation": "ในประโยคคำถาม `Would you rather...` ต้องตามด้วย V1 (bare infinitive)"
+      },
+      {
+        "question": "My parents would rather I ___ a more practical subject at university.",
+        "options": [
+          "A. study",
+          "B. studying",
+          "C. studied",
+          "D. to study"
+        ],
+        "answer": "C",
+        "explanation": "ใช้ Past Simple ('studied') ในโครงสร้าง `would rather + subject + past simple` เพื่อแสดงความต้องการ"
+      },
+      {
+        "question": "She prefers an apartment in the city ___ a house in the suburbs.",
+        "options": [
+          "A. over",
+          "B. from",
+          "C. to",
+          "D. than"
+        ],
+        "answer": "C",
+        "explanation": "ใช้ 'to' ในการเปรียบเทียบคำนามกับคำนามด้วยโครงสร้าง `prefer...to...`"
+      },
+      {
+        "question": "I'd rather ___ hungry than eat something I don't like.",
+        "options": [
+          "A. go",
+          "B. to go",
+          "C. going",
+          "D. went"
+        ],
+        "answer": "A",
+        "explanation": "หลัง `would rather` ต้องใช้ V1 (bare infinitive)"
+      },
+      {
+        "question": "I'd prefer to handle this myself ___ ask for help.",
+        "options": [
+          "A. than to",
+          "B. to",
+          "C. rather than",
+          "D. than"
+        ],
+        "answer": "C",
+        "explanation": "โครงสร้างที่ถูกต้องคือ `would prefer to V1 + rather than + V1`"
+      },
+      {
+        "question": "Honestly, we'd rather you ___ your shoes on in the house.",
+        "options": [
+          "A. not wear",
+          "B. don't wear",
+          "C. didn't wear",
+          "D. haven't worn"
+        ],
+        "answer": "C",
+        "explanation": "ใช้ Past Simple ('didn't wear') ในรูปปฏิเสธกับโครงสร้าง `would rather + subject...`"
+      },
+      {
+        "question": "Which do you prefer, ___ by the sea or in the mountains?",
+        "options": [
+          "A. living",
+          "B. to live",
+          "C. live",
+          "D. lived"
+        ],
+        "answer": "A",
+        "explanation": "คำถาม `Which do you prefer, ... or ...?` มักตามด้วย Gerund (V-ing) เพื่อถามถึงความชอบทั่วไป"
+      },
+      {
+        "question": "He'd rather ___ for a promotion than stay in the same position.",
+        "options": [
+          "A. to apply",
+          "B. applying",
+          "C. apply",
+          "D. applied"
+        ],
+        "answer": "C",
+        "explanation": "โครงสร้าง `would rather + V1 + than + V1` ต้องการ bare infinitive ('apply') หลัง `would rather`"
+      },
+      {
+        "question": "She would prefer to be honest ___ hurt his feelings later.",
+        "options": [
+          "A. than to",
+          "B. to",
+          "C. rather than",
+          "D. from"
+        ],
+        "answer": "C",
+        "explanation": "ใช้ `rather than + V1` เพื่อเปรียบเทียบการกระทำในโครงสร้าง `would prefer to V1...`"
+      },
+      {
+        "question": "I'd rather we ___ this topic. It's too sensitive.",
+        "options": [
+          "A. not discuss",
+          "B. don't discuss",
+          "C. didn't discuss",
+          "D. won't discuss"
+        ],
+        "answer": "C",
+        "explanation": "เมื่อประธานของ `would rather` และประธานของกริยาตัวถัดไปเป็นคนละคน (I, we) ให้ใช้ `would rather + subject + past simple`"
+      },
+      {
+        "question": "Many employees prefer flexible working hours ___ a traditional 9-to-5 schedule.",
+        "options": [
+          "A. than",
+          "B. over",
+          "C. from",
+          "D. to"
+        ],
+        "answer": "D",
+        "explanation": "โครงสร้าง `prefer + noun + to + noun` ต้องการ 'to' เพื่อทำการเปรียบเทียบ"
+      },
+      {
+        "question": "I'd rather you ___ me before you borrow my car.",
+        "options": [
+          "A. ask",
+          "B. to ask",
+          "C. asking",
+          "D. asked"
+        ],
+        "answer": "D",
+        "explanation": "ใช้ Past Simple ('asked') เพื่อบอกว่าอยากให้คนอื่นทำอะไรในปัจจุบันหรืออนาคต"
+      },
+      {
+        "question": "He would rather ___ his opinion to himself than cause an argument.",
+        "options": [
+          "A. keep",
+          "B. to keep",
+          "C. keeping",
+          "D. kept"
+        ],
+        "answer": "A",
+        "explanation": "หลัง `would rather` และ `than` ในโครงสร้างนี้ ต้องใช้ V1 (bare infinitive) ทั้งคู่"
+      },
+      {
+        "question": "I prefer cooking at home ___ out.",
+        "options": [
+          "A. to eating",
+          "B. than eat",
+          "C. to eat",
+          "D. from eating"
+        ],
+        "answer": "A",
+        "explanation": "เพื่อให้โครงสร้างสมดุล `prefer + gerund (cooking)` จึงต้องตามด้วย `to + gerund (eating)`"
+      },
+      {
+        "question": "Would you prefer ___ for a walk or stay in?",
+        "options": [
+          "A. go",
+          "B. going",
+          "C. to go",
+          "D. went"
+        ],
+        "answer": "C",
+        "explanation": "หลัง `Would you prefer...` ต้องใช้ `to + V1` (to infinitive)"
+      },
+      {
+        "question": "I'd rather not go to the meeting. I'd rather ___ this report instead.",
+        "options": [
+          "A. finish",
+          "B. to finish",
+          "C. finishing",
+          "D. finished"
+        ],
+        "answer": "A",
+        "explanation": "แม้ไม่มี 'than' แต่หลัง `would rather` ก็ยังคงต้องใช้ V1 (bare infinitive)"
+      },
+      {
+        "question": "She told me she'd rather I ___ her until after lunch.",
+        "options": [
+          "A. not call",
+          "B. don't call",
+          "C. won't call",
+          "D. didn't call"
+        ],
+        "answer": "D",
+        "explanation": "ใน reported speech หรือการบอกความต้องการของผู้อื่น ยังคงใช้โครงสร้าง `would rather + subject + past simple`"
+      },
+      {
+        "question": "I like reading novels ___ than non-fiction.",
+        "options": [
+          "A. more",
+          "B. better",
+          "C. best",
+          "D. good"
+        ],
+        "answer": "B",
+        "explanation": "โครงสร้างที่ไม่เป็นทางการคือ `like... better than...` มีความหมายคล้าย `prefer... to...`"
+      },
+      {
+        "question": "Since it's raining, I'd prefer to get a taxi ___ walk.",
+        "options": [
+          "A. rather than",
+          "B. to",
+          "C. than to",
+          "D. than"
+        ],
+        "answer": "A",
+        "explanation": "โครงสร้างที่สมบูรณ์คือ `would prefer to V1 + rather than + V1`"
+      },
+      {
+        "question": "He would rather fail with honor ___ succeed by cheating.",
+        "options": [
+          "A. to",
+          "B. than",
+          "C. from",
+          "D. instead of"
+        ],
+        "answer": "B",
+        "explanation": "ใช้ 'than' เพื่อเปรียบเทียบการกระทำในโครงสร้าง `would rather + V1...`"
+      },
+      {
+        "question": "I'd rather you ___ so loudly. I'm trying to concentrate.",
+        "options": [
+          "A. don't speak",
+          "B. won't speak",
+          "C. not to speak",
+          "D. didn't speak"
+        ],
+        "answer": "D",
+        "explanation": "ใช้ Past Simple ('didn't speak') เพื่อแสดงความต้องการให้ใครบางคนหยุดทำอะไรบางอย่างในปัจจุบัน"
+      },
+      {
+        "question": "Most children prefer playing outside ___ indoors.",
+        "options": [
+          "A. to being",
+          "B. than be",
+          "C. to be",
+          "D. from being"
+        ],
+        "answer": "A",
+        "explanation": "เมื่อเปรียบเทียบ Gerund (playing) ต้องใช้ `to + Gerund (being)` เพื่อให้โครงสร้างขนานกัน"
+      },
+      {
+        "question": "If you don't mind, I'd rather ___ alone.",
+        "options": [
+          "A. to work",
+          "B. work",
+          "C. working",
+          "D. worked"
+        ],
+        "answer": "B",
+        "explanation": "หลัง `would rather` ต้องตามด้วย V1 (bare infinitive) เสมอ"
+      },
+      {
+        "question": "I'd prefer to submit the proposal tomorrow ___ rush it tonight.",
+        "options": [
+          "A. than",
+          "B. rather than",
+          "C. instead to",
+          "D. to"
+        ],
+        "answer": "B",
+        "explanation": "โครงสร้าง `would prefer to V1 ... V1` ต้องใช้ `rather than` คั่นกลาง"
+      },
+      {
+        "question": "Don't you think you'd rather ___ a professional about this?",
+        "options": [
+          "A. consult",
+          "B. to consult",
+          "C. consulting",
+          "D. consulted"
+        ],
+        "answer": "A",
+        "explanation": "ในประโยคคำถาม `...you'd rather...?` ก็ยังคงตามด้วย V1 (bare infinitive)"
+      },
+      {
+        "question": "The company prefers ___ from candidates with experience.",
+        "options": [
+          "A. to hearing",
+          "B. than hear",
+          "C. hearing",
+          "D. to hear"
+        ],
+        "answer": "D",
+        "explanation": "โครงสร้าง `prefer + to + V1` ก็สามารถใช้ได้เช่นกัน มีความหมายเหมือน `prefer + V-ing` เพื่อบอกความชอบทั่วไป"
+      },
+      {
+        "question": "I'd rather you ___ your own business.",
+        "options": [
+          "A. mind",
+          "B. minded",
+          "C. to mind",
+          "D. minding"
+        ],
+        "answer": "B",
+        "explanation": "เป็นสำนวนที่ใช้บ่อย และเป็นไปตามโครงสร้าง `would rather + subject + past simple` เพื่อบอกให้อีกฝ่ายทำอะไร"
+      },
+      {
+        "question": "We prefer to donate to local charities ___ large international ones.",
+        "options": [
+          "A. rather than",
+          "B. than",
+          "C. to",
+          "D. from"
+        ],
+        "answer": "A",
+        "explanation": "เมื่อใช้ `prefer + to V1` การเปรียบเทียบจะใช้ `rather than + V1` (ในที่นี้ละ donate to ไว้)"
+      },
+      {
+        "question": "He would rather ___ his free time reading than scrolling through social media.",
+        "options": [
+          "A. to spend",
+          "B. spending",
+          "C. spend",
+          "D. spent"
+        ],
+        "answer": "C",
+        "explanation": "หลัง `would rather` ต้องใช้ V1 (bare infinitive) คือ `spend`"
+      },
+      {
+        "question": "It's a formal event, so I'd rather you ___ jeans.",
+        "options": [
+          "A. not wear",
+          "B. don't wear",
+          "C. didn't wear",
+          "D. haven't worn"
+        ],
+        "answer": "C",
+        "explanation": "ใช้ Past Simple ('didn't wear') เพื่อแสดงความต้องการเกี่ยวกับเครื่องแต่งกายของผู้อื่นในสถานการณ์ปัจจุบัน"
+      },
+      {
+        "question": "Would you prefer black coffee ___ with milk?",
+        "options": [
+          "A. to",
+          "B. or",
+          "C. rather",
+          "D. than"
+        ],
+        "answer": "B",
+        "explanation": "ในคำถามที่ให้เลือกระหว่างสองสิ่ง (A or B) ที่ตามหลัง `Would you prefer...?` เราใช้ 'or'"
+      },
+      {
+        "question": "I know you're busy, but I'd rather we ___ this out now.",
+        "options": [
+          "A. sort",
+          "B. sorting",
+          "C. sorted",
+          "D. to sort"
+        ],
+        "answer": "C",
+        "explanation": "โครงสร้าง `would rather + subject (we) + past simple (sorted)` ถูกต้องเมื่อผู้พูด (I) อยากให้คนอื่น (we) ทำอะไรบางอย่าง"
+      },
+      {
+        "question": "She'd prefer to be called by her first name ___ her title.",
+        "options": [
+          "A. than",
+          "B. to",
+          "C. rather than",
+          "D. instead"
+        ],
+        "answer": "C",
+        "explanation": "โครงสร้าง `would prefer to be + V3` (passive) ยังคงใช้ `rather than + V` ในการเปรียบเทียบ (ในที่นี้ละ `be called by` ไว้)"
+      }
+    ]
+  }
+]

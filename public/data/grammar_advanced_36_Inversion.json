@@ -1,0 +1,990 @@
+[
+  {
+    "id": "36_1",
+    "title": "36.1 Inversion with Negative Adverbs (Rarely do I, Never have I)",
+    "explanation": "Inversion หรือ 'ประโยคปฏิภาค' คือการสลับตำแหน่งระหว่างประธาน (Subject) และกริยาช่วย (Auxiliary Verb) ซึ่งเป็นโครงสร้างที่ไม่ปกติ (ปกติคือ Subject + Verb) โดยมีวัตถุประสงค์หลักเพื่อ 'เน้นย้ำ' (Emphasis) ความหมายของส่วนที่ย้ายมาไว้ข้างหน้าประโยค ทำให้ประโยคมีน้ำเสียงที่หนักแน่น เป็นทางการ หรือมีความเป็นวรรณกรรมมากขึ้น\n\nในหัวข้อนี้ เราจะเจาะลึก Inversion ที่เกิดจากการนำ 'กริยาวิเศษณ์เชิงปฏิเสธ' (Negative Adverbs) หรือวลีที่มีความหมายเชิงปฏิเสธ มาวางไว้ต้นประโยค\n\n**แก่นของโครงสร้าง:**\nเมื่อใดก็ตามที่คุณเห็นคำเหล่านี้ขึ้นต้นประโยค ให้คิดเสมอว่ามันเหมือนการ 'สร้างประโยคคำถาม' แต่ไม่มีเครื่องหมายคำถาม และความหมายเป็นประโยคบอกเล่าที่ถูกเน้นย้ำ\n\nโครงสร้างพื้นฐาน: `Negative Adverb + Auxiliary Verb + Subject + Main Verb ...?`\n\n**การทำงานกับ Tenses ต่างๆ:**\n1.  **ประโยคที่ไม่มีกริยาช่วย (Simple Present/Past):** ให้ยืม Verb to do (do, does, did) เข้ามาช่วย เหมือนการสร้างประโยคคำถามและปฏิเสธปกติ\n    *   ปกติ: *I rarely see such a flagrant disregard for the rules.*\n    *   Inversion: *Rarely **do I see** such a flagrant disregard for the rules.* (ฉันแทบไม่เคยเห็นการเมินเฉยต่อกฎอย่างโจ่งแจ้งเช่นนี้มาก่อนเลย)\n    *   ปกติ: *She seldom spoke about her clandestine operations.*\n    *   Inversion: *Seldom **did she speak** about her clandestine operations.* (เธอนานๆ ครั้งถึงจะพูดถึงปฏิบัติการลับของเธอ)\n\n2.  **ประโยคที่มีกริยาช่วยอยู่แล้ว (Perfect Tenses, Continuous Tenses, Modals):** ให้นำกริยาช่วยตัวนั้นมาสลับกับประธานได้เลย\n    *   **Perfect (have, has, had):** *Never **have I encountered** such a convoluted argument.* (ฉันไม่เคยเจอการโต้แย้งที่ซับซ้อนเช่นนี้มาก่อนเลย)\n    *   **Modal (can, will, should, must...):** *Under no circumstances **should you divulge** this information.* (ไม่ว่าในสถานการณ์ใดๆ ก็ตาม คุณไม่ควรเปิดเผยข้อมูลนี้เด็ดขาด)\n\n**กลุ่มคำที่ต้องจำและโครงสร้างพิเศษ:**\n*   **Never, Rarely, Seldom, Little:** ตามด้วยโครงสร้าง Inversion ทั่วไป\n    *   *Little **did he know** that his decision would have such cataclysmic consequences.* (เขารู้ไม่น้อยเลยว่าการตัดสินใจของเขาจะนำมาซึ่งผลลัพธ์ที่เลวร้ายมหาศาล)\n*   **Hardly/Scarcely/Barely ... when:** ใช้กับเหตุการณ์ 2 อย่างที่เกิดขึ้นต่อเนื่องกันทันที (แทบจะยังไม่ทัน...ก็...)\n    *   *Hardly **had the delegates assembled** when the fire alarm inexplicably went off.* (คณะผู้แทนแทบจะยังไม่ทันรวมตัวกัน เสียงสัญญาณเตือนไฟไหม้ก็ดังขึ้นอย่างไม่มีสาเหตุ)\n*   **No sooner ... than:** ความหมายเหมือนกลุ่มบน แต่ใช้คู่กับ 'than'\n    *   *No sooner **had she submitted** her resignation than she was offered a more lucrative position elsewhere.* (ทันทีที่เธอยื่นใบลาออก เธอก็ได้รับข้อเสนอตำแหน่งที่ให้ผลตอบแทนสูงกว่าจากที่อื่น)\n*   **Not only ... but also:** Inversion จะเกิดที่ส่วน 'Not only' เท่านั้น\n    *   *Not only **did the auditors uncover** financial discrepancies, but they also found evidence of corporate espionage.* (ผู้ตรวจสอบบัญชีไม่เพียงแต่ค้นพบความผิดปกติทางการเงินเท่านั้น แต่ยังพบหลักฐานการจารกรรมข้อมูลในองค์กรด้วย)\n*   **Not until:** โครงสร้างนี้ซับซ้อนเป็นพิเศษ Inversion จะเกิดที่ 'ประโยคหลัก' (Main Clause) ไม่ใช่ใน 'until clause'\n    *   *Not until the final witness testified **did the jury grasp** the full picture.* (จนกระทั่งพยานคนสุดท้ายให้การ คณะลูกขุนจึงจะเข้าใจภาพรวมทั้งหมด) สังเกตว่า `the final witness testified` ยังเป็น S+V ปกติ แต่ `did the jury grasp` คือส่วนที่เกิด Inversion",
+    "examples": [
+      {
+        "eng": "Under no circumstances should the security protocols be circumvented, lest we expose the entire network to catastrophic vulnerabilities.",
+        "thai": "ไม่ว่าในสถานการณ์ใดๆ ก็ตาม มาตรการรักษาความปลอดภัยจะต้องไม่ถูกหลีกเลี่ยง มิฉะนั้นเราจะเปิดเผยเครือข่ายทั้งหมดให้เผชิญกับช่องโหว่ร้ายแรง / โครงสร้าง: `Under no circumstances` (Negative Phrase) + `should` (Modal Verb) + `the security protocols` (Subject) + `be circumvented` (Main Verb - Passive Voice)."
+      },
+      {
+        "eng": "Not until meticulous forensic analysis was completed did the investigators realize the seemingly innocuous evidence was, in fact, the linchpin of the entire case.",
+        "thai": "จนกระทั่งการวิเคราะห์ทางนิติวิทยาศาสตร์อย่างละเอียดถี่ถ้วนเสร็จสิ้นลง เหล่าเจ้าหน้าที่สืบสวนจึงตระหนักว่าหลักฐานที่ดูเหมือนไม่มีพิษสงนั้น แท้จริงแล้วเป็นหัวใจสำคัญของคดีทั้งหมด / สังเกตว่า Inversion เกิดที่ประโยคหลัก `did the investigators realize` ไม่ใช่ในส่วนของ `Not until ... was completed`."
+      },
+      {
+        "eng": "No sooner had the quantum physicist published her groundbreaking theorem than rival laboratories began scrambling to replicate her unprecedented results.",
+        "thai": "ทันทีที่นักฟิสิกส์ควอนตัมตีพิมพ์ทฤษฎีที่พลิกวงการของเธอ ห้องปฏิบัติการคู่แข่งต่างๆ ก็เริ่มพยายามอย่างหนักเพื่อทำซ้ำผลลัพธ์ที่ไม่เคยมีมาก่อนของเธอ / โครงสร้าง: `No sooner` + `had` (Auxiliary) + `the...physicist` (Subject) + `published` (Main Verb) ... `than` ... ."
+      },
+      {
+        "eng": "Little did the unsuspecting populace know that beneath their city lay a network of ancient catacombs, teeming with historical artifacts.",
+        "thai": "ผู้คนที่ไม่เคยสงสัยเลยหารู้ไม่ว่าภายใต้เมืองของพวกเขานั้นมีเครือข่ายสุสานใต้ดินโบราณซึ่งเต็มไปด้วยโบราณวัตถุทางประวัติศาสตร์อยู่ / `Little` ในที่นี้หมายถึง 'ไม่รู้เลย' (They didn't know) ตามด้วยโครงสร้าง `did` + `the...populace` (Subject) + `know` (Main Verb)."
+      }
+    ],
+    "common_mistakes": "**1. ลืมทำ Inversion:** เป็นข้อผิดพลาดพื้นฐานที่สุด คือนำ Negative Adverb มาไว้ข้างหน้า แต่ยังคงใช้โครงสร้าง S + V ปกติ\n*   ผิด: *Never I have witnessed such incompetence.*\n*   ถูก: *Never **have I witnessed** such incompetence.*\n\n**2. สลับที่กริยาแท้แทนกริยาช่วย:** โดยเฉพาะใน Simple Tenses ที่ต้องยืม Verb to do มาช่วย คนไทยมักจะเผลอนำกริยาแท้มาสลับที่เลย\n*   ผิด: *Seldom **went he** to the theatre.*\n*   ถูก: *Seldom **did he go** to the theatre.*\n\n**3. ใช้กริยาผิดรูปหลัง do/does/did:** เมื่อใช้ do/does/did ในการทำ Inversion แล้ว กริยาแท้ที่ตามมาต้องกลับไปเป็นรูป Infinitive (V.1 ไม่ผัน) เสมอ\n*   ผิด: *Rarely **did she complained** about the workload.*\n*   ถูก: *Rarely **did she complain** about the workload.*\n\n**4. ทำ Inversion ผิดที่ในประโยค 'Not until':** เป็นจุดที่พลาดกันมากที่สุดในระดับสูง คือไปทำ Inversion ใน 'until clause' แทนที่จะเป็น 'main clause'\n*   ผิด: *Not until **did the sun set**, he finished his work.*\n*   ถูก: *Not until the sun set **did he finish** his work.*",
+    "practice_questions": [
+      {
+        "question": "No sooner ______ the preliminary data than they realized the experiment was fundamentally flawed.",
+        "options": [
+          "A. had the researchers analyzed",
+          "B. the researchers had analyzed",
+          "C. did the researchers analyze",
+          "D. have the researchers analyzed"
+        ],
+        "answer": "A",
+        "explanation": "โครงสร้าง 'No sooner...than' มักใช้กับ Past Perfect Tense (had + V3) เพื่อแสดงลำดับเหตุการณ์ในอดีตที่เกิดขึ้นต่อเนื่องกันทันที และต้องใช้ Inversion หลัง 'No sooner' ดังนั้นโครงสร้างที่ถูกต้องคือ `No sooner + had + Subject + V3`. ข้อ A (had the researchers analyzed) ถูกต้องตามหลักไวยากรณ์นี้ ส่วนข้อ B ผิดเพราะไม่ได้ทำ Inversion ข้อ C ใช้ 'did' ซึ่งปกติจะใช้กับเหตุการณ์ที่เป็นจุดเวลามากกว่า และไม่เข้าคู่กับ Past Perfect ที่มักใช้กับโครงสร้างนี้ ข้อ D ใช้ Present Perfect ซึ่งผิด Tense"
+      },
+      {
+        "question": "Not until the stringent new regulations were implemented ______ the full scope of the company's malfeasance.",
+        "options": [
+          "A. the public did understand",
+          "B. did the public understand",
+          "C. the public understood",
+          "D. has the public understood"
+        ],
+        "answer": "B",
+        "explanation": "ในโครงสร้าง 'Not until...' การ Inversion จะเกิดขึ้นในประโยคหลัก (Main Clause) ไม่ใช่ใน 'until clause' ประโยค 'the stringent new regulations were implemented' เป็น until clause ที่ถูกต้องแล้ว ประโยคหลักที่ตามมาจึงต้องอยู่ในรูป Inversion คือ `Auxiliary Verb + Subject + Main Verb` ข้อ B (did the public understand) คือคำตอบที่ถูกต้อง เพราะใช้ 'did' มาช่วยและตามด้วยกริยาช่อง 1 (understand) ข้อ A และ C ผิดเพราะไม่ได้ทำ Inversion ข้อ D ผิด Tense"
+      },
+      {
+        "question": "Little ______ that their convivial host was, in fact, an undercover agent documenting their every move.",
+        "options": [
+          "A. they suspected",
+          "B. have they suspected",
+          "C. they did suspect",
+          "D. did they suspect"
+        ],
+        "answer": "D",
+        "explanation": "เมื่อ 'Little' ถูกใช้ในความหมายเชิงปฏิเสธ (not at all) ขึ้นต้นประโยค จะต้องตามด้วย Inversion ประโยคนี้อยู่ใน Past Simple Tense ดังนั้นจึงต้องยืม 'did' มาช่วย โครงสร้างที่ถูกต้องคือ `Little + did + Subject + Main Verb (V1)` ข้อ D (did they suspect) จึงเป็นคำตอบที่ถูกต้อง ข้อ A และ C ไม่ได้ทำ Inversion ส่วนข้อ B ใช้ Present Perfect ซึ่งไม่สอดคล้องกับบริบทของเรื่องราวในอดีต (was)"
+      },
+      {
+        "question": "Under no circumstances ______ to compromise the integrity of the research for financial gain.",
+        "options": [
+          "A. should the scientists be tempted",
+          "B. the scientists should be tempted",
+          "C. will the scientists tempted",
+          "D. the scientists will be tempted"
+        ],
+        "answer": "A",
+        "explanation": "วลี 'Under no circumstances' เป็น Negative Phrase ที่เมื่อขึ้นต้นประโยคต้องตามด้วย Inversion เสมอ โครงสร้างคือ `Negative Phrase + Modal Verb + Subject + Main Verb` ข้อ A (should the scientists be tempted) ถูกต้องตามหลักไวยากรณ์ทุกประการ (เป็น Passive Voice ด้วย) ข้อ B และ D ผิดเพราะไม่ได้ทำ Inversion ข้อ C ผิดไวยากรณ์ เพราะหลัง Modal Verb 'will' ต้องตามด้วย 'be' ก่อน V3 ในรูป Passive Voice"
+      },
+      {
+        "question": "Scarcely ______ his peroration when a wave of tumultuous applause erupted from the audience.",
+        "options": [
+          "A. he had concluded",
+          "B. did he conclude",
+          "C. has he concluded",
+          "D. had he concluded"
+        ],
+        "answer": "D",
+        "explanation": "โครงสร้าง 'Scarcely...when' ใช้เพื่อบรรยายสองเหตุการณ์ที่เกิดขึ้นติดกันในอดีต และนิยมใช้ Past Perfect Tense (had + V3) ในส่วนของ 'Scarcely' ซึ่งต้องทำ Inversion ด้วย ดังนั้น รูปแบบที่ถูกต้องคือ `Scarcely + had + Subject + V3` ข้อ D (had he concluded) จึงถูกต้องที่สุด ข้อ A ผิดเพราะไม่ทำ Inversion ข้อ B ใช้ Past Simple ซึ่งไม่นิยมเท่า Past Perfect ในโครงสร้างนี้ ข้อ C ใช้ Present Perfect ซึ่งผิด Tense"
+      },
+      {
+        "question": "Rarely ______ such a potent combination of erudition and humility in a single individual.",
+        "options": [
+          "A. one has encountered",
+          "B. does one encounter",
+          "C. has one encountered",
+          "D. one encounters"
+        ],
+        "answer": "C",
+        "explanation": "'Rarely' ขึ้นต้นประโยคต้องตามด้วย Inversion ประโยคนี้ต้องการสื่อถึงประสบการณ์ที่ผ่านมาจนถึงปัจจุบัน จึงใช้ Present Perfect Tense (have/has + V3) โครงสร้างที่ถูกต้องคือ `Rarely + has + Subject + V3` ข้อ C (has one encountered) จึงถูกต้อง ข้อ B แม้จะทำ Inversion ถูกต้องแต่ใช้ Present Simple ซึ่งสื่อถึงความจริงทั่วไปมากกว่าประสบการณ์ ข้อ A และ D ไม่ได้ทำ Inversion"
+      },
+      {
+        "question": "On no account ______ permitted to access the server room without the requisite security clearance.",
+        "options": [
+          "A. is unauthorized personnel",
+          "B. unauthorized personnel are",
+          "C. are unauthorized personnel",
+          "D. unauthorized personnel is"
+        ],
+        "answer": "C",
+        "explanation": "วลี 'On no account' เมื่อขึ้นต้นประโยคต้องมี Inversion ตามมา ประธานของประโยคคือ 'unauthorized personnel' ซึ่งเป็นคำนามพหูพจน์ (personnel หมายถึงกลุ่มคน) ดังนั้นกริยาช่วยที่ใช้ต้องเป็น 'are' โครงสร้างที่ถูกต้องคือ `On no account + are + Subject (plural) + ...` ข้อ C (are unauthorized personnel) จึงถูกต้อง ข้อ A ใช้ 'is' ซึ่งผิดหลัก Subject-Verb Agreement ข้อ B และ D ไม่ได้ทำ Inversion"
+      },
+      {
+        "question": "Not only ______ to falsify the financial statements, but he also attempted to bribe the chief auditor.",
+        "options": [
+          "A. did the CEO conspire",
+          "B. the CEO conspired",
+          "C. has the CEO conspired",
+          "D. the CEO did conspire"
+        ],
+        "answer": "A",
+        "explanation": "ในโครงสร้าง 'Not only...but also' การ Inversion จะเกิดขึ้นในส่วนของ 'Not only' เท่านั้น เหตุการณ์ในประโยค (falsify, attempted) เกิดขึ้นในอดีต จึงใช้ Past Simple Tense ดังนั้นต้องยืม 'did' มาช่วย โครงสร้างที่ถูกต้องคือ `Not only + did + Subject + Main Verb (V1)` ข้อ A (did the CEO conspire) จึงเป็นคำตอบที่ถูกต้องสมบูรณ์ ข้อ B และ D ไม่ได้ทำ Inversion อย่างถูกต้อง ข้อ C ใช้ Present Perfect ซึ่งไม่เข้ากับ 'attempted' ที่เป็น Past Simple ชัดเจน"
+      },
+      {
+        "question": "Seldom ______ such a breathtaking display of celestial phenomena with the naked eye.",
+        "options": [
+          "A. can be witnessed",
+          "B. can one witness",
+          "C. one can witness",
+          "D. can witness one"
+        ],
+        "answer": "B",
+        "explanation": "'Seldom' นำหน้าประโยคต้องตามด้วย Inversion ประโยคนี้ใช้ Modal Verb 'can' เพื่อแสดงความสามารถในการมองเห็น โครงสร้างที่ถูกต้องคือ `Seldom + Modal + Subject + Main Verb` ข้อ B (can one witness) ถูกต้องตามโครงสร้างนี้ ('one' ในที่นี้หมายถึงคนทั่วไป) ข้อ A ขาดประธาน (Subject) ข้อ C ไม่ได้ทำ Inversion ข้อ D สลับตำแหน่งประธานและกริยาแท้ ซึ่งผิดหลัก"
+      },
+      {
+        "question": "Hardly had the ink dried on the peace treaty ______ hostilities resumed with unprecedented ferocity.",
+        "options": [
+          "A. than",
+          "B. when",
+          "C. then",
+          "D. that"
+        ],
+        "answer": "B",
+        "explanation": "นี่เป็นคำถามที่ทดสอบคู่ของ adverbial phrase โครงสร้างที่ขึ้นต้นด้วย 'Hardly', 'Scarcely', หรือ 'Barely' จะต้องตามด้วย 'when' เพื่อเชื่อมกับเหตุการณ์ที่สองที่เกิดขึ้นตามมาทันที ดังนั้น ข้อ B (when) คือคำตอบที่ถูกต้อง 'Than' ใช้คู่กับ 'No sooner' 'Then' เป็นคำบอกเวลา และ 'that' ใช้ในบริบทอื่น"
+      }
+    ]
+  },
+  {
+    "id": "36_2",
+    "title": "36.2 Inversion with Conditionals (Had I known, Were I you, Should it rain)",
+    "explanation": "Inversion with Conditionals คือการสลับตำแหน่งของ Subject และ Auxiliary Verb (กริยาช่วย) ในประโยคเงื่อนไข (Conditional Sentences) เพื่อละคำว่า 'if' ออกไป การทำเช่นนี้จะทำให้ประโยคมีความเป็นทางการ (Formal) และเป็นสไตล์วรรณกรรม (Literary) มากขึ้น มักพบในงานเขียนระดับสูง การพูดในที่ประชุม หรือการแสดงความสุภาพอย่างยิ่งยวด\n\nโครงสร้างนี้ใช้กับประโยคเงื่อนไข 3 ประเภทหลักๆ:\n\n1.  **First Conditional (เงื่อนไขที่เป็นไปได้ในอนาคต): ใช้ 'Should' แทน 'if'**\n    -   **Standard Form**: If + Subject + (should) + base verb...\n    -   **Inverted Form**: Should + Subject + base verb...\n    -   **แก่นของมัน**: การใช้ 'Should' ในที่นี้ไม่ได้แปลว่า 'ควรจะ' แต่เป็นการทำให้เงื่อนไขนั้นดูมีความเป็นไปได้น้อยลง หรือเป็นการพูดอย่างสุภาพและเกรงใจมากๆ\n    -   เช่น 'If you need any help,' (ถ้าคุณต้องการความช่วยเหลือ) กลายเป็น 'Should you need any help,' (เผื่อว่าท่านต้องการความช่วยเหลือ) ซึ่งฟังดูสุภาพและเป็นทางการกว่ามาก\n\n2.  **Second Conditional (เงื่อนไขที่สมมติขึ้น ตรงข้ามความจริงในปัจจุบัน/อนาคต): ใช้ 'Were' แทน 'if'**\n    -   **Standard Form**: If + Subject + were...\n    -   **Inverted Form**: Were + Subject + ...\n    -   **แก่นของมัน**: ใช้สำหรับสถานการณ์ที่ไม่เป็นจริง หรือจินตนาการขึ้นมา\n    -   **มี 2 รูปแบบย่อยที่ต้องเชี่ยวชาญ:**\n        -   **เมื่อ Verb to be เป็นกริยาหลัก**: 'If I were you,' จะกลายเป็น 'Were I you,'. สังเกตว่าเราใช้ 'were' กับประธานทุกตัว (I, he, she, it) ใน Subjunctive Mood\n        -   **เมื่อมีกริยาแท้ตัวอื่น**: เราไม่สามารถสลับกริยาแท้ได้โดยตรง เช่น 'If I knew...' **ไม่สามารถ** กลายเป็น '*Knew I...*' ได้เด็ดขาด! เราต้องใช้โครงสร้าง 'Were + Subject + to + infinitive' เข้ามาช่วย เช่น 'If I knew...' จะกลายเป็น 'Were I to know...'. นี่คือจุดที่วัดระดับ C1-C2 ได้อย่างดี\n\n3.  **Third Conditional (เงื่อนไขที่ตรงข้ามความจริงในอดีต): ใช้ 'Had' แทน 'if'**\n    -   **Standard Form**: If + Subject + had + V.3...\n    -   **Inverted Form**: Had + Subject + V.3...\n    -   **แก่นของมัน**: ใช้พูดถึงเรื่องที่ไม่ได้เกิดขึ้นจริงในอดีต และนึกเสียดายหรือคาดเดาผลลัพธ์ที่แตกต่างออกไป\n    -   เช่น 'If I had known the truth,' กลายเป็น 'Had I known the truth,'. เป็นรูปแบบที่พบได้บ่อยที่สุดในบรรดา Inversion ทั้งหมด\n\n**ข้อควรรู้เพิ่มเติม:**\n- **รูปปฏิเสธ**: คำว่า 'not' จะตามหลัง Subject เสมอ เช่น 'Should you not agree...', 'Had they not intervened...'.\n- **สำนวนพิเศษ**: 'Were it not for...' มีความหมายเหมือน 'If it weren't for...' (ถ้าไม่ใช่เพราะว่า...) และ 'Had it not been for...' มีความหมายเหมือน 'If it hadn't been for...' (ถ้าในอดีตไม่ใช่เพราะว่า...)",
+    "examples": [
+      {
+        "eng": "Had the legislator scrutinized the bill's ambiguous clauses more meticulously, its detrimental repercussions on the national economy could have been averted.",
+        "thai": "หากสมาชิกสภานิติบัญญัติได้ตรวจสอบอนุประโยคที่คลุมเครือของร่างกฎหมายอย่างพิถีพิถันกว่านี้ ผลกระทบอันร้ายแรงต่อเศรษฐกิจของชาติก็คงจะสามารถหลีกเลี่ยงได้\nคำอธิบาย: นี่คือ Third Conditional Inversion โครงสร้างคือ 'Had + a complex subject (the legislator) + past participle (scrutinized)...' ตามด้วย main clause ที่ใช้ 'could have + V.3 (been averted)' แสดงถึงเหตุการณ์ในอดีตที่ไม่เกิดขึ้นจริง"
+      },
+      {
+        "eng": "Were the board to approve this precarious venture, they would be held accountable for any subsequent financial fallout.",
+        "thai": "หากคณะกรรมการบริหารจะอนุมัติการลงทุนที่สุ่มเสี่ยงนี้ พวกเขาก็จะต้องรับผิดชอบต่อผลเสียหายทางการเงินใดๆ ที่ตามมา\nคำอธิบาย: นี่คือ Second Conditional Inversion ที่ใช้กับกริยาทั่วไป (approve) จึงต้องใช้โครงสร้าง 'Were + subject (the board) + to + infinitive (to approve)...' เพื่อแสดงเงื่อนไขสมมติในอนาคต"
+      },
+      {
+        "eng": "Should there be any discrepancy in the audited accounts, the Chief Financial Officer must be notified immediately.",
+        "thai": "เผื่อว่ามีความคลาดเคลื่อนใดๆ ในบัญชีที่ตรวจสอบแล้ว ประธานเจ้าหน้าที่ฝ่ายการเงินจะต้องได้รับแจ้งในทันที\nคำอธิบาย: นี่คือ First Conditional Inversion ใช้ 'Should' + 'there be...' (มาจาก If there should be...) เป็นการให้คำสั่งอย่างเป็นทางการและสุภาพสำหรับเหตุการณ์ที่อาจจะเกิดขึ้นในอนาคต"
+      },
+      {
+        "eng": "Were it not for the timely intervention of the peacekeeping forces, the burgeoning conflict would have escalated into a full-scale humanitarian crisis.",
+        "thai": "ถ้าไม่ใช่เพราะการเข้าแทรกแซงอย่างทันท่วงทีของกองกำลังรักษาสันติภาพ ความขัดแย้งที่กำลังก่อตัวขึ้นก็คงจะบานปลายไปสู่วิกฤตด้านมนุษยธรรมเต็มรูปแบบแล้ว\nคำอธิบาย: นี่คือการใช้สำนวน 'Were it not for...' (ถ้าไม่ใช่เพราะ...) ซึ่งเป็น Mixed Conditional ในที่นี้ เงื่อนไขอยู่ในปัจจุบัน (Were it not for...) แต่ผลลัพธ์อยู่ในอดีต (would have escalated...)"
+      }
+    ],
+    "common_mistakes": "- **ใช้ 'if' ซ้ำซ้อนกับ Inversion**: ผิด: *If had I known*, you were in trouble, I would have helped. ถูก: *Had I known*...\n  Inversion เป็นการ *แทนที่* 'if' ไม่ใช่ใช้คู่กัน\n\n- **ผันกริยาผิดหลัง 'Should'**: ผิด: *Should the company decides* to relocate... ถูก: *Should the company decide*...\n  หลัง 'Should' ในโครงสร้างนี้ ต้องตามด้วย Base Verb (Infinitive without 'to') เสมอ\n\n- **พยายาม Invert กริยาแท้ใน Second Conditional**: ผิด: *Knew I his secret*, I would never tell anyone. ถูก: *Were I to know* his secret...\n  นี่คือข้อผิดพลาดคลาสสิก ต้องจำไว้ว่าถ้ากริยาไม่ใช่ 'were' ต้องใช้โครงสร้าง 'Were + S + to + V.1' เท่านั้น\n\n- **ใช้ 'Was' แทน 'Were'**: ผิด: *Was he more diligent*... ถูก: *Were he more diligent*...\n  ในประโยคเงื่อนไขแบบสมมติ (Subjunctive Mood) เราใช้ 'were' กับประธานทุกตัวเสมอเมื่อทำ Inversion",
+    "practice_questions": [
+      {
+        "question": "______ the CEO foreseen the calamitous market crash, the company would not be on the brink of bankruptcy now.",
+        "options": [
+          "A. If had",
+          "B. Had",
+          "C. When",
+          "D. Should"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้เป็น Mixed Conditional (เงื่อนไขในอดีต, ผลในปัจจุบัน) โดยส่วนเงื่อนไขเป็นแบบ Third Conditional (foreseen the crash) การละ 'if' ต้องใช้ Inversion โดยนำ 'Had' ขึ้นต้นประโยค ตามด้วย Subject (the CEO) และ V.3 (foreseen) จึงได้เป็น 'Had the CEO foreseen...'. ข้อ A ผิดเพราะใช้ if ซ้ำซ้อน ข้อ D 'Should' ใช้กับ First Conditional ซึ่งไม่เข้ากับบริบทในอดีต"
+      },
+      {
+        "question": "______ reconsider its stringent immigration policies, it might see a significant boost in its skilled labor force.",
+        "options": [
+          "A. The nation were to",
+          "B. If the nation would",
+          "C. Were the nation to",
+          "D. Did the nation"
+        ],
+        "answer": "C",
+        "explanation": "นี่คือ Second Conditional ที่แสดงเงื่อนไขสมมติในอนาคต ('...it might see...'). กริยาในเงื่อนไขคือ 'reconsider' ซึ่งเป็นกริยาทั่วไป ดังนั้นต้องใช้โครงสร้าง Inversion คือ 'Were + Subject + to + V.1'. คำตอบที่ถูกต้องคือ 'Were the nation to reconsider...' ข้อ A เรียงผิดไวยากรณ์ ข้อ B ใช้ 'would' ใน if-clause ซึ่งผิดหลัก ข้อ D 'Did' ไม่ใช้ในการสร้างประโยคเงื่อนไขแบบนี้"
+      },
+      {
+        "question": "______ any deviation from the established protocol, you are instructed to initiate the emergency shutdown procedure without delay.",
+        "options": [
+          "A. If you will observe",
+          "B. Should you observe",
+          "C. You should observe",
+          "D. Were you to observe"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้เป็นคำสั่งที่เป็นทางการสำหรับเหตุการณ์ที่อาจเกิดขึ้นในอนาคต (First Conditional) การใช้ Inversion เพื่อความสุภาพและเป็นทางการต้องใช้ 'Should + Subject + V.1'. ดังนั้น 'Should you observe' คือคำตอบที่ถูกต้องที่สุด ข้อ D 'Were you to observe' จะทำให้เป็น Second Conditional ซึ่งหมายความว่าผู้พูดไม่คิดว่าเหตุการณ์จะเกิดขึ้นจริง ซึ่งขัดกับลักษณะของคำสั่ง"
+      },
+      {
+        "question": "______ for the anonymous benefactor's largesse, the dilapidated historical monument would have crumbled into obscurity years ago.",
+        "options": [
+          "A. Had it not been",
+          "B. Were it not",
+          "C. If it not were",
+          "D. Had not it been"
+        ],
+        "answer": "A",
+        "explanation": "Main clause '...would have crumbled...' เป็น Third Conditional (ผลในอดีต) ดังนั้นเงื่อนไขก็ต้องอยู่ในอดีตเช่นกัน สำนวนที่ถูกต้องสำหรับ 'If it hadn't been for...' คือ 'Had it not been for...'. ข้อ B 'Were it not for...' ใช้กับผลในปัจจุบันหรืออนาคต (Second Conditional) ข้อ C และ D เรียงผิดไวยากรณ์ (not ต้องตามหลัง subject 'it')"
+      },
+      {
+        "question": "Rarely has a political scandal elicited such a vehement public outcry; ______ less transparent in its dealings, the administration would have faced immediate impeachment proceedings.",
+        "options": [
+          "A. had it been",
+          "B. were it",
+          "C. if it was",
+          "D. should it be"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคหลักใช้ 'would have faced' แสดงว่าเป็น Third Conditional (ผลลัพธ์ในอดีต) ดังนั้นประโยคเงื่อนไขก็ต้องเป็นอดีตด้วย โครงสร้าง Inversion ที่ถูกต้องคือ 'had + subject + V.3' ในที่นี้คือ 'had it been'. สังเกตว่าประโยคเงื่อนไขตามหลังประโยคหลักได้"
+      },
+      {
+        "question": "______ his predecessor's prudent fiscal advice, the new treasurer would not have inadvertently plunged the organization into such a precarious financial state.",
+        "options": [
+          "A. He had heeded",
+          "B. If he has heeded",
+          "C. Heeded had he",
+          "D. Had he heeded"
+        ],
+        "answer": "D",
+        "explanation": "Main clause '...would not have inadvertently plunged...' เป็น Third Conditional (ผลในอดีต) การสร้างเงื่อนไขแบบ Inversion ที่ถูกต้องคือการนำ 'Had' ขึ้นหน้า ตามด้วย Subject (he) และ V.3 (heeded). ดังนั้น 'Had he heeded' คือคำตอบที่ถูกต้อง"
+      },
+      {
+        "question": "______ a diplomatic solution to prove unattainable, the international coalition would have no alternative but to consider military intervention.",
+        "options": [
+          "A. If",
+          "B. Should",
+          "C. In case",
+          "D. Were"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้มีโครงสร้าง '...a diplomatic solution to prove unattainable' ซึ่งกริยา 'prove' เป็น base form ที่ซ่อนอยู่หลัง subject ที่ยาว ทำให้หลายคนสับสน หากเขียนแบบปกติคือ 'If a diplomatic solution should prove unattainable...' เมื่อทำ Inversion เราจะใช้ 'Should a diplomatic solution prove unattainable...' เพื่อแสดงถึงความเป็นไปได้ในอนาคตที่ค่อนข้างน้อย หรือพูดอย่างเป็นทางการ"
+      },
+      {
+        "question": "______ aware of the potential legal ramifications, she would never have countersigned the contentious agreement.",
+        "options": [
+          "A. She had been",
+          "B. Had she been",
+          "C. Were she",
+          "D. If she were"
+        ],
+        "answer": "B",
+        "explanation": "ผลลัพธ์ '...she would never have countersigned...' อยู่ในอดีต (Third Conditional) ดังนั้นเงื่อนไขต้องใช้ Past Perfect. รูปแบบ Inversion ที่ถูกต้องคือ 'Had + subject + V.3 (been)'. ดังนั้น 'Had she been' จึงถูกต้อง. ข้อ C และ D เป็น Second Conditional ซึ่งไม่สอดคล้องกับ Main clause"
+      },
+      {
+        "question": "______ even a fraction of the allegations against him substantiated, his political career would be irrevocably tarnished.",
+        "options": [
+          "A. Were to be",
+          "B. Was",
+          "C. Were",
+          "D. Should be"
+        ],
+        "answer": "C",
+        "explanation": "นี่คือ Second Conditional ที่ใช้ verb to be ในรูป passive voice ('were substantiated'). รูปแบบเต็มคือ 'If even a fraction of the allegations against him were substantiated...' เมื่อทำ Inversion เราจะย้าย 'Were' มาไว้ข้างหน้าสุด จึงได้เป็น 'Were even a fraction of the allegations against him substantiated...'. ข้อ A ผิดเพราะมี to be ซ้ำซ้อน ข้อ B ใช้ 'was' ซึ่งผิดหลัก Subjunctive Mood"
+      },
+      {
+        "question": "______ to divulge the confidential source of her information, the journalist would face severe professional and legal consequences.",
+        "options": [
+          "A. If she were",
+          "B. Had she",
+          "C. She were",
+          "D. Were she"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคนี้เป็น Second Conditional ที่ใช้กริยาแท้ 'divulge'. สังเกตว่ามี 'to divulge' อยู่แล้ว ซึ่งบอกใบ้ถึงโครงสร้าง 'Were + S + to + V.1'. รูปแบบ Inversion ที่ถูกต้องคือ 'Were she to divulge...'. ข้อ A ใช้ 'if' ซึ่งไม่ได้เป็นการ Invert ข้อ B ใช้ 'Had' ซึ่งเป็น Third Conditional และข้อ C เรียงประโยคผิด"
+      }
+    ]
+  },
+  {
+    "id": "36_3",
+    "title": "36.3 Inversion with \"Only\" (Only after, Only then)",
+    "explanation": "Inversion with 'Only' คือการสลับตำแหน่งระหว่าง 'กริยาช่วย (Auxiliary Verb)' และ 'ประธาน (Subject)' ซึ่งเกิดขึ้นเมื่อเรานำสำนวนที่ขึ้นต้นด้วย 'Only' (เช่น Only after, Only when, Only by, Only if, Only then) มาไว้หน้าสุดของประโยคเพื่อ 'เน้นย้ำ' (emphasize) ความสำคัญของเงื่อนไขหรือช่วงเวลานั้นๆ\n\n**โครงสร้างหลัก:**\n`Only + [Adverbial Phrase/Clause] + Auxiliary Verb + Subject + Main Verb ...`\n\n**แก่นของเรื่อง (Core Concept):**\nการ Inversion จะเกิดขึ้นใน 'ประโยคหลัก (Main Clause)' เท่านั้น ไม่ใช่ในส่วนของประโยคย่อย (Subordinate Clause) ที่ตามหลัง Only\nตัวอย่าง:\n`Only after she had meticulously reviewed all the documents` (นี่คือ Subordinate Clause - ไม่มีการสลับตำแหน่ง) `did she sign the contract` (นี่คือ Main Clause - เกิดการสลับตำแหน่งระหว่าง did กับ she)\n\n**ประเภทของวลีที่ขึ้นต้นด้วย Only:**\n1.  **Only + เงื่อนไขเวลา (Time):** `Only after`, `Only when`, `Only later`, `Only then`, `Only once`\n    - `Only after` มักจะตามด้วยประโยคหรือคำนาม หมายความว่าสิ่งในประโยคหลักจะเกิดขึ้นได้ก็ต่อเมื่อเงื่อนไขเวลานั้นผ่านไปก่อน\n    - `Only then` มักใช้อ้างอิงถึงเหตุการณ์ที่เพิ่งพูดถึงไปในประโยคก่อนหน้า\n\n2.  **Only + เงื่อนไข (Condition):** `Only if`\n    - คล้ายกับ If-clause แต่ให้ความรู้สึกที่ 'จำกัด' และ 'เข้มงวด' กว่ามาก หมายถึงสิ่งในประโยคหลักจะเกิดขึ้นได้ 'ก็ต่อเมื่อ' เงื่อนไขนี้เป็นจริง 'เท่านั้น'\n\n3.  **Only + วิธีการ (Manner/Method):** `Only by (+ gerund)`, `Only in this way`, `Only with`\n    - ใช้เน้นว่ามี 'เพียงวิธีเดียวเท่านั้น' ที่จะทำให้เกิดผลลัพธ์ในประโยคหลักได้\n\n**ข้อยกเว้นสำคัญที่ต้องจำ (Crucial Exception):**\n**จะไม่มีการทำ Inversion** ถ้าคำว่า 'Only' ทำหน้าที่เป็น Adjective ขยาย 'ประธาน (Subject)' ที่อยู่ต้นประโยคโดยตรง\n- `Only the most resilient candidates` will be selected for the final round. (ในที่นี้ Only ขยายประธานคือ 'the most resilient candidates' ทั้งก้อน ดังนั้นโครงสร้างประโยคจึงเป็นแบบปกติ Subject + Verb)\n- เทียบกับ: `Only by demonstrating resilience` will candidates be selected... (ในที่นี้ Only by... เป็นเงื่อนไขที่วางไว้หน้าประโยค จึงต้องทำ Inversion)\n\nการใช้ Inversion กับ Only เป็นลักษณะของภาษาที่เป็นทางการ (Formal) หรือภาษาเขียน (Literary) ทำให้ประโยคดูทรงพลังและน่าประทับใจมากขึ้น",
+    "examples": [
+      {
+        "eng": "Only after the contentious negotiations had reached an impasse did the mediators propose a radical new solution.",
+        "thai": "ก็ต่อเมื่อการเจรจาที่เต็มไปด้วยข้อขัดแย้งได้มาถึงทางตันแล้วเท่านั้น เหล่าผู้ไกล่เกลี่ยจึงได้เสนอทางออกใหม่ที่แตกต่างไปจากเดิมโดยสิ้นเชิง\n- โครงสร้าง: `Only after [clause: the...impasse]` + `did (Aux. Verb)` + `the mediators (Subject)` + `propose (Main Verb)`"
+      },
+      {
+        "eng": "Only by meticulously deconstructing the convoluted source code can we hope to identify the root cause of the system's catastrophic failure.",
+        "thai": "ด้วยการแยกส่วนประกอบของซอร์สโค้ดที่ซับซ้อนอย่างพิถีพิถันเท่านั้น เราจึงจะสามารถหวังที่จะระบุสาเหตุที่แท้จริงของความล้มเหลวอย่างร้ายแรงของระบบได้\n- โครงสร้าง: `Only by [gerund phrase: meticulously...code]` + `can (Aux. Verb)` + `we (Subject)` + `hope (Main Verb)`"
+      },
+      {
+        "eng": "The initial results were inconclusive. Only then, upon the introduction of a new variable, did the experiment yield statistically significant data.",
+        "thai": "ผลลัพธ์เบื้องต้นนั้นยังสรุปไม่ได้ กระทั่งหลังจากนั้น เมื่อมีการนำตัวแปรใหม่เข้ามา การทดลองจึงได้ให้ข้อมูลที่มีนัยสำคัญทางสถิติ\n- โครงสร้าง: `Only then...` + `did (Aux. Verb)` + `the experiment (Subject)` + `yield (Main Verb)`"
+      },
+      {
+        "eng": "Only if all member states unanimously ratify the treaty will its provisions become legally binding.",
+        "thai": "ก็ต่อเมื่อรัฐสมาชิกทั้งหมดให้สัตยาบันสนธิสัญญาอย่างเป็นเอกฉันท์เท่านั้น บทบัญญัติต่างๆ ของมันจึงจะมีผลผูกพันทางกฎหมาย\n- โครงสร้าง: `Only if [clause: all...treaty]` + `will (Aux. Verb)` + `its provisions (Subject)` + `become (Main Verb)`"
+      },
+      {
+        "eng": "Only a handful of scientists with profound expertise in quantum entanglement were invited to the clandestine symposium.",
+        "thai": "มีเพียงนักวิทยาศาสตร์หยิบมือเดียวที่มีความเชี่ยวชาญอย่างลึกซึ้งในเรื่องควอนตัมเอนแทงเกิลเมนต์เท่านั้นที่ได้รับเชิญให้เข้าร่วมการประชุมสัมมนาลับครั้งนี้\n- **(ตัวอย่างข้อยกเว้น)** ในที่นี้ไม่มี Inversion เพราะ 'Only' ขยายประธาน ('a handful of scientists...') ไม่ได้ทำหน้าที่เป็น Adverbial phrase ที่นำหน้าประโยค"
+      }
+    ],
+    "common_mistakes": "- **สลับตำแหน่งผิดประโยค (Inverting the wrong clause):** คนไทยมักสับสนและไปทำ Inversion ในประโยคย่อยที่ตามหลัง Only after/when/if ทันที ซึ่งผิดหลักไวยากรณ์\n  - *ผิด:* Only after `did he finish` his research, he published the paper.\n  - *ถูก:* Only after he finished his research `did he publish` the paper.\n\n- **ลืมเติมกริยาช่วย 'do/does/did' (Forgetting the auxiliary):** ในประโยคที่เป็น Simple Tense (Present/Past) หลายคนมักจะสลับประธานกับกริยาแท้เลย ซึ่งทำไม่ได้ ต้องนำ do/does/did เข้ามาช่วยเสมอ\n  - *ผิด:* Only then `the manager understood` the gravity of the situation.\n  - *ถูก:* Only then `did the manager understand` the gravity of the situation.\n\n- **สลับตำแหน่งทั้งๆ ที่ไม่ควร (Unnecessary inversion):** เมื่อ 'Only' ขยายประธานที่อยู่ต้นประโยค จะไม่มีการทำ Inversion แต่หลายคนติดใช้กฎ Inversion กับทุก 'Only' ที่เห็น\n  - *ผิด:* Only the most audacious entrepreneurs `would dare they` to invest in such a volatile market.\n  - *ถูก:* Only the most audacious entrepreneurs `would dare` to invest in such a volatile market.\n\n- **ใช้รูปกริยาแท้ผิด (Incorrect main verb form):** หลังจากใช้ 'did' ในการทำ Inversion แล้ว กริยาแท้ที่ตามมาต้องกลับไปเป็นรูปพื้นฐาน (Base Form) เสมอ\n  - *ผิด:* Only after weeks of deliberation `did the committee reached` a consensus.\n  - *ถูก:* Only after weeks of deliberation `did the committee reach` a consensus.",
+    "practice_questions": [
+      {
+        "question": "Only by confronting the deeply ingrained societal prejudices ______ any tangible progress towards true equality.",
+        "options": [
+          "A. can we hope to make",
+          "B. we can hope to make",
+          "C. we hope to make can",
+          "D. can hope we to make"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคขึ้นต้นด้วย 'Only by...' ซึ่งเป็น Adverbial Phrase of manner ดังนั้นประโยคหลัก (main clause) จึงต้องเกิด Inversion โดยสลับตำแหน่งระหว่างกริยาช่วย (Auxiliary Verb) และประธาน (Subject) โครงสร้างที่ถูกต้องคือ `Aux. Verb (can) + Subject (we) + Main Verb (hope...)` ดังนั้นข้อ A จึงเป็นคำตอบที่ถูกต้อง"
+      },
+      {
+        "question": "The evidence seemed overwhelmingly convincing. Only after a prodigious amount of further investigation ______ the fallacies in the initial hypothesis become apparent.",
+        "options": [
+          "A. the fallacies did in",
+          "B. did the fallacies in",
+          "C. have the fallacies in",
+          "D. do the fallacies in"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคขึ้นต้นด้วย 'Only after...' ซึ่งเป็น Adverbial Phrase of time ดังนั้นต้องเกิด Inversion ในประโยคหลัก ประโยคแรกอยู่ในอดีต ('seemed') ดังนั้น Inversion ในประโยคที่สองจึงควรใช้ 'did' โครงสร้างที่ถูกต้องคือ `Aux. Verb (did) + Subject (the fallacies in the initial hypothesis) + Main Verb (become)` ซึ่งในตัวเลือก B มีโครงสร้าง `did + subject + ...` ที่ถูกต้อง ส่วน Main Verb 'become' ถูกละไว้ในตัวเลือก แต่เป็นส่วนที่ถูกต้องตามไวยากรณ์เมื่อเติมเข้าไป ข้อ C ใช้ 'have' ซึ่งผิด tense และข้อ A, D มีลำดับคำที่ผิด"
+      },
+      {
+        "question": "Only if the company's precarious financial situation ameliorates significantly ______ the board of directors sanction such an ambitious expansion.",
+        "options": [
+          "A. will",
+          "B. does",
+          "C. has",
+          "D. it will"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้ขึ้นต้นด้วย 'Only if...' ซึ่งเป็นเงื่อนไขที่ต้องการ Inversion ในประโยคหลัก ประโยคย่อย ('the company's...ameliorates') อยู่ใน Present Simple Tense ซึ่งบ่งบอกถึงเงื่อนไขในอนาคต (Future Real Conditional) ดังนั้นประโยคหลักจึงควรใช้ Modal Verb 'will' โครงสร้างคือ `Only if [clause] + will (Aux. Verb) + the board of directors (Subject) + sanction (Main Verb)` การเติม 'will' ในช่องว่างทำให้โครงสร้างสมบูรณ์"
+      },
+      {
+        "question": "The team worked with painstaking diligence for months. Only then ______ to perceive the subtle, yet profound, implications of their discovery.",
+        "options": [
+          "A. they began",
+          "B. began they",
+          "C. have they begun",
+          "D. did they begin"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคนี้ใช้ 'Only then' เพื่ออ้างอิงถึงเหตุการณ์ในอดีต ('worked') จึงต้องเกิด Inversion โดยใช้กริยาช่วยสำหรับ Past Simple Tense คือ 'did' โครงสร้างที่ถูกต้องคือ `did (Aux. Verb) + they (Subject) + begin (Base Form Verb)` ข้อ A ไม่มีการทำ Inversion ข้อ B สลับตำแหน่งผิด (ต้องมีกริยาช่วย) และข้อ C ใช้ Present Perfect ซึ่งไม่สอดคล้องกับบริบทที่เป็นอดีต"
+      },
+      {
+        "question": "______ with an inherent proclivity for abstract reasoning could have possibly deciphered such a convoluted enigma.",
+        "options": [
+          "A. Only a perspicacious individual",
+          "B. Only a perspicacious individual did",
+          "C. Did only a perspicacious individual",
+          "D. A perspicacious individual only"
+        ],
+        "answer": "A",
+        "explanation": "นี่คือกรณีของข้อยกเว้น ในประโยคนี้ 'Only' ทำหน้าที่ขยายประธานของประโยค ซึ่งคือ 'a perspicacious individual...' ทั้งก้อน ดังนั้นจึงไม่เกิดการ Inversion โครงสร้างประโยคเป็นแบบปกติ `Subject + Verb` ข้อ A (`Only a perspicacious individual` เป็นประธาน) + `could have...` (เป็นกริยา) จึงถูกต้องที่สุด"
+      },
+      {
+        "question": "Only once the final, irrevocable signatory ______ will the clandestine agreement be put into effect.",
+        "options": [
+          "A. has been obtained",
+          "B. been has obtained",
+          "C. has obtained been",
+          "D. obtained has been"
+        ],
+        "answer": "A",
+        "explanation": "ข้อนี้ทดสอบความเข้าใจว่า Inversion จะไม่เกิดใน Clause ที่ตามหลัง 'Only...' โดยตรง ในที่นี้ 'Only once...' เป็น Subordinate Clause ที่ต้องการโครงสร้างปกติ คือ `Subject (the final, irrevocable signatory) + Verb (has been obtained)` ส่วน Inversion จะเกิดในประโยคหลัก (`will the clandestine agreement be...`) ซึ่งมีอยู่แล้ว ดังนั้นข้อ A จึงเป็นโครงสร้างที่ถูกต้องสำหรับ Clause แรก"
+      },
+      {
+        "question": "Only with the magnanimous patronage of an anonymous benefactor ______ to continue its humanitarian work in the war-torn region.",
+        "options": [
+          "A. the charity was able",
+          "B. was the charity able",
+          "C. able was the charity",
+          "D. the charity able was"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคขึ้นต้นด้วย 'Only with...' ซึ่งเป็น Adverbial Phrase of manner/condition ดังนั้นจึงต้องเกิด Inversion ในประโยคหลัก โครงสร้างที่ถูกต้องคือการสลับ Auxiliary Verb ('was') และ Subject ('the charity') ดังนั้น `was the charity able` จึงเป็นคำตอบที่ถูกต้องตามหลักไวยากรณ์"
+      },
+      {
+        "question": "Only after the politician acknowledged his egregious blunder ______ his approval ratings begin to recover from the precipitous decline.",
+        "options": [
+          "A. his approval ratings did",
+          "B. have his approval ratings",
+          "C. did his approval ratings",
+          "D. do his approval ratings"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคขึ้นต้นด้วย 'Only after...' และเหตุการณ์ใน Clause แรกอยู่ในอดีต ('acknowledged') ดังนั้นประโยคหลักต้องทำ Inversion โดยใช้ 'did' สำหรับ Past Simple Tense โครงสร้างคือ `did (Aux. Verb) + his approval ratings (Subject) + begin (Base Form Verb)` ซึ่งข้อ C ตรงตามโครงสร้างนี้อย่างสมบูรณ์"
+      },
+      {
+        "question": "Only in a state of profound existential despair ______ the protagonist of the novel finally find the impetus to change his life.",
+        "options": [
+          "A. does",
+          "B. has",
+          "C. did",
+          "D. was"
+        ],
+        "answer": "C",
+        "explanation": "แม้ว่าประโยคจะดูเหมือนบรรยายสภาพทั่วไป แต่บริบทของการเล่าเรื่องในนิยาย (protagonist of the novel) มักใช้ Past Tense ดังนั้นการทำ Inversion ที่เหมาะสมที่สุดคือการใช้ 'did' โครงสร้างประโยคคือ `Only in... + did (Aux. Verb) + the protagonist... (Subject) + find (Base Form Verb)` ข้อ A 'does' จะใช้กับบริบทที่เป็น Present Simple ซึ่งไม่เข้ากับการเล่าเรื่องในอดีต"
+      },
+      {
+        "question": "Only when one has grappled with adversity and persevered through innumerable tribulations ______ the true, intrinsic value of success.",
+        "options": [
+          "A. one can truly appreciate",
+          "B. can truly one appreciate",
+          "C. one truly appreciates can",
+          "D. can one truly appreciate"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคขึ้นต้นด้วย 'Only when...' ดังนั้นประโยคหลักต้องทำ Inversion โครงสร้างที่ถูกต้องคือ `Auxiliary Verb (can) + Subject (one) + Adverb (truly) + Main Verb (appreciate)` ข้อ D เรียงลำดับคำได้ถูกต้องสมบูรณ์ ในขณะที่ข้อ A ไม่มี Inversion, ข้อ B และ C มีการเรียงลำดับคำที่ผิดไวยากรณ์"
+      }
+    ]
+  },
+  {
+    "id": "36_4",
+    "title": "36.4 Summary: Inversion (สรุปการสลับตำแหน่ง + 50 Exercises)",
+    "explanation": "Inversion คือการสลับตำแหน่งระหว่างประธาน (Subject) และกริยา (Verb) ซึ่งปกติแล้วจะอยู่ในรูป Subject + Verb ให้กลายเป็น Verb + Subject หรือ Auxiliary Verb + Subject + Main Verb. การทำ Inversion มีวัตถุประสงค์หลักเพื่อเน้นย้ำ (Emphasis) ข้อความบางส่วนให้เด่นชัดขึ้น หรือเพื่อสร้างสำนวนที่เป็นทางการ (Formality) และมีสุนทรียภาพทางภาษา (Literary effect) ซึ่งพบได้บ่อยในงานเขียนระดับสูง.\n\n**โครงสร้างหลักของการทำ Inversion:**\n\n1.  **Inversion with Auxiliary Verbs**: เมื่อในประโยคมีกริยาช่วย (Auxiliary Verbs: be, have, will, can, should, etc.) อยู่แล้ว เราจะสลับตำแหน่งระหว่างกริยาช่วยกับประธาน\n    *   โครงสร้าง: **Adverbial + Auxiliary Verb + Subject + Main Verb**\n    *   ตัวอย่าง: `Never have I witnessed such bravery.` (ปกติ: I have never witnessed...)\n\n2.  **Inversion with 'do/does/did'**: เมื่อในประโยคไม่มีกริยาช่วย (ใช้กริยาแท้ใน Simple Tenses) เราต้องนำ `do`, `does`, หรือ `did` เข้ามาช่วยในการสลับตำแหน่ง คล้ายกับการสร้างประโยคคำถาม\n    *   โครงสร้าง: **Adverbial + do/does/did + Subject + Main Verb (infinitive)**\n    *   ตัวอย่าง: `Rarely does he complain about his work.` (ปกติ: He rarely complains...)\n\n**เงื่อนไขที่ทำให้เกิด Inversion ในระดับ C1-C2:**\n\n*   **Negative Adverbials**: เมื่อนำคำหรือวลีที่มีความหมายเชิงปฏิเสธมาขึ้นต้นประโยค เช่น `Never`, `Rarely`, `Seldom`, `Little`, `Hardly`, `Scarcely`, `No sooner`, `Under no circumstances`, `In no way`, `At no time`, `Not until`, `Not only...but also`.\n*   **Conditional Sentences (without 'if')**: ในประโยคเงื่อนไขแบบที่ 2 และ 3 เราสามารถตัด 'if' ทิ้ง แล้วสลับตำแหน่งกริยาช่วยกับประธานได้เลย เพื่อให้ประโยคมีความเป็นทางการมากขึ้น\n    *   `Were I you...` (มาจาก If I were you...)\n    *   `Should you need assistance...` (มาจาก If you should need assistance...)\n    *   `Had I known...` (มาจาก If I had known...)\n*   **After 'So' and 'Such'**: เมื่อใช้ 'So + Adjective/Adverb' หรือ 'Such + be' ขึ้นต้นประโยคเพื่อเน้นย้ำ\n    *   `So profound was his speech that everyone was moved to tears.`\n    *   `Such was the magnitude of the disaster that international aid was required.`\n*   **After 'Only' Phrases**: เมื่อขึ้นต้นประโยคด้วย 'Only' ตามด้วย Adverb of time หรือ Prepositional phrase เช่น `Only then`, `Only after`, `Only by`, `Only when`.\n    *   `Only after rigorous testing did the scientists publish their findings.`\n*   **Adverbials of Place or Movement (Literary Style)**: ในงานเขียนเชิงวรรณกรรม สามารถนำบุพบทวลีบอกสถานที่ขึ้นต้นประโยค และตามด้วย Verb + Subject ได้ (มักใช้กับกริยาที่ไม่ต้องการกรรม เช่น be, stand, lie, sit, come, go)\n    *   `On the hilltop stands an ancient castle.`\n\nการใช้ Inversion ได้อย่างถูกต้องและถูกจังหวะเป็นเครื่องบ่งชี้ความสามารถทางภาษาอังกฤษในระดับสูง แสดงให้เห็นถึงความเข้าใจในโครงสร้างไวยากรณ์ที่ซับซ้อนและความสามารถในการเลือกใช้ภาษาได้อย่างมีศิลปะ",
+    "examples": [
+      {
+        "eng": "Not until the forensic evidence was meticulously re-examined did the detectives apprehend the true perpetrator.",
+        "thai": "จนกระทั่งหลักฐานทางนิติเวชได้ถูกตรวจสอบใหม่อย่างพิถีพิถันนั่นแหละ เหล่านักสืบจึงได้จับกุมผู้กระทำผิดตัวจริงได้สำเร็จ\n**โครงสร้าง**: ใช้ Inversion เพราะประโยคขึ้นต้นด้วย `Not until...` โครงสร้างใน main clause คือ `did` (Auxiliary) + `the detectives` (Subject) + `apprehend` (Main Verb)."
+      },
+      {
+        "eng": "Had the corporation not been so relentlessly avaricious, it might have averted the catastrophic financial collapse.",
+        "thai": "หากบริษัทไม่ละโมบอย่างไม่หยุดหย่อนถึงเพียงนั้น ก็อาจจะหลีกเลี่ยงการล่มสลายทางการเงินอันเป็นหายนะไปได้\n**โครงสร้าง**: นี่คือ Conditional Inversion (Type 3) มาจากประโยคเต็มว่า `If the corporation had not been...` โดยตัด `if` ออกแล้วสลับตำแหน่งเป็น `Had` + `the corporation` (Subject) + `not been...`"
+      },
+      {
+        "eng": "So egregious were the violations of human rights that the international community was compelled to intervene.",
+        "thai": "การละเมิดสิทธิมนุษยชนนั้นเลวร้ายอย่างมหันต์เสียจนประชาคมระหว่างประเทศถูกบีบให้ต้องเข้าแทรกแซง\n**โครงสร้าง**: ขึ้นต้นด้วย `So + Adjective (egregious)` เพื่อเน้นย้ำ ตามด้วย `were` (Verb 'be') + `the violations of human rights` (Subject) + `that...`"
+      },
+      {
+        "eng": "Little did the unsuspecting public know that behind the philanthropic facade lay a vast, unscrupulous enterprise.",
+        "thai": "สาธารณชนผู้ไม่ระแคะระคายรู้เพียงน้อยนิดว่าเบื้องหลังฉากหน้าของผู้ใจบุญนั้นซ่อนไว้ซึ่งองค์กรขนาดใหญ่ที่ไร้ซึ่งคุณธรรม\n**โครงสร้าง**: ใช้ Inversion เพราะขึ้นต้นด้วย `Little` ที่มีความหมายเชิงปฏิเสธ โครงสร้างคือ `Little` + `did` (Auxiliary) + `the unsuspecting public` (Subject) + `know` (Main Verb)."
+      }
+    ],
+    "common_mistakes": "แม้แต่ในระดับสูง ผู้เรียนคนไทยก็ยังอาจทำผิดพลาดเกี่ยวกับการใช้ Inversion ได้ในประเด็นต่อไปนี้:\n\n1.  **Invert ผิดตำแหน่ง (Incorrect Inversion Form)**: ข้อผิดพลาดที่พบบ่อยที่สุดคือการสลับตำแหน่งกริยาแท้โดยตรง แทนที่จะใช้กริยาช่วย `do/does/did` สำหรับ Simple Tenses.\n    *   **ผิด**: `Rarely she speaks in public.` หรือ `Rarely speaks she in public.`\n    *   **ถูก**: `Rarely does she speak in public.`\n\n2.  **ลืม Invert ใน Main Clause**: เมื่อเจอโครงสร้างที่ซับซ้อนอย่าง `Not until` หรือ `Only after` ผู้เรียนมักจะ Invert ผิดที่ คือไป Invert ใน clause ที่ตามหลังคำเหล่านั้นทันที แต่จริงๆ แล้วต้องไป Invert ในประโยคหลัก (Main Clause) ที่อยู่ถัดไป\n    *   **ผิด**: `Not until *did he finish* his studies, he found a job.`\n    *   **ถูก**: `Not until he finished his studies, *did he find* a job.`\n\n3.  **ใช้ Inversion พร่ำเพรื่อ (Overuse)**: การเข้าใจว่า Inversion ทำให้ภาษาดู 'ฉลาด' หรือ 'หรู' อาจนำไปสู่การใช้ที่มากเกินความจำเป็นในบริบทที่ไม่เป็นทางการ ทำให้การเขียนหรือการพูดฟังดูผิดที่ผิดทางและไม่เป็นธรรมชาติ ควรใช้เฉพาะเมื่อต้องการเน้นย้ำจริงๆ หรือในงานเขียนที่เป็นทางการเท่านั้น\n\n4.  **สับสน Subject-Verb Agreement**: ในโครงสร้าง Inversion โดยเฉพาะที่ขึ้นต้นด้วย Adverbial of Place ประธานมักจะอยู่หลังกริยา ทำให้สับสนในการผันกริยาให้สอดคล้องกับประธาน\n    *   **ผิด**: `Beyond the mountains *lies* vast, fertile plains.` (plains เป็นพหูพจน์)\n    *   **ถูก**: `Beyond the mountains *lie* vast, fertile plains.` (กริยา `lie` ต้องเป็นรูปพหูพจน์ให้สอดคล้องกับประธาน `plains`)",
+    "practice_questions": [
+      {
+        "question": "No sooner had the CEO finished his calamitous speech ______ the company's stock value plummeted.",
+        "options": [
+          "A. when",
+          "B. that",
+          "C. than",
+          "D. then"
+        ],
+        "answer": "C",
+        "explanation": "โครงสร้างสำนวนที่ถูกต้องคือ 'No sooner... than...' เพื่อบอกว่าเหตุการณ์หนึ่งเกิดขึ้นทันทีหลังจากอีกเหตุการณ์หนึ่ง ข้อ A 'when' ใช้กับ 'Hardly' หรือ 'Scarcely' ข้อ B และ D ไม่ถูกไวยากรณ์ในโครงสร้างนี้"
+      },
+      {
+        "question": "Rarely ______ such a prodigious talent in the field of theoretical physics.",
+        "options": [
+          "A. we have witnessed",
+          "B. have we witnessed",
+          "C. we witnessed",
+          "D. did we have witnessed"
+        ],
+        "answer": "B",
+        "explanation": "เมื่อขึ้นต้นประโยคด้วย Negative Adverbial 'Rarely' จะต้องเกิด Inversion โดยสลับกริยาช่วย (Auxiliary Verb) กับประธาน (Subject) โครงสร้างที่ถูกต้องคือ 'Rarely' + have (Aux) + we (Subj) + witnessed (Main Verb)."
+      },
+      {
+        "question": "Under no circumstances ______ permitted to access these confidential files without explicit authorization.",
+        "options": [
+          "A. you are",
+          "B. are you",
+          "C. you will be",
+          "D. will you have"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคที่ขึ้นต้นด้วย 'Under no circumstances' ต้องตามด้วย Inversion ในรูป Auxiliary Verb + Subject. 'are you' คือรูปที่ถูกต้องของ 'you are' ในโครงสร้างนี้"
+      },
+      {
+        "question": "So convoluted ______ that only a handful of cryptographers could decipher it.",
+        "options": [
+          "A. the algorithm was",
+          "B. was the algorithm",
+          "C. did the algorithm was",
+          "D. had the algorithm been"
+        ],
+        "answer": "B",
+        "explanation": "เมื่อขึ้นต้นประโยคด้วย 'So + Adjective' เพื่อเน้นย้ำ จะต้องตามด้วย Verb + Subject. โครงสร้างที่ถูกต้องคือ 'So convoluted' + was (Verb) + 'the algorithm' (Subject)."
+      },
+      {
+        "question": "______ foreseen the imminent market downturn, the investors would have liquidated their assets.",
+        "options": [
+          "A. If they",
+          "B. They had",
+          "C. Had they",
+          "D. When they had"
+        ],
+        "answer": "C",
+        "explanation": "นี่คือ Conditional Inversion (Type 3) ซึ่งละ 'If' แล้วสลับตำแหน่ง 'Had' กับประธาน 'they' เพื่อสร้างประโยคเงื่อนไขที่เป็นทางการ ความหมายเหมือนกับ 'If they had foreseen...'"
+      },
+      {
+        "question": "Only by implementing drastic austerity measures ______ the nation avert a complete economic collapse.",
+        "options": [
+          "A. can",
+          "B. it can",
+          "C. could",
+          "D. did it could"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้อยู่ในอดีต (avert - to prevent something bad from happening, implying a past possibility). เมื่อขึ้นต้นด้วย 'Only by...' จะต้องเกิด Inversion ใน main clause. 'could the nation avert' คือโครงสร้างที่ถูกต้องที่สุดในบริบทนี้"
+      },
+      {
+        "question": "Not only ______ the ancient manuscript, but he also discovered a previously unknown historical account.",
+        "options": [
+          "A. he deciphered",
+          "B. did he decipher",
+          "C. he did decipher",
+          "D. had he decipher"
+        ],
+        "answer": "B",
+        "explanation": "ในโครงสร้าง 'Not only... but also' เมื่อ 'Not only' ขึ้นต้นประโยค ส่วนแรกต้องเกิด Inversion. เนื่องจากกริยาคือ 'deciphered' (Past Simple), จึงต้องใช้ 'did' มาช่วย เป็น 'did he decipher'."
+      },
+      {
+        "question": "Little ______ that their clandestine meeting was under surveillance.",
+        "options": [
+          "A. they suspected",
+          "B. have they suspected",
+          "C. did they suspect",
+          "D. they did suspect"
+        ],
+        "answer": "C",
+        "explanation": "เมื่อ 'Little' ถูกใช้ในความหมายเชิงปฏิเสธ (they knew very little) และขึ้นต้นประโยค จะต้องเกิด Inversion. กริยาอยู่ในรูป Past Simple จึงต้องใช้ 'did' มาช่วย เป็น 'did they suspect'."
+      },
+      {
+        "question": "At no time ______ the defendant show any remorse for his egregious actions.",
+        "options": [
+          "A. did",
+          "B. has",
+          "C. was",
+          "D. had"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคขึ้นต้นด้วย 'At no time' ซึ่งเป็น Negative Adverbial. กริยาหลักคือ 'show' (infinitive) ดังนั้นกริยาช่วยที่ต้องใช้ในการทำ Inversion คือ 'did' เพื่อสร้างรูป Past Simple."
+      },
+      {
+        "question": "______ you to reconsider your resignation, the board would be willing to negotiate new terms.",
+        "options": [
+          "A. If",
+          "B. Had",
+          "C. Should",
+          "D. Were"
+        ],
+        "answer": "D",
+        "explanation": "นี่คือ Conditional Inversion (Type 2) ใช้ 'Were' + Subject + 'to-infinitive' เพื่อแสดงเงื่อนไขที่ไม่น่าจะเกิดขึ้นจริง มาจาก 'If you were to reconsider...'"
+      },
+      {
+        "question": "Such ______ of the political scandal that the prime minister was forced to resign.",
+        "options": [
+          "A. the repercussions were",
+          "B. were the repercussions",
+          "C. did the repercussions were",
+          "D. had been the repercussions"
+        ],
+        "answer": "B",
+        "explanation": "เมื่อขึ้นต้นประโยคด้วย 'Such + be' เพื่อเน้นย้ำ จะต้องตามด้วย Verb + Subject. โครงสร้างที่ถูกต้องคือ 'Such' + were (Verb) + 'the repercussions' (Subject)."
+      },
+      {
+        "question": "In no way ______ condone the use of unauthorized software within this organization.",
+        "options": [
+          "A. we can",
+          "B. can we",
+          "C. we will",
+          "D. will us"
+        ],
+        "answer": "B",
+        "explanation": "เมื่อขึ้นต้นด้วย Negative Adverbial 'In no way' จะต้องเกิด Inversion. 'can we' เป็นการสลับตำแหน่งที่ถูกต้องระหว่าง Modal Verb 'can' และ Subject 'we'."
+      },
+      {
+        "question": "Scarcely had the armistice been signed ______ fresh hostilities broke out on the eastern front.",
+        "options": [
+          "A. when",
+          "B. than",
+          "C. then",
+          "D. that"
+        ],
+        "answer": "A",
+        "explanation": "สำนวนที่ถูกต้องคือ 'Scarcely... when...' (หรือ 'Hardly... when...') เพื่อบอกว่าเหตุการณ์หนึ่งเกิดขึ้นแทบทันทีหลังจากอีกเหตุการณ์หนึ่ง. 'than' ใช้กับ 'No sooner'."
+      },
+      {
+        "question": "On the mantelpiece ______ a collection of antique porcelain figures.",
+        "options": [
+          "A. stands",
+          "B. stand",
+          "C. is standing",
+          "D. it stands"
+        ],
+        "answer": "B",
+        "explanation": "นี่คือ Inversion ที่เกิดจาก Adverbial of Place ขึ้นต้นประโยค. ประธานของประโยคคือ 'a collection of antique porcelain figures' ซึ่งเป็นพหูพจน์ (a collection of + plural noun) ดังนั้นกริยาต้องเป็น 'stand' (รูปพหูพจน์) ไม่ใช่ 'stands'."
+      },
+      {
+        "question": "______ I to be granted one wish, it would be for perpetual world peace.",
+        "options": [
+          "A. Would",
+          "B. Were",
+          "C. Had",
+          "D. Am"
+        ],
+        "answer": "B",
+        "explanation": "นี่คือ Conditional Inversion (Type 2) ในรูปแบบ 'Were' + Subject + 'to-infinitive', มาจาก 'If I were to be granted...'. ใช้เพื่อแสดงเงื่อนไขที่เป็นสมมติฐาน"
+      },
+      {
+        "question": "Not for a single moment ______ that he was orchestrating the entire conspiracy.",
+        "options": [
+          "A. I suspected",
+          "B. did I suspect",
+          "C. I did suspect",
+          "D. had I suspect"
+        ],
+        "answer": "B",
+        "explanation": "วลี 'Not for a single moment' ทำหน้าที่เป็น Negative Adverbial เมื่อขึ้นต้นประโยค จึงต้องเกิด Inversion. กริยาอยู่ในรูป Past Simple จึงต้องใช้ 'did' มาช่วย เป็น 'did I suspect'."
+      },
+      {
+        "question": "So rapidly ______ that the existing infrastructure could not cope.",
+        "options": [
+          "A. the city expanded",
+          "B. did the city expand",
+          "C. has the city expanded",
+          "D. the city did expand"
+        ],
+        "answer": "B",
+        "explanation": "เมื่อขึ้นต้นประโยคด้วย 'So + Adverb' เพื่อเน้นย้ำ จะต้องเกิด Inversion. 'So rapidly' + did (Aux) + 'the city' (Subj) + expand (Main Verb) คือโครงสร้างที่ถูกต้องสำหรับ Past Simple tense."
+      },
+      {
+        "question": "Only after months of painstaking research ______ to formulate a viable hypothesis.",
+        "options": [
+          "A. the scientists were able",
+          "B. were the scientists able",
+          "C. did the scientists able",
+          "D. had the scientists been able"
+        ],
+        "answer": "B",
+        "explanation": "เมื่อขึ้นต้นด้วย 'Only after...' จะต้องเกิด Inversion ใน main clause. โครงสร้างที่ถูกต้องคือ Auxiliary Verb ('were') + Subject ('the scientists') + Adjective ('able')."
+      },
+      {
+        "question": "Nowhere else in the world ______ such a breathtakingly diverse ecosystem.",
+        "options": [
+          "A. you can find",
+          "B. can you find",
+          "C. you will find",
+          "D. it can be found"
+        ],
+        "answer": "B",
+        "explanation": "'Nowhere else' เป็น Negative Adverbial ที่เมื่อขึ้นต้นประโยคต้องตามด้วย Inversion. 'can you find' คือการสลับตำแหน่งที่ถูกต้อง."
+      },
+      {
+        "question": "______ you require any further elucidation on this matter, please do not hesitate to contact me.",
+        "options": [
+          "A. Were",
+          "B. Had",
+          "C. Should",
+          "D. If"
+        ],
+        "answer": "C",
+        "explanation": "นี่คือ Conditional Inversion (Type 1) ใช้ 'Should' แทน 'If' เพื่อแสดงความเป็นไปได้ในอนาคตอย่างเป็นทางการและสุภาพ. มาจาก 'If you should require...'"
+      },
+      {
+        "question": "Hardly had the delegates assembled ______ the fire alarm precipitated a chaotic evacuation.",
+        "options": [
+          "A. than",
+          "B. that",
+          "C. then",
+          "D. when"
+        ],
+        "answer": "D",
+        "explanation": "สำนวนที่ถูกต้องคือ 'Hardly... when...' (หรือ 'Scarcely... when...'). 'than' ใช้กับ 'No sooner'."
+      },
+      {
+        "question": "Seldom ______ to such a flagrant disregard for established protocols.",
+        "options": [
+          "A. we have been subjected",
+          "B. have we been subjected",
+          "C. we were subjected",
+          "D. did we subject"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคขึ้นต้นด้วย 'Seldom' ซึ่งเป็น Negative Adverbial. ต้องเกิด Inversion โดยสลับ Auxiliary Verb ('have') กับ Subject ('we'). โครงสร้างที่ถูกต้องคือ 'have we been subjected'."
+      },
+      {
+        "question": "Not until the final act of the opera ______ its true, tragic genius.",
+        "options": [
+          "A. the audience understood",
+          "B. did the audience understand",
+          "C. the audience did understand",
+          "D. has the audience understood"
+        ],
+        "answer": "B",
+        "explanation": "เมื่อขึ้นต้นด้วย 'Not until...', Inversion จะเกิดขึ้นใน main clause. กริยาอยู่ในรูป Past Simple ('understood') ดังนั้นจึงต้องใช้ 'did' มาช่วย เป็น 'did the audience understand'."
+      },
+      {
+        "question": "So audacious was his proposal ______ it left the entire boardroom speechless.",
+        "options": [
+          "A. so",
+          "B. as",
+          "C. that",
+          "D. which"
+        ],
+        "answer": "C",
+        "explanation": "โครงสร้าง 'So + adjective/adverb ... that ...' ใช้เพื่อบอกผลลัพธ์. เมื่อทำ Inversion โดยเอา 'So audacious' ขึ้นต้น, clause ที่ตามมายังคงต้องขึ้นต้นด้วย 'that'."
+      },
+      {
+        "question": "Lying on the dusty floor of the attic ______ a series of forgotten letters.",
+        "options": [
+          "A. was",
+          "B. were",
+          "C. it was",
+          "D. they were"
+        ],
+        "answer": "B",
+        "explanation": "นี่คือ Inversion ที่เกิดจาก Adverbial of Place. ประธานของประโยคคือ 'a series of forgotten letters' ซึ่งเป็นพหูพจน์. ดังนั้น กริยาที่ถูกต้องคือ 'were'."
+      },
+      {
+        "question": "On no account ______ to be left unattended with the sensitive equipment.",
+        "options": [
+          "A. the interns are",
+          "B. are the interns",
+          "C. will the interns be",
+          "D. the interns will"
+        ],
+        "answer": "B",
+        "explanation": "'On no account' เป็น Negative Adverbial ที่ต้องการ Inversion. 'are the interns' คือการสลับตำแหน่งที่ถูกต้องระหว่าง verb 'to be' กับประธาน."
+      },
+      {
+        "question": "______ the general's tactical genius, the battle would undoubtedly have been lost.",
+        "options": [
+          "A. Had it not been for",
+          "B. If it not were for",
+          "C. Weren't it for",
+          "D. Should it not be for"
+        ],
+        "answer": "A",
+        "explanation": "นี่คือสำนวน Conditional Inversion 'Had it not been for...', ซึ่งมีความหมายเหมือนกับ 'If it had not been for...' หรือ 'Without...'. ใช้เพื่อพูดถึงเงื่อนไขในอดีต (Type 3)."
+      },
+      {
+        "question": "Never before ______ faced with such a complex and multifaceted dilemma.",
+        "options": [
+          "A. the committee has been",
+          "B. has been the committee",
+          "C. has the committee been",
+          "D. did the committee be"
+        ],
+        "answer": "C",
+        "explanation": "เมื่อขึ้นต้นด้วย 'Never before', ต้องเกิด Inversion. โครงสร้างที่ถูกต้องสำหรับ Present Perfect Tense คือ Auxiliary ('has') + Subject ('the committee') + Main Verb ('been')."
+      },
+      {
+        "question": "Only when the last of the refugees had been safely evacuated ______ breathe a sigh of relief.",
+        "options": [
+          "A. the aid workers could",
+          "B. could the aid workers",
+          "C. the aid workers were able to",
+          "D. were the aid workers able"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคขึ้นต้นด้วย 'Only when...', ดังนั้น Inversion จึงต้องเกิดขึ้นใน main clause. 'could the aid workers breathe' คือการสลับตำแหน่งที่ถูกต้อง."
+      },
+      {
+        "question": "Such a fuss ______ over a minor procedural error that the entire project was delayed.",
+        "options": [
+          "A. they made",
+          "B. did they make",
+          "C. was made",
+          "D. had been made"
+        ],
+        "answer": "C",
+        "explanation": "นี่ไม่ใช่ Inversion แต่เป็นการใช้โครงสร้าง 'Such a + noun + was made + that...' เพื่อเน้นย้ำ. ประธานคือ 'a fuss' ซึ่งเป็นกรรมของกริยา 'make' ดังนั้นต้องใช้รูป Passive Voice 'was made'."
+      },
+      {
+        "question": "At the end of the winding path ______ a dilapidated but charming cottage.",
+        "options": [
+          "A. stood",
+          "B. it stood",
+          "C. was stood",
+          "D. did stand"
+        ],
+        "answer": "A",
+        "explanation": "นี่คือ Inversion ที่เกิดจากการนำ Adverbial of Place ('At the end of the winding path') มาไว้ข้างหน้า. โครงสร้างคือ Adverbial + Verb ('stood') + Subject ('a dilapidated but charming cottage')."
+      },
+      {
+        "question": "Little ______ the profound impact his seemingly innocuous comment would have.",
+        "options": [
+          "A. he realized",
+          "B. had he realized",
+          "C. did he realize",
+          "D. was he realizing"
+        ],
+        "answer": "C",
+        "explanation": "เมื่อ 'Little' ที่มีความหมายเชิงปฏิเสธขึ้นต้นประโยค จะต้องตามด้วย Inversion. สำหรับ Past Simple tense, รูปที่ถูกต้องคือ 'did he realize'."
+      },
+      {
+        "question": "Not only is the new policy inequitable, ______ unconstitutional.",
+        "options": [
+          "A. but it is also",
+          "B. but is it also",
+          "C. and it is also",
+          "D. it is also but"
+        ],
+        "answer": "A",
+        "explanation": "ในโครงสร้าง 'Not only... but also...', Inversion จะเกิดเฉพาะในส่วนของ 'Not only' เท่านั้น. ส่วนที่ตามหลัง 'but also' จะใช้โครงสร้างประโยคปกติ (Subject + Verb)."
+      },
+      {
+        "question": "So exhausted were the rescuers ______ they could barely stand.",
+        "options": [
+          "A. as",
+          "B. when",
+          "C. then",
+          "D. that"
+        ],
+        "answer": "D",
+        "explanation": "โครงสร้าง 'So + adjective + were + subject' ต้องตามด้วย 'that' เพื่อบอกผลลัพธ์. 'So exhausted were the rescuers that...'"
+      },
+      {
+        "question": "______ I richer, I would fund more philanthropic initiatives.",
+        "options": [
+          "A. Was",
+          "B. Were",
+          "C. Had",
+          "D. Am"
+        ],
+        "answer": "B",
+        "explanation": "นี่คือ Conditional Inversion (Type 2) ที่มาจาก 'If I were richer...'. ในประโยคเงื่อนไขสมมติ เราใช้ 'were' กับประธานทุกตัว รวมถึง 'I'."
+      },
+      {
+        "question": "Under no circumstances ______ reveal the password to anyone, regardless of their position.",
+        "options": [
+          "A. you should",
+          "B. should you",
+          "C. you must",
+          "D. must you to"
+        ],
+        "answer": "B",
+        "explanation": "'Under no circumstances' ต้องการ Inversion. 'should you' คือการสลับตำแหน่งที่ถูกต้อง. 'must you to' ผิดไวยากรณ์เพราะหลัง 'must' ต้องตามด้วย infinitive without to."
+      },
+      {
+        "question": "No sooner had the curtain fallen ______ the audience erupted in thunderous applause.",
+        "options": [
+          "A. when",
+          "B. than",
+          "C. then",
+          "D. as"
+        ],
+        "answer": "B",
+        "explanation": "สำนวนที่ถูกต้องคือ 'No sooner... than...'. เป็นข้อผิดพลาดที่พบบ่อยในการสับสนกับ 'Hardly... when...'."
+      },
+      {
+        "question": "Only by sheer perseverance ______ his ambitious, lifelong goal.",
+        "options": [
+          "A. he could achieve",
+          "B. did he achieve",
+          "C. he achieved",
+          "D. achieved he"
+        ],
+        "answer": "B",
+        "explanation": "เมื่อขึ้นต้นด้วย 'Only by...', main clause ต้องเกิด Inversion. เนื่องจากเหตุการณ์เกิดขึ้นในอดีต (achieved), เราจึงใช้ 'did' มาช่วย เป็น 'did he achieve'."
+      },
+      {
+        "question": "So strange ______ that we all thought he was jesting.",
+        "options": [
+          "A. his behaviour was",
+          "B. did his behaviour seem",
+          "C. was his behaviour",
+          "D. seemed his behaviour"
+        ],
+        "answer": "C",
+        "explanation": "เมื่อขึ้นต้นด้วย 'So + adjective' จะตามด้วย Verb + Subject. ในที่นี้ Verb คือ 'was'. 'seemed' เป็นกริยาแท้ ต้องใช้ 'did...seem' (ข้อ B) แต่ 'was' เหมาะสมกว่าในโครงสร้างนี้"
+      },
+      {
+        "question": "______ the CEO to approve the budget, we can proceed with the project immediately.",
+        "options": [
+          "A. Had",
+          "B. Were",
+          "C. If",
+          "D. Provided"
+        ],
+        "answer": "B",
+        "explanation": "นี่คือ Conditional Inversion (Type 2) ที่เป็นทางการ 'Were' + Subject + 'to-infinitive', มาจาก 'If the CEO were to approve...'. ใช้สำหรับเงื่อนไขในอนาคตที่ไม่แน่นอน."
+      },
+      {
+        "question": "Not once ______ apologize for his unprofessional conduct.",
+        "options": [
+          "A. he did",
+          "B. did he offer to",
+          "C. he offered to",
+          "D. has he"
+        ],
+        "answer": "B",
+        "explanation": "'Not once' ทำหน้าที่เป็น Negative Adverbial และต้องการ Inversion. 'did he offer to apologize' คือโครงสร้างที่สมบูรณ์และถูกต้องตามไวยากรณ์."
+      },
+      {
+        "question": "In the valley below ______ the picturesque village, seemingly untouched by time.",
+        "options": [
+          "A. lies",
+          "B. laid",
+          "C. lie",
+          "D. it lies"
+        ],
+        "answer": "A",
+        "explanation": "นี่คือ Inversion จาก Adverbial of Place. ประธานของประโยคคือ 'the picturesque village' ซึ่งเป็นเอกพจน์. ดังนั้นกริยาต้องเป็น 'lies' (รูปเอกพจน์ของ lie)."
+      },
+      {
+        "question": "Such ______ of the new policy that it was repealed within a week.",
+        "options": [
+          "A. was the unpopularity",
+          "B. the unpopularity was",
+          "C. did the unpopularity",
+          "D. had the unpopularity been"
+        ],
+        "answer": "A",
+        "explanation": "เมื่อขึ้นต้นด้วย 'Such + be' เพื่อเน้นย้ำ จะต้องตามด้วย Verb + Subject. 'Such was the unpopularity' คือโครงสร้างที่ถูกต้อง."
+      },
+      {
+        "question": "Rarely ______ an opportunity to witness such a historical event firsthand.",
+        "options": [
+          "A. a person gets",
+          "B. gets a person",
+          "C. does a person get",
+          "D. has a person got"
+        ],
+        "answer": "C",
+        "explanation": "เมื่อ 'Rarely' ขึ้นต้นประโยค ต้องเกิด Inversion. สำหรับ Present Simple Tense ของกริยา 'get' ต้องใช้ 'does' มาช่วย. 'does a person get' คือรูปที่ถูกต้อง."
+      },
+      {
+        "question": "______ it not been for the swift intervention of the firefighters, the entire block would have been razed.",
+        "options": [
+          "A. If",
+          "B. Were",
+          "C. Had",
+          "D. Should"
+        ],
+        "answer": "C",
+        "explanation": "นี่คือ Conditional Inversion (Type 3) 'Had it not been for...', มีความหมายเหมือนกับ 'If it had not been for...'. ใช้พูดถึงเงื่อนไขในอดีต."
+      },
+      {
+        "question": "Never in all my years of service ______ such insubordination.",
+        "options": [
+          "A. I have encountered",
+          "B. I encountered",
+          "C. did I encounter",
+          "D. have I encountered"
+        ],
+        "answer": "D",
+        "explanation": "'Never in all my years' เป็น Negative Adverbial Phrase. ประโยคนี้พูดถึงประสบการณ์ตลอดช่วงเวลาที่ผ่านมาจนถึงปัจจุบัน จึงใช้ Present Perfect Tense. รูป Inversion ที่ถูกต้องคือ 'have I encountered'."
+      },
+      {
+        "question": "Only with a valid security clearance ______ enter the restricted area.",
+        "options": [
+          "A. you may",
+          "B. may you",
+          "C. you can",
+          "D. can you to"
+        ],
+        "answer": "B",
+        "explanation": "เมื่อขึ้นต้นด้วย 'Only with...', main clause ต้องเกิด Inversion. 'may you' คือการสลับตำแหน่งที่ถูกต้อง. 'can you to' ผิดไวยากรณ์."
+      },
+      {
+        "question": "So devastating ______ that it took the region decades to recover.",
+        "options": [
+          "A. the earthquake's impact was",
+          "B. was the earthquake's impact",
+          "C. did the earthquake's impact",
+          "D. had been the earthquake's impact"
+        ],
+        "answer": "B",
+        "explanation": "เมื่อขึ้นต้นด้วย 'So + adjective' จะตามด้วย Verb + Subject. โครงสร้างที่ถูกต้องคือ 'So devastating' + was (Verb) + 'the earthquake's impact' (Subject)."
+      },
+      {
+        "question": "Nowhere in the official report ______ of the potential environmental hazards.",
+        "options": [
+          "A. is there mention",
+          "B. there is mention",
+          "C. mention is there",
+          "D. does it mention"
+        ],
+        "answer": "A",
+        "explanation": "'Nowhere' เป็น Negative Adverbial ที่ต้องการ Inversion. โครงสร้างที่ถูกต้องคือ 'is there mention' (Verb + Subject/Dummy Subject)."
+      },
+      {
+        "question": "Seldom ______ so moved by a theatrical performance.",
+        "options": [
+          "A. I have been",
+          "B. have I been",
+          "C. I was",
+          "D. was I been"
+        ],
+        "answer": "B",
+        "explanation": "เมื่อ 'Seldom' ขึ้นต้นประโยค จะต้องเกิด Inversion. ประโยคอยู่ในรูป Present Perfect Tense. รูป Inversion ที่ถูกต้องคือ 'have I been'."
+      }
+    ]
+  }
+]

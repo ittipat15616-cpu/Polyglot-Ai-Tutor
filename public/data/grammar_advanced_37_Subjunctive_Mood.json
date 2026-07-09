@@ -1,0 +1,982 @@
+[
+  {
+    "id": "37_1",
+    "title": "37.1 Present Subjunctive (I insist that he go, It is important that she be here)",
+    "explanation": "Present Subjunctive คือ Mood (มาลา) ของกริยาที่ใช้เพื่อแสดงความปรารถนา, คำแนะนำ, ข้อเรียกร้อง, ความจำเป็น, หรือสถานการณ์ที่ไม่ใช่ความจริง (non-factual) แต่เป็นสิ่งที่ 'ควรจะเกิด' หรือ 'ถูกเรียกร้องให้เกิด' ครับ\n\nแก่นของมันง่ายมาก: ใน 'that-clause' ที่ตามหลังคำกริยาหรือสำนวนบางกลุ่ม, คำกริยาจะอยู่ในรูป **Base Form (Infinitive without 'to')** เสมอ ไม่ว่าประธานจะเป็นใคร (he, she, it, they) และไม่ว่า Main Verb ของประโยคจะเป็น Tense อะไรก็ตาม\n\n**โครงสร้างหลัก:**\n`Main Clause (with a trigger verb/expression) + that + Subject + Base Form of Verb`\n\n**กลุ่มที่ใช้ Present Subjunctive แบ่งเป็น 2 ประเภทหลัก:**\n\n**1. ตามหลังคำกริยาที่แสดงการเรียกร้อง, แนะนำ, ยืนกราน (Verbs of Demand, Suggestion, etc.)**\nคำกริยาเหล่านี้มักสื่อถึงการ 'สั่ง' หรือ 'ขอ' ให้ใครบางคนทำอะไรบางอย่าง เช่น:\n*   `suggest`, `recommend`, `propose` (เสนอแนะ)\n*   `insist`, `demand`, `require`, `request`, `mandate`, `decree` (ยืนกราน, เรียกร้อง, สั่ง)\n*   `ask`, `urge`, `advise` (ขอร้อง, กระตุ้น, แนะนำ)\n\nตัวอย่าง: `The CEO insisted that every employee **attend** the mandatory training.`\n(สังเกต: ไม่ใช่ `attends` ถึงแม้ประธานจะเป็น `every employee` ซึ่งเป็นเอกพจน์)\n\n**2. ตามหลังสำนวนที่แสดงความสำคัญ, ความจำเป็น (Impersonal Expressions with Adjectives)**\nสำนวนเหล่านี้มักขึ้นต้นด้วย `It is...` แล้วตามด้วย Adjective ที่บอกความสำคัญหรือความจำเป็น เช่น:\n*   `It is important that...`\n*   `It is essential that...`\n*   `It is vital / crucial that...`\n*   `It is imperative / necessary that...`\n*   `It is advisable that...`\n\nตัวอย่าง: `It is crucial that she **be** present at the negotiation.`\n(สังเกต: ใช้ `be` ซึ่งเป็น Base Form ของ Verb to be ไม่ใช่ `is`, `are`, `was`)\n\n**จุดที่ต้องจำให้แม่นในระดับ C1-C2:**\n*   **The Verb 'be'**: รูป Subjunctive ของ verb to be คือ `be` เสมอ นี่คือจุดที่สังเกตได้ชัดเจนที่สุด\n*   **Negative Form**: รูปปฏิเสธคือการวาง `not` ไว้หน้า Base Form ตรงๆ ไม่ต้องใช้ `don't`, `doesn't`, `didn't`\n    *   `He recommended that we **not sign** the contract immediately.` (ไม่ใช่ `don't sign`)\n*   **Passive Voice**: รูป Subjunctive ใน Passive Voice คือ `be + Past Participle`\n    *   `The committee demanded that the issue **be investigated** further.`\n*   **Main Verb in Past Tense**: แม้ว่า Main Verb ในประโยคหลักจะเป็นอดีต (e.g., `insisted`, `suggested`) แต่ Verb ใน that-clause ยังคงเป็น Base Form เหมือนเดิม ไม่เปลี่ยนเป็นอดีตตาม\n    *   `Yesterday, the manager insisted that he **complete** the report.` (ไม่ใช่ `completed`)\n*   **British vs. American English**: ใน British English มักจะนิยมใช้ `should + Verb` มากกว่า Subjunctive แท้ๆ ซึ่งก็ให้ความหมายเดียวกันและเป็นที่ยอมรับ (`It is important that he **should go**`) ในขณะที่ American English จะยึดการใช้ Subjunctive (that he **go**) อย่างเคร่งครัดกว่า โดยเฉพาะในงานเขียนที่เป็นทางการ",
+    "examples": [
+      {
+        "eng": "The bylaws stipulate that any board member with a conflict of interest **recuse** themselves from the vote immediately.",
+        "thai": "ข้อบังคับของบริษัทกำหนดว่ากรรมการคนใดก็ตามที่มีผลประโยชน์ทับซ้อนจะต้องถอนตัวออกจากการลงคะแนนเสียงทันที | 'stipulate' (กำหนด, ระบุ) เป็นกริยาที่กระตุ้นการใช้ Subjunctive ใน that-clause ดังนั้น 'recuse' (ถอนตัว) จึงอยู่ในรูป Base Form แม้ว่าประธาน 'any board member' จะเป็นเอกพจน์ก็ตาม"
+      },
+      {
+        "eng": "It is of paramount importance that the cryptographic key **not be compromised** during its transmission.",
+        "thai": "มันเป็นเรื่องสำคัญอย่างยิ่งยวดที่คีย์เข้ารหัสจะต้องไม่ถูกเจาะข้อมูลระหว่างการส่ง | นี่คือตัวอย่างของ Passive Voice ('be compromised') และ Negative Form ('not') ใน Subjunctive ตามหลังสำนวน 'It is of paramount importance that...'"
+      },
+      {
+        "eng": "The prosecutor vehemently demanded that the defendant **surrender** all pertinent financial records, lest he **be** charged with obstruction of justice.",
+        "thai": "อัยการเรียกร้องอย่างแข็งกร้าวให้จำเลยส่งมอบบันทึกทางการเงินที่เกี่ยวข้องทั้งหมด มิฉะนั้นเขาจะถูกตั้งข้อหาขัดขวางกระบวนการยุติธรรม | 'demanded that...' ทำให้ 'surrender' เป็น Base Form และ 'lest' (เพื่อว่า...จะไม่/มิฉะนั้น) ก็เป็นอีกคำที่มักจะตามด้วย Subjunctive Mood ทำให้ใช้ 'he be charged' (รูป Passive Subjunctive)"
+      },
+      {
+        "eng": "Her last will and testament decreed that her vast fortune **be divided** equally among several philanthropic foundations.",
+        "thai": "พินัยกรรมฉบับสุดท้ายของเธอสั่งไว้ว่าทรัพย์สมบัติมหาศาลของเธอจะต้องถูกแบ่งอย่างเท่าเทียมกันให้กับมูลนิธิเพื่อการกุศลหลายแห่ง | 'decreed' (สั่ง, บัญชา) เป็น Main Verb ในอดีต แต่กริยาใน that-clause ยังคงเป็น Subjunctive ในรูป Passive Voice คือ 'be divided'"
+      }
+    ],
+    "common_mistakes": "- **เติม 's' ให้กริยาตามประธานเอกพจน์:** ผิด: `She insists that he *attends* the meeting.` ถูก: `She insists that he **attend** the meeting.` ใน Subjunctive Mood กริยาจะเป็น Base Form เสมอ\n- **ใช้ Verb to be ผิดรูป:** ผิด: `It is essential that he *is* aware of the risks.` ถูก: `It is essential that he **be** aware of the risks.` ต้องใช้ 'be' เท่านั้น\n- **ผันกริยาใน Subjunctive Clause เป็น Tense อดีตตาม Main Verb:** ผิด: `The professor requested that we *submitted* our papers by Friday.` ถูก: `The professor requested that we **submit** our papers by Friday.`\n- **สร้างประโยคปฏิเสธผิด:** ผิด: `The rules require that you *don't use* a calculator.` ถูก: `The rules require that you **not use** a calculator.`\n- **ใส่ 'to' หน้ากริยา:** ผิด: `They advise that she *to seek* legal counsel.` ถูก: `They advise that she **seek** legal counsel.`",
+    "practice_questions": [
+      {
+        "question": "The international accord mandates that each signatory nation ______ its carbon emissions by a substantial margin before 2050.",
+        "options": [
+          "A. reduces",
+          "B. reduce",
+          "C. should be reduced",
+          "D. to reduce"
+        ],
+        "answer": "B",
+        "explanation": "คำกริยา 'mandates' (บังคับ, สั่ง) เป็นตัวกระตุ้นให้ใช้ Present Subjunctive ใน that-clause ที่ตามมา ดังนั้น คำกริยาที่ตามหลังประธาน 'each signatory nation' (ซึ่งเป็นเอกพจน์) จะต้องอยู่ในรูป Base Form นั่นคือ 'reduce' โดยไม่ต้องเติม -s"
+      },
+      {
+        "question": "It is imperative that the new cybersecurity protocol ______ rigorously before its full implementation across the network.",
+        "options": [
+          "A. is tested",
+          "B. has been tested",
+          "C. be tested",
+          "D. will be tested"
+        ],
+        "answer": "C",
+        "explanation": "สำนวน 'It is imperative that...' (มันจำเป็นอย่างยิ่งที่...) ต้องการ Subjunctive Mood ในประโยคนี้ Protocol เป็นผู้ 'ถูก' ทดสอบ จึงต้องใช้ Passive Voice โครงสร้างของ Passive Subjunctive คือ 'be + Past Participle' ดังนั้น 'be tested' จึงเป็นคำตอบที่ถูกต้อง"
+      },
+      {
+        "question": "The board of directors passed a resolution recommending that the controversial merger proposal ______ until a more thorough due diligence is completed.",
+        "options": [
+          "A. not be approved",
+          "B. not approved",
+          "C. does not approve",
+          "D. will not be approved"
+        ],
+        "answer": "A",
+        "explanation": "กริยา 'recommending' ทำให้ต้องใช้ Subjunctive ประโยคนี้ต้องการรูปปฏิเสธและเป็น Passive Voice (ข้อเสนอ 'ไม่ถูก' อนุมัติ) โครงสร้าง Negative Passive Subjunctive คือ 'not + be + Past Participle' ดังนั้น 'not be approved' จึงถูกต้องสมบูรณ์"
+      },
+      {
+        "question": "The lead counsel for the defense insisted that her client ______ from the premises and that all charges ______.",
+        "options": [
+          "A. releases / are dropped",
+          "B. be released / be dropped",
+          "C. is released / are dropped",
+          "D. to be released / to be dropped"
+        ],
+        "answer": "B",
+        "explanation": "กริยา 'insisted' ควบคุม Subjunctive Mood ทั้งสองส่วนของ that-clause ทั้ง 'client' (ลูกความ) และ 'charges' (ข้อกล่าวหา) เป็นผู้ถูกกระทำ (ถูกปล่อยตัว, ถูกยกฟ้อง) จึงต้องใช้ Passive Subjunctive ('be + Past Participle') ทั้งสองตำแหน่ง คำตอบที่ถูกต้องคือ 'be released' และ 'be dropped'"
+      },
+      {
+        "question": "A key stipulation in the contract is that the contractor ______ liable for any structural defects for a period of ten years.",
+        "options": [
+          "A. is held",
+          "B. has been held",
+          "C. holds",
+          "D. be held"
+        ],
+        "answer": "D",
+        "explanation": "วลี 'A key stipulation... is that...' ทำหน้าที่คล้ายกับ 'It is important that...' เพื่อแสดงข้อกำหนดที่ต้องปฏิบัติตาม จึงต้องใช้ Subjunctive ผู้รับเหมาเป็นผู้ 'ถูก' ทำให้ต้องรับผิดชอบ (be held liable) จึงต้องใช้รูป Passive Subjunctive คือ 'be held'"
+      },
+      {
+        "question": "Lest the precarious situation ______ further, the UN envoy urged that all parties ______ to the negotiating table immediately.",
+        "options": [
+          "A. escalates / return",
+          "B. escalate / return",
+          "C. escalated / returned",
+          "D. will escalate / will return"
+        ],
+        "answer": "B",
+        "explanation": "คำว่า 'Lest' (เพื่อว่า...จะไม่) และ 'urged that' (กระตุ้นให้...) เป็นตัวบ่งชี้ที่ชัดเจนของการใช้ Subjunctive Mood ทั้งสองส่วนของประโยคต้องใช้กริยาในรูป Base Form โดยไม่ต้องผันตามประธานหรือ Tense ดังนั้น 'escalate' และ 'return' จึงเป็นคำตอบที่ถูกต้อง"
+      },
+      {
+        "question": "The scientific journal's policy requires that all submitted manuscripts ______ a double-blind peer-review process.",
+        "options": [
+          "A. undergo",
+          "B. undergoes",
+          "C. underwent",
+          "D. to undergo"
+        ],
+        "answer": "A",
+        "explanation": "กริยา 'requires that' เป็นตัวบังคับให้ใช้ Subjunctive แม้ว่าประธาน 'all submitted manuscripts' จะเป็นพหูพจน์ ซึ่งทำให้ Base Form ('undergo') กับรูปปกติเหมือนกัน แต่เหตุผลที่ถูกต้องคือการใช้ Subjunctive ไม่ใช่การผัน Tense ปกติ ข้อ B ผิดเพราะเติม s และข้อ C ผิดเพราะเป็นอดีต"
+      },
+      {
+        "question": "It is highly advisable that a company ______ its digital assets and that a contingency plan ______ in place for potential data breaches.",
+        "options": [
+          "A. safeguards / is",
+          "B. safeguard / is",
+          "C. safeguard / be",
+          "D. safeguards / be"
+        ],
+        "answer": "C",
+        "explanation": "สำนวน 'It is highly advisable that...' ควบคุมกริยาทั้งสองตัวใน that-clause ให้เป็น Subjunctive กริยาตัวแรก 'safeguard' ต้องเป็น Base Form กริยาตัวที่สองคือ verb 'to be' ซึ่งใน Subjunctive Mood จะต้องเป็น 'be' เสมอ ดังนั้น 'safeguard' และ 'be' คือคู่ที่ถูกต้อง"
+      },
+      {
+        "question": "The judge's final decree was that the corporation ______ punitive damages and that its CEO ______ a formal public apology.",
+        "options": [
+          "A. paid / issued",
+          "B. to pay / to issue",
+          "C. pays / issues",
+          "D. pay / issue"
+        ],
+        "answer": "D",
+        "explanation": "แม้ว่า Main verb 'was' จะเป็นอดีต แต่เนื้อหาของคำสั่ง ('decree') ที่อยู่ใน that-clause ยังคงต้องใช้ Present Subjunctive ดังนั้น กริยาทั้งสองตัวคือ 'pay' และ 'issue' จะต้องอยู่ในรูป Base Form"
+      },
+      {
+        "question": "To prevent misinformation, the new legislation demands that any political advertisement explicitly ______ its primary funding sources.",
+        "options": [
+          "A. disclose",
+          "B. discloses",
+          "C. has disclosed",
+          "D. will disclose"
+        ],
+        "answer": "A",
+        "explanation": "กริยา 'demands that' เรียกร้องให้ใช้ Subjunctive ประธานของ that-clause คือ 'any political advertisement' ซึ่งเป็นเอกพจน์ แต่ตามกฎของ Subjunctive กริยาจะต้องอยู่ในรูป Base Form คือ 'disclose' ไม่ใช่ 'discloses'"
+      }
+    ]
+  },
+  {
+    "id": "37_2",
+    "title": "37.2 Past Subjunctive (I wish I were, If only she knew)",
+    "explanation": "Past Subjunctive คือโครงสร้างไวยากรณ์ที่ใช้พูดถึงสิ่งที่ 'ไม่เป็นจริง' ในปัจจุบันหรืออนาคต เป็นการแสดงความปรารถนา (wish), ความเสียดาย (regret), หรือจินตนาการถึงสถานการณ์ที่ตรงข้ามกับความจริง แม้ชื่อจะบอกว่าเป็น 'Past' แต่หัวใจของมันคือการพูดถึง 'ปัจจุบัน' ที่ไม่สมหวัง\n\n**แก่นของ Past Subjunctive:**\n1.  **Form (รูปแบบ):** ใช้กริยาช่องที่ 2 (Past Simple) หลังคำหรือวลีที่กำหนด เช่น I wish, if only, as if, would rather, it's time\n2.  **Function (หน้าที่):** เพื่อส่งสัญญาณว่าสิ่งที่กำลังพูดถึงนั้น 'ไม่จริง' หรือเป็นแค่ 'เรื่องสมมติ' ในปัจจุบัน การใช้รูปอดีตเป็นการสร้าง 'ระยะห่าง' จากความเป็นจริง (psychological distance) ไม่ใช่การบอกเวลาในอดีต\n\n**โครงสร้างและการใช้งานเชิงลึก:**\n\n*   **`I wish / If only` + Subject + Past Simple:**\n    ใช้แสดงความปรารถนาให้ปัจจุบันเป็นอย่างอื่น หรือแสดงความเสียดายกับสถานการณ์ปัจจุบัน\n    - `I wish I knew the answer.` (ความจริงคือ: I don't know the answer now.)\n    - `If only we had more resources.` (ความจริงคือ: We don't have enough resources now.)\n\n*   **ความพิเศษของ Verb to be: `were` สำหรับทุกประธาน**\n    ใน Subjunctive Mood ที่เป็นทางการและถูกต้องตามมาตรฐาน C1-C2 เราจะใช้ `were` กับประธานทุกตัว (I, you, he, she, it, we, they) เพื่อเน้นย้ำว่าเป็นเรื่องสมมติ ไม่ใช่ความจริง\n    - `I wish I were taller.` (ไม่ใช่ I wish I was taller.)\n    - `She wishes her boss were more understanding.` (ไม่ใช่ She wishes her boss was...)\n    **Note:** ในภาษาพูดที่ไม่เป็นทางการ (informal speech) คุณอาจได้ยินคนใช้ 'was' (เช่น I wish I was rich) ซึ่งเป็นที่ยอมรับกันมากขึ้น แต่ในการเขียนเชิงวิชาการ การสอบ หรือการสื่อสารในระดับสูง การใช้ `were` ถือเป็นมาตรฐานและแสดงถึงความเข้าใจไวยากรณ์ในระดับที่สูงกว่า\n\n*   **`as if / as though` + Subject + Past Simple:**\n    ใช้เปรียบเทียบราวกับว่าสิ่งนั้นเป็นเรื่องจริง ทั้งๆ ที่เรารู้ว่าไม่จริง\n    - `He acts as if he owned the entire company.` (ความจริงคือ: He doesn't own it.)\n    - `She looked at me as though I were a complete stranger.` (ความจริงคือ: I am not a stranger to her.)\n\n*   **`It's time / It's high time / It's about time` + Subject + Past Simple:**\n    ใช้พูดว่าถึงเวลาแล้วที่ใครบางคนควรจะทำอะไรบางอย่าง (ซึ่งตอนนี้ยังไม่ได้ทำ) เป็นการแสดงความเห็นเชิงตำหนิหรือเน้นย้ำว่ามันสายเกินไปแล้ว\n    - `It's high time the government took decisive action on climate change.` (ความจริงคือ: รัฐบาลยังไม่ได้ลงมือทำอย่างจริงจัง และควรจะทำได้แล้ว)\n\n*   **`would rather / would sooner` + Subject + Past Simple:**\n    ใช้แสดงความต้องการให้ 'คนอื่น' ทำหรือไม่ทำอะไรบางอย่างในปัจจุบันหรืออนาคต\n    - `I would rather you didn't smoke in here.` (ฉันอยากให้คุณไม่สูบบุหรี่ที่นี่ -> ตอนนี้คุณอาจจะกำลังสูบ หรือมีแนวโน้มจะสูบ)\n    - `She'd sooner her children spent less time on their phones.` (เธออยากให้ลูกๆ ใช้เวลากับโทรศัพท์น้อยลง)\n    **ข้อควรระวัง:** โครงสร้างนี้ใช้เมื่อประธานของ `would rather` และประธานของกริยาตัวถัดไปเป็นคนละคนกัน ถ้าเป็นคนเดียวกัน จะใช้โครงสร้าง `would rather + bare infinitive` (เช่น `I'd rather leave now.`)",
+    "examples": [
+      {
+        "eng": "He pontificates on abstruse geopolitical matters as if he were privy to classified intelligence, despite his conspicuous lack of credentials.",
+        "thai": "เขาเทศนาเรื่องภูมิรัฐศาสตร์ที่ซับซ้อนราวกับว่าเขาได้รับรู้ข้อมูลข่าวกรองที่เป็นความลับ ทั้งๆ ที่เขาขาดคุณสมบัติที่น่าเชื่อถืออย่างเห็นได้ชัด\n**โครงสร้าง:** `as if he were...` ใช้ Past Subjunctive (`were`) เพื่อแสดงว่าการที่เขา 'รู้' นั้นไม่เป็นความจริง เป็นแค่ท่าทีที่เขาแสดงออกมาเท่านั้น"
+      },
+      {
+        "eng": "If only the board of directors perceived the pernicious long-term effects of their myopic, profit-driven decisions.",
+        "thai": "หากเพียงแต่คณะกรรมการบริษัทตระหนักถึงผลกระทบที่เป็นอันตรายในระยะยาวจากการตัดสินใจที่สายตาสั้นและมุ่งเน้นแต่ผลกำไร\n**โครงสร้าง:** `If only... perceived` ใช้ Past Simple (`perceived`) เพื่อแสดงความเสียดายในปัจจุบันว่าคณะกรรมการ 'ไม่ได้ตระหนักรู้' (The board doesn't perceive...)"
+      },
+      {
+        "eng": "It is high time the international community collectively addressed the existential threat posed by rampant technological disruption.",
+        "thai": "ถึงเวลาอย่างยิ่งแล้วที่ประชาคมระหว่างประเทศจะร่วมกันจัดการกับภัยคุกคามต่อการดำรงอยู่ซึ่งเกิดจากการเปลี่ยนแปลงทางเทคโนโลยีอย่างรวดเร็วและควบคุมไม่ได้\n**โครงสร้าง:** `It is high time... addressed` ใช้ Past Simple (`addressed`) เพื่อเน้นย้ำว่าการกระทำนี้ควรเกิดขึ้นได้แล้ว แต่ในความเป็นจริงมันยังล่าช้าอยู่"
+      },
+      {
+        "eng": "I would much rather my colleagues refrained from circumlocution and addressed the core issue directly during our meetings.",
+        "thai": "ผมอยากให้เพื่อนร่วมงานของผมละเว้นจากการพูดจาอ้อมค้อมและพูดถึงประเด็นหลักโดยตรงระหว่างการประชุมมากกว่า\n**โครงสร้าง:** `would rather [Subject 1]... [Subject 2] refrained` ใช้เพื่อแสดงความต้องการของผู้พูด (Subject 1) ให้คนอื่น (Subject 2) เปลี่ยนแปลงการกระทำในปัจจุบัน"
+      }
+    ],
+    "common_mistakes": "- **ใช้ Present Simple แทน Past Simple:**\n  ผิด: `I wish I have more opportunities.`\n  ถูก: `I wish I had more opportunities.`\n  เหตุผล: เราต้องใช้รูป Past Tense เพื่อสร้าง 'ระยะห่างจากความจริง' (unreality) ไม่ใช่เพื่อบอกเวลา\n\n- **ใช้ `was` แทน `were` ในบริบทที่เป็นทางการ:**\n  ผิด (ในระดับสูง/ทางการ): `If she was the CEO, things would be different.`\n  ถูก: `If she were the CEO, things would be different.`\n  เหตุผล: `were` คือรูป Subjunctive ที่แท้จริงของ Verb to be การใช้ `were` กับทุกประธานเป็นการแสดงความเข้าใจไวยากรณ์ขั้นสูงและเป็นมาตรฐานในการเขียน\n\n- **สับสนระหว่าง Past Subjunctive (ปัจจุบันที่ไม่จริง) กับ Past Perfect Subjunctive (อดีตที่ไม่จริง):**\n  ผิด: `I wish I studied harder for the exam yesterday.` (ฟังดูเหมือนเป็นความปรารถนาในปัจจุบันเกี่ยวกับนิสัยการเรียนโดยทั่วไป)\n  ถูก: `I wish I had studied harder for the exam yesterday.`\n  เหตุผล: เมื่อเสียดายสิ่งที่เกิดขึ้นหรือไม่ได้เกิดขึ้นใน 'อดีต' เราต้องถอย Tense ไปอีกขั้นเป็น Past Perfect Subjunctive (had + V3) ซึ่งจะเรียนในหัวข้อถัดไป\n\n- **ใช้ Infinitive หลัง `It's time`:**\n  ถูกแต่ความหมายต่าง: `It's time to leave.` (แค่บอกว่าถึงเวลาที่ต้องไปแล้ว เป็นข้อเท็จจริง)\n  ผิด (เมื่อต้องการเน้นย้ำ): `It's high time for them to take action.`\n  ถูก (ในเชิง Subjunctive): `It's high time they took action.`\n  เหตุผล: โครงสร้าง `It's time + Subject + Past Simple` มีน้ำหนักของการวิจารณ์หรือความเร่งด่วนมากกว่า ว่าการกระทำนั้นมันล่าช้าและควรจะเกิดขึ้นนานแล้ว",
+    "practice_questions": [
+      {
+        "question": "The defendant looked at the jury with a placid expression, as if the damning evidence presented against him ______ utterly irrelevant.",
+        "options": [
+          "is",
+          "was",
+          "were",
+          "had been"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้ใช้ `as if` เพื่ออธิบายท่าทีของจำเลยซึ่งตรงข้ามกับความจริง (หลักฐานมีความเกี่ยวข้องอย่างยิ่ง) ในโครงสร้าง Past Subjunctive กับ Verb to be เราต้องใช้ `were` สำหรับประธานทุกตัวเพื่อบ่งบอกสภาวะที่ไม่เป็นจริง ข้อ A (is) และ B (was) ผิดหลักไวยากรณ์ Subjunctive Mood ในบริบทที่เป็นทางการ ข้อ D (had been) จะใช้ในกรณีที่พูดถึงเรื่องสมมติในอดีตที่เกิดขึ้นก่อนหน้า แต่ในบริบทนี้เป็นการอธิบายสภาวะในปัจจุบัน"
+      },
+      {
+        "question": "Given the precarious financial situation, it is imperative the company ______ its extravagant spending immediately, but the CEO acts as though everything ______ perfectly fine.",
+        "options": [
+          "curtail / was",
+          "curtails / is",
+          "curtail / were",
+          "curtailed / were"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้ทดสอบ 2 โครงสร้างไวยากรณ์ ส่วนแรก `it is imperative that...` ต้องตามด้วย Present Subjunctive (base form of verb) คือ `curtail` ส่วนที่สอง `as though...` ต้องตามด้วย Past Subjunctive คือ `were` เพื่อแสดงสภาวะที่ตรงข้ามกับความจริง (ความจริงคือทุกอย่างไม่โอเค) ดังนั้น `curtail / were` จึงเป็นคู่ที่ถูกต้องที่สุด"
+      },
+      {
+        "question": "If only the incumbent government ______ a more pragmatic approach to foreign policy instead of adhering to its obsolete ideology.",
+        "options": [
+          "adopts",
+          "had adopted",
+          "would adopt",
+          "adopted"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคนี้ใช้ `If only` เพื่อแสดงความปรารถนาในปัจจุบันให้สถานการณ์เป็นอย่างอื่น (ความจริงคือรัฐบาลไม่ได้ใช้แนวทางนี้) จึงต้องใช้ Past Subjunctive ซึ่งก็คือรูป Past Simple Tense ของกริยา ดังนั้น `adopted` (V.2) จึงเป็นคำตอบที่ถูกต้อง ข้อ A ผิด Tense ข้อ B (had adopted) ใช้สำหรับความเสียดายในอดีต ข้อ C (would adopt) ใช้แสดงความปรารถนาต่อเหตุการณ์ในอนาคต แต่ `If only` กับ Past Simple จะเน้นที่ความไม่พอใจกับสถานการณ์ปัจจุบันมากกว่า"
+      },
+      {
+        "question": "The manager would much rather his subordinates ______ initiative than wait passively for instructions on every minor issue.",
+        "options": [
+          "took",
+          "take",
+          "to take",
+          "had taken"
+        ],
+        "answer": "A",
+        "explanation": "โครงสร้าง `would rather + [Subject 2] + Verb` ใช้เพื่อแสดงว่าผู้พูด (Subject 1) ต้องการให้คนอื่น (Subject 2) ทำอะไรบางอย่าง ต้องใช้กริยารูป Past Simple ในที่นี้คือ `took` เพื่อสื่อถึงความต้องการในปัจจุบันหรืออนาคต ข้อ B (take) จะใช้เมื่อประธานเป็นคนเดียวกัน (I'd rather take...) ข้อ C (to take) และ D (had taken) ผิดโครงสร้าง"
+      },
+      {
+        "question": "He often daydreams about a life in which he ______ not encumbered by his myriad responsibilities.",
+        "options": [
+          "is",
+          "was",
+          "were",
+          "has been"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้กำลังพูดถึงชีวิตในจินตนาการ (a life in which...) ซึ่งเป็นสถานการณ์สมมติที่ไม่เป็นจริงในปัจจุบัน จึงต้องใช้ Past Subjunctive สำหรับ Verb to be รูปที่ถูกต้องคือ `were` สำหรับประธานทุกตัว รวมถึง `he` ด้วย ข้อ B `was` อาจยอมรับได้ในภาษาพูด แต่ `were` คือคำตอบที่ดีที่สุดและถูกต้องที่สุดตามหลักไวยากรณ์ระดับสูง"
+      },
+      {
+        "question": "It's about time the media ______ disseminating misinformation and focused on veracious, fact-checked journalism.",
+        "options": [
+          "stops",
+          "to stop",
+          "stopped",
+          "had stopped"
+        ],
+        "answer": "C",
+        "explanation": "วลี `It's about time` (เหมือนกับ `It's high time`) ต้องตามด้วยโครงสร้าง `Subject + Past Simple Verb` เพื่อแสดงความเห็นว่าการกระทำนั้นควรจะเกิดขึ้นได้แล้ว (มีความหมายเชิงตำหนิว่าล่าช้า) ดังนั้น `stopped` คือคำตอบที่ถูกต้อง"
+      },
+      {
+        "question": "She wishes she ______ the perspicacity to see through his duplicitous charm from the very beginning.",
+        "options": [
+          "has",
+          "had had",
+          "had",
+          "would have"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้แสดงความปรารถนาใน 'ปัจจุบัน' ว่าอยากจะมีคุณสมบัติบางอย่าง (perspicacity - ความเฉียบแหลม) ซึ่งความจริงคือไม่มี ดังนั้นจึงใช้ Past Subjunctive ในรูป `had` (Past Simple ของ have) ข้อ B `had had` (Past Perfect) จะใช้เมื่อเสียดายเหตุการณ์ในอดีต เช่น `I wish I had had the chance to meet him yesterday.`"
+      },
+      {
+        "question": "The Prime Minister's speech was met with derision; he spoke of national unity as if deep-seated socio-economic schisms ______ overnight.",
+        "options": [
+          "vanish",
+          "could vanish",
+          "would vanish",
+          "had vanished"
+        ],
+        "answer": "B",
+        "explanation": "ข้อนี้ซับซ้อนขึ้นเล็กน้อย โครงสร้าง `as if` สามารถตามด้วย `could/would + verb` เพื่อพูดถึงความเป็นไปได้หรือผลลัพธ์ในจินตนาการ ในที่นี้ `as if ... schisms could vanish overnight` (ราวกับว่าความแตกแยกทางสังคมและเศรษฐกิจที่ฝังรากลึกจะสามารถหายไปได้ในชั่วข้ามคืน) สื่อถึงสถานการณ์สมมติที่เป็นไปไม่ได้ได้ดีที่สุด `had vanished` (D) จะหมายถึงราวกับว่ามันหายไปแล้วในอดีตซึ่งไม่ตรงบริบท `vanished` (Past Simple) ก็ใช้ได้ แต่ `could vanish` ให้ความหมายของ 'ความเป็นไปได้' ที่ไม่จริงได้ชัดเจนกว่า"
+      },
+      {
+        "question": "I would sooner this entire project ______ from scratch than attempt to salvage its fundamentally flawed foundations.",
+        "options": [
+          "is redesigned",
+          "were redesigned",
+          "was redesigned",
+          "redesigned"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้ใช้ `would sooner` ตามด้วยประธาน (`this entire project`) และกริยาในรูป Past Subjunctive เนื่องจากกริยาเป็นรูป Passive Voice (ถูกออกแบบใหม่) เราจึงต้องใช้ Past Subjunctive ของ Verb to be + V3 และรูปที่ถูกต้องคือ `were redesigned` ไม่ใช่ `was redesigned` เพื่อคงความเป็นทางการและถูกต้องตามหลักไวยากรณ์"
+      },
+      {
+        "question": "If only I ______ as sanguine about the future of this venture as my business partner is.",
+        "options": [
+          "am",
+          "could be",
+          "had been",
+          "were"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคนี้แสดงความปรารถนาในปัจจุบันว่าอยากจะมีความรู้สึกบางอย่าง (sanguine - มองโลกในแง่ดี) ซึ่งความจริงแล้วไม่มี ในการแสดงสภาวะที่ไม่เป็นจริงในปัจจุบันด้วย Verb to be เราต้องใช้ `were` ไม่ว่าประธานจะเป็นอะไรก็ตาม `could be` (B) ก็เป็นไปได้ แต่สื่อถึงความสามารถมากกว่าสภาวะ `were` สื่อถึงสภาวะที่เป็นอยู่โดยตรงและเป็นตัวเลือกที่ตรงตามหลัก Past Subjunctive ที่สุด"
+      }
+    ]
+  },
+  {
+    "id": "37_3",
+    "title": "37.3 It's time / It's high time (It's time we went home)",
+    "explanation": "โครงสร้าง `It's time` เป็นหนึ่งในรูปแบบของ Subjunctive Mood ที่ใช้เพื่อบ่งบอกว่า 'ถึงเวลาแล้วที่ควรจะทำบางสิ่งบางอย่าง' โดยมักจะมีความรู้สึกเร่งด่วน, คำแนะนำ, หรือการตำหนิเล็กน้อยแฝงอยู่ว่าสิ่งนั้นควรจะเกิดขึ้นแล้วแต่ยังไม่เกิด\n\n**โครงสร้างหลักมี 2 รูปแบบ:**\n\n**1. It's time + for someone + to-infinitive**\nโครงสร้างนี้เป็นการพูดแบบทั่วไป ตรงไปตรงมา ไม่ได้แฝงการตำหนิ เป็นการบอกว่าถึงเวลาที่เหมาะสมสำหรับใครบางคนที่จะทำอะไรบางอย่าง\nเช่น: `It's time for the children to go to bed.` (ถึงเวลาที่เด็กๆ จะต้องเข้านอนแล้ว)\n\n**2. It's time + Subject + Past Simple Verb (Subjunctive Mood)**\nนี่คือหัวใจของเรื่องนี้ แม้ว่าเราจะใช้ Verb ในรูป Past Simple (V.2) แต่ความหมายกลับอ้างอิงถึง **ปัจจุบันหรืออนาคตอันใกล้** ไม่ใช่เรื่องในอดีตเลย นี่คือลักษณะของ Subjunctive Mood ที่ใช้ Past Form เพื่อแสดงความ 'ไม่จริง' ในปัจจุบัน (unreal present) กล่าวคือ สถานการณ์ที่ควรจะเกิดขึ้น 'ตอนนี้' แต่ 'ยังไม่เกิด' การใช้รูปอดีตเป็นการสร้างระยะห่างจากความเป็นจริง (distance from reality) และมักจะสื่อถึงความไม่อดทน, การวิจารณ์, หรือความปรารถนาให้บางสิ่งเกิดขึ้น\nเช่น: `It's time you tidied your room.` (ถึงเวลาที่คุณจะจัดห้องได้แล้วนะ - พูดในขณะที่ห้องยังรกอยู่ สื่อว่าควรจะทำได้แล้ว)\n\n**การเพิ่มความหนักแน่น: It's high time / It's about time**\nเพื่อเพิ่มความรู้สึกเร่งด่วน, ฉุนเฉียว, หรือเน้นย้ำว่ามันสายเกินไปแล้ว เราสามารถใช้ `It's high time` หรือ `It's about time` แทน `It's time` ได้ โดยยังคงใช้โครงสร้างเดิมคือตามด้วย Subject + Past Simple Verb\n\n`It's high time the government took decisive action on this issue.` (มันถึงเวลาอันสมควรอย่างยิ่งแล้วที่รัฐบาลจะลงมือจัดการปัญหานี้อย่างเด็ดขาด - สื่อว่ารอมานานเกินไปแล้ว)\n`It's about time he started acting like a responsible adult.` (ป่านนี้แล้ว เขาควรจะเริ่มทำตัวเป็นผู้ใหญ่ที่มีความรับผิดชอบได้แล้ว - สื่อถึงความเอือมระอา)\n\n**ข้อควรรู้ระดับ C1-C2:**\n*   **ความแตกต่างทางความรู้สึก:** `It's time for you to study.` (เป็นคำแนะนำทั่วไป) เทียบกับ `It's time you studied.` (แฝงการตำหนิเล็กน้อยว่าทำไมยังไม่เริ่มอ่านหนังสืออีก)\n*   **Verb to be:** ใน Subjunctive Mood แบบดั้งเดิมจะใช้ `were` กับทุกประธาน แต่ในภาษาอังกฤษปัจจุบัน อนุโลมให้ใช้ `was` ได้ตามปกติ อย่างไรก็ตาม การใช้ `were` ยังคงถือว่าถูกต้องและเป็นทางการกว่า เช่น `It's time he were more honest with us.`\n*   **Negative Form:** รูปแบบปฏิเสธจะใช้โครงสร้างของ Past Simple คือ `didn't + V.1` เช่น `It's high time you didn't rely so much on others.`",
+    "examples": [
+      {
+        "eng": "It's high time the board of directors stopped prevaricating and addressed the precipitous decline in shareholder value.",
+        "thai": "ถึงเวลาอันสมควรอย่างยิ่งที่คณะกรรมการบริหารจะหยุดพูดจาอ้อมค้อมและจัดการกับการดิ่งลงอย่างฮวบฮาบของคุณค่าหุ้นของผู้ถือหุ้นเสียที\n- `stopped prevaricating` (หยุดพูดเลี่ยงความจริง) และ `addressed` (จัดการ) ทั้งสองคำเป็น Past Simple ที่อ้างอิงถึงการกระทำที่ควรเกิดขึ้น 'ตอนนี้' โครงสร้างนี้แสดงความเร่งด่วนและความไม่พอใจอย่างรุนแรง"
+      },
+      {
+        "eng": "Frankly, it's about time you divested yourself of these antiquated notions and acknowledged the geopolitical realities of the 21st century.",
+        "thai": "พูดกันตามตรงนะ ป่านนี้แล้วคุณควรจะสลัดตัวเองให้พ้นจากแนวคิดที่ล้าสมัยเหล่านี้และยอมรับความจริงทางภูมิรัฐศาสตร์ของศตวรรษที่ 21 ได้แล้ว\n- `divested` และ `acknowledged` เป็น Past Simple Tense ที่แสดงความปรารถนาอย่างแรงกล้าให้ผู้ฟังเปลี่ยนความคิด 'ในปัจจุบัน' การใช้ `It's about time` ทำให้ประโยคนี้มีน้ำเสียงตำหนิชัดเจน"
+      },
+      {
+        "eng": "Considering the project's stagnation, it is time a more competent manager were brought in to salvage the situation.",
+        "thai": "เมื่อพิจารณาถึงความชะงักงันของโครงการ ถึงเวลาแล้วที่ผู้จัดการที่มีความสามารถมากกว่านี้ควรจะถูกนำตัวเข้ามาเพื่อกอบกู้สถานการณ์\n- ประโยคนี้ใช้ Passive Voice (a manager were brought in) ในรูป Subjunctive สังเกตการใช้ `were` ซึ่งเป็นรูปแบบที่เป็นทางการของ Subjunctive Mood แม้ว่าประธาน `a more competent manager` จะเป็นเอกพจน์ก็ตาม"
+      }
+    ],
+    "common_mistakes": "1. **ใช้ Present Simple แทน Past Simple:** ผิดมหันต์! คนไทยมักจะเผลอใช้ Verb ช่อง 1 ตามหลังประธาน\n   - ผิด: `It's time we *go* home.`\n   - ถูก: `It's time we *went* home.`\n\n2. **ใส่ Modal Verbs (เช่น should) เข้าไป:** โครงสร้าง `It's time` มีความหมายของ 'should' แฝงอยู่แล้ว การใส่ should เข้าไปจึงเป็นการซ้ำซ้อนและผิดไวยากรณ์\n   - ผิด: `It's high time you *should take* this seriously.`\n   - ถูก: `It's high time you *took* this seriously.`\n\n3. **สับสนระหว่างโครงสร้าง Infinitive และ Subjunctive:** ใช้สลับกันมั่ว ทำให้ความหมายผิดเพี้ยน\n   - ผิด: `It's time for you *studied*.` (หลัง for you ต้องเป็น to-infinitive)\n   - ถูก: `It's time for you *to study*.`\n   - ผิด: `It's time you *to study*.` (หลัง you ต้องเป็น Past Simple)\n   - ถูก: `It's time you *studied*.`\n\n4. **เข้าใจผิดว่าหมายถึงอดีต:** การเห็น Verb รูป Past Simple ทำให้หลายคนแปลว่าเป็นการกระทำในอดีต ซึ่งผิดโดยสิ้นเชิง ต้องจำให้ขึ้นใจว่ามันหมายถึง 'ปัจจุบัน' ที่ควรจะทำได้แล้ว",
+    "practice_questions": [
+      {
+        "question": "Given the egregious oversight in the financial report, it's high time the CFO ______ accountability for the debacle.",
+        "options": [
+          "A. accepts",
+          "B. accepted",
+          "C. has accepted",
+          "D. should accept"
+        ],
+        "answer": "B",
+        "explanation": "โครงสร้าง `It's high time + subject (the CFO) + Past Simple Verb`. ดังนั้น `accepted` จึงเป็นคำตอบที่ถูกต้อง แม้จะพูดถึงความรับผิดชอบที่ควรเกิดขึ้นตอนนี้ก็ตาม ข้อ A, C, D ผิดโครงสร้างไวยากรณ์ของ Subjunctive Mood นี้"
+      },
+      {
+        "question": "Don't you think it's about time we ______ relying on these obsolete technologies and invested in innovation?",
+        "options": [
+          "A. stop",
+          "B. to stop",
+          "C. had stopped",
+          "D. stopped"
+        ],
+        "answer": "D",
+        "explanation": "ตามหลัง `It's about time + subject (we)` ต้องเป็นกริยาในรูป Past Simple Subjunctive นั่นคือ `stopped` เพื่อสื่อว่าเราควรจะหยุดพึ่งพาสิ่งเหล่านี้ได้แล้วในตอนนี้"
+      },
+      {
+        "question": "It's time for the international community ______ a more robust stance against such flagrant human rights violations.",
+        "options": [
+          "A. to adopt",
+          "B. adopted",
+          "C. adopts",
+          "D. adopting"
+        ],
+        "answer": "A",
+        "explanation": "คำถามนี้ทดสอบโครงสร้างอีกรูปแบบหนึ่งคือ `It's time + for someone + to-infinitive`. ในที่นี้ `for the international community` คือ 'for someone' ดังนั้นส่วนที่ตามมาต้องเป็น `to-infinitive` (to adopt)"
+      },
+      {
+        "question": "The constant prevarication from the leadership is unacceptable. It is imperative, and indeed high time, that they ______ with complete transparency.",
+        "options": [
+          "A. will act",
+          "B. have acted",
+          "C. acted",
+          "D. to act"
+        ],
+        "answer": "C",
+        "explanation": "แม้ประโยคจะซับซ้อน แต่แก่นยังคงเดิม คือ `...it's high time, that they ______...` ซึ่งตามหลัง `they` ต้องใช้ Past Simple Subjunctive นั่นคือ `acted`"
+      },
+      {
+        "question": "______ you ceased your incessant complaining and contributed something constructive to the discussion.",
+        "options": [
+          "A. It's time for",
+          "B. It's time to",
+          "C. It's about time",
+          "D. For the time"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคตามมาคือ `you ceased...` (Subject + Past Simple) ดังนั้นส่วนที่นำหน้าต้องเป็น `It's time`, `It's high time`, หรือ `It's about time`. เมื่อพิจารณาจากน้ำเสียงที่ตำหนิ (`incessant complaining`), `It's about time` จึงเหมาะสมที่สุดในการสื่อถึงความเอือมระอา"
+      },
+      {
+        "question": "It's time this antiquated piece of legislation ______, as it no longer serves the public's interest.",
+        "options": [
+          "A. were repealed",
+          "B. is repealed",
+          "C. has been repealed",
+          "D. should be repealed"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้ใช้ Passive Voice ใน Subjunctive Mood ที่ถูกต้องคือ `subject + were/was + V.3`. ดังนั้น `were repealed` คือรูปที่ถูกต้องและเป็นทางการที่สุด (แม้ `was repealed` จะพอใช้ได้ในภาษาพูด แต่ `were` เหมาะกับบริบทที่เป็นทางการนี้มากกว่า)"
+      },
+      {
+        "question": "After years of fiscal mismanagement, it's high time the city council ______ its profligate spending habits.",
+        "options": [
+          "A. to curtail",
+          "B. curtails",
+          "C. has curtailed",
+          "D. curtailed"
+        ],
+        "answer": "D",
+        "explanation": "หลักการเดิม `It's high time + subject (the city council) + Past Simple Verb`. คำตอบคือ `curtailed` (แปลว่า ลดหรือจำกัด)"
+      },
+      {
+        "question": "It's time you ______ so complacent and started preparing for the upcoming challenges.",
+        "options": [
+          "A. aren't",
+          "B. shouldn't be",
+          "C. weren't",
+          "D. haven't been"
+        ],
+        "answer": "C",
+        "explanation": "เราต้องการรูป Past Simple ของ 'be not'. ใน Subjunctive Mood รูปที่ถูกต้องและนิยมใช้ในสถานการณ์เช่นนี้คือ `weren't` แม้ว่าประธานจะเป็น `you` (ซึ่งปกติก็ใช้ were) หรือ he/she/it ก็ตาม"
+      },
+      {
+        "question": "The company has been hemorrhaging money for three consecutive quarters. It's about time drastic measures ______.",
+        "options": [
+          "A. are taken",
+          "B. have been taken",
+          "C. should be taken",
+          "D. were taken"
+        ],
+        "answer": "D",
+        "explanation": "นี่เป็นอีกตัวอย่างของ Passive Voice ใน Subjunctive Mood. โครงสร้างคือ `It's about time + subject (drastic measures) + were/was + Past Participle (taken)`. คำตอบที่ถูกต้องที่สุดคือ `were taken`"
+      },
+      {
+        "question": "It's time the nation as a whole ______ a serious conversation about its long-term environmental policies.",
+        "options": [
+          "A. had",
+          "B. has",
+          "C. to have",
+          "D. will have"
+        ],
+        "answer": "A",
+        "explanation": "ตามหลัง `subject (The nation as a whole)` เราต้องใช้ Past Simple ของกริยา 'have' นั่นก็คือ `had`. ประโยคนี้หมายถึง ถึงเวลาแล้วที่คนทั้งชาติต้องเริ่มพูดคุยกันอย่างจริงจัง 'ตอนนี้'"
+      }
+    ]
+  },
+  {
+    "id": "37_4",
+    "title": "37.4 Summary: Subjunctive Mood (สรุปประโยคสมมติ + 50 Exercises)",
+    "explanation": "สรุปรวบยอด Subjunctive Mood: ไวยากรณ์แห่งโลกสมมติและข้อเรียกร้องระดับสูง\n\nSubjunctive Mood คือ 'กาลสมมติ' หรือ 'มาลาสมมติ' เป็นโครงสร้างไวยากรณ์ที่ใช้อธิบายสิ่งที่ 'ไม่ได้เป็นจริง' แต่เป็นความปรารถนา, ข้อเสนอแนะ, ข้อเรียกร้อง, สถานการณ์สมมติ, หรือความเป็นไปได้ที่ไม่แน่นอน โดยหลักแล้ว Subjunctive จะไม่ผัน Verb ตามประธานหรือ Tense ปกติ ซึ่งเป็นหัวใจสำคัญที่ต้องจำให้แม่น\n\nในระดับ C1-C2 เราจะสรุป Subjunctive เป็น 3 แกนหลัก:\n\n1.  **Present Subjunctive (Mandative/Jussive Subjunctive)**: ใช้ในบริบทที่เป็นทางการ (Formal) เพื่อแสดงความต้องการ, ข้อเรียกร้อง, คำแนะนำ, หรือความจำเป็นเร่งด่วน มักจะตามหลังคำกริยา (verbs), คำคุณศัพท์ (adjectives), หรือคำนาม (nouns) ที่มีความหมายในเชิงนี้\n    *   **โครงสร้าง**: `Subject + Verb/Adjective/Noun + that + Subject + Base Form of Verb (V.infinitive)`\n    *   **คำที่พบบ่อย**: Verbs (suggest, recommend, demand, insist, require, stipulate, mandate), Adjectives (imperative, essential, crucial, vital, necessary), Nouns (a recommendation, a requirement, an insistence).\n    *   **จุดเด่น**: Verb ใน that-clause จะเป็นรูป 'ดั้งเดิม' (Base Form) เสมอ ไม่ว่าประธานจะเป็นเอกพจน์หรือพหูพจน์ และไม่ว่าประโยคหลักจะเป็น Tense ใดก็ตาม\n    *   **การปฏิเสธ**: ใช้ 'not' วางไว้หน้า Base Form (e.g., `that he **not be** late`)\n\n2.  **Past Subjunctive**: ใช้เพื่อพูดถึงสถานการณ์สมมติ 'ที่ไม่เป็นจริง' ในปัจจุบันหรืออนาคต (Hypothetical/Unreal situations)\n    *   **โครงสร้าง**: คล้ายกับ Second Conditional และประโยค 'wish'\n    *   `If + Subject + Past Simple Verb..., Subject + would/could/might + Base Form`\n    *   `Subject + wish + Subject + Past Simple Verb`\n    *   `It's (high) time + Subject + Past Simple Verb`\n    *   **จุดเด่น**: ใช้ 'were' กับประธานทุกตัว (I/he/she/it/we/they) ในบริบทที่เป็นทางการเพื่อแสดงความเป็นสมมติอย่างชัดเจน (e.g., `If I **were** the CEO...`)\n\n3.  **Past Perfect Subjunctive**: ใช้เพื่อพูดถึงสถานการณ์สมมติ 'ที่ไม่เป็นจริง' และตรงกันข้ามกับสิ่งที่เกิดขึ้นในอดีต (Counter-factual past situations)\n    *   **โครงสร้าง**: คล้ายกับ Third Conditional และประโยค 'wish' เกี่ยวกับอดีต\n    *   `If + Subject + Past Perfect (had + V3)..., Subject + would/could/might + have + V3`\n    *   `Subject + wish + Subject + Past Perfect (had + V3)`\n    *   `as if / as though + Subject + Past Perfect (had + V3)`\n    *   **จุดเด่น**: แสดงถึงความเสียดาย (regret) หรือการวิเคราะห์เหตุการณ์ที่เกิดขึ้นแล้วว่า 'ถ้าหากตอนนั้น...ก็คงจะ...'\n\n**โครงสร้างพิเศษระดับสูง (Advanced Structures)**:\n*   **Inversion in Conditionals**: การสลับที่ประธานกับกริยาช่วยในประโยคเงื่อนไขเพื่อความเป็นทางการและเน้นย้ำ โดยตัด 'If' ทิ้งไป\n    *   `Were I to know...` (แทน If I knew...)\n    *   `Had you informed me...` (แทน If you had informed me...)\n    *   `Should you require assistance...` (แทน If you require assistance...)",
+    "examples": [
+      {
+        "eng": "The board's resolution stipulates that the subsidiary **be dissolved** forthwith and that all its assets **be liquidated** under independent supervision.",
+        "thai": "มติของคณะกรรมการบริษัทระบุว่าบริษัทย่อยจะต้อง 'ถูกยุบ' โดยทันที และสินทรัพย์ทั้งหมดจะต้อง 'ถูกทำให้เป็นเงินสด' ภายใต้การกำกับดูแลที่เป็นอิสระ \nคำอธิบาย: นี่คือตัวอย่างของ Present Subjunctive ในรูปแบบ Passive Voice ที่ซับซ้อนและเป็นทางการมาก สังเกตการใช้ Base Form 'be' ตามด้วย V.3 (dissolved, liquidated) หลังคำว่า 'stipulates that...' ถึงแม้ประธาน (the subsidiary, all its assets) จะเป็นเอกพจน์หรือพหูพจน์ก็ตาม"
+      },
+      {
+        "eng": "Were the defendant to perjure himself on the stand, it would irrevocably compromise the integrity of his entire testimony.",
+        "thai": "หากจำเลย 'จะ' ให้การเท็จบนแท่นพยาน มันจะบ่อนทำลายความน่าเชื่อถือของคำให้การทั้งหมดของเขาอย่างที่ไม่สามารถแก้ไขได้ \nคำอธิบาย: นี่คือ Past Subjunctive ที่ใช้โครงสร้างสลับที่ (Inversion) ขั้นสูง 'Were... to...' แทน 'If... were to...' เพื่อสร้างประโยคสมมติเกี่ยวกับอนาคตที่มีความเป็นไปได้น้อยและมีความเป็นทางการสูงมาก"
+      },
+      {
+        "eng": "He recounted the apocryphal tale as though he himself **had borne witness** to the cataclysmic event, lending an unnerving verisimilitude to the narrative.",
+        "thai": "เขาเล่าเรื่องราวที่แต่งขึ้นมาราวกับว่าตัวเขาเอง 'ได้เป็นประจักษ์พยาน' ในเหตุการณ์หายนะนั้นด้วยตนเอง ซึ่งช่วยเพิ่มความสมจริงที่น่าขนลุกให้กับเรื่องเล่า \nคำอธิบาย: ประโยคนี้ใช้ Past Perfect Subjunctive ('had borne witness') หลัง 'as though' เพื่ออธิบายการกระทำ (เล่าเรื่อง) ในอดีต ที่สมมติว่าเกิดขึ้นในอดีตที่ไกลกว่า (ได้ไปเห็นมา) ซึ่งไม่เป็นความจริง"
+      },
+      {
+        "eng": "It is imperative that any proposed legislation **not contravene** the foundational principles enshrined in the constitution.",
+        "thai": "เป็นเรื่องจำเป็นอย่างยิ่งที่ร่างกฎหมายใดๆ ที่ถูกเสนอขึ้นมาจะต้อง 'ไม่ขัดแย้ง' กับหลักการพื้นฐานที่บัญญัติไว้ในรัฐธรรมนูญ \nคำอธิบาย: นี่คือ Present Subjunctive ในรูปปฏิเสธขั้นสูง สังเกตการใช้ 'not' วางไว้หน้า Base Form ('contravene') โดยตรง ไม่ใช้ don't, doesn't, or didn't ซึ่งเป็นรูปแบบที่ถูกต้องและเป็นทางการ"
+      }
+    ],
+    "common_mistakes": "1.  **เติม 's' ใน Present Subjunctive**: ความผิดพลาดที่พบบ่อยที่สุดแม้ในระดับสูง คือการเผลอผัน Verb ตามประธานเอกพจน์บุรุษที่ 3\n    *   ผิด: The committee insists that he **attends** the meeting.\n    *   ถูก: The committee insists that he **attend** the meeting.\n\n2.  **ใช้ 'was' แทน 'were' ในสถานการณ์สมมติที่เป็นทางการ**: แม้ในภาษาพูด 'if he was' จะเป็นที่ยอมรับ แต่ในการเขียนเชิงวิชาการหรือการสื่อสารที่เป็นทางการ (C1-C2) ควรใช้ 'were' กับประธานทุกตัวเสมอเพื่อแสดงความเป็นสมมติ\n    *   ไม่เป็นทางการ/ผิดในงานเขียน: If the CEO **was** more decisive, the project would proceed.\n    *   ถูก (เป็นทางการ): If the CEO **were** more decisive, the project would proceed.\n\n3.  **สับสน Tense ในประโยค Wish**: การเลือกใช้ Tense ผิดจะทำให้ความหมายผิดเพี้ยนไปโดยสิ้นเชิง\n    *   ผิด (ต้องการสื่อถึงปัจจุบัน): I wish I **will have** more time. / I wish I **have** more time.\n    *   ถูก (ปรารถนาในปัจจุบัน): I wish I **had** more time. (Past Subjunctive)\n    *   ผิด (ต้องการสื่อถึงอดีต): I wish I **had** more time yesterday.\n    *   ถูก (เสียดายในอดีต): I wish I **had had** more time yesterday. (Past Perfect Subjunctive)\n\n4.  **ใช้ Infinitive (to + verb) แทน Base Form**: หลังโครงสร้าง Present Subjunctive บางคนอาจสับสนและใช้ 'to'\n    *   ผิด: It is essential that she **to be** informed immediately.\n    *   ถูก: It is essential that she **be** informed immediately.\n\n5.  **สร้างประโยคปฏิเสธผิดรูปแบบ**: ใน Present Subjunctive การปฏิเสธต้องใช้ 'not' + Base Form เท่านั้น\n    *   ผิด: The lawyer recommended that his client **doesn't answer** any questions.\n    *   ถูก: The lawyer recommended that his client **not answer** any questions.",
+    "practice_questions": [
+      {
+        "question": "The treaty stipulates that the occupying forces ______ from the contested territory immediately.",
+        "options": [
+          "A. to withdraw",
+          "B. withdraw",
+          "C. withdraws",
+          "D. are withdrawing"
+        ],
+        "answer": "B",
+        "explanation": "คำกริยา 'stipulate' (ระบุ, กำหนด) เป็นหนึ่งในคำที่ต้องตามด้วย Present Subjunctive ดังนั้น verb ใน that-clause จะต้องอยู่ในรูป Base Form (V.infinitive) โดยไม่ผันตามประธาน จึงต้องใช้ 'withdraw'"
+      },
+      {
+        "question": "______ I in your precarious position, I would meticulously reconsider every available option.",
+        "options": [
+          "A. Was",
+          "B. If I would be",
+          "C. Am",
+          "D. Were"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคนี้เป็น Past Subjunctive ที่ใช้โครงสร้างสลับที่ (Inversion) เพื่อความเป็นทางการ โดยตัด 'If' ออกไปและนำ 'Were' มาไว้ข้างหน้าประโยค 'Were I...' มีความหมายเหมือนกับ 'If I were...'"
+      },
+      {
+        "question": "She spoke about her ephemeral success with a tinge of regret, wishing she ______ the opportunities it presented more astutely.",
+        "options": [
+          "A. had managed",
+          "B. managed",
+          "C. would manage",
+          "D. has managed"
+        ],
+        "answer": "A",
+        "explanation": "ประโยค 'wishing' ในที่นี้แสดงความเสียดายเกี่ยวกับสิ่งที่เกิดขึ้นใน 'อดีต' (her ephemeral success) จึงต้องใช้ Past Perfect Subjunctive (had + V.3) ดังนั้น 'had managed' จึงเป็นคำตอบที่ถูกต้อง"
+      },
+      {
+        "question": "It is imperative that this sensitive information ______ with the utmost discretion.",
+        "options": [
+          "A. is handled",
+          "B. be handled",
+          "C. to be handled",
+          "D. handles"
+        ],
+        "answer": "B",
+        "explanation": "คำคุณศัพท์ 'imperative' (จำเป็นอย่างยิ่ง) ต้องตามด้วย Present Subjunctive ในประโยคนี้กรรม (information) เป็นผู้ถูกกระทำ จึงต้องใช้โครงสร้าง Passive คือ 'be + V.3' ดังนั้นคำตอบคือ 'be handled'"
+      },
+      {
+        "question": "______ the preliminary risk assessment been more thorough, the project would not now be in such a state of jeopardy.",
+        "options": [
+          "A. Unless",
+          "B. If",
+          "C. Had",
+          "D. Should"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้เป็น Mixed Conditional ที่ใช้ Inversion ส่วนแรกพูดถึงอดีตที่ไม่เป็นจริง ('Had...been...' แทน 'If...had been...') และส่วนหลังพูดถึงผลลัพธ์ในปัจจุบัน ('would not now be...') ซึ่งเป็นโครงสร้างระดับสูง"
+      },
+      {
+        "question": "Given the escalating crisis, it's high time the international community ______ decisive action.",
+        "options": [
+          "A. takes",
+          "B. is taking",
+          "C. took",
+          "D. take"
+        ],
+        "answer": "C",
+        "explanation": "สำนวน 'It's (high) time' จะต้องตามด้วยประธานและกริยาช่องที่ 2 (Past Subjunctive) เพื่อแสดงว่าสิ่งนั้นควรจะเกิดขึ้นได้แล้ว ดังนั้น 'took' จึงเป็นคำตอบที่ถูกต้อง"
+      },
+      {
+        "question": "He brandishes his new-found authority as if he ______ the sole arbiter of truth.",
+        "options": [
+          "A. is",
+          "B. were",
+          "C. has been",
+          "D. would be"
+        ],
+        "answer": "B",
+        "explanation": "หลัง 'as if' หรือ 'as though' เมื่อพูดถึงสถานการณ์สมมติที่ไม่เป็นจริงในปัจจุบัน เราจะใช้ Past Subjunctive และใช้ 'were' กับประธานทุกตัวในสถานการณ์ที่เป็นทางการ เขาไม่ได้เป็น 'sole arbiter' จริงๆ"
+      },
+      {
+        "question": "The professor insisted that the final dissertation ______ any form of plagiarism.",
+        "options": [
+          "A. not contain",
+          "B. doesn't contain",
+          "C. not to contain",
+          "D. will not contain"
+        ],
+        "answer": "A",
+        "explanation": "นี่คือ Present Subjunctive ในรูปปฏิเสธ หลังคำว่า 'insisted that' เราต้องใช้ Base Form และในการปฏิเสธให้เติม 'not' ไว้ข้างหน้า Base Form โดยตรง ดังนั้น 'not contain' จึงถูกต้อง"
+      },
+      {
+        "question": "______ you encounter any unforeseen complications, do not hesitate to activate the emergency protocol.",
+        "options": [
+          "A. Would",
+          "B. Were",
+          "C. Had",
+          "D. Should"
+        ],
+        "answer": "D",
+        "explanation": "โครงสร้าง 'Should you...' เป็นการใช้ Inversion แทน 'If you...' ในประโยคเงื่อนไขแบบที่ 1 (Future Real) เพื่อให้มีความเป็นทางการมากขึ้น มักใช้ในการเขียนเชิงธุรกิจหรือคำแนะนำ"
+      },
+      {
+        "question": "I would rather you ______ that contentious subject during the negotiations.",
+        "options": [
+          "A. not to mention",
+          "B. didn't mention",
+          "C. don't mention",
+          "D. won't mention"
+        ],
+        "answer": "B",
+        "explanation": "โครงสร้าง 'Subject 1 + would rather + Subject 2' ต้องตามด้วยกริยาช่องที่ 2 (Past Subjunctive) เพื่อแสดงความต้องการในปัจจุบันหรืออนาคต ในรูปปฏิเสธจะใช้ 'didn't + V.1'"
+      },
+      {
+        "question": "The judge's ruling mandated that the defendant ______ from contacting the plaintiff.",
+        "options": [
+          "A. refrains",
+          "B. to refrain",
+          "C. refrain",
+          "D. has refrained"
+        ],
+        "answer": "C",
+        "explanation": "คำกริยา 'mandate' (สั่งการ, บังคับ) ต้องตามด้วย Present Subjunctive ดังนั้น verb ใน that-clause ต้องเป็น Base Form คือ 'refrain'"
+      },
+      {
+        "question": "The CEO looked at the dismal quarterly report as though he ______ a ghost.",
+        "options": [
+          "A. saw",
+          "B. has seen",
+          "C. had seen",
+          "D. sees"
+        ],
+        "answer": "C",
+        "explanation": "การกระทำหลักคือ 'looked' (อดีต) และการมองนั้น 'ราวกับว่า' เขาได้เห็นอะไรบางอย่างในอดีตที่ไกลกว่านั้น (ซึ่งไม่จริง) จึงต้องใช้ Past Perfect Subjunctive ('had seen') เพื่อแสดงถึงเวลาที่เกิดก่อนหน้า"
+      },
+      {
+        "question": "It is of paramount importance that every employee ______ to the new security protocols without exception.",
+        "options": [
+          "A. adheres",
+          "B. adhere",
+          "C. is adhering",
+          "D. to adhere"
+        ],
+        "answer": "B",
+        "explanation": "วลี 'It is of paramount importance that...' เป็นการแสดงความจำเป็นอย่างยิ่ง และต้องตามด้วย Present Subjunctive (Base Form) ดังนั้น 'adhere' จึงถูกต้อง"
+      },
+      {
+        "question": "If only the cartographers of that era ______ more advanced tools, the map would not be so egregiously inaccurate.",
+        "options": [
+          "A. possessed",
+          "B. would possess",
+          "C. had possessed",
+          "D. have possessed"
+        ],
+        "answer": "C",
+        "explanation": "สำนวน 'If only' เมื่อใช้พูดถึงความเสียดายในอดีต จะมีโครงสร้างเหมือน Third Conditional คือต้องใช้ Past Perfect Subjunctive (had + V.3) ดังนั้น 'had possessed' จึงถูกต้อง"
+      },
+      {
+        "question": "______ the technology to exist, we could revolutionize energy production overnight.",
+        "options": [
+          "A. For",
+          "B. If",
+          "C. Were",
+          "D. Had"
+        ],
+        "answer": "C",
+        "explanation": "นี่คือ Past Subjunctive ที่ใช้ Inversion ในรูปแบบ 'Were + Subject + to + infinitive' ซึ่งมีความหมายเหมือน 'If + Subject + existed/were to exist' ใช้กับเหตุการณ์สมมติในปัจจุบัน/อนาคต"
+      },
+      {
+        "question": "My recommendation is that a special committee ______ to investigate the allegations.",
+        "options": [
+          "A. is formed",
+          "B. to be formed",
+          "C. will be formed",
+          "D. be formed"
+        ],
+        "answer": "D",
+        "explanation": "หลังคำนาม 'recommendation' ในโครงสร้าง 'My recommendation is that...' ต้องใช้ Present Subjunctive และเนื่องจาก committee เป็นผู้ถูกจัดตั้ง จึงต้องอยู่ในรูป Passive 'be + V.3' คือ 'be formed'"
+      },
+      {
+        "question": "I wish I ______ aware of the potential ramifications before I committed to the venture.",
+        "options": [
+          "A. were",
+          "B. had been",
+          "C. have been",
+          "D. would be"
+        ],
+        "answer": "B",
+        "explanation": "การแสดงความปรารถนาที่ตรงข้ามกับความจริงใน 'อดีต' ('before I committed') ต้องใช้ Past Perfect Subjunctive ('had been') หลัง 'I wish'"
+      },
+      {
+        "question": "He acts as if he ______ privy to some clandestine information that the rest of us are not.",
+        "options": [
+          "A. is",
+          "B. were",
+          "C. was",
+          "D. would be"
+        ],
+        "answer": "B",
+        "explanation": "หลัง 'as if' สำหรับสถานการณ์สมมติในปัจจุบัน เราใช้ Past Subjunctive และในภาษาเขียนที่เป็นทางการจะใช้ 'were' กับประธานทุกตัว (I/he/she/it) แทน 'was'"
+      },
+      {
+        "question": "The terms of the agreement require that all parties ______ full transparency.",
+        "options": [
+          "A. to maintain",
+          "B. maintaining",
+          "C. maintain",
+          "D. maintains"
+        ],
+        "answer": "C",
+        "explanation": "คำกริยา 'require' ต้องตามด้วย Present Subjunctive ใน that-clause ดังนั้น verb ต้องเป็น Base Form คือ 'maintain'"
+      },
+      {
+        "question": "______ it not for his timely intervention, the entire system would have collapsed.",
+        "options": [
+          "A. Had",
+          "B. If",
+          "C. Was",
+          "D. Were"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้คือ Third Conditional ที่ใช้ Inversion วลีเต็มๆ คือ 'Had it not been for...' ซึ่งมีความหมายเหมือน 'If it had not been for...' (ถ้าไม่ใช่เพราะว่า...)"
+      },
+      {
+        "question": "It is crucial that the rescue team ______ its efforts, as time is of the essence.",
+        "options": [
+          "A. redoubles",
+          "B. redouble",
+          "C. will redouble",
+          "D. to redouble"
+        ],
+        "answer": "B",
+        "explanation": "คำคุณศัพท์ 'crucial' (สำคัญอย่างยิ่ง) ต้องตามด้วย Present Subjunctive (Base Form) ดังนั้น 'redouble' จึงถูกต้อง"
+      },
+      {
+        "question": "He speaks with such conviction; one would think he ______ the theory himself.",
+        "options": [
+          "A. had devised",
+          "B. devised",
+          "C. has devised",
+          "D. devises"
+        ],
+        "answer": "A",
+        "explanation": "ประโยค 'one would think' เป็นการสร้างสถานการณ์สมมติ เรากำลังเปรียบเทียบการพูดของเขา (ปัจจุบัน) กับการกระทำสมมติในอดีต (คิดค้นทฤษฎี) จึงต้องใช้ Past Perfect Subjunctive ('had devised')"
+      },
+      {
+        "question": "We would rather the confidential data ______ stored on a more secure server.",
+        "options": [
+          "A. is",
+          "B. was",
+          "C. were",
+          "D. be"
+        ],
+        "answer": "C",
+        "explanation": "หลัง 'would rather' เมื่อมีประธานตัวที่สอง (the data) เราจะใช้ Past Subjunctive ('were') เพื่อแสดงความต้องการในปัจจุบัน เนื่องจาก data ถูกเก็บ จึงต้องเป็น passive voice ('were stored')"
+      },
+      {
+        "question": "The motion proposes that the current CEO ______ with immediate effect.",
+        "options": [
+          "A. be replaced",
+          "B. is replaced",
+          "C. replaces",
+          "D. to be replaced"
+        ],
+        "answer": "A",
+        "explanation": "คำกริยา 'propose' (เสนอ) เป็นคำที่ต้องตามด้วย Present Subjunctive และเนื่องจาก CEO เป็นผู้ถูกเปลี่ยนตำแหน่ง จึงต้องใช้ Passive Subjunctive 'be + V.3' คือ 'be replaced'"
+      },
+      {
+        "question": "______ I to be granted one wish, it would be for universal peace and understanding.",
+        "options": [
+          "A. Am",
+          "B. Had",
+          "C. Should",
+          "D. Were"
+        ],
+        "answer": "D",
+        "explanation": "นี่คือโครงสร้าง Inversion ของ Second Conditional หรือ Past Subjunctive: 'Were I to be granted...' มีความหมายเหมือนกับ 'If I were to be granted...'"
+      },
+      {
+        "question": "I wish you ______ making such facetious remarks during serious discussions.",
+        "options": [
+          "A. stopped",
+          "B. would stop",
+          "C. had stopped",
+          "D. stop"
+        ],
+        "answer": "B",
+        "explanation": "โครงสร้าง 'wish + would' ใช้เพื่อแสดงความรำคาญหรือความไม่พอใจในพฤติกรรมของผู้อื่น และต้องการให้พฤติกรรมนั้นเปลี่ยนแปลง"
+      },
+      {
+        "question": "The doctor advised that the patient ______ from all strenuous activity for at least a month.",
+        "options": [
+          "A. abstain",
+          "B. abstains",
+          "C. to abstain",
+          "D. has abstained"
+        ],
+        "answer": "A",
+        "explanation": "คำกริยา 'advise that' เป็นอีกหนึ่งคำที่ต้องตามด้วย Present Subjunctive (Base Form) ดังนั้น 'abstain' จึงเป็นคำตอบที่ถูกต้อง"
+      },
+      {
+        "question": "The chairman moved that the meeting ______, pending further information.",
+        "options": [
+          "A. be adjourned",
+          "B. is adjourned",
+          "C. adjourns",
+          "D. will be adjourned"
+        ],
+        "answer": "A",
+        "explanation": "ในบริบทของการประชุม 'move' หมายถึง 'เสนอญัตติ' ซึ่งเป็นคำที่เป็นทางการและต้องตามด้วย Present Subjunctive การประชุมถูกเลื่อนออกไป จึงต้องใช้ Passive Voice: 'be adjourned'"
+      },
+      {
+        "question": "If he ______ more prescient, he would have divested from the company before its precipitous decline.",
+        "options": [
+          "A. was",
+          "B. had been",
+          "C. would have been",
+          "D. were"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้เป็น Third Conditional พูดถึงเหตุการณ์สมมติในอดีต (if-clause) และผลลัพธ์ในอดีต (main clause) ดังนั้น if-clause ต้องใช้ Past Perfect ('had been')"
+      },
+      {
+        "question": "It's time we ______ the fallacious assumption that economic growth is limitless.",
+        "options": [
+          "A. confront",
+          "B. are confronting",
+          "C. confronted",
+          "D. will confront"
+        ],
+        "answer": "C",
+        "explanation": "สำนวน 'It's time' ต้องตามด้วยประธานและกริยาช่องที่ 2 (Past Subjunctive) เพื่อบ่งบอกว่าถึงเวลาที่ต้องทำสิ่งนั้นแล้ว ดังนั้นคำตอบคือ 'confronted'"
+      },
+      {
+        "question": "The demand of the protestors is that the new law ______.",
+        "options": [
+          "A. be repealed",
+          "B. is repealed",
+          "C. will be repealed",
+          "D. to be repealed"
+        ],
+        "answer": "A",
+        "explanation": "หลังคำนาม 'demand' ในโครงสร้าง 'The demand is that...' ต้องใช้ Present Subjunctive และเนื่องจากกฎหมายเป็นผู้ถูกยกเลิก จึงต้องใช้ Passive Form 'be + V.3' คือ 'be repealed'"
+      },
+      {
+        "question": "He describes the battle with such graphic detail, as if he ______ there.",
+        "options": [
+          "A. was",
+          "B. would be",
+          "C. had been",
+          "D. has been"
+        ],
+        "answer": "C",
+        "explanation": "การกระทำหลักคือ 'describes' (ปัจจุบัน) แต่เขากำลังเล่าถึงเหตุการณ์ในอดีต (the battle) ราวกับว่าเขาเคยอยู่ที่นั่นในอดีตด้วย จึงต้องใช้ Past Perfect Subjunctive ('had been') เพื่อสื่อถึงอดีตที่ไม่เป็นจริง"
+      },
+      {
+        "question": "My lawyer's suggestion is that I ______ from making any public statements.",
+        "options": [
+          "A. refrain",
+          "B. refraining",
+          "C. will refrain",
+          "D. am refraining"
+        ],
+        "answer": "A",
+        "explanation": "หลังคำนาม 'suggestion' ในโครงสร้าง '...suggestion is that...' ต้องใช้ Present Subjunctive (Base Form) ดังนั้น 'refrain' จึงถูกต้อง"
+      },
+      {
+        "question": "______ the oversight committee to discover these irregularities, there would be severe consequences.",
+        "options": [
+          "A. If",
+          "B. Should",
+          "C. Had",
+          "D. Were"
+        ],
+        "answer": "D",
+        "explanation": "นี่คือโครงสร้าง Inversion ของ Second Conditional: 'Were... to discover...' มีความหมายเหมือนกับ 'If... discovered...' หรือ 'If... were to discover...' ใช้กับเหตุการณ์สมมติ"
+      },
+      {
+        "question": "They would rather their son ______ a more practical field of study, but they support his artistic ambitions nonetheless.",
+        "options": [
+          "A. had chosen",
+          "B. chose",
+          "C. chooses",
+          "D. would choose"
+        ],
+        "answer": "B",
+        "explanation": "โครงสร้าง 'Subject 1 + would rather + Subject 2' ต้องตามด้วย Past Subjunctive (V.2) เพื่อแสดงความต้องการในปัจจุบัน ดังนั้น 'chose' จึงถูกต้อง"
+      },
+      {
+        "question": "It is advisable that any person experiencing these symptoms ______ a medical professional at once.",
+        "options": [
+          "A. consults",
+          "B. to consult",
+          "C. will consult",
+          "D. consult"
+        ],
+        "answer": "D",
+        "explanation": "คำคุณศัพท์ 'advisable' (เป็นสิ่งที่ควรทำ) ต้องตามด้วย Present Subjunctive (Base Form) ดังนั้น 'consult' จึงถูกต้อง"
+      },
+      {
+        "question": "If only I ______ his duplicitous nature sooner.",
+        "options": [
+          "A. recognised",
+          "B. have recognised",
+          "C. had recognised",
+          "D. would recognise"
+        ],
+        "answer": "C",
+        "explanation": "สำนวน 'If only' ใช้แสดงความเสียดายเกี่ยวกับเหตุการณ์ในอดีตที่ไม่เป็นจริง จึงต้องใช้ Past Perfect Subjunctive ('had recognised')"
+      },
+      {
+        "question": "The rules of the establishment require that all guests ______ appropriate attire in the dining hall.",
+        "options": [
+          "A. are wearing",
+          "B. wear",
+          "C. to wear",
+          "D. wears"
+        ],
+        "answer": "B",
+        "explanation": "คำกริยา 'require that' ต้องตามด้วย Present Subjunctive (Base Form) ดังนั้นคำตอบที่ถูกต้องคือ 'wear'"
+      },
+      {
+        "question": "She walks with an air of nonchalance, as though the world ______ her oyster.",
+        "options": [
+          "A. is",
+          "B. were",
+          "C. has been",
+          "D. was being"
+        ],
+        "answer": "B",
+        "explanation": "หลัง 'as though' สำหรับสถานการณ์สมมติในปัจจุบัน (โลกไม่ได้เป็นของเธอจริงๆ) เราใช้ Past Subjunctive และใช้ 'were' กับประธานทุกตัว ('the world' ในที่นี้ถือเป็น it)"
+      },
+      {
+        "question": "______ I known the full extent of the problem, I would have intervened much earlier.",
+        "options": [
+          "A. Should",
+          "B. Unless",
+          "C. Were",
+          "D. Had"
+        ],
+        "answer": "D",
+        "explanation": "นี่คือโครงสร้าง Inversion ของ Third Conditional โดยตัด 'If' ออกไปและนำ 'Had' ขึ้นต้นประโยค 'Had I known...' มีความหมายเท่ากับ 'If I had known...'"
+      },
+      {
+        "question": "I wish you ______ your voice; this is a library, not a marketplace.",
+        "options": [
+          "A. lower",
+          "B. would lower",
+          "C. have lowered",
+          "D. could have lowered"
+        ],
+        "answer": "B",
+        "explanation": "เราใช้ 'wish + would' เพื่อแสดงความต้องการให้คนอื่นเปลี่ยนพฤติกรรม หรือแสดงความรำคาญใจต่อการกระทำนั้นๆ"
+      },
+      {
+        "question": "It is a prerequisite for the position that the applicant ______ fluent in at least two languages.",
+        "options": [
+          "A. is",
+          "B. be",
+          "C. will be",
+          "D. to be"
+        ],
+        "answer": "B",
+        "explanation": "หลังคำนาม 'prerequisite' (คุณสมบัติที่จำเป็น) ในโครงสร้าง 'It is a prerequisite that...' ต้องใช้ Present Subjunctive ดังนั้น 'be' จึงถูกต้อง"
+      },
+      {
+        "question": "He spends money as if there ______ no tomorrow.",
+        "options": [
+          "A. is",
+          "B. would be",
+          "C. were",
+          "D. has been"
+        ],
+        "answer": "C",
+        "explanation": "ในสำนวน 'as if there were no tomorrow' เราใช้ Past Subjunctive 'were' เพื่อแสดงถึงสถานการณ์ที่ไม่เป็นจริงในปัจจุบัน"
+      },
+      {
+        "question": "The team leader requested that the report ______ by Friday, without fail.",
+        "options": [
+          "A. is submitted",
+          "B. be submitted",
+          "C. will be submitted",
+          "D. to submit"
+        ],
+        "answer": "B",
+        "explanation": "คำกริยา 'request that' ต้องตามด้วย Present Subjunctive และเนื่องจาก report เป็นผู้ถูกส่ง จึงต้องใช้ Passive Form: 'be submitted'"
+      },
+      {
+        "question": "It is incumbent upon the government that it ______ the will of the people.",
+        "options": [
+          "A. enacts",
+          "B. to enact",
+          "C. enact",
+          "D. is enacting"
+        ],
+        "answer": "C",
+        "explanation": "วลี 'It is incumbent upon... that' (เป็นหน้าที่ของ...ที่จะต้อง) เป็นวลีที่เป็นทางการที่ต้องตามด้วย Present Subjunctive (Base Form) ดังนั้น 'enact' จึงถูกต้อง"
+      },
+      {
+        "question": "______ the sun to suddenly vanish, life on Earth would cease almost instantaneously.",
+        "options": [
+          "A. Had",
+          "B. Would",
+          "C. Should",
+          "D. Were"
+        ],
+        "answer": "D",
+        "explanation": "โครงสร้าง Inversion 'Were... to...' ใช้สำหรับจินตนาการถึงสถานการณ์ที่ไม่น่าจะเกิดขึ้นจริง (highly hypothetical) ในปัจจุบันหรืออนาคต มีความหมายเหมือน 'If... were to...'"
+      },
+      {
+        "question": "He would rather ______ in obscurity than compromise his artistic integrity for fame.",
+        "options": [
+          "A. to languish",
+          "B. languishes",
+          "C. languishing",
+          "D. languish"
+        ],
+        "answer": "D",
+        "explanation": "ในโครงสร้าง 'would rather + verb' เมื่อประธานของ 'would rather' และ verb เป็นคนเดียวกัน เราจะใช้ Base Form (V.infinitive) โดยไม่มี 'to' ตามหลัง"
+      },
+      {
+        "question": "The parents pleaded that their child ______ a second chance.",
+        "options": [
+          "A. be given",
+          "B. is given",
+          "C. was given",
+          "D. would be given"
+        ],
+        "answer": "A",
+        "explanation": "คำกริยา 'plead that' (วิงวอนว่า) เป็นคำที่แสดงความต้องการอย่างแรงกล้า และต้องตามด้วย Present Subjunctive ในที่นี้เด็กเป็นผู้ 'ถูก' ให้โอกาส จึงต้องใช้ Passive: 'be given'"
+      },
+      {
+        "question": "She wishes she ______ so dismissive of his advice; it turned out to be remarkably prescient.",
+        "options": [
+          "A. wasn't",
+          "B. wouldn't be",
+          "C. hadn't been",
+          "D. hasn't been"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้แสดงความเสียใจเกี่ยวกับการกระทำในอดีต ('was dismissive') ดังนั้นจึงต้องใช้ Past Perfect Subjunctive ('hadn't been') หลัง 'wishes'"
+      },
+      {
+        "question": "The non-disclosure agreement demands that the employee ______ any proprietary information to a third party, even after termination of employment.",
+        "options": [
+          "A. not divulge",
+          "B. doesn't divulge",
+          "C. not to divulge",
+          "D. will not divulge"
+        ],
+        "answer": "A",
+        "explanation": "หลัง 'demands that' ต้องใช้ Present Subjunctive และในรูปปฏิเสธ เราใช้ 'not' วางหน้า Base Form โดยตรง ดังนั้น 'not divulge' จึงเป็นคำตอบที่ถูกต้องตามหลักไวยากรณ์"
+      }
+    ]
+  }
+]

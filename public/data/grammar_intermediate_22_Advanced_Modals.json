@@ -1,0 +1,990 @@
+[
+  {
+    "id": "22_1",
+    "title": "22.1 Modals of Deduction in Present (must be, might be, can't be)",
+    "explanation": "Modals of Deduction (กริยาช่วยแสดงการคาดเดา) คือการใช้ Modal Verbs เพื่อแสดงความน่าจะเป็นหรือการสรุปจากหลักฐานที่มีในปัจจุบัน เราไม่ได้พูดถึงความจริง 100% แต่เป็นการ 'คาดเดาอย่างมีหลักการ' ว่าสิ่งนั้นๆ น่าจะเป็นอย่างไร\n\nโครงสร้างหลัก: Subject + modal + be + [adjective / noun / V-ing / prepositional phrase]\n\n1. must be: ใช้เมื่อเรา 'มั่นใจเกือบ 100%' ว่าสิ่งนั้นเป็นจริง เพราะมีหลักฐานชัดเจนมาก\n   - ระดับความมั่นใจ: สูงมาก (ประมาณ 95%)\n   - ความหมาย: ต้องเป็น...แน่ๆ, คงจะ...แน่ๆ\n   - ตัวอย่าง: He has been yawning all morning. He must be tired. (เขาหาวมาตลอดทั้งเช้า เขาต้องเหนื่อยมากแน่ๆ)\n\n2. might be / may be / could be: ใช้เมื่อเราคิดว่า 'มีความเป็นไปได้' แต่ไม่แน่ใจ อาจจะใช่หรือไม่ใช่ก็ได้\n   - ระดับความมั่นใจ: ปานกลาง (ประมาณ 30-50%)\n   - ความหมาย: อาจจะ...ก็ได้, บางทีอาจจะ...\n   - ทั้งสามคำนี้ใช้แทนกันได้ในบริบทส่วนใหญ่ แต่ `might be` อาจจะให้ความรู้สึกไม่แน่นอนมากกว่า `may be` เล็กน้อย\n   - ตัวอย่าง: The sky is getting dark. It might be going to rain soon. (ท้องฟ้าเริ่มมืดแล้ว ฝนอาจจะตกเร็วๆ นี้ก็ได้)\n\n3. can't be: ใช้เมื่อเรา 'มั่นใจเกือบ 100%' ว่าสิ่งนั้น 'เป็นไปไม่ได้' หรือไม่เป็นความจริง เพราะมีหลักฐานที่ขัดแย้งอย่างชัดเจน\n   - ระดับความมั่นใจ: สูงมาก (ว่า 'ไม่จริง')\n   - ความหมาย: เป็น...ไปไม่ได้แน่ๆ\n   - **ข้อควรระวัง:** เราไม่ใช้ mustn't be สำหรับการคาดเดาในเชิงปฏิเสธ แต่จะใช้ can't be แทน\n   - ตัวอย่าง: You just had a big lunch. You can't be hungry already! (เธอเพิ่งกินมื้อเที่ยงมื้อใหญ่ไป เธอจะหิวอีกแล้วเป็นไปไม่ได้แน่ๆ)",
+    "examples": [
+      {
+        "eng": "Look at the lights and hear the music coming from their apartment. They must be having a party.",
+        "thai": "ดูแสงไฟกับได้ยินเสียงเพลงจากอพาร์ตเมนต์ของพวกเขาสิ พวกเขาต้องกำลังจัดปาร์ตี้อยู่แน่ๆ (หลักฐานคือแสงไฟและเสียงเพลง ทำให้เรามั่นใจมาก)"
+      },
+      {
+        "eng": "The CEO hasn't arrived yet. He might be stuck in traffic, or he could be in an earlier, unscheduled meeting.",
+        "thai": "CEO ยังมาไม่ถึงเลย เขาอาจจะรถติดอยู่ก็ได้ หรือเขาอาจจะกำลังประชุมรอบก่อนหน้าที่ไม่ได้อยู่ในตารางก็ได้ (เป็นการคาดเดาถึงความเป็นไปได้หลายอย่าง แต่ไม่มีหลักฐานยืนยัน)"
+      },
+      {
+        "eng": "That luxury car can't be his. He just told me yesterday that he was struggling financially.",
+        "thai": "รถหรูคันนั้นเป็นของเขาไปไม่ได้แน่ๆ เขาเพิ่งบอกฉันเมื่อวานนี้เองว่าเขากำลังมีปัญหาเรื่องการเงิน (หลักฐานคือคำพูดของเขาเอง ซึ่งขัดแย้งกับการมีรถหรูอย่างสิ้นเชิง)"
+      },
+      {
+        "eng": "She speaks fluent Japanese and knows so much about the culture. She must be someone who has lived in Japan for years.",
+        "thai": "เธอพูดภาษาญี่ปุ่นได้คล่องและรู้เรื่องวัฒนธรรมเยอะมาก เธอต้องเป็นคนที่เคยอาศัยอยู่ในญี่ปุ่นมาหลายปีแน่ๆ (เป็นการสรุปจากทักษะและความรู้ที่เห็นได้ชัด)"
+      }
+    ],
+    "common_mistakes": "จุดที่คนไทยมักทำผิดบ่อยๆ:\n\n1. การใช้ 'mustn't be' แทน 'can't be' ในการคาดเดาเชิงปฏิเสธ\n   - ผิด: He has a solid alibi. He mustn't be the thief. (เขาต้องไม่ใช่ขโมยแน่ๆ)\n   - ถูก: He has a solid alibi. He can't be the thief.\n   - **จำไว้ว่า:** mustn't ใช้กับการ 'ห้าม' (prohibition) เท่านั้น เช่น You mustn't smoke here. (คุณห้ามสูบบุหรี่ที่นี่) ส่วนการคาดเดาว่า 'เป็นไปไม่ได้แน่ๆ' ต้องใช้ can't be\n\n2. สับสนระหว่าง 'must be' (การคาดเดา) กับ 'have to be' (ความจำเป็น/ข้อบังคับ)\n   - คาดเดา: You worked 12 hours straight. You must be exhausted. (คุณทำงาน 12 ชม. ติดต่อกัน คุณต้องเหนื่อยมากแน่ๆ)\n   - ข้อบังคับ: To be a pilot, you have to be in excellent physical condition. (การจะเป็นนักบิน คุณจำเป็นต้องมีสภาพร่างกายที่ยอดเยี่ยม)\n\n3. แยกไม่ออกระหว่าง 'may be' (modal + verb) กับ 'maybe' (adverb)\n   - He may be late. (เขาอาจจะมาสาย) -> โครงสร้าง: Subject + may + be...\n   - Maybe he is late. (บางทีเขาอาจจะมาสาย) -> โครงสร้าง: Maybe + Subject + Verb...\n   - ความหมายคล้ายกันมาก แต่โครงสร้างไวยากรณ์ต่างกัน",
+    "practice_questions": [
+      {
+        "question": "The final report is full of factual errors and typos. It _____ proofread carefully before submission.",
+        "options": [
+          "A. must be",
+          "B. might not be",
+          "C. can't have been",
+          "D. can't be"
+        ],
+        "answer": "D",
+        "explanation": "คำถามนี้แปลว่า 'รายงานฉบับสุดท้ายเต็มไปด้วยข้อผิดพลาดและความผิดพลาดในการพิมพ์ มัน ________ ตรวจทานอย่างรอบคอบก่อนส่ง' หลักฐานคือรายงานที่เต็มไปด้วยข้อผิดพลาด แสดงว่ามัน 'เป็นไปไม่ได้แน่ๆ' ที่จะถูกตรวจทานมาอย่างดี ดังนั้นจึงใช้ can't be เพื่อแสดงการคาดเดาเชิงปฏิเสธที่มั่นใจมาก ข้อ C. can't have been ใช้กับอดีต ซึ่งบริบทนี้พูดถึง 'สถานะ' ของรายงานในปัจจุบัน จึงใช้ can't be"
+      },
+      {
+        "question": "A: Why is David looking so pleased with himself? B: I don't know for sure, but he _____ a promotion at work.",
+        "options": [
+          "A. must be getting",
+          "B. might be getting",
+          "C. can't be getting",
+          "D. mustn't be getting"
+        ],
+        "answer": "B",
+        "explanation": "B บอกว่า 'I don't know for sure' (ฉันไม่รู้แน่ชัด) ซึ่งบ่งบอกถึงความไม่แน่นอน ดังนั้น การคาดเดาจึงควรอยู่ในระดับ 'อาจจะ' หรือ 'เป็นไปได้' คำตอบที่เหมาะสมที่สุดคือ might be getting (อาจจะกำลังได้รับการเลื่อนตำแหน่ง) ส่วน must be getting จะใช้เมื่อมีหลักฐานที่ชัดเจนกว่านี้"
+      },
+      {
+        "question": "You've only been studying Mandarin for two months. Your fluency _____ perfect already, it's an incredibly difficult language.",
+        "options": [
+          "A. might be",
+          "B. must be",
+          "C. could be",
+          "D. can't be"
+        ],
+        "answer": "D",
+        "explanation": "การเรียนภาษาจีนกลางแค่ 2 เดือนแล้วจะคล่องเลยนั้น 'เป็นไปไม่ได้' เพราะเป็นภาษาที่ยากมาก บริบทนี้แสดงการคาดเดาเชิงปฏิเสธที่มั่นใจมาก จึงต้องใช้ can't be (เป็นไปไม่ได้แน่ๆ ที่จะสมบูรณ์แบบแล้ว)"
+      },
+      {
+        "question": "The lights in their house are off and the newspapers are piling up on the doorstep. They _____ on holiday.",
+        "options": [
+          "A. must be",
+          "B. might be",
+          "C. can't be",
+          "D. should be"
+        ],
+        "answer": "A",
+        "explanation": "มีหลักฐานที่หนักแน่น 2 อย่างคือ 'ไฟปิด' และ 'หนังสือพิมพ์กองอยู่หน้าประตู' หลักฐานเหล่านี้ชี้ชัดไปในทิศทางเดียวกันว่าพวกเขาไม่อยู่บ้าน ดังนั้นเราจึงสามารถสรุปได้อย่างมั่นใจว่า 'พวกเขาต้องไปเที่ยวพักผ่อนแน่ๆ' (They must be on holiday)"
+      },
+      {
+        "question": "I can't find my wallet. I suppose it _____ in the car, but I'm not certain.",
+        "options": [
+          "A. must be",
+          "B. will be",
+          "C. could be",
+          "D. can't be"
+        ],
+        "answer": "C",
+        "explanation": "ผู้พูดบอกว่า 'I'm not certain' (ฉันไม่แน่ใจ) ซึ่งแสดงถึงความไม่มั่นใจ ดังนั้นการคาดเดาจึงเป็นแค่ 'ความเป็นไปได้' could be (อาจจะอยู่ในรถก็ได้) จึงเป็นคำตอบที่ถูกต้องที่สุด (might be หรือ may be ก็ใช้ได้ถ้ามีในตัวเลือก)"
+      },
+      {
+        "question": "That man claims to be a doctor, but he can't even explain basic symptoms. He _____ a real medical professional.",
+        "options": [
+          "A. must not be",
+          "B. might not be",
+          "C. can't be",
+          "D. must be"
+        ],
+        "answer": "C",
+        "explanation": "หลักฐานคือเขาไม่สามารถอธิบายอาการพื้นฐานได้ ซึ่งขัดแย้งกับการเป็นหมออย่างสิ้นเชิง ดังนั้นเราจึงมั่นใจว่า 'เขาเป็นบุคลากรทางการแพทย์ตัวจริงไปไม่ได้แน่ๆ' ต้องใช้ can't be ตัวเลือก A. must not be (mustn't be) เป็นการใช้ที่ผิดไวยากรณ์สำหรับการคาดเดา"
+      },
+      {
+        "question": "The new intern is answering all the complex technical questions flawlessly. She _____ very knowledgeable in this field.",
+        "options": [
+          "A. can't be",
+          "B. may be",
+          "C. must be",
+          "D. shouldn't be"
+        ],
+        "answer": "C",
+        "explanation": "การที่นักศึกษาฝึกงานคนใหม่สามารถตอบคำถามทางเทคนิคที่ซับซ้อนได้อย่างไม่มีที่ติ เป็นหลักฐานที่ชัดเจนมากว่าเธอมีความรู้ความสามารถสูง เราจึงสรุปได้อย่างมั่นใจว่า 'เธอต้องมีความรู้ในสาขานี้ดีมากแน่ๆ' (She must be very knowledgeable)"
+      },
+      {
+        "question": "There's an unfamiliar car parked in our driveway. It _____ one of my brother's new friends.",
+        "options": [
+          "A. can't be",
+          "B. might be",
+          "C. has to be",
+          "D. mustn't be"
+        ],
+        "answer": "B",
+        "explanation": "การเห็นรถที่ไม่คุ้นเคยจอดอยู่ เป็นหลักฐานที่ทำให้เราคาดเดาได้ แต่ก็ไม่ได้มีอะไรมายืนยันว่าใช่แน่นอน มันเป็นเพียง 'ความเป็นไปได้' อย่างหนึ่ง ดังนั้น 'มันอาจจะเป็นเพื่อนใหม่ของน้องชายฉันก็ได้' (It might be...) จึงเป็นคำตอบที่เหมาะสมที่สุด"
+      },
+      {
+        "question": "A restaurant with such terrible reviews and an empty dining room _____ very good.",
+        "options": [
+          "A. must be",
+          "B. can't be",
+          "C. could be",
+          "D. may be"
+        ],
+        "answer": "B",
+        "explanation": "หลักฐานคือ 'รีวิวที่แย่มาก' และ 'ร้านอาหารที่ว่างเปล่า' ซึ่งชี้ไปในทางเดียวกันว่าร้านนี้ไม่ดี เราจึงคาดเดาอย่างมั่นใจในเชิงปฏิเสธว่า 'ร้านนี้ดีไปไม่ได้แน่ๆ' (It can't be very good)"
+      },
+      {
+        "question": "She's shivering despite wearing a thick coat. She _____ feeling very cold.",
+        "options": [
+          "A. might not be",
+          "B. must be",
+          "C. can't be",
+          "D. should be"
+        ],
+        "answer": "B",
+        "explanation": "อาการ 'ตัวสั่น' (shivering) เป็นปฏิกิริยาทางร่างกายที่ชัดเจนต่อความหนาว แม้จะใส่เสื้อโค้ทหนาแล้วก็ตาม นี่เป็นหลักฐานที่แข็งแรงมาก ทำให้เราสรุปได้อย่างมั่นใจว่า 'เธอต้องกำลังรู้สึกหนาวมากแน่ๆ' (She must be feeling very cold)"
+      }
+    ]
+  },
+  {
+    "id": "22_2",
+    "title": "22.2 Modals of Deduction in Past (must have V.3, might have V.3)",
+    "explanation": "Modals of Deduction in Past คือการใช้กริยาช่วย (Modal Verbs) เพื่อ 'คาดเดา' หรือ 'สรุป' เกี่ยวกับเหตุการณ์ในอดีต โดยอาศัยหลักฐานหรือข้อมูลที่มีอยู่ โครงสร้างหลักคือ **Modal + have + V.3 (Past Participle)**\n\nเราจะแบ่งระดับความมั่นใจในการคาดเดาได้เป็น 3 ระดับหลักๆ:\n\n**1. แน่ใจมาก (เกือบ 100%) ว่าเกิดขึ้นจริง - Strong Certainty (Positive)**\n*   **must have + V.3** (ต้อง...แน่ๆ เลยในอดีต)\n*   ใช้เมื่อเรามีหลักฐานที่ชัดเจนและหนักแน่น จนมั่นใจว่าสิ่งนั้นเกิดขึ้นแน่นอน\n*   ตัวอย่าง: The ground is all wet. It **must have rained** last night. (พื้นเปียกหมดเลย เมื่อคืนฝนต้องตกหนักแน่ๆ) -> หลักฐานคือพื้นเปียก\n\n**2. ไม่แน่ใจ, เป็นไปได้ - Possibility**\n*   **might have + V.3** / **may have + V.3** / **could have + V.3** (อาจจะ...ก็ได้ในอดีต)\n*   ใช้เมื่อเราคาดเดาว่าบางสิ่งอาจจะเกิดขึ้น แต่เราไม่มั่นใจ 100% เป็นเพียงความเป็นไปได้\n*   **might have** และ **may have** มีความหมายเหมือนกันมาก ใช้แทนกันได้ (might จะเป็นทางการน้อยกว่าเล็กน้อย)\n*   **could have** มักจะใช้เพื่อสื่อว่าเป็นหนึ่งในความเป็นไปได้หลายๆ อย่าง\n*   ตัวอย่าง: Why is she so late? She **might have gotten** stuck in traffic. (ทำไมเธอมาสายจัง เธออาจจะรถติดก็ได้นะ) -> เป็นการเดา ไม่รู้สาเหตุที่แท้จริง\n\n**3. แน่ใจมาก (เกือบ 100%) ว่าไม่ได้เกิดขึ้น - Strong Certainty (Negative)**\n*   **can't have + V.3** / **couldn't have + V.3** (เป็นไปไม่ได้ที่จะ.../ไม่มีทางที่จะ...ในอดีต)\n*   ใช้เมื่อเรามีหลักฐานที่ชัดเจนว่าสิ่งนั้น 'ไม่ได้' เกิดขึ้น หรือเป็นไปไม่ได้เลยที่จะเกิดขึ้น\n*   **can't have** และ **couldn't have** ความหมายเหมือนกันและใช้แทนกันได้\n*   **ข้อควรระวัง:** เราไม่ใช้ **mustn't have + V.3** ในการคาดเดาเชิงปฏิเสธ\n*   ตัวอย่าง: Tom **can't have passed** the exam. He didn't study at all. (ทอมไม่มีทางสอบผ่านหรอก เขาไม่ได้อ่านหนังสือเลย) -> หลักฐานคือการที่เขาไม่อ่านหนังสือ",
+    "examples": [
+      {
+        "eng": "The alarm is going off and I see smoke. Someone must have left the oven on.",
+        "thai": "สัญญาณเตือนภัยดังและฉันเห็นควัน ใครบางคนต้องลืมปิดเตาอบทิ้งไว้แน่ๆ (หลักฐานชัดเจน: สัญญาณเตือนและควัน)"
+      },
+      {
+        "eng": "He seems unusually cheerful today. He might have received some good news.",
+        "thai": "วันนี้เขาดูร่าเริงผิดปกติ เขาอาจจะได้รับข่าวดีอะไรมาก็ได้ (เป็นการคาดเดา ไม่ได้แน่ใจ 100%)"
+      },
+      {
+        "eng": "You can't have finished that entire book in one day; it has over 500 pages!",
+        "thai": "คุณไม่มีทางอ่านหนังสือเล่มนั้นจบทั้งเล่มในวันเดียวหรอก มันมีตั้ง 500 กว่าหน้า! (เป็นการสรุปจากความเป็นไปไม่ได้ตามหลักเหตุผล)"
+      },
+      {
+        "eng": "The valuable painting is gone from the museum, but there are no signs of forced entry. The thief could have had an inside accomplice.",
+        "thai": "ภาพวาดล้ำค่าหายไปจากพิพิธภัณฑ์ แต่ไม่มีร่องรอยการบุกรุกเลย โจรอาจจะมีผู้สมรู้ร่วมคิดอยู่ข้างในก็ได้ (เป็นหนึ่งในหลายๆ ความเป็นไปได้ที่ตำรวจกำลังพิจารณา)"
+      },
+      {
+        "eng": "Lisa isn't answering her phone. She may have already left for the airport.",
+        "thai": "ลิซ่าไม่รับโทรศัพท์เลย เธออาจจะออกเดินทางไปสนามบินแล้วก็ได้ (เป็นความเป็นไปได้หนึ่งอย่างที่เราเดาขึ้นมา)"
+      }
+    ],
+    "common_mistakes": "**1. ใช้ `mustn't have` ในการเดาเชิงปฏิเสธ:**\n*   ผิด: He looks happy. He **mustn't have failed** the exam.\n*   ถูก: He looks happy. He **can't have failed** the exam.\n*   คำอธิบาย: `mustn't` ใช้กับการสั่งห้าม (prohibition) ไม่ใช่การคาดเดา (deduction) ในอดีต ให้ใช้ `can't have` หรือ `couldn't have` แทน\n\n**2. ลืมเปลี่ยนกริยาเป็นช่องที่ 3 (V.3 / Past Participle):**\n*   ผิด: She **must have go** to bed early. She looks so refreshed.\n*   ถูก: She **must have gone** to bed early. She looks so refreshed.\n*   คำอธิบาย: โครงสร้างบังคับว่าหลัง `have` ต้องตามด้วย V.3 เสมอ\n\n**3. สับสนระหว่าง `could have + V.3` (การเดา) กับ `could have + V.3` (ความสามารถที่ไม่ได้ทำ):**\n*   การเดา: The lights are off. They **could have gone** out. (ไฟดับอยู่ พวกเขาอาจจะออกไปข้างนอกแล้วก็ได้)\n*   ความสามารถที่ไม่ได้ทำ: We **could have gone** out, but we decided to stay home. (เราไปข้างนอกก็ได้นะ แต่เราตัดสินใจอยู่บ้าน)\n*   คำอธิบาย: ความหมายขึ้นอยู่กับบริบท ต้องดูว่าผู้พูดกำลัง 'เดา' หรือกำลังพูดถึง 'ทางเลือกในอดีตที่ไม่ได้ทำ'\n\n**4. ใช้ Modal ปัจจุบัน (must, can't) กับเหตุการณ์ในอดีต:**\n*   ผิด: Look at the broken window. Someone **must break** it last night.\n*   ถูก: Look at the broken window. Someone **must have broken** it last night.\n*   คำอธิบาย: เมื่อเรากำลัง 'เดา' เกี่ยวกับ 'อดีต' ต้องใช้โครงสร้าง `modal + have + V.3` เท่านั้น",
+    "practice_questions": [
+      {
+        "question": "The final report is full of errors. The intern who wrote it ______ it very carefully.",
+        "options": [
+          "A. must have checked",
+          "B. can't have checked",
+          "C. might check",
+          "D. should have check"
+        ],
+        "answer": "B",
+        "explanation": "หลักฐานคือ 'รายงานเต็มไปด้วยข้อผิดพลาด' (full of errors) ดังนั้นเราจึงสรุปได้อย่างมั่นใจว่า 'เป็นไปไม่ได้' ที่คนฝึกงานจะตรวจสอบมันอย่างละเอียดรอบคอบ จึงใช้ can't have checked"
+      },
+      {
+        "question": "I can't find my wallet anywhere. I'm not sure, but I ______ it in the restaurant last night.",
+        "options": [
+          "A. must have left",
+          "B. couldn't leave",
+          "C. must leave",
+          "D. might have left"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคบอกว่า 'I'm not sure' (ฉันไม่แน่ใจ) แสดงถึงความเป็นไปได้ ไม่ใช่ความมั่นใจ 100% ดังนั้น 'might have left' (อาจจะลืมไว้) จึงเป็นคำตอบที่เหมาะสมที่สุด"
+      },
+      {
+        "question": "Look at how sophisticated this ancient device is. The civilization that built it ______ a deep understanding of astronomy.",
+        "options": [
+          "A. must have possessed",
+          "B. can't have possessed",
+          "C. may possess",
+          "D. shouldn't have possessed"
+        ],
+        "answer": "A",
+        "explanation": "หลักฐานคือ 'อุปกรณ์โบราณที่ซับซ้อน' (sophisticated ancient device) ทำให้เราสรุปได้อย่างมั่นใจว่าอารยธรรมนั้น 'ต้องมี' ความเข้าใจด้านดาราศาสตร์อย่างลึกซึ้งแน่ๆ จึงใช้ must have possessed"
+      },
+      {
+        "question": "James failed his driving test again. He ______ very disappointed when he heard the news.",
+        "options": [
+          "A. can't have been",
+          "B. might have been",
+          "C. must have been",
+          "D. must be"
+        ],
+        "answer": "C",
+        "explanation": "การสอบตกเป็นครั้งที่สอง (failed his driving test again) เป็นเหตุผลที่หนักแน่นมากพอที่จะสรุปได้ว่าเขา 'ต้องรู้สึก' ผิดหวังอย่างแน่นอน จึงใช้ must have been"
+      },
+      {
+        "question": "The manager seems to know nothing about the new policy. He ______ the important email that was sent out yesterday.",
+        "options": [
+          "A. must have read",
+          "B. could read",
+          "C. can't have read",
+          "D. should read"
+        ],
+        "answer": "C",
+        "explanation": "หลักฐานคือ 'ผู้จัดการดูเหมือนจะไม่รู้อะไรเลยเกี่ยวกับนโยบายใหม่' (knows nothing about the new policy) ดังนั้นจึงเป็นไปไม่ได้ที่เขาจะได้อ่านอีเมลสำคัญนั้นไปแล้ว ใช้ can't have read"
+      },
+      {
+        "question": "\"Do you know where Sarah is?\" \"I haven't seen her, but she ______ to the library to study for her finals.\"",
+        "options": [
+          "A. must go",
+          "B. can't have gone",
+          "C. could have gone",
+          "D. must have to go"
+        ],
+        "answer": "C",
+        "explanation": "ผู้พูดบอกว่า 'I haven't seen her' (ฉันไม่เห็นเธอ) แสดงว่าเป็นการคาดเดาที่เป็นไปได้อย่างหนึ่ง แต่ไม่แน่ใจ ดังนั้น 'could have gone' (อาจจะไปแล้วก็ได้) จึงเหมาะสมที่สุด"
+      },
+      {
+        "question": "You ______ seen a ghost. They aren't real!",
+        "options": [
+          "A. might have",
+          "B. must have",
+          "C. can't have",
+          "D. may have"
+        ],
+        "answer": "C",
+        "explanation": "ผู้พูดแสดงความเชื่ออย่างแรงกล้าว่าผีไม่มีจริง (They aren't real!) ดังนั้นจึงสรุปว่า 'เป็นไปไม่ได้' ที่อีกฝ่ายจะเห็นผีจริงๆ ใช้ can't have seen"
+      },
+      {
+        "question": "The project deadline was yesterday, and she looks very relaxed. She ______ her work on time.",
+        "options": [
+          "A. must have submitted",
+          "B. might submit",
+          "C. can't have submitted",
+          "D. may not submit"
+        ],
+        "answer": "A",
+        "explanation": "หลักฐานคือ 'เธอดูผ่อนคลายมาก' (she looks very relaxed) ทั้งที่เลยกำหนดส่งงานไปแล้ว ทำให้เราสรุปได้อย่างมั่นใจว่าเธอ 'ต้องส่ง' งานไปตรงเวลาแล้วแน่ๆ จึงใช้ must have submitted"
+      },
+      {
+        "question": "There's no one at the office, and all the computers are off. They ______ for the day.",
+        "options": [
+          "A. might leave",
+          "B. must have left",
+          "C. can't leave",
+          "D. could leave"
+        ],
+        "answer": "B",
+        "explanation": "หลักฐานคือ 'ไม่มีใครอยู่และคอมพิวเตอร์ปิดหมด' เป็นข้อบ่งชี้ที่ชัดเจนมากว่าทุกคน 'ต้องกลับบ้าน' ไปแล้วสำหรับวันนี้ จึงใช้ must have left"
+      },
+      {
+        "question": "My cat's food bowl is still full. She ______ hungry this morning.",
+        "options": [
+          "A. must have been",
+          "B. might have been",
+          "C. couldn't have been",
+          "D. must not be"
+        ],
+        "answer": "C",
+        "explanation": "หลักฐานคือ 'ชามอาหารยังเต็มอยู่' (food bowl is still full) ทำให้เราสรุปได้อย่างมั่นใจว่า 'เป็นไปไม่ได้' ที่แมวจะหิวเมื่อเช้านี้ (เพราะถ้าหิวมันต้องกินไปแล้ว) จึงใช้ couldn't have been"
+      }
+    ]
+  },
+  {
+    "id": "22_3",
+    "title": "22.3 Lack of Necessity (needn't, don't have to)",
+    "explanation": "ในหัวข้อนี้ เราจะเรียนรู้ Modal Verbs ที่ใช้แสดง 'การไม่มีความจำเป็น' (Lack of Necessity) ซึ่งคนไทยมักสับสนกับ 'การห้าม' (Prohibition) อยู่บ่อยครั้ง\n\n1. **Don't have to / Doesn't have to (Present)**\n   - ใช้เพื่อบอกว่าสิ่งนั้น 'ไม่จำเป็นต้องทำ' แต่ถ้าอยากจะทำก็ทำได้ ไม่ได้ห้าม\n   - เป็นการบอกเล่าตามข้อเท็จจริง, กฎ, หรือสถานการณ์ภายนอก\n   - เป็นรูปแบบที่ใช้บ่อยที่สุดและเป็นธรรมชาติที่สุดในภาษาอังกฤษปัจจุบัน\n   - โครงสร้าง: Subject + don't/doesn't have to + Verb (infinitive)\n   - ตัวอย่าง: You don't have to pay for the coffee; it's free. (คุณไม่จำเป็นต้องจ่ายค่ากาแฟนะ มันฟรี)\n\n2. **Needn't (Present)**\n   - มีความหมายเหมือน `don't have to` คือ 'ไม่จำเป็นต้องทำ'\n   - `needn't` มักจะมีความรู้สึกส่วนตัวของผู้พูดเข้ามาเกี่ยวข้อง ว่าผู้พูดเห็นว่าสิ่งนั้นไม่จำเป็น\n   - เป็นทางการกว่าและพบบ่อยใน British English มากกว่า American English\n   - โครงสร้าง: Subject + needn't + Verb (infinitive) (ไม่มี to)\n   - ตัวอย่าง: You needn't worry about me. I'll be fine. (คุณไม่จำเป็นต้องเป็นห่วงฉันหรอก ฉันจะโอเค)\n\n3. **Didn't have to (Past)**\n   - ใช้พูดถึงอดีตที่ 'ไม่จำเป็นต้องทำสิ่งใดสิ่งหนึ่ง' และผู้พูดก็ 'ไม่ได้ทำ' สิ่งนั้นจริงๆ\n   - เน้นว่าไม่มีความจำเป็นเกิดขึ้นตั้งแต่แรก\n   - โครงสร้าง: Subject + didn't have to + Verb (infinitive)\n   - ตัวอย่าง: The train was on time, so we didn't have to run. (รถไฟมาตรงเวลา พวกเราเลยไม่จำเป็นต้องวิ่ง (และก็ไม่ได้วิ่ง))\n\n4. **Needn't have + Past Participle (V3) (Past)**\n   - ใช้พูดถึงอดีตที่ 'ไม่จำเป็นต้องทำสิ่งใดสิ่งหนึ่ง' แต่ผู้พูด 'ได้ทำสิ่งนั้นไปแล้ว' โดยเปล่าประโยชน์\n   - เป็นการแสดงความเสียดายหรือรู้สึกว่าเสียเวลาทำไปโดยใช่เหตุ\n   - โครงสร้าง: Subject + needn't have + Verb (past participle / V3)\n   - ตัวอย่าง: I needn't have cooked so much food. Nobody was hungry. (ฉันไม่น่าทำอาหารเยอะขนาดนี้เลย ไม่มีใครหิวเลย (แต่ฉันทำไปแล้ว))",
+    "examples": [
+      {
+        "eng": "Since the office has a casual dress code, he doesn't have to wear a suit and tie.",
+        "thai": "เนื่องจากที่ออฟฟิศมีกฎการแต่งตัวแบบไม่เป็นทางการ เขาจึงไม่จำเป็นต้องใส่สูทและเนคไท (เป็นการบอกเล่าตามกฎของบริษัท)"
+      },
+      {
+        "eng": "You needn't take off your shoes. The floor is already a bit dirty.",
+        "thai": "คุณไม่จำเป็นต้องถอดรองเท้าก็ได้ พื้นมันค่อนข้างสกปรกอยู่แล้ว (ผู้พูดให้ทางเลือกจากความเห็นส่วนตัว)"
+      },
+      {
+        "eng": "My boss postponed the deadline, so I didn't have to work all night to finish the project.",
+        "thai": "เจ้านายของฉันเลื่อนเดดไลน์ออกไป ฉันเลยไม่จำเป็นต้องทำงานทั้งคืนเพื่อทำโปรเจกต์ให้เสร็จ (และฉันก็ไม่ได้ทำ)"
+      },
+      {
+        "eng": "You needn't have bought a ticket for the concert; I had a spare one for you.",
+        "thai": "คุณไม่น่าซื้อตั๋วคอนเสิร์ตมาเลย ฉันมีตั๋วสำรองให้คุณใบหนึ่ง (แต่คุณซื้อมาแล้ว เสียเงินฟรี)"
+      }
+    ],
+    "common_mistakes": "จุดที่คนไทยมักทำผิด (Common Mistakes)\n\n1. **สับสนระหว่าง 'Don't have to' (ไม่จำเป็น) กับ 'Mustn't' (ห้ามทำเด็ดขาด)**\n   - ผิด: You mustn't pay to enter. It's a free event. (X)\n   - ถูก: You don't have to pay to enter. It's a free event. (✓) (คุณไม่จำเป็นต้องจ่ายค่าเข้า มันเป็นงานฟรี)\n   - `Mustn't` แปลว่า 'ห้าม' เช่น You mustn't smoke here. (คุณห้ามสูบบุหรี่ที่นี่) เป็นกฎที่ต้องปฏิบัติตามอย่างเคร่งครัด\n\n2. **สับสนระหว่าง 'Didn't have to' กับ 'Needn't have + V3'**\n   - นี่คือจุดที่ท้าทายที่สุดสำหรับระดับ B1-B2 ต้องจำให้แม่นว่า:\n   - `Didn't have to` = ไม่จำเป็น และ ไม่ได้ทำ\n   - `Needn't have done` = ไม่จำเป็น แต่ ดันทำไปแล้ว\n   - ตัวอย่าง: I **didn't have to** wake up early. (ฉันไม่จำเป็นต้องตื่นเช้า (ฉันเลยนอนต่อ))\n   - ตัวอย่าง: I **needn't have** woken up early. (ฉันไม่น่าตื่นเช้าเลย (แต่ดันตื่นมาแล้ว))\n\n3. **ใช้ 'to' ตามหลัง 'needn't'**\n   - `needn't` เป็น Modal Verb ดังนั้นต้องตามด้วย Verb infinitive ที่ไม่มี to\n   - ผิด: You needn't to worry. (X)\n   - ถูก: You needn't worry. (✓)",
+    "practice_questions": [
+      {
+        "question": "The museum entrance is free for students, so you ______ pay.",
+        "options": [
+          "A. mustn't",
+          "B. don't have to",
+          "C. couldn't",
+          "D. shouldn't"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคบอกว่าค่าเข้าชมพิพิธภัณฑ์ฟรีสำหรับนักเรียน ดังนั้น 'คุณไม่จำเป็นต้องจ่าย' ซึ่งตรงกับความหมายของ don't have to (lack of necessity) ส่วน mustn't หมายถึง 'ห้าม' ซึ่งไม่ถูกต้องในบริบทนี้"
+      },
+      {
+        "question": "I bought a huge cake for the party, but only three people came. I ______ so much.",
+        "options": [
+          "A. didn't have to buy",
+          "B. mustn't have bought",
+          "C. needn't have bought",
+          "D. couldn't buy"
+        ],
+        "answer": "C",
+        "explanation": "ผู้พูดได้ซื้อเค้กมาแล้ว (I bought a huge cake) แต่มีคนมางานน้อยมาก แสดงว่าเป็นการกระทำในอดีตที่ไม่จำเป็นแต่ได้ทำไปแล้ว จึงต้องใช้ needn't have + V3 (needn't have bought) เพื่อสื่อว่า 'ไม่น่าซื้อมาเยอะขนาดนี้เลย'"
+      },
+      {
+        "question": "The weather forecast was wrong. It didn't rain, so you ______ your umbrella all the way here.",
+        "options": [
+          "A. needn't have carried",
+          "B. didn't have to carry",
+          "C. must not carry",
+          "D. can't have carried"
+        ],
+        "answer": "A",
+        "explanation": "จากบริบท 'you ... your umbrella all the way here' แสดงว่าผู้ฟังได้พกร่มมาแล้ว แต่ฝนไม่ตก การพกร่มมาจึงเป็นการกระทำที่ไม่จำเป็นแต่ได้ทำไปแล้ว จึงใช้ needn't have carried"
+      },
+      {
+        "question": "Because my flight was delayed, I ______ to the airport so early.",
+        "options": [
+          "A. needn't have rushed",
+          "B. didn't have to rush",
+          "C. mustn't rush",
+          "D. couldn't have rushed"
+        ],
+        "answer": "A",
+        "explanation": "การที่ผู้พูดพูดประโยคนี้ แสดงว่าเขาได้รีบไปถึงสนามบินแล้ว (rushed) แต่เมื่อไปถึงก็พบว่าเครื่องบินดีเลย์ การรีบจึงกลายเป็นสิ่งที่ไม่จำเป็นแต่ได้ทำไปแล้ว ดังนั้นจึงต้องใช้ needn't have rushed"
+      },
+      {
+        "question": "This is a brainstorming session, so you ______ worry about your ideas being perfect. Just share anything that comes to mind.",
+        "options": [
+          "A. needn't",
+          "B. mustn't",
+          "C. can't",
+          "D. might not"
+        ],
+        "answer": "A",
+        "explanation": "ผู้พูดกำลังให้คำแนะนำว่า 'คุณไม่จำเป็นต้องกังวล' เกี่ยวกับไอเดียของคุณ ซึ่งเป็นการแสดงความเห็นส่วนตัวเพื่อให้ผู้ฟังรู้สึกสบายใจ `needn't worry` จึงเหมาะสมที่สุด `mustn't worry` จะแรงเกินไปเหมือนเป็นคำสั่งห้าม"
+      },
+      {
+        "question": "Fortunately, the traffic was light this morning, so we ______ after all.",
+        "options": [
+          "A. needn't have hurried",
+          "B. didn't need to hurry",
+          "C. mustn't hurry",
+          "D. couldn't hurry"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคบอกว่าโชคดีที่รถไม่ติด ดังนั้นพวกเราจึง 'ไม่จำเป็นต้องรีบ' และจากคำว่า 'after all' (ในท้ายที่สุด) สื่อว่าพวกเราก็ไม่ได้รีบกันจริงๆ การกระทำนั้นไม่จำเป็นและไม่ได้เกิดขึ้น จึงใช้ didn't need to hurry หรือ didn't have to hurry"
+      },
+      {
+        "question": "The new software automatically saves your work every five minutes, so you ______ to click the save button constantly.",
+        "options": [
+          "A. mustn't",
+          "B. can't",
+          "C. don't have",
+          "D. don't have to"
+        ],
+        "answer": "D",
+        "explanation": "ซอฟต์แวร์ใหม่บันทึกงานอัตโนมัติ ดังนั้น 'คุณไม่จำเป็นต้อง' กดปุ่มเซฟตลอดเวลา ซึ่งเป็นการบอกเล่าตามข้อเท็จจริงของสถานการณ์ ใช้ don't have to + Verb (infinitive) ในที่นี้คือ click ส่วน don't have เฉยๆ ผิดไวยากรณ์"
+      },
+      {
+        "question": "You ______ submit the report today; the absolute deadline is this Friday.",
+        "options": [
+          "A. don't have to",
+          "B. mustn't",
+          "C. can't",
+          "D. may not"
+        ],
+        "answer": "A",
+        "explanation": "เดดไลน์ที่แท้จริงคือวันศุกร์ ดังนั้น 'คุณไม่จำเป็นต้อง' ส่งรายงานวันนี้ แต่ถ้าจะส่งก็ทำได้ ประโยคนี้แสดงถึงการไม่มีความจำเป็น (lack of necessity) จึงใช้ don't have to"
+      },
+      {
+        "question": "I already washed all the dishes while you were out. You ______ them.",
+        "options": [
+          "A. needn't have touched",
+          "B. didn't have to touch",
+          "C. needn't touch",
+          "D. mustn't have touched"
+        ],
+        "answer": "C",
+        "explanation": "ผู้พูดกำลังบอกคู่สนทนาในสถานการณ์ปัจจุบันว่า 'คุณไม่จำเป็นต้องไปยุ่ง (ล้างจาน)' เพราะฉันล้างไปหมดแล้ว `needn't touch` สื่อถึงความไม่จำเป็น ณ ขณะที่พูด ส่วนข้อ A และ B เป็นเรื่องในอดีต"
+      },
+      {
+        "question": "He found his keys in his pocket, so in the end, he ______ a locksmith.",
+        "options": [
+          "A. needn't have called",
+          "B. didn't have to call",
+          "C. mustn't call",
+          "D. couldn't call"
+        ],
+        "answer": "B",
+        "explanation": "เขาเจอกุญแจในกระเป๋าของเขาเอง ดังนั้น 'เขาจึงไม่จำเป็นต้องโทรหาช่างทำกุญแจ' และจากบริบทคือเขาก็คงไม่ได้โทรจริงๆ เพราะเจอกุญแจก่อน การกระทำนั้นไม่จำเป็นและไม่ได้เกิดขึ้นในอดีต จึงใช้ didn't have to call"
+      }
+    ]
+  },
+  {
+    "id": "22_4",
+    "title": "22.4 Summary: Advanced Modals (สรุปกริยาช่วยขั้นสูง + 50 Exercises)",
+    "explanation": "สรุป Modals of Deduction (กริยาช่วยแสดงการคาดคะเน)\n\nModals of Deduction ใช้เพื่อคาดเดาหรือสรุปเกี่ยวกับบางสิ่งบางอย่างโดยอาศัยหลักฐานหรือข้อมูลที่มีอยู่ โดยระดับความมั่นใจจะแตกต่างกันไปตาม Modal ที่ใช้\n\n1. **การคาดคะเนในปัจจุบัน (Present Deduction)**\n   - **Must + V.1**: แน่ใจมากๆ (95%) ว่าเป็นจริง เพราะมีหลักฐานชัดเจน\n     * เช่น: The lights are on. They *must be* home. (ไฟเปิดอยู่ พวกเขาต้องอยู่บ้านแน่ๆ)\n   - **Can't + V.1**: แน่ใจมากๆ (95%) ว่าไม่เป็นจริง (เป็นรูปปฏิเสธของ must)\n     * เช่น: He just ate a huge lunch. He *can't be* hungry again. (เขาเพิ่งกินมื้อเที่ยงชุดใหญ่ไป เขาจะหิวอีกครั้งไม่ได้หรอก)\n   - **Could / May / Might + V.1**: ไม่แน่ใจ (30-50%) อาจจะใช่หรือไม่ใช่ก็ได้\n     * เช่น: I'm not sure where Sarah is. She *might be* in the library. (ฉันไม่แน่ใจว่าซาร่าห์อยู่ไหน เธออาจจะอยู่ในห้องสมุด)\n\n2. **การคาดคะเนในอดีต (Past Deduction)**\n   - **Must have + V.3**: แน่ใจมากๆ (95%) ว่าเกิดขึ้นในอดีต\n     * เช่น: The ground is wet. It *must have rained* last night. (พื้นเปียก เมื่อคืนฝนต้องตกแน่ๆ)\n   - **Can't have + V.3**: แน่ใจมากๆ (95%) ว่าไม่ได้เกิดขึ้นในอดีต\n     * เช่น: She looks so happy. She *can't have failed* the exam. (เธอดูมีความสุขมาก เธอต้องสอบไม่ตกแน่ๆ)\n   - **Could / May / Might have + V.3**: ไม่แน่ใจ (30-50%) ว่าเกิดขึ้นในอดีตหรือไม่\n     * เช่น: Why didn't Tom answer the phone? He *might have been* sleeping. (ทำไมทอมไม่รับโทรศัพท์ เขาอาจจะกำลังหลับอยู่ก็ได้)\n\n**หัวใจสำคัญ**: จำโครงสร้างให้แม่น Present: `modal + V.1` | Past: `modal + have + V.3` และเลือกระดับความมั่นใจให้ถูกสถานการณ์",
+    "examples": [
+      {
+        "eng": "Look at his new sports car! He must have received a big bonus.",
+        "thai": "ดูรถสปอร์ตคันใหม่ของเขาสิ! เขาต้องได้รับโบนัสก้อนโตแน่ๆ เลย (คาดเดาเรื่องในอดีตอย่างมั่นใจจากหลักฐานคือรถคันใหม่)"
+      },
+      {
+        "eng": "She isn't answering her phone. She might be in a meeting.",
+        "thai": "เธอไม่รับโทรศัพท์ เธออาจจะกำลังประชุมอยู่ก็ได้ (คาดเดาเรื่องในปัจจุบันแบบไม่มั่นใจ)"
+      },
+      {
+        "eng": "That movie can't be very good. The cinema is almost empty.",
+        "thai": "หนังเรื่องนั้นต้องไม่ดีแน่ๆ เลย โรงหนังเกือบจะว่างเปล่า (คาดเดาในปัจจุบันอย่างมั่นใจว่าไม่จริงจากหลักฐาน)"
+      },
+      {
+        "eng": "I can't find my wallet. I could have left it in the restaurant.",
+        "thai": "ฉันหากระเป๋าตังค์ไม่เจอ ฉันอาจจะลืมมันไว้ที่ร้านอาหารก็ได้ (คาดเดาความเป็นไปได้ในอดีตแบบไม่แน่ใจ)"
+      }
+    ],
+    "common_mistakes": "1. **สับสนระหว่าง Can't กับ Mustn't**: คนไทยมักใช้ mustn't ในการคาดเดา ซึ่งผิด\n   - **ผิด**: He *mustn't be* Spanish. His accent is Italian.\n   - **ถูก**: He *can't be* Spanish. His accent is Italian. (เขาต้องไม่ใช่คนสเปนแน่ๆ สำเนียงเขาเป็นแบบอิตาเลียน)\n   *จำไว้ว่า: `mustn't` แปลว่า 'ต้องไม่ทำ' (ห้าม) ส่วน `can't` ใช้ในการคาดเดาว่า 'เป็นไปไม่ได้'*\n\n2. **ใช้กริยาผิดรูปหลัง Modal ในอดีต**: ลืมใช้ V.3 หลัง have\n   - **ผิด**: She *must have went* to the party.\n   - **ถูก**: She *must have gone* to the party. (เธอต้องไปงานปาร์ตี้มาแน่ๆ)\n\n3. **ใช้ Modal ของปัจจุบันกับเหตุการณ์ในอดีต**: ลืมเปลี่ยนโครงสร้างเป็น `have + V.3`\n   - **ผิด**: I didn't see him yesterday. He *must be* sick.\n   - **ถูก**: I didn't see him yesterday. He *must have been* sick. (ฉันไม่เจอเขาเมื่อวานนี้ เขาต้องป่วยแน่ๆ เลย)\n\n4. **สับสนระหว่าง May กับ May be**: `May` เป็นกริยาช่วย ต้องตามด้วย V.1 ส่วน `Maybe` เป็น adverb แปลว่า 'บางที' มักจะวางไว้ต้นประโยค\n   - **ถูก**: He *may be* late. (เขาอาจจะมาสาย)\n   - **ถูก**: *Maybe* he is late. (บางทีเขาอาจจะมาสาย)\n   - **ผิด**: He *maybe* late.",
+    "practice_questions": [
+      {
+        "question": "The lights in their house are off. They _______ be at home right now.",
+        "options": [
+          "A. must",
+          "B. must not",
+          "C. can't",
+          "D. might"
+        ],
+        "answer": "C",
+        "explanation": "หลักฐานคือ 'ไฟปิด' ดังนั้นเราจึงคาดเดาอย่างมั่นใจว่าพวกเขา 'ต้องไม่อยู่' บ้านแน่ๆ ใช้ can't สำหรับการคาดเดาว่าไม่เป็นจริง"
+      },
+      {
+        "question": "I can't find my keys anywhere. I _______ have dropped them in the car.",
+        "options": [
+          "A. must",
+          "B. can't",
+          "C. might",
+          "D. will"
+        ],
+        "answer": "C",
+        "explanation": "ผู้พูดไม่แน่ใจว่าทำกุญแจหายที่ไหน จึงใช้ might have + V.3 เพื่อแสดงความเป็นไปได้ในอดีตว่า 'อาจจะ' ทำตกไว้ในรถ"
+      },
+      {
+        "question": "Jessica got the highest score on the test. She _______ have studied very hard.",
+        "options": [
+          "A. must",
+          "B. can't",
+          "C. may not",
+          "D. shouldn't"
+        ],
+        "answer": "A",
+        "explanation": "การได้คะแนนสูงสุดเป็นหลักฐานที่ชัดเจน ทำให้เราคาดเดาอย่างมั่นใจว่าเธอ 'ต้อง' อ่านหนังสือมาหนักมากแน่ๆ (must have + V.3)"
+      },
+      {
+        "question": "The ground is all wet this morning. It _______ last night.",
+        "options": [
+          "A. can't rain",
+          "B. must have rained",
+          "C. might rain",
+          "D. must be raining"
+        ],
+        "answer": "B",
+        "explanation": "พื้นเปียกในตอนเช้าเป็นหลักฐานของเหตุการณ์ในอดีต (เมื่อคืน) ดังนั้นเราจึงสรุปอย่างมั่นใจว่าฝน 'ต้องตก' แน่ๆ ใช้ must have rained"
+      },
+      {
+        "question": "He looks very tired. He _______ have slept well.",
+        "options": [
+          "A. must",
+          "B. can't",
+          "C. should",
+          "D. might"
+        ],
+        "answer": "B",
+        "explanation": "ท่าทางที่ดูเหนื่อยมากเป็นหลักฐานว่า 'เป็นไปไม่ได้' ที่เขาจะนอนหลับได้ดี ใช้ can't have + V.3"
+      },
+      {
+        "question": "Someone is knocking on the door. It _______ be the delivery person with my package.",
+        "options": [
+          "A. can't",
+          "B. must have",
+          "C. could",
+          "D. shouldn't have"
+        ],
+        "answer": "C",
+        "explanation": "เราไม่แน่ใจว่าใครมาเคาะประตู แต่มีความเป็นไปได้ว่าเป็นคนส่งของ จึงใช้ could, might หรือ may เพื่อแสดงความไม่แน่นอนในปัจจุบัน"
+      },
+      {
+        "question": "You _______ have seen me at the party last night. I was at home sick.",
+        "options": [
+          "A. must",
+          "B. might",
+          "C. can't",
+          "D. could"
+        ],
+        "answer": "C",
+        "explanation": "ผู้พูดบอกว่าตัวเองป่วยอยู่บ้าน ดังนั้นจึงเป็นไปไม่ได้ที่คุณจะเห็นเขาที่งานปาร์ตี้ ใช้ can't have + V.3"
+      },
+      {
+        "question": "The final project is due tomorrow, and I haven't started. The teacher _______ be happy.",
+        "options": [
+          "A. must",
+          "B. won't",
+          "C. might",
+          "D. can't"
+        ],
+        "answer": "B",
+        "explanation": "ในบริบทนี้ การคาดเดาเกี่ยวกับอนาคตที่ค่อนข้างแน่นอน สามารถใช้ won't (will not) ได้ ซึ่งให้ความหมายคล้ายกับ 'must not' ในเชิงตรรกะว่าครู 'จะไม่มีทาง' พอใจแน่ๆ"
+      },
+      {
+        "question": "I don't know why she's not here yet. She _______ have gotten stuck in traffic.",
+        "options": [
+          "A. must",
+          "B. may",
+          "C. can't",
+          "D. has to"
+        ],
+        "answer": "B",
+        "explanation": "เป็นเพียงการคาดเดาถึงสาเหตุที่เป็นไปได้ในอดีตแบบไม่แน่ใจ จึงใช้ may have + V.3 (หรือ might/could have)"
+      },
+      {
+        "question": "That man is wearing a very expensive watch. He _______ have a lot of money.",
+        "options": [
+          "A. must",
+          "B. can't",
+          "C. might not",
+          "D. shouldn't"
+        ],
+        "answer": "A",
+        "explanation": "นาฬิกาแพงเป็นหลักฐานที่ทำให้เราคาดเดาอย่างมั่นใจว่าเขา 'ต้อง' มีเงินเยอะแน่ๆ (คาดเดาในปัจจุบัน)"
+      },
+      {
+        "question": "The museum is closed today. You _______ checked the opening hours online before you came.",
+        "options": [
+          "A. must have",
+          "B. could have",
+          "C. can't have",
+          "D. would have"
+        ],
+        "answer": "B",
+        "explanation": "Could have + V.3 ในที่นี้ใช้เพื่อพูดถึงทางเลือกในอดีตที่ไม่ได้ทำ (past possibility that didn't happen) ซึ่งมีความหมายเชิงแนะนำหรือเสียดายว่า 'คุณน่าจะเช็ค' เวลาเปิดก่อนมา"
+      },
+      {
+        "question": "I called him five times, but there was no answer. His phone _______ been turned off.",
+        "options": [
+          "A. must have",
+          "B. can't have",
+          "C. should have",
+          "D. would have"
+        ],
+        "answer": "A",
+        "explanation": "การโทรไป 5 ครั้งแล้วไม่รับเป็นหลักฐานที่หนักแน่นว่าโทรศัพท์ของเขา 'ต้อง' ปิดเครื่องอยู่แน่ๆ (คาดเดาในอดีต)"
+      },
+      {
+        "question": "He speaks French fluently. He _______ have lived in France for a while.",
+        "options": [
+          "A. can't",
+          "B. might",
+          "C. shouldn't",
+          "D. must"
+        ],
+        "answer": "D",
+        "explanation": "การพูดภาษาฝรั่งเศสคล่องเป็นหลักฐานชัดเจนว่าเขา 'ต้อง' เคยอาศัยอยู่ในฝรั่งเศสมาสักพัก (must have + V.3)"
+      },
+      {
+        "question": "Sarah seemed very upset after the phone call. It _______ have been good news.",
+        "options": [
+          "A. must",
+          "B. could",
+          "C. can't",
+          "D. might"
+        ],
+        "answer": "C",
+        "explanation": "การที่ซาร่าห์ดูอารมณ์เสียเป็นหลักฐานว่าข่าวนั้น 'เป็นไปไม่ได้' ที่จะเป็นข่าวดี (can't have + V.3)"
+      },
+      {
+        "question": "I'm not sure, but I think I _______ have left my umbrella on the bus.",
+        "options": [
+          "A. must",
+          "B. can't",
+          "C. may",
+          "D. have to"
+        ],
+        "answer": "C",
+        "explanation": "วลี 'I'm not sure' บอกเราว่าผู้พูดไม่มั่นใจ ดังนั้นจึงใช้ may have + V.3 เพื่อแสดงความเป็นไปได้ในอดีต"
+      },
+      {
+        "question": "You just traveled for 24 hours straight. You _______ be exhausted.",
+        "options": [
+          "A. might",
+          "B. must",
+          "C. can't",
+          "D. should"
+        ],
+        "answer": "B",
+        "explanation": "การเดินทาง 24 ชั่วโมงเป็นเหตุผลที่หนักแน่นในการสรุปว่าคุณ 'ต้อง' เหนื่อยมากแน่ๆ (คาดเดาในปัจจุบัน)"
+      },
+      {
+        "question": "The package arrived this morning, but my roommate was home all day. He _______ have heard the doorbell.",
+        "options": [
+          "A. must",
+          "B. might not",
+          "C. can't",
+          "D. should"
+        ],
+        "answer": "C",
+        "explanation": "ถ้าเพื่อนร่วมห้องอยู่บ้านทั้งวัน 'เป็นไปไม่ได้' ที่เขาจะไม่ได้ยินเสียงกริ่งประตู (can't have + V.3)"
+      },
+      {
+        "question": "Look at the mess in the kitchen! The children _______ been playing here.",
+        "options": [
+          "A. can't have",
+          "B. must have",
+          "C. might not have",
+          "D. should have"
+        ],
+        "answer": "B",
+        "explanation": "สภาพครัวที่เละเทะเป็นหลักฐานชัดเจนว่าพวกเด็กๆ 'ต้อง' มาเล่นที่นี่แน่ๆ (must have + V.3)"
+      },
+      {
+        "question": "A: 'Where is David?' B: 'I don't know. He _______ be in his office.'",
+        "options": [
+          "A. must",
+          "B. can't",
+          "C. may",
+          "D. has to"
+        ],
+        "answer": "C",
+        "explanation": "ผู้ตอบไม่รู้แน่นอน จึงใช้ may (หรือ might/could) เพื่อคาดเดาความเป็นไปได้ในปัจจุบันว่าเขา 'อาจจะ' อยู่ในออฟฟิศ"
+      },
+      {
+        "question": "This _______ be the right address. The GPS says we're here, but the house looks completely different.",
+        "options": [
+          "A. must",
+          "B. could",
+          "C. can't",
+          "D. should"
+        ],
+        "answer": "C",
+        "explanation": "บ้านที่ดูแตกต่างจากที่คิดเป็นหลักฐานว่านี่ 'ต้องไม่ใช่' ที่อยู่ที่ถูกต้องแน่ๆ"
+      },
+      {
+        "question": "He failed the exam, although he's a brilliant student. He _______ have been feeling unwell on that day.",
+        "options": [
+          "A. must",
+          "B. must not",
+          "C. can't",
+          "D. might"
+        ],
+        "answer": "D",
+        "explanation": "เราไม่รู้สาเหตุที่แน่ชัดว่าทำไมเขาถึงสอบตก จึงใช้ might have + V.3 เพื่อคาดเดาความเป็นไปได้ในอดีตว่าเขา 'อาจจะ' ไม่สบายในวันนั้น"
+      },
+      {
+        "question": "She didn't mention the trip at all. She _______ have forgotten about it.",
+        "options": [
+          "A. can't",
+          "B. could",
+          "C. must",
+          "D. will"
+        ],
+        "answer": "B",
+        "explanation": "การที่เธอไม่พูดถึงทริปเลย ทำให้เราคาดเดาอย่างไม่แน่ใจว่าเธอ 'อาจจะ' ลืมไปแล้วก็ได้ ใช้ could have + V.3"
+      },
+      {
+        "question": "The thief _______ have entered through the window; it's too small for a person to fit through.",
+        "options": [
+          "A. must",
+          "B. can't",
+          "C. might",
+          "D. should"
+        ],
+        "answer": "B",
+        "explanation": "หน้าต่างที่เล็กเกินไปเป็นหลักฐานที่ทำให้สรุปว่า 'เป็นไปไม่ได้' ที่ขโมยจะเข้ามาทางนั้น (can't have + V.3)"
+      },
+      {
+        "question": "That restaurant _______ be very popular. There's always a long queue outside.",
+        "options": [
+          "A. can't",
+          "B. might not",
+          "C. must",
+          "D. shouldn't"
+        ],
+        "answer": "C",
+        "explanation": "การมีคิวยาวตลอดเวลาเป็นหลักฐานที่ชัดเจนว่าร้านอาหารนั้น 'ต้อง' ได้รับความนิยมมากแน่ๆ"
+      },
+      {
+        "question": "He _______ have understood the instructions because he did the exact opposite of what I asked.",
+        "options": [
+          "A. must",
+          "B. could",
+          "C. can't",
+          "D. might"
+        ],
+        "answer": "C",
+        "explanation": "การที่เขาทำตรงกันข้ามกับที่บอก แสดงว่า 'เป็นไปไม่ได้' ที่เขาจะเข้าใจคำสั่ง (can't have + V.3)"
+      },
+      {
+        "question": "My plant is dying. I _______ have been giving it too much water.",
+        "options": [
+          "A. can't",
+          "B. might",
+          "C. must not",
+          "D. shouldn't"
+        ],
+        "answer": "B",
+        "explanation": "ผู้พูดไม่แน่ใจว่าทำไมต้นไม้ถึงกำลังจะตาย จึงคาดเดาถึงสาเหตุที่เป็นไปได้ในอดีตว่า 'อาจจะ' รดน้ำมากเกินไป (might have + V.3)"
+      },
+      {
+        "question": "He's shivering. He _______ be very cold without a jacket.",
+        "options": [
+          "A. can't",
+          "B. must",
+          "C. may not",
+          "D. will not"
+        ],
+        "answer": "B",
+        "explanation": "อาการสั่นเป็นหลักฐานที่ชัดเจนว่าเขา 'ต้อง' หนาวมากแน่ๆ"
+      },
+      {
+        "question": "The author _______ have spent years researching this book; it's incredibly detailed.",
+        "options": [
+          "A. must",
+          "B. can't",
+          "C. might not",
+          "D. shouldn't"
+        ],
+        "answer": "A",
+        "explanation": "รายละเอียดที่น่าทึ่งในหนังสือเป็นหลักฐานว่าผู้เขียน 'ต้อง' ใช้เวลาค้นคว้ามาหลายปีแน่ๆ (must have + V.3)"
+      },
+      {
+        "question": "They arrived an hour ago, but I don't see their car. They _______ have come by taxi.",
+        "options": [
+          "A. can't",
+          "B. might",
+          "C. must not",
+          "D. will"
+        ],
+        "answer": "B",
+        "explanation": "การที่ไม่มีรถจอดอยู่ทำให้เราคาดเดาความเป็นไปได้ในอดีตว่าพวกเขา 'อาจจะ' มาแท็กซี่ก็ได้ (might have + V.3)"
+      },
+      {
+        "question": "That _______ be John's brother. They look exactly alike.",
+        "options": [
+          "A. must",
+          "B. can't",
+          "C. might not",
+          "D. isn't"
+        ],
+        "answer": "A",
+        "explanation": "การที่หน้าตาเหมือนกันเป๊ะเป็นหลักฐานที่ชัดเจนว่านั่น 'ต้อง' เป็นน้องชายของจอห์นแน่ๆ"
+      },
+      {
+        "question": "You _______ be serious! You can't possibly want to climb that mountain in this weather.",
+        "options": [
+          "A. must",
+          "B. could",
+          "C. can't",
+          "D. might"
+        ],
+        "answer": "C",
+        "explanation": "เป็นสำนวนแสดงความไม่เชื่อ 'คุณต้องไม่ได้พูดจริงแน่ๆ!' ใช้ can't เพื่อบอกว่าเป็นไปไม่ได้"
+      },
+      {
+        "question": "It's a very famous painting. It _______ be worth a fortune.",
+        "options": [
+          "A. must",
+          "B. can't",
+          "C. may not",
+          "D. wouldn't"
+        ],
+        "answer": "A",
+        "explanation": "การเป็นภาพวาดที่มีชื่อเสียงมากทำให้เราสรุปได้อย่างมั่นใจว่ามัน 'ต้อง' มีมูลค่ามหาศาล"
+      },
+      {
+        "question": "I heard a noise downstairs. Someone _______ be in the house.",
+        "options": [
+          "A. must have",
+          "B. might",
+          "C. can't",
+          "D. will"
+        ],
+        "answer": "B",
+        "explanation": "เสียงที่ได้ยินทำให้เกิดความเป็นไปได้ว่ามีคนอยู่ในบ้าน แต่เราไม่แน่ใจ จึงใช้ might (หรือ could/may) เพื่อคาดเดา"
+      },
+      {
+        "question": "She _______ have known we were coming. She prepared all our favorite dishes.",
+        "options": [
+          "A. can't",
+          "B. might not",
+          "C. must",
+          "D. could"
+        ],
+        "answer": "C",
+        "explanation": "การเตรียมอาหารจานโปรดของทุกคนไว้เป็นหลักฐานที่ชัดเจนว่าเธอ 'ต้อง' รู้ล่วงหน้าว่าเราจะมา (must have + V.3)"
+      },
+      {
+        "question": "It _______ have been an easy decision for them to make.",
+        "options": [
+          "A. can't",
+          "B. must",
+          "C. might",
+          "D. should"
+        ],
+        "answer": "A",
+        "explanation": "Can't have been + adj ใช้เพื่อบอกว่ามัน 'เป็นไปไม่ได้' ที่จะเป็น... ในที่นี้คือ 'มันต้องไม่ใช่การตัดสินใจที่ง่ายสำหรับพวกเขาแน่ๆ'"
+      },
+      {
+        "question": "The file is not on my computer. I _______ have forgotten to save it.",
+        "options": [
+          "A. can't",
+          "B. must",
+          "C. should",
+          "D. wouldn't"
+        ],
+        "answer": "B",
+        "explanation": "การที่ไฟล์ไม่อยู่ในคอมพิวเตอร์เป็นหลักฐานที่ทำให้สรุปอย่างมั่นใจว่า 'ต้อง' ลืมเซฟแน่ๆ (must have + V.3)"
+      },
+      {
+        "question": "The dog is barking at something in the garden. It _______ be a squirrel.",
+        "options": [
+          "A. can't",
+          "B. must have",
+          "C. could",
+          "D. shouldn't"
+        ],
+        "answer": "C",
+        "explanation": "เราไม่เห็นว่าสุนัขเห่าอะไร จึงคาดเดาถึงความเป็นไปได้ว่ามัน 'อาจจะ' เป็นกระรอกก็ได้ ใช้ could"
+      },
+      {
+        "question": "He has a strong tan. He _______ have just returned from a beach holiday.",
+        "options": [
+          "A. can't",
+          "B. might not",
+          "C. must",
+          "D. will"
+        ],
+        "answer": "C",
+        "explanation": "ผิวสีแทนเข้มเป็นหลักฐานว่าเขา 'ต้อง' เพิ่งกลับมาจากพักร้อนที่ชายหาดแน่ๆ (must have + V.3)"
+      },
+      {
+        "question": "You received a fine for speeding? You _______ have been driving too fast.",
+        "options": [
+          "A. must",
+          "B. can't",
+          "C. might",
+          "D. shouldn't"
+        ],
+        "answer": "A",
+        "explanation": "การได้รับใบสั่งเป็นผลโดยตรงและเป็นหลักฐานที่ชัดเจนของการขับรถเร็วเกินกำหนด ดังนั้นเขา 'ต้อง' ขับรถเร็วเกินไปแน่ๆ (must have + V.3)"
+      },
+      {
+        "question": "This coffee tastes bitter. They _______ have put sugar in it.",
+        "options": [
+          "A. must",
+          "B. might",
+          "C. can't",
+          "D. will"
+        ],
+        "answer": "C",
+        "explanation": "รสชาติขมเป็นหลักฐานว่า 'เป็นไปไม่ได้' ที่พวกเขาจะใส่น้ำตาลลงไป (can't have + V.3)"
+      },
+      {
+        "question": "The company's profits have doubled this year. The CEO _______ be very pleased.",
+        "options": [
+          "A. must",
+          "B. can't",
+          "C. might not",
+          "D. won't"
+        ],
+        "answer": "A",
+        "explanation": "กำไรที่เพิ่มขึ้นสองเท่าเป็นเหตุผลที่หนักแน่นในการสรุปว่า CEO 'ต้อง' พอใจมากแน่ๆ"
+      },
+      {
+        "question": "I found this old photograph in a drawer. It _______ have belonged to my grandmother.",
+        "options": [
+          "A. must",
+          "B. might",
+          "C. can't",
+          "D. shouldn't"
+        ],
+        "answer": "B",
+        "explanation": "ผู้พูดไม่แน่ใจว่ารูปเป็นของใคร แค่คาดเดาความเป็นไปได้ในอดีต จึงใช้ might have + V.3"
+      },
+      {
+        "question": "The politician suddenly resigned. He _______ have been under a lot of pressure.",
+        "options": [
+          "A. must",
+          "B. can't",
+          "C. won't",
+          "D. should"
+        ],
+        "answer": "A",
+        "explanation": "การลาออกกะทันหันเป็นหลักฐานที่ทำให้เราคาดเดาอย่างมีเหตุผลว่าเขา 'ต้อง' อยู่ภายใต้ความกดดันอย่างมากแน่ๆ (must have + V.3)"
+      },
+      {
+        "question": "He's wearing a uniform from that expensive private school. His parents _______ be wealthy.",
+        "options": [
+          "A. might not",
+          "B. can't",
+          "C. must",
+          "D. shouldn't"
+        ],
+        "answer": "C",
+        "explanation": "การใส่ชุดนักเรียนจากโรงเรียนเอกชนราคาแพงเป็นหลักฐานที่ชัดเจนว่าพ่อแม่ของเขา 'ต้อง' ร่ำรวยแน่ๆ"
+      },
+      {
+        "question": "The milk smells sour. It _______ have gone bad.",
+        "options": [
+          "A. must",
+          "B. can't",
+          "C. might not",
+          "D. will"
+        ],
+        "answer": "A",
+        "explanation": "กลิ่นเปรี้ยวของนมเป็นหลักฐานที่ชัดเจนว่ามัน 'ต้อง' เสียแล้วแน่ๆ (must have + V.3)"
+      },
+      {
+        "question": "She didn't wave back at me. She _______ have seen me.",
+        "options": [
+          "A. must",
+          "B. could",
+          "C. can't",
+          "D. should"
+        ],
+        "answer": "C",
+        "explanation": "การที่เธอไม่โบกมือกลับมาเป็นหลักฐานว่า 'เป็นไปไม่ได้' ที่เธอจะเห็นเรา (can't have + V.3)"
+      },
+      {
+        "question": "There's a note on the door saying 'Back in 5 minutes'. They _______ be far away.",
+        "options": [
+          "A. must",
+          "B. must not",
+          "C. can't",
+          "D. could"
+        ],
+        "answer": "C",
+        "explanation": "โน้ตที่บอกว่าจะกลับมาใน 5 นาที เป็นหลักฐานว่าพวกเขา 'ต้องอยู่ไม่ไกล' แน่ๆ หรือ 'เป็นไปไม่ได้ที่จะอยู่ไกล' ใช้ can't"
+      },
+      {
+        "question": "The room was perfectly clean when I left. You _______ have made this mess.",
+        "options": [
+          "A. can't",
+          "B. must",
+          "C. might not",
+          "D. shouldn't"
+        ],
+        "answer": "B",
+        "explanation": "ห้องที่เคยสะอาดแต่ตอนนี้รก เป็นหลักฐานที่ทำให้ผู้พูดสรุปอย่างมั่นใจ (และกล่าวหา) ว่าคุณ 'ต้อง' เป็นคนทำรกแน่ๆ (must have + V.3)"
+      },
+      {
+        "question": "That diamond _______ be real. It costs less than a cup of coffee.",
+        "options": [
+          "A. must",
+          "B. could",
+          "C. can't",
+          "D. may"
+        ],
+        "answer": "C",
+        "explanation": "ราคาที่ถูกกว่ากาแฟเป็นหลักฐานที่ชัดเจนว่าเพชรเม็ดนั้น 'เป็นไปไม่ได้' ที่จะเป็นของจริง"
+      },
+      {
+        "question": "He's been working on that report all week without a break. He _______ be close to finishing it.",
+        "options": [
+          "A. must",
+          "B. can't",
+          "C. may not",
+          "D. shouldn't"
+        ],
+        "answer": "A",
+        "explanation": "การทำงานมาตลอดสัปดาห์โดยไม่หยุดพักเป็นเหตุผลที่ทำให้คาดเดาอย่างมั่นใจว่าเขา 'ต้อง' ใกล้จะทำเสร็จแล้วแน่ๆ"
+      }
+    ]
+  }
+]

@@ -1,0 +1,970 @@
+[
+  {
+    "id": "52_1",
+    "title": "52.1 Verbs + Prepositions (Accuse of, Apologize for)",
+    "explanation": "ในระดับ C1-C2 การใช้ Dependent Prepositions ไม่ใช่แค่การท่องจำว่าคำกริยา (Verb) ตัวไหนต้องคู่กับบุพบท (Preposition) ตัวไหน แต่คือการเข้าใจ 'ความสัมพันธ์เชิงตรรกะ' และ 'ความหมายแฝง' ที่ Preposition นั้นๆ นำมาสู่ประโยค\n\nหัวข้อนี้เราจะเจาะลึก 2 คู่ที่สำคัญคือ `Accuse of` และ `Apologize for`\n\n**1. Accuse someone OF something:**\n- **แก่นแท้:** `of` ในที่นี้ทำหน้าที่เชื่อมโยง 'ผู้ถูกกล่าวหา' เข้ากับ 'การกระทำผิด/ข้อกล่าวหา' โดยตรง มันบ่งบอกถึง 'ต้นกำเนิด' หรือ 'สาระสำคัญ' ของการกล่าวหานั้นๆ ลองนึกภาพว่าข้อกล่าวหานั้น 'ประกอบขึ้นด้วย' (consist of) การกระทำผิดอะไร\n- **โครงสร้าง:** `Subject + accuse + Object (the accused person) + of + Noun/Gerund (the wrongdoing)`\n- **ความหมายแฝง:** การใช้ `accuse of` มักมีนัยยะที่ค่อนข้างรุนแรง เป็นทางการ หรือเกี่ยวข้องกับกระบวนการทางกฎหมาย การทำผิดศีลธรรมอย่างชัดเจน ไม่ใช่แค่เรื่องเล็กๆ น้อยๆ\n- **สิ่งที่ต้องระวัง:** Object (ผู้ถูกกล่าวหา) ต้องมาก่อน `of` เสมอ ห้ามสลับตำแหน่งเด็ดขาด\n- **คำเทียบเคียง:**\n  - `suspect someone OF something`: สงสัยว่าทำผิด (ยังไม่มีหลักฐานแน่ชัดเท่า accuse)\n  - `charge someone WITH something`: ตั้งข้อหาอย่างเป็นทางการ (มักใช้โดยตำรวจหรืออัยการ)\n  - `blame someone FOR something`: โทษว่าเป็นต้นเหตุ (ความหมายกว้างกว่า ใช้กับเรื่องทั่วไปได้ ไม่จำเป็นต้องเป็นอาชญากรรม)\n\n**2. Apologize (to someone) FOR something:**\n- **แก่นแท้:** `for` ในที่นี้ทำหน้าที่ให้ 'เหตุผล' ของการขอโทษ มันตอบคำถามว่า 'ขอโทษด้วยเหตุผลอะไร?' หรือ 'ขอโทษสำหรับการกระทำใด?'\n- **โครงสร้าง:** `Subject + apologize + (to Object) + for + Noun/Gerund`\n- **ความหมายแฝง:** เป็นการแสดงความเสียใจอย่างเป็นทางการและยอมรับผิด `to someone` เป็นส่วนที่ระบุว่าเรากำลังขอโทษใคร ซึ่งสำคัญมากในการสื่อสารที่ชัดเจน แต่ถ้าผู้ฟังเป็นที่เข้าใจกันอยู่แล้ว ก็สามารถละไว้ได้\n- **ความแตกต่าง:**\n  - `apologize for (something)`: เป็นทางการกว่า `be sorry for/about (something)`\n  - `apologize for doing something` (Gerund) เน้นการกระทำ\n  - `apologize for something` (Noun) เน้นที่ผลลัพธ์หรือสิ่งที่เป็นปัญหา\n- **คำเทียบเคียง:**\n  - `forgive someone FOR something`: ให้อภัยสำหรับความผิดนั้นๆ (สังเกตว่าใช้ `for` เหมือนกัน เพราะเป็นการให้เหตุผล)\n  - `pardon someone FOR something`: อภัยโทษ (เป็นทางการมาก มักใช้ในบริบททางกฎหมาย)",
+    "examples": [
+      {
+        "eng": "The dissident journalist was formally accused of espionage and disseminating state-subversive propaganda, charges that could carry a life sentence.",
+        "thai": "นักข่าวผู้เห็นต่างถูกตั้งข้อกล่าวหาอย่างเป็นทางการในข้อหาจารกรรมและเผยแพร่โฆษณาชวนเชื่อที่บ่อนทำลายรัฐ ซึ่งเป็นข้อกล่าวหาที่อาจนำไปสู่โทษจำคุกตลอดชีวิต\n- **โครงสร้าง:** `was ... accused of ...`: ใช้ในรูป Passive Voice (ถูกกล่าวหา) ตามด้วย `espionage` (Noun) และ `disseminating...` (Gerund phrase) ซึ่งทั้งสองอย่างคือ 'ข้อกล่าวหา' ที่เชื่อมด้วย Preposition `of`"
+      },
+      {
+        "eng": "In a surprisingly candid public statement, the tech mogul apologized to his employees for fostering a hyper-competitive work environment that inadvertently compromised their mental well-being.",
+        "thai": "ในแถลงการณ์ต่อสาธารณะที่ตรงไปตรงมาอย่างน่าประหลาดใจ เจ้าพ่อวงการเทคโนโลยีได้กล่าวขอโทษพนักงานของเขาสำหรับการสร้างสภาพแวดล้อมการทำงานที่แข่งขันสูงเกินไป ซึ่งส่งผลกระทบต่อสุขภาพจิตของพวกเขาโดยไม่ได้ตั้งใจ\n- **โครงสร้าง:** `apologized to his employees (Object)` ระบุชัดเจนว่าขอโทษใคร `for fostering... (Gerund phrase)` ให้เหตุผลว่าขอโทษเรื่องอะไร สังเกตการใช้ Gerund 'fostering' เพื่ออธิบาย 'การกระทำ' ที่เป็นต้นเหตุ"
+      },
+      {
+        "eng": "While the opposition leader was quick to blame the incumbent government for the economic stagnation, she refrained from accusing any specific minister of outright corruption without incontrovertible evidence.",
+        "thai": "ในขณะที่ผู้นำฝ่ายค้านรีบกล่าวโทษรัฐบาลชุดปัจจุบันสำหรับภาวะเศรษฐกิจชะงักงัน เธอกลับละเว้นจากการกล่าวหารัฐมนตรีคนใดคนหนึ่งอย่างเจาะจงในข้อหาทุจริตคอร์รัปชันอย่างโจ่งแจ้งหากปราศจากหลักฐานที่โต้แย้งไม่ได้\n- **โครงสร้าง:** ประโยคนี้เปรียบเทียบการใช้ `blame...for` (โทษสำหรับผลลัพธ์) กับ `accusing...of` (กล่าวหาการกระทำผิดที่ร้ายแรงกว่า) แสดงให้เห็นถึงความแตกต่างของน้ำหนักและความหมายของคำทั้งสอง"
+      }
+    ],
+    "common_mistakes": "- **ใช้ Preposition สลับกัน:** ผิดบ่อยที่สุดคือ `accuse for` หรือ `accuse about` ต้องเป็น `accuse OF` เท่านั้น ในทางกลับกัน `apologize of` ก็ผิด ต้องเป็น `apologize FOR`\n- **ลืม 'to' ใน apologize:** คนไทยมักจะพูดว่า `I apologize you.` ซึ่งผิดไวยากรณ์อย่างรุนแรง ต้องมี `to` คั่นกลางเสมอ: `I apologize TO you.` ยกเว้นเสียแต่ว่าจะไม่มีกรรมมารองรับ เช่น `He apologized profusely.` (เขาขอโทษอย่างมากมาย)\n- **สลับตำแหน่ง Object กับ Prepositional Phrase:** ผิด: `They accused of corruption the former CEO.` ถูก: `They accused the former CEO of corruption.` (Object 'the former CEO' ต้องมาก่อน 'of')\n- **สับสนระหว่าง `apologize for` และ `be sorry about`:** แม้ความหมายจะคล้ายกัน แต่ `apologize for` มีความเป็นทางการและแสดงการยอมรับผิดที่หนักแน่นกว่า `sorry about` ซึ่งอาจใช้แสดงความเห็นใจในเรื่องทั่วไปได้ด้วย (I'm sorry about the bad weather.)",
+    "practice_questions": [
+      {
+        "question": "The beleaguered corporation was eventually forced to apologize ______ its shareholders ______ systematically misrepresenting its financial health for several quarters.",
+        "options": [
+          "A. for / to",
+          "B. to / of",
+          "C. to / for",
+          "D. about / with"
+        ],
+        "answer": "C",
+        "explanation": "โครงสร้างที่ถูกต้องคือ `apologize TO someone FOR something/doing something` ดังนั้นจึงต้องขอโทษ 'ต่อ' ผู้ถือหุ้น (`to its shareholders`) และขอโทษ 'สำหรับ' การกระทำผิด (`for systematically misrepresenting...`)"
+      },
+      {
+        "question": "Despite mounting circumstantial evidence, the prosecutor hesitated to formally accuse the suspect ______ perjury, fearing it could jeopardize the more substantial fraud case.",
+        "options": [
+          "A. with",
+          "B. of",
+          "C. for",
+          "D. on"
+        ],
+        "answer": "B",
+        "explanation": "กริยา `accuse` ต้องตามด้วยบุพบท `of` เสมอ เพื่อเชื่อมโยงผู้ถูกกล่าวหาเข้ากับข้อกล่าวหา (perjury - การให้การเท็จ) ดังนั้น `accuse the suspect of perjury` จึงเป็นโครงสร้างที่ถูกต้อง"
+      },
+      {
+        "question": "The renowned philosopher was widely criticized ______ failing to apologize ______ his controversial and largely unsubstantiated claims.",
+        "options": [
+          "A. for / for",
+          "B. of / to",
+          "C. with / about",
+          "D. for / to"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้ทดสอบสองส่วน ส่วนแรก `criticized for doing something` (ถูกวิจารณ์สำหรับ...) เป็นโครงสร้างที่ถูกต้อง ส่วนที่สอง `apologize for something` (ขอโทษสำหรับ...) ก็เป็นโครงสร้างที่ถูกต้องเช่นกัน"
+      },
+      {
+        "question": "The activist group vehemently accused the multinational conglomerate ______ egregious violations of international labor laws.",
+        "options": [
+          "A. for",
+          "B. with",
+          "C. about",
+          "D. of"
+        ],
+        "answer": "D",
+        "explanation": "ตามหลักไวยากรณ์ `accuse` ต้องใช้คู่กับ `of` เพื่อระบุข้อกล่าวหา ในที่นี้คือ `egregious violations` (การละเมิดที่ร้ายแรง)"
+      },
+      {
+        "question": "I must apologize ______ you ______ the considerable delay in processing your application; it was due to an unforeseen administrative backlog.",
+        "options": [
+          "A. - / for",
+          "B. to / for",
+          "C. for / to",
+          "D. to / about"
+        ],
+        "answer": "B",
+        "explanation": "เมื่อมีการระบุผู้ที่เราขอโทษ จะต้องใช้ `apologize TO someone` และเมื่อระบุเหตุผลของการขอโทษ จะต้องใช้ `FOR something` ดังนั้น `apologize to you for the considerable delay` คือคำตอบที่สมบูรณ์ที่สุด"
+      },
+      {
+        "question": "She was not just blamed for the project's failure; she was explicitly accused ______ deliberately sabotaging the team's efforts.",
+        "options": [
+          "A. of",
+          "B. with",
+          "C. for",
+          "D. from"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้เปรียบเทียบ `blamed for` (ใช้กับผลลัพธ์ทั่วไป) กับ `accused of` (ใช้กับการกระทำผิดที่เจาะจงและร้ายแรงกว่า) ซึ่งต้องใช้ `of` ตามหลัง `accused`"
+      },
+      {
+        "question": "The foreign diplomat issued a formal apology ______ behalf of his government ______ the regrettable diplomatic incident.",
+        "options": [
+          "A. on / for",
+          "B. to / for",
+          "C. for / on",
+          "D. on / of"
+        ],
+        "answer": "A",
+        "explanation": "ข้อนี้ทดสอบสำนวนที่ซับซ้อนขึ้น `on behalf of someone` หมายถึง 'ในนามของ...' และ `apology for something` หมายถึง 'การขอโทษสำหรับ...' ดังนั้น `a formal apology on behalf of his government for the incident` จึงถูกต้อง"
+      },
+      {
+        "question": "The editor-in-chief had to apologize ______ the public ______ publishing an article containing multiple factual inaccuracies without proper verification.",
+        "options": [
+          "A. for / about",
+          "B. of / for",
+          "C. to / for",
+          "D. about / to"
+        ],
+        "answer": "C",
+        "explanation": "โครงสร้างที่ถูกต้องคือ `apologize TO someone FOR doing something` ในที่นี้ `someone` คือ `the public` และ `doing something` คือ `publishing an article...`"
+      },
+      {
+        "question": "Having been falsely accused ______ treason, the general spent decades meticulously working to clear his name and restore his honor.",
+        "options": [
+          "A. for",
+          "B. with",
+          "C. of",
+          "D. on"
+        ],
+        "answer": "C",
+        "explanation": "`Accused` ต้องตามด้วย `of` เสมอเมื่อต้องการระบุข้อกล่าวหา (treason - การทรยศต่อชาติ) รูปแบบ `accused of treason` เป็น collocations ที่ใช้กันโดยทั่วไป"
+      },
+      {
+        "question": "It is incumbent upon leaders to apologize not just ______ their actions, but also ______ the unintended, pernicious consequences that ensue.",
+        "options": [
+          "A. about / of",
+          "B. for / for",
+          "C. to / about",
+          "D. for / to"
+        ],
+        "answer": "B",
+        "explanation": "โครงสร้าง `not just... but also...` เชื่อมสองสิ่งที่อยู่ในรูปแบบเดียวกัน ในที่นี้คือการขอโทษสำหรับสองสิ่ง: `apologize for their actions` และ `apologize for the ... consequences` ดังนั้นจึงต้องใช้ `for` ทั้งสองตำแหน่ง"
+      }
+    ]
+  },
+  {
+    "id": "52_2",
+    "title": "52.2 Adjectives + Prepositions (Capable of, Famous for)",
+    "explanation": "ในระดับ C1-C2 เราจะเจาะลึกไปกว่าการท่องจำ Adjective + Preposition เป็นคู่ๆ แต่จะทำความเข้าใจถึง 'ความรู้สึก' หรือ 'ตรรกะ' ที่ซ่อนอยู่เบื้องหลังการจับคู่นั้นๆ ซึ่งทำให้เราสามารถเลือกใช้ได้อย่างเป็นธรรมชาติแม้เจอคำที่ไม่คุ้นเคยก็ตาม\n\n**แก่นของเรื่อง (The Core Concept):**\nPreposition ที่ตามหลัง Adjective ทำหน้าที่เป็น 'สะพาน' เชื่อมความหมายของ Adjective ไปยัง Noun หรือ Gerund (V-ing) ที่ตามมา สะพานแต่ละตัว (on, in, at, with, of, for, to, from...) ให้ความรู้สึกและความหมายที่แตกต่างกัน\n\n**การจัดกลุ่มตามความหมาย (Semantic Grouping):**\n1.  **กลุ่มแสดงความรู้สึก/ทัศนคติต่อสิ่งใดสิ่งหนึ่ง (Feelings/Attitudes):**\n    *   `about/with/at`: มักใช้กับอารมณ์ที่ถูกกระตุ้นโดยบางสิ่ง เช่น `angry at` (การกระทำ), `angry with` (คน), `pleased with` (ผลลัพธ์), `anxious about` (กังวลเรื่อง), `excited about` (ตื่นเต้นเรื่อง)\n    *   `of`: แสดงความรู้สึกที่เป็นเจ้าของหรือเกี่ยวข้องโดยตรง เช่น `afraid of`, `fond of`, `proud of`, `ashamed of`, `jealous of`\n    *   `to`: แสดงการอุทิศหรือการปรับตัวเข้าหา เช่น `accustomed to`, `addicted to`, `committed to`, `allergic to`\n    *   `on`: แสดงความกระตือรือร้นหรือการมุ่งเน้น เช่น `keen on`, `intent on`\n\n2.  **กลุ่มแสดงความสามารถ/ทักษะ (Ability/Skills):**\n    *   `at`: ใช้กับทักษะที่เฉพาะเจาะจงและทำได้ดี เช่น `good at`, `brilliant at`, `hopeless at`\n    *   `in`: ใช้กับสาขาวิชาหรือขอบเขตความรู้ที่กว้างกว่า เช่น `skilled in`, `proficient in`, `experienced in`\n    *   `of`: ใช้แสดงศักยภาพหรือความสามารถที่มีอยู่ภายใน เช่น `capable of`, `incapable of`\n\n3.  **กลุ่มแสดงความเกี่ยวข้อง/เปรียบเทียบ (Relation/Comparison):**\n    *   `to`: ใช้เชื่อมสองสิ่งที่คล้ายกันหรือเกี่ยวข้องกัน เช่น `similar to`, `related to`, `identical to`, `tantamount to` (เทียบเท่ากับ)\n    *   `with`: ใช้แสดงการเข้ากันได้หรือความสอดคล้อง เช่น `compatible with`, `consistent with`, `synonymous with`\n    *   `from`: ใช้แสดงความแตกต่างหรือการแยกจากกัน เช่น `different from`, `absent from`, `safe from`\n    *   `on/upon`: ใช้แสดงการพึ่งพาอาศัย เช่น `dependent on`, `reliant on`, `contingent on` (ขึ้นอยู่กับ)\n\n**กรณีพิเศษ: 1 Adjective หลาย Prepositions (Multiple Prepositions):**\nAdjective บางตัวเปลี่ยนความหมายไปเลยเมื่อใช้กับ Preposition ที่ต่างกัน นี่คือจุดที่วัดระดับ C1-C2 ได้ดี\n*   `Concerned about`: กังวลเกี่ยวกับ (worry) - *I'm concerned about your health.*\n*   `Concerned with`: เกี่ยวข้องกับ (involve) - *This report is concerned with corporate espionage.*\n\n*   `Anxious about`: กังวลเกี่ยวกับบางสิ่งที่จะเกิดขึ้น - *He is anxious about the upcoming audit.*\n*   `Anxious for`: ปรารถนาอย่างแรงกล้าให้บางสิ่งเกิดขึ้น - *We are all anxious for a swift resolution to the conflict.*\n\n*   `Responsible for`: รับผิดชอบต่อการกระทำ/หน้าที่ - *The manager is responsible for the team's performance.*\n*   `Responsible to`: ต้องรายงานผลหรือรับผิดชอบต่อ (บุคคล/องค์กร) - *The committee is responsible to the board of directors.*",
+    "examples": [
+      {
+        "eng": "The veteran diplomat, long inured to the machinations of international politics, remained impervious to their veiled threats.",
+        "thai": "นักการทูตผู้มากประสบการณ์ ซึ่งคุ้นชินกับกลอุบายของการเมืองระหว่างประเทศมาอย่างยาวนาน ยังคงไม่สะทกสะท้านต่อคำขู่แฝงของพวกเขา\nคำอธิบาย: `inured to` หมายถึง 'คุ้นชินหรือทนทานต่อสิ่งที่ไม่ดี' (มักเป็นประสบการณ์) ต้องใช้กับ 'to' เสมอ ส่วน `impervious to` หมายถึง 'ไม่ได้รับผลกระทบจาก, ไม่สามารถผ่านเข้าไปได้' (เหมือนเสื้อกันฝนที่ไม่ให้น้ำซึมผ่าน) ก็ต้องใช้กับ 'to' เช่นกัน แสดงการ 'ต่อต้าน' หรือ 'ปิดกั้น' บางสิ่ง"
+      },
+      {
+        "eng": "Her groundbreaking research, though initially met with skepticism, is now considered synonymous with progress in neurobiology.",
+        "thai": "งานวิจัยที่ล้ำสมัยของเธอ แม้ในตอนแรกจะถูกมองด้วยความกังขา แต่ปัจจุบันถูกพิจารณาว่ามีความหมายเหมือนกันกับความก้าวหน้าในสาขาชีววิทยาประสาท\nคำอธิบาย: `synonymous with` เป็นสำนวนที่แปลตรงตัวว่า 'มีความหมายเหมือนกับ' แต่ในระดับสูงจะใช้ในเชิงเปรียบเปรยว่า 'เป็นตัวแทนหรือสัญลักษณ์ของสิ่งนั้น' การใช้ `with` แสดงถึงความสัมพันธ์ที่เทียบเท่าหรือไปด้วยกันของสองสิ่ง"
+      },
+      {
+        "eng": "The success of the entire expedition is contingent on securing adequate funding before the monsoon season commences.",
+        "thai": "ความสำเร็จของการเดินทางสำรวจทั้งหมดนั้นขึ้นอยู่กับการจัดหาเงินทุนให้เพียงพอก่อนที่ฤดูมรสุมจะเริ่มต้นขึ้น\nคำอธิบาย: `contingent on/upon` เป็นวิธีพูดที่ซับซ้อนกว่า `dependent on` หมายถึง 'ขึ้นอยู่กับ (เงื่อนไขบางอย่างที่อาจเกิดขึ้นหรือไม่ก็ได้)' ใช้ `on` หรือ `upon` เพื่อแสดงถึงเงื่อนไขที่เป็นฐานรองรับผลลัพธ์นั้นๆ"
+      }
+    ],
+    "common_mistakes": "1.  **แปลตรงตัวจากภาษาไทย:** คนไทยมักใช้ 'กับ' ในหลายบริบท แต่ในภาษาอังกฤษมีทั้ง `with`, `to`, `at` เช่น `angry with me` (โกรธฉัน - ถูก), แต่หลายคนอาจแปลจาก 'โกรธกับฉัน' แล้วใช้ผิด หรือใช้ 'เก่งในเรื่อง...' แล้วพูดว่า *'good in physics'* (ผิด) ที่ถูกต้องคือ `good at physics` เพราะ `at` ใช้กับทักษะที่เฉพาะเจาะจง\n\n2.  **สับสนระหว่าง `of` และ `for`:** เป็นคู่ที่ผิดบ่อยมาก เช่น `capable for doing...` (ผิด) ต้องเป็น `capable of doing...` เสมอ หรือ `responsible of the project` (ผิด) ต้องเป็น `responsible for the project` เสมอ ต้องจำให้แม่นว่า `capable` แสดงศักยภาพภายใน (of) ส่วน `responsible` แสดงเหตุผลหรือหน้าที่ (for)\n\n3.  **ใช้ Preposition โดยไม่จำเป็นกับ Adjective บางตัว:** Adjective บางตัวไม่ต้องมี Preposition ตามหลังเมื่อตามด้วย to-infinitive เช่น *'It's difficult for to understand'* (ผิด) ที่ถูกต้องคือ `It's difficult to understand`\n\n4.  **สับสนความหมายเมื่อ Adjective ใช้ Preposition ได้หลายตัว:** เช่น การใช้ `concerned about` (กังวล) ในประโยคที่ควรจะใช้ `concerned with` (เกี่ยวข้องกับ) ทำให้ความหมายผิดเพี้ยนไปโดยสิ้นเชิง เช่น *'My research is concerned about quantum physics'* (ผิด, งานวิจัยฉันกังวลเรื่องฟิสิกส์ควอนตัม?) ที่ถูกต้องคือ `My research is concerned with quantum physics`",
+    "practice_questions": [
+      {
+        "question": "The CEO's decision, so utterly devoid ______ any empathy, sent shockwaves through the entire company.",
+        "options": [
+          "A. from",
+          "B. of",
+          "C. with",
+          "D. in"
+        ],
+        "answer": "B",
+        "explanation": "คำว่า `devoid of` เป็น collocation ที่มีความหมายว่า 'ปราศจากโดยสิ้นเชิง' (completely lacking in) ต้องใช้กับ preposition 'of' เสมอ เพื่อแสดงถึงสิ่งที่ขาดหายไป ตัวเลือกอื่นไม่ถูกต้องตามโครงสร้างนี้"
+      },
+      {
+        "question": "His management style is hardly conducive ______ fostering a collaborative and innovative work environment.",
+        "options": [
+          "A. for",
+          "B. with",
+          "C. to",
+          "D. about"
+        ],
+        "answer": "C",
+        "explanation": "`conducive to` หมายถึง 'เอื้อต่อ, ช่วยส่งเสริมให้เกิด' (providing the right conditions for something to happen). Preposition 'to' ใช้เพื่อชี้ไปยังผลลัพธ์หรือสภาพแวดล้อมที่ถูกสร้างขึ้น เป็นสำนวนที่ต้องใช้คู่กันเสมอ"
+      },
+      {
+        "question": "The judge remained impervious ______ the lawyer's impassioned and theatrical appeals for clemency.",
+        "options": [
+          "A. against",
+          "B. from",
+          "C. on",
+          "D. to"
+        ],
+        "answer": "D",
+        "explanation": "`impervious to` หมายถึง 'ไม่ได้รับผลกระทบจาก, ไม่แยแสต่อ' เหมือนมีเกราะป้องกัน ใช้ 'to' เพื่อระบุถึงสิ่งที่พยายามเข้ามามีผลกระทบแต่ไม่สำเร็จ ตัวเลือกอื่นไม่สร้างความหมายที่ถูกต้องในบริบทนี้"
+      },
+      {
+        "question": "His promotion to director was not entirely commensurate ______ his actual contributions to the firm's profitability.",
+        "options": [
+          "A. with",
+          "B. for",
+          "C. about",
+          "D. to"
+        ],
+        "answer": "A",
+        "explanation": "`commensurate with` หมายถึง 'เหมาะสมกับ, ได้สัดส่วนกับ' (in proportion to). Preposition 'with' ใช้เพื่อเปรียบเทียบสองสิ่งที่ควรจะสมดุลกัน ในที่นี้คือตำแหน่งที่ได้กับผลงานที่ทำจริง"
+      },
+      {
+        "question": "The politician was notoriously averse ______ engaging with any journalist who asked probing or uncomfortable questions.",
+        "options": [
+          "A. of",
+          "B. to",
+          "C. from",
+          "D. against"
+        ],
+        "answer": "B",
+        "explanation": "`averse to` หมายถึง 'ไม่ชอบอย่างยิ่ง, รังเกียจที่จะทำ' (having a strong dislike of or opposition to something). ต้องใช้กับ 'to' เสมอ และมักจะตามด้วย Gerund (V-ing) เช่นในประโยคนี้ 'engaging'"
+      },
+      {
+        "question": "The final report was replete ______ statistical anomalies and unsubstantiated claims, rendering it virtually useless.",
+        "options": [
+          "A. of",
+          "B. in",
+          "C. with",
+          "D. by"
+        ],
+        "answer": "C",
+        "explanation": "`replete with` เป็นวิธีพูดที่หรูกว่า 'full of' หมายถึง 'เต็มไปด้วย, อุดมไปด้วย' (filled or well-supplied with something). ต้องใช้ 'with' เพื่อบอกว่าเต็มไปด้วยอะไร"
+      },
+      {
+        "question": "Such a flagrant disregard for company policy is tantamount ______ professional suicide for anyone in a leadership position.",
+        "options": [
+          "A. with",
+          "B. of",
+          "C. as",
+          "D. to"
+        ],
+        "answer": "D",
+        "explanation": "`tantamount to` หมายถึง 'เทียบเท่ากับ, ไม่ต่างอะไรกับการ' (equivalent in seriousness to; virtually the same as). สำนวนนี้ใช้ 'to' เพื่อเปรียบเทียบว่าการกระทำหนึ่งมีผลเลวร้ายเทียบเท่ากับอีกสิ่งหนึ่ง"
+      },
+      {
+        "question": "She seemed perpetually preoccupied ______ her own esoteric research, often appearing oblivious to everyday conversations around her.",
+        "options": [
+          "A. with",
+          "B. about",
+          "C. for",
+          "D. on"
+        ],
+        "answer": "A",
+        "explanation": "`preoccupied with` หมายถึง 'หมกมุ่นอยู่กับ, ง่วนอยู่กับ' (dominated or engrossed by a thought). เราใช้ 'with' เพื่อระบุถึงสิ่งที่ครอบงำความคิดของคนๆ นั้นอยู่"
+      },
+      {
+        "question": "The defendant's inability to provide a coherent alibi was highly indicative ______ his culpability in the matter.",
+        "options": [
+          "A. for",
+          "B. to",
+          "C. of",
+          "D. from"
+        ],
+        "answer": "C",
+        "explanation": "`indicative of` หมายถึง 'เป็นเครื่องบ่งชี้ของ, แสดงให้เห็นถึง' (serving as a sign or indication of). Preposition 'of' ทำหน้าที่เชื่อมโยง 'เครื่องบ่งชี้' (inability to provide an alibi) กับ 'สิ่งที่ถูกบ่งชี้' (culpability)"
+      },
+      {
+        "question": "After the corporate takeover, many long-serving employees felt bereft ______ the sense of community that once defined their workplace.",
+        "options": [
+          "A. from",
+          "B. of",
+          "C. with",
+          "D. out"
+        ],
+        "answer": "B",
+        "explanation": "`bereft of` เป็น Adjective ที่ทรงพลัง หมายถึง 'ถูกพรากไปซึ่ง, ขาดแคลนอย่างน่าเศร้า' (deprived of or lacking something, especially a non-material asset). ต้องใช้คู่กับ 'of' เสมอเพื่อแสดงถึงสิ่งที่สูญเสียไป"
+      }
+    ]
+  },
+  {
+    "id": "52_3",
+    "title": "52.3 Nouns + Prepositions (Reason for, Decrease in)",
+    "explanation": "ในระดับ C1-C2 การใช้ Nouns + Prepositions ไม่ใช่แค่การท่องจำ แต่คือการเข้าใจความสัมพันธ์ที่ลึกซึ้งระหว่างคำนามและบุพบทที่ตามมา (Dependent Prepositions) ซึ่งสะท้อนความหมายที่เฉพาะเจาะจงและแม่นยำสูงสุด การเลือกบุพบทที่ถูกต้องจะยกระดับการเขียนและการพูดของคุณให้มีความเป็นธรรมชาติเหมือนเจ้าของภาษา\n\nหัวใจสำคัญคือ คำนามหลายคำ 'ผูกติด' อยู่กับบุพบทตัวใดตัวหนึ่งโดยเฉพาะเพื่อสื่อความหมายที่สมบูรณ์ เราจะมาเจาะลึกในกลุ่มต่างๆ ที่มักพบในบริบทที่ซับซ้อน:\n\n1.  **กลุ่มเหตุผลและสาเหตุ (Reason & Cause):**\n    *   **reason for**: ใช้เพื่อบอก 'เหตุผล' หรือ 'คำอธิบาย' ที่อยู่เบื้องหลังการกระทำ, การตัดสินใจ, หรือสถานการณ์ใดๆ เน้นไปที่การให้ความกระจ่างว่า 'ทำไม' (Why) สิ่งนั้นจึงเกิดขึ้น\n    *   **cause of**: ใช้เพื่อระบุ 'ต้นตอ' หรือ 'สาเหตุ' ที่ทำให้เกิดสิ่งใดสิ่งหนึ่งขึ้นมาโดยตรง มักใช้กับผลลัพธ์ที่เป็นรูปธรรมหรือเป็นปัญหา (เช่น โรค, อุบัติเหตุ)\n    *   **basis for**: ใช้หมายถึง 'รากฐาน', 'หลักการพื้นฐาน' หรือ 'จุดเริ่มต้น' ของความคิด, ทฤษฎี, หรือการตัดสินใจ\n    *   **grounds for**: มีความหมายเชิงกฎหมายหรือเป็นทางการ หมายถึง 'มูลเหตุ' หรือ 'เหตุอันควร' ที่จะใช้ในการดำเนินการบางอย่าง (เช่น การฟ้องร้อง, การไล่ออก)\n\n2.  **กลุ่มการเปลี่ยนแปลง (Change & Fluctuation):**\n    *   **increase/decrease/rise/fall in + [สิ่งที่เปลี่ยนแปลง]**: ใช้บุพบท 'in' เมื่อเราต้องการระบุ 'ขอบเขต' หรือ 'หมวดหมู่' ที่เกิดการเปลี่ยนแปลงนั้นๆ เช่น การเปลี่ยนแปลง 'ใน' ราคา, 'ใน' อัตราการว่างงาน, 'ใน' อุณหภูมิ\n        *   ตัวอย่าง: a decrease **in** crime rates (การลดลง 'ใน' อัตราอาชญากรรม)\n    *   **increase/decrease of + [จำนวน/เปอร์เซ็นต์]**: ใช้บุพบท 'of' เมื่อเราต้องการระบุ 'ปริมาณ' หรือ 'ขนาด' ของการเปลี่ยนแปลงนั้นๆ อย่างชัดเจน\n        *   ตัวอย่าง: an increase **of** 10% (การเพิ่มขึ้น 'ของ' 10%)\n\n3.  **กลุ่มทัศนคติและความรู้สึก (Attitude & Feeling):**\n    *   **admiration/respect/fondness for**: ใช้ 'for' เพื่อแสดงความรู้สึกชื่นชม, เคารพ, หรือรักใคร่ 'ต่อ' บุคคลหรือสิ่งใดสิ่งหนึ่ง\n    *   **contempt/disregard for**: ใช้ 'for' ในทางตรงกันข้าม เพื่อแสดงความรู้สึกดูถูก, เหยียดหยาม, หรือไม่ใส่ใจ 'ต่อ' บุคคลหรือสิ่งใดสิ่งหนึ่ง\n\n4.  **กลุ่มความสามารถและทักษะ (Skill & Ability):**\n    *   **talent/aptitude/knack for**: ใช้ 'for' เพื่อบอกว่ามีพรสวรรค์, ความถนัด, หรือความสามารถพิเศษ 'ในด้าน' การทำสิ่งใดสิ่งหนึ่ง\n\n5.  **กลุ่มความรู้และข้อมูล (Knowledge & Information):**\n    *   **insight into**: ใช้ 'into' เมื่อหมายถึงความเข้าใจอย่างลึกซึ้ง, การมองทะลุปรุโปร่ง 'เข้าไปใน' เรื่องที่ซับซ้อน\n    *   **research on/into**: ใช้ 'on' กับหัวข้อกว้างๆ และใช้ 'into' เมื่อเป็นการสืบสวนสอบสวนเพื่อเจาะลึกปัญหาหรือความลึกลับบางอย่าง",
+    "examples": [
+      {
+        "eng": "The ostensible reason for the policy overhaul was a precipitous decrease in public trust, but declassified files provided profound insight into the clandestine geopolitical maneuvering that was the true catalyst.",
+        "thai": "เหตุผลที่แสดงออกมาภายนอกสำหรับการปฏิรูปนโยบายครั้งใหญ่คือการลดลงอย่างฮวบฮาบของความเชื่อมั่นจากสาธารณชน แต่เอกสารที่ถูกเปิดเผยได้ให้ความเข้าใจอย่างลึกซึ้งถึงกลยุทธ์ทางการเมืองระหว่างประเทศที่ดำเนินการอย่างลับๆ ซึ่งเป็นตัวกระตุ้นที่แท้จริง\n- **reason for**: 'เหตุผลสำหรับ' การปฏิรูปนโยบาย\n- **decrease in**: การลดลง 'ใน' ความเชื่อมั่น (ระบุขอบเขต)\n- **insight into**: ความเข้าใจอย่างลึกซึ้ง 'เข้าไปใน' กลยุทธ์ที่ซับซ้อน"
+      },
+      {
+        "eng": "The inquiry found that the engineer's flagrant disregard for established safety protocols provided incontrovertible grounds for his immediate dismissal.",
+        "thai": "การไต่สวนพบว่าการไม่ใส่ใจต่อระเบียบปฏิบัติด้านความปลอดภัยที่กำหนดไว้อย่างชัดแจ้งของวิศวกรคนนั้น เป็นมูลเหตุที่ไม่อาจโต้แย้งได้สำหรับการเลิกจ้างเขาในทันที\n- **disregard for**: การไม่ใส่ใจ 'ต่อ' ระเบียบปฏิบัติ\n- **grounds for**: 'มูลเหตุสำหรับ' การเลิกจ้าง"
+      },
+      {
+        "eng": "While there was a general increase in investment across all sectors, the tech industry saw a staggering increase of nearly 300%, laying the basis for its current market dominance.",
+        "thai": "ในขณะที่มีการเพิ่มขึ้นโดยทั่วไปของการลงทุนในทุกภาคส่วน อุตสาหกรรมเทคโนโลยีกลับมีการเพิ่มขึ้นอย่างน่าตกตะลึงถึงเกือบ 300% ซึ่งเป็นการวางรากฐานสำหรับอำนาจครอบงำตลาดในปัจจุบัน\n- **increase in**: การเพิ่มขึ้น 'ใน' การลงทุน (ระบุขอบเขต)\n- **increase of**: การเพิ่มขึ้น 'ของ' 300% (ระบุปริมาณ)\n- **basis for**: 'รากฐานสำหรับ' การครอบงำตลาด"
+      }
+    ],
+    "common_mistakes": "- **สับสนระหว่าง 'in' และ 'of' กับคำนามกลุ่มการเปลี่ยนแปลง:** คนไทยมักใช้ 'in' ตลอดเวลา แต่จำไว้ว่า: 'in' ใช้กับ 'สิ่งที่' เปลี่ยนแปลง (e.g., a rise in temperature) ส่วน 'of' ใช้กับ 'ปริมาณที่' เปลี่ยนแปลง (e.g., a rise of 5 degrees).\n\n- **แปลตรงตัวจากภาษาไทย:** คำว่า 'ของ' ในภาษาไทยอาจทำให้เผลอใช้ 'of' ในหลายๆ กรณีที่ภาษาอังกฤษต้องใช้ 'for' เช่น 'เหตุผลของ...' คนไทยอาจแปลเป็น 'reason of...' ซึ่งผิด ที่ถูกต้องคือ 'reason for...'. เช่นเดียวกัน 'ความชื่นชมของฉันต่อเขา' ต้องเป็น 'my admiration for him' ไม่ใช่ 'my admiration of him'.\n\n- **ใช้บุพบทผิดกับ Noun ที่แสดงความรู้สึก/ทัศนคติ:** มักจะสับสนระหว่าง for, to, of, with. กฎที่สำคัญคือ Noun ส่วนใหญ่ที่แสดงทัศนคติต่อบางสิ่ง (admiration, contempt, disregard, respect) มักจะตามด้วย 'for'.\n\n- **ใช้ 'about' มากเกินไป:** แม้ 'about' จะใช้กับ 'information' ได้ แต่ในระดับสูง การใช้บุพบทที่เฉพาะเจาะจงกว่าอย่าง 'insight into' หรือ 'research on/into' จะแสดงถึงความเข้าใจที่ลึกซึ้งกว่าและทำให้การเขียนดูเป็นวิชาการมากขึ้น",
+    "practice_questions": [
+      {
+        "question": "The defendant's demonstrable lack of remorse was considered sufficient grounds ______ imposing the maximum sentence.",
+        "options": [
+          "A. to",
+          "B. with",
+          "C. for",
+          "D. on"
+        ],
+        "answer": "C",
+        "explanation": "คำนาม 'grounds' (มูลเหตุ) ที่ใช้ในบริบทที่เป็นทางการหรือกฎหมาย จะตามด้วยบุพบท 'for' เสมอ เพื่อบอกว่า 'เป็นมูลเหตุสำหรับ...' การกระทำบางอย่าง ในที่นี้คือ 'เป็นมูลเหตุสำหรับการลงโทษสถานหนักสุด' ข้ออื่นจึงไม่ถูกต้องตามโครงสร้าง collocation นี้"
+      },
+      {
+        "question": "The recently unearthed manuscript offers unprecedented insight ______ the philosophical underpinnings of the ancient civilization.",
+        "options": [
+          "A. into",
+          "B. about",
+          "C. on",
+          "D. over"
+        ],
+        "answer": "A",
+        "explanation": "คำนาม 'insight' (ความเข้าใจอย่างลึกซึ้ง) ต้องใช้กับบุพบท 'into' เพื่อสื่อถึงการมองทะลุหรือเจาะลึก 'เข้าไปใน' เรื่องที่ซับซ้อน ในที่นี้คือรากฐานทางปรัชญาของอารยธรรมโบราณ การใช้ 'about' หรือ 'on' ไม่สามารถสื่อถึงความลึกซึ้งในระดับนี้ได้"
+      },
+      {
+        "question": "Financial analysts noted a significant decrease ______ consumer spending, which precipitated fears of an economic recession.",
+        "options": [
+          "A. of",
+          "B. from",
+          "C. by",
+          "D. in"
+        ],
+        "answer": "D",
+        "explanation": "เราใช้ 'decrease in' เมื่อต้องการระบุ 'ขอบเขต' หรือ 'หมวดหมู่' ที่เกิดการลดลง ในประโยคนี้คือการลดลง 'ใน' การใช้จ่ายของผู้บริโภค (consumer spending) หากจะใช้ 'of' จะต้องตามด้วยตัวเลขหรือเปอร์เซ็นต์ เช่น a decrease of 5%."
+      },
+      {
+        "question": "Despite his unorthodox leadership style, he commanded immense respect and admiration ______ his subordinates.",
+        "options": [
+          "A. by",
+          "B. for",
+          "C. of",
+          "D. toward"
+        ],
+        "answer": "B",
+        "explanation": "คำนามที่แสดงทัศนคติเชิงบวก เช่น 'admiration' และ 'respect' จะใช้บุพบท 'for' เพื่อระบุว่าความรู้สึกนั้นมุ่ง 'ไปยัง' หรือ 'มีต่อ' ใครหรือสิ่งใด ในที่นี้คือความเคารพและชื่นชม 'ที่มีต่อ' ผู้ใต้บังคับบัญชาของเขา"
+      },
+      {
+        "question": "The primary cause ______ the catastrophic bridge collapse was identified as profound structural fatigue.",
+        "options": [
+          "A. for",
+          "B. of",
+          "C. behind",
+          "D. in"
+        ],
+        "answer": "B",
+        "explanation": "ในขณะที่ 'reason for' ใช้อธิบายว่า 'ทำไม' 'cause of' ใช้เพื่อระบุ 'ต้นตอ' หรือ 'สาเหตุโดยตรง' ของเหตุการณ์ (โดยเฉพาะเหตุการณ์ไม่ดี) ในที่นี้ 'structural fatigue' คือต้นตอที่ทำให้สะพานถล่ม จึงต้องใช้ 'cause of' "
+      },
+      {
+        "question": "She has always had a remarkable aptitude ______ mastering complex languages in an astonishingly short period.",
+        "options": [
+          "A. with",
+          "B. on",
+          "C. for",
+          "D. in"
+        ],
+        "answer": "C",
+        "explanation": "คำนามที่เกี่ยวกับความสามารถหรือพรสวรรค์ เช่น 'aptitude', 'talent', หรือ 'knack' จะต้องตามด้วย 'for' เพื่อบ่งบอกว่ามีความถนัด 'ในด้าน' การทำสิ่งใดสิ่งหนึ่ง"
+      },
+      {
+        "question": "The government's report confirms an increase ______ 1.5 million in the number of people living below the poverty line.",
+        "options": [
+          "A. of",
+          "B. in",
+          "C. to",
+          "D. by"
+        ],
+        "answer": "A",
+        "explanation": "เมื่อเราต้องการระบุ 'ปริมาณ' หรือ 'จำนวน' ที่เพิ่มขึ้นอย่างเฉพาะเจาะจง เราต้องใช้ 'increase of' ในประโยคนี้ระบุจำนวนที่เพิ่มขึ้นอย่างชัดเจนคือ '1.5 million' จึงต้องใช้ 'of' หากจะใช้ 'in' จะต้องตามด้วยหมวดหมู่ เช่น an increase in poverty."
+      },
+      {
+        "question": "His blatant disregard ______ the council's repeated warnings resulted in a hefty fine and suspension of his business license.",
+        "options": [
+          "A. to",
+          "B. of",
+          "C. about",
+          "D. for"
+        ],
+        "answer": "D",
+        "explanation": "เช่นเดียวกับ admiration, คำนามที่แสดงทัศนคติเชิงลบอย่าง 'disregard' (การไม่ใส่ใจ, การเพิกเฉย) ก็ใช้บุพบท 'for' เพื่อระบุว่าการเพิกเฉยนั้นมี 'ต่อ' สิ่งใด ในที่นี้คือ 'ต่อ' คำเตือนของสภา"
+      },
+      {
+        "question": "The discovery of quantum entanglement formed the basis ______ much of modern theoretical physics and computing.",
+        "options": [
+          "A. of",
+          "B. for",
+          "C. to",
+          "D. in"
+        ],
+        "answer": "B",
+        "explanation": "คำนาม 'basis' (รากฐาน) จะใช้คู่กับบุพบท 'for' เพื่อสื่อความหมายว่า 'เป็นรากฐานสำหรับ' สิ่งที่จะตามมา ในที่นี้ การค้นพบควอนตัมเป็นรากฐานสำหรับฟิสิกส์ทฤษฎีสมัยใหม่"
+      },
+      {
+        "question": "There is no justification ______ such egregious violations of fundamental human rights under any circumstances.",
+        "options": [
+          "A. of",
+          "B. about",
+          "C. with",
+          "D. for"
+        ],
+        "answer": "D",
+        "explanation": "คำนาม 'justification' (เหตุผลอันสมควร, คำอธิบาย) ทำงานคล้ายกับ 'reason' และต้องตามด้วยบุพบท 'for' เสมอ เพื่อหมายถึง 'เหตุผลอันสมควรสำหรับ' การกระทำหรือสถานการณ์บางอย่าง"
+      }
+    ]
+  },
+  {
+    "id": "52_4",
+    "title": "52.4 Summary: Dependent Prepositions (สรุปบุพบทเจาะจง + 50 Exercises)",
+    "explanation": "Dependent Prepositions คือบุพบท (Preposition) ที่ต้องตามหลังคำประเภทต่างๆ (Verb, Noun, Adjective) เสมอเป็นคู่ที่ตายตัวเหมือน Collocation ในระดับ C1-C2 นี้ เราไม่ได้ท่องจำแค่คำง่ายๆ อย่าง listen to หรือ famous for อีกต่อไป แต่จะเจาะลึกถึงคู่คำที่ซับซ้อนและเป็นทางการมากขึ้น ซึ่งเป็นหัวใจของการใช้ภาษาอังกฤษให้เหมือนเจ้าของภาษา\n\nหัวใจสำคัญที่ต้องเข้าใจคือ 'ไม่มีกฎตายตัว' สำหรับ Dependent Prepositions แต่เป็นเรื่องของ 'Usage' หรือ 'การใช้งานที่ยอมรับกันโดยทั่วไป' วิธีที่ดีที่สุดในการเรียนรู้คือการอ่านและฟังอย่างกว้างขวางเพื่อซึมซับรูปแบบเหล่านี้โดยธรรมชาติ\n\nเราสามารถแบ่งกลุ่ม Dependent Prepositions ได้เป็น 3 ประเภทหลัก:\n1.  **Verb + Preposition**: กริยาที่ต้องมีบุพบทเฉพาะเจาะจงตามหลังเสมอเพื่อสื่อความหมาย เช่น `to elaborate on` (ขยายความเกี่ยวกับ), `to refrain from` (ละเว้นจาก), `to pride oneself on` (ภูมิใจใน)\n2.  **Adjective + Preposition**: คุณศัพท์ที่ต้องการบุพบทตัวหนึ่งเสมอเพื่อทำให้ความหมายสมบูรณ์ เช่น `commensurate with` (เหมาะสมกับ), `devoid of` (ปราศจาก), `impervious to` (ไม่สะทกสะท้านต่อ)\n3.  **Noun + Preposition**: คำนามที่มีบุพบทคู่บุญตามมาเสมอ เช่น `a predisposition towards` (แนวโน้มที่จะ), `an aversion to` (ความเกลียดชังต่อ), `compliance with` (การปฏิบัติตาม)\n\nในระดับสูง เราต้องระวังความแตกต่างเล็กน้อยที่เปลี่ยนความหมายไปเลย เช่น:\n*   `concerned about` (กังวลเกี่ยวกับ) vs. `concerned with` (เกี่ยวข้องกับ)\n*   `consist of` (ประกอบด้วย) vs. `consist in` (สาระสำคัญอยู่ที่)\n*   `proud of` (ภูมิใจในบางสิ่ง - Adjective) vs. `take pride in` (รู้สึกภาคภูมิใจใน - Verb Phrase/Noun)\n\nการเข้าใจและใช้ Dependent Prepositions ได้อย่างถูกต้องแม่นยำ คือตัวชี้วัดสำคัญที่แยกผู้ใช้ภาษาระดับสูง (Advanced) ออกจากผู้ใช้ระดับกลาง (Intermediate) อย่างชัดเจน",
+    "examples": [
+      {
+        "eng": "The executive's speech, replete with arcane jargon and devoid of any substantive content, was met with a mixture of confusion and disdain from the shareholders.",
+        "thai": "คำปราศรัยของผู้บริหาร ซึ่ง 'เต็มไปด้วย' (replete with) ศัพท์เฉพาะทางที่เข้าใจยากและ 'ปราศจาก' (devoid of) เนื้อหาที่เป็นแก่นสารใดๆ, ได้รับการตอบรับด้วยความสับสนระคนความรังเกียจจากเหล่าผู้ถือหุ้น\nโครงสร้างนี้ใช้ Adjective + Preposition สองชุดคือ 'replete with' และ 'devoid of' เพื่อขยายคำนาม 'speech' ทำให้ประโยคมีความซับซ้อนและให้ข้อมูลที่ละเอียดขึ้น"
+      },
+      {
+        "eng": "In compliance with international sanctions, the multinational corporation had to refrain from engaging in any commercial activities with the rogue state.",
+        "thai": "เพื่อ 'การปฏิบัติตาม' (in compliance with) มาตรการคว่ำบาตรระหว่างประเทศ บริษัทข้ามชาติจึงต้อง 'ละเว้นจาก' (refrain from) การมีส่วนร่วมในกิจกรรมทางการค้าใดๆ กับรัฐที่ละเมิดกฎหมายระหว่างประเทศ\nประโยคนี้เริ่มต้นด้วย Noun + Preposition Phrase 'in compliance with' และตามด้วย Verb + Preposition 'refrain from' แสดงให้เห็นถึงการใช้ภาษาที่เป็นทางการและแม่นยำในบริบททางธุรกิจหรือกฎหมาย"
+      },
+      {
+        "eng": "She prided herself on being impervious to criticism, yet she was secretly susceptible to flattery, a vulnerability her rivals were quick to exploit.",
+        "thai": "เธอ 'ภูมิใจใน' (prided herself on) การเป็นคน 'ไม่สะทกสะท้านต่อ' (impervious to) คำวิจารณ์ แต่ลึกๆ แล้วเธอกลับ 'อ่อนไหวต่อ' (susceptible to) คำเยินยอ ซึ่งเป็นจุดอ่อนที่คู่แข่งของเธอนำไปใช้ประโยชน์อย่างรวดเร็ว\nประโยคนี้แสดงการใช้ Verb + Preposition 'prided herself on' และ Adjective + Preposition สองตัวคือ 'impervious to' และ 'susceptible to' ซึ่งมีความหมายตรงข้ามกัน ทำให้เห็นถึงความขัดแย้งในตัวบุคคลได้อย่างมีชั้นเชิง"
+      }
+    ],
+    "common_mistakes": "1.  **การสับสนระหว่าง Preposition ที่คล้ายกัน:** ในระดับสูง ความผิดพลาดไม่ใช่การใช้บุพบทผิดแบบพื้นฐาน แต่เป็นการสับสนระหว่างคู่ที่ความหมายใกล้เคียงกัน เช่น ใช้ 'responsible for' (รับผิดชอบต่อผลลัพธ์) แทน 'accountable to' (ต้องให้คำอธิบาย/รับผิดชอบต่อบุคคลหรือองค์กร) หรือใช้ 'angry at' (โกรธเรื่องราว/สถานการณ์) กับบุคคล แทนที่จะเป็น 'angry with' (โกรธบุคคล)\n\n2.  **ใช้ Preposition ผิดเมื่อเปลี่ยนรูปคำ:** ผู้เรียนมักจะจำได้ว่า 'to rely on' (v.) แต่พอเป็นคำนาม อาจจะใช้ผิดเป็น 'reliance of' แทนที่จะเป็น 'reliance on' ที่ถูกต้อง หรือที่พบบ่อยมากคือ 'to be proud of' (adj.) แต่พอเป็น verb phrase กลับจำสลับเป็น 'to take pride of' แทนที่จะเป็น 'to take pride in'\n\n3.  **การแปลตรงตัวจากภาษาไทย:** แม้ในระดับสูง ความผิดพลาดนี้ก็ยังเกิดขึ้นได้ในบริบทที่ไม่คุ้นเคย เช่น 'เต็มไปด้วย' อาจจะถูกแปลเป็น 'full with' ซึ่งผิดไวยากรณ์ (ต้องเป็น full of) แทนที่จะใช้คำศัพท์ระดับสูงอย่าง 'replete with' หรือ 'fraught with' (สำหรับสิ่งไม่ดี)\n\n4.  **ละเลย Preposition ในโครงสร้างซับซ้อน:** เมื่อประโยคยาวและซับซ้อน ผู้เรียนอาจลืมใส่ Preposition ที่จำเป็น เช่น 'The inquiry into the cause of the disaster...' อาจจะพูดสั้นๆ ว่า 'The inquiry the cause...' ซึ่งผิดไวยากรณ์ คำนาม 'inquiry' ต้องตามด้วย 'into' หรือ 'about' เสมอ",
+    "practice_questions": [
+      {
+        "question": "The senator's remarks were tantamount ___ a declaration of war, escalating diplomatic tensions to an unprecedented level.",
+        "options": [
+          "A. with",
+          "B. to",
+          "C. for",
+          "D. as"
+        ],
+        "answer": "B",
+        "explanation": "คำว่า 'tantamount' ซึ่งหมายถึง 'เทียบเท่ากับ' หรือ 'ไม่ต่างอะไรกับ' จะต้องใช้กับ preposition 'to' เสมอ เป็น collocation ที่ตายตัว (tantamount to something) ข้ออื่นจึงผิด"
+      },
+      {
+        "question": "Despite overwhelming evidence, the CEO remained defiant ___ the face of accusations of corporate malfeasance.",
+        "options": [
+          "A. on",
+          "B. with",
+          "C. in",
+          "D. at"
+        ],
+        "answer": "C",
+        "explanation": "สำนวน 'in the face of' หมายถึง 'เมื่อต้องเผชิญกับ' (despite, when confronted with) เป็นสำนวนที่ใช้ preposition 'in' ไม่สามารถใช้ตัวอื่นได้"
+      },
+      {
+        "question": "The new environmental regulations are intended to be conducive ___ sustainable development and long-term ecological balance.",
+        "options": [
+          "A. for",
+          "B. with",
+          "C. towards",
+          "D. to"
+        ],
+        "answer": "D",
+        "explanation": "'Conducive' เป็น Adjective หมายถึง 'ซึ่งเอื้อต่อ' หรือ 'นำไปสู่' ต้องตามด้วย preposition 'to' เสมอ (conducive to something)"
+      },
+      {
+        "question": "The reclusive author has a well-known aversion ___ public appearances, preferring the solitude of his study.",
+        "options": [
+          "A. to",
+          "B. against",
+          "C. for",
+          "D. from"
+        ],
+        "answer": "A",
+        "explanation": "คำนาม 'aversion' ซึ่งหมายถึง 'ความเกลียดชัง' หรือ 'ความรังเกียจอย่างรุนแรง' จะใช้คู่กับ preposition 'to' (an aversion to something/doing something)"
+      },
+      {
+        "question": "His testimony was inconsistent ___ the physical evidence, which led the jury to doubt his credibility.",
+        "options": [
+          "A. to",
+          "B. with",
+          "C. from",
+          "D. about"
+        ],
+        "answer": "B",
+        "explanation": "'Inconsistent' ที่แปลว่า 'ไม่สอดคล้องกับ' หรือ 'ขัดแย้งกับ' จะต้องตามด้วย preposition 'with' (inconsistent with something)"
+      },
+      {
+        "question": "The ancient manuscript was replete ___ intricate illustrations and cryptic symbols that have puzzled scholars for centuries.",
+        "options": [
+          "A. of",
+          "B. by",
+          "C. with",
+          "D. in"
+        ],
+        "answer": "C",
+        "explanation": "Adjective 'replete' หมายถึง 'เต็มไปด้วย' (full of) และต้องใช้กับ preposition 'with' เสมอ (replete with something)"
+      },
+      {
+        "question": "The company’s failure to comply ___ safety standards resulted in a hefty fine and a tarnished reputation.",
+        "options": [
+          "A. with",
+          "B. to",
+          "C. on",
+          "D. for"
+        ],
+        "answer": "A",
+        "explanation": "Verb 'comply' ที่แปลว่า 'ปฏิบัติตาม' ต้องตามด้วย preposition 'with' เสมอ (comply with rules/standards/requests)"
+      },
+      {
+        "question": "She was completely engrossed ___ the philosophical treatise, oblivious to the passage of time.",
+        "options": [
+          "A. with",
+          "B. on",
+          "C. by",
+          "D. in"
+        ],
+        "answer": "D",
+        "explanation": "'Engrossed' หมายถึง 'หมกมุ่นอยู่กับ' หรือ 'จดจ่ออยู่กับ' จะใช้กับ preposition 'in' (to be engrossed in a book/a conversation)"
+      },
+      {
+        "question": "The politician tried to curry favor ___ the voters by making extravagant promises he had no intention of keeping.",
+        "options": [
+          "A. with",
+          "B. from",
+          "C. to",
+          "D. for"
+        ],
+        "answer": "A",
+        "explanation": "สำนวน 'to curry favor with someone' หมายถึง 'ประจบประแจง' หรือ 'พยายามเอาใจ' เพื่อให้ได้ผลประโยชน์ จะใช้ preposition 'with' เสมอ"
+      },
+      {
+        "question": "The treaty is binding ___ all signatory nations, and any violation will be met with severe international sanctions.",
+        "options": [
+          "A. for",
+          "B. to",
+          "C. on",
+          "D. with"
+        ],
+        "answer": "C",
+        "explanation": "'Binding' ในความหมายว่า 'มีผลผูกมัด' จะใช้กับ preposition 'on' (binding on someone/something) เพื่อบอกว่าใครหรืออะไรที่ถูกผูกมัดตามข้อตกลงนั้น"
+      },
+      {
+        "question": "The young prodigy demonstrated an extraordinary aptitude ___ complex mathematical problems from a very early age.",
+        "options": [
+          "A. for",
+          "B. in",
+          "C. with",
+          "D. at"
+        ],
+        "answer": "A",
+        "explanation": "คำนาม 'aptitude' ซึ่งหมายถึง 'ความถนัด' จะใช้คู่กับ preposition 'for' (an aptitude for something)"
+      },
+      {
+        "question": "His hubris was such that he was completely impervious ___ any form of constructive criticism.",
+        "options": [
+          "A. against",
+          "B. for",
+          "C. to",
+          "D. with"
+        ],
+        "answer": "C",
+        "explanation": "'Impervious' หมายถึง 'ไม่สะทกสะท้าน' หรือ 'ไม่ได้รับผลกระทบจาก' ต้องตามด้วย preposition 'to' เสมอ (impervious to criticism/pain)"
+      },
+      {
+        "question": "In the aftermath of the scandal, the board decided to dispense ___ the CEO's services immediately.",
+        "options": [
+          "A. of",
+          "B. off",
+          "C. with",
+          "D. from"
+        ],
+        "answer": "C",
+        "explanation": "Phrasal verb 'to dispense with' หมายถึง 'กำจัด' 'เลิกใช้' หรือ 'ทำโดยไม่มี' (to get rid of or do without). ในที่นี้คือการเลิกจ้าง"
+      },
+      {
+        "question": "The dictator's regime was characterized by a flagrant disregard ___ human rights and international law.",
+        "options": [
+          "A. of",
+          "B. for",
+          "C. to",
+          "D. with"
+        ],
+        "answer": "B",
+        "explanation": "คำนาม 'disregard' ที่แปลว่า 'การเพิกเฉย' หรือ 'การไม่ใส่ใจ' จะใช้กับ preposition 'for' หรือ 'of' ก็ได้ แต่ 'for' เป็นที่นิยมมากกว่าในความหมายนี้ (a disregard for safety)"
+      },
+      {
+        "question": "The salary offered should be commensurate ___ the candidate's experience and qualifications.",
+        "options": [
+          "A. to",
+          "B. for",
+          "C. with",
+          "D. by"
+        ],
+        "answer": "C",
+        "explanation": "'Commensurate' เป็น Adjective ที่หมายถึง 'เหมาะสมกับ' หรือ 'ได้สัดส่วนกับ' และต้องใช้คู่กับ preposition 'with' เสมอ"
+      },
+      {
+        "question": "The diplomat was tasked with brokering a peace deal ___ the two warring factions.",
+        "options": [
+          "A. among",
+          "B. between",
+          "C. with",
+          "D. for"
+        ],
+        "answer": "B",
+        "explanation": "เมื่อพูดถึงการเจรจาหรือทำข้อตกลง 'ระหว่าง' สองฝ่าย เราใช้ 'between'. 'Among' ใช้สำหรับสามฝ่ายขึ้นไป"
+      },
+      {
+        "question": "She was vexed ___ her assistant's constant tardiness and lack of attention to detail.",
+        "options": [
+          "A. by",
+          "B. with",
+          "C. at",
+          "D. Both B and C are possible"
+        ],
+        "answer": "D",
+        "explanation": "'Vexed' (ซึ่งรำคาญใจ, หงุดหงิด) สามารถใช้ได้กับทั้ง 'with' หรือ 'at' เมื่อพูดถึงบุคคลหรือการกระทำของบุคคล คล้ายกับ 'annoyed with/at' หรือ 'angry with/at'. ในกรณีนี้จึงใช้ได้ทั้งคู่"
+      },
+      {
+        "question": "The city is grappling ___ a severe housing crisis exacerbated by rampant speculation.",
+        "options": [
+          "A. with",
+          "B. against",
+          "C. on",
+          "D. for"
+        ],
+        "answer": "A",
+        "explanation": "Verb 'to grapple' ในความหมายว่า 'พยายามต่อสู้เพื่อแก้ไขปัญหาที่ยากลำบาก' จะต้องตามด้วย 'with' เสมอ (to grapple with a problem/an issue)"
+      },
+      {
+        "question": "The committee's final report was devoid ___ any practical recommendations for reform.",
+        "options": [
+          "A. from",
+          "B. of",
+          "C. without",
+          "D. in"
+        ],
+        "answer": "B",
+        "explanation": "'Devoid' เป็น Adjective หมายถึง 'ปราศจาก' และต้องตามด้วย preposition 'of' เสมอ (devoid of something)"
+      },
+      {
+        "question": "His predisposition ___ melancholy was evident even in his earliest writings.",
+        "options": [
+          "A. for",
+          "B. of",
+          "C. towards",
+          "D. with"
+        ],
+        "answer": "C",
+        "explanation": "คำนาม 'predisposition' ซึ่งหมายถึง 'แนวโน้ม (ทางความคิดหรือพฤติกรรม)' มักจะใช้กับ preposition 'to' หรือ 'towards'. 'Towards' มักจะเน้นทิศทางของแนวโน้มนั้นๆ (a predisposition towards something)"
+      },
+      {
+        "question": "The new manager is not very amenable ___ suggestions from subordinates, which has created a tense atmosphere.",
+        "options": [
+          "A. with",
+          "B. for",
+          "C. to",
+          "D. about"
+        ],
+        "answer": "C",
+        "explanation": "'Amenable' (ยอมรับฟัง, ว่าง่าย) เป็น Adjective ที่ต้องตามด้วย 'to' เพื่อบอกว่ายอมรับฟังต่อสิ่งใด (amenable to suggestions/reason)"
+      },
+      {
+        "question": "The research findings are subject ___ peer review before they can be published in a scientific journal.",
+        "options": [
+          "A. for",
+          "B. with",
+          "C. to",
+          "D. on"
+        ],
+        "answer": "C",
+        "explanation": "สำนวน 'subject to' ในที่นี้หมายถึง 'ต้องผ่าน' หรือ 'ขึ้นอยู่กับ' (dependent on). (e.g., The plan is subject to approval.)"
+      },
+      {
+        "question": "He prides himself ___ his ability to remain calm and rational under immense pressure.",
+        "options": [
+          "A. in",
+          "B. for",
+          "C. on",
+          "D. of"
+        ],
+        "answer": "C",
+        "explanation": "Verb phrase 'to pride oneself on something' หมายถึง 'ภูมิใจในบางสิ่ง' จะใช้ 'on' เสมอ อย่าสับสนกับ 'to be proud of' (adj) หรือ 'to take pride in' (noun phrase)"
+      },
+      {
+        "question": "The jury could not agree ___ a verdict, resulting in a mistrial.",
+        "options": [
+          "A. on",
+          "B. with",
+          "C. to",
+          "D. for"
+        ],
+        "answer": "A",
+        "explanation": "เมื่อใช้ 'agree' กับสิ่งของหรือการตัดสินใจ เราใช้ 'agree on something'. 'Agree with' ใช้กับคนหรือความคิดเห็น 'Agree to' ใช้กับข้อเสนอหรือแผนการ"
+      },
+      {
+        "question": "The country is beset ___ a multitude of economic and social problems.",
+        "options": [
+          "A. with",
+          "B. by",
+          "C. of",
+          "D. Both A and B are correct"
+        ],
+        "answer": "D",
+        "explanation": "Verb 'beset' (รุมเร้า, ทุกข์ทรมานจาก) สามารถตามด้วย preposition 'with' หรือ 'by' ก็ได้ โดยมีความหมายเหมือนกัน (to be beset with/by problems)"
+      },
+      {
+        "question": "Her expertise ___ quantum physics is unparalleled in her field.",
+        "options": [
+          "A. on",
+          "B. about",
+          "C. in",
+          "D. for"
+        ],
+        "answer": "C",
+        "explanation": "คำนาม 'expertise' (ความเชี่ยวชาญ) จะใช้กับ preposition 'in' เพื่อบอกถึงสาขาของความเชี่ยวชาญนั้น (expertise in a particular area)"
+      },
+      {
+        "question": "The new evidence casts doubt ___ the defendant's alibi.",
+        "options": [
+          "A. on",
+          "B. in",
+          "C. to",
+          "D. for"
+        ],
+        "answer": "A",
+        "explanation": "สำนวน 'to cast doubt on something' หมายถึง 'ทำให้เกิดความสงสัย' เป็น collocation ที่ใช้ preposition 'on' เสมอ"
+      },
+      {
+        "question": "You must refrain ___ divulging any confidential information to third parties.",
+        "options": [
+          "A. to",
+          "B. from",
+          "C. with",
+          "D. of"
+        ],
+        "answer": "B",
+        "explanation": "Verb 'refrain' หมายถึง 'ละเว้น' หรือ 'งดเว้น' ต้องตามด้วย 'from' เสมอ (to refrain from doing something)"
+      },
+      {
+        "question": "The government's insistence ___ austerity measures has proven deeply unpopular.",
+        "options": [
+          "A. with",
+          "B. for",
+          "C. on",
+          "D. to"
+        ],
+        "answer": "C",
+        "explanation": "คำนาม 'insistence' (การยืนกราน) จะใช้คู่กับ preposition 'on' (insistence on something)"
+      },
+      {
+        "question": "She seemed preoccupied ___ her own thoughts and barely noticed my presence.",
+        "options": [
+          "A. by",
+          "B. with",
+          "C. in",
+          "D. on"
+        ],
+        "answer": "B",
+        "explanation": "'Preoccupied' (หมกมุ่น, ครุ่นคิด) จะใช้กับ preposition 'with' เพื่อบอกว่ากำลังคิดเรื่องอะไรอยู่ (preoccupied with something)"
+      },
+      {
+        "question": "The witness's account did not tally ___ the video footage from the security camera.",
+        "options": [
+          "A. with",
+          "B. to",
+          "C. up",
+          "D. on"
+        ],
+        "answer": "A",
+        "explanation": "Verb 'to tally' ในความหมายว่า 'ตรงกัน' หรือ 'สอดคล้องกัน' จะใช้กับ 'with' (to tally with something)"
+      },
+      {
+        "question": "The company is accountable ___ its shareholders for its financial performance.",
+        "options": [
+          "A. for",
+          "B. with",
+          "C. to",
+          "D. on"
+        ],
+        "answer": "C",
+        "explanation": "'Accountable to someone' หมายถึง 'ต้องรับผิดชอบและให้คำอธิบายต่อใครบางคน' ในขณะที่ 'accountable for something' หมายถึง 'รับผิดชอบต่อการกระทำหรือผลลัพธ์' ในที่นี้คือรับผิดชอบต่อผู้ถือหุ้น จึงใช้ 'to'"
+      },
+      {
+        "question": "Many people are wary ___ investing in such a volatile market.",
+        "options": [
+          "A. of",
+          "B. about",
+          "C. with",
+          "D. for"
+        ],
+        "answer": "A",
+        "explanation": "'Wary' (ระแวดระวัง) เป็น Adjective ที่ต้องใช้กับ preposition 'of' (to be wary of someone/something)"
+      },
+      {
+        "question": "The success of the project hinges ___ securing adequate funding.",
+        "options": [
+          "A. with",
+          "B. on",
+          "C. in",
+          "D. at"
+        ],
+        "answer": "B",
+        "explanation": "Verb 'to hinge' ในความหมายว่า 'ขึ้นอยู่กับ' (to depend on) จะใช้กับ 'on' หรือ 'upon' (to hinge on/upon something)"
+      },
+      {
+        "question": "He was implicated ___ the elaborate scheme to defraud investors of millions of dollars.",
+        "options": [
+          "A. with",
+          "B. by",
+          "C. in",
+          "D. for"
+        ],
+        "answer": "C",
+        "explanation": "Verb 'to implicate' หมายถึง 'ทำให้พัวพัน' หรือ 'ชี้ว่ามีส่วนเกี่ยวข้อง (ในทางไม่ดี)' จะใช้กับ preposition 'in' (to be implicated in a crime/a scheme)"
+      },
+      {
+        "question": "The documentary provides a fascinating insight ___ the complex social structure of ant colonies.",
+        "options": [
+          "A. to",
+          "B. for",
+          "C. on",
+          "D. into"
+        ],
+        "answer": "D",
+        "explanation": "คำนาม 'insight' (ความเข้าใจอย่างลึกซึ้ง) มักจะใช้กับ preposition 'into' เพื่อบอกว่าเข้าใจลึกซึ้งในเรื่องอะไร (an insight into something)"
+      },
+      {
+        "question": "She is conversant ___ all aspects of maritime law.",
+        "options": [
+          "A. in",
+          "B. about",
+          "C. with",
+          "D. on"
+        ],
+        "answer": "C",
+        "explanation": "'Conversant' เป็น Adjective ที่หมายถึง 'คุ้นเคยเป็นอย่างดี' หรือ 'รอบรู้' ในเรื่องใดเรื่องหนึ่ง จะใช้กับ 'with' (to be conversant with a subject)"
+      },
+      {
+        "question": "The police chief decided to clamp down ___ illegal street racing after a series of tragic accidents.",
+        "options": [
+          "A. on",
+          "B. against",
+          "C. with",
+          "D. over"
+        ],
+        "answer": "A",
+        "explanation": "Phrasal verb 'to clamp down on' หมายถึง 'ใช้มาตรการขั้นเด็ดขาดกับ' หรือ 'ปราบปราม' เป็นสำนวนที่ต้องใช้ 'on' เสมอ"
+      },
+      {
+        "question": "I'm not averse ___ the idea of working abroad, but it would depend on the location.",
+        "options": [
+          "A. against",
+          "B. for",
+          "C. to",
+          "D. with"
+        ],
+        "answer": "C",
+        "explanation": "'Averse' เป็น Adjective หมายถึง 'ไม่ชอบ' หรือ 'คัดค้าน' และต้องใช้กับ preposition 'to' (to be averse to something/doing something)"
+      },
+      {
+        "question": "The negotiations culminated ___ a historic peace agreement that ended decades of conflict.",
+        "options": [
+          "A. with",
+          "B. by",
+          "C. into",
+          "D. in"
+        ],
+        "answer": "D",
+        "explanation": "Verb 'to culminate' หมายถึง 'จบลงด้วย' หรือ 'ถึงจุดสูงสุดด้วย' จะใช้กับ preposition 'in' หรือ 'with' ก็ได้ แต่ 'in' เป็นที่นิยมมากกว่าเมื่อพูดถึงผลลัพธ์สุดท้าย (to culminate in something)"
+      },
+      {
+        "question": "The company's ethos is predicated ___ the principles of innovation and customer satisfaction.",
+        "options": [
+          "A. on",
+          "B. in",
+          "C. with",
+          "D. for"
+        ],
+        "answer": "A",
+        "explanation": "Verb 'to predicate' ในที่นี้หมายถึง 'ตั้งอยู่บนพื้นฐานของ' (to base something on) และจะใช้กับ 'on' หรือ 'upon' เสมอ (to be predicated on/upon something)"
+      },
+      {
+        "question": "This ancient tradition is inherent ___ the cultural identity of the indigenous people.",
+        "options": [
+          "A. with",
+          "B. to",
+          "C. in",
+          "D. for"
+        ],
+        "answer": "C",
+        "explanation": "'Inherent' เป็น Adjective หมายถึง 'ซึ่งมีอยู่โดยธรรมชาติ' หรือ 'เป็นส่วนหนึ่ง' และจะใช้กับ preposition 'in' (inherent in something)"
+      },
+      {
+        "question": "The general was stripped ___ his rank and honors for acts of insubordination.",
+        "options": [
+          "A. from",
+          "B. of",
+          "C. off",
+          "D. with"
+        ],
+        "answer": "B",
+        "explanation": "Verb 'to strip' ในความหมายว่า 'ถอด' หรือ 'ริบ' (ยศ, ตำแหน่ง, ทรัพย์สิน) จะใช้กับ preposition 'of' (to strip someone of something)"
+      },
+      {
+        "question": "The politician's evasive answers did little to instill confidence ___ the electorate.",
+        "options": [
+          "A. to",
+          "B. for",
+          "C. on",
+          "D. in"
+        ],
+        "answer": "D",
+        "explanation": "Verb 'to instill' หมายถึง 'ปลูกฝัง' (ความรู้สึก, ความคิด) และจะใช้กับ 'in' เพื่อบอกว่าปลูกฝังในใคร (to instill confidence/fear in someone)"
+      },
+      {
+        "question": "She has an unswerving commitment ___ environmental conservation.",
+        "options": [
+          "A. with",
+          "B. for",
+          "C. to",
+          "D. on"
+        ],
+        "answer": "C",
+        "explanation": "คำนาม 'commitment' (ความมุ่งมั่น, พันธะ) จะใช้กับ preposition 'to' เพื่อบอกว่ามุ่งมั่นต่อสิ่งใด (a commitment to something)"
+      },
+      {
+        "question": "The evidence adduced in court did not bear ___ the central question of motive.",
+        "options": [
+          "A. out",
+          "B. on",
+          "C. with",
+          "D. up"
+        ],
+        "answer": "B",
+        "explanation": "Phrasal verb 'to bear on' หมายถึง 'เกี่ยวข้องกับ' หรือ 'มีผลต่อ' (to be relevant to). 'Bear out' หมายถึง 'ยืนยัน'. 'Bear with' หมายถึง 'อดทนกับ'. 'Bear up' หมายถึง 'ยืนหยัด'. ในบริบทนี้ 'bear on' คือคำตอบที่ถูกต้องที่สุด"
+      },
+      {
+        "question": "The architect's design is reminiscent ___ the Bauhaus style of the early 20th century.",
+        "options": [
+          "A. to",
+          "B. with",
+          "C. of",
+          "D. about"
+        ],
+        "answer": "C",
+        "explanation": "'Reminiscent' เป็น Adjective หมายถึง 'ซึ่งทำให้นึกถึง' และต้องใช้คู่กับ 'of' เสมอ (reminiscent of something)"
+      },
+      {
+        "question": "His argument is riddled ___ logical fallacies and unsubstantiated claims.",
+        "options": [
+          "A. of",
+          "B. in",
+          "C. by",
+          "D. with"
+        ],
+        "answer": "D",
+        "explanation": "สำนวน 'riddled with' หมายถึง 'เต็มไปด้วย (สิ่งไม่ดี)' เช่น ปัญหา ข้อผิดพลาด หรือรูกระสุน จะใช้กับ 'with' เสมอ"
+      },
+      {
+        "question": "The board of directors is deliberating ___ the best course of action to take.",
+        "options": [
+          "A. on",
+          "B. with",
+          "C. for",
+          "D. to"
+        ],
+        "answer": "A",
+        "explanation": "Verb 'deliberate' หมายถึง 'ไตร่ตรองอย่างรอบคอบ' เมื่อต้องการระบุเรื่องที่กำลังไตร่ตรอง จะใช้ preposition 'on' หรือ 'over' (to deliberate on/over a decision)"
+      },
+      {
+        "question": "The company's success is contingent ___ its ability to adapt to a rapidly changing market.",
+        "options": [
+          "A. with",
+          "B. on",
+          "C. to",
+          "D. for"
+        ],
+        "answer": "B",
+        "explanation": "'Contingent' เป็น Adjective หมายถึง 'ขึ้นอยู่กับ' (dependent on) และจะใช้กับ preposition 'on' หรือ 'upon' เสมอ (contingent on/upon something)"
+      }
+    ]
+  }
+]

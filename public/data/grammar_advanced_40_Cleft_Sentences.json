@@ -1,0 +1,978 @@
+[
+  {
+    "id": "40_1",
+    "title": "40.1 It-clefts (It was John who...)",
+    "explanation": "Cleft Sentences คือ ประโยคที่ถูก 'ผ่า' หรือ 'แยก' (cleft) ออกเป็นสองส่วน เพื่อ 'เน้น' หรือ 'ชี้เฉพาะ' ข้อมูลส่วนใดส่วนหนึ่งเป็นพิเศษ เปรียบเสมือนการส่องสปอตไลท์ไปที่นักแสดงคนสำคัญบนเวที\n\nIt-clefts คือรูปแบบที่พบบ่อยที่สุด โดยใช้โครงสร้าง 'It + be + ... + relative clause (that/who/which...)'\n\n**แก่นของ It-clefts:**\nโครงสร้างพื้นฐาน: `It + [รูปของ verb to be] + [ส่วนที่ต้องการเน้น] + [relative clause ที่ขึ้นต้นด้วย that, who, which, when, where, etc.]`\n\n1.  **การเลือกใช้ Verb 'to be'**: กริยา 'be' จะต้องสอดคล้องกับ 'กาล' (Tense) ของประโยคดั้งเดิม\n    *   ประโยคเดิม: `The CEO made the controversial decision yesterday.` (Past Simple)\n    *   It-cleft: `It was the CEO who made the controversial decision yesterday.` (ใช้ 'was')\n\n2.  **ส่วนที่สามารถเน้นได้ (The Focus)**: เราสามารถดึงองค์ประกอบเกือบทุกส่วนของประโยคมาวางไว้หลัง 'It is/was' เพื่อเน้นได้\n    *   **เน้นประธาน (Subject)**: `It was the maverick scientist who challenged the established theory.` (เน้นว่า 'นักวิทยาศาสตร์นอกคอกคนนั้น' ที่เป็นคนท้าทายทฤษฎี ไม่ใช่คนอื่น)\n    *   **เน้นกรรม (Object)**: `It was the company's arcane privacy policy that the lawyer scrutinized.` (เน้นว่า 'นโยบายความเป็นส่วนตัวที่ซับซ้อน' คือสิ่งที่ทนายตรวจสอบ ไม่ใช่เอกสารอื่น)\n    *   **เน้นกลุ่มคำบุพบท (Prepositional Phrase)**: สามารถเน้นได้หลากหลายมิติ เช่น\n        *   **เวลา (Time)**: `It was only after decades of research that they finally achieved a breakthrough.`\n        *   **สถานที่ (Place)**: `It was from this unassuming laboratory that the world-changing discovery emerged.`\n        *   **เหตุผล (Reason)**: `It was for his unwavering integrity that he was universally respected.`\n        *   **ลักษณะท่าทาง (Manner)**: `It was with profound reluctance that the board approved the merger.`\n\n3.  **การเลือกใช้ Relative Pronoun**: \n    *   `who/that`: ใช้กับประธานหรือกรรมที่เป็น 'คน'\n    *   `which/that`: ใช้กับประธานหรือกรรมที่เป็น 'สิ่งของ' หรือ 'สัตว์'\n    *   `that`: เป็นคำที่ยืดหยุ่นที่สุด มักใช้กับการเน้นกลุ่มคำบุพบท (เวลา, สถานที่, เหตุผล) และเป็นที่นิยมในบริบทส่วนใหญ่\n    *   `when/where`: สามารถใช้ได้เมื่อเน้นเวลาหรือสถานที่ แต่การใช้ 'that' จะให้ความรู้สึกที่เป็นทางการและเน้นย้ำได้ดีกว่าในหลายกรณี เช่น `It was in Paris that he found his inspiration.` เป็นที่นิยมกว่า `...where he found...` ในการเขียนเชิงวิชาการ\n\n4.  **Cleft Sentences เชิงปฏิเสธ**: ใช้เพื่อแก้ไขความเข้าใจผิดหรือเปรียบเทียบความต่างอย่างชัดเจน\n    *   `It wasn't his audacious proposal that shocked the investors, but his complete lack of a contingency plan.` (ไม่ใช่ข้อเสนอที่บ้าบิ่นที่ทำให้ตกใจ แต่เป็นการไม่มีแผนสำรองต่างหาก)",
+    "examples": [
+      {
+        "eng": "It was the surreptitious removal of key data from the servers, not the financial loss itself, that ultimately led to the CEO's dismissal.",
+        "thai": "มันคือ 'การลบข้อมูลสำคัญออกจากเซิร์ฟเวอร์อย่างลับๆ' ต่างหาก ไม่ใช่ความสูญเสียทางการเงิน ที่นำไปสู่การไล่ออกของ CEO ในท้ายที่สุด -> ประโยคนี้ใช้ It-cleft เชิงปฏิเสธ (`It wasn't A, but B that...` แต่ละ A และ B) เพื่อสร้างความคอนทราสต์ที่ชัดเจนและเน้นย้ำถึง 'สาเหตุที่แท้จริง' ของเหตุการณ์"
+      },
+      {
+        "eng": "It is by scrutinizing these statistical anomalies that we can begin to uncover the sophisticated mechanisms of the fraud.",
+        "thai": "โดยการ 'ตรวจสอบความผิดปกติทางสถิติเหล่านี้อย่างละเอียด' นี่แหละ ที่เราจะสามารถเริ่มเปิดโปงกลไกอันซับซ้อนของการฉ้อโกงได้ -> เน้นกลุ่มคำบุพบทที่บอก 'ลักษณะ/วิธีการ' (Manner) คือ `by scrutinizing...` แสดงให้เห็นว่าวิธีการนี้คือหัวใจสำคัญในการแก้ปัญหา"
+      },
+      {
+        "eng": "It has been the pervasive influence of social media that has profoundly reshaped the landscape of modern political discourse.",
+        "thai": "มันคือ 'อิทธิพลที่แผ่ขยายไปทั่วของโซเชียลมีเดีย' ที่ได้ปรับเปลี่ยนภูมิทัศน์ของวาทกรรมทางการเมืองสมัยใหม่ไปอย่างลึกซึ้ง -> ใช้ Present Perfect (`It has been...`) เพื่อเน้นสิ่งที่เกิดขึ้นในอดีตและยังคงส่งผลต่อเนื่องมาจนถึงปัจจุบัน โครงสร้างนี้แสดงถึงความเชื่อมโยงของเวลาได้เป็นอย่างดี"
+      }
+    ],
+    "common_mistakes": "1.  **Subject-Verb Agreement ใน Relative Clause ผิด**: คนไทยมักจะผันกริยาตาม 'It' ซึ่งเป็นเอกพจน์ แต่ที่ถูกต้อง กริยาใน relative clause ต้องสอดคล้องกับ 'คำที่ถูกเน้น'\n    *   ผิด: `It is my colleagues who is handling the project.`\n    *   ถูก: `It is my colleagues who are handling the project.` (are สอดคล้องกับ colleagues)\n    *   ยากขึ้น: `It is I who am responsible.` (am สอดคล้องกับ I) - เป็นโครงสร้างที่ถูกต้องตามหลักไวยากรณ์แต่ค่อนข้างเป็นทางการ\n\n2.  **ใช้ Tense ของ 'be' ไม่สอดคล้องกับเวลาของเหตุการณ์**: เล่าเรื่องในอดีตแต่กลับใช้ 'It is'\n    *   ผิด: `It is in 1984 that George Orwell published his famous novel.`\n    *   ถูก: `It was in 1984 that George Orwell published his famous novel.`\n\n3.  **ใช้ Relative Pronoun ซ้ำซ้อน (Redundant Pronoun)**: ใส่สรรพนามซ้ำเข้าไปใน Relative Clause ทั้งๆ ที่มี Relative Pronoun ทำหน้าที่อยู่แล้ว\n    *   ผิด: `It was the manager whom the board they promoted.` (มี they ซ้ำซ้อน)\n    *   ถูก: `It was the manager whom the board promoted.`\n\n4.  **เลือกใช้ Relative Pronoun ไม่เหมาะสม**: โดยเฉพาะการใช้ `when` หรือ `where` ในบริบทที่ `that` เหมาะสมและเป็นทางการกว่า\n    *   พอใช้ได้: `It was during the conference when I met him.`\n    *   ดีกว่า/เป็นทางการกว่า: `It was during the conference that I met him.`",
+    "practice_questions": [
+      {
+        "question": "It was with ______ that the veteran diplomat navigated the treacherous political landscape.",
+        "options": [
+          "A. consummate skill and unwavering patience",
+          "B. consummate skill and unwavering patience that he",
+          "C. consummate skill and unwavering patience who he",
+          "D. the consummate skill and the unwavering patience where he"
+        ],
+        "answer": "A",
+        "explanation": "โครงสร้าง It-cleft คือ `It + be + [ส่วนที่เน้น] + relative clause`. ในที่นี้ `It was with...` เป็นการเริ่มต้นเน้นกลุ่มคำบุพบท (prepositional phrase) ส่วนที่ต้องเติมคือส่วนที่ถูกเน้น นั่นคือ `consummate skill and unwavering patience`. ส่วนที่ตามมา `that the veteran diplomat navigated...` คือ relative clause ที่สมบูรณ์แล้ว ข้อ B และ C ผิดเพราะใส่ `that he` หรือ `who he` ซ้ำซ้อน ทำให้ประโยคมีประธานสองตัว (`he` และ `the veteran diplomat`) ข้อ D ผิดเพราะใช้ `where` ซึ่งไม่เหมาะสมกับการบอกลักษณะท่าทาง (manner) และมีการเติม a/the ที่ไม่จำเป็น"
+      },
+      {
+        "question": "It is the intrinsic flaws in the original hypothesis, not the experimental methodology, that ______ the validity of the entire study.",
+        "options": [
+          "A. undermines",
+          "B. undermine",
+          "C. is undermining",
+          "D. has undermined"
+        ],
+        "answer": "B",
+        "explanation": "นี่คือจุดที่คนพลาดบ่อยที่สุดเรื่อง Subject-Verb Agreement กริยาใน relative clause (`undermine`) ต้องสอดคล้องกับประธานที่แท้จริงที่ถูกเน้น ซึ่งก็คือ `the intrinsic flaws` (พหูพจน์) ไม่ใช่ `the original hypothesis` หรือ `the experimental methodology` ดังนั้น ต้องใช้กริยาช่อง 1 รูปพหูพจน์คือ `undermine` (ไม่เติม s)"
+      },
+      {
+        "question": "Identify the grammatically INCORRECT sentence.",
+        "options": [
+          "A. It was because of his hubris that his empire eventually crumbled.",
+          "B. It is I who am solely responsible for this regrettable oversight.",
+          "C. It was the unprecedented volatility in the market which it caused widespread panic.",
+          "D. It wasn't what he said, but how he said it, that was so profoundly insulting."
+        ],
+        "answer": "C",
+        "explanation": "ข้อ C ผิดเพราะมีสรรพนามซ้ำซ้อน (Redundant Pronoun) คือ `it` ใน `which it caused...`. Relative pronoun `which` ทำหน้าที่เป็นประธานของ `caused` อยู่แล้ว การใส่ `it` เข้ามาจึงผิดหลักไวยากรณ์ ประโยคที่ถูกต้องควรเป็น `It was the unprecedented volatility in the market which caused widespread panic.` ข้อ A, B, และ D ถูกต้องตามหลักไวยากรณ์ทั้งหมด"
+      },
+      {
+        "question": "Rephrase the following sentence using an It-cleft to emphasize the reason: 'The project was terminated primarily due to a catastrophic lack of funding.'",
+        "options": [
+          "A. It was a catastrophic lack of funding that was the primary reason for terminating the project.",
+          "B. It was the project that was terminated primarily due to a catastrophic lack of funding.",
+          "C. It was primarily due to a catastrophic lack of funding that the project was terminated.",
+          "D. It was terminating the project that happened due to a catastrophic lack of funding."
+        ],
+        "answer": "C",
+        "explanation": "โจทย์ต้องการให้เน้น 'เหตุผล' (the reason) กลุ่มคำที่แสดงเหตุผลในประโยคเดิมคือ `primarily due to a catastrophic lack of funding` ข้อ C นำกลุ่มคำนี้มาไว้หลัง `It was...` ได้อย่างถูกต้องและแม่นยำที่สุด (`It was [reason] that [what happened]`). ข้อ A เปลี่ยนโครงสร้างไปมากเกินไป ข้อ B เน้นที่ `the project` ซึ่งผิดจุดประสงค์ และข้อ D มีโครงสร้างที่ค่อนข้างอ색และไม่ได้เน้นเหตุผลโดยตรง"
+      },
+      {
+        "question": "It is only by acknowledging the complexity of the problem ______ a viable solution.",
+        "options": [
+          "A. that we can hope to formulate",
+          "B. when we can hope in formulating",
+          "C. which we can hope to formulate",
+          "D. can we hope to formulate that"
+        ],
+        "answer": "A",
+        "explanation": "โครงสร้างนี้เน้นกลุ่มคำบุพบทที่บอกเงื่อนไข/วิธีการ `by acknowledging...` Relative pronoun ที่เหมาะสมที่สุดและใช้ได้ครอบคลุมในกรณีนี้คือ `that` ซึ่งจะตามด้วย subject (`we`) + verb (`can hope...`) ข้อ B ใช้ `when` ซึ่งไม่เหมาะกับ `by...ing` ข้อ C ใช้ `which` ซึ่งปกติใช้กับสิ่งของ และข้อ D วาง `that` ไว้ผิดที่และสลับตำแหน่งประธานกริยา (inversion) โดยไม่จำเป็น"
+      },
+      {
+        "question": "It ______ the chief financial officer, ______ the board holds accountable for the fiscal mismanagement.",
+        "options": [
+          "A. is / whom",
+          "B. was / which",
+          "C. is / who",
+          "D. was / that"
+        ],
+        "answer": "A",
+        "explanation": "ส่วนแรกของประโยคใช้ `holds` (Present Simple) แสดงว่าเป็นการพูดถึงสถานการณ์ปัจจุบัน จึงควรใช้ `It is`. ส่วนที่สอง ส่วนที่ถูกเน้นคือ `the chief financial officer` ซึ่งทำหน้าที่เป็น 'กรรม' (object) ของประโยค `the board holds [him] accountable`. ดังนั้น Relative pronoun ที่ถูกต้องและเป็นทางการที่สุดสำหรับกรรมที่เป็นคนคือ `whom`. (แม้ `who` หรือ `that` จะยอมรับได้ในการพูด แต่ `whom` คือตัวเลือกที่ดีที่สุดในข้อสอบระดับสูง)"
+      },
+      {
+        "question": "It was in the final, tense moments of the negotiation ______ a last-minute concession was made, averting a complete breakdown in talks.",
+        "options": [
+          "A. when",
+          "B. where",
+          "C. that",
+          "D. which"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้เน้นกลุ่มคำที่บอก 'เวลา' (`in the final, tense moments of the negotiation`) แม้ว่า `when` จะสามารถใช้กับเวลาได้ แต่ในโครงสร้าง It-cleft ที่เป็นทางการ `that` เป็นตัวเลือกที่นิยมใช้และครอบคลุมมากกว่า โดยเฉพาะเมื่อส่วนที่เน้นเป็น Prepositional Phrase (`in...`) การใช้ `that` จะทำให้ประโยคฟังดูหนักแน่นและเป็นทางการกว่า `when`"
+      },
+      {
+        "question": "It wasn't so much the audacity of his claim ______ the complete absence of empirical evidence to support it.",
+        "options": [
+          "A. but it was",
+          "B. rather than",
+          "C. as",
+          "D. than it was"
+        ],
+        "answer": "C",
+        "explanation": "นี่คือโครงสร้าง It-cleft ที่ใช้สำนวนเฉพาะ: `It's not so much A as B`. สำนวนนี้ใช้เพื่อเปรียบเทียบและบอกว่า B เป็นประเด็นที่สำคัญกว่า A ความหมายคือ 'มันไม่ใช่ประเด็นเรื่อง A มากเท่ากับที่เป็นประเด็นเรื่อง B' ดังนั้น คำที่ถูกต้องเพื่อเติมในช่องว่างให้สมบูรณ์ตามสำนวนคือ `as`. รูปแบบ `It wasn't so much [Thing 1] as [Thing 2] that...` เป็นโครงสร้างที่ซับซ้อนขึ้น"
+      },
+      {
+        "question": "It appears to be the intern, and not the seasoned executives, who ______ access to the confidential server logs.",
+        "options": [
+          "A. have",
+          "B. has been",
+          "C. is having",
+          "D. has"
+        ],
+        "answer": "D",
+        "explanation": "เช่นเดียวกับข้ออื่นๆ กริยาใน relative clause ต้องสอดคล้องกับประธานที่ถูกเน้น ในที่นี้ ถึงแม้จะมี `the seasoned executives` อยู่ในประโยค แต่โครงสร้าง `X, and not Y` จะให้ความสำคัญกับ X เป็นหลัก ประธานที่แท้จริงที่ถูกเน้นคือ `the intern` (เอกพจน์) ดังนั้นกริยาที่ถูกต้องคือ `has`"
+      },
+      {
+        "question": "______ that the obfuscation of data became a deliberate corporate strategy.",
+        "options": [
+          "A. It was only after the scandal broke",
+          "B. Only after the scandal broke it was",
+          "C. It was after the scandal broke only",
+          "D. After the scandal broke it was that"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้ต้องการส่วน It-cleft ที่สมบูรณ์เพื่อเริ่มต้นประโยค โครงสร้างที่ถูกต้องคือ `It + be + [ส่วนที่เน้น] + that...`. ในที่นี้ส่วนที่ถูกเน้นคือกลุ่มคำบอกเวลา `only after the scandal broke`. ข้อ A วางองค์ประกอบทั้งหมดถูกต้องตามลำดับ ข้อ B, C, และ D มีการเรียงลำดับคำที่ผิดธรรมชาติและผิดหลักไวยากรณ์ของ It-cleft"
+      }
+    ]
+  },
+  {
+    "id": "40_2",
+    "title": "40.2 Wh-clefts (What I need is...)",
+    "explanation": "Wh-clefts หรืออีกชื่อคือ Pseudo-clefts คือประโยคที่ใช้เน้นย้ำข้อมูลส่วนใดส่วนหนึ่งเป็นพิเศษ โดยการย้ายข้อมูลส่วนนั้นไปไว้ท้ายประโยค โครงสร้างนี้ทรงพลังมากในการดึงความสนใจของผู้ฟังหรือผู้อ่านไปยัง 'ใจความสำคัญ' ที่เราต้องการจะสื่อ\n\n**โครงสร้างหลัก:**\n`Wh-clause (อนุประโยคที่ขึ้นต้นด้วย Wh-)` + `verb 'to be'` + `Emphasized Information (ข้อมูลที่ต้องการเน้น)`\n\n**แก่นของมันคืออะไร?**\n- **Wh-clause ทำหน้าที่เป็นประธาน (Subject):** ทั้งก้อน `What he said` หรือ `Where she goes` จะถูกมองว่าเป็น 'สิ่งเดียว' (a single entity) ทำหน้าที่เป็นประธานของประโยคหลัก\n- **Verb 'to be' คือตัวเชื่อม:** กริยาที่ใช้มักจะเป็น `is` หรือ `was` ทำหน้าที่เหมือนเครื่องหมายเท่ากับ (=) เพื่อบอกว่า 'สิ่งที่... คือ สิ่งนี้'\n- **ข้อมูลที่ถูกเน้น (Focus):** ใจความสำคัญที่เราอยากให้คนฟังโฟกัส จะอยู่หลัง verb 'to be'\n\n**ประเภทของ Wh-words ที่ใช้:**\n- **What:** ใช้เน้น 'สิ่งของ' หรือ 'การกระทำ' (เป็นคำที่ใช้บ่อยที่สุด)\n  *`What exasperates the critics is the film's complete disregard for historical accuracy.` (สิ่งที่ทำให้เหล่านักวิจารณ์โกรธเคืองคือการที่หนังเมินเฉยต่อความถูกต้องทางประวัติศาสตร์โดยสิ้นเชิง)\n- **Where:** ใช้เน้น 'สถานที่'\n  *`Where the negotiations ultimately broke down was over the issue of intellectual property rights.` (จุดที่การเจรจาล้มเหลวในท้ายที่สุดคือประเด็นเรื่องสิทธิ์ในทรัพย์สินทางปัญญา)\n- **When:** ใช้เน้น 'เวลา'\n  *`When the paradigm shift occurred is difficult to pinpoint with absolute certainty.` (ช่วงเวลาที่การเปลี่ยนแปลงกระบวนทัศน์ครั้งสำคัญเกิดขึ้นนั้นยากที่จะระบุได้อย่างแน่ชัด)\n- **Why (หรือ The reason why):** ใช้เน้น 'เหตุผล'\n  *`Why the project was abruptly terminated remains a contentious issue.` (เหตุผลที่โครงการถูกยกเลิกอย่างกะทันหันยังคงเป็นประเด็นที่ถกเถียงกันอยู่)\n- **How:** ใช้เน้น 'วิธีการ'\n  *`How the ancient engineers achieved such precision is a marvel of ingenuity.` (วิธีที่วิศวกรโบราณสร้างผลงานได้แม่นยำขนาดนี้เป็นสิ่งมหัศจรรย์แห่งความเฉลียวฉลาด)\n\n**โครงสร้างแบบกลับด้าน (Reversed Wh-clefts):**\nเราสามารถสลับที่ข้อมูลที่ต้องการเน้นมาไว้ข้างหน้าได้ เพื่อสร้างความหลากหลายและเน้นย้ำในอีกรูปแบบหนึ่ง\n`Emphasized Information` + `verb 'to be'` + `Wh-clause`\n*   `A comprehensive reform of the tax system is what the country desperately needs.` (การปฏิรูประบบภาษีอย่างครอบคลุมคือสิ่งที่ประเทศต้องการอย่างยิ่ง) — เทียบกับ `What the country desperately needs is a comprehensive reform of the tax system.`\n\n**เรื่องที่ลึกขึ้น: Subject-Verb Agreement**\nโดยปกติแล้ว Wh-clause จะถือเป็นประธานเอกพจน์ ดังนั้นกริยา 'to be' จึงต้องเป็น `is` หรือ `was` เสมอ แม้ว่าข้อมูลที่ตามมาจะเป็นพหูพจน์ก็ตาม\n*   `What the report highlights is the numerous inconsistencies in their financial statements.` (สิ่งที่รายงานเน้นย้ำคือความไม่สอดคล้องกันจำนวนมากในงบการเงินของพวกเขา) — `is` ถูกต้อง เพราะประธานคือ 'What the report highlights' (สิ่งเดียว)\n*   ในภาษาพูดที่ไม่เป็นทางการ อาจได้ยินคนใช้ `are` (เช่น `What we need are new ideas.`) แต่ในภาษาเขียนระดับสูงหรือการสอบ ควรยึด `is` ไว้เป็นหลักเสมอ",
+    "examples": [
+      {
+        "eng": "What the CEO's deliberately ambiguous statement implied was that a significant corporate restructuring was imminent.",
+        "thai": "สิ่งที่คำแถลงที่คลุมเครืออย่างจงใจของผู้บริหารได้บอกเป็นนัย คือการปรับโครงสร้างองค์กรครั้งสำคัญกำลังจะเกิดขึ้นในไม่ช้า (โครงสร้าง: What + S + V + was + Noun Clause. เน้นย้ำ 'ผลลัพธ์' หรือ 'ความหมายโดยนัย' ของคำแถลง)"
+      },
+      {
+        "eng": "A precipitous decline in consumer confidence is what ultimately precipitated the economic downturn.",
+        "thai": "การลดลงอย่างฮวบฮาบของความเชื่อมั่นผู้บริโภคคือสิ่งที่ท้ายที่สุดแล้วได้กระตุ้นให้เกิดภาวะเศรษฐกิจถดถอย (โครงสร้าง: Reversed Wh-cleft. เน้นย้ำ 'สาเหตุหลัก' โดยการนำมาไว้ข้างหน้า ทำให้ประโยคดูหนักแน่นและทรงพลัง)"
+      },
+      {
+        "eng": "Where the philanthropist chose to allocate the lion's share of his fortune was not to established institutions, but to grassroots movements advocating for systemic change.",
+        "thai": "สถานที่ที่เศรษฐีใจบุญเลือกที่จะจัดสรรทรัพย์สมบัติส่วนใหญ่ของเขานั้น ไม่ใช่สถาบันที่มีชื่อเสียงอยู่แล้ว แต่เป็นขบวนการระดับรากหญ้าที่สนับสนุนการเปลี่ยนแปลงเชิงระบบ (โครงสร้าง: Where-clause + was + Parallel Structure [not A, but B]. เน้นย้ำ 'ปลายทาง' ของเงินบริจาคที่คาดไม่ถึง)"
+      },
+      {
+        "eng": "How the algorithm discriminates against certain demographics is what the ongoing investigation seeks to unravel.",
+        "thai": "อัลกอริทึมเลือกปฏิบัติต่อกลุ่มประชากรบางกลุ่มอย่างไร คือสิ่งที่การสืบสวนที่ดำเนินอยู่นี้พยายามจะคลี่คลาย (โครงสร้าง: How-clause + is + What-clause. เป็นการซ้อน Cleft Sentence เข้าไปอีกชั้นหนึ่ง เพื่อเน้นย้ำ 'เป้าหมาย' ของการสืบสวน)"
+      }
+    ],
+    "common_mistakes": "- **Subject-Verb Agreement ผิดพลาด:** คนไทยมักจะผันกริยา `be` ตามคำนามที่อยู่ใกล้ที่สุดใน Wh-clause แทนที่จะมองว่าทั้ง clause เป็นประธานเอกพจน์\n  *  ผิด: `What these convoluted legal documents **imply are** dire consequences.`\n  *  ถูก: `What these convoluted legal documents **imply is** dire consequences.` (ประธานคือ 'สิ่งที่เอกสารทางกฎหมายที่ซับซ้อนเหล่านี้บอกเป็นนัย' ซึ่งเป็นแนวคิดเดียว)\n- **ใช้ Pronoun ซ้ำซ้อน:** ใส่สรรพนาม (it, that) เข้ามาโดยไม่จำเป็น เพราะคิดว่า Wh-clause ยังขาดประธานหรือกรรม\n  *  ผิด: `What the data clearly indicates **it** is a worrying trend.`\n  *  ถูก: `What the data clearly indicates is a worrying trend.` (Wh-clause ทำหน้าที่เป็นประธานอยู่แล้ว)\n- **สับสนกับประโยคคำถาม:** เรียงลำดับคำใน Wh-clause แบบประโยคคำถาม (มี auxiliary verb มาก่อนประธาน)\n  *  ผิด: `What **did the politician promise** was a radical departure from the party's platform.`\n  *  ถูก: `What **the politician promised** was a radical departure from the party's platform.` (ใน Cleft sentence, Wh-clause ต้องมีโครงสร้างแบบประโยคบอกเล่า: S + V)\n- **เลือกใช้ Wh-word ไม่เหมาะสม:** ใช้ `How` แทน `What` เมื่อพูดถึงสิ่งของ หรือใช้ `What` แทน `Where` เมื่อพูดถึงสถานที่ ทำให้ความหมายผิดเพี้ยนไป",
+    "practice_questions": [
+      {
+        "question": "What the forensic evidence unequivocally ______ the suspect's direct involvement in the crime.",
+        "options": [
+          "A. suggests are",
+          "B. suggests is",
+          "C. do suggest is",
+          "D. suggest is"
+        ],
+        "answer": "B",
+        "explanation": "ประธานของประโยคคือ Wh-clause ทั้งหมด ('What the forensic evidence unequivocally suggests') ซึ่งถือเป็นประธานเอกพจน์ ดังนั้นกริยาที่ตามมาต้องเป็น 'is' นอกจากนี้ กริยาใน Wh-clause ('suggests') ต้องเติม 's' เพราะประธานของมันคือ 'evidence' (เอกพจน์นับไม่ได้) ข้อ B จึงถูกต้องทั้งไวยากรณ์และความหมาย"
+      },
+      {
+        "question": "A pervasive sense of apathy among the electorate ______ what truly threatens the foundation of our democracy.",
+        "options": [
+          "A. are",
+          "B. which is",
+          "C. is",
+          "D. being"
+        ],
+        "answer": "C",
+        "explanation": "นี่คือโครงสร้างแบบ Reversed Wh-cleft ประธานของประโยคคือ 'A pervasive sense of apathy among the electorate' ซึ่งเป็นนามวลีเอกพจน์ กริยาที่ต้องใช้คือ 'is' เพื่อเชื่อมกับ Wh-clause ที่ตามมา"
+      },
+      {
+        "question": "Where the two tectonic plates converge ______ a zone of intense seismic activity, prone to frequent and devastating earthquakes.",
+        "options": [
+          "A. creating",
+          "B. are",
+          "C. create",
+          "D. is"
+        ],
+        "answer": "D",
+        "explanation": "ประธานคือ Where-clause ('Where the two tectonic plates converge') ซึ่งหมายถึง 'สถานที่' และถูกมองว่าเป็นแนวคิดเดียว (singular entity) ดังนั้นจึงต้องใช้กริยาเอกพจน์ 'is' แม้ว่าคำว่า 'plates' จะเป็นพหูพจน์ แต่มันไม่ใช่ประธานหลักของประโยค Cleft นี้"
+      },
+      {
+        "question": "The pivotal issue is not ______ he said, but rather the insidious implications behind his ostensibly innocuous words.",
+        "options": [
+          "A. what did",
+          "B. that what",
+          "C. that which",
+          "D. what"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคนี้ต้องการ Wh-clause เพื่อทำหน้าที่เป็นส่วนเติมเต็ม (complement) หลัง 'is not' คำที่เหมาะสมที่สุดคือ 'what' เพื่อสร้าง clause 'what he said' (สิ่งที่เขาพูด) ข้อ A ผิดเพราะเรียงลำดับคำแบบประโยคคำถาม ข้อ B และ C ใช้คำฟุ่มเฟือยและผิดโครงสร้าง"
+      },
+      {
+        "question": "How the reclusive billionaire amassed his colossal fortune ______ a subject of rampant speculation and intrigue.",
+        "options": [
+          "A. remain",
+          "B. remaining",
+          "C. remains",
+          "D. are remaining"
+        ],
+        "answer": "C",
+        "explanation": "ในกรณีนี้ ประโยคไม่ได้ใช้ verb 'to be' แต่ใช้กริยา 'remain' ซึ่งทำหน้าที่คล้ายกัน ประธานคือ How-clause ('How the reclusive billionaire amassed his colossal fortune') ซึ่งถือเป็นประธานเอกพจน์ ดังนั้นกริยาจึงต้องเป็น 'remains'"
+      },
+      {
+        "question": "______ the protagonist's tragic flaw is his hubris, which ultimately leads to his downfall.",
+        "options": [
+          "A. That which constitutes",
+          "B. What constitutes",
+          "C. It constitutes",
+          "D. What does constitute"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้ต้องการ Wh-clause มาทำหน้าที่เป็นประธาน 'What constitutes the protagonist's tragic flaw' (สิ่งที่ประกอบกันเป็นข้อบกพร่องอันน่าเศร้าของตัวเอก) คือโครงสร้างที่ถูกต้องที่สุด ข้อ D ผิดเพราะเรียงลำดับแบบคำถาม ข้อ A และ C ทำให้โครงสร้างประโยคไม่สมบูรณ์"
+      },
+      {
+        "question": "The reason why the experiment yielded such anomalous results ______ the researchers have been painstakingly investigating for months.",
+        "options": [
+          "A. is what",
+          "B. are what",
+          "C. is that which",
+          "D. is which"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้ซับซ้อนขึ้น โดยมี Cleft sentence ซ้อนกันอยู่ ส่วนแรกคือ 'The reason why...' และส่วนที่ถูกเน้นคือ Wh-clause อีกอันหนึ่ง 'what the researchers have been painstakingly investigating...' 'is what' คือการเชื่อมที่ถูกต้องและสมบูรณ์ที่สุดเพื่อสร้างโครงสร้างนี้"
+      },
+      {
+        "question": "What the new regulations aim to do ______ the pervasive loopholes that have allowed for widespread tax evasion.",
+        "options": [
+          "A. is close",
+          "B. is to close",
+          "C. are closing",
+          "D. is closing"
+        ],
+        "answer": "B",
+        "explanation": "เมื่อ Wh-clause มีกริยา 'do' (เช่น What I do, What they did) ส่วนที่ตามหลัง verb 'to be' มักจะอยู่ในรูป 'to-infinitive' (to + V1) หรือ bare infinitive (V1) ในภาษาที่ไม่เป็นทางการ แต่ 'to-infinitive' ('to close') เป็นรูปที่ถูกต้องและเป็นมาตรฐานที่สุดในภาษาเขียนระดับสูง"
+      },
+      {
+        "question": "______ an unassailable alibi for the night of the incident was what ultimately exonerated the defendant.",
+        "options": [
+          "A. That he possessed",
+          "B. What he possessed",
+          "C. He possessed",
+          "D. For possessing"
+        ],
+        "answer": "A",
+        "explanation": "ข้อนี้ทดสอบโครงสร้าง Reversed Cleft ที่ซับซ้อน ส่วนที่ต้องการคือประธานของประโยค '...was what ultimately exonerated the defendant.' 'That he possessed an unassailable alibi' เป็น That-clause ที่ทำหน้าที่เป็นประธานได้ และให้ความหมายที่ถูกต้องที่สุด คือ 'ข้อเท็จจริงที่ว่าเขา...เป็นสิ่งที่...' ซึ่งเน้นย้ำที่ 'ข้อเท็จจริง' นั้นเอง"
+      },
+      {
+        "question": "What the dissident journalist’s exposé on institutional corruption managed to achieve, despite facing innumerable threats and considerable personal risk, ______ a nationwide conversation that precipitated sweeping political reforms.",
+        "options": [
+          "A. was to spark",
+          "B. were to spark",
+          "C. was sparked",
+          "D. sparking"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้ยาวและซับซ้อน แต่โครงสร้างหลักยังคงเดิม ประธานคือ Wh-clause ทั้งหมด ('What the dissident journalist’s exposé... managed to achieve, despite...') ซึ่งเป็นเอกพจน์ ดังนั้นกริยาต้องเป็น 'was' ส่วนที่ตามมาอธิบาย 'สิ่งที่ทำสำเร็จ' และเนื่องจากใน Wh-clause มีกริยาที่แสดงการกระทำ ('achieve') การใช้ 'to-infinitive' ('to spark') จึงเป็นรูปแบบที่ถูกต้องและสละสลวยที่สุดในการอธิบายเป้าหมายหรือผลลัพธ์นั้น"
+      }
+    ]
+  },
+  {
+    "id": "40_3",
+    "title": "40.3 All-clefts (All you have to do is...)",
+    "explanation": "All-clefts คือ รูปแบบประโยค Pseudo-cleft ชนิดหนึ่งที่ใช้ 'All' นำหน้า เพื่อเน้นย้ำ (emphasize) และสรุปรวบยอด (summarize) สิ่งที่สำคัญที่สุด หรือสิ่งเดียวที่จำเป็นต้องทำ คล้ายกับการพูดว่า \"สิ่งเดียวเท่านั้นที่...คือ...\"\n\n**แก่นของ All-clefts:**\nโครงสร้างนี้ทรงพลังมากในการสื่อสาร เพราะมันช่วยลดทอนความซับซ้อนของสถานการณ์ลงมาเหลือเพียงประเด็นเดียวที่สำคัญที่สุด ทำให้ผู้ฟังโฟกัสไปที่สิ่งนั้นได้อย่างชัดเจน\n\n**โครงสร้างหลัก:**\n`All + (that) + Subject + Verb Phrase + IS/WAS + (to) + Bare Infinitive / Noun Phrase`\n\n**การเจาะลึกโครงสร้าง:**\n1.  **ส่วนของ 'All' Clause**: `All (that) you need to do` ทำหน้าที่เหมือนคำนามก้อนใหญ่ๆ (Noun Clause) ที่เป็นประธานของประโยคหลัก และจะถือว่าเป็น 'เอกพจน์' เสมอ ไม่ว่าสิ่งที่พูดถึงจะมีหลายอย่างหรือไม่ก็ตาม นี่คือเหตุผลที่ Verb to be ต้องเป็น `is` หรือ `was` เสมอ\n\n2.  **ส่วนขยาย (Complement) หลัง 'is/was'**: นี่คือจุดที่สำคัญที่สุดสำหรับผู้เรียนระดับสูง\n    *   **ถ้า All-clause สื่อถึง 'การกระทำ' (action):** ส่วนขยายมักจะเป็น **Bare Infinitive (กริยาช่อง 1 ที่ไม่มี to)** ซึ่งเป็นธรรมชาติและใช้บ่อยที่สุดในภาษาพูดและเขียนทั่วไป เช่น `All you have to do is **listen**.`\n    *   สามารถใช้ **To-infinitive** ได้เช่นกัน (`All you have to do is **to listen**`) แต่จะให้ความรู้สึกที่เป็นทางการ (formal) มากกว่า และเน้นย้ำถึง 'เป้าหมาย' หรือ 'หน้าที่' ที่ต้องทำให้สำเร็จ\n    *   **ถ้า All-clause สื่อถึง 'สิ่งของ' หรือ 'แนวคิด' (thing/idea):** ส่วนขยายจะเป็น **Noun Phrase (กลุ่มคำนาม)** เช่น `All I want for Christmas **is you**.` หรือ `All that matters **is the truth**.`\n\n**ความแตกต่างระหว่าง All-cleft กับ Wh-cleft (What-cleft):**\n*   `All you need to do is press this button.` (เน้นว่า 'นี่คือสิ่งเดียวเท่านั้น' ที่ต้องทำ ง่ายมากๆ)\n*   `What you need to do is press this button.` (เน้นว่า 'นี่คือการกระทำที่ถูกต้อง' ที่ต้องทำ เป็นการให้คำแนะนำหรือคำสั่งที่เฉพาะเจาะจงกว่า)\n\nสรุปง่ายๆ: All-clefts มีพลังในการ 'Simplification & Emphasis' คือทำให้เรื่องยากๆ ดูง่ายลงเหลือแค่สิ่งเดียวที่ต้องโฟกัส",
+    "examples": [
+      {
+        "eng": "All the beleaguered politician could do to salvage his reputation was reiterate his unwavering commitment to fiscal austerity.",
+        "thai": "สิ่งเดียวที่นักการเมืองผู้ตกที่นั่งลำบากคนนั้นสามารถทำได้เพื่อกอบกู้ชื่อเสียงของตนเองก็คือการย้ำเตือนถึงความมุ่งมั่นอันแน่วแน่ของเขาต่อนโยบายรัดเข็มขัดทางการคลัง\nคำอธิบาย: ประโยคนี้ใช้ Bare Infinitive 'reiterate' ตามหลัง 'was' เพราะส่วน All-clause (`All the beleaguered politician could do...`) พูดถึง 'การกระทำ' โครงสร้างนี้ทำให้การกระทำที่ดูซับซ้อน (การกอบกู้ชื่อเสียง) ถูกสรุปลงมาเหลือเพียงแอคชั่นเดียวคือ 'การย้ำเตือน'"
+      },
+      {
+        "eng": "All that the forensic analysis ultimately revealed was a series of incongruous anomalies that defied any logical explanation.",
+        "thai": "สิ่งเดียวที่การวิเคราะห์ทางนิติวิทยาศาสตร์เปิดเผยออกมาในท้ายที่สุดก็คือชุดของความผิดปกติที่ไม่สอดคล้องกันหลายประการซึ่งท้าทายคำอธิบายเชิงตรรกะใดๆ ทั้งสิ้น\nคำอธิบาย: ในตัวอย่างนี้ ส่วนที่ตามหลัง 'was' คือ Noun Phrase (`a series of incongruous anomalies...`) เพราะ All-clause (`All that the forensic analysis ultimately revealed`) พูดถึง 'ผลลัพธ์' หรือ 'สิ่งที่ถูกค้นพบ' ซึ่งเป็น 'สิ่งของ/แนวคิด' ไม่ใช่การกระทำ"
+      },
+      {
+        "eng": "In such a volatile market, all an aspiring investor should do is to diversify their portfolio meticulously and avoid speculative ventures.",
+        "thai": "ในตลาดที่ผันผวนเช่นนี้ สิ่งเดียวที่นักลงทุนผู้มุ่งมั่นควรทำก็คือการกระจายพอร์ตการลงทุนของตนอย่างพิถีพิถันและหลีกเลี่ยงการลงทุนที่มีความเสี่ยงสูง\nคำอธิบาย: ประโยคนี้ใช้ To-infinitive 'to diversify' เพื่อให้ความรู้สึกที่เป็นทางการมากขึ้น เหมาะกับการให้คำแนะนำที่จริงจังและเน้นย้ำถึง 'หน้าที่' หรือ 'เป้าหมาย' ที่ควรจะทำให้สำเร็จ"
+      }
+    ],
+    "common_mistakes": "1.  **ใช้ Verb Form ผิดหลัง is/was**: คนไทยมักจะเผลอใช้ Gerund (-ing) หรือ Present Simple Tense (เติม s/es) ตามความเคยชิน เช่น `All she does is complaining.` (ผิด) หรือ `All he wants is goes home.` (ผิด) ที่ถูกต้องเมื่อเป็น Action คือ Bare Infinitive หรือ To-infinitive เท่านั้น: `All she does is **complain**.` หรือ `All she does is **to complain**.`\n\n2.  **สับสนเรื่อง Subject-Verb Agreement**: เนื่องจากคำว่า 'All' มักจะตามด้วยคำนามพหูพจน์ในบริบทอื่น (`All the students are here.`) ทำให้หลายคนสับสนและใช้ 'are/were' ในโครงสร้าง Cleft Sentence นี้ ต้องจำให้ขึ้นใจว่า `All...clause` ทั้งก้อนทำหน้าที่เป็นประธานเอกพจน์เสมอ ดังนั้นต้องใช้ `is/was` เท่านั้น เช่น `All my worries and fears **is** what drives me.` (ผิด) ที่ถูกต้องคือ `All that worries me **is** how to solve this.`\n\n3.  **ใช้โครงสร้างไม่เหมาะสมกับบริบท**: All-clefts มีพลังในการเน้นย้ำสูงมาก การใช้พร่ำเพรื่อจะทำให้งานเขียนหรือการพูดขาดน้ำหนักและฟังดูซ้ำซาก ควรใช้ในจังหวะที่ต้องการสรุปประเด็นสำคัญหรือทำให้เรื่องซับซ้อนดูง่ายลงเท่านั้น",
+    "practice_questions": [
+      {
+        "question": "Confronted with a deluge of contradictory data, all the research team could judiciously do was ______ their initial hypothesis pending further investigation.",
+        "options": [
+          "A. to suspending",
+          "B. suspend",
+          "C. suspends",
+          "D. having suspended"
+        ],
+        "answer": "B",
+        "explanation": "โครงสร้าง All-cleft ที่มี 'do' ใน clause แรก (`...all the team could do...`) จะตามด้วย Bare Infinitive (กริยาไม่ผันรูป) หรือ To-infinitive หลัง verb to be ('was') ในที่นี้ 'suspend' เป็น Bare Infinitive ที่ถูกต้องที่สุด ส่วน 'to suspending' (A) ผิดไวยากรณ์, 'suspends' (C) เป็น finite verb ที่ใช้ไม่ได้ในโครงสร้างนี้ และ 'having suspended' (D) เป็น perfect participle ซึ่งไม่ถูกต้อง"
+      },
+      {
+        "question": "All that remains of the once-prolific author's literary legacy ______ a few esoteric manuscripts and a collection of acerbic letters.",
+        "options": [
+          "A. are",
+          "B. is",
+          "C. were",
+          "D. have been"
+        ],
+        "answer": "B",
+        "explanation": "ประธานของประโยคคือ Noun Clause ทั้งหมด ('All that remains of the once-prolific author's literary legacy') ซึ่งถือเป็นหน่วยเอกพจน์ (singular unit) เสมอในโครงสร้าง Cleft Sentence ดังนั้น กริยาที่ตามมาต้องเป็น 'is' (หรือ 'was' ถ้าเป็นอดีต) แม้ว่ากรรมที่ตามหลัง (manuscripts and letters) จะเป็นพหูพจน์ก็ตาม 'are' (A) จึงเป็นข้อผิดพลาดที่พบบ่อย"
+      },
+      {
+        "question": "To ameliorate the diplomatic impasse, all the envoy was instructed to do ______ to reiterate the government's unwavering position.",
+        "options": [
+          "A. are",
+          "B. that",
+          "C. was",
+          "D. were"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้มีโครงสร้างที่ซับซ้อนเล็กน้อย: 'To ameliorate the diplomatic impasse' เป็นส่วนขยายบอกวัตถุประสงค์ ประโยคหลักคือ `all the envoy was instructed to do ______ to reiterate...` ซึ่งเป็น All-cleft ในรูปอดีต 'All...' clause เป็นประธานเอกพจน์ ดังนั้นกริยาที่ต้องใช้คือ 'was'"
+      },
+      {
+        "question": "All the clandestine operation required of its agents ______ absolute discretion and an unwavering allegiance to the cause.",
+        "options": [
+          "A. was",
+          "B. were",
+          "C. being",
+          "D. have been"
+        ],
+        "answer": "A",
+        "explanation": "ในประโยคนี้ 'All...' clause พูดถึง 'สิ่งที่ต้องการ' (requirements) ซึ่งเป็นนามธรรมและถือเป็นหน่วยเดียว (a singular concept) ไม่ใช่การกระทำ ดังนั้น ส่วนที่ตามมาคือ Noun Phrase (`absolute discretion and...`) และกริยาที่ใช้ต้องเป็นรูปเอกพจน์ในอดีต คือ 'was' เพื่อให้สอดคล้องกับ 'required'"
+      },
+      {
+        "question": "Despite his ostentatious displays of wealth, all the parvenu truly yearned for ______ social acceptance from the old-money elite.",
+        "options": [
+          "A. is being",
+          "B. were",
+          "C. was",
+          "D. are"
+        ],
+        "answer": "C",
+        "explanation": "ประธานคือ `all the parvenu truly yearned for` ซึ่งเป็นอดีต (yearned) ดังนั้นกริยาหลักใน Cleft sentence ก็ต้องเป็นอดีตด้วย และเนื่องจากประธานเป็นเอกพจน์เสมอ คำตอบที่ถูกต้องจึงเป็น 'was' เพื่อเชื่อมไปยัง Noun Phrase ที่เป็นกรรม ('social acceptance...')"
+      },
+      {
+        "question": "All the new algorithm does that its predecessor couldn't ______ process petabytes of data with unprecedented alacrity.",
+        "options": [
+          "A. to be",
+          "B. are",
+          "C. being",
+          "D. is"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคนี้ทดสอบความเข้าใจโครงสร้างหลัก `All [clause] + IS/WAS + complement`. ประธานคือ `All the new algorithm does that its predecessor couldn't` ซึ่งเป็น clause ที่ทำหน้าที่เป็นประธานเอกพจน์ กริยาที่ต้องตามมาคือ 'is' เพื่อเชื่อมไปยังส่วนขยายที่เป็น Bare Infinitive ('process...')"
+      },
+      {
+        "question": "In the face of systemic corruption, all a conscientious citizen can do is ______ against the pervasive malfeasance.",
+        "options": [
+          "A. to have spoken out",
+          "B. speaking out",
+          "C. speaks out",
+          "D. speak out"
+        ],
+        "answer": "D",
+        "explanation": "หลังโครงสร้าง `All...can do is...` เราใช้ Bare Infinitive (กริยาช่อง 1 ไม่มี to) 'speak out' เป็นคำตอบที่ถูกต้องที่สุดและเป็นธรรมชาติที่สุด 'to speak out' ก็ใช้ได้แต่จะมีความเป็นทางการกว่าและไม่มีในตัวเลือกนี้ ส่วน 'speaking out' (Gerund) และ 'speaks out' (Finite verb) ผิดไวยากรณ์ในโครงสร้างนี้"
+      },
+      {
+        "question": "All that differentiated the victor from the vanquished in the final, grueling moments of the competition ______ a scintilla of indomitable will.",
+        "options": [
+          "A. were",
+          "B. was",
+          "C. are",
+          "D. being"
+        ],
+        "answer": "B",
+        "explanation": "ประธานของประโยคคือ Clause ทั้งหมด `All that differentiated the victor from the vanquished...` ซึ่งเป็นเอกพจน์เสมอ กริยาใน Clause คือ `differentiated` (อดีต) ดังนั้นกริยาหลักของประโยคก็ต้องเป็นอดีตและเป็นเอกพจน์ นั่นคือ 'was' เพื่อเชื่อมไปยัง Noun Phrase (`a scintilla of indomitable will`)"
+      },
+      {
+        "question": "The philosopher argued that all human endeavors, in their quintessential form, ______ a search for meaning in a seemingly absurd universe.",
+        "options": [
+          "A. is",
+          "B. are",
+          "C. was",
+          "D. were"
+        ],
+        "answer": "A",
+        "explanation": "นี่คือข้อที่ซับซ้อนเพื่อหลอก ประโยคนี้ไม่ใช่ Cleft sentence ที่ขึ้นต้นด้วย 'All' แต่เป็นการใช้ 'All human endeavors' เป็นประธานพหูพจน์ธรรมดา อย่างไรก็ตาม การใช้ 'is' ในที่นี้เป็นการสร้างโครงสร้างคล้าย Cleft เพื่อเน้นย้ำ (`All human endeavors... is [nothing but] a search...`) โดยมอง 'All human endeavors' เป็นแนวคิดรวมเพียงหนึ่งเดียว (a single collective concept) จึงใช้ 'is' เพื่อให้ความหมายเชิงปรัชญาและเน้นย้ำ การใช้ 'are' ก็ถูกต้องตามหลักไวยากรณ์มาตรฐาน แต่ 'is' สร้างผลกระทบทางโวหารที่ลึกซึ้งกว่า ซึ่งเหมาะสมกับระดับ C1-C2 ที่ต้องเข้าใจความแตกต่างเล็กๆน้อยๆ นี้"
+      },
+      {
+        "question": "To prevent the company's imminent collapse, all the board of directors agreed was necessary ______ a radical and immediate corporate restructuring.",
+        "options": [
+          "A. is",
+          "B. are",
+          "C. were",
+          "D. was"
+        ],
+        "answer": "D",
+        "explanation": "ประธานของประโยคคือ `All the board of directors agreed was necessary`. กริยาใน clause คือ `agreed` (อดีต) ดังนั้นกริยาหลักของ Cleft sentence ต้องเป็นอดีตด้วย และเนื่องจากประธานที่เป็น Clause นี้ถือเป็นเอกพจน์เสมอ คำตอบที่ถูกต้องจึงเป็น 'was' ส่วนกรรมที่ตามมาคือ Noun Phrase (`a radical... restructuring`)"
+      }
+    ]
+  },
+  {
+    "id": "40_4",
+    "title": "40.4 Summary: Cleft Sentences (สรุปประโยคเน้นย้ำ + 50 Exercises)",
+    "explanation": "Cleft Sentences หรือ 'ประโยคเน้นย้ำ' คือโครงสร้างไวยากรณ์ขั้นสูงที่ใช้เพื่อดึงความสนใจไปที่ส่วนใดส่วนหนึ่งของประโยคเป็นพิเศษ (Focus) โดยแยกส่วนนั้นออกมาจากส่วนที่เหลือ Cleft มาจากคำว่า 'cleave' ที่แปลว่า 'แยก' หรือ 'ผ่า' ซึ่งสะท้อนถึงการทำงานของโครงสร้างนี้ที่ 'ผ่า' ประโยคปกติออกเป็นสองส่วน\n\nในระดับ C1-C2 การใช้ Cleft Sentences ไม่ได้เป็นเพียงการเน้นย้ำธรรมดา แต่เป็นเครื่องมือทางภาษาศาสตร์ที่ซับซ้อนในการจัดการข้อมูล (Information Structuring) เพื่อชี้นำความเข้าใจของผู้ฟังหรือผู้อ่าน แสดงให้เห็นว่าข้อมูลส่วนไหนเป็นข้อมูลเก่าที่รู้กันอยู่แล้ว (Presupposed Information) และส่วนไหนเป็นข้อมูลใหม่ที่ต้องการเน้นย้ำ (Focused Information)\n\n**ประเภทหลักของ Cleft Sentences ที่ต้องเชี่ยวชาญ:**\n\n1.  **It-Clefts (It + be + Focus + that/who-clause):**\n    *   เป็นรูปแบบที่ยืดหยุ่นที่สุด สามารถเน้นได้ทั้งประธาน (Subject), กรรม (Object), ส่วนขยาย (Adverbials) และบุพบทวลี (Prepositional Phrases)\n    *   โครงสร้าง: `It is/was [ส่วนที่ต้องการเน้น] that/who [ส่วนที่เหลือของประโยค]`\n    *   `It` ในที่นี้ไม่มีความหมายในตัวเอง ทำหน้าที่เป็นเพียงตัวเปิดโครงสร้างเท่านั้น\n\n2.  **Wh-Clefts (Pseudo-Clefts):**\n    *   ใช้ `Wh-word` (ส่วนใหญ่คือ `What`) เพื่อสร้าง clause ที่ทำหน้าที่เป็นประธาน แล้วตามด้วย `be` และส่วนที่ต้องการเน้น\n    *   **Standard Form:** `What-clause + be + Focus`\n        *   ตัวอย่าง: `What perplexed the detectives was the absence of any forensic evidence.`\n    *   **Reversed Form:** `Focus + be + What-clause`\n        *   ตัวอย่าง: `The absence of any forensic evidence was what perplexed the detectives.`\n    *   นอกจาก `What` ยังสามารถใช้ `Why`, `Where`, `When`, `How`, หรือโครงสร้างอย่าง `The reason why...`, `The place where...`, `The thing that...` ได้เช่นกัน\n\n3.  **All-Clefts (All + ... + be + Focus):**\n    *   ใช้เพื่อเน้นว่าสิ่งนั้นเป็น 'สิ่งเดียวเท่านั้น' (the only thing)\n    *   มักใช้ในโครงสร้าง `All [subject] did was [bare infinitive]` หรือ `All [subject] want is [noun phrase]`\n    *   ให้ความรู้สึกถึงความเรียบง่าย, ความน้อยนิด หรือความคาดไม่ถึง\n\n4.  **โครงสร้างอื่นๆ ที่คล้าย Clefts:**\n    *   **There-Clefts:** `There is/was [Noun Phrase] that/who...` - ใช้แนะนำข้อมูลใหม่ มักพบในภาษาพูด\n    *   **If/That-Clefts:** `If there's one thing I admire, it's [Focus].` - เป็นสำนวนที่ใช้เน้นคุณสมบัติหรือสิ่งของอย่างเฉพาะเจาะจง\n\nการเลือกใช้ Cleft Sentence ที่เหมาะสมขึ้นอยู่กับบริบทและเจตนาของผู้พูด การเรียนรู้ความแตกต่างเล็กๆ น้อยๆ ระหว่างโครงสร้างแต่ละแบบจะยกระดับการใช้ภาษาอังกฤษของคุณให้ใกล้เคียงกับเจ้าของภาษามากยิ่งขึ้น",
+    "examples": [
+      {
+        "eng": "It was with a profound sense of foreboding that the seasoned diplomat entered the negotiations, knowing the stakes were astronomically high.",
+        "thai": "นักการทูตผู้มากประสบการณ์ได้เข้าสู่การเจรจาต่อรองด้วยความรู้สึกสังหรณ์ใจในทางร้ายอย่างสุดซึ้ง โดยรู้ดีว่าเดิมพันนั้นสูงลิบลิ่ว\n**คำอธิบาย:** นี่คือ It-Cleft ที่ซับซ้อน โดยเน้นไปที่บุพบทวลีที่แสดงอาการ (Adverbial of Manner) คือ `with a profound sense of foreboding` การใช้โครงสร้างนี้ทำให้ประโยคดูเป็นทางการและน่าทึ่งกว่าการพูดว่า 'The seasoned diplomat entered the negotiations with a profound sense of foreboding.'"
+      },
+      {
+        "eng": "What the new policy ultimately fails to address is the systemic inequality ingrained within the institution's hiring practices.",
+        "thai": "สิ่งที่นโยบายใหม่นี้ล้มเหลวที่จะจัดการในท้ายที่สุดก็คือความไม่เท่าเทียมเชิงระบบที่ฝังรากลึกอยู่ในการปฏิบัติว่าจ้างของสถาบัน\n**คำอธิบาย:** นี่คือ Wh-Cleft (Standard Form) ที่ใช้ `What-clause` ที่ยาวและซับซ้อน (`What the new policy ultimately fails to address`) มาเป็นประธานของประโยค เพื่อปูพื้นและนำไปสู่จุดเน้นย้ำ (Focus) ซึ่งเป็นแก่นของปัญหาคือ `the systemic inequality...`"
+      },
+      {
+        "eng": "A complete cessation of hostilities is what the UN envoy has been unequivocally demanding.",
+        "thai": "การยุติการสู้รบอย่างสมบูรณ์คือสิ่งที่ทูตพิเศษของสหประชาชาติเรียกร้องมาโดยตลอดอย่างไม่มีเงื่อนไข\n**คำอธิบาย:** นี่คือ Reversed Wh-Cleft ที่นำส่วนที่ต้องการเน้น (`A complete cessation of hostilities`) ขึ้นมาไว้ต้นประโยคเพื่อสร้างผลกระทบที่ทรงพลังทันที แล้วจึงตามด้วย `is what...` เพื่ออธิบายว่าสิ่งนี้คืออะไรหรือใครเป็นผู้เรียกร้อง"
+      },
+      {
+        "eng": "All the beleaguered company did to avert bankruptcy was secure a last-minute, high-interest bridge loan.",
+        "thai": "สิ่งเดียวที่บริษัทซึ่งกำลังประสบปัญหานั้นทำเพื่อหลีกเลี่ยงการล้มละลายก็คือการจัดหาเงินกู้ระยะสั้นดอกเบี้ยสูงมาให้ได้ในนาทีสุดท้าย\n**คำอธิบาย:** นี่คือ All-Cleft ที่ใช้โครงสร้าง `All... did was...` ตามด้วยกริยาช่อง 1 ที่ไม่มี to (Bare Infinitive) คือ `secure` เพื่อเน้นว่าการกระทำ 'สิ่งเดียวเท่านั้น' ที่เกิดขึ้นคืออะไร การใช้โครงสร้างนี้ให้ความรู้สึกว่ามันเป็นทางออกเดียวหรือเป็นเรื่องที่น่าทึ่ง"
+      }
+    ],
+    "common_mistakes": "**1. Subject-Verb Agreement ใน Relative Clause ของ It-Clefts:**\nคนไทยมักจะใช้ Verb ให้สอดคล้องกับ `It is` ซึ่งผิด หลักการที่ถูกต้องคือ Verb ใน `who/that` clause ต้องสอดคล้องกับคำนามที่ถูกเน้นย้ำ (Focus) ที่อยู่ข้างหน้า\n*   **ผิด:** It is I who **is** responsible for this debacle.\n*   **ถูก:** It is I who **am** responsible for this debacle. (am สอดคล้องกับ I)\n*   **ผิด:** It is the managers who **is** pushing for this change.\n*   **ถูก:** It is the managers who **are** pushing for this change. (are สอดคล้องกับ managers)\n\n**2. ใช้ Infinitive ผิดรูปแบบใน All-Clefts:**\nในโครงสร้าง `All [subject] did was...` ต้องตามด้วย Bare Infinitive (กริยาไม่ผันรูปและไม่มี to) เสมอ การใส่ `to` หรือ `-ing` เป็นข้อผิดพลาดที่พบบ่อย\n*   **ผิด:** All he did was **to apologize** profusely.\n*   **ผิด:** All he did was **apologizing** profusely.\n*   **ถูก:** All he did was **apologize** profusely.\n\n**3. เน้นส่วนของประโยคที่ไม่เป็นธรรมชาติ (Unnatural Focus):**\nCleft Sentences ไม่สามารถใช้เน้นกริยาแท้ (Verb) โดยตรงได้ หากต้องการเน้นการกระทำ ต้องใช้ `do` มาช่วยใน Wh-Cleft\n*   **ผิด:** *It was **ran** that he did into the building.*\n*   **ถูก:** What he did was **run** into the building. (ใช้ Wh-Cleft กับ `do`)\n\n**4. การใช้มากเกินไป (Overuse):**\nแม้ Cleft Sentences จะทรงพลัง แต่การใช้บ่อยเกินไปจะทำให้งานเขียนหรือการพูดฟังดูซ้ำซากและไม่เป็นธรรมชาติ ควรเก็บไว้ใช้ในจังหวะที่ต้องการสร้างผลกระทบทางอารมณ์หรือเน้นย้ำประเด็นสำคัญจริงๆ เท่านั้น การใช้ประโยคโครงสร้างปกติยังคงเป็นมาตรฐานในการสื่อสารส่วนใหญ่",
+    "practice_questions": [
+      {
+        "question": "It was with extreme reluctance ______ the committee finally approved the controversial budget.",
+        "options": [
+          "A. when",
+          "B. that",
+          "C. which",
+          "D. for which"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้เป็น It-Cleft ที่เน้นบุพบทวลี (prepositional phrase) 'with extreme reluctance' โครงสร้างมาตรฐานคือ It + be + Focus + that-clause ดังนั้น `that` จึงเป็นคำเชื่อมที่ถูกต้องที่สุด"
+      },
+      {
+        "question": "______ the research team found utterly astonishing was the microorganism's ability to survive in a vacuum.",
+        "options": [
+          "A. That which",
+          "B. It was",
+          "C. The thing what",
+          "D. What"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคนี้ต้องการ Wh-Cleft ในรูปแบบมาตรฐาน (Standard Form) โดยมี What-clause (`What the research team found utterly astonishing`) ทำหน้าที่เป็นประธานของประโยค และตามด้วยกริยา 'was' ดังนั้น `What` จึงเป็นคำที่ถูกต้องในการเริ่มต้น Clause นี้"
+      },
+      {
+        "question": "All the exhausted negotiator did after the marathon talks ______ a brief, noncommittal statement to the press.",
+        "options": [
+          "A. was issue",
+          "B. was to issue",
+          "C. issued",
+          "D. was issuing"
+        ],
+        "answer": "A",
+        "explanation": "นี่คือโครงสร้าง All-Cleft `All [subject] did was...` ซึ่งต้องตามด้วย Bare Infinitive (กริยาช่อง 1 ไม่มี to) ดังนั้น 'issue' จึงเป็นคำตอบที่ถูกต้อง 'to issue' หรือ 'issuing' เป็นข้อผิดพลาดที่พบบ่อยในโครงสร้างนี้"
+      },
+      {
+        "question": "A fundamental recalibration of our foreign policy ______ the senator from Vermont is ardently advocating for.",
+        "options": [
+          "A. that",
+          "B. is what",
+          "C. which is",
+          "D. it is"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้เป็น Reversed Wh-Cleft ส่วนที่ต้องการเน้น (Focus) คือ 'A fundamental recalibration of our foreign policy' มาก่อน แล้วตามด้วย 'be + what-clause' ดังนั้น `is what` จึงเป็นส่วนที่มาเติมเต็มโครงสร้างนี้ได้อย่างสมบูรณ์"
+      },
+      {
+        "question": "It is the CEO herself, not her subordinates, who ______ ultimately accountable for the company's ethical lapses.",
+        "options": [
+          "A. is",
+          "B. are",
+          "C. am",
+          "D. be"
+        ],
+        "answer": "A",
+        "explanation": "ใน It-Cleft, กริยาใน who-clause จะผันตามประธานที่ถูกเน้นย้ำ ซึ่งในที่นี้คือ 'the CEO herself' (เอกพจน์) ดังนั้นกริยาที่ถูกต้องคือ `is`"
+      },
+      {
+        "question": "If there's one thing that consistently exasperates linguists, ______ the prescriptive and often arbitrary rules some grammar guides impose.",
+        "options": [
+          "A. that is",
+          "B. which is",
+          "C. it is",
+          "D. for it is"
+        ],
+        "answer": "C",
+        "explanation": "นี่คือโครงสร้าง If-Cleft ที่เป็นสำนวน: `If there's one thing..., it's...` ส่วนที่สองของประโยคจะต้องเริ่มต้นด้วย `it is` หรือ `it's` เพื่อเชื่อมโยงกับ 'one thing' ที่กล่าวถึงในส่วนแรก"
+      },
+      {
+        "question": "______ he failed to mention during his supposedly candid confession was his long-standing financial involvement with the rival firm.",
+        "options": [
+          "A. That",
+          "B. The fact that",
+          "C. It was what",
+          "D. What"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคนี้ใช้ Standard Wh-Cleft เพื่อเน้นย้ำข้อมูลที่ถูกละเลยไป `What he failed to mention...` ทำหน้าที่เป็นประธานของกริยา `was` `What` เหมาะสมที่สุดในการสร้าง clause ที่หมายถึง 'the thing that'"
+      },
+      {
+        "question": "It was not until the final, incriminating piece of evidence was presented ______ the jury reached a unanimous verdict.",
+        "options": [
+          "A. when",
+          "B. which",
+          "C. that",
+          "D. then"
+        ],
+        "answer": "C",
+        "explanation": "โครงสร้าง `It was not until [time/event] that [main clause]` เป็นรูปแบบเฉพาะของ It-Cleft ที่ใช้เพื่อเน้นลำดับเวลา `that` เป็นคำเชื่อมมาตรฐานในโครงสร้างนี้"
+      },
+      {
+        "question": "All that remains of the once-magnificent civilization ______ a few scattered ruins and some cryptic inscriptions.",
+        "options": [
+          "A. are",
+          "B. is",
+          "C. has been",
+          "D. have been"
+        ],
+        "answer": "B",
+        "explanation": "ใน Wh-Cleft หรือ All-Cleft, เมื่อ clause ที่ขึ้นต้นด้วย What/All ทำหน้าที่เป็นประธาน เราจะถือว่าเป็นประธานเอกพจน์ (a single concept) ดังนั้นกริยาที่ตามมาต้องเป็น `is` (หรือ was) ไม่ใช่ `are` แม้ว่าคำนามที่ตามมาจะเป็นพหูพจน์ก็ตาม"
+      },
+      {
+        "question": "The place ______ the clandestine meeting occurred was a derelict warehouse on the city's outskirts.",
+        "options": [
+          "A. that",
+          "B. which",
+          "C. when",
+          "D. where"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคนี้เป็นรูปแบบหนึ่งของ cleft-like structure ที่ใช้ `The place` เป็นตัวเปิดเพื่อเน้นสถานที่ เมื่อพูดถึงสถานที่ คำเชื่อมที่เหมาะสมที่สุดคือ `where` ซึ่งทำหน้าที่เป็น relative adverb"
+      },
+      {
+        "question": "It is precisely this kind of insidious propaganda ______ we must guard ourselves against.",
+        "options": [
+          "A. which",
+          "B. from what",
+          "C. that",
+          "D. of which"
+        ],
+        "answer": "C",
+        "explanation": "นี่คือ It-Cleft ที่เน้นกรรมของบุพบท ('against this kind of insidious propaganda'). แม้ว่าบุพบท 'against' จะอยู่ท้ายประโยค แต่คำเชื่อมมาตรฐานสำหรับ It-Cleft ก็ยังคงเป็น `that`"
+      },
+      {
+        "question": "______ seems to have been forgotten in the ensuing media frenzy is the presumption of innocence.",
+        "options": [
+          "A. What",
+          "B. It",
+          "C. That",
+          "D. The thing"
+        ],
+        "answer": "A",
+        "explanation": "Standard Wh-Cleft ที่สมบูรณ์แบบ `What seems to have been forgotten...` ทำหน้าที่เป็นประธานของประโยคทั้งหมด โดยมี `is` เป็นกริยาแท้ `What` คือคำที่ถูกต้องในการเริ่มต้น clause นี้"
+      },
+      {
+        "question": "Then ______ the diminutive, unassuming accountant who, against all odds, uncovered the massive fraud.",
+        "options": [
+          "A. was coming",
+          "B. there came",
+          "C. it came",
+          "D. came it"
+        ],
+        "answer": "B",
+        "explanation": "นี่คือรูปแบบ There-Cleft ที่มีการกลับประโยค (inversion) เพื่อสร้าง effect ทางวรรณกรรม โครงสร้าง `Then there came [noun phrase] who...` เป็นวิธีที่สละสลวยในการแนะนำบุคคลสำคัญเข้ามาในเรื่องราว"
+      },
+      {
+        "question": "The reason ______ the project was ultimately scuppered was not a lack of funding, but a profound ideological disagreement.",
+        "options": [
+          "A. for what",
+          "B. which",
+          "C. that",
+          "D. why"
+        ],
+        "answer": "D",
+        "explanation": "โครงสร้าง `The reason why... is/was...` เป็น cleft-like structure ที่ใช้เน้นเหตุผล `why` เป็น relative adverb ที่ถูกต้องและสอดคล้องกับคำว่า 'reason'"
+      },
+      {
+        "question": "It is they, and no one else, who ______ to bear the full consequences of their precipitate actions.",
+        "options": [
+          "A. is going",
+          "B. has",
+          "C. are going",
+          "D. have"
+        ],
+        "answer": "D",
+        "explanation": "กริยาใน who-clause ต้องสอดคล้องกับประธานที่ถูกเน้นย้ำคือ `they` (พหูพจน์) ในตัวเลือกที่ให้มา `have to bear` เป็นรูปที่ถูกต้องที่สุด `are going to bear` ก็ถูกไวยากรณ์ แต่ `have to` สื่อถึงภาระผูกพัน (obligation) ได้ดีกว่าในบริบทนี้ และเป็นตัวเลือกที่สมบูรณ์ที่สุด (have to bear)"
+      },
+      {
+        "question": "A precipitous decline in consumer confidence ______ the latest economic data clearly indicates.",
+        "options": [
+          "A. is what",
+          "B. that",
+          "C. it is that",
+          "D. which"
+        ],
+        "answer": "A",
+        "explanation": "Reversed Wh-Cleft อีกครั้งหนึ่ง 'A precipitous decline in consumer confidence' คือ Focus ที่ต้องการเน้น และตามด้วย `is what [clause]` เพื่อบอกว่านี่คือสิ่งที่ข้อมูลบ่งชี้"
+      },
+      {
+        "question": "All the disillusioned electorate seems to want ______ a candidate who speaks with authenticity.",
+        "options": [
+          "A. is",
+          "B. are",
+          "C. being",
+          "D. to be"
+        ],
+        "answer": "A",
+        "explanation": "ในโครงสร้าง `All [subject] wants...` กริยาที่เชื่อมระหว่าง clause กับส่วนที่เน้นคือ `is` เสมอ เพราะ 'All...' ในที่นี้ถูกมองว่าเป็นแนวคิดเดียว (a single thing)"
+      },
+      {
+        "question": "It was for this very principle ______ generations of activists have fought and died.",
+        "options": [
+          "A. which",
+          "B. that",
+          "C. why",
+          "D. for whom"
+        ],
+        "answer": "B",
+        "explanation": "It-Cleft นี้เน้นไปที่บุพบทวลี 'for this very principle' คำเชื่อมมาตรฐานที่ตามหลัง Focus ใน It-Cleft คือ `that` ไม่ว่า Focus จะเป็นอะไรก็ตาม"
+      },
+      {
+        "question": "What the defendant's convoluted testimony effectively did ______ create more questions than it answered.",
+        "options": [
+          "A. was to",
+          "B. is",
+          "C. was",
+          "D. did"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้เป็น Wh-Cleft ที่เน้นการกระทำโดยใช้ 'do' โครงสร้างคือ `What [subject] did was [bare infinitive]` แต่ในที่นี้ส่วนที่ตามมาคือ clause 'create more questions...'. กริยาที่ต้องใช้เพื่อเชื่อม What-clause กับส่วนที่เหลือคือ `was` (เนื่องจาก `did` เป็นอดีต)"
+      },
+      {
+        "question": "Choose the most natural-sounding sentence: How the ancient mariners navigated such vast oceans with rudimentary tools ______ a profound mystery.",
+        "options": [
+          "A. is what remains",
+          "B. remains",
+          "C. what remains is",
+          "D. it remains"
+        ],
+        "answer": "B",
+        "explanation": "แม้ว่าข้อ A และ C จะเป็นโครงสร้าง cleft ที่ถูกต้องตามไวยากรณ์ แต่ประโยคนี้ไม่จำเป็นต้องใช้ cleft ก็ได้ `How...tools` สามารถทำหน้าที่เป็น Noun Clause ที่เป็นประธานของกริยา `remains` ได้โดยตรง ซึ่งให้ความหมายที่กระชับและเป็นธรรมชาติที่สุดในบริบทนี้ นี่คือคำถามที่ทดสอบการเลือกใช้โครงสร้างที่เหมาะสม ไม่ใช่แค่ความถูกต้องทางไวยากรณ์"
+      },
+      {
+        "question": "It appears to be the lead investigator ______ has reservations about the authenticity of the alibi.",
+        "options": [
+          "A. which",
+          "B. who",
+          "C. what",
+          "D. whom"
+        ],
+        "answer": "B",
+        "explanation": "It-Cleft ที่เน้นบุคคล (`the lead investigator`) ต้องใช้ `who` เป็น relative pronoun (หรือ `that` ก็ได้ แต่ `who` เป็นที่นิยมกว่าสำหรับบุคคล) `whom` ใช้สำหรับกรรม ซึ่งในที่นี้ investigator เป็นประธานของ `has`"
+      },
+      {
+        "question": "A complete and utter disregard for diplomatic protocol ______ characterized the ambassador's tenure.",
+        "options": [
+          "A. is which",
+          "B. that has",
+          "C. it is that",
+          "D. is what"
+        ],
+        "answer": "D",
+        "explanation": "Reversed Wh-Cleft ที่สมบูรณ์แบบ `[Focus] is what [clause]` ส่วนที่เน้นคือ 'A complete and utter disregard...' และ `is what characterized...` คือส่วนที่อธิบายว่าสิ่งนี้คืออะไร"
+      },
+      {
+        "question": "All it takes to precipitate a market crash sometimes ______ a single, unsubstantiated rumor.",
+        "options": [
+          "A. are",
+          "B. were",
+          "C. is",
+          "D. to be"
+        ],
+        "answer": "C",
+        "explanation": "ใน Cleft-like structure ที่ขึ้นต้นด้วย 'All it takes...' เราจะใช้กริยาเอกพจน์ `is` เพราะ 'All' ในที่นี้หมายถึง 'The only thing' ซึ่งเป็นแนวคิดเดียว"
+      },
+      {
+        "question": "It wasn't the searing critique ______ offended him, but the patronizing tone in which it was delivered.",
+        "options": [
+          "A. itself that",
+          "B. which",
+          "C. what",
+          "D. itself"
+        ],
+        "answer": "A",
+        "explanation": "โครงสร้าง `It wasn't [A] that... but [B]` เป็นรูปแบบของ It-Cleft ที่ใช้เปรียบเทียบและเน้นย้ำ การเติม `itself` เข้าไปหลัง critique เป็นการเน้นย้ำเพิ่มเติม และตามด้วย `that` ซึ่งเป็นคำเชื่อมมาตรฐาน"
+      },
+      {
+        "question": "What years of painstaking archival research have finally revealed ______ that the official historical narrative is profoundly flawed.",
+        "options": [
+          "A. are",
+          "B. being",
+          "C. is",
+          "D. have been"
+        ],
+        "answer": "C",
+        "explanation": "ประธานของประโยคคือ What-clause ทั้งหมด ('What years of... revealed') ซึ่งถือเป็นนามวลีเอกพจน์ (a single discovery) ดังนั้น กริยาที่ถูกต้องคือ `is`"
+      },
+      {
+        "question": "The one thing ______ the two seemingly disparate philosophies share is a deep-seated belief in human potential.",
+        "options": [
+          "A. what",
+          "B. which",
+          "C. that",
+          "D. whose"
+        ],
+        "answer": "C",
+        "explanation": "โครงสร้าง `The one thing that...` เป็นรูปแบบที่คล้ายกับ Wh-Cleft แต่ใช้ `The thing` เป็นตัวเปิด `that` เป็น relative pronoun ที่เหมาะสมที่สุดในการขยาย 'The one thing' `which` ก็ใช้ได้ แต่ `that` เป็นที่นิยมกว่าหลัง 'the one thing', 'everything', 'all' etc."
+      },
+      {
+        "question": "It is to the brilliant, albeit eccentric, cryptographer ______ we owe this crucial breakthrough.",
+        "options": [
+          "A. to whom",
+          "B. that",
+          "C. whom",
+          "D. which"
+        ],
+        "answer": "B",
+        "explanation": "ถึงแม้ว่าในประโยคปกติเราจะพูดว่า 'we owe this to the cryptographer' แต่เมื่อใช้ It-Cleft เพื่อเน้น 'to the... cryptographer' โครงสร้างมาตรฐานยังคงใช้ `that` เป็นคำเชื่อม การใช้ 'to whom' จะทำให้ประโยคซ้ำซ้อนและผิดไวยากรณ์ (*It is to whom we owe...)"
+      },
+      {
+        "question": "A subtle but pervasive sense of ennui ______ what seems to afflict the protagonist throughout the novel.",
+        "options": [
+          "A. is",
+          "B. are",
+          "C. being",
+          "D. seems"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้อยู่ในรูปแบบ Reversed Wh-Cleft ที่ขาดกริยา 'be' ไป ส่วนที่เน้นคือ 'A subtle but pervasive sense of ennui' และส่วนที่อธิบายคือ 'what seems to afflict...' ทั้งสองส่วนนี้เชื่อมกันด้วย `is`"
+      },
+      {
+        "question": "All the legislation does, in essence, ______ perpetuate the very inequalities it purports to eliminate.",
+        "options": [
+          "A. is to",
+          "B. being",
+          "C. is",
+          "D. are to"
+        ],
+        "answer": "C",
+        "explanation": "นี่คือโครงสร้าง All-Cleft ที่ซับซ้อนขึ้น: `All [subject] does is [bare infinitive]` ส่วนที่ขาดไปคือตัวเชื่อม `is` ระหว่าง clause แรก (`All the legislation does, in essence`) กับส่วนที่เป็น bare infinitive (`perpetuate...`)."
+      },
+      {
+        "question": "Why the ancient civilization suddenly collapsed ______ a question that has perplexed historians for centuries.",
+        "options": [
+          "A. it remains",
+          "B. is what remains",
+          "C. remains",
+          "D. what is"
+        ],
+        "answer": "C",
+        "explanation": "คล้ายกับข้อ 20 นี่คือการทดสอบว่าจำเป็นต้องใช้ cleft หรือไม่ 'Why the ancient civilization suddenly collapsed' เป็น noun clause ที่สามารถทำหน้าที่เป็นประธานของกริยา 'remains' ได้โดยตรง การใช้ cleft ในที่นี้ (เช่น is what remains) จะทำให้ประโยคเยิ่นเย้อโดยไม่จำเป็น"
+      },
+      {
+        "question": "Rewrite the following sentence to emphasize the 'sheer audacity': The politician's sheer audacity in denying the allegations shocked everyone.",
+        "options": [
+          "A. What shocked everyone was the politician's sheer audacity in denying the allegations.",
+          "B. It was the politician who, with sheer audacity, shocked everyone by denying the allegations.",
+          "C. The politician's sheer audacity in denying the allegations is what shocked everyone.",
+          "D. All that shocked everyone was the sheer audacity of the politician denying the allegations."
+        ],
+        "answer": "A",
+        "explanation": "ตัวเลือก A (Standard Wh-Cleft) ทำหน้าที่ได้ดีที่สุดในการเน้น 'sheer audacity...' โดยทำให้มันเป็นส่วนสำคัญ (Focus) ที่ตามหลังกริยา 'was' ตัวเลือก B เน้นที่ 'the politician' ตัวเลือก C (Reversed Wh-Cleft) ก็ใช้ได้แต่ A ฟังดูเป็นธรรมชาติกว่าในการตอบคำถาม 'What shocked everyone?' ตัวเลือก D ใช้ 'All' ซึ่งไม่เหมาะสม เพราะไม่ใช่ 'สิ่งเดียว' ที่ทำให้ช็อก"
+      },
+      {
+        "question": "It was only after a meticulous, line-by-line forensic accounting ______ the full scale of the embezzlement was revealed.",
+        "options": [
+          "A. which",
+          "B. when",
+          "C. that",
+          "D. then"
+        ],
+        "answer": "C",
+        "explanation": "โครงสร้าง `It was only after [event] that [main clause]` เป็นรูปแบบเฉพาะของ It-Cleft `that` คือคำเชื่อมที่ถูกต้องตามไวยากรณ์เสมอในโครงสร้างนี้"
+      },
+      {
+        "question": "______ is truly remarkable is not his prodigious talent, but his unwavering humility.",
+        "options": [
+          "A. That which",
+          "B. It",
+          "C. The thing what",
+          "D. What"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคนี้ใช้โครงสร้าง Wh-Cleft แบบ `What... is...` เพื่อเปรียบเทียบสองสิ่ง (`not his talent, but his humility`) `What is truly remarkable` ทำหน้าที่เป็นประธานของประโยค"
+      },
+      {
+        "question": "There are some critics ______ contend that the novel is a thinly veiled political allegory.",
+        "options": [
+          "A. whom",
+          "B. whose",
+          "C. which",
+          "D. who"
+        ],
+        "answer": "D",
+        "explanation": "นี่คือ There-Cleft หรือประโยคที่มีโครงสร้างคล้ายกัน `There are [noun phrase] who...` เมื่อ noun phrase เป็นบุคคล ('some critics') เราใช้ `who` เป็น relative pronoun เพื่อเริ่มต้น clause ที่ขยายความ"
+      },
+      {
+        "question": "The one area ______ the government has demonstrably failed is in tackling institutional corruption.",
+        "options": [
+          "A. which",
+          "B. where",
+          "C. that",
+          "D. what"
+        ],
+        "answer": "B",
+        "explanation": "ในโครงสร้าง cleft-like ที่ใช้ `The... area` เพื่อเน้นด้านใดด้านหนึ่ง เรามักใช้ `where` ในความหมายเชิงเปรียบเทียบ (metaphorical sense) เพื่อหมายถึง 'in which' (ในด้านที่) ซึ่งฟังดูเป็นธรรมชาติกว่า `in which` หรือ `that` ในบริบทนี้"
+      },
+      {
+        "question": "It is often in moments of profound crisis ______ true character is revealed.",
+        "options": [
+          "A. when",
+          "B. which",
+          "C. that",
+          "D. where"
+        ],
+        "answer": "C",
+        "explanation": "It-Cleft ที่เน้นส่วนขยายเวลา/สถานการณ์ (`in moments of profound crisis`) จะใช้ `that` เป็นคำเชื่อมมาตรฐาน `when` หรือ `where` อาจใช้ได้ในบางบริบท แต่ `that` เป็นตัวเลือกที่ครอบคลุมและถูกต้องที่สุดเสมอสำหรับ It-Clefts"
+      },
+      {
+        "question": "What the policy's detractors consistently overlook ______ its long-term socioeconomic benefits.",
+        "options": [
+          "A. is",
+          "B. are",
+          "C. being",
+          "D. has been"
+        ],
+        "answer": "A",
+        "explanation": "ประธานคือ What-clause ทั้งหมด ('What the policy's detractors consistently overlook') ซึ่งถือเป็นเอกพจน์ ดังนั้นกริยาต้องเป็น `is` แม้ว่ากรรมที่ตามมา ('benefits') จะเป็นพหูพจน์ก็ตาม"
+      },
+      {
+        "question": "All the fugitive could do ______ was hope the authorities wouldn't find his clandestine hiding spot.",
+        "options": [
+          "A. to",
+          "B. for",
+          "C. then",
+          "D. -"
+        ],
+        "answer": "D",
+        "explanation": "โครงสร้าง `All [subject] could do was [bare infinitive]` ไม่ต้องการคำใดๆ มาแทรกระหว่าง 'was' และ 'hope' ตัวเลือก D ที่หมายถึงการเว้นว่างไว้จึงถูกต้อง `hope` เป็น bare infinitive ที่ถูกต้องในโครงสร้างนี้"
+      },
+      {
+        "question": "That there has been a palpable shift in public opinion ______ now undeniable.",
+        "options": [
+          "A. which is",
+          "B. it is",
+          "C. is",
+          "D. what is"
+        ],
+        "answer": "C",
+        "explanation": "นี่คือโครงสร้างที่ใช้ That-clause (`That there has been...`) เป็นประธานของประโยคทั้งหมด ไม่ใช่ cleft sentence ที่แท้จริง แต่ทดสอบความเข้าใจเรื่อง noun clauses Noun clause นี้ต้องการกริยาหลัก ซึ่งก็คือ `is`"
+      },
+      {
+        "question": "A renewed commitment to scientific inquiry and rational debate ______ our society desperately needs now.",
+        "options": [
+          "A. which is what",
+          "B. is that which",
+          "C. is what",
+          "D. that is"
+        ],
+        "answer": "C",
+        "explanation": "Reversed Wh-Cleft อีกครั้งหนึ่ง ส่วนที่ถูกเน้น (Focus) คือ 'A renewed commitment...' และส่วนที่อธิบายคือ 'what our society desperately needs now' ทั้งสองส่วนเชื่อมกันด้วยกริยา `is`"
+      },
+      {
+        "question": "It was precisely by exploiting these legal loopholes ______ the corporation managed to avoid billions in taxes.",
+        "options": [
+          "A. how",
+          "B. which",
+          "C. by which",
+          "D. that"
+        ],
+        "answer": "D",
+        "explanation": "It-Cleft ที่เน้นส่วนขยายวิธีหรืออาการ (adverbial of manner) 'by exploiting these legal loopholes' ต้องใช้ `that` เป็นคำเชื่อมตามกฎของ It-Cleft `how` หรือ `by which` อาจดูสมเหตุสมผลแต่ผิดโครงสร้าง"
+      },
+      {
+        "question": "What I find most egregious ______ the blatant hypocrisy of his public statements.",
+        "options": [
+          "A. being",
+          "B. are",
+          "C. is",
+          "D. to be"
+        ],
+        "answer": "C",
+        "explanation": "Standard Wh-Cleft ที่ประธานคือ 'What I find most egregious' ซึ่งเป็นแนวคิดเดียว (a single thing) ดังนั้นจึงต้องใช้กริยาเอกพจน์ `is`"
+      },
+      {
+        "question": "All we are asking for ______ a modicum of respect and a fair hearing.",
+        "options": [
+          "A. is",
+          "B. are",
+          "C. to be",
+          "D. being"
+        ],
+        "answer": "A",
+        "explanation": "ในโครงสร้าง `All we are asking for...` คำว่า 'All' ถูกมองว่าเป็นนามวลีเอกพจน์ (the thing that we are asking for) ดังนั้นกริยาที่ตามมาจึงเป็น `is` แม้ว่าสิ่งที่ร้องขอ (a modicum... and a fair hearing) จะมีสองอย่างก็ตาม"
+      },
+      {
+        "question": "It is you, my trusted colleagues, who ______ the torch of this organization into the future.",
+        "options": [
+          "A. is to carry",
+          "B. are to carry",
+          "C. am to carry",
+          "D. be carrying"
+        ],
+        "answer": "B",
+        "explanation": "กริยาใน who-clause ต้องผันตามคำนามที่ถูกเน้นย้ำ ในที่นี้คือ 'you, my trusted colleagues' ซึ่งเป็นพหูพจน์ (หรือเอกพจน์ก็ได้ แต่บริบท 'colleagues' ชี้ว่าเป็นพหูพจน์) ดังนั้น `are to carry` จึงเป็นคำตอบที่ถูกต้อง"
+      },
+      {
+        "question": "The pivotal moment ______ the tide of the war turned was the successful amphibious invasion.",
+        "options": [
+          "A. when",
+          "B. which",
+          "C. that",
+          "D. where"
+        ],
+        "answer": "A",
+        "explanation": "นี่คือ Cleft-like structure ที่เน้นเวลาโดยใช้ `The pivotal moment` เป็นตัวเปิด `when` คือ relative adverb ที่เหมาะสมที่สุดในการเชื่อมโยงกับคำว่า 'moment'"
+      },
+      {
+        "question": "A state of perpetual vigilance ______ the philosopher argues is essential for a functioning democracy.",
+        "options": [
+          "A. it is that",
+          "B. is what",
+          "C. that which",
+          "D. is which"
+        ],
+        "answer": "B",
+        "explanation": "Reversed Wh-Cleft ที่สมบูรณ์แบบ `[Focus] is what [clause]` Focus คือ 'A state of perpetual vigilance' และ Clause คือ 'the philosopher argues is essential...' ทั้งสองส่วนเชื่อมกันด้วย `is what`"
+      },
+      {
+        "question": "It was her unwavering integrity in the face of immense political pressure ______ ultimately defined her legacy.",
+        "options": [
+          "A. what",
+          "B. which",
+          "C. that",
+          "D. it"
+        ],
+        "answer": "C",
+        "explanation": "นี่คือ It-Cleft ที่เน้นประธานของประโยค ('her unwavering integrity...') ส่วนที่ตามมาจะต้องเริ่มต้นด้วย `that` (หรือ `which` ในบางกรณีที่ไม่เป็นทางการ แต่ `that` เป็นมาตรฐานและดีที่สุด) เพื่อเชื่อมกับส่วนที่เหลือของประโยค"
+      },
+      {
+        "question": "What the dissident's final, defiant act accomplished ______ it galvanized a generation of activists.",
+        "options": [
+          "A. was that",
+          "B. were that",
+          "C. is that",
+          "D. that"
+        ],
+        "answer": "A",
+        "explanation": "ใน Wh-Cleft (`What... accomplished`) เมื่อส่วนที่เน้น (Focus) เป็น clause ทั้งหมด (`it galvanized...`) เรามักจะใช้ `was/is that` เพื่อเชื่อมต่อ `was` ถูกต้องเพราะ `accomplished` เป็นอดีต"
+      },
+      {
+        "question": "All you have to do to reset the system ______ press and hold these two buttons simultaneously.",
+        "options": [
+          "A. is to",
+          "B. being to",
+          "C. is",
+          "D. that you"
+        ],
+        "answer": "C",
+        "explanation": "ในโครงสร้าง `All you have to do is [bare infinitive]` ส่วนที่เชื่อมคือ `is` และตามด้วยกริยาช่อง 1 ที่ไม่มี to (`press and hold`) ดังนั้น `is` คือคำตอบที่ถูกต้อง"
+      },
+      {
+        "question": "Identify the sentence that is grammatically INCORRECT.",
+        "options": [
+          "A. It is I who am to blame.",
+          "B. What we need are more resources.",
+          "C. All he did was look away.",
+          "D. The reason why he left is a mystery."
+        ],
+        "answer": "B",
+        "explanation": "ข้อ B ผิดไวยากรณ์ ใน Wh-Cleft, ประธานคือ What-clause ทั้งหมด ซึ่งถือเป็นเอกพจน์ ดังนั้นกริยาต้องเป็น `is` ไม่ใช่ `are` ประโยคที่ถูกต้องคือ 'What we need is more resources.' ข้อ A, C, และ D เป็นประโยคที่ถูกต้องทั้งหมด"
+      }
+    ]
+  }
+]

@@ -1,0 +1,870 @@
+[
+  {
+    "id": "27_1",
+    "title": "27.1 To, Towards, Through, Across, Along",
+    "explanation": "Prepositions of Direction & Movement กลุ่มนี้ใช้บอกทิศทางและการเคลื่อนที่ ซึ่งมีความหมายแตกต่างกันอย่างชัดเจนและมักสร้างความสับสนให้กับผู้เรียนชาวไทยครับ\n\n1. **To (ไปยัง)**: ใช้บอก 'จุดหมายปลายทางที่ชัดเจน' (specific destination) เน้นว่าการเคลื่อนที่นั้นมีเป้าหมายสุดท้ายอยู่ที่ไหน\n   - โครงสร้าง: Verb of movement + to + Noun (place)\n\n2. **Towards (มุ่งไปยัง, ไปทาง)**: ใช้บอก 'ทิศทาง' (direction) ที่มุ่งหน้าไป ไม่ได้เน้นว่าจะต้องไปถึงจุดหมายนั้นหรือไม่ แค่บอกว่ากำลังเคลื่อนที่ไปในทิศทางนั้น\n   - โครงสร้าง: Verb of movement + towards + Noun (place/person/thing)\n\n3. **Through (ผ่าน, ทะลุ)**: ใช้กับการเคลื่อนที่ 'ผ่านเข้าไปข้างใน' ของสิ่งที่มี 3 มิติ หรือมีขอบเขตล้อมรอบ เช่น อุโมงค์, ป่า, ฝูงชน, เมือง\n   - โครงสร้าง: Verb of movement + through + Noun (3D space/area)\n\n4. **Across (ข้าม)**: ใช้กับการเคลื่อนที่ 'ข้ามจากฝั่งหนึ่งไปยังอีกฝั่งหนึ่ง' ของพื้นผิว (surface) หรือพื้นที่เปิดโล่ง เช่น ข้ามถนน, ข้ามแม่น้ำ, ข้ามทุ่งนา\n   - โครงสร้าง: Verb of movement + across + Noun (surface/area)\n\n5. **Along (ไปตาม)**: ใช้กับการเคลื่อนที่ 'ไปตามแนว' ของบางสิ่งที่เป็นทางยาว เช่น ไปตามถนน, ไปตามชายหาด, ไปตามแม่น้ำ\n   - โครงสร้าง: Verb of movement + along + Noun (path/line)",
+    "examples": [
+      {
+        "eng": "After a long flight, we finally arrived at the gate and proceeded to the immigration counter.",
+        "thai": "หลังจากเที่ยวบินอันยาวนาน ในที่สุดเราก็มาถึงประตูและเดินต่อไปยังเคาน์เตอร์ตรวจคนเข้าเมือง (ใช้ to เพราะ 'เคาน์เตอร์' คือจุดหมายปลายทางที่ชัดเจน)"
+      },
+      {
+        "eng": "As the storm approached, the villagers started moving towards the designated shelter.",
+        "thai": "ขณะที่พายุใกล้เข้ามา ชาวบ้านเริ่มเคลื่อนที่ไปทางที่พักพิงที่กำหนดไว้ (ใช้ towards เพื่อบอกทิศทางที่มุ่งไป ไม่ได้เน้นว่าถึงแล้วหรือยัง)"
+      },
+      {
+        "eng": "The documentary followed the migratory birds as they flew through treacherous mountain passes.",
+        "thai": "สารคดีติดตามนกอพยพขณะที่พวกมันบินผ่านช่องเขาที่อันตราย (ใช้ through เพราะ 'ช่องเขา' เป็นพื้นที่ที่มีขอบเขตและมิติ เหมือนเราต้องบินเข้าไปข้างใน)"
+      },
+      {
+        "eng": "The endurance swimmer successfully swam across the English Channel despite the challenging conditions.",
+        "thai": "นักว่ายน้ำระยะไกลว่ายข้ามช่องแคบอังกฤษได้สำเร็จแม้จะมีสภาวะที่ท้าทาย (ใช้ across เพราะเป็นการข้ามจากฝั่งหนึ่งไปอีกฝั่งของพื้นน้ำ)"
+      },
+      {
+        "eng": "We spent the afternoon cycling along the scenic coastal path, enjoying the fresh sea breeze.",
+        "thai": "เราใช้เวลาช่วงบ่ายปั่นจักรยานไปตามเส้นทางเลียบชายฝั่งที่สวยงาม เพลิดเพลินกับลมทะเลที่สดชื่น (ใช้ along เพราะเป็นการเคลื่อนที่ไปตามแนวของ 'เส้นทางเลียบชายฝั่ง')"
+      },
+      {
+        "eng": "The suspect escaped by running through the crowded shopping mall and then across a wide-open plaza.",
+        "thai": "ผู้ต้องสงสัยหลบหนีโดยวิ่งฝ่าเข้าไปในห้างสรรพสินค้าที่แออัด (through a 3D space) แล้ววิ่งข้ามลานกว้าง (across a surface)"
+      }
+    ],
+    "common_mistakes": "- **สับสนระหว่าง To และ Towards**: คนไทยมักใช้ 'to' ตลอดเวลาแม้จะต้องการสื่อความหมายว่า 'ไปทาง...' เท่านั้น ควรจำว่า 'to' = ถึงจุดหมาย, 'towards' = ไปในทิศทางนั้น เช่น 'I saw him walking towards the library.' (ฉันเห็นเขาเดินไปทางห้องสมุด อาจจะแค่เดินผ่าน) เทียบกับ 'He went to the library.' (เขาไปที่ห้องสมุด เป็นจุดหมายของเขา)\n\n- **สับสนระหว่าง Across และ Through**: นี่คือข้อผิดพลาดที่พบบ่อยที่สุด! 'Across' ใช้กับพื้นผิว (2D) เช่น a road, a river, a field ส่วน 'Through' ใช้กับพื้นที่ที่มีมิติ มีความลึก/ความหนาแน่น (3D) เช่น a forest, a tunnel, a crowd อย่าพูดว่า 'drive across the forest' ถ้าหมายถึงขับรถฝ่าป่าเข้าไป ต้องใช้ 'drive through the forest'\n\n- **ใช้ Along ไม่ถูกต้อง**: 'Along' หมายถึงการเคลื่อนที่ขนานไปกับสิ่งที่เป็นแนวยาว เช่น a road, a river, a beach ไม่ใช่แค่ 'ข้างๆ' (beside/next to) เช่น 'walk along the river' คือเดินเลียบไปตามแม่น้ำ แต่ 'a house beside the river' คือบ้านอยู่ข้างแม่น้ำ ไม่ได้มีการเคลื่อนที่เข้ามาเกี่ยวข้อง",
+    "practice_questions": [
+      {
+        "question": "The rescue team had to navigate carefully ______ the dense, uncharted jungle to find the missing explorers.",
+        "options": [
+          "A. across",
+          "B. through",
+          "C. along",
+          "D. towards"
+        ],
+        "answer": "B",
+        "explanation": "คำตอบที่ถูกต้องคือ through (ผ่าน, ทะลุ) เพราะ 'jungle' (ป่าทึบ) เป็นพื้นที่ 3 มิติที่มีต้นไม้ปกคลุมหนาแน่น การเคลื่อนที่จึงเป็นการ 'ผ่านเข้าไปข้างใน' ไม่ใช่การ 'ข้าม' จากฝั่งหนึ่งไปอีกฝั่งหนึ่ง (across)"
+      },
+      {
+        "question": "Thousands of commuters travel ______ the bridge every morning to get to work in the city center.",
+        "options": [
+          "A. through",
+          "B. along",
+          "C. across",
+          "D. to"
+        ],
+        "answer": "C",
+        "explanation": "คำตอบที่ถูกต้องคือ across (ข้าม) เนื่องจาก 'bridge' (สะพาน) เป็นสิ่งที่สร้างขึ้นเพื่อข้ามจากฝั่งหนึ่ง (เช่น แม่น้ำ, หุบเขา) ไปยังอีกฝั่งหนึ่ง"
+      },
+      {
+        "question": "The new high-speed train travels directly ______ Paris without any intermediate stops.",
+        "options": [
+          "A. towards",
+          "B. through",
+          "C. along",
+          "D. to"
+        ],
+        "answer": "D",
+        "explanation": "คำตอบที่ถูกต้องคือ to (ไปยัง) เพราะ 'Paris' คือจุดหมายปลายทางสุดท้ายที่ชัดเจน (specific destination) ของรถไฟขบวนนี้"
+      },
+      {
+        "question": "We were jogging ______ the beach when we witnessed a spectacular sunset over the ocean.",
+        "options": [
+          "A. along",
+          "B. across",
+          "C. through",
+          "D. towards"
+        ],
+        "answer": "A",
+        "explanation": "คำตอบที่ถูกต้องคือ along (ไปตาม) เพราะการวิ่งจ็อกกิ้งบนชายหาด (the beach) เป็นการเคลื่อนที่ไปตามแนวของชายหาดซึ่งเป็นทางยาว"
+      },
+      {
+        "question": "She noticed a suspicious figure walking slowly ______ her car in the dimly lit parking garage.",
+        "options": [
+          "A. to",
+          "B. across",
+          "C. towards",
+          "D. through"
+        ],
+        "answer": "C",
+        "explanation": "คำตอบที่ถูกต้องคือ towards (มุ่งไปยัง) ในบริบทนี้เป็นการบอกทิศทางที่บุคคลน่าสงสัยกำลังมุ่งหน้าไป (คือรถของเธอ) แต่ไม่ได้หมายความว่าเขาเดินไปถึงรถแล้ว การใช้ towards สร้างความรู้สึกไม่แน่นอนและน่าสงสัยได้ดีกว่า to"
+      },
+      {
+        "question": "To get to the viewpoint, you need to hike ______ this narrow path that winds ______ the pine forest.",
+        "options": [
+          "A. along / through",
+          "B. across / along",
+          "C. through / across",
+          "D. to / towards"
+        ],
+        "answer": "A",
+        "explanation": "คำตอบที่ถูกต้องคือ along / through ส่วนแรกคือ 'hike along this narrow path' (เดินไปตามเส้นทางแคบๆ) และส่วนที่สองคือ 'winds through the pine forest' (คดเคี้ยวผ่านป่าสน) ซึ่งป่าสนเป็นพื้นที่ 3 มิติ"
+      },
+      {
+        "question": "The salmon migrate hundreds of miles ______ the river, fighting against the current to reach their spawning grounds.",
+        "options": [
+          "A. across",
+          "B. to",
+          "C. along",
+          "D. through"
+        ],
+        "answer": "C",
+        "explanation": "คำตอบที่เหมาะสมที่สุดคือ along (ไปตาม) เพราะปลาแซลมอนว่ายทวนกระแสน้ำไปตาม 'แนว' ของแม่น้ำ อย่างไรก็ตาม ในบางบริบท 'up' a river ก็ใช้ได้ แต่ในตัวเลือกนี้ along เหมาะสมที่สุดกับการเคลื่อนที่ตามแนวยาวของแม่น้ำ"
+      },
+      {
+        "question": "The bullet pierced ______ the wooden door and lodged itself in the wall behind it.",
+        "options": [
+          "A. across",
+          "B. through",
+          "C. to",
+          "D. along"
+        ],
+        "answer": "B",
+        "explanation": "คำตอบที่ถูกต้องคือ through (ทะลุ) เพราะ 'a wooden door' (ประตูไม้) เป็นวัตถุที่มีความหนา (3 มิติ) การที่กระสุนเคลื่อนที่ผ่านจึงเป็นการ 'ทะลุผ่าน'"
+      },
+      {
+        "question": "It's a long journey; we have to drive ______ the entire country from north to south.",
+        "options": [
+          "A. across",
+          "B. along",
+          "C. towards",
+          "D. through"
+        ],
+        "answer": "A",
+        "explanation": "คำตอบที่ถูกต้องคือ across (ข้าม) เมื่อพูดถึงการเดินทางข้ามพื้นที่ขนาดใหญ่เช่น 'country' (ประเทศ) เราใช้ across เพื่อสื่อถึงการเคลื่อนที่จากฝั่งหนึ่งไปยังอีกฝั่งหนึ่งของพื้นที่นั้น"
+      },
+      {
+        "question": "The CEO strode purposefully ______ the boardroom, ready to announce the company's quarterly results.",
+        "options": [
+          "A. to",
+          "B. through",
+          "C. across",
+          "D. along"
+        ],
+        "answer": "A",
+        "explanation": "คำตอบที่ถูกต้องคือ to (ไปยัง) ในบริบทนี้ 'the boardroom' (ห้องประชุม) คือจุดหมายปลายทางที่ชัดเจนที่ CEO กำลังจะเข้าไปเพื่อประกาศผลประกอบการ แม้ว่า across อาจใช้ได้ถ้าต้องการเน้นการเดินข้ามห้อง แต่ to สื่อถึงเป้าหมายได้ดีกว่า"
+      }
+    ]
+  },
+  {
+    "id": "27_2",
+    "title": "27.2 Over, Under, Into, Out of, Onto, Off",
+    "explanation": "Prepositions ในกลุ่มนี้จะเน้นการบอกทิศทางและการเคลื่อนที่ (Direction & Movement) ซึ่งจะมีความหมายเฉพาะตัวที่ชัดเจน ช่วยให้เห็นภาพการกระทำได้ดียิ่งขึ้น\n\n1.  **Over**: ใช้กับการเคลื่อนที่ 'ข้าม' หรือ 'เหนือ' บางสิ่งจากด้านหนึ่งไปยังอีกด้านหนึ่ง หรือใช้ในความหมายว่า 'คลุม' บางสิ่งไว้\n    *   การเคลื่อนที่ข้าม: The horse jumped over the fence. (ม้ากระโดดข้ามรั้ว)\n    *   การคลุม: She put a blanket over the sleeping child. (เธอวางผ้าห่มคลุมเด็กที่กำลังหลับ)\n\n2.  **Under**: ใช้กับการเคลื่อนที่ไป 'ใต้' หรือ 'ข้างล่าง' บางสิ่ง\n    *   The cat crawled under the car. (แมวคลานเข้าไปใต้รถ)\n\n3.  **Into**: ใช้กับการเคลื่อนที่จาก 'ข้างนอกเข้าไปข้างใน' ของพื้นที่ที่มีขอบเขต (enclosed space) เช่น ห้อง, กล่อง, อาคาร, หรือแม้กระทั่งสภาวะนามธรรม\n    *   He walked into the room. (เขาเดินเข้าไปในห้อง)\n    *   The car crashed into a tree. (รถชนเข้าไปในต้นไม้)\n    *   He got into trouble. (เขาเข้าไปพัวพันกับปัญหา)\n\n4.  **Out of**: เป็นคำตรงข้ามกับ Into ใช้กับการเคลื่อนที่จาก 'ข้างในออกมาข้างนอก'\n    *   She took her keys out of her bag. (เธอหยิบกุญแจออกมาจากกระเป๋า)\n\n5.  **Onto**: ใช้กับการเคลื่อนที่ไปอยู่ 'บน' พื้นผิว (surface) เน้นการกระทำที่ส่งผลให้สิ่งนั้นไปอยู่บนพื้นผิว\n    *   The cat jumped onto the roof. (แมวกระโดดขึ้นไปบนหลังคา)\n\n6.  **Off**: เป็นคำตรงข้ามกับ Onto ใช้กับการเคลื่อนที่ 'ออกจาก' พื้นผิว\n    *   He fell off the ladder. (เขาตกลงมาจากบันได)",
+    "examples": [
+      {
+        "eng": "The drone flew over the restricted area to capture aerial footage for the documentary.",
+        "thai": "โดรนบินข้ามเขตหวงห้ามเพื่อถ่ายภาพทางอากาศสำหรับสารคดี (Over ในที่นี้แสดงการเคลื่อนที่ข้ามผ่านพื้นที่จากด้านหนึ่งไปอีกด้านหนึ่งในระดับที่สูงกว่า)"
+      },
+      {
+        "eng": "The construction crew had to dig under the existing foundation to install the new plumbing system.",
+        "thai": "ทีมก่อสร้างต้องขุดลงไปใต้ฐานรากเดิมเพื่อติดตั้งระบบประปาใหม่ (Under แสดงการเคลื่อนที่ไปยังตำแหน่งที่อยู่ต่ำกว่าหรือข้างใต้สิ่งอื่น)"
+      },
+      {
+        "eng": "The suspect quickly ducked into a dark alleyway to escape from the pursuing police officer.",
+        "thai": "ผู้ต้องสงสัยรีบมุดเข้าไปในซอยมืดเพื่อหลบหนีเจ้าหน้าที่ตำรวจที่ไล่ตามมา (Into เน้นการเคลื่อนที่จากข้างนอกเข้าไปในพื้นที่ปิดล้อม)"
+      },
+      {
+        "eng": "With a sigh of relief, she pulled the winning lottery ticket out of the crumpled envelope.",
+        "thai": "ด้วยความโล่งอก เธอหยิบสลากลอตเตอรี่ที่ถูกรางวัลออกมาจากซองที่ยับยู่ยี่ (Out of แสดงการเคลื่อนที่จากภายในออกมาสู่ภายนอก)"
+      },
+      {
+        "eng": "The performer leaped gracefully onto the stage as the spotlight followed him.",
+        "thai": "นักแสดงกระโดดขึ้นไปบนเวทีอย่างสง่างามขณะที่ไฟสปอตไลท์ส่องตามเขา (Onto เน้นการเคลื่อนไหวไปอยู่บนพื้นผิวของเวที)"
+      },
+      {
+        "eng": "Please take your feet off the dashboard; it's not only impolite but also dangerous.",
+        "thai": "กรุณาเอาเท้าของคุณออกจากคอนโซลหน้ารถด้วย มันไม่เพียงแต่ไม่สุภาพแต่ยังอันตรายอีกด้วย (Off แสดงการเคลื่อนย้ายออกจากพื้นผิว)"
+      },
+      {
+        "eng": "The small talk gradually developed into a deep and meaningful conversation about their future aspirations.",
+        "thai": "บทสนทนาเล็กๆ น้อยๆ ค่อยๆ พัฒนาไปสู่การพูดคุยที่ลึกซึ้งและมีความหมายเกี่ยวกับแรงบันดาลใจในอนาคตของพวกเขา (Into ในเชิงนามธรรม หมายถึงการเปลี่ยนแปลงสภาวะหนึ่งไปสู่อีกสภาวะหนึ่ง)"
+      }
+    ],
+    "common_mistakes": "คนไทยมักสับสนในการใช้คำเหล่านี้กับคำที่มีความหมายใกล้เคียงกัน แต่ใช้ในบริบทที่ต่างกัน:\n\n1.  **Into vs. In**: 'In' บอกตำแหน่งว่า 'อยู่ใน' (static position) แต่ 'Into' บอกการเคลื่อนที่ 'เข้าไปใน' (movement).\n    *   ผิด: He is swimming *into* the pool. (ถ้าเขาว่ายวนอยู่ในสระอยู่แล้ว)\n    *   ถูก: He is swimming *in* the pool. (เขากำลังว่ายน้ำอยู่ในสระ)\n    *   ถูก: He jumped *into* the pool. (เขากระโดดลงไปในสระ - เป็นการเคลื่อนที่จากนอกสระเข้าไปในสระ)\n\n2.  **Onto vs. On**: 'On' บอกตำแหน่งว่า 'อยู่บน' (static position) แต่ 'Onto' บอกการเคลื่อนที่ 'ขึ้นไปบน' (movement).\n    *   ผิด: The book fell *on* the floor. (ใช้ได้ แต่ไม่เน้นการเคลื่อนไหวเท่า Onto)\n    *   ถูก: The book fell *onto* the floor. (หนังสือตกลงไปบนพื้น - เน้นการเคลื่อนที่จากที่หนึ่งไปสู่อีกพื้นผิวหนึ่งชัดเจนกว่า)\n\n3.  **Out of vs. From**: 'Out of' เน้นการออกจากพื้นที่/ภาชนะที่ปิดล้อม (enclosed space) ในขณะที่ 'From' มีความหมายกว้างกว่า คือ 'จาก' จุดเริ่มต้นใดๆ\n    *   He walked *out of* the house. (เขาเดินออกจากบ้าน - เน้นการออกจากพื้นที่ภายใน)\n    *   He walked *from* his house to the station. (เขาเดินจากบ้านของเขาไปยังสถานี - from บอกจุดเริ่มต้นของการเดินทาง)",
+    "practice_questions": [
+      {
+        "question": "The experienced mountaineer carefully hoisted himself ______ the narrow ledge.",
+        "options": [
+          "A. out of",
+          "B. onto",
+          "C. into",
+          "D. over"
+        ],
+        "answer": "B",
+        "explanation": "คำตอบที่ถูกต้องคือ 'onto' เพราะประโยคพูดถึงการเคลื่อนที่ของนักปีนเขาที่ยกตัวเอง 'ขึ้นไปบน' ชะง่อนผาแคบๆ ซึ่งเป็นพื้นผิว 'Onto' ใช้เพื่อเน้นการเคลื่อนที่ไปอยู่บนพื้นผิว"
+      },
+      {
+        "question": "After the scandal was exposed, the disgraced CEO was forced ______ of the company he founded.",
+        "options": [
+          "A. off",
+          "B. under",
+          "C. over",
+          "D. out of"
+        ],
+        "answer": "D",
+        "explanation": "คำตอบที่ถูกต้องคือ 'out of' ในสำนวน 'forced out of the company' หมายถึง ถูกบีบให้ออกจากบริษัท ซึ่งเป็นการเคลื่อนที่จาก 'ข้างใน' (การเป็นส่วนหนึ่งของบริษัท) ออกไป 'ข้างนอก'"
+      },
+      {
+        "question": "The children squealed with delight as they slid ______ the giant water slide and splashed ______ the pool.",
+        "options": [
+          "A. off / onto",
+          "B. under / over",
+          "C. down / into",
+          "D. over / out of"
+        ],
+        "answer": "C",
+        "explanation": "แม้ว่า 'down' จะไม่ได้อยู่ในหัวข้อนี้โดยตรง แต่เป็นตัวเลือกที่เหมาะสมที่สุดสำหรับส่วนแรก 'down the slide' (ลื่นลงมาตามสไลเดอร์) และส่วนที่สองคือ 'into the pool' (ลงไปในสระ) ซึ่งแสดงการเคลื่อนที่จากข้างนอกเข้าไปในพื้นที่ของสระน้ำ ตัวเลือกอื่นไม่เข้ากับบริบท"
+      },
+      {
+        "question": "The rescue helicopter hovered ______ the disaster zone before lowering a medic.",
+        "options": [
+          "A. over",
+          "B. onto",
+          "C. under",
+          "D. into"
+        ],
+        "answer": "A",
+        "explanation": "คำตอบที่ถูกต้องคือ 'over' เนื่องจากเฮลิคอปเตอร์บินอยู่ 'เหนือ' พื้นที่ประสบภัยพิบัติ ไม่ได้สัมผัสพื้นผิว และครอบคลุมพื้นที่จากด้านบน"
+      },
+      {
+        "question": "He absentmindedly knocked his expensive smartphone ______ the table while reaching for his coffee.",
+        "options": [
+          "A. out of",
+          "B. onto",
+          "C. off",
+          "D. under"
+        ],
+        "answer": "C",
+        "explanation": "คำตอบที่ถูกต้องคือ 'off' เพราะเป็นการกระทำที่ทำให้สมาร์ทโฟนเคลื่อนที่ 'ออกจาก' พื้นผิวของโต๊ะ 'Onto' จะเป็นคำตรงกันข้าม"
+      },
+      {
+        "question": "The shy artist was reluctant to step ______ the spotlight and receive her award.",
+        "options": [
+          "A. over",
+          "B. under",
+          "C. out of",
+          "D. into"
+        ],
+        "answer": "D",
+        "explanation": "คำตอบที่ถูกต้องคือ 'into' ในที่นี้ 'into the spotlight' เป็นสำนวนหมายถึงการก้าวเข้าไปสู่ความสนใจของสาธารณชน แสดงถึงการเคลื่อนที่เข้าไปในพื้นที่หรือสภาวะที่เป็นจุดสนใจ"
+      },
+      {
+        "question": "The investigators found a secret passage that led ______ the ground, directly beneath the main library.",
+        "options": [
+          "A. over",
+          "B. under",
+          "C. off",
+          "D. onto"
+        ],
+        "answer": "B",
+        "explanation": "คำตอบที่ถูกต้องคือ 'under' เพราะทางลับนั้นนำทาง 'ลงไปใต้' พื้นดิน ซึ่งเป็นตำแหน่งที่อยู่ข้างล่างห้องสมุด"
+      },
+      {
+        "question": "You need to pour the chemical mixture carefully ______ the beaker, not spill it on the counter.",
+        "options": [
+          "A. off",
+          "B. out of",
+          "C. over",
+          "D. into"
+        ],
+        "answer": "D",
+        "explanation": "คำตอบที่ถูกต้องคือ 'into' เพราะเป็นการเทของเหลวจาก 'ข้างนอกเข้าไปข้างใน' ภาชนะ (บีกเกอร์)"
+      },
+      {
+        "question": "The horse bucked violently, throwing the inexperienced rider ______ its back and ______ the muddy ground.",
+        "options": [
+          "A. off / onto",
+          "B. onto / off",
+          "C. into / over",
+          "D. over / into"
+        ],
+        "answer": "A",
+        "explanation": "คำตอบที่ถูกต้องคือ 'off / onto' ส่วนแรก 'throwing the rider off its back' คือการเหวี่ยงนักขี่ให้ตก 'ออกจาก' หลังของมัน (พื้นผิว) และส่วนที่สอง 'onto the muddy ground' คือนักขี่ตกลง 'ไปบน' พื้นดินโคลน (พื้นผิวใหม่)"
+      },
+      {
+        "question": "She managed to talk her friend ______ making a reckless investment that would have surely failed.",
+        "options": [
+          "A. into",
+          "B. off",
+          "C. onto",
+          "D. out of"
+        ],
+        "answer": "D",
+        "explanation": "คำตอบที่ถูกต้องคือ 'out of' ในสำนวน 'talk someone out of doing something' หมายถึง พูดเกลี้ยกล่อมให้ใครบางคนเลิกทำสิ่งใดสิ่งหนึ่ง ซึ่งตรงข้ามกับ 'talk someone into doing something' ที่แปลว่าพูดเกลี้ยกล่อมให้ทำ"
+      }
+    ]
+  },
+  {
+    "id": "27_3",
+    "title": "27.3 Summary: Prepositions of Movement (สรุปบุพบทบอกทิศทาง + 50 Exercises)",
+    "explanation": "Prepositions of Movement หรือ บุพบทบอกการเคลื่อนที่/ทิศทาง คือคำที่ใช้อธิบายว่าคนหรือสิ่งของเคลื่อนที่จากจุดหนึ่งไปยังอีกจุดหนึ่งอย่างไร มันจะตอบคำถาม 'ไปทางไหน?' หรือ 'เคลื่อนที่อย่างไร?' ซึ่งแตกต่างจาก Prepositions of Place ที่บอกว่า 'อยู่ที่ไหน?'\n\n**กลุ่มหลักๆ ที่ต้องจำ:**\n1.  **บอกจุดหมายปลายทางและต้นทาง (Destination & Origin):**\n    *   `to`: ไปยัง (จุดหมายที่แน่นอน) เช่น We're going to the cinema.\n    *   `from`: จาก (จุดเริ่มต้น) เช่น He came from Japan.\n    *   `towards`: ไปทาง, มุ่งหน้าไปยัง (บอกทิศทาง แต่ไม่จำเป็นต้องถึง) เช่น She walked towards the sea.\n    *   `away from`: ออกห่างจาก เช่น The cat ran away from the dog.\n\n2.  **การเคลื่อนที่ผ่าน/ข้าม (Crossing & Passing):**\n    *   `across`: ข้าม (จากฝั่งหนึ่งไปอีกฝั่งหนึ่งของพื้นผิว) เช่น I swam across the river.\n    *   `through`: ผ่าน, ทะลุ (ผ่านเข้าไปในสิ่งที่มีปริมาตร/พื้นที่ 3 มิติ) เช่น We drove through the tunnel.\n    *   `past`: ผ่าน (เลยไป) เช่น Go past the post office and turn left.\n\n3.  **การเคลื่อนที่เข้า/ออก (Entering & Exiting):**\n    *   `into`: เข้าไปข้างใน (เน้นการเคลื่อนที่จากข้างนอกเข้าข้างใน) เช่น He jumped into the pool.\n    *   `out of`: ออกจาก (เน้นการเคลื่อนที่จากข้างในออกข้างนอก) เช่น She got out of the car.\n\n4.  **การเคลื่อนที่ขึ้น/ลง (Upward & Downward Movement):**\n    *   `up`: ขึ้น เช่น We climbed up the hill.\n    *   `down`: ลง เช่น The ball rolled down the stairs.\n    *   `onto`: ไปอยู่บน (เคลื่อนที่ไปบนพื้นผิว) เช่น The cat jumped onto the table.\n    *   `off`: ออกจาก (เคลื่อนที่ออกจากพื้นผิว) เช่น He fell off the ladder.\n\n5.  **การเคลื่อนที่รอบๆ (Circular & Other Movements):**\n    *   `around` / `round`: รอบๆ เช่น They walked around the lake.\n    *   `over`: ข้าม (ข้ามสิ่งกีดขวาง) เช่น The horse jumped over the fence.\n    *   `under`: ใต้, ลอดใต้ เช่น The dog crawled under the gate.",
+    "examples": [
+      {
+        "eng": "The train went through a long, dark tunnel.",
+        "thai": "รถไฟวิ่งทะลุผ่านอุโมงค์ที่ยาวและมืด ใช้ 'through' เพราะอุโมงค์เป็นพื้นที่ 3 มิติที่เราเคลื่อนที่ 'เข้าไปข้างใน' จนทะลุออกไปอีกด้าน"
+      },
+      {
+        "eng": "Be careful when you walk across this busy street.",
+        "thai": "ระวังตัวด้วยตอนที่คุณเดินข้ามถนนที่พลุกพล่านนี้ ใช้ 'across' เพราะถนนเป็นพื้นผิว 2 มิติที่เราเคลื่อนที่จากฝั่งหนึ่งไปอีกฝั่งหนึ่ง"
+      },
+      {
+        "eng": "The cat leaped onto the countertop to steal the fish.",
+        "thai": "แมวกระโจนขึ้นไปบนเคาน์เตอร์เพื่อขโมยปลา ใช้ 'onto' เพื่อเน้นการเคลื่อนที่ 'ขึ้นไปบน' พื้นผิว ไม่ใช่ 'on' ซึ่งบอกตำแหน่งว่าอยู่บนอยู่แล้ว"
+      },
+      {
+        "eng": "He was walking towards the station when I saw him.",
+        "thai": "เขากำลังเดินไปทางสถานีตอนที่ฉันเห็นเขา ใช้ 'towards' เพื่อบอกทิศทางที่เขามุ่งหน้าไป แต่ไม่จำเป็นว่าเขาจะต้องไปถึงสถานีก็ได้ ซึ่งต่างจาก 'to' ที่หมายถึงไปถึงที่นั่นเป็นจุดหมาย"
+      }
+    ],
+    "common_mistakes": "1.  **สับสนระหว่าง `in` (ตำแหน่ง) กับ `into` (การเคลื่อนที่):** คนไทยมักใช้ `in` แทน `into` เช่น พูดว่า 'He walked in the room' ซึ่งจริงๆ แล้วควรเป็น 'He walked into the room' (เขาเดินเข้าไปในห้อง) เพราะมีการเคลื่อนที่จากข้างนอกเข้าข้างใน\n\n2.  **สับสนระหว่าง `on` (ตำแหน่ง) กับ `onto` (การเคลื่อนที่):** คล้ายกับข้อแรก เช่น 'I put the book on the table' จริงๆ ควรใช้ 'onto' ในบางบริบทที่เน้นการเคลื่อนไหว แต่ 'on' ก็เป็นที่ยอมรับกันโดยทั่วไปในประโยคนี้ อย่างไรก็ตาม ในประโยคที่เน้นการกระทำมากๆ เช่น 'The cat jumped onto the roof' จะชัดเจนกว่า 'The cat jumped on the roof'\n\n3.  **ใช้ `across` กับ `through` สลับกัน:** นี่คือจุดที่ผิดบ่อยที่สุด `across` ใช้กับพื้นผิว (ถนน, แม่น้ำ, สนาม) ส่วน `through` ใช้กับการเคลื่อนที่ผ่านสิ่งที่มีลักษณะเป็น 3 มิติ หรือมีสิ่งกีดขวาง (ป่า, อุโมงค์, ฝูงชน)\n    *   ผิด: We walked through the field. (ถ้าเป็นทุ่งโล่งๆ ควรใช้ across)\n    *   ถูก: We walked across the field.\n    *   ผิด: I swam across the tunnel.\n    *   ถูก: I drove through the tunnel.\n\n4.  **ลืม `to` หลัง verb of movement:** คนไทยอาจจะพูดว่า 'I go school' เพราะในภาษาไทยไม่ต้องมีคำบุพบทเสมอไป แต่ในภาษาอังกฤษ ต้องพูดว่า 'I go to school' เพื่อบอกจุดหมายปลายทาง",
+    "practice_questions": [
+      {
+        "question": "The hikers struggled to climb ______ the steep mountain.",
+        "options": [
+          "A. across",
+          "B. up",
+          "C. through",
+          "D. into"
+        ],
+        "answer": "B",
+        "explanation": "ใช้ 'up' เพื่อแสดงการเคลื่อนที่ขึ้นที่สูง ในที่นี้คือการปีนขึ้นภูเขาที่สูงชัน"
+      },
+      {
+        "question": "A small boat was sailing gently ______ the river.",
+        "options": [
+          "A. along",
+          "B. into",
+          "C. off",
+          "D. towards"
+        ],
+        "answer": "A",
+        "explanation": "ใช้ 'along' เพื่ออธิบายการเคลื่อนที่ไปตามแนวยาวของแม่น้ำ"
+      },
+      {
+        "question": "Be careful not to fall ______ the bicycle when you go down the hill.",
+        "options": [
+          "A. out of",
+          "B. away from",
+          "C. off",
+          "D. under"
+        ],
+        "answer": "C",
+        "explanation": "ใช้ 'off' เพื่อแสดงการเคลื่อนที่ออกจากพื้นผิว ในที่นี้คือการตกออกจากจักรยาน"
+      },
+      {
+        "question": "The children chased each other ______ the big tree in the garden.",
+        "options": [
+          "A. around",
+          "B. through",
+          "C. across",
+          "D. onto"
+        ],
+        "answer": "A",
+        "explanation": "ใช้ 'around' เพื่ออธิบายการเคลื่อนที่เป็นวงกลมหรือรอบๆ สิ่งใดสิ่งหนึ่ง ในที่นี้คือวิ่งไล่กันรอบต้นไม้"
+      },
+      {
+        "question": "To get to the pharmacy, you need to go ______ the bridge.",
+        "options": [
+          "A. through",
+          "B. under",
+          "C. over",
+          "D. past"
+        ],
+        "answer": "C",
+        "explanation": "'over' ใช้กับการข้ามสิ่งกีดขวาง เช่น สะพาน ส่วน 'under' คือลอดใต้สะพาน บริบทนี้การข้ามสะพานเหมาะสมที่สุด"
+      },
+      {
+        "question": "The thief escaped by jumping ______ the wall.",
+        "options": [
+          "A. through",
+          "B. over",
+          "C. along",
+          "D. into"
+        ],
+        "answer": "B",
+        "explanation": "ใช้ 'over' เมื่อพูดถึงการข้ามสิ่งกีดขวางที่มีความสูง เช่น กำแพง หรือรั้ว"
+      },
+      {
+        "question": "We had to squeeze ______ the crowd to see the parade.",
+        "options": [
+          "A. across",
+          "B. past",
+          "C. through",
+          "D. over"
+        ],
+        "answer": "C",
+        "explanation": "ใช้ 'through' เพราะฝูงชน (crowd) ถือเป็นพื้นที่ 3 มิติที่มีสิ่งกีดขวาง (ผู้คน) เราต้องเคลื่อนที่ฝ่าเข้าไป"
+      },
+      {
+        "question": "She poured the milk ______ the bowl of cereal.",
+        "options": [
+          "A. on",
+          "B. onto",
+          "C. into",
+          "D. at"
+        ],
+        "answer": "C",
+        "explanation": "ใช้ 'into' เพื่อแสดงการเคลื่อนที่จากข้างนอกเข้าไปในภาชนะที่มีขอบเขต เช่น ชาม หรือแก้ว"
+      },
+      {
+        "question": "The cat crawled ______ the bed to hide from the noisy children.",
+        "options": [
+          "A. over",
+          "B. under",
+          "C. past",
+          "D. off"
+        ],
+        "answer": "B",
+        "explanation": "ใช้ 'under' เพื่อแสดงการเคลื่อนที่ไปอยู่ข้างใต้สิ่งใดสิ่งหนึ่ง ในที่นี้คือคลานเข้าไปใต้เตียง"
+      },
+      {
+        "question": "They drove ______ the city without stopping.",
+        "options": [
+          "A. through",
+          "B. across",
+          "C. along",
+          "D. around"
+        ],
+        "answer": "A",
+        "explanation": "ใช้ 'through' เมื่อหมายถึงการขับรถผ่านเมืองจากด้านหนึ่งไปยังอีกด้านหนึ่งโดยไม่ได้แวะพัก"
+      },
+      {
+        "question": "The athletes ran twice ______ the track to warm up.",
+        "options": [
+          "A. over",
+          "B. through",
+          "C. around",
+          "D. across"
+        ],
+        "answer": "C",
+        "explanation": "ใช้ 'around' กับลู่วิ่ง (track) เพื่อหมายถึงการวิ่งครบรอบ"
+      },
+      {
+        "question": "The mailman walked from house to house, putting letters ______ the mailboxes.",
+        "options": [
+          "A. onto",
+          "B. into",
+          "C. along",
+          "D. through"
+        ],
+        "answer": "B",
+        "explanation": "ใช้ 'into' เพราะตู้จดหมายเป็นพื้นที่ปิด และเป็นการกระทำที่เอาของใส่เข้าไปข้างใน"
+      },
+      {
+        "question": "He took his wallet ______ his pocket to pay for the coffee.",
+        "options": [
+          "A. into",
+          "B. off",
+          "C. away from",
+          "D. out of"
+        ],
+        "answer": "D",
+        "explanation": "ใช้ 'out of' เพื่อแสดงการเคลื่อนที่จากข้างในออกมาข้างนอก ในที่นี้คือเอากระเป๋าสตางค์ออกจากกระเป๋ากางเกง"
+      },
+      {
+        "question": "A squirrel ran ______ the tree branch and disappeared among the leaves.",
+        "options": [
+          "A. across",
+          "B. along",
+          "C. through",
+          "D. down"
+        ],
+        "answer": "B",
+        "explanation": "ใช้ 'along' เพื่ออธิบายการเคลื่อนที่ไปตามแนวยาวของกิ่งไม้"
+      },
+      {
+        "question": "The tourists walked ______ the famous landmark without even noticing it.",
+        "options": [
+          "A. past",
+          "B. through",
+          "C. over",
+          "D. under"
+        ],
+        "answer": "A",
+        "explanation": "ใช้ 'past' เพื่อบอกว่าเดินผ่านเลยไปโดยไม่ได้หยุดหรือให้ความสนใจ"
+      },
+      {
+        "question": "The police car is moving ______ our vehicle at high speed.",
+        "options": [
+          "A. to",
+          "B. at",
+          "C. towards",
+          "D. into"
+        ],
+        "answer": "C",
+        "explanation": "ใช้ 'towards' เพื่อบอกทิศทางที่กำลังมุ่งมาหา แต่ยังไม่ถึงตัวเรา ซึ่งต่างจาก 'to' ที่หมายถึงการมาถึงเป็นจุดหมาย"
+      },
+      {
+        "question": "She carefully placed the vase ______ the shelf.",
+        "options": [
+          "A. on",
+          "B. onto",
+          "C. into",
+          "D. to"
+        ],
+        "answer": "B",
+        "explanation": "ใช้ 'onto' เพื่อเน้นการกระทำของการเคลื่อนที่ไปวางบนพื้นผิว ในที่นี้คือวางแจกันลงบนชั้นวาง"
+      },
+      {
+        "question": "The fish swam ______ the fast-flowing current.",
+        "options": [
+          "A. against",
+          "B. towards",
+          "C. across",
+          "D. through"
+        ],
+        "answer": "A",
+        "explanation": "'against' เป็นบุพบทที่ใช้แสดงการเคลื่อนที่ในทิศทางตรงกันข้ามกับแรงหรือกระแส ในที่นี้คือว่ายทวนน้ำ"
+      },
+      {
+        "question": "We need to get ______ the bus at the next stop.",
+        "options": [
+          "A. out of",
+          "B. off",
+          "C. down",
+          "D. away from"
+        ],
+        "answer": "B",
+        "explanation": "ใช้ 'get off' สำหรับการลงจากยานพาหนะสาธารณะขนาดใหญ่ เช่น รถบัส รถไฟ หรือเครื่องบิน ใช้ 'get out of' สำหรับรถยนต์"
+      },
+      {
+        "question": "The child ran ______ his mother's arms for a hug.",
+        "options": [
+          "A. onto",
+          "B. at",
+          "C. into",
+          "D. over"
+        ],
+        "answer": "C",
+        "explanation": "ใช้ 'into' ในความหมายเชิงเปรียบเทียบ หมายถึงการวิ่งเข้าไปในอ้อมแขนของแม่"
+      },
+      {
+        "question": "It's dangerous to lean ______ the train window.",
+        "options": [
+          "A. off",
+          "B. out of",
+          "C. away from",
+          "D. under"
+        ],
+        "answer": "B",
+        "explanation": "ใช้ 'out of' เพื่อหมายถึงการยื่นส่วนของร่างกายออกจากพื้นที่ปิด เช่น หน้าต่าง หรือประตู"
+      },
+      {
+        "question": "The explorers made their way ______ the dense jungle.",
+        "options": [
+          "A. across",
+          "B. along",
+          "C. through",
+          "D. past"
+        ],
+        "answer": "C",
+        "explanation": "ใช้ 'through' เพราะป่าทึบ (dense jungle) เป็นพื้นที่ 3 มิติที่ต้องเคลื่อนที่ฝ่าเข้าไป"
+      },
+      {
+        "question": "He walked ______ the end of the pier and stared at the ocean.",
+        "options": [
+          "A. into",
+          "B. to",
+          "C. towards",
+          "D. onto"
+        ],
+        "answer": "B",
+        "explanation": "ใช้ 'to' เพื่อระบุจุดหมายปลายทางที่ชัดเจนและไปถึงแล้ว ในที่นี้คือ 'ปลายสุดของท่าเรือ'"
+      },
+      {
+        "question": "The tears rolled ______ her cheeks.",
+        "options": [
+          "A. down",
+          "B. through",
+          "C. across",
+          "D. off"
+        ],
+        "answer": "A",
+        "explanation": "ใช้ 'down' เพื่อแสดงการเคลื่อนที่จากบนลงล่าง ในที่นี้คือน้ำตาไหลลงมาตามแก้ม"
+      },
+      {
+        "question": "The car skidded ______ the icy road.",
+        "options": [
+          "A. through",
+          "B. over",
+          "C. across",
+          "D. past"
+        ],
+        "answer": "C",
+        "explanation": "ใช้ 'across' เพื่ออธิบายการเคลื่อนที่ข้ามพื้นผิว ในที่นี้คือรถลื่นไถลไปบนถนนที่เต็มไปด้วยน้ำแข็ง"
+      },
+      {
+        "question": "She's flying ______ Bangkok tomorrow morning.",
+        "options": [
+          "A. at",
+          "B. in",
+          "C. to",
+          "D. for"
+        ],
+        "answer": "C",
+        "explanation": "ใช้ 'to' กับ verb of movement (fly, go, travel) เพื่อระบุจุดหมายปลายทาง"
+      },
+      {
+        "question": "The detective followed the suspect ______ a dark alley.",
+        "options": [
+          "A. down",
+          "B. across",
+          "C. over",
+          "D. past"
+        ],
+        "answer": "A",
+        "explanation": "ใช้ 'down' กับถนนหรือซอย (alley) เพื่อหมายถึงการเดินลึกเข้าไปตามทางนั้น"
+      },
+      {
+        "question": "Can you pass the salt ______ the table to me?",
+        "options": [
+          "A. through",
+          "B. across",
+          "C. along",
+          "D. towards"
+        ],
+        "answer": "B",
+        "explanation": "ใช้ 'across' เมื่อหมายถึงการส่งของข้ามจากฝั่งหนึ่งของโต๊ะไปยังอีกฝั่ง"
+      },
+      {
+        "question": "The children slid ______ the muddy bank and ______ the river.",
+        "options": [
+          "A. up, into",
+          "B. down, onto",
+          "C. down, into",
+          "D. along, across"
+        ],
+        "answer": "C",
+        "explanation": "ส่วนแรกคือการลื่น 'ลงมา' (down) ตามตลิ่ง และส่วนที่สองคือการเคลื่อนที่ 'เข้าไปใน' (into) แม่น้ำ"
+      },
+      {
+        "question": "A spider was crawling ______ the ceiling.",
+        "options": [
+          "A. over",
+          "B. across",
+          "C. through",
+          "D. on"
+        ],
+        "answer": "B",
+        "explanation": "ใช้ 'across' เพื่ออธิบายการเคลื่อนที่ไปบนพื้นผิวในที่นี้คือเพดาน (ceiling)"
+      },
+      {
+        "question": "They are moving ______ a new apartment next month.",
+        "options": [
+          "A. into",
+          "B. onto",
+          "C. to",
+          "D. at"
+        ],
+        "answer": "A",
+        "explanation": "ใช้ 'move into' เมื่อหมายถึงการย้ายเข้าไปอยู่ในบ้านหรืออพาร์ตเมนต์ใหม่"
+      },
+      {
+        "question": "The escaped lion wandered ______ the city streets at night.",
+        "options": [
+          "A. across",
+          "B. over",
+          "C. through",
+          "D. along"
+        ],
+        "answer": "C",
+        "explanation": "ใช้ 'through' ในความหมายว่าเดินไปทั่วๆ ตามท้องถนนของเมือง"
+      },
+      {
+        "question": "He tiptoed ______ his sleeping roommate to avoid waking him up.",
+        "options": [
+          "A. past",
+          "B. over",
+          "C. through",
+          "D. under"
+        ],
+        "answer": "A",
+        "explanation": "ใช้ 'past' เพื่อบอกว่าเดินผ่านเลยไปอย่างเงียบๆ"
+      },
+      {
+        "question": "The company transfers data ______ a secure server.",
+        "options": [
+          "A. onto",
+          "B. to",
+          "C. into",
+          "D. towards"
+        ],
+        "answer": "B",
+        "explanation": "ใช้ 'to' เพื่อระบุจุดหมายปลายทางของการถ่ายโอนข้อมูล"
+      },
+      {
+        "question": "The smoke rose ______ the chimney and disappeared into the sky.",
+        "options": [
+          "A. over",
+          "B. through",
+          "C. up",
+          "D. onto"
+        ],
+        "answer": "C",
+        "explanation": "ส่วนแรก ควันลอย 'ขึ้นไป' (up) และส่วนที่สองมันทะลุ 'ผ่าน' (through) ปล่องไฟ"
+      },
+      {
+        "question": "The knight rode his horse ______ the battlefield.",
+        "options": [
+          "A. through",
+          "B. across",
+          "C. along",
+          "D. over"
+        ],
+        "answer": "B",
+        "explanation": "ใช้ 'across' เพราะสนามรบ (battlefield) เป็นพื้นที่ผิวขนาดใหญ่ที่ต้องเคลื่อนที่ข้ามไป"
+      },
+      {
+        "question": "The protestors marched ______ the government building.",
+        "options": [
+          "A. to",
+          "B. into",
+          "C. towards",
+          "D. at"
+        ],
+        "answer": "C",
+        "explanation": "ใช้ 'towards' เพื่อบอกทิศทางที่มุ่งไป แต่ไม่ได้หมายความว่าพวกเขาเดินเข้าไปข้างในตึก"
+      },
+      {
+        "question": "Please don't throw your trash ______ the car window.",
+        "options": [
+          "A. away from",
+          "B. off",
+          "C. out of",
+          "D. down"
+        ],
+        "answer": "C",
+        "explanation": "ใช้ 'out of' สำหรับการเคลื่อนที่ของสิ่งของจากข้างในออกมาข้างนอกผ่านช่องเปิดเช่นหน้าต่าง"
+      },
+      {
+        "question": "He pushed the key ______ the lock, but it wouldn't turn.",
+        "options": [
+          "A. into",
+          "B. onto",
+          "C. towards",
+          "D. through"
+        ],
+        "answer": "A",
+        "explanation": "ใช้ 'into' เพื่อแสดงการสอดกุญแจเข้าไปในรูกุญแจ"
+      },
+      {
+        "question": "The ship sailed ______ the treacherous strait.",
+        "options": [
+          "A. across",
+          "B. over",
+          "C. past",
+          "D. through"
+        ],
+        "answer": "D",
+        "explanation": "ช่องแคบ (strait) ถือเป็นทางผ่านที่มีขอบเขตสองข้าง จึงใช้ 'through' ในการแล่นเรือผ่าน"
+      },
+      {
+        "question": "The path winds ______ the forest to a hidden waterfall.",
+        "options": [
+          "A. past",
+          "B. through",
+          "C. across",
+          "D. around"
+        ],
+        "answer": "B",
+        "explanation": "ใช้ 'through' เพราะเส้นทางนี้ตัดผ่านเข้าไปในป่า ซึ่งเป็นพื้นที่ 3 มิติ"
+      },
+      {
+        "question": "The refugees had to travel ______ several borders to reach safety.",
+        "options": [
+          "A. through",
+          "B. across",
+          "C. over",
+          "D. along"
+        ],
+        "answer": "B",
+        "explanation": "ใช้ 'across' สำหรับการข้ามพรมแดน (borders) ซึ่งเป็นเส้นแบ่งเขตแดน"
+      },
+      {
+        "question": "Let's take a shortcut ______ the park.",
+        "options": [
+          "A. across",
+          "B. through",
+          "C. A and B are correct",
+          "D. past"
+        ],
+        "answer": "C",
+        "explanation": "ในบริบทนี้สามารถใช้ได้ทั้ง 'across' (ถ้าหมายถึงการเดินตัดข้ามพื้นที่โล่งของสวน) และ 'through' (ถ้าหมายถึงการเดินผ่านพื้นที่ทั้งหมดของสวนที่มีต้นไม้และทางเดิน)"
+      },
+      {
+        "question": "He looked ______ the telescope to see the stars.",
+        "options": [
+          "A. into",
+          "B. across",
+          "C. along",
+          "D. through"
+        ],
+        "answer": "D",
+        "explanation": "ใช้ 'through' เมื่อมองผ่านอุปกรณ์ที่มีเลนส์ เช่น กล้องโทรทรรศน์, กล้องส่องทางไกล, หรือช่องมอง"
+      },
+      {
+        "question": "The wind blew ______ the open window, scattering the papers.",
+        "options": [
+          "A. through",
+          "B. across",
+          "C. into",
+          "D. over"
+        ],
+        "answer": "A",
+        "explanation": "ใช้ 'through' เพราะลมเคลื่อนที่ผ่านช่องเปิด (หน้าต่าง) เข้ามาในห้อง"
+      },
+      {
+        "question": "The information was passed ______ from one generation to the next.",
+        "options": [
+          "A. over",
+          "B. through",
+          "C. down",
+          "D. along"
+        ],
+        "answer": "C",
+        "explanation": "สำนวน 'pass down' หมายถึงการถ่ายทอด (ข้อมูล, ประเพณี) จากคนรุ่นก่อนสู่คนรุ่นหลัง"
+      },
+      {
+        "question": "The ball flew ______ the fence and landed in the neighbor's yard.",
+        "options": [
+          "A. through",
+          "B. past",
+          "C. across",
+          "D. over"
+        ],
+        "answer": "D",
+        "explanation": "ใช้ 'over' เพื่อแสดงการเคลื่อนที่ข้ามสิ่งกีดขวางที่มีความสูง เช่น รั้ว"
+      },
+      {
+        "question": "The artist is drawing a line ______ the page.",
+        "options": [
+          "A. through",
+          "B. across",
+          "C. over",
+          "D. on"
+        ],
+        "answer": "B",
+        "explanation": "ใช้ 'across' เพื่อหมายถึงการลากเส้นจากด้านหนึ่งของหน้ากระดาษไปยังอีกด้านหนึ่ง"
+      },
+      {
+        "question": "The soldier crawled ______ the enemy lines under the cover of darkness.",
+        "options": [
+          "A. past",
+          "B. along",
+          "C. through",
+          "D. into"
+        ],
+        "answer": "C",
+        "explanation": "ใช้ 'through' เมื่อหมายถึงการเคลื่อนที่ฝ่าแนวป้องกันหรือพื้นที่ของศัตรู"
+      },
+      {
+        "question": "She stepped ______ the puddle to avoid getting her shoes wet.",
+        "options": [
+          "A. across",
+          "B. through",
+          "C. around",
+          "D. into"
+        ],
+        "answer": "C",
+        "explanation": "ใช้ 'around' เพื่อแสดงการเดินอ้อมสิ่งกีดขวาง ในที่นี้คือแอ่งน้ำ"
+      }
+    ]
+  }
+]

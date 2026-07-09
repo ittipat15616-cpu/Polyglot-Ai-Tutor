@@ -1,0 +1,1126 @@
+[
+  {
+    "id": "34_1",
+    "title": "34.1 Simple Sentences (ประโยคความเดียว)",
+    "explanation": "Simple Sentence หรือ ประโยคความเดียว คือประโยคที่มี 'ใจความหลัก' เพียงหนึ่งเดียวเท่านั้น โครงสร้างพื้นฐานที่สุดคือ Subject (ประธาน) + Verb (กริยา) ซึ่งประกอบกันเป็น Independent Clause (อนุประโยคหลัก) ที่สมบูรณ์\n\nสิ่งที่ทำให้ผู้เรียนระดับ Intermediate สับสนคือ Simple Sentence ไม่ได้แปลว่า 'ประโยคสั้นๆ' เสมอไป ประโยคความเดียวอาจจะยาวและซับซ้อนได้โดยการเพิ่มส่วนขยายต่างๆ เข้าไป แต่ตราบใดที่ยังมี 'ประธานหลัก + กริยาหลัก' แค่ชุดเดียว ก็ยังถือว่าเป็น Simple Sentence\n\nส่วนขยายที่มักพบใน Simple Sentence ที่ยาวขึ้น ได้แก่:\n1.  **Compound Subject (ประธานผสม):** มีประธานมากกว่าหนึ่งตัว เชื่อมด้วย and, or\n    เช่น: The manager and her assistant... (ประธาน 2 ตัว แต่ทำกริยาเดียวกัน)\n2.  **Compound Verb (กริยาผสม):** ประธานตัวเดียว แต่ทำกริยามากกว่าหนึ่งอย่าง\n    เช่น: The scientist analyzed the data and published her findings. (ประธาน 1 ตัว แต่ทำกริยา 2 อย่าง)\n3.  **Phrases (วลี):** กลุ่มคำที่ไม่มีประธานและกริยาแท้ของตัวเอง ทำหน้าที่ขยายความ\n    - **Prepositional Phrase (บุพบทวลี):** เช่น in the morning, with great enthusiasm, under the ancient bridge.\n    - **Participial Phrase (กริยาวลี):** เช่น running down the street, designed by a famous architect.\n    - **Appositive Phrase (สัมพันธการวลี):** เช่น my brother, a talented musician, ...\n\nหัวใจสำคัญคือการมองหาให้เจอว่า 'ใคร (ประธานหลัก) ทำอะไร (กริยาหลัก)' ในประโยค ถ้าหาได้แค่ชุดเดียว นั่นคือ Simple Sentence ครับ",
+    "examples": [
+      {
+        "eng": "The ambitious team of young engineers has developed an innovative solution.",
+        "thai": "ทีมวิศวกรรุ่นใหม่ไฟแรงได้พัฒนาโซลูชันที่ล้ำสมัยขึ้นมา\nคำอธิบาย: ประโยคนี้มีประธานหลักคือ 'The ambitious team of young engineers' และกริยาหลักคือ 'has developed' ถึงแม้ประธานจะยาว แต่ก็เป็นประธานชุดเดียว"
+      },
+      {
+        "eng": "Despite the severe weather conditions, the experienced climbers reached the summit before noon.",
+        "thai": "แม้จะมีสภาพอากาศที่เลวร้าย นักปีนเขาผู้มากประสบการณ์ก็ไปถึงยอดเขาก่อนเที่ยง\nคำอธิบาย: 'the experienced climbers' คือประธาน และ 'reached' คือกริยาแท้ ส่วน 'Despite the severe weather conditions' เป็นเพียง Prepositional Phrase ที่มาขยายความเท่านั้น ไม่ใช่ใจความหลัก"
+      },
+      {
+        "eng": "The company's CEO and the board of directors reviewed the quarterly report and planned the next strategic move.",
+        "thai": "CEO ของบริษัทและคณะกรรมการบริษัทได้ทบทวนรายงานประจำไตรมาสและวางแผนกลยุทธ์ขั้นต่อไป\nคำอธิบาย: ประโยคนี้มี Compound Subject (CEO and the board of directors) และ Compound Verb (reviewed and planned) แต่ทั้งหมดนี้ยังคงอยู่ใน Clause (ใจความ) เดียวกัน จึงยังเป็น Simple Sentence"
+      },
+      {
+        "eng": "My cousin, a renowned chef from Italy, prepares exquisite traditional dishes in his new restaurant.",
+        "thai": "ลูกพี่ลูกน้องของฉัน ซึ่งเป็นเชฟชื่อดังจากอิตาลี เตรียมอาหารพื้นเมืองรสเลิศในร้านอาหารแห่งใหม่ของเขา\nคำอธิบาย: 'a renowned chef from Italy' เป็น Appositive Phrase ที่มาขยายประธาน 'My cousin' ส่วนกริยาหลักคือ 'prepares' ประโยคนี้มีใจความหลักเพียงหนึ่งเดียว"
+      }
+    ],
+    "common_mistakes": "1.  **สับสนระหว่าง 'ประโยคยาว' กับ 'ประโยคซับซ้อน':** คนไทยมักคิดว่าประโยคยาวๆ ที่มีส่วนขยายเยอะๆ ต้องไม่ใช่ Simple Sentence ซึ่งไม่จริงเสมอไป ความยาวของประโยคมาจากวลี (Phrases) ไม่ได้มาจากการมีหลายอนุประโยค (Clauses) ต้องแยกให้ออกว่าส่วนไหนคือ 'วลี' ส่วนไหนคือ 'อนุประโยคใหม่'\n\n2.  **แยก Compound Subject/Verb ไม่ออก:** เมื่อเห็นคำเชื่อม 'and' หรือ 'or' มักจะคิดว่าเป็นประโยคความรวม (Compound Sentence) ทันที แต่ถ้า 'and' เชื่อมแค่ประธานกับประธาน (เช่น John and Mary go...) หรือกริยากับกริยา (เช่น He sings and dances.) มันยังคงเป็น Simple Sentence เพราะมีโครงสร้าง S+S+V หรือ S+V+V ใน Clause เดียว\n\n3.  **เข้าใจผิดว่า Participial Phrase คือกริยาแท้:** ประโยคอย่าง 'The man wearing a blue shirt.' ไม่ใช่ประโยคที่สมบูรณ์ เพราะ 'wearing' ในที่นี้เป็น Participle ทำหน้าที่ขยาย 'The man' ไม่ใช่กริยาแท้ของประโยค ทำให้ประโยคขาดกริยาแท้ (เป็นแค่ Sentence Fragment) ประโยคที่สมบูรณ์คือ 'The man wearing a blue shirt is my uncle.' (กริยาแท้คือ is)",
+    "practice_questions": [
+      {
+        "question": "Which of the following is a simple sentence?",
+        "options": [
+          "A. The scientist conducted the experiment, and she recorded the results carefully.",
+          "B. Although the problem was difficult, the students managed to find a solution.",
+          "C. The new employee from the marketing department quickly adapted to the company's culture.",
+          "D. The manager who was hired last month has already implemented several changes."
+        ],
+        "answer": "C",
+        "explanation": "ข้อ C เป็น Simple Sentence ที่สมบูรณ์ มีประธานหลักคือ 'The new employee from the marketing department' และกริยาหลักคือ 'adapted' ส่วนข้อ A เป็น Compound Sentence (เชื่อมด้วย and), ข้อ B และ D เป็น Complex Sentences (มี Subordinate Clause เริ่มด้วย Although และ who)"
+      },
+      {
+        "question": "Identify the complete subject in the following sentence: 'The recently published book about sustainable agriculture has received critical acclaim.'",
+        "options": [
+          "A. The recently published book",
+          "B. The recently published book about sustainable agriculture",
+          "C. The book",
+          "D. sustainable agriculture"
+        ],
+        "answer": "B",
+        "explanation": "ประธานที่สมบูรณ์ (Complete Subject) คือตัวประธานหลัก 'book' รวมกับส่วนขยายทั้งหมดที่เกี่ยวข้องกับมัน ซึ่งในที่นี้คือ 'The recently published' และ 'about sustainable agriculture' ส่วนกริยาของประโยคคือ 'has received'"
+      },
+      {
+        "question": "Which sentence contains a compound verb?",
+        "options": [
+          "A. The chef and his assistant prepared the meal together.",
+          "B. The audience applauded loudly after the performance.",
+          "C. The athlete trained for months and won the championship.",
+          "D. The car, which was old and rusty, broke down on the highway."
+        ],
+        "answer": "C",
+        "explanation": "ข้อ C เป็น Simple Sentence ที่มี Compound Verb (กริยาผสม) ประธาน 'The athlete' ทำกริยาสองอย่างคือ 'trained' และ 'won' ส่วนข้อ A มี Compound Subject (ประธานผสม)"
+      },
+      {
+        "question": "All of the following are simple sentences EXCEPT:",
+        "options": [
+          "A. The politician's speech on economic reform lasted for nearly an hour.",
+          "B. My sister researches environmental policies and advocates for stricter regulations.",
+          "C. After finishing his project, he felt a great sense of accomplishment.",
+          "D. The students are studying hard because they have a final exam tomorrow."
+        ],
+        "answer": "D",
+        "explanation": "ข้อ D เป็น Complex Sentence เพราะมี Subordinate Clause ที่ขึ้นต้นด้วย 'because' เพื่อบอกเหตุผล ส่วนข้อ A, B, และ C เป็น Simple Sentences ทั้งหมด (ข้อ B มี Compound Verb, ข้อ C มี Prepositional Phrase นำหน้า)"
+      },
+      {
+        "question": "What is the main verb in the sentence: 'The committee, despite some initial disagreements, unanimously approved the proposal.'?",
+        "options": [
+          "A. disagreements",
+          "B. approved",
+          "C. committee",
+          "D. unanimously"
+        ],
+        "answer": "B",
+        "explanation": "กริยาหลัก (Main Verb) ของประโยคคือ 'approved' ที่แสดงการกระทำของประธาน 'The committee' ส่วน 'despite some initial disagreements' เป็นเพียงวลีที่มาขยายความ และ 'unanimously' เป็น adverb ขยาย 'approved'"
+      },
+      {
+        "question": "Which of these is NOT a complete simple sentence?",
+        "options": [
+          "A. The dog barked loudly at the mailman.",
+          "B. Running through the park on a sunny morning.",
+          "C. My parents and I are traveling to Japan next month.",
+          "D. The old library at the end of the street will be demolished soon."
+        ],
+        "answer": "B",
+        "explanation": "ข้อ B เป็น Sentence Fragment (ส่วนของประโยค) เพราะมีเพียง Participial Phrase ('Running...') แต่ไม่มีประธานหลักและกริยาแท้ของประโยค ส่วนข้อ A, C, และ D เป็น Simple Sentences ที่สมบูรณ์"
+      },
+      {
+        "question": "A simple sentence must have at least one __________.",
+        "options": [
+          "A. adjective and one adverb",
+          "B. independent clause",
+          "C. dependent clause",
+          "D. coordinating conjunction"
+        ],
+        "answer": "B",
+        "explanation": "หัวใจของ Simple Sentence คือการมี Independent Clause (อนุประโยคหลักที่อยู่ได้ด้วยตัวเอง) เพียงหนึ่งเดียว ซึ่งประกอบด้วยประธานและกริยาเป็นอย่างน้อย"
+      },
+      {
+        "question": "Identify the simple sentence with a compound subject.",
+        "options": [
+          "A. The cat chased the mouse and hid under the sofa.",
+          "B. The wind howled, and the rain poured down.",
+          "C. Both the novel and the film adaptation were incredibly successful.",
+          "D. The museum, which is located downtown, has a new exhibition."
+        ],
+        "answer": "C",
+        "explanation": "ข้อ C มี Compound Subject (ประธานผสม) คือ 'the novel and the film adaptation' ซึ่งทั้งสองสิ่งนี้ทำกริยา 'were' ร่วมกัน ส่วนข้อ A มี Compound Verb, ข้อ B เป็น Compound Sentence, ข้อ D เป็น Complex Sentence"
+      },
+      {
+        "question": "Which sentence is grammatically correct and is a simple sentence?",
+        "options": [
+          "A. The team of researchers, they finally published their findings.",
+          "B. Finished the report just before the deadline.",
+          "C. The city's new transportation system functions efficiently and reduces traffic congestion.",
+          "D. Because of the heavy investment in technology, the company's productivity has increased."
+        ],
+        "answer": "C",
+        "explanation": "ข้อ C เป็น Simple Sentence ที่ถูกต้องตามหลักไวยากรณ์ มีประธานคือ 'The city's new transportation system' และมี Compound Verb คือ 'functions' และ 'reduces' ข้อ A มีประธานซ้ำซ้อน (redundant subject 'they'), ข้อ B เป็น Fragment ขาดประธาน, ข้อ D แม้จะถูกไวยากรณ์แต่ก็เป็น Simple sentence เช่นกัน แต่ C แสดงโครงสร้างที่ซับซ้อนกว่าด้วย compound verb ซึ่งเป็นจุดที่ควรเรียนรู้ในระดับนี้ ทั้ง D และ C เป็น simple sentence ที่ถูกต้อง แต่ C เป็นตัวอย่างของ compound verb ที่ชัดเจนกว่า อย่างไรก็ตาม D ก็เป็นคำตอบที่ถูกต้องได้เช่นกัน แต่ C เป็นตัวเลือกที่ดีที่สุดในการทดสอบความเข้าใจเรื่อง compound verb."
+      },
+      {
+        "question": "The phrase 'a crucial element for success' in the sentence 'Constant innovation, a crucial element for success, drives the company forward.' is an example of __________.",
+        "options": [
+          "A. an independent clause",
+          "B. a prepositional phrase",
+          "C. a participial phrase",
+          "D. an appositive phrase"
+        ],
+        "answer": "D",
+        "explanation": "วลี 'a crucial element for success' เป็น Appositive Phrase ทำหน้าที่ให้ข้อมูลเพิ่มเติมหรือขยายความคำนามที่มาก่อนหน้า ซึ่งก็คือ 'Constant innovation' โดยไม่ได้สร้าง Clause ใหม่ ทำให้ประโยคนี้ยังคงเป็น Simple Sentence"
+      }
+    ]
+  },
+  {
+    "id": "34_2",
+    "title": "34.2 Compound Sentences (ประโยคความรวม)",
+    "explanation": "Compound Sentence หรือ ประโยคความรวม คือ ประโยคที่เกิดจากการนำประโยคใจความสมบูรณ์ (Independent Clause) ตั้งแต่ 2 ประโยคขึ้นไปมารวมกัน\n\n**Independent Clause คืออะไร?**\nคือประโยคที่สมบูรณ์ในตัวเอง มีประธาน (Subject) และกริยา (Verb) เป็นของตัวเอง สามารถอยู่เดี่ยวๆ และมีความหมายครบถ้วนได้ เช่น\n- The company launched a new marketing campaign. (บริษัทเปิดตัวแคมเปญการตลาดใหม่)\n- Its sales increased significantly. (ยอดขายของมันเพิ่มขึ้นอย่างมีนัยสำคัญ)\n\n**วิธีการเชื่อม Independent Clauses:**\nมี 3 วิธีหลักในการเชื่อมประโยคสมบูรณ์สองประโยคเข้าด้วยกัน:\n\n1.  **ใช้ Coordinating Conjunctions (FANBOYS):** เป็นวิธีที่นิยมที่สุด คือการใช้คำสันธานเชื่อมประโยคทั้งสอง โดยต้องมีเครื่องหมายจุลภาค (comma ,) คั่นหน้าคำสันธานเสมอ\n    โครงสร้าง: `Independent Clause, + FANBOYS + Independent Clause.`\n    **FANBOYS** คือตัวย่อของคำสันธาน 7 ตัว:\n    - **F**or (เพราะว่า - บอกเหตุผล) - มีความเป็นทางการสูง\n    - **A**nd (และ - เสริมข้อมูล, คล้อยตามกัน)\n    - **N**or (และ...ก็ไม่ - ปฏิเสธทั้งคู่, ต้องมีการสลับที่ Subject-Verb ในประโยคหลัง)\n    - **B**ut (แต่ - ขัดแย้งกัน)\n    - **O**r (หรือ - ให้เลือกอย่างใดอย่างหนึ่ง)\n    - **Y**et (แต่ทว่า - ขัดแย้งกันแบบไม่คาดคิด, คล้าย but แต่เน้นความประหลาดใจกว่า)\n    - **S**o (ดังนั้น - บอกผลลัพธ์)\n\n2.  **ใช้ Semicolon (;)**: ใช้เชื่อม 2 Independent Clauses ที่มีความเกี่ยวข้องกันอย่างใกล้ชิด โดยไม่ต้องใช้คำสันธาน\n    โครงสร้าง: `Independent Clause; Independent Clause.`\n\n3.  **ใช้ Semicolon (;) ร่วมกับ Conjunctive Adverb:** ใช้เพื่อแสดงความสัมพันธ์ของประโยคที่ซับซ้อนขึ้น เช่น การเปรียบเทียบ, ผลลัพธ์, หรือความขัดแย้งที่ชัดเจนขึ้น\n    โครงสร้าง: `Independent Clause; + Conjunctive Adverb, + Independent Clause.`\n    ตัวอย่าง Conjunctive Adverbs: `however, therefore, moreover, consequently, nevertheless, furthermore`",
+    "examples": [
+      {
+        "eng": "The marketing team worked diligently on the project, yet they did not meet the ambitious deadline.",
+        "thai": "ทีมการตลาดทำงานในโปรเจกต์อย่างขยันขันแข็ง แต่ทว่าพวกเขาก็ไม่สามารถทำได้ทันตามเดดไลน์ที่ท้าทาย (ใช้ yet เพื่อแสดงความขัดแย้งที่น่าประหลาดใจหรือไม่คาดคิด)"
+      },
+      {
+        "eng": "You can either submit your application online, or you can mail it to the university's admission office.",
+        "thai": "คุณสามารถส่งใบสมัครของคุณทางออนไลน์ หรือคุณจะส่งทางไปรษณีย์ไปยังสำนักงานรับสมัครของมหาวิทยาลัยก็ได้ (ใช้ or เพื่อให้เห็นทางเลือกที่ชัดเจน)"
+      },
+      {
+        "eng": "The negotiation was successful; both parties agreed to the terms.",
+        "thai": "การเจรจาประสบความสำเร็จ ทั้งสองฝ่ายเห็นด้วยกับเงื่อนไข (ใช้ semicolon เชื่อมสองประโยคที่มีเนื้อหาเกี่ยวเนื่องกันอย่างใกล้ชิด)"
+      },
+      {
+        "eng": "The company's profits have declined for three consecutive quarters; therefore, the board has decided to implement cost-cutting measures.",
+        "thai": "กำไรของบริษัทลดลงสามไตรมาสติดต่อกัน ดังนั้น คณะกรรมการจึงตัดสินใจที่จะดำเนินมาตรการลดต้นทุน (ใช้ semicolon และ conjunctive adverb 'therefore' เพื่อแสดงเหตุและผลที่ชัดเจน)"
+      },
+      {
+        "eng": "He did not want to attend the conference, nor did he feel it was a productive use of his time.",
+        "thai": "เขาไม่ต้องการเข้าร่วมการประชุม และเขาก็ไม่รู้สึกว่ามันเป็นการใช้เวลาที่เกิดประโยชน์ (ใช้ nor เชื่อมประโยคปฏิเสธ ประโยคที่ตามหลัง nor ต้องมีการสลับที่กริยาช่วยกับประธาน 'did he feel...')"
+      }
+    ],
+    "common_mistakes": "1.  **Comma Splice:** การใช้แค่ comma (,) เชื่อมสอง Independent Clauses โดยไม่มี FANBOYS เป็นข้อผิดพลาดที่พบบ่อยที่สุด\n    - ผิด: The weather was beautiful, we went for a hike.\n    - ถูก: The weather was beautiful, so we went for a hike.\n    - ถูก: The weather was beautiful; we went for a hike.\n\n2.  **Run-on Sentence:** การเขียนสอง Independent Clauses ต่อกันโดยไม่มีเครื่องหมายวรรคตอนหรือคำเชื่อมใดๆ เลย\n    - ผิด: The project was challenging he enjoyed working on it.\n    - ถูก: The project was challenging, but he enjoyed working on it.\n\n3.  **ลืมใส่ Comma หน้า FANBOYS:** ตามหลักไวยากรณ์ การเชื่อม Independent Clause สองประโยคด้วย FANBOYS ต้องมี comma คั่นเสมอ\n    - ควรแก้: She is a talented musician and she composes her own songs.\n    - ถูก: She is a talented musician, and she composes her own songs.\n\n4.  **ใช้ 'For' กับ 'So' สลับกัน:** 'For' ใช้บอกเหตุผล (เหมือน because แต่เป็นทางการกว่า) ในขณะที่ 'So' ใช้บอกผลลัพธ์\n    - เขาเหนื่อย ดังนั้นเขาจึงไปนอน: He was tired, so he went to bed. (ถูกต้อง)\n    - เขาไปนอน เพราะว่าเขาเหนื่อย: He went to bed, for he was tired. (ถูกต้อง แต่มีความเป็นทางการ)\n\n5.  **ใช้ 'Nor' ผิดโครงสร้าง:** เมื่อใช้ 'nor' เพื่อเชื่อม Independent Clause ที่สอง จะต้องมีการสลับตำแหน่งของกริยาช่วยและประธาน (inversion)\n    - ผิด: She doesn't enjoy horror movies, nor she likes thrillers.\n    - ถูก: She doesn't enjoy horror movies, nor does she like thrillers.",
+    "practice_questions": [
+      {
+        "question": "The company needs to innovate constantly, ______ it will lose its competitive edge in the market.",
+        "options": [
+          "A. and",
+          "B. but",
+          "C. or",
+          "D. so"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้แสดงทางเลือกหรือผลลัพธ์เชิงลบที่จะเกิดขึ้นหากไม่ทำสิ่งแรก 'or' ในที่นี้มีความหมายว่า 'มิฉะนั้น' (otherwise) จึงเหมาะสมที่สุด 'บริษัทจำเป็นต้องสร้างนวัตกรรมอย่างต่อเนื่อง มิฉะนั้นก็จะสูญเสียความสามารถในการแข่งขันในตลาด'"
+      },
+      {
+        "question": "Which of the following sentences is grammatically correct?",
+        "options": [
+          "A. The flight was delayed; however, we still arrived on time for the meeting.",
+          "B. The flight was delayed, however we still arrived on time for the meeting.",
+          "C. The flight was delayed; however we still arrived on time for the meeting.",
+          "D. The flight was delayed, however, we still arrived on time for the meeting."
+        ],
+        "answer": "A",
+        "explanation": "การใช้ Conjunctive Adverb (however) เพื่อเชื่อมสอง Independent Clauses ต้องใช้โครงสร้างที่ถูกต้องคือ `Independent Clause; + Conjunctive Adverb, + Independent Clause.` ข้อ A เป็นข้อเดียวที่ใช้ semicolon (;) ก่อน however และ comma (,) ตามหลังอย่างถูกต้อง"
+      },
+      {
+        "question": "He had not prepared for the presentation, ______ did he seem concerned about its consequences.",
+        "options": [
+          "A. or",
+          "B. but",
+          "C. and",
+          "D. nor"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคแรกเป็นปฏิเสธ ('had not prepared') และประโยคที่สองก็เป็นปฏิเสธเช่นกัน เราใช้ 'nor' เพื่อเชื่อมประโยคปฏิเสธสองประโยค และสังเกตการสลับตำแหน่งของกริยาช่วยกับประธานในประโยคหลัง ('did he seem') ซึ่งเป็นโครงสร้างที่ถูกต้องเมื่อใช้ 'nor'"
+      },
+      {
+        "question": "The evidence was overwhelming, ______ the jury quickly reached a guilty verdict.",
+        "options": [
+          "A. for",
+          "B. yet",
+          "C. so",
+          "D. but"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคแรกเป็นเหตุ ('หลักฐานมันท่วมท้น') และประโยคที่สองเป็นผล ('คณะลูกขุนจึงลงมติว่าผิดอย่างรวดเร็ว') ดังนั้น 'so' (ดังนั้น) จึงเป็นคำเชื่อมที่เหมาะสมที่สุดเพื่อแสดงความสัมพันธ์แบบเหตุและผล"
+      },
+      {
+        "question": "The city offers a vibrant nightlife; its museums and galleries are world-class.",
+        "options": [
+          "A. This is a run-on sentence.",
+          "B. This is a comma splice.",
+          "C. This is a complex sentence.",
+          "D. This is a correctly structured compound sentence."
+        ],
+        "answer": "D",
+        "explanation": "ประโยคนี้ประกอบด้วยสอง Independent Clauses ('The city offers a vibrant nightlife' และ 'its museums and galleries are world-class') ที่มีความเกี่ยวข้องกันอย่างใกล้ชิด การใช้ semicolon (;) เพื่อเชื่อมประโยคทั้งสองเป็นวิธีที่ถูกต้องตามหลักไวยากรณ์"
+      },
+      {
+        "question": "Identify the incorrect sentence.",
+        "options": [
+          "A. I wanted to travel the world, but I had financial constraints.",
+          "B. The system upgrade was complete, the employees still faced technical issues.",
+          "C. He must be exhausted, for he has been working for twelve hours straight.",
+          "D. They didn't receive the package, nor were they notified of the delay."
+        ],
+        "answer": "B",
+        "explanation": "ข้อ B เป็นข้อผิดพลาดแบบ Comma Splice คือการใช้ comma เพียงอย่างเดียวเพื่อเชื่อมสอง Independent Clauses ที่สมบูรณ์ ควรแก้ไขโดยการเติม 'but' หรือ 'yet' หลัง comma (..., but the employees...) หรือเปลี่ยน comma เป็น semicolon (;)"
+      },
+      {
+        "question": "We can either proceed with the original plan ______ we can develop an alternative strategy.",
+        "options": [
+          "A. but",
+          "B. so",
+          "C. or",
+          "D. yet"
+        ],
+        "answer": "C",
+        "explanation": "คำว่า 'either' ในประโยคแรกเป็นตัวบอกใบ้ว่าประโยคนี้กำลังเสนอทางเลือก โครงสร้างที่ถูกต้องคือ 'either...or...' ดังนั้น 'or' จึงเป็นคำตอบที่ถูกต้องเพื่อแสดงทางเลือกที่สอง"
+      },
+      {
+        "question": "The CEO gave a compelling speech, ______ the investors remained skeptical about the company's future.",
+        "options": [
+          "A. yet",
+          "B. so",
+          "C. for",
+          "D. and"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้มีความขัดแย้งกัน CEO พูดได้น่าประทับใจ (เรื่องดี) แต่นักลงทุนก็ยังคงไม่เชื่อมั่น (เรื่องไม่ดี) เราสามารถใช้ 'but' หรือ 'yet' ก็ได้ แต่ 'yet' จะเน้นความขัดแย้งที่น่าแปลกใจหรือเหนือความคาดหมายมากกว่า ซึ่งเหมาะสมกับบริบทนี้"
+      },
+      {
+        "question": "Which is the best way to combine these two sentences: 'The research was inconclusive. The team decided to conduct further experiments.'?",
+        "options": [
+          "A. The research was inconclusive, the team decided to conduct further experiments.",
+          "B. The research was inconclusive so the team decided to conduct further experiments.",
+          "C. The research was inconclusive; consequently, the team decided to conduct further experiments.",
+          "D. The research was inconclusive, but the team decided to conduct further experiments."
+        ],
+        "answer": "C",
+        "explanation": "การวิจัยยังไม่มีข้อสรุป 'เป็นเหตุ' ให้ทีมตัดสินใจทำการทดลองเพิ่มเติม 'ซึ่งเป็นผล' ข้อ C ใช้ semicolon (;) และ conjunctive adverb 'consequently' (ดังนั้น, ผลที่ตามมาคือ) ซึ่งเป็นการเชื่อมประโยคที่แสดงเหตุและผลได้อย่างเป็นทางการและชัดเจนที่สุด ข้อ A ผิด (comma splice), ข้อ B ขาด comma, และข้อ D ใช้ 'but' ซึ่งความหมายไม่เหมาะสม"
+      },
+      {
+        "question": "The regulations were difficult to understand, ______ the company hired a legal consultant to clarify them.",
+        "options": [
+          "A. yet",
+          "B. so",
+          "C. for",
+          "D. or"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคแรกคือเหตุผล ('กฎระเบียบเข้าใจยาก') และประโยคที่สองคือผลลัพธ์ของการกระทำนั้น ('บริษัทจึงจ้างที่ปรึกษากฎหมาย') คำเชื่อมที่แสดงผลลัพธ์คือ 'so' (ดังนั้น) จึงเป็นคำตอบที่ถูกต้องที่สุด"
+      }
+    ]
+  },
+  {
+    "id": "34_3",
+    "title": "34.3 Complex Sentences (ประโยคความซ้อน)",
+    "explanation": "ประโยคความซ้อน (Complex Sentence) คือ ประโยคที่ประกอบด้วย 'ประโยคหลัก' (Independent Clause) อย่างน้อย 1 ประโยค และ 'ประโยคย่อย' (Dependent Clause) อย่างน้อย 1 ประโยค\n\n1. **Independent Clause (IC)**: คือประโยคที่มีใจความสมบูรณ์ สามารถอยู่ได้ด้วยตัวเอง เช่น 'I went home.' (ฉันกลับบ้าน)\n\n2. **Dependent Clause (DC)**: คือประโยคที่มีใจความไม่สมบูรณ์ ไม่สามารถอยู่ได้ด้วยตัวเอง ต้องพึ่งพาประโยคหลักเสมอ เช่น 'because I was tired' (เพราะว่าฉันเหนื่อย) ซึ่งฟังแล้วไม่จบ ต้องมีประโยคหลักมาขยายความ\n\nหัวใจสำคัญของ Complex Sentence คือการใช้ **Subordinating Conjunctions** (คำสันธานเชื่อมประโยคย่อย) เพื่อเชื่อม IC และ DC เข้าด้วยกัน คำเชื่อมเหล่านี้จะทำให้ประโยคย่อยกลายเป็นส่วนขยายของประโยคหลัก บอกถึงเวลา, เหตุผล, เงื่อนไข, หรือความขัดแย้ง\n\n**ตัวอย่างคำเชื่อม (Subordinating Conjunctions) ที่พบบ่อย:**\n- **Time (เวลา):** when, while, before, after, since, until, as soon as\n- **Cause/Reason (เหตุผล):** because, since, as\n- **Condition (เงื่อนไข):** if, unless, provided that\n- **Contrast (ความขัดแย้ง):** although, though, even though, while, whereas\n- **Purpose (จุดประสงค์):** so that, in order that\n\n**โครงสร้างของประโยคความซ้อนมี 2 รูปแบบหลัก:**\n1.  **Independent Clause + Conjunction + Dependent Clause**\n    (ไม่ต้องมีเครื่องหมายจุลภาค (comma))\n    เช่น: *He passed the exam because he studied diligently.*\n\n2.  **Conjunction + Dependent Clause, + Independent Clause**\n    (ต้องมีเครื่องหมายจุลภาค (comma) คั่นกลาง)\n    เช่น: *Because he studied diligently, he passed the exam.*\n\nนอกจากนี้ ประโยคย่อยยังสามารถมาในรูปแบบของ **Relative Clause** (อนุประโยคที่ทำหน้าที่ขยายคำนาม) โดยใช้ Relative Pronouns (who, which, that, whose, where, when) เช่น *The man who lives next door is a doctor.* ก็ถือเป็น Complex Sentence เช่นกัน",
+    "examples": [
+      {
+        "eng": "Although the company is facing financial difficulties, they have decided not to lay off any employees.",
+        "thai": "ถึงแม้ว่าบริษัทกำลังเผชิญกับปัญหาทางการเงิน พวกเขาก็ตัดสินใจที่จะไม่เลิกจ้างพนักงานคนใดเลย (Dependent Clause ขึ้นต้นประโยค ต้องมี comma คั่น)"
+      },
+      {
+        "eng": "You won't achieve your goals unless you are willing to step out of your comfort zone.",
+        "thai": "คุณจะไม่บรรลุเป้าหมายของคุณ เว้นแต่คุณจะเต็มใจที่จะก้าวออกจากพื้นที่ปลอดภัยของตัวเอง (Independent Clause ขึ้นก่อน ไม่ต้องมี comma)"
+      },
+      {
+        "eng": "The scientist published her findings as soon as the experiment was concluded.",
+        "thai": "นักวิทยาศาสตร์ได้ตีพิมพ์ผลการค้นพบของเธอทันทีที่การทดลองสิ้นสุดลง (as soon as เป็นคำเชื่อมบอกเวลา)"
+      },
+      {
+        "eng": "The architect who designed this innovative building has won numerous awards.",
+        "thai": "สถาปนิกผู้ออกแบบอาคารที่ล้ำสมัยหลังนี้ได้รับรางวัลมาแล้วนับไม่ถ้วน (who designed this innovative building เป็น Relative Clause ทำหน้าที่เป็น Dependent Clause ขยายนาม The architect)"
+      },
+      {
+        "eng": "I will prepare some snacks for the trip so that we don't get hungry along the way.",
+        "thai": "ฉันจะเตรียมของว่างสำหรับทริปนี้ เพื่อที่เราจะได้ไม่หิวระหว่างทาง (so that เป็นคำเชื่อมบอกจุดประสงค์)"
+      }
+    ],
+    "common_mistakes": "1. **การใช้ Comma (จุลภาค) ผิดพลาด:**\n   - **ลืมใส่ Comma:** เมื่อนำประโยคย่อย (Dependent Clause) ขึ้นก่อน มักจะลืมใส่ comma คั่นก่อนประโยคหลัก\n     ❌ *Although it was raining hard we went for a walk.*\n     ✅ *Although it was raining hard, we went for a walk.*\n   - **ใส่ Comma เกิน:** เมื่อประโยคหลัก (Independent Clause) ขึ้นก่อน ไม่ต้องใส่ comma\n     ❌ *We went for a walk, although it was raining hard.*\n     ✅ *We went for a walk although it was raining hard.*\n\n2. **สร้างประโยคที่ไม่สมบูรณ์ (Sentence Fragment):**\n   - คนไทยมักเขียนประโยคย่อย (Dependent Clause) เดี่ยวๆ แล้วจบประโยคเลย ซึ่งในภาษาอังกฤษถือว่าผิดไวยากรณ์ เพราะมันมีความหมายไม่สมบูรณ์\n     ❌ *Because the traffic was terrible.* (แล้วยังไงต่อ?)\n     ✅ *I was late for the meeting because the traffic was terrible.*\n\n3. **เลือกใช้คำเชื่อม (Conjunction) ผิดความหมาย:**\n   - สับสนระหว่างคำที่ความหมายใกล้เคียงกัน เช่น although (ถึงแม้ว่า) กับ because (เพราะว่า)\n     ❌ *Because he is very wealthy, he isn't happy.* (เพราะว่าเขารวยมาก เขาไม่มีความสุข -> ความหมายขัดแย้งกัน)\n     ✅ *Although he is very wealthy, he isn't happy.* (ถึงแม้ว่าเขารวยมาก เขาก็ไม่มีความสุข)",
+    "practice_questions": [
+      {
+        "question": "______ the project required a significant amount of effort, the team felt a great sense of accomplishment upon its completion.",
+        "options": [
+          "A. Because",
+          "B. Although",
+          "C. So that",
+          "D. Unless"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคสองส่วนมีความหมายขัดแย้งกัน ส่วนแรกบอกว่า 'โปรเจกต์ต้องใช้ความพยายามอย่างมาก' ส่วนที่สองบอกว่า 'ทีมรู้สึกภาคภูมิใจอย่างยิ่งเมื่อทำเสร็จ' ดังนั้นจึงต้องใช้ 'Although' (ถึงแม้ว่า) เพื่อแสดงความขัดแย้ง"
+      },
+      {
+        "question": "Which of the following sentences is punctuated correctly?",
+        "options": [
+          "A. Before you submit the report you should proofread it carefully.",
+          "B. Before you submit the report, you should proofread it carefully.",
+          "C. You should proofread it carefully, before you submit the report.",
+          "D. You should, proofread it carefully before you submit the report."
+        ],
+        "answer": "B",
+        "explanation": "เมื่อประโยคย่อย (Dependent Clause) ที่ขึ้นต้นด้วยคำเชื่อม 'Before' มาก่อนประโยคหลัก (Independent Clause) จะต้องมีเครื่องหมายจุลภาค (comma) คั่นกลางเสมอ"
+      },
+      {
+        "question": "The marketing campaign was highly successful ______ it was based on thorough market research.",
+        "options": [
+          "A. until",
+          "B. if",
+          "C. because",
+          "D. though"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้แสดงความเป็นเหตุเป็นผลกัน 'แคมเปญการตลาดประสบความสำเร็จอย่างสูง' เพราะว่า 'มันมาจากการวิจัยตลาดอย่างละเอียด' จึงต้องใช้ 'because' (เพราะว่า) เพื่อเชื่อมสองประโยค"
+      },
+      {
+        "question": "The residents were evacuated from the coastal town ______ the hurricane was approaching.",
+        "options": [
+          "A. while",
+          "B. as soon as",
+          "C. after",
+          "D. as"
+        ],
+        "answer": "D",
+        "explanation": "'as' ในที่นี้มีความหมายเดียวกับ 'because' หรือ 'since' เพื่อบอกเหตุผลว่า 'ในขณะที่/เนื่องจาก' พายุกำลังใกล้เข้ามา ผู้อยู่อาศัยจึงถูกอพยพ 'while' (ในขณะที่) ก็ใช้ได้ แต่ 'as' มักใช้เพื่อเน้นย้ำถึงสาเหตุมากกว่า"
+      },
+      {
+        "question": "The consultant, ______ expertise is in financial management, provided some invaluable advice.",
+        "options": [
+          "A. who",
+          "B. which",
+          "C. whose",
+          "D. that"
+        ],
+        "answer": "C",
+        "explanation": "เราต้องการ Relative Pronoun ที่แสดงความเป็นเจ้าของของ 'expertise' (ความเชี่ยวชาญ) ซึ่งเป็นของ 'the consultant' (ที่ปรึกษา) ดังนั้น 'whose' (ซึ่งความเชี่ยวชาญของเขา) จึงเป็นคำตอบที่ถูกต้อง"
+      },
+      {
+        "question": "We cannot confirm your reservation ______ we receive the deposit.",
+        "options": [
+          "A. unless",
+          "B. if",
+          "C. provided that",
+          "D. although"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้เป็นเงื่อนไขเชิงปฏิเสธ 'เราไม่สามารถยืนยันการจองของคุณได้' ... 'เราได้รับเงินมัดจำ' คำที่เหมาะสมที่สุดคือ 'unless' (เว้นแต่ว่า) ซึ่งมีความหมายว่า if...not"
+      },
+      {
+        "question": "Which of the following is a complete sentence?",
+        "options": [
+          "A. While the team was celebrating their victory.",
+          "B. The manager who was recently hired.",
+          "C. Since the new policy was implemented, productivity has increased.",
+          "D. Because of the unexpected system failure."
+        ],
+        "answer": "C",
+        "explanation": "ข้อ C เป็น Complex Sentence ที่สมบูรณ์ ประกอบด้วย Dependent Clause ('Since the new policy was implemented') และ Independent Clause ('productivity has increased') ส่วนข้อ A, B, และ D เป็นเพียงประโยคย่อย (Fragment) ที่ยังไม่จบความ"
+      },
+      {
+        "question": "My brother is very extroverted and sociable, ______ I am quite introverted and prefer my own company.",
+        "options": [
+          "A. whereas",
+          "B. because",
+          "C. so that",
+          "D. as if"
+        ],
+        "answer": "A",
+        "explanation": "'whereas' เป็นคำเชื่อมที่ใช้เปรียบเทียบความแตกต่างหรือตรงกันข้ามกันอย่างชัดเจนระหว่างคนสองคนหรือสองสิ่ง ในที่นี้คือเปรียบเทียบนิสัยของพี่ชาย (extroverted) กับฉัน (introverted)"
+      },
+      {
+        "question": "The company will launch the new product ______ all the quality tests have been passed successfully.",
+        "options": [
+          "A. when",
+          "B. since",
+          "C. even though",
+          "D. if only"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้บอกลำดับของเวลา ว่าบริษัทจะเปิดตัวสินค้าใหม่ 'เมื่อ' การทดสอบคุณภาพทั้งหมดผ่านไปด้วยดี 'when' (เมื่อ) จึงเป็นคำเชื่อมที่เหมาะสมที่สุดในการบอกเงื่อนไขด้านเวลา"
+      },
+      {
+        "question": "I would love to visit the small Italian village ______ my grandparents were born.",
+        "options": [
+          "A. which",
+          "B. where",
+          "C. when",
+          "D. who"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคย่อยนี้ทำหน้าที่ขยาย 'the small Italian village' ซึ่งเป็นสถานที่ ดังนั้นจึงต้องใช้ Relative Pronoun 'where' (ที่ซึ่ง) เพื่ออ้างถึงสถานที่นั้น"
+      }
+    ]
+  },
+  {
+    "id": "34_4",
+    "title": "34.4 Compound-Complex Sentences (ความรวมผสมความซ้อน)",
+    "explanation": "ประโยค Compound-Complex คือประโยคที่ \"ซับซ้อนที่สุด\" และทรงพลังที่สุดในการสื่อสาร เพราะเป็นการรวมร่างของประโยค 2 ชนิดเข้าไว้ด้วยกัน คือ:\n1.  **Compound Sentence (ประโยคความรวม):** มี Independent Clause (ใจความหลักที่สมบูรณ์) อย่างน้อย 2 ประโยค เชื่อมกันด้วย Coordinating Conjunctions (FANBOYS: For, And, Nor, But, Or, Yet, So) หรือ Semicolon (;)\n2.  **Complex Sentence (ประโยคความซ้อน):** มี Independent Clause 1 ประโยค และ Dependent Clause (ใจความรอง/อนุประโยคที่ไม่สมบูรณ์) อย่างน้อย 1 ประโยค ซึ่งมักขึ้นต้นด้วย Subordinating Conjunctions (เช่น because, since, although, while, when, if, who, which, that)\n\nดังนั้น **โครงสร้างของ Compound-Complex Sentence** จึงประกอบด้วย:\n- **Independent Clause อย่างน้อย 2 ประโยค**\n- **Dependent Clause อย่างน้อย 1 ประโยค**\n\nประโยคชนิดนี้ช่วยให้เราสามารถอธิบายความคิดที่มีหลายชั้น หลายเงื่อนไข หรือหลายเหตุผลประกอบกันได้ภายในประโยคเดียว ทำให้การเขียนหรือการพูดดูเป็นธรรมชาติ มีชั้นเชิง และสื่อความหมายได้ครบถ้วน เหมือนเจ้าของภาษา",
+    "examples": [
+      {
+        "eng": "Although I was tired after work, I cooked dinner for my family, and we all enjoyed the meal together.",
+        "thai": "ถึงแม้ว่าฉันจะเหนื่อยหลังเลิกงาน ฉันก็ยังทำอาหารเย็นให้ครอบครัว และพวกเราทุกคนก็มีความสุขกับมื้ออาหารนั้นด้วยกัน\n- **Dependent Clause:** Although I was tired after work\n- **Independent Clause 1:** I cooked dinner for my family\n- **Independent Clause 2:** we all enjoyed the meal together\n- **Coordinating Conjunction:** and"
+      },
+      {
+        "eng": "The marketing team launched a new campaign that was very successful, so the company's sales increased significantly.",
+        "thai": "ทีมการตลาดได้เปิดตัวแคมเปญใหม่ซึ่งประสบความสำเร็จอย่างมาก ดังนั้นยอดขายของบริษัทจึงเพิ่มขึ้นอย่างมีนัยสำคัญ\n- **Independent Clause 1:** The marketing team launched a new campaign\n- **Dependent Clause:** that was very successful\n- **Independent Clause 2:** the company's sales increased significantly\n- **Coordinating Conjunction:** so"
+      },
+      {
+        "eng": "I will not support the proposal because it is not financially viable, nor will I vote for it in the upcoming meeting.",
+        "thai": "ฉันจะไม่สนับสนุนข้อเสนอนี้เพราะมันไม่สามารถทำได้จริงทางการเงิน และฉันก็จะไม่โหวตให้มันในการประชุมที่กำลังจะมาถึงเช่นกัน\n- **Independent Clause 1:** I will not support the proposal\n- **Dependent Clause:** because it is not financially viable\n- **Independent Clause 2:** nor will I vote for it in the upcoming meeting\n- **Coordinating Conjunction:** nor (สังเกตการสลับที่ของกริยาช่วย 'will' ในประโยคที่สอง เป็นโครงสร้างพิเศษเมื่อใช้ nor)"
+      }
+    ],
+    "common_mistakes": "- **Comma Splice (การใช้จุลภาคเชื่อมประโยคหลัก):** เป็นข้อผิดพลาดที่พบบ่อยที่สุด คนไทยมักจะเชื่อม Independent Clause สองประโยคด้วยเครื่องหมายจุลภาค (comma) เพียงอย่างเดียว โดยลืมใส่ Coordinating Conjunction (FANBOYS)\n  - **ผิด:** The system crashed while I was working, I lost all my unsaved data.\n  - **ถูก:** The system crashed while I was working, **so** I lost all my unsaved data.\n\n- **Punctuation Errors (การใช้เครื่องหมายวรรคตอนผิดพลาด):** การวางจุลภาคผิดตำแหน่งเป็นเรื่องที่ต้องระวัง\n  1.  **ลืมใส่จุลภาคหลัง Dependent Clause ที่ขึ้นต้นประโยค:**\n      - **ผิด:** When the rain stopped we went for a walk.\n      - **ถูก:** When the rain stopped, we went for a walk, and the air was fresh.\n  2.  **ใส่จุลภาคเกินความจำเป็นหน้า Dependent Clause ที่อยู่ท้ายประโยค:**\n      - **ผิด:** She felt relieved, after she had submitted her final essay.\n      - **ถูก:** She felt relieved after she had submitted her final essay, but she was still worried about her grade.\n\n- **Fragmented Sentences (ประโยคที่ไม่สมบูรณ์):** เข้าใจผิดว่า Dependent Clause เป็นประโยคที่สมบูรณ์ในตัวเอง ทำให้ประโยคขาดใจความหลัก\n  - **ผิด:** Although the restaurant was expensive. We still went there for the special occasion, and it was worth it.\n  - **ถูก:** Although the restaurant was expensive, we still went there for the special occasion, and it was worth it.",
+    "practice_questions": [
+      {
+        "question": "Which of the following is a correctly structured compound-complex sentence?",
+        "options": [
+          "A. Since it was a public holiday, the banks were closed, everyone had to use ATMs.",
+          "B. Since it was a public holiday, the banks were closed, so everyone had to use ATMs.",
+          "C. It was a public holiday the banks were closed, so everyone had to use ATMs.",
+          "D. Because it was a public holiday the banks were closed, and everyone had to use ATMs."
+        ],
+        "answer": "B",
+        "explanation": "ข้อ B เป็นประโยค Compound-Complex ที่ถูกต้อง ประกอบด้วย Dependent Clause (Since it was a public holiday), Independent Clause 1 (the banks were closed), และ Independent Clause 2 (everyone had to use ATMs) ที่เชื่อมกันด้วย Coordinating Conjunction 'so' และใช้จุลภาคได้ถูกต้อง ข้อ A ผิดเพราะเป็น Comma Splice (ใช้จุลภาคเชื่อม IC 2 ประโยค) ข้อ C ขาดคำเชื่อมหน้าสุด ข้อ D ขาดจุลภาคหลัง Dependent Clause ที่ขึ้นต้นประโยค"
+      },
+      {
+        "question": "The candidate who gave the best interview was hired immediately, ___ she started her new job the following Monday.",
+        "options": [
+          "A. for",
+          "B. but",
+          "C. and",
+          "D. yet"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้มี Independent Clause 1 (The candidate...was hired immediately), Dependent Clause (who gave the best interview), และ Independent Clause 2 (she started her new job...). คำเชื่อม 'and' เหมาะสมที่สุดในการเชื่อมสองเหตุการณ์ที่เกิดขึ้นตามลำดับและเป็นไปในทิศทางเดียวกัน"
+      },
+      {
+        "question": "Even though the evidence was overwhelming, the lawyer presented a strong case, ___ the jury still needed time to deliberate.",
+        "options": [
+          "A. or",
+          "B. so",
+          "C. for",
+          "D. but"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคนี้แสดงความขัดแย้งกัน 'but' จึงเป็นตัวเลือกที่ถูกต้อง แม้ว่าทนายจะนำเสนอคดีได้ดี (IC1) แต่คณะลูกขุนก็ยังต้องการเวลา (IC2) ซึ่งเป็นผลที่ขัดแย้งกับความคาดหวังเล็กน้อย ประโยคนี้มี Dependent Clause คือ 'Even though the evidence was overwhelming'"
+      },
+      {
+        "question": "I have to finish this report by Friday, _______ I will have to work over the weekend, _______ is something I really want to avoid.",
+        "options": [
+          "A. so / that",
+          "B. and / which",
+          "C. or / which",
+          "D. for / because"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้เป็นการให้ทางเลือก 'or' จึงเหมาะสมสำหรับส่วนแรก (ทำรายงานให้เสร็จ หรือ ไม่เช่นนั้นจะต้องทำงานสุดสัปดาห์) ส่วนที่สอง 'which is something I really want to avoid' เป็น non-defining relative clause ที่ขยายความ Independent Clause ที่สองทั้งหมด 'which' จึงเป็นคำเชื่อมที่ถูกต้อง"
+      },
+      {
+        "question": "Identify the INCORRECT sentence.",
+        "options": [
+          "A. When the alarm went off, I hit the snooze button, and I went back to sleep.",
+          "B. While you were out, your package arrived, but I didn't open it.",
+          "C. I love the city because there's always something to do, I find the noise overwhelming sometimes.",
+          "D. He didn't get the promotion that he wanted, so he started looking for a new job."
+        ],
+        "answer": "C",
+        "explanation": "ข้อ C ผิดหลักไวยากรณ์เพราะเป็น Comma Splice โดยใช้จุลภาคเชื่อมสอง Independent Clauses ('I love the city...' และ 'I find the noise...') เข้าด้วยกัน ควรแก้ไขโดยการเติม 'but' หรือ 'yet' หลังจุลภาค: 'I love the city because there's always something to do, but I find the noise overwhelming sometimes.'"
+      },
+      {
+        "question": "After the conference ended, we went out for dinner, ___ we discussed the new strategies ___ we had learned.",
+        "options": [
+          "A. and / that",
+          "B. so / what",
+          "C. but / who",
+          "D. for / when"
+        ],
+        "answer": "A",
+        "explanation": "'and' ใช้เชื่อมสองกิจกรรมที่เกิดขึ้นต่อเนื่องกัน (ไปทานข้าว และ พูดคุยกัน) ส่วน 'that' ใช้เป็น Relative Pronoun เพื่อนำหน้า Dependent Clause (the new strategies that we had learned) ซึ่งขยายคำว่า 'strategies' ได้อย่างถูกต้อง"
+      },
+      {
+        "question": "Choose the best way to combine these sentences: 'The new software has many features. Some features are quite complex. I will attend the training session.'",
+        "options": [
+          "A. Because some features are quite complex, I will attend the training session, and the new software has many features.",
+          "B. Although the new software has many features, some are quite complex, so I will attend the training session.",
+          "C. I will attend the training session, for the new software has many features, some features are quite complex.",
+          "D. The new software has many features, but some are quite complex, I will attend the training session."
+        ],
+        "answer": "B",
+        "explanation": "ข้อ B เชื่อมโยงความสัมพันธ์ของทั้งสามประโยคได้ดีที่สุด 'Although' แสดงความขัดแย้งระหว่างการมีฟีเจอร์เยอะกับความซับซ้อน และ 'so' แสดงความเป็นเหตุเป็นผลว่าทำไมถึงต้องไปอบรม ข้อ A เรียงลำดับเหตุการณ์ไม่เป็นธรรมชาติ ข้อ C และ D มีปัญหา Comma Splice"
+      },
+      {
+        "question": "The company, _______ headquarters are in Berlin, is expanding its operations, so it is hiring more staff.",
+        "options": [
+          "A. which",
+          "B. that",
+          "C. whose",
+          "D. where"
+        ],
+        "answer": "C",
+        "explanation": "ในส่วนนี้เราต้องการ Relative Pronoun ที่แสดงความเป็นเจ้าของ 'whose' (ซึ่งสำนักงานใหญ่ของมัน) จึงเป็นคำตอบที่ถูกต้อง 'whose headquarters are in Berlin' คือ Dependent Clause ที่ขยาย 'The company' (IC1) และ 'so' เชื่อมไปยัง IC2 (it is hiring more staff)"
+      },
+      {
+        "question": "She couldn't decide which university to attend, ___ she made a list of pros and cons for each one ___ her parents had recommended.",
+        "options": [
+          "A. but / which",
+          "B. for / that",
+          "C. and / so",
+          "D. so / that"
+        ],
+        "answer": "D",
+        "explanation": "'so' แสดงความเป็นเหตุเป็นผล (ตัดสินใจไม่ได้ ดังนั้นจึงทำลิสต์) และ 'that' ใช้เป็น Relative Pronoun เพื่อแนะนำ Dependent Clause (that her parents had recommended) ที่ขยายความ 'each one' (หมายถึงแต่ละมหาวิทยาลัย) โครงสร้างนี้สมบูรณ์และมีความหมายที่ชัดเจน"
+      },
+      {
+        "question": "If the weather improves, we will have a barbecue, ___ we will have to cancel it if it continues to rain.",
+        "options": [
+          "A. and",
+          "B. but",
+          "C. for",
+          "D. so"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้แสดงเงื่อนไขที่ตรงข้ามกัน 'but' จึงเป็นตัวเชื่อมที่เหมาะสมที่สุด 'If the weather improves' เป็น Dependent Clause แรก 'we will have a barbecue' เป็น IC1 และ 'we will have to cancel it' เป็น IC2 ส่วน 'if it continues to rain' เป็น Dependent Clause ที่สอง ประโยคนี้มีโครงสร้างที่ซับซ้อนแต่ 'but' แสดงความขัดแย้งระหว่างสองทางเลือกได้อย่างชัดเจน"
+      }
+    ]
+  },
+  {
+    "id": "34_5",
+    "title": "34.5 Summary: Sentence Types (สรุปประเภทประโยค + 50 Exercises)",
+    "explanation": "ยินดีต้อนรับสู่บทสรุปของหัวข้อ Sentence Types นะครับ! การเข้าใจโครงสร้างประโยค 4 ประเภทหลัก ถือเป็นหัวใจสำคัญที่จะยกระดับการเขียนภาษาอังกฤษของคุณจากระดับกลางไปสู่ระดับสูง ช่วยให้คุณสร้างประโยคที่ซับซ้อน สื่อความหมายได้หลากหลาย และน่าอ่านยิ่งขึ้น\n\nเรามาทบทวนกันสั้นๆ แต่ครอบคลุม:\n\n1. **Simple Sentence (ประโยคความเดียว / เอกรรถประโยค):**\n   - คือประโยคที่มีใจความสำคัญเดียว ประกอบด้วย 1 Independent Clause (อนุประโยคอิสระ) เท่านั้น\n   - โครงสร้างพื้นฐาน: Subject + Verb (+ Object/Complement)\n   - ถึงจะชื่อ Simple แต่ก็สามารถมีส่วนขยาย (phrases) ยาวๆ ได้ ตราบใดที่ยังมีประธานและกริยาแท้แค่ชุดเดียว\n\n2. **Compound Sentence (ประโยคความรวม / อเนกรรถประโยค):**\n   - คือการนำ Independent Clauses (ใจความหลัก) ตั้งแต่ 2 ประโยคขึ้นไปมารวมกัน\n   - วิธีเชื่อม: ใช้ Coordinating Conjunction กลุ่ม FANBOYS (For, And, Nor, But, Or, Yet, So) โดยต้องมี comma (,) อยู่ข้างหน้า หรือใช้ Semicolon (;)\n   - แต่ละ Clause จะมีความสำคัญเท่าเทียมกัน\n\n3. **Complex Sentence (ประโยคความซ้อน / สังกรประโยค):**\n   - คือประโยคที่ประกอบด้วย 1 Independent Clause (ใจความหลัก) และอย่างน้อย 1 Dependent Clause (ใจความรอง/ส่วนขยาย)\n   - วิธีเชื่อม: ใช้ Subordinating Conjunction (เช่น because, when, although, if, since, while) หรือ Relative Pronoun (เช่น who, which, that)\n   - ใจความของ Dependent Clause จะไม่สมบูรณ์ในตัวเอง ต้องพึ่งพา Independent Clause เสมอ\n   - **กฎการใช้ Comma:** ถ้า Dependent Clause ขึ้นต้นประโยค จะต้องมี Comma คั่นก่อนถึง Independent Clause\n\n4. **Compound-Complex Sentence (ประโยคความรวมซ้อน / สังกรอเนกรรถประโยค):**\n   - คือประโยคที่ซับซ้อนที่สุด เป็นการรวมกันของ Compound และ Complex Sentence\n   - โครงสร้าง: ประกอบด้วยอย่างน้อย 2 Independent Clauses และอย่างน้อย 1 Dependent Clause\n\nการแยกแยะประโยคเหล่านี้ได้ จะทำให้คุณวิเคราะห์แกรมมาร์และเขียนประโยคที่ถูกต้องและเป็นธรรมชาติมากขึ้นครับ",
+    "examples": [
+      {
+        "eng": "Simple: The marketing department analyzed the recent sales data.",
+        "thai": "ประโยคความเดียว: ฝ่ายการตลาดวิเคราะห์ข้อมูลยอดขายล่าสุด (มีประธาน 'department' และกริยา 'analyzed' ชุดเดียว)"
+      },
+      {
+        "eng": "Compound: The data showed a positive trend, but the team identified several areas for improvement.",
+        "thai": "ประโยคความรวม: ข้อมูลแสดงให้เห็นถึงแนวโน้มที่ดี, แต่ทีมงานก็ได้ระบุหลายส่วนที่ต้องปรับปรุง (มี 2 ใจความหลักที่เท่าเทียมกัน เชื่อมด้วย ', but')"
+      },
+      {
+        "eng": "Complex: Although the data showed a positive trend, the team identified several areas for improvement.",
+        "thai": "ประโยคความซ้อน: แม้ว่าข้อมูลจะแสดงให้เห็นถึงแนวโน้มที่ดี, ทีมงานก็ได้ระบุหลายส่วนที่ต้องปรับปรุง (มีใจความรอง 'Although...' ขยายใจความหลัก 'the team identified...')"
+      },
+      {
+        "eng": "Compound-Complex: Because the data showed a positive trend, the manager was pleased, but he still wanted the team to address the areas for improvement.",
+        "thai": "ประโยคความรวมซ้อน: เพราะว่าข้อมูลแสดงแนวโน้มที่ดี, ผู้จัดการจึงพอใจ, แต่เขาก็ยังคงต้องการให้ทีมจัดการกับส่วนที่ต้องปรับปรุง (มีใจความรอง 'Because...', และมี 2 ใจความหลัก 'the manager was pleased' และ 'he still wanted...' เชื่อมด้วย ', but')"
+      }
+    ],
+    "common_mistakes": "จุดที่คนไทยระดับ B1-B2 มักพลาดเกี่ยวกับ Sentence Types:\n\n1.  **Run-on Sentence (ประโยคติดกัน):** การนำ Independent Clauses สองประโยคมารวมกันโดยไม่มีคำเชื่อมหรือเครื่องหมายวรรคตอนที่ถูกต้องเลย\n    - ผิด: The presentation was successful everyone was impressed.\n    - แก้ไข (Compound): The presentation was successful, and everyone was impressed.\n    - แก้ไข (Complex): Everyone was impressed because the presentation was successful.\n\n2.  **Comma Splice (การใช้จุลภาคเชื่อมประโยค):** เป็นข้อผิดพลาดที่พบบ่อยมาก คือการใช้แค่ Comma (,) ตัวเดียวมาเชื่อม Independent Clauses สองประโยค ซึ่งในภาษาอังกฤษถือว่าผิดหลักไวยากรณ์\n    - ผิด: We missed our flight, the traffic was terrible.\n    - แก้ไข (Compound): We missed our flight, for the traffic was terrible.\n    - แก้ไข (Complex): We missed our flight because the traffic was terrible.\n    - แก้ไข (Compound w/ Semicolon): We missed our flight; the traffic was terrible.\n\n3.  **Sentence Fragment (ประโยคที่ไม่สมบูรณ์):** การเขียน Dependent Clause เดี่ยวๆ แล้วจบประโยคด้วยเครื่องหมาย full stop (.) ทำให้ประโยคไม่สมบูรณ์ ขาดใจความหลัก\n    - ผิด: Although he has a lot of experience.\n    - แก้ไข (Complex): Although he has a lot of experience, he didn't get the job.\n\n4.  **สับสนระหว่าง FANBOYS และ Subordinating Conjunctions:** การเลือกใช้คำเชื่อมผิดประเภท ทำให้โครงสร้างและความหมายของประโยคผิดเพี้ยนไป เช่น การใช้ 'so' แทน 'because' ในบางบริบทที่ต้องการบอกเหตุผลที่เป็นส่วนขยาย ไม่ใช่ใจความหลักที่เท่ากัน",
+    "practice_questions": [
+      {
+        "question": "Identify the type of the following sentence: 'The team completed the project ahead of schedule.'",
+        "options": [
+          "A. Simple",
+          "B. Compound",
+          "C. Complex",
+          "D. Compound-Complex"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้เป็น Simple Sentence เพราะมีประธาน (The team) และกริยา (completed) เพียงชุดเดียว เป็นใจความหลักเดียวที่สมบูรณ์"
+      },
+      {
+        "question": "Identify the type of the following sentence: 'She wanted to buy the dress, but it was too expensive.'",
+        "options": [
+          "A. Simple",
+          "B. Compound",
+          "C. Complex",
+          "D. Compound-Complex"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้เป็น Compound Sentence เพราะประกอบด้วย Independent Clauses สองประโยค ('She wanted to buy the dress' และ 'it was too expensive') ที่เชื่อมกันด้วย coordinating conjunction ', but'"
+      },
+      {
+        "question": "Identify the type of the following sentence: 'When the sun sets, the city lights begin to twinkle.'",
+        "options": [
+          "A. Simple",
+          "B. Compound",
+          "C. Complex",
+          "D. Compound-Complex"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้เป็น Complex Sentence เพราะมี Dependent Clause ('When the sun sets') ที่ขึ้นต้นด้วย subordinating conjunction 'When' และมี Independent Clause ('the city lights begin to twinkle') เป็นใจความหลัก"
+      },
+      {
+        "question": "Identify the type of the following sentence: 'After she finished her work, she went for a walk, and she felt much better.'",
+        "options": [
+          "A. Simple",
+          "B. Compound",
+          "C. Complex",
+          "D. Compound-Complex"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคนี้เป็น Compound-Complex Sentence เพราะมี Dependent Clause ('After she finished her work') และมี Independent Clauses สองประโยค ('she went for a walk' และ 'she felt much better') เชื่อมกันด้วย ', and'"
+      },
+      {
+        "question": "Which of the following correctly combines the two sentences into a COMPOUND sentence? 'He is a talented musician. He rarely performs in public.'",
+        "options": [
+          "A. He is a talented musician, he rarely performs in public.",
+          "B. Although he is a talented musician, he rarely performs in public.",
+          "C. He is a talented musician, yet he rarely performs in public.",
+          "D. He is a talented musician who rarely performs in public."
+        ],
+        "answer": "C",
+        "explanation": "ข้อ C เป็น Compound Sentence ที่ถูกต้อง โดยใช้ ', yet' (ซึ่งเป็นหนึ่งใน FANBOYS) เพื่อเชื่อมสอง Independent Clauses ที่มีความหมายขัดแย้งกัน ข้อ A เป็น Comma Splice, ข้อ B เป็น Complex, ข้อ D เป็น Complex (ใช้ relative clause)"
+      },
+      {
+        "question": "Which of the following correctly combines the two sentences into a COMPLEX sentence? 'The company is profitable. It needs to innovate.'",
+        "options": [
+          "A. The company is profitable, but it needs to innovate.",
+          "B. While the company is profitable, it needs to innovate.",
+          "C. The company is profitable; it needs to innovate.",
+          "D. The company is profitable and it needs to innovate."
+        ],
+        "answer": "B",
+        "explanation": "ข้อ B เป็น Complex Sentence ที่ถูกต้อง โดยใช้ subordinating conjunction 'While' เพื่อสร้าง Dependent Clause และแสดงความขัดแย้ง ข้อ A, C, D ล้วนเป็น Compound Sentences"
+      },
+      {
+        "question": "Choose the best coordinating conjunction to complete the sentence: 'I have to finish this report, ___ I cannot go to the party.'",
+        "options": [
+          "A. but",
+          "B. or",
+          "C. so",
+          "D. for"
+        ],
+        "answer": "C",
+        "explanation": "ในบริบทนี้ ประโยคที่สองเป็นผลลัพธ์ของประโยคแรก (ต้องทำงานให้เสร็จ 'ดังนั้น' จึงไปปาร์ตี้ไม่ได้) คำเชื่อม 'so' (ดังนั้น) จึงเหมาะสมที่สุด"
+      },
+      {
+        "question": "Choose the best subordinating conjunction: '___ she had prepared thoroughly, she was still nervous before the interview.'",
+        "options": [
+          "A. Because",
+          "B. Since",
+          "C. Although",
+          "D. If"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้แสดงความขัดแย้งกันระหว่างสองใจความ (เตรียมตัวมาดี 'แต่ก็' ยังประหม่า) 'Although' (แม้ว่า) เป็นคำเชื่อมที่แสดงความขัดแย้งได้ดีที่สุด"
+      },
+      {
+        "question": "In the sentence 'The manager, who has been with the company for ten years, announced his retirement,' which part is the dependent clause?",
+        "options": [
+          "A. The manager announced his retirement",
+          "B. The manager",
+          "C. who has been with thecompany for ten years",
+          "D. announced his retirement"
+        ],
+        "answer": "C",
+        "explanation": "ส่วน 'who has been with the company for ten years' คือ dependent clause (หรือที่เรียกว่า relative clause) ทำหน้าที่ขยายความคำว่า 'The manager' มันไม่สามารถอยู่เป็นประโยคเดี่ยวๆ ได้"
+      },
+      {
+        "question": "What is the error in this sentence? 'I enjoy hiking, it is a great way to stay fit.'",
+        "options": [
+          "A. Sentence Fragment",
+          "B. Run-on Sentence",
+          "C. Comma Splice",
+          "D. Misplaced Modifier"
+        ],
+        "answer": "C",
+        "explanation": "นี่คือข้อผิดพลาดแบบ Comma Splice ซึ่งคือการใช้เครื่องหมาย comma (,) เพียงอย่างเดียวเพื่อเชื่อมสอง Independent Clauses ('I enjoy hiking' และ 'it is a great way to stay fit') ที่ถูกต้องควรใช้ ', and', ';', หรือเปลี่ยนเป็น Complex Sentence"
+      },
+      {
+        "question": "Identify the type of the following sentence: 'Exploring ancient ruins and learning about different cultures are my passions.'",
+        "options": [
+          "A. Simple",
+          "B. Compound",
+          "C. Complex",
+          "D. Compound-Complex"
+        ],
+        "answer": "A",
+        "explanation": "แม้ว่าประธาน ('Exploring... and learning...') จะยาว แต่ประโยคนี้มีประธาน (gerund phrases) และกริยา (are) เพียงชุดเดียว จึงเป็น Simple Sentence"
+      },
+      {
+        "question": "Identify the type of the following sentence: 'The system crashed; consequently, all the unsaved data was lost.'",
+        "options": [
+          "A. Simple",
+          "B. Compound",
+          "C. Complex",
+          "D. Compound-Complex"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้เป็น Compound Sentence เพราะใช้ Semicolon (;) ในการเชื่อมสอง Independent Clauses ที่มีความเกี่ยวข้องกันอย่างใกล้ชิด"
+      },
+      {
+        "question": "Identify the type of the following sentence: 'The candidate who received the most votes won the election.'",
+        "options": [
+          "A. Simple",
+          "B. Compound",
+          "C. Complex",
+          "D. Compound-Complex"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้เป็น Complex Sentence เพราะมี Dependent Clause ('who received the most votes') ซึ่งทำหน้าที่เป็นส่วนขยาย (relative clause) ของประธาน 'The candidate'"
+      },
+      {
+        "question": "Identify the type of the following sentence: 'Since you're not feeling well, you should go home, but you need to finish this task first.'",
+        "options": [
+          "A. Simple",
+          "B. Compound",
+          "C. Complex",
+          "D. Compound-Complex"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคนี้เป็น Compound-Complex Sentence เพราะมี Dependent Clause ('Since you're not feeling well') และมี Independent Clauses สองประโยค ('you should go home' และ 'you need to finish this task first') เชื่อมกันด้วย ', but'"
+      },
+      {
+        "question": "What is the error in this sentence? 'Because the weather was perfect for a picnic.'",
+        "options": [
+          "A. Sentence Fragment",
+          "B. Comma Splice",
+          "C. Run-on Sentence",
+          "D. No error"
+        ],
+        "answer": "A",
+        "explanation": "นี่คือ Sentence Fragment (ประโยคที่ไม่สมบูรณ์) เพราะมันเป็น Dependent Clause ที่ขึ้นต้นด้วย 'Because' แต่ไม่มี Independent Clause มารองรับ ทำให้ความหมายไม่สมบูรณ์"
+      },
+      {
+        "question": "Which sentence is a COMPOUND sentence?",
+        "options": [
+          "A. The sun having set, we decided to head back.",
+          "B. We can either eat now or wait until later.",
+          "C. I read the book that you recommended.",
+          "D. After the meeting, we went for lunch."
+        ],
+        "answer": "B",
+        "explanation": "ข้อ B เป็น Compound Sentence โดยใช้โครงสร้าง 'either...or' ซึ่งเป็น correlative conjunction ที่เชื่อมสองทางเลือก ('eat now' และ 'wait until later') ในรูปของ Independent Clauses (ละประธาน 'we can' ไว้ในฐานที่เข้าใจ) ที่ชัดเจนที่สุดคือโครงสร้างที่ใช้ FANBOYS 'or' นั่นเอง"
+      },
+      {
+        "question": "Which sentence is a COMPLEX sentence?",
+        "options": [
+          "A. He tried his best; however, he did not succeed.",
+          "B. He did not succeed despite trying his best.",
+          "C. Although he tried his best, he did not succeed.",
+          "D. He tried his best, but he did not succeed."
+        ],
+        "answer": "C",
+        "explanation": "ข้อ C เป็น Complex Sentence เพราะขึ้นต้นด้วย subordinating conjunction 'Although' ทำให้ 'Although he tried his best' เป็น Dependent Clause"
+      },
+      {
+        "question": "How to fix this run-on sentence? 'The traffic was heavy we were late for the appointment.'",
+        "options": [
+          "A. The traffic was heavy, so we were late for the appointment.",
+          "B. The traffic was heavy, we were late for the appointment.",
+          "C. Because the traffic was heavy we were late for the appointment.",
+          "D. The traffic was heavy we were, late for the appointment."
+        ],
+        "answer": "A",
+        "explanation": "ข้อ A แก้ไขประโยค run-on ได้อย่างถูกต้องโดยการสร้าง Compound Sentence ด้วยการเพิ่ม ', so' เพื่อแสดงความเป็นเหตุเป็นผล"
+      },
+      {
+        "question": "Identify the type of the following sentence: 'To succeed in this competitive market requires a clear strategy.'",
+        "options": [
+          "A. Simple",
+          "B. Compound",
+          "C. Complex",
+          "D. Compound-Complex"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้เป็น Simple Sentence ประธานของประโยคคือ infinitive phrase 'To succeed in this competitive market' และมีกริยาคือ 'requires'"
+      },
+      {
+        "question": "Identify the type of the following sentence: 'He didn't want to go, nor did he have a choice.'",
+        "options": [
+          "A. Simple",
+          "B. Compound",
+          "C. Complex",
+          "D. Compound-Complex"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้เป็น Compound Sentence เพราะใช้ ', nor' ซึ่งเป็นหนึ่งใน FANBOYS ในการเชื่อมสอง Independent Clauses ที่เป็นประโยคปฏิเสธ (สังเกตการทำ inversion หลัง nor เป็น 'did he have')"
+      },
+      {
+        "question": "Identify the type of the following sentence: 'The reason why he left is still a mystery.'",
+        "options": [
+          "A. Simple",
+          "B. Compound",
+          "C. Complex",
+          "D. Compound-Complex"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้เป็น Complex Sentence เพราะมี Dependent Clause ('why he left') ทำหน้าที่เป็นส่วนหนึ่งของประธาน ('The reason why he left') โดยมีกริยาหลักของประโยคคือ 'is'"
+      },
+      {
+        "question": "Identify the type of the following sentence: 'Whenever it rains, my cat hides under the bed, and my dog starts to bark.'",
+        "options": [
+          "A. Simple",
+          "B. Compound",
+          "C. Complex",
+          "D. Compound-Complex"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคนี้เป็น Compound-Complex เพราะมี Dependent Clause ('Whenever it rains') และมี Independent Clauses สองประโยค ('my cat hides under the bed' และ 'my dog starts to bark') เชื่อมกันด้วย ', and'"
+      },
+      {
+        "question": "Which of the following is NOT a complete sentence?",
+        "options": [
+          "A. Wait for me.",
+          "B. Since the project deadline was extended.",
+          "C. The results were announced yesterday.",
+          "D. Is this your final decision?"
+        ],
+        "answer": "B",
+        "explanation": "ข้อ B เป็น Sentence Fragment เพราะเป็น Dependent Clause ที่ขึ้นต้นด้วย 'Since' และยังขาด Independent Clause ที่เป็นใจความหลัก"
+      },
+      {
+        "question": "The investors were concerned, ___ the company's profits had been declining for three consecutive quarters.",
+        "options": [
+          "A. so",
+          "B. for",
+          "C. but",
+          "D. or"
+        ],
+        "answer": "B",
+        "explanation": "'for' ในที่นี้ทำหน้าที่เป็น coordinating conjunction มีความหมายว่า 'เพราะว่า' (because) ใช้เชื่อมสอง Independent Clauses เพื่อบอกเหตุผล จึงเหมาะสมที่สุดในบริบทนี้"
+      },
+      {
+        "question": "Identify the type of the following sentence: 'The old library, which was built in the 19th century, is being renovated.'",
+        "options": [
+          "A. Simple",
+          "B. Compound",
+          "C. Complex",
+          "D. Compound-Complex"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้เป็น Complex Sentence เพราะมี Dependent Clause (non-restrictive relative clause) คือ 'which was built in the 19th century' มาขยายความ 'The old library'"
+      },
+      {
+        "question": "Choose the correctly punctuated sentence.",
+        "options": [
+          "A. After he reviewed the contract he signed it.",
+          "B. After he reviewed the contract, he signed it.",
+          "C. He reviewed the contract, after that he signed it.",
+          "D. He reviewed the contract and, he signed it."
+        ],
+        "answer": "B",
+        "explanation": "ข้อ B ถูกต้องตามหลักไวยากรณ์ของ Complex Sentence เมื่อ Dependent Clause ('After he reviewed the contract') ขึ้นต้นประโยค จะต้องมี comma คั่นก่อน Independent Clause"
+      },
+      {
+        "question": "Identify the type of the following sentence: 'The car broke down; we had to call for a tow truck.'",
+        "options": [
+          "A. Simple",
+          "B. Compound",
+          "C. Complex",
+          "D. Compound-Complex"
+        ],
+        "answer": "B",
+        "explanation": "นี่คือ Compound Sentence ที่ใช้ semicolon (;) เพื่อเชื่อมสอง Independent Clauses ที่เกี่ยวข้องกันอย่างใกล้ชิด"
+      },
+      {
+        "question": "Identify the type of the following sentence: 'I admire people who are not afraid to speak their minds.'",
+        "options": [
+          "A. Simple",
+          "B. Compound",
+          "C. Complex",
+          "D. Compound-Complex"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้เป็น Complex Sentence เพราะมี dependent clause 'who are not afraid to speak their minds' ทำหน้าที่ขยายคำนาม 'people'"
+      },
+      {
+        "question": "Identify the type of the following sentence: 'Neither the client nor the consultant was satisfied with the outcome.'",
+        "options": [
+          "A. Simple",
+          "B. Compound",
+          "C. Complex",
+          "D. Compound-Complex"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้เป็น Simple Sentence แม้จะมีประธานสองตัวที่เชื่อมด้วย 'Neither...nor' แต่มันก็ยังคงเป็นประธานชุดเดียว (compound subject) ที่มีกริยา 'was' เพียงตัวเดียว"
+      },
+      {
+        "question": "What kind of sentence is this? 'I will call you when I arrive, so please keep your phone on.'",
+        "options": [
+          "A. Simple",
+          "B. Compound",
+          "C. Complex",
+          "D. Compound-Complex"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคนี้เป็น Compound-Complex เพราะมี Dependent Clause ('when I arrive') และ Independent Clauses สองประโยค ('I will call you' และ 'please keep your phone on') ซึ่งเชื่อมกันด้วย ', so'"
+      },
+      {
+        "question": "How can you best combine these sentences to make a COMPLEX sentence? 'He passed the exam. He studied diligently.'",
+        "options": [
+          "A. He passed the exam, and he studied diligently.",
+          "B. He passed the exam because he studied diligently.",
+          "C. He studied diligently; therefore, he passed the exam.",
+          "D. He passed the exam, for he studied diligently."
+        ],
+        "answer": "B",
+        "explanation": "ข้อ B สร้าง Complex Sentence ได้อย่างถูกต้องโดยใช้ subordinating conjunction 'because' เพื่อแสดงเหตุผล ทำให้ 'because he studied diligently' เป็น Dependent Clause"
+      },
+      {
+        "question": "Identify the type of the following sentence: 'The policy that the committee proposed was controversial.'",
+        "options": [
+          "A. Simple",
+          "B. Compound",
+          "C. Complex",
+          "D. Compound-Complex"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้เป็น Complex Sentence เนื่องจากมี dependent clause 'that the committee proposed' ซึ่งทำหน้าที่ขยายคำนาม 'policy'"
+      },
+      {
+        "question": "Identify the type of the following sentence: 'We must either act now or it will be too late.'",
+        "options": [
+          "A. Simple",
+          "B. Compound",
+          "C. Complex",
+          "D. Compound-Complex"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้เป็น Compound Sentence เพราะ 'or' (ซึ่งเป็นส่วนหนึ่งของ 'either...or') ทำหน้าที่เป็น coordinating conjunction เชื่อมสอง Independent Clauses คือ 'We must act now' และ 'it will be too late'"
+      },
+      {
+        "question": "Identify the type of the following sentence: 'Running a marathon is a significant achievement for any athlete.'",
+        "options": [
+          "A. Simple",
+          "B. Compound",
+          "C. Complex",
+          "D. Compound-Complex"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้เป็น Simple Sentence โดยมี gerund phrase 'Running a marathon' ทำหน้าที่เป็นประธานของประโยค และมีกริยาคือ 'is'"
+      },
+      {
+        "question": "How can you fix this comma splice? 'The restaurant was crowded, we found a table quickly.'",
+        "options": [
+          "A. The restaurant was crowded we found a table quickly.",
+          "B. Although the restaurant was crowded, we found a table quickly.",
+          "C. The restaurant was crowded, so we found a table quickly.",
+          "D. The restaurant was crowded, then we found a table quickly."
+        ],
+        "answer": "B",
+        "explanation": "ข้อ B แก้ไขได้อย่างดีเยี่ยมโดยเปลี่ยนเป็น Complex Sentence ใช้ 'Although' เพื่อแสดงความขัดแย้ง (ร้านคนเยอะ 'แต่ก็' หาโต๊ะได้เร็ว) ข้อ C ก็ถูกแกรมมาร์ แต่ความหมายเปลี่ยนไปเป็นเหตุเป็นผลซึ่งไม่ตรงกับสถานการณ์"
+      },
+      {
+        "question": "Identify the type of the following sentence: 'Unless you provide a valid reason, your request will be denied, and you will have to reapply.'",
+        "options": [
+          "A. Simple",
+          "B. Compound",
+          "C. Complex",
+          "D. Compound-Complex"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคนี้เป็น Compound-Complex เพราะมี Dependent Clause ('Unless you provide a valid reason') และมี Independent Clauses สองประโยค ('your request will be denied' และ 'you will have to reapply') เชื่อมกันด้วย ', and'"
+      },
+      {
+        "question": "Choose the best option: 'The flight was delayed ___ the severe weather, so we missed our connection.'",
+        "options": [
+          "A. because",
+          "B. because of",
+          "C. since",
+          "D. as"
+        ],
+        "answer": "B",
+        "explanation": "หลัง 'because of' ต้องตามด้วยคำนามหรือวลี (noun phrase) ซึ่งในที่นี้คือ 'the severe weather' แต่ถ้าจะใช้ 'because' ต้องตามด้วย clause (S+V) เช่น 'because the weather was severe'"
+      },
+      {
+        "question": "Identify the type of the following sentence: 'The CEO, whose vision transformed the company, is stepping down next year.'",
+        "options": [
+          "A. Simple",
+          "B. Compound",
+          "C. Complex",
+          "D. Compound-Complex"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้เป็น Complex Sentence เนื่องจากมี dependent clause 'whose vision transformed the company' ซึ่งเป็น relative clause ขยายคำนาม 'The CEO'"
+      },
+      {
+        "question": "Identify the type of the following sentence: 'The team worked hard, and their efforts paid off when they won the championship.'",
+        "options": [
+          "A. Simple",
+          "B. Compound",
+          "C. Complex",
+          "D. Compound-Complex"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคนี้เป็น Compound-Complex เพราะมี Independent Clauses สองประโยค ('The team worked hard' และ 'their efforts paid off') เชื่อมกันด้วย ', and' และยังมี Dependent Clause ('when they won the championship') ขยายประโยคที่สอง"
+      },
+      {
+        "question": "What type of error is present in this sentence? 'Even though the instructions were clear. Many people still made mistakes.'",
+        "options": [
+          "A. Comma Splice",
+          "B. Run-on Sentence",
+          "C. Sentence Fragment",
+          "D. No error"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคแรก 'Even though the instructions were clear.' คือ Sentence Fragment เพราะเป็น dependent clause ที่ไม่ควรจบด้วย full stop ควรจะเชื่อมกับประโยคถัดไปด้วย comma"
+      },
+      {
+        "question": "Identify the type of the following sentence: 'To achieve greatness, one must be willing to step out of one's comfort zone.'",
+        "options": [
+          "A. Simple",
+          "B. Compound",
+          "C. Complex",
+          "D. Compound-Complex"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้เป็น Simple Sentence โดยมี infinitive phrase 'To achieve greatness' ทำหน้าที่เป็นส่วนขยาย และมีประธาน 'one' และกริยา 'must be' เป็นใจความหลักเพียงชุดเดียว"
+      },
+      {
+        "question": "After the storm passed, we went outside to assess the damage, and we were relieved to see that our house was fine. What type of sentence is this?",
+        "options": [
+          "A. Simple",
+          "B. Compound",
+          "C. Complex",
+          "D. Compound-Complex"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคนี้เป็น Compound-Complex เพราะมี Dependent Clause สองอัน ('After the storm passed' และ 'that our house was fine') และ Independent Clauses สองประโยค ('we went outside...' และ 'we were relieved...') เชื่อมด้วย ', and'"
+      },
+      {
+        "question": "How to best combine these sentences into a COMPOUND sentence? 'The deadline is approaching fast. We must accelerate our progress.'",
+        "options": [
+          "A. The deadline is approaching fast, we must accelerate our progress.",
+          "B. Since the deadline is approaching fast, we must accelerate our progress.",
+          "C. The deadline is approaching fast; we must accelerate our progress.",
+          "D. The deadline is approaching fast and accelerate our progress."
+        ],
+        "answer": "C",
+        "explanation": "ข้อ C ใช้ semicolon (;) ในการเชื่อมสอง Independent Clauses ที่มีความสัมพันธ์กันอย่างใกล้ชิด ซึ่งเป็นวิธีสร้าง Compound Sentence ที่ถูกต้องและเหมาะสม ข้อ A เป็น Comma Splice, B เป็น Complex, D โครงสร้างผิด"
+      },
+      {
+        "question": "Identify the type of the following sentence: 'The idea that he proposed was both innovative and practical.'",
+        "options": [
+          "A. Simple",
+          "B. Compound",
+          "C. Complex",
+          "D. Compound-Complex"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้เป็น Complex Sentence เพราะมี dependent clause 'that he proposed' ทำหน้าที่ขยายความคำนาม 'The idea'"
+      },
+      {
+        "question": "Identify the type of the following sentence: 'The company is expanding its operations, for the market demand has increased significantly.'",
+        "options": [
+          "A. Simple",
+          "B. Compound",
+          "C. Complex",
+          "D. Compound-Complex"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้เป็น Compound Sentence เพราะใช้ ', for' ซึ่งเป็น coordinating conjunction (FANBOYS) ที่มีความหมายเหมือน 'because' เพื่อเชื่อมสอง Independent Clauses"
+      },
+      {
+        "question": "Identify the type of the following sentence: 'He is not only a great leader but also an inspiring mentor.'",
+        "options": [
+          "A. Simple",
+          "B. Compound",
+          "C. Complex",
+          "D. Compound-Complex"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้เป็น Simple Sentence โครงสร้าง 'not only...but also...' ในที่นี้ใช้เชื่อมสองคำนาม (leader, mentor) ไม่ได้เชื่อม clause ทั้งประโยคจึงมีประธาน 'He' และกริยา 'is' เพียงชุดเดียว"
+      },
+      {
+        "question": "Choose the correct sentence structure: '___ you finish your daily tasks, you are free to leave the office.'",
+        "options": [
+          "A. Once",
+          "B. So that",
+          "C. For",
+          "D. Yet"
+        ],
+        "answer": "A",
+        "explanation": "'Once' (เมื่อ) เป็น subordinating conjunction ที่ใช้บอกเงื่อนไขเวลา เหมาะสมกับบริบทนี้ที่สุดในการสร้าง Complex Sentence"
+      },
+      {
+        "question": "Identify the type of the following sentence: 'The project was challenging, yet the team remained highly motivated.'",
+        "options": [
+          "A. Simple",
+          "B. Compound",
+          "C. Complex",
+          "D. Compound-Complex"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้เป็น Compound Sentence เพราะมี Independent Clauses สองประโยคเชื่อมกันด้วย coordinating conjunction ', yet' เพื่อแสดงความขัดแย้ง"
+      },
+      {
+        "question": "Identify the type of the following sentence: 'Whoever solves this puzzle first will win the prize.'",
+        "options": [
+          "A. Simple",
+          "B. Compound",
+          "C. Complex",
+          "D. Compound-Complex"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้เป็น Complex Sentence โดยมี Noun Clause 'Whoever solves this puzzle first' ทำหน้าที่เป็นประธานของประโยค และมีกริยาหลักคือ 'will win'"
+      },
+      {
+        "question": "Identify the type of the following sentence: 'Before the presentation began, the CEO greeted the investors, and the CFO prepared the final slides.'",
+        "options": [
+          "A. Simple",
+          "B. Compound",
+          "C. Complex",
+          "D. Compound-Complex"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคนี้เป็น Compound-Complex Sentence เพราะมี Dependent Clause ('Before the presentation began') และมี Independent Clauses สองประโยค ('the CEO greeted the investors' และ 'the CFO prepared the final slides') เชื่อมกันด้วย ', and'"
+      }
+    ]
+  }
+]

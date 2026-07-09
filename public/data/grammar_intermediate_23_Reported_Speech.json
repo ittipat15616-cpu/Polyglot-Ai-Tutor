@@ -1,0 +1,990 @@
+[
+  {
+    "id": "23_1",
+    "title": "23.1 Reporting Statements (การเปลี่ยนบอกเล่า: Tense, Pronoun, Time change)",
+    "explanation": "Reported Speech (หรือ Indirect Speech) คือการนำคำพูดของคนอื่นมาเล่าต่อ โดยไม่ได้ยกเครื่องหมายคำพูด (Quotation Marks \"...\") มาใช้เหมือนใน Direct Speech การเปลี่ยนประโยคบอกเล่าจาก Direct เป็น Indirect Speech มีกฎหลัก 3 ข้อที่ต้องจำให้แม่น:\n\n1.  **การเปลี่ยน Tense (Tense Backshift)**: เป็นหัวใจสำคัญที่สุด คือการ 'ถอย' Tense กลับไปในอดีต 1 ขั้นเสมอ **เมื่อคำกริยานำ (Reporting Verb) เป็นอดีต** (เช่น said, told, explained)\n    *   Present Simple -> Past Simple (is/am/are -> was/were, do -> did)\n    *   Present Continuous -> Past Continuous (is doing -> was doing)\n    *   Present Perfect -> Past Perfect (has done -> had done)\n    *   Past Simple -> Past Perfect (did -> had done)\n    *   Past Continuous -> Past Perfect Continuous (was doing -> had been doing)\n    *   Future Simple (will) -> would\n    *   can -> could, may -> might, must -> had to\n    *   **ข้อยกเว้น**: ไม่ต้องเปลี่ยน Tense ถ้า (1) Reporting Verb เป็น Present (He says...) หรือ (2) ประโยค Direct Speech เป็นความจริงสากล (Universal Truth) เช่น 'The Earth is round.'\n\n2.  **การเปลี่ยนสรรพนามและคำแสดงความเป็นเจ้าของ (Pronoun & Possessive Adjective Change)**: ต้องเปลี่ยนให้สอดคล้องกับผู้พูดและผู้ฟังในประโยคที่เราเล่าต่อ\n    *   I -> he/she\n    *   we -> they\n    *   you -> I/me/we/us/they/them (ขึ้นอยู่กับบริบท)\n    *   my -> his/her\n    *   our -> their\n\n3.  **การเปลี่ยนคำบอกเวลาและสถานที่ (Time & Place Adverbials Change)**: เมื่อเล่าเรื่องที่เกิดขึ้นในอดีต เวลาและสถานที่ย่อมเปลี่ยนไป\n    *   now -> then\n    *   today -> that day\n    *   yesterday -> the day before / the previous day\n    *   tomorrow -> the next day / the following day\n    *   this week -> that week\n    *   last year -> the year before / the previous year\n    *   here -> there\n    *   this/these -> that/those",
+    "examples": [
+      {
+        "eng": "Direct: \"I am implementing a new strategy for our team now.\"\nIndirect: The manager said that he was implementing a new strategy for their team then.",
+        "thai": "คำแปล: ผู้จัดการบอกว่าเขากำลังนำกลยุทธ์ใหม่มาใช้สำหรับทีมของพวกเขาในตอนนั้น\nคำอธิบาย: เปลี่ยน Present Continuous (am implementing) เป็น Past Continuous (was implementing), 'I' เป็น 'he', 'our' เป็น 'their', และ 'now' เป็น 'then'"
+      },
+      {
+        "eng": "Direct: \"We launched this successful product last year.\"\nIndirect: The CEO told the investors that they had launched that successful product the year before.",
+        "thai": "คำแปล: CEO บอกกับนักลงทุนว่าพวกเขาได้เปิดตัวผลิตภัณฑ์ที่ประสบความสำเร็จนั้นเมื่อปีก่อนหน้านั้น\nคำอธิบาย: เปลี่ยน Past Simple (launched) เป็น Past Perfect (had launched), 'We' เป็น 'they', 'this' เป็น 'that', และ 'last year' เป็น 'the year before'"
+      },
+      {
+        "eng": "Direct: \"I will definitely submit the proposal tomorrow.\"\nIndirect: She promised me that she would definitely submit the proposal the next day.",
+        "thai": "คำแปล: เธอสัญญากับฉันว่าเธอจะส่งข้อเสนอนั้นในวันถัดไปอย่างแน่นอน\nคำอธิบาย: เปลี่ยน Future Simple (will submit) เป็น would submit, 'I' เป็น 'she', และ 'tomorrow' เป็น 'the next day' นอกจากนี้ยังใช้ Reporting verb 'promised' เพื่อให้ความหมายชัดเจนขึ้น"
+      },
+      {
+        "eng": "Direct: \"My research proves that water boils at 100 degrees Celsius.\"\nIndirect: The scientist explained that his research proves that water boils at 100 degrees Celsius.",
+        "thai": "คำแปล: นักวิทยาศาสตร์อธิบายว่างานวิจัยของเขาพิสูจน์ว่าน้ำเดือดที่ 100 องศาเซลเซียส\nคำอธิบาย: **(ข้อยกเว้น)** ประโยค 'water boils at 100 degrees Celsius' เป็นความจริงสากล (universal truth) ดังนั้นจึงไม่ต้องทำ Tense backshift คง Present Simple ไว้เหมือนเดิม แต่ยังต้องเปลี่ยน 'My' เป็น 'his'"
+      },
+      {
+        "eng": "Direct: \"You must complete this assignment by Friday.\"\nIndirect: The professor told us that we had to complete that assignment by Friday.",
+        "thai": "คำแปล: ศาสตราจารย์บอกพวกเราว่าพวกเราต้องทำงานที่ได้รับมอบหมายนั้นให้เสร็จภายในวันศุกร์\nคำอธิบาย: เปลี่ยน 'must' เป็น 'had to' เพื่อแสดงภาระหน้าที่ในอดีต, 'You' เป็น 'we' (สมมติว่าศาสตราจารย์พูดกับเรา), และ 'this' เป็น 'that'"
+      }
+    ],
+    "common_mistakes": "- **ลืมถอย Tense (Forgetting Tense Backshift)**: เป็นข้อผิดพลาดที่พบบ่อยที่สุด คนไทยมักเปลี่ยนแค่ประธานแต่ลืมเปลี่ยน Tense ของกริยา เช่น พูดว่า `She said she is tired.` ที่ถูกต้องคือ `She said she was tired.`\n- **ไม่เปลี่ยนคำบอกเวลาและสถานที่**: มักจะลืมเปลี่ยนคำอย่าง `now`, `here`, `tomorrow` ทำให้ประโยคผิดหลักไวยากรณ์และสื่อความหมายผิดเพี้ยนไป เช่น `He said he will call me tomorrow.` ที่จริงแล้ว `tomorrow` ของเขาอาจจะไม่ใช่ `tomorrow` ของเราแล้ว ควรเป็น `He said he would call me the next day.`\n- **สับสนระหว่าง 'say' และ 'tell'**: จำง่ายๆ คือ `tell` ต้องมีกรรมมารองรับเสมอ (tell someone) เช่น `He told me...` ส่วน `say` ไม่ต้องมีกรรมก็ได้ (He said...) หรือถ้ามีต้องใช้ `to` (He said to me...) แต่การใช้ `told me` เป็นธรรมชาติกว่า ห้ามพูดว่า `He said me that...` เด็ดขาด\n- **เปลี่ยน Tense ทั้งๆ ที่เป็นความจริงสากล**: เมื่อเจอข้อเท็จจริงทางวิทยาศาสตร์หรือสุภาษิตต่างๆ ไม่ต้องเปลี่ยน Tense เช่น `The teacher said the Earth was round.` (ผิด) ที่ถูกต้องคือ `The teacher said the Earth is round.`",
+    "practice_questions": [
+      {
+        "question": "Direct: \"I have been investigating this issue all morning.\"\nChange to reported speech: The detective mentioned that...",
+        "options": [
+          "A. he has been investigating that issue all morning.",
+          "B. he had been investigating that issue all morning.",
+          "C. he was investigating that issue all morning.",
+          "D. he investigated that issue all morning."
+        ],
+        "answer": "B",
+        "explanation": "ประโยคต้นฉบับเป็น Present Perfect Continuous (have been investigating) ดังนั้นเมื่อทำเป็น Reported Speech จะต้องถอย Tense ไปเป็น Past Perfect Continuous (had been investigating) และเปลี่ยน 'this issue' เป็น 'that issue'"
+      },
+      {
+        "question": "Direct: \"We will not tolerate this kind of behavior in the office.\"\nChange to reported speech: The HR manager warned the employees that...",
+        "options": [
+          "A. they would not tolerate that kind of behavior in the office.",
+          "B. they will not tolerate that kind of behavior in the office.",
+          "C. they did not tolerate this kind of behavior in the office.",
+          "D. they had not tolerated that kind of behavior in the office."
+        ],
+        "answer": "A",
+        "explanation": "'will not' ใน Direct Speech จะเปลี่ยนเป็น 'would not' ใน Reported Speech นอกจากนี้ 'We' เปลี่ยนเป็น 'they' (หมายถึง ahe HR manager และบริษัท) และ 'this' เปลี่ยนเป็น 'that'"
+      },
+      {
+        "question": "Direct: \"I didn't realize the deadline was yesterday.\"\nChange to reported speech: My colleague admitted that...",
+        "options": [
+          "A. he didn't realize the deadline was the day before.",
+          "B. he hasn't realized the deadline had been the day before.",
+          "C. he hadn't realized the deadline had been the day before.",
+          "D. he didn't realize the deadline had been yesterday."
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้ซับซ้อน Past Simple (didn't realize) ต้องถอยไปเป็น Past Perfect (hadn't realized) และ Past Simple อีกตัว (was) ก็ต้องถอยไปเป็น Past Perfect (had been) เช่นกัน ส่วน 'yesterday' เปลี่ยนเป็น 'the day before'"
+      },
+      {
+        "question": "Direct: \"This company always values its employees' contributions.\"\nChange to reported speech: The CEO proudly states that...",
+        "options": [
+          "A. that company always had valued its employees' contributions.",
+          "B. this company always valued its employees' contributions.",
+          "C. this company always values its employees' contributions.",
+          "D. that company always would value its employees' contributions."
+        ],
+        "answer": "C",
+        "explanation": "สังเกต Reporting Verb คือ 'states' ซึ่งเป็น Present Simple ดังนั้นจึงเข้าข้อยกเว้น ไม่ต้องทำ Tense Backshift คง Tense เดิม (Present Simple - values) ไว้ และ 'this' ก็ไม่ต้องเปลี่ยนเป็น 'that' เพราะผู้พูดอาจจะยังอยู่ในบริษัทนั้น"
+      },
+      {
+        "question": "Direct: \"You must submit the financial report now.\"\nChange to reported speech: The director told me that...",
+        "options": [
+          "A. I must submit the financial report then.",
+          "B. I had to submit the financial report now.",
+          "C. I have to submit the financial report then.",
+          "D. I had to submit the financial report then."
+        ],
+        "answer": "D",
+        "explanation": "'must' ที่แสดงถึงความจำเป็นหรือกฎข้อบังคับ จะเปลี่ยนเป็น 'had to' ใน Reported Speech และ 'now' จะเปลี่ยนเป็น 'then' ส่วน 'You' เปลี่ยนเป็น 'I' เพราะผู้กำกับบอกกับฉัน (told me)"
+      },
+      {
+        "question": "My friend called and said, \"I'm having a party at my place this weekend.\"\nHow would you report this to another friend later?",
+        "options": [
+          "A. She said she was having a party at her place that weekend.",
+          "B. She said she is having a party at my place this weekend.",
+          "C. She told me she had a party at her place that weekend.",
+          "D. She said she would have a party at her place this weekend."
+        ],
+        "answer": "A",
+        "explanation": "Present Continuous (am having) เปลี่ยนเป็น Past Continuous (was having), 'my place' เปลี่ยนเป็น 'her place' และ 'this weekend' เปลี่ยนเป็น 'that weekend' เพื่อให้สอดคล้องกับเวลาที่เล่าต่อ"
+      },
+      {
+        "question": "Direct: \"I've never encountered such a complicated problem before.\"\nChange to reported speech: The engineer confessed that...",
+        "options": [
+          "A. he has never encountered such a complicated problem before.",
+          "B. he never encountered such a complicated problem before.",
+          "C. he had never encountered such a complicated problem before.",
+          "D. he would never encounter such a complicated problem before."
+        ],
+        "answer": "C",
+        "explanation": "Present Perfect (have never encountered) ต้องถอย Tense ไปเป็น Past Perfect (had never encountered) ตามกฎ Tense Backshift"
+      },
+      {
+        "question": "The weather forecast yesterday announced, \"A severe storm will hit the coastal areas tomorrow.\"\nHow would you report this today?",
+        "options": [
+          "A. They announced that a severe storm would hit the coastal areas the next day.",
+          "B. They announced that a severe storm will hit the coastal areas today.",
+          "C. They announced that a severe storm would hit the coastal areas today.",
+          "D. They announced that a severe storm will hit the coastal areas tomorrow."
+        ],
+        "answer": "A",
+        "explanation": "'will hit' เปลี่ยนเป็น 'would hit' และ 'tomorrow' (วันพรุ่งนี้ของเมื่อวาน) เปลี่ยนเป็น 'the next day' ซึ่งก็คือวันนี้ แต่ในการเขียน Reported Speech ที่ถูกต้องตามหลักไวยากรณ์ เราจะยึดตามคำพูดเดิมและเปลี่ยนไปตามกฎ คือ ahe next day' หรือ 'the following day' ไม่ใช่ 'today'"
+      },
+      {
+        "question": "Direct: \"The sun rises in the east.\"\nChange to reported speech: Our geography teacher taught us that...",
+        "options": [
+          "A. the sun rose in the east.",
+          "B. the sun had risen in the east.",
+          "C. the sun rises in the east.",
+          "D. the sun would rise in the east."
+        ],
+        "answer": "C",
+        "explanation": "ประโยค 'The sun rises in the east' เป็นความจริงสากล (Universal Truth) ดังนั้นจึงเข้าข้อยกเว้น ไม่ต้องทำ Tense Backshift แม้ว่า Reporting Verb (taught) จะเป็นอดีตก็ตาม"
+      },
+      {
+        "question": "Direct: \"I am planning to propose a new budget next month.\"\nChange to reported speech: The finance manager...",
+        "options": [
+          "A. said me that he was planning to propose a new budget the following month.",
+          "B. told that he was planning to propose a new budget the following month.",
+          "C. told me that he was planning to propose a new budget the following month.",
+          "D. said that he is planning to propose a new budget next month."
+        ],
+        "answer": "C",
+        "explanation": "ข้อนี้ทดสอบการใช้ Reporting Verb ที่ถูกต้อง 'told' ต้องตามด้วยกรรม (me) ส่วน 'said' ไม่ต้องมีกรรมตามหลังทันที (ห้ามใช้ said me) นอกจากนั้นยังมีการเปลี่ยน Tense (am planning -> was planning) และคำบอกเวลา (next month -> the following month) อย่างถูกต้อง"
+      }
+    ]
+  },
+  {
+    "id": "23_2",
+    "title": "23.2 Reporting Questions (Yes/No vs. Wh- questions)",
+    "explanation": "Reported Questions คือการนำประโยคคำถามของคนอื่นมาเล่าต่อ ซึ่งหลักการสำคัญคือ 'การเปลี่ยนประโยคคำถามให้กลายเป็นประโยคบอกเล่า' โดยมีจุดที่ต้องเปลี่ยนคือ Reporting Verb (เช่น say to -> ask, inquire, wonder, want to know), Tense, Pronouns และ Adverbs of time/place เหมือนกับ Reported Speech ทั่วไป แต่หัวใจหลักของการรายงานคำถามแบ่งออกเป็น 2 ประเภทใหญ่ๆ:\n\n1.  **Reporting Yes/No Questions (คำถามที่ตอบว่า ใช่/ไม่ใช่)**\n    *   เราจะใช้ 'if' หรือ 'whether' (แปลว่า 'ว่า...หรือไม่') มาเป็นตัวเชื่อมประโยค\n    *   **โครงสร้างสำคัญ:** ประโยคที่ตามหลัง if/whether ต้องเรียงแบบประโยคบอกเล่า (Subject + Verb) ไม่ใช่โครงสร้างคำถาม (Verb + Subject)\n    *   ตัวอย่าง: Direct: \"Are you feeling better today?\" -> He asked **if I was feeling** better that day. (สังเกตการเรียง I was... ไม่ใช่ was I...)\n\n2.  **Reporting Wh- Questions (คำถามที่ขึ้นต้นด้วย What, Where, When, Why, Who, How)**\n    *   เราจะใช้ Wh-word ตัวเดิมมาเป็นตัวเชื่อมประโยค ไม่ต้องใส่ if/whether\n    *   **โครงสร้างสำคัญ:** ประโยคที่ตามหลัง Wh-word ต้องเรียงแบบประโยคบอกเล่า (Subject + Verb) เช่นกัน\n    *   ตัวอย่าง: Direct: \"Where is the nearest post office?\" -> She asked **where the nearest post office was**. (สังเกตการเรียง ...the post office was. ไม่ใช่ ...was the post office.)\n    *   **ข้อควรระวังสำหรับคำถามที่มี do/does/did:** ให้ตัด do/does/did ทิ้งไป แล้วเปลี่ยน Verb แท้ให้เป็น Tense ที่ถูกต้องตามกฎ\n    *   ตัวอย่าง: Direct: \"What time does the train leave?\" -> He asked **what time the train left**. (ตัด does ออก และเปลี่ยน leave เป็น left)",
+    "examples": [
+      {
+        "eng": "Direct: \"Have you submitted the final project proposal?\"\nReported: The professor inquired whether we had submitted the final project proposal.",
+        "thai": "คำถาม Yes/No (Have you...?) ถูกเปลี่ยนโดยใช้ 'whether' เป็นตัวเชื่อม และเปลี่ยน Tense จาก Present Perfect (have submitted) เป็น Past Perfect (had submitted)"
+      },
+      {
+        "eng": "Direct: \"Why was the meeting postponed without any prior notice?\"\nReported: My colleague wanted to know why the meeting had been postponed without any prior notice.",
+        "thai": "คำถาม Wh- (Why...?) ถูกเปลี่ยนโดยใช้ 'why' เป็นตัวเชื่อม และเปลี่ยน Tense จาก Past Simple Passive (was postponed) เป็น Past Perfect Passive (had been postponed)"
+      },
+      {
+        "eng": "Direct: \"Can you recommend a reliable software for data analysis?\"\nReported: I asked the IT specialist if he could recommend a reliable software for data analysis.",
+        "thai": "คำถาม Yes/No ที่ใช้ Modal Verb (Can...?) ถูกเปลี่ยนโดยใช้ 'if' และเปลี่ยน Modal Verb จาก 'can' เป็น 'could'"
+      },
+      {
+        "eng": "Direct: \"How do you manage such a demanding workload?\"\nReported: She asked me how I managed such a demanding workload.",
+        "thai": "คำถาม Wh- (How...?) ที่มี 'do' ถูกเปลี่ยนโดยใช้ 'how' เป็นตัวเชื่อม, ตัด 'do' ทิ้ง และเปลี่ยน Verb แท้ 'manage' เป็น Past Simple 'managed'"
+      }
+    ],
+    "common_mistakes": "- **ไม่เปลี่ยนโครงสร้างประโยค:** จุดที่คนไทยพลาดบ่อยที่สุดคือลืมเปลี่ยนโครงสร้างจาก 'คำถาม' เป็น 'บอกเล่า' ยังคงใช้ Verb ช่วยขึ้นก่อนประธานอยู่\n  *   ผิด: He asked me where was the station.\n  *   ถูก: He asked me where the station was.\n\n- **ลืมตัด Do/Does/Did:** เมื่อเปลี่ยนเป็น Reported Speech ในคำถาม Wh- เราต้องตัดกริยาช่วย do/does/did ทิ้ง และผันกริยาแท้ไปตาม Tense ที่ถูกต้อง\n  *   ผิด: She asked why did he resign.\n  *   ถูก: She asked why he had resigned. (Direct คือ \"Why did he resign?\")\n\n- **ใช้ 'that' โดยไม่จำเป็น:** ห้ามใช้ 'that' นำหน้า if, whether หรือ Wh-word เด็ดขาด\n  *   ผิด: They asked that if we were available.\n  *   ถูก: They asked if we were available.\n\n- **ใส่เครื่องหมายคำถาม (?) ตอนท้าย:** ประโยค Reported Question ถือเป็นประโยคบอกเล่า ดังนั้นต้องจบด้วย Full Stop (.) ไม่ใช่ Question Mark (?)\n  *   ผิด: I wonder what time it is?\n  *   ถูก: I wonder what time it is.",
+    "practice_questions": [
+      {
+        "question": "The interviewer asked me, \"Where do you see yourself professionally in five years?\"  Which is the correct reported form?",
+        "options": [
+          "A. The interviewer asked me where I saw myself professionally in five years.",
+          "B. The interviewer asked me where did I see myself professionally in five years.",
+          "C. The interviewer asked me that where I saw myself professionally in five years.",
+          "D. The interviewer asked me where do I see myself professionally in five years."
+        ],
+        "answer": "A",
+        "explanation": "ใน Wh- question เราใช้ Wh-word (where) เป็นตัวเชื่อม, ตัด 'do' ทิ้ง, เปลี่ยน Verb (see) เป็น Past Simple (saw) และเปลี่ยนโครงสร้างเป็นแบบบอกเล่า (Subject 'I' + Verb 'saw')"
+      },
+      {
+        "question": "My manager asked, \"Have all the necessary arrangements been made for the conference?\" How would you report this question?",
+        "options": [
+          "A. My manager asked have all the necessary arrangements been made for the conference.",
+          "B. My manager asked if all the necessary arrangements had been made for the conference.",
+          "C. My manager asked whether had all the necessary arrangements been made for the conference.",
+          "D. My manager asked that if all the necessary arrangements were made for the conference."
+        ],
+        "answer": "B",
+        "explanation": "นี่คือ Yes/No question จึงต้องใช้ 'if' หรือ 'whether' เป็นตัวเชื่อม, เปลี่ยน Tense จาก Present Perfect (have been made) เป็น Past Perfect (had been made) และเรียงประโยคแบบบอกเล่า (Subject 'all the necessary arrangements' + Verb 'had been made')"
+      },
+      {
+        "question": "A client called and asked, \"When will the technical team resolve the issue?\" Choose the correct indirect speech.",
+        "options": [
+          "A. A client called and asked when the technical team would resolve the issue.",
+          "B. A client called and asked when would the technical team resolve the issue.",
+          "C. A client called and asked when will the technical team resolve the issue.",
+          "D. A client called and asked that when the technical team would resolve the issue."
+        ],
+        "answer": "A",
+        "explanation": "ใช้ 'when' เป็นตัวเชื่อม, เปลี่ยน Modal verb 'will' เป็น 'would' และเรียงประโยคใหม่เป็น Subject (the technical team) + Verb (would resolve)"
+      },
+      {
+        "question": "\"Can you handle a high-pressure environment?\" he inquired. What is the reported version?",
+        "options": [
+          "A. He inquired can I handle a high-pressure environment.",
+          "B. He inquired that if I could handle a high-pressure environment.",
+          "C. He inquired if I could handle a high-pressure environment.",
+          "D. He inquired if could I handle a high-pressure environment."
+        ],
+        "answer": "C",
+        "explanation": "นี่คือ Yes/No question จึงใช้ 'if' เป็นตัวเชื่อม, เปลี่ยน 'can' เป็น 'could' และเปลี่ยนสรรพนาม 'you' เป็น 'I' พร้อมเรียงประโยคแบบบอกเล่า"
+      },
+      {
+        "question": "The customs officer asked the tourist, \"What is the purpose of your visit?\"",
+        "options": [
+          "A. The customs officer asked the tourist what was the purpose of his visit.",
+          "B. The customs officer asked the tourist what the purpose of his visit was.",
+          "C. The customs officer asked the tourist what is the purpose of his visit.",
+          "D. The customs officer asked the tourist what the purpose of his visit is."
+        ],
+        "answer": "B",
+        "explanation": "ข้อนี้ทดสอบเรื่อง Word Order ที่คนมักจะพลาด เราต้องย้าย Verb to be (is -> was) ไปไว้ท้ายประโยคหลังประธาน (the purpose of his visit) เพื่อให้เป็นโครงสร้างแบบบอกเล่า"
+      },
+      {
+        "question": "\"Did you receive the invoice we sent last week?\" the finance department asked.",
+        "options": [
+          "A. The finance department asked if we received the invoice they had sent the week before.",
+          "B. The finance department asked did we receive the invoice they sent last week.",
+          "C. The finance department asked whether we had received the invoice they had sent the previous week.",
+          "D. The finance department asked if had we received the invoice they sent the week before."
+        ],
+        "answer": "C",
+        "explanation": "เป็น Yes/No question จึงใช้ 'whether', ตัด 'Did' ทิ้ง, เปลี่ยน Past Simple (receive) เป็น Past Perfect (had received), และเปลี่ยน Adverb of time 'last week' เป็น 'the previous week' หรือ 'the week before' นอกจากนี้ 'sent' (Past Simple) ก็เปลี่ยนเป็น 'had sent' (Past Perfect) ตามกฎ Tense backshift"
+      },
+      {
+        "question": "I wondered, \"Why hasn't the company implemented flexible working hours yet?\"",
+        "options": [
+          "A. I wondered why the company hadn't implemented flexible working hours yet.",
+          "B. I wondered why hadn't the company implemented flexible working hours yet.",
+          "C. I wondered that why the company hadn't implemented flexible working hours yet.",
+          "D. I wondered why the company hasn't implemented flexible working hours yet."
+        ],
+        "answer": "A",
+        "explanation": "ใช้ 'why' เป็นตัวเชื่อม, Tense ไม่ต้องเปลี่ยนเพราะ Reporting verb 'wondered' และ Tense ในคำพูด (Present Perfect) เกิดขึ้นในเวลาใกล้เคียงกัน แต่ที่สำคัญคือต้องเรียงประโยคเป็น Subject 'the company' + Verb 'hadn't implemented'"
+      },
+      {
+        "question": "She asked me, \"Do you know if the report is confidential?\"",
+        "options": [
+          "A. She asked me that I knew if the report was confidential.",
+          "B. She asked me whether I knew if the report was confidential.",
+          "C. She asked me do you know if the report is confidential.",
+          "D. She asked me if I know whether the report was confidential."
+        ],
+        "answer": "B",
+        "explanation": "คำถามหลักคือ \"Do you know...?\" ซึ่งเป็น Yes/No question จึงต้องขึ้นต้นด้วย 'if' หรือ 'whether' ตัด 'Do' ทิ้ง, เปลี่ยน 'know' เป็น 'knew' และ 'is' เป็น 'was' ตามกฎ Tense backshift"
+      },
+      {
+        "question": "\"Who authorized this expenditure?\" the auditor asked.",
+        "options": [
+          "A. The auditor asked who had authorized that expenditure.",
+          "B. The auditor asked who did authorize that expenditure.",
+          "C. The auditor asked that who authorized that expenditure.",
+          "D. The auditor asked who has authorized that expenditure."
+        ],
+        "answer": "A",
+        "explanation": "ในกรณีที่ Wh-word (Who) ทำหน้าที่เป็นประธานของประโยคอยู่แล้ว โครงสร้างจะไม่เปลี่ยน แต่ Tense จะเปลี่ยนจาก Past Simple (authorized) เป็น Past Perfect (had authorized) และ 'this' เปลี่ยนเป็น 'that'"
+      },
+      {
+        "question": "The team leader wanted to know, \"Which strategy should we adopt for the next quarter?\"",
+        "options": [
+          "A. The team leader wanted to know which strategy should we adopt for the next quarter.",
+          "B. The team leader wanted to know which strategy we should adopt for the following quarter.",
+          "C. The team leader wanted to know which strategy should be adopted for the following quarter.",
+          "D. The team leader wanted to know that which strategy we should adopt for the next quarter."
+        ],
+        "answer": "B",
+        "explanation": "ใช้ 'which strategy' เป็นตัวเชื่อม, Modal verb 'should' มักจะไม่เปลี่ยนแปลง แต่ต้องเปลี่ยนสรรพนามและเรียงประโยคใหม่เป็น Subject 'we' + Verb 'should adopt' และเปลี่ยน 'the next quarter' เป็น 'the following quarter'"
+      }
+    ]
+  },
+  {
+    "id": "23_3",
+    "title": "23.3 Reporting Commands and Requests (told to, asked to)",
+    "explanation": "การรายงานคำสั่ง (Commands) และคำขอร้อง (Requests) หรือที่เรียกว่า Imperative Sentences ใน Reported Speech จะมีโครงสร้างที่แตกต่างจากการรายงานประโยคบอกเล่าหรือคำถามอย่างสิ้นเชิง\n\n**โครงสร้างหลัก:**\n`Subject + reporting verb + object + (not) + to-infinitive`\n\n**1. Reporting Verbs (คำกริยานำ):**\n*   `told`: ใช้กับคำสั่งทั่วไป (General Commands) แปลว่า 'บอกให้...'\n*   `asked`: ใช้กับคำขอร้อง (Requests) โดยเฉพาะประโยคที่มี 'please' แปลว่า 'ขอให้...'\n*   คำกริยาอื่นๆ ที่มีความหมายเฉพาะเจาะจงมากขึ้น (More Specific Verbs) เพื่อให้ประโยคมีน้ำหนักและชัดเจนขึ้น:\n    *   `ordered`, `commanded`: สั่ง (คำสั่งที่หนักแน่น เป็นทางการ เช่น ในกองทัพ หรือสถานการณ์ฉุกเฉิน)\n    *   `warned`: เตือน (เมื่อมีอันตรายหรือผลเสียที่อาจเกิดขึ้น)\n    *   `advised`: แนะนำ (ให้คำแนะนำที่เป็นประโยชน์)\n    *   `urged`: กระตุ้น, เร่งเร้า (แนะนำอย่างหนักแน่น)\n    *   `encouraged`: ให้กำลังใจ, สนับสนุน\n    *   `reminded`: เตือนความจำ\n\n**2. Object (ผู้ที่ถูกสั่ง/ขอร้อง):**\nต้องมีกรรม (Object Pronoun หรือ Noun) มารองรับเสมอ เช่น `me`, `us`, `him`, `her`, `them`, `the students` เพื่อระบุว่าใครเป็นผู้รับคำสั่ง\n\n**3. To-infinitive (กริยาช่อง 1 ที่มี to นำหน้า):**\nเปลี่ยนคำกริยาหลักในประโยคคำสั่งเดิม (Direct Speech) ให้เป็นรูปแบบ to-infinitive (to + Verb 1)\nเช่น `Go` -> `to go`, `Submit` -> `to submit`\n\n**4. การรายงานประโยคปฏิเสธ:**\nสำหรับคำสั่งหรือคำขอร้องที่เป็นปฏิเสธ (เช่น `Don't...` หรือ `Please don't...`) ให้ใช้โครงสร้าง `not + to-infinitive`\nเช่น `Don't run` -> `not to run`",
+    "examples": [
+      {
+        "eng": "Direct: \"Please complete this market research survey for us,\" the representative said.\nReported: The representative asked us to complete the market research survey for them.",
+        "thai": "คำขอร้อง: ประโยคมี 'please' จึงใช้ 'asked' และเปลี่ยน 'us' เป็น 'them' ตามมุมมองของผู้พูด"
+      },
+      {
+        "eng": "Direct: \"Don't forget to lock the main gate when you leave,\" my father said.\nReported: My father reminded me not to forget to lock the main gate when I left.",
+        "thai": "คำสั่งเชิงเตือนความจำ: ใช้ 'reminded' แทน 'told' เพื่อสื่อความหมายให้ชัดเจนขึ้น และเป็นคำสั่งปฏิเสธจึงใช้ 'not to forget' นอกจากนี้ tense ในอนุประโยค (when you leave) ยังเปลี่ยนเป็น Past Tense (when I left) ด้วย"
+      },
+      {
+        "eng": "Direct: \"Switch off all electronic devices before takeoff,\" the flight attendant announced.\nReported: The flight attendant instructed the passengers to switch off all electronic devices before takeoff.",
+        "thai": "คำสั่งที่เป็นทางการ: ใช้ 'instructed' (หรือ 'ordered') ซึ่งมีความเป็นทางการมากกว่า 'told' เพื่อให้เข้ากับบริบท"
+      },
+      {
+        "eng": "Direct: \"You should seriously consider applying for that international scholarship,\" my advisor said.\nReported: My advisor urged me to seriously consider applying for that international scholarship.",
+        "thai": "คำแนะนำที่หนักแน่น: 'You should seriously consider' มีน้ำหนักมากกว่าคำแนะนำทั่วไป จึงใช้ 'urged' (กระตุ้น, เร่งเร้า) ได้ดีกว่า 'advised'"
+      },
+      {
+        "eng": "Direct: \"Be careful! The steps are icy,\" the security guard shouted.\nReported: The security guard warned us to be careful because the steps were icy.",
+        "thai": "คำเตือน: เปลี่ยนจากประโยคอุทานเป็นประโยค Reported Speech ที่ซับซ้อนขึ้น โดยใช้ 'warned' และเชื่อมด้วย 'because' เพื่อให้เหตุผล"
+      }
+    ],
+    "common_mistakes": "1. **สับสนระหว่าง told กับ said:** ในโครงสร้างนี้จะใช้ `told + object` เท่านั้น การใช้ `said me to...` หรือ `said to me to...` ถือว่าผิดไวยากรณ์\n    *   ผิด: He `said me to` wait outside.\n    *   ถูก: He `told me to` wait outside.\n\n2. **ละเลยกรรม (Object):** ประโยคคำสั่งใน Reported Speech ต้องระบุเสมอว่าใครเป็นผู้ถูกสั่ง ถ้าไม่มีกรรมประโยคจะไม่สมบูรณ์\n    *   ผิด: The doctor `told to` get more rest.\n    *   ถูก: The doctor `told him to` get more rest.\n\n3. **ใช้รูปกริยาผิดหลัง 'to':** หลัง `to` ในโครงสร้างนี้ต้องเป็นกริยาช่อง 1 (Base form of the verb) เสมอ ห้ามเป็น V-ing, V2, หรือ V3\n    *   ผิด: She asked me `helping` her with the project.\n    *   ถูก: She asked me `to help` her with the project.\n\n4. **วาง 'not' ผิดตำแหน่งในประโยคปฏิเสธ:** ในการรายงานคำสั่งปฏิเสธ 'not' ต้องวางไว้หน้า 'to-infinitive' เท่านั้น\n    *   ผิด: They warned us `to not` enter the restricted area.\n    *   ผิด: They warned us `don't enter` the restricted area.\n    *   ถูก: They warned us `not to` enter the restricted area.",
+    "practice_questions": [
+      {
+        "question": "Direct speech: \"Please forward this confidential document to the legal department immediately,\" my boss said to me.",
+        "options": [
+          "A. My boss asked me to forward that confidential document to the legal department immediately.",
+          "B. My boss said to me to forward this confidential document to the legal department immediately.",
+          "C. My boss asked that I should forward this confidential document to the legal department immediately.",
+          "D. My boss told to me forwarding that confidential document to the legal department immediately."
+        ],
+        "answer": "A",
+        "explanation": "ประโยคต้นฉบับเป็นคำขอร้อง (Please) จึงใช้ 'asked' ตามด้วยกรรม 'me' และ to-infinitive 'to forward' นอกจากนี้ คำว่า 'this' เปลี่ยนเป็น 'that' เพื่อสะท้อนการเปลี่ยนมุมมองของผู้พูด"
+      },
+      {
+        "question": "Direct speech: \"Don't touch the evidence without wearing gloves,\" the detective said to the team.",
+        "options": [
+          "A. The detective warned the team don't touch the evidence without wearing gloves.",
+          "B. The detective told the team to not touch the evidence without wearing gloves.",
+          "C. The detective warned the team not to touch the evidence without wearing gloves.",
+          "D. The detective said the team not to touch the evidence without wearing gloves."
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้เป็นคำเตือนเชิงปฏิเสธ (Don't...) จึงใช้ 'warned' และโครงสร้างปฏิเสธที่ถูกต้องคือ 'not to + infinitive' (not to touch)"
+      },
+      {
+        "question": "Direct speech: \"You must submit your final essays by the end of the month,\" the professor announced.",
+        "options": [
+          "A. The professor advised the students submitting their final essays by the end of the month.",
+          "B. The professor reminded the students to submit their final essays by the end of the month.",
+          "C. The professor told the students submitted their final essays by the end of the month.",
+          "D. The professor asked the students if they could submit their final essays by the end of the month."
+        ],
+        "answer": "B",
+        "explanation": "ประโยค 'You must submit...' เป็นคำสั่งที่หนักแน่นและเป็นการเตือนถึงกำหนดเวลา การใช้ 'reminded' (เตือน) หรือ 'told' (บอก) จึงเหมาะสมที่สุด ในตัวเลือกนี้ 'reminded' สื่อความหมายได้ดี และตามด้วยโครงสร้างที่ถูกต้องคือ 'object + to-infinitive' (reminded the students to submit)"
+      },
+      {
+        "question": "Direct speech: \"Remember to update your antivirus software regularly,\" the IT specialist said.",
+        "options": [
+          "A. The IT specialist said to update our antivirus software regularly.",
+          "B. The IT specialist told us updating our antivirus software regularly.",
+          "C. The IT specialist advised us to update our antivirus software regularly.",
+          "D. The IT specialist advises us to update our antivirus software regularly."
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้เป็นการให้คำแนะนำ จึงใช้ 'advised' ตามด้วยกรรม 'us' และ to-infinitive 'to update' เป็นโครงสร้างที่ถูกต้องที่สุด"
+      },
+      {
+        "question": "Direct speech: \"Evacuate the building immediately!\" the fire marshal shouted.",
+        "options": [
+          "A. The fire marshal told to evacuate the building immediately.",
+          "B. The fire marshal was shouting to evacuate the building immediately.",
+          "C. The fire marshal asked everyone if they would evacuate the building immediately.",
+          "D. The fire marshal ordered everyone to evacuate the building immediately."
+        ],
+        "answer": "D",
+        "explanation": "นี่คือคำสั่งในสถานการณ์ฉุกเฉิน การใช้ 'ordered' (สั่ง) จึงเหมาะสมที่สุด ตามด้วยกรรม 'everyone' และ to-infinitive 'to evacuate' ข้อ A ผิดเพราะไม่มีกรรม"
+      },
+      {
+        "question": "Direct speech: \"Please don't make any noise while the recording is in progress,\" the director whispered.",
+        "options": [
+          "A. The director urged us not to make any noise while the recording was in progress.",
+          "B. The director whispered to us don't make any noise while the recording is in progress.",
+          "C. The director told us to not make any noise while the recording was in progress.",
+          "D. The director asked us to no make any noise while the recording was in progress."
+        ],
+        "answer": "A",
+        "explanation": "เป็นคำขอร้องเชิงปฏิเสธ (Please don't...) โครงสร้างที่ถูกต้องคือ 'asked/urged + object + not to + infinitive' และมีการเปลี่ยน tense จาก 'is' เป็น 'was' (tense backshift)"
+      },
+      {
+        "question": "Direct speech: \"You should try to be more punctual for meetings,\" my supervisor said to me.",
+        "options": [
+          "A. My supervisor suggested me to be more punctual for meetings.",
+          "B. My supervisor told me be more punctual for meetings.",
+          "C. My supervisor encouraged me to try to be more punctual for meetings.",
+          "D. My supervisor said I should try to be more punctual for meetings."
+        ],
+        "answer": "C",
+        "explanation": "ประโยค 'You should try...' เป็นการให้กำลังใจพร้อมคำแนะนำ การใช้ 'encouraged' จึงเหมาะสมมาก และตามด้วยโครงสร้างที่ถูกต้องคือ 'object + to-infinitive' (encouraged me to try)"
+      },
+      {
+        "question": "The customs officer said to the traveler, \"Open your suitcase for inspection.\"",
+        "options": [
+          "A. The customs officer told the traveler open his suitcase for inspection.",
+          "B. The customs officer instructed the traveler to open his suitcase for inspection.",
+          "C. The customs officer said the traveler to open his suitcase for inspection.",
+          "D. The customs officer asked the traveler that he open his suitcase for inspection."
+        ],
+        "answer": "B",
+        "explanation": "นี่คือคำสั่งที่เป็นทางการในบริบทของการปฏิบัติหน้าที่ การใช้ 'instructed' หรือ 'ordered' เหมาะสมที่สุด และตามด้วยโครงสร้าง 'object + to-infinitive'"
+      },
+      {
+        "question": "Direct speech: \"Whatever you do, don't mention the financial problems to the clients,\" the CEO warned his team.",
+        "options": [
+          "A. The CEO told his team that they don't mention the financial problems to the clients.",
+          "B. The CEO warned his team not to mention the financial problems to the clients.",
+          "C. The CEO said to his team not mentioning the financial problems to the clients.",
+          "D. The CEO warned to his team to not mention the financial problems to the clients."
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้ใช้ 'warned' อยู่แล้วใน Direct Speech จึงควรใช้ 'warned' ใน Reported Speech ด้วย โครงสร้างปฏิเสธที่ถูกต้องคือ 'not to mention'"
+      },
+      {
+        "question": "Direct speech: \"Could you please confirm your attendance by the end of the day?\" the event coordinator asked.",
+        "options": [
+          "A. The event coordinator asked us to confirm our attendance by the end of the day.",
+          "B. The event coordinator told us that we should confirm our attendance by the end of the day.",
+          "C. The event coordinator said to us to confirm our attendance by the end of the day.",
+          "D. The event coordinator wanted to know if we could confirm our attendance by the end of the day."
+        ],
+        "answer": "A",
+        "explanation": "แม้ว่าประโยคต้นฉบับจะอยู่ในรูปคำถาม ('Could you...?') แต่เนื้อหาเป็นการขอร้อง (request) จึงสามารถรายงานโดยใช้โครงสร้าง 'asked + object + to-infinitive' ได้ ซึ่งกระชับและตรงความหมายที่สุด"
+      }
+    ]
+  },
+  {
+    "id": "23_4",
+    "title": "23.4 Summary: Reported Speech (สรุปการเล่าต่อ + 50 Exercises)",
+    "explanation": "Reported Speech หรือ Indirect Speech คือการนำคำพูดของคนอื่นมาเล่าต่อ มีหลักการเปลี่ยนแปลงสำคัญ 3 ส่วนเมื่อเปลี่ยนจาก Direct Speech (คำพูดตรง) เป็น Indirect Speech:\n\n1. **การเปลี่ยน Tense (Tense Backshift)**: กาลเวลา (Tense) จะถูกเปลี่ยนให้เป็นอดีตมากขึ้น 1 ขั้นเสมอ\n   - Present Simple -> Past Simple (`is` -> `was`)\n   - Present Continuous -> Past Continuous (`is working` -> `was working`)\n   - Past Simple -> Past Perfect (`went` -> `had gone`)\n   - Present Perfect -> Past Perfect (`have seen` -> `had seen`)\n   - Future Simple (`will`) -> `would`\n   - `can` -> `could`, `may` -> `might`, `must` -> `had to`\n   **ข้อยกเว้น**: ไม่ต้องเปลี่ยน Tense ถ้า 1) Reporting verb เป็น Present (e.g., He says...) หรือ 2) คำพูดนั้นเป็นความจริงสากล (e.g., The Earth is round.)\n\n2. **การเปลี่ยนสรรพนาม (Pronoun Change)**: เปลี่ยนให้สอดคล้องกับผู้พูดและผู้ฟังในประโยคที่เล่าต่อ\n   - `I` -> `he/she`, `we` -> `they`, `my` -> `his/her`, `your` -> `my/his/her`\n\n3. **การเปลี่ยนคำบอกเวลาและสถานที่ (Adverb Change)**: เปลี่ยนให้สอดคล้องกับเวลาและสถานที่ ณ ตอนที่เล่า\n   - `now` -> `then`, `today` -> `that day`, `yesterday` -> `the day before`, `tomorrow` -> `the next day / the following day`, `here` -> `there`, `this` -> `that`\n\n**รูปแบบประโยคต่างๆ:**\n- **บอกเล่า (Statements)**: ใช้ `said (that)` หรือ `told someone (that)`\n- **คำถาม (Questions)**:\n  - **Yes/No**: ใช้ `asked if/whether` + ประโยคบอกเล่า (S+V)\n  - **Wh-Questions**: ใช้ `asked` + wh-word + ประโยคบอกเล่า (S+V)\n- **คำสั่ง/ขอร้อง (Commands/Requests)**: ใช้ `told/asked/ordered someone to + V1`",
+    "examples": [
+      {
+        "eng": "Direct: She said, \"I will call you tomorrow.\"\nIndirect: She said that she would call me the next day.",
+        "thai": "ประโยคบอกเล่า: Tense เปลี่ยนจาก `will` เป็น `would`, สรรพนาม `I` เป็น `she`, และคำบอกเวลา `tomorrow` เป็น `the next day`"
+      },
+      {
+        "eng": "Direct: He asked, \"Are you busy now?\"\nIndirect: He asked me if I was busy then.",
+        "thai": "คำถาม Yes/No: ใช้ `if` เชื่อม, Tense เปลี่ยนจาก `are` เป็น `was`, สรรพนาม `you` เป็น `I`, คำบอกเวลา `now` เป็น `then` และเรียงเป็นประโยคบอกเล่า"
+      },
+      {
+        "eng": "Direct: My boss said, \"Finish this report.\"\nIndirect: My boss told me to finish that report.",
+        "thai": "ประโยคคำสั่ง: ใช้โครงสร้าง `told me to + V1` และเปลี่ยน `this` เป็น `that`"
+      }
+    ],
+    "common_mistakes": "1. **ไม่เปลี่ยน Tense (No Tense Backshift)**: ผิดพลาดบ่อยที่สุด คือลืมเปลี่ยน Tense ของประโยคให้เป็นอดีต เช่น *He said he **is** tired.* (ผิด) ที่ถูกคือ *...he **was** tired.*\n\n2. **โครงสร้างประโยคคำถามผิด (Incorrect Question Structure)**: ใน Reported Question เราจะเรียงประโยคแบบบอกเล่า (S+V) ไม่ใช่แบบคำถาม เช่น *She asked where **was the station**.* (ผิด) ที่ถูกคือ *She asked where the station **was**.*\n\n3. **ใช้ Say กับ Tell สลับกัน (Confusing `say` and `tell`)**: `tell` ต้องมีกรรมตามหลังเสมอ (`tell someone`) แต่ `say` ไม่ต้อง เช่น *He **said me**...* (ผิด) ที่ถูกคือ *He **told me**...*\n\n4. **ลืมเปลี่ยนคำบอกเวลาและสถานที่ (Forgetting Adverb Changes)**: มักจะลืมเปลี่ยนคำอย่าง `now`, `here`, `tomorrow` เช่น *He said he would see me **tomorrow**.* (มักจะผิด) ควรเป็น *...the **next day**.*",
+    "practice_questions": [
+      {
+        "question": "Direct: \"I am studying for my exam now,\" she said.",
+        "options": [
+          "A. She said she is studying for her exam now.",
+          "B. She said that she was studying for her exam then.",
+          "C. She told that she was studying for her exam then.",
+          "D. She said she was studying for my exam now."
+        ],
+        "answer": "B",
+        "explanation": "Tense เปลี่ยนจาก Present Continuous (`am studying`) เป็น Past Continuous (`was studying`) คำบอกเวลา `now` เปลี่ยนเป็น `then` และสรรพนาม `my` เปลี่ยนเป็น `her` ให้สอดคล้องกับผู้พูด (she)"
+      },
+      {
+        "question": "Direct: \"We will go on vacation next month,\" they told us.",
+        "options": [
+          "A. They told us they would go on vacation the following month.",
+          "B. They said us they will go on vacation next month.",
+          "C. They told us they will go on vacation the following month.",
+          "D. They told us we would go on vacation the next month."
+        ],
+        "answer": "A",
+        "explanation": "Tense เปลี่ยนจาก `will go` เป็น `would go` และคำบอกเวลา `next month` เปลี่ยนเป็น `the following month` หรือ `the next month` สรรพนาม `We` เปลี่ยนเป็น `they` ถูกต้อง"
+      },
+      {
+        "question": "Direct: \"The train arrived late yesterday,\" he explained.",
+        "options": [
+          "A. He explained that the train had arrived late the day before.",
+          "B. He explained that the train arrived late yesterday.",
+          "C. He explained the train has arrived late the day before.",
+          "D. He explained that the train arrived late the previous day."
+        ],
+        "answer": "A",
+        "explanation": "Tense เปลี่ยนจาก Past Simple (`arrived`) เป็น Past Perfect (`had arrived`) และคำบอกเวลา `yesterday` เปลี่ยนเป็น `the day before` หรือ `the previous day` ตัวเลือก D ใช้ Tense ผิด"
+      },
+      {
+        "question": "Direct: \"Do you want to join us?\" she asked me.",
+        "options": [
+          "A. She asked me do I want to join them.",
+          "B. She asked me if I want to join them.",
+          "C. She asked me whether I wanted to join them.",
+          "D. She asked me if I wanted to join us."
+        ],
+        "answer": "C",
+        "explanation": "นี่คือ Yes/No question จึงใช้ `if` หรือ `whether` เชื่อม Tense เปลี่ยนจาก Present Simple (`do you want`) เป็น Past Simple (`wanted`) และเรียงเป็นประโยคบอกเล่า (`I wanted`) สรรพนาม `us` เปลี่ยนเป็น `them`"
+      },
+      {
+        "question": "Direct: \"Don't make any noise,\" the librarian said to the children.",
+        "options": [
+          "A. The librarian told the children don't make any noise.",
+          "B. The librarian said to the children to not make any noise.",
+          "C. The librarian told the children not to make any noise.",
+          "D. The librarian asked the children do not make any noise."
+        ],
+        "answer": "C",
+        "explanation": "นี่คือประโยคคำสั่งปฏิเสธ โครงสร้างคือ `told someone not to + V1`"
+      },
+      {
+        "question": "Direct: \"Where is the nearest post office?\" a tourist asked.",
+        "options": [
+          "A. A tourist asked where is the nearest post office.",
+          "B. A tourist asked where the nearest post office was.",
+          "C. A tourist asked where was the nearest post office.",
+          "D. A tourist asked me where is the nearest post office."
+        ],
+        "answer": "B",
+        "explanation": "นี่คือ Wh-question เราใช้ Wh-word (where) เชื่อม และเปลี่ยน Tense จาก `is` เป็น `was` ที่สำคัญคือต้องเรียงประโยคเป็นแบบบอกเล่า (S+V) คือ `the nearest post office was`"
+      },
+      {
+        "question": "Direct: \"I can't find my keys,\" Tom said.",
+        "options": [
+          "A. Tom said that he couldn't find his keys.",
+          "B. Tom said that he can't find my keys.",
+          "C. Tom said he couldn't find my keys.",
+          "D. Tom told he couldn't find his keys."
+        ],
+        "answer": "A",
+        "explanation": "Modal verb `can't` เปลี่ยนเป็น `couldn't` และสรรพนาม `my` เปลี่ยนเป็น `his` ให้สอดคล้องกับผู้พูด (Tom)"
+      },
+      {
+        "question": "Direct: \"I have finished my project,\" Sarah announced.",
+        "options": [
+          "A. Sarah announced that she has finished her project.",
+          "B. Sarah announced she finished her project.",
+          "C. Sarah announced that she had finished her project.",
+          "D. Sarah announced that I had finished her project."
+        ],
+        "answer": "C",
+        "explanation": "Tense เปลี่ยนจาก Present Perfect (`have finished`) เป็น Past Perfect (`had finished`)"
+      },
+      {
+        "question": "Direct: \"You must complete this form,\" the clerk told me.",
+        "options": [
+          "A. The clerk told me I must have completed that form.",
+          "B. The clerk told me that I had to complete that form.",
+          "C. The clerk told me that you had to complete this form.",
+          "D. The clerk said me that I had to complete that form."
+        ],
+        "answer": "B",
+        "explanation": "`must` ที่แปลว่าต้องทำ (obligation) จะเปลี่ยนเป็น `had to` และ `this` เปลี่ยนเป็น `that`"
+      },
+      {
+        "question": "Direct: \"What are you doing tomorrow?\" he asked her.",
+        "options": [
+          "A. He asked her what she was doing the next day.",
+          "B. He asked her what was she doing the next day.",
+          "C. He asked her what you were doing tomorrow.",
+          "D. He asked her what she is doing the next day."
+        ],
+        "answer": "A",
+        "explanation": "Wh-question: Tense เปลี่ยนจาก `are doing` เป็น `was doing` คำบอกเวลา `tomorrow` เป็น `the next day` และเรียงประโยคเป็นบอกเล่า `she was doing`"
+      },
+      {
+        "question": "Direct: \"I saw an accident on my way here,\" she said.",
+        "options": [
+          "A. She said she had seen an accident on her way there.",
+          "B. She said she saw an accident on her way here.",
+          "C. She said she had seen an accident on my way there.",
+          "D. She said she has seen an accident on her way there."
+        ],
+        "answer": "A",
+        "explanation": "Tense เปลี่ยนจาก Past Simple (`saw`) เป็น Past Perfect (`had seen`) สรรพนาม `my` เป็น `her` และคำบอกสถานที่ `here` เป็น `there`"
+      },
+      {
+        "question": "Direct: \"Will you be at the party?\" I asked him.",
+        "options": [
+          "A. I asked him will he be at the party.",
+          "B. I asked him if he would be at the party.",
+          "C. I asked him would he be at the party.",
+          "D. I asked him if he will be at the party."
+        ],
+        "answer": "B",
+        "explanation": "Yes/No question: ใช้ `if` เชื่อม `will` เปลี่ยนเป็น `would` และเรียงประโยคเป็นบอกเล่า `he would be...`"
+      },
+      {
+        "question": "Direct: \"I haven't spoken to John since last week,\" she mentioned.",
+        "options": [
+          "A. She mentioned that she hadn't spoken to John since the week before.",
+          "B. She mentioned that she hasn't spoken to John since last week.",
+          "C. She mentioned she didn't speak to John since the week before.",
+          "D. She mentioned that I hadn't spoken to John since the previous week."
+        ],
+        "answer": "A",
+        "explanation": "Tense เปลี่ยนจาก Present Perfect (`haven't spoken`) เป็น Past Perfect (`hadn't spoken`) และ `last week` เป็น `the week before` หรือ `the previous week`"
+      },
+      {
+        "question": "Direct: \"Please wait outside the office,\" the secretary said.",
+        "options": [
+          "A. The secretary said to please wait outside the office.",
+          "B. The secretary told me to wait outside the office.",
+          "C. The secretary asked to wait outside the office.",
+          "D. The secretary asked me please wait outside the office."
+        ],
+        "answer": "B",
+        "explanation": "นี่คือประโยคขอร้อง (request) ใช้โครงสร้าง `told/asked me to + V1`"
+      },
+      {
+        "question": "Direct: \"My parents are arriving on Friday,\" she told me.",
+        "options": [
+          "A. She told me that her parents were arriving on Friday.",
+          "B. She told me that my parents were arriving on Friday.",
+          "C. She told me her parents are arriving on Friday.",
+          "D. She said me that her parents were arriving on Friday."
+        ],
+        "answer": "A",
+        "explanation": "Tense เปลี่ยนจาก Present Continuous (`are arriving`) เป็น Past Continuous (`were arriving`) และสรรพนาม `My` เป็น `her`"
+      },
+      {
+        "question": "Direct: \"Why did you leave so early?\" Mark asked Sarah.",
+        "options": [
+          "A. Mark asked Sarah why did she leave so early.",
+          "B. Mark asked Sarah why she left so early.",
+          "C. Mark asked Sarah why she had left so early.",
+          "D. Mark asked Sarah why had she left so early."
+        ],
+        "answer": "C",
+        "explanation": "Wh-question: Tense เปลี่ยนจาก Past Simple (`did you leave`) เป็น Past Perfect (`had left`) และเรียงประโยคเป็นบอกเล่า `she had left`"
+      },
+      {
+        "question": "Direct: \"You should get more exercise,\" the doctor advised.",
+        "options": [
+          "A. The doctor advised that I should get more exercise.",
+          "B. The doctor advised me to have got more exercise.",
+          "C. The doctor advised you should get more exercise.",
+          "D. The doctor advised that I should have got more exercise."
+        ],
+        "answer": "A",
+        "explanation": "Modal verb `should` มักจะไม่เปลี่ยนแปลงใน Reported Speech เมื่อเป็นการให้คำแนะนำ"
+      },
+      {
+        "question": "Direct: \"I was sleeping when the fire started,\" the witness reported.",
+        "options": [
+          "A. The witness reported that he was sleeping when the fire had started.",
+          "B. The witness reported that he had been sleeping when the fire started.",
+          "C. The witness reported that he slept when the fire started.",
+          "D. The witness reported that he had been sleeping when the fire had started."
+        ],
+        "answer": "B",
+        "explanation": "Tense เปลี่ยนจาก Past Continuous (`was sleeping`) เป็น Past Perfect Continuous (`had been sleeping`) และ Past Simple (`started`) เป็น Past Perfect (`had started`) แต่ในกรณีที่เหตุการณ์หนึ่งเกิดขณะอีกเหตุการณ์กำลังดำเนินอยู่ เรามักจะเปลี่ยนแค่ Past Continuous เป็น Past Perfect Continuous"
+      },
+      {
+        "question": "Direct: \"How long have you worked here?\" the new manager asked.",
+        "options": [
+          "A. The new manager asked how long have I worked there.",
+          "B. The new manager asked how long I had worked there.",
+          "C. The new manager asked how long did I work there.",
+          "D. The new manager asked how long I worked there."
+        ],
+        "answer": "B",
+        "explanation": "Wh-question: Tense เปลี่ยนจาก Present Perfect (`have you worked`) เป็น Past Perfect (`had worked`) คำว่า `here` เป็น `there` และเรียงเป็นประโยคบอกเล่า `I had worked`"
+      },
+      {
+        "question": "Direct: \"I won't tell anyone your secret,\" she promised.",
+        "options": [
+          "A. She promised she won't tell anyone my secret.",
+          "B. She promised she wouldn't tell anyone your secret.",
+          "C. She promised me that she wouldn't tell anyone my secret.",
+          "D. She promised that she wouldn't tell anyone my secret."
+        ],
+        "answer": "D",
+        "explanation": "`won't` (will not) เปลี่ยนเป็น `wouldn't` (would not) และ `your` ในที่นี้หมายถึงของผู้เล่าจึงต้องเปลี่ยนเป็น `my` ตัวเลือก D ครอบคลุมที่สุด"
+      },
+      {
+        "question": "Direct: \"I might be a few minutes late this evening,\" he said.",
+        "options": [
+          "A. He said he might have been a few minutes late that evening.",
+          "B. He said he may be a few minutes late that evening.",
+          "C. He said he might be a few minutes late that evening.",
+          "D. He said he might be a few minutes late this evening."
+        ],
+        "answer": "C",
+        "explanation": "Modal verb `might` ไม่มีการเปลี่ยนแปลงใน Reported Speech และ `this evening` เปลี่ยนเป็น `that evening`"
+      },
+      {
+        "question": "Direct: \"Let's check the schedule again,\" he suggested.",
+        "options": [
+          "A. He suggested to check the schedule again.",
+          "B. He suggested that we should check the schedule again.",
+          "C. He suggested let's check the schedule again.",
+          "D. He suggested us to check the schedule again."
+        ],
+        "answer": "B",
+        "explanation": "การรายงานคำพูดชักชวน (Let's...) เรามักใช้โครงสร้าง `suggested that we should + V1` หรือ `suggested + V-ing`"
+      },
+      {
+        "question": "Direct: \"I have never been to Japan,\" Maria said.",
+        "options": [
+          "A. Maria said that she had never been to Japan.",
+          "B. Maria said that she has never been to Japan.",
+          "C. Maria said she was never in Japan.",
+          "D. Maria said that I had never been to Japan."
+        ],
+        "answer": "A",
+        "explanation": "Tense เปลี่ยนจาก Present Perfect (`have never been`) เป็น Past Perfect (`had never been`)"
+      },
+      {
+        "question": "Direct: \"Are you feeling better today?\" my mother asked.",
+        "options": [
+          "A. My mother asked if I felt better that day.",
+          "B. My mother asked if I was feeling better that day.",
+          "C. My mother asked am I feeling better today.",
+          "D. My mother asked whether I am feeling better that day."
+        ],
+        "answer": "B",
+        "explanation": "Yes/No question: ใช้ `if/whether` เชื่อม Tense เปลี่ยนจาก Present Continuous (`Are you feeling`) เป็น Past Continuous (`was feeling`) และ `today` เป็น `that day`"
+      },
+      {
+        "question": "Direct: \"Open the window, please,\" she asked me.",
+        "options": [
+          "A. She asked me open the window.",
+          "B. She asked me if I could open the window.",
+          "C. She asked me to open the window.",
+          "D. She asked me please open the window."
+        ],
+        "answer": "C",
+        "explanation": "ประโยคขอร้อง (request) ใช้โครงสร้าง `asked me to + V1`"
+      },
+      {
+        "question": "Direct: \"I must call my parents tonight,\" he said.",
+        "options": [
+          "A. He said he must call his parents that night.",
+          "B. He said he had to call his parents tonight.",
+          "C. He said he had to call his parents that night.",
+          "D. He said he must have called his parents that night."
+        ],
+        "answer": "C",
+        "explanation": "`must` เปลี่ยนเป็น `had to`, `my` เป็น `his`, และ `tonight` เป็น `that night`"
+      },
+      {
+        "question": "Direct: \"Who ate the last piece of cake?\" my brother asked.",
+        "options": [
+          "A. My brother asked who ate the last piece of cake.",
+          "B. My brother asked who had eaten the last piece of cake.",
+          "C. My brother asked who did eat the last piece of cake.",
+          "D. My brother asked who has eaten the last piece of cake."
+        ],
+        "answer": "B",
+        "explanation": "Wh-question: Tense เปลี่ยนจาก Past Simple (`ate`) เป็น Past Perfect (`had eaten`)"
+      },
+      {
+        "question": "Direct: \"The Earth revolves around the Sun,\" the teacher stated.",
+        "options": [
+          "A. The teacher stated that the Earth revolved around the Sun.",
+          "B. The teacher stated that the Earth had revolved around the Sun.",
+          "C. The teacher stated that the Earth revolves around the Sun.",
+          "D. The teacher stated the Earth is revolving around the Sun."
+        ],
+        "answer": "C",
+        "explanation": "นี่เป็นข้อยกเว้น เนื่องจากเป็นความจริงทางวิทยาศาสตร์ (universal truth) เราจึงไม่ต้องเปลี่ยน Tense"
+      },
+      {
+        "question": "Direct: \"If I were you, I would apologize,\" she said.",
+        "options": [
+          "A. She said if she had been me, she would have apologized.",
+          "B. She said if she were me, she would apologize.",
+          "C. She said if I was her, I would apologize.",
+          "D. She advised me to have apologized."
+        ],
+        "answer": "B",
+        "explanation": "ประโยคเงื่อนไขแบบที่ 2 (Second Conditional) Tense จะไม่เปลี่ยนแปลงใน Reported Speech"
+      },
+      {
+        "question": "Direct: \"I'm going to apply for the new job,\" he told his wife.",
+        "options": [
+          "A. He told his wife that he was going to apply for the new job.",
+          "B. He told his wife he is going to apply for the new job.",
+          "C. He told his wife that he will apply for the new job.",
+          "D. He told to his wife that he was going to apply for the new job."
+        ],
+        "answer": "A",
+        "explanation": "`be going to` ใน Present (`am going`) จะเปลี่ยนเป็น `be going to` ใน Past (`was going`)"
+      },
+      {
+        "question": "Direct: \"We were having dinner when you called,\" they said.",
+        "options": [
+          "A. They said they had dinner when I called.",
+          "B. They said they had been having dinner when I had called.",
+          "C. They said they were having dinner when I had called.",
+          "D. They said they had been having dinner when I called."
+        ],
+        "answer": "B",
+        "explanation": "Tense เปลี่ยนจาก Past Continuous (`were having`) เป็น Past Perfect Continuous (`had been having`) และ Past Simple (`called`) เป็น Past Perfect (`had called`)"
+      },
+      {
+        "question": "Direct: \"Can you show me your passport?\" the officer asked.",
+        "options": [
+          "A. The officer asked if I can show him my passport.",
+          "B. The officer asked me to show him my passport.",
+          "C. The officer asked me could I show him my passport.",
+          "D. The officer asked me if I could show him my passport."
+        ],
+        "answer": "D",
+        "explanation": "Yes/No question ที่ใช้ modal verb: `Can` เปลี่ยนเป็น `could` และเรียงเป็นประโยคบอกเล่า `I could show...`"
+      },
+      {
+        "question": "Direct: \"I wish I had studied more,\" she said regretfully.",
+        "options": [
+          "A. She said regretfully that she wishes she had studied more.",
+          "B. She said regretfully that she wished she had studied more.",
+          "C. She said regretfully that she wished she would study more.",
+          "D. She said regretfully that she had wished she had studied more."
+        ],
+        "answer": "B",
+        "explanation": "โครงสร้าง `I wish + Past Perfect` ไม่มีการเปลี่ยน Tense ในส่วน Past Perfect แต่ verb `wish` จะเปลี่ยนเป็น `wished`"
+      },
+      {
+        "question": "Direct: \"This restaurant is much better than the one we visited last week,\" he commented.",
+        "options": [
+          "A. He commented that that restaurant was much better than the one they had visited the week before.",
+          "B. He commented that this restaurant is much better than the one they visited last week.",
+          "C. He commented that that restaurant was much better than the one we had visited the previous week.",
+          "D. He commented that that restaurant had been much better than the one they had visited the week before."
+        ],
+        "answer": "A",
+        "explanation": "`This` เปลี่ยนเป็น `that`, `is` เป็น `was`, `we` เป็น `they`, `visited` (Past Simple) เป็น `had visited` (Past Perfect), และ `last week` เป็น `the week before`"
+      },
+      {
+        "question": "Direct: \"What will you do after you graduate?\" she asked him.",
+        "options": [
+          "A. She asked him what would he do after he graduated.",
+          "B. She asked him what he would do after he graduated.",
+          "C. She asked him what he will do after he graduates.",
+          "D. She asked him what he would do after he had graduated."
+        ],
+        "answer": "B",
+        "explanation": "Wh-question: `will` เปลี่ยนเป็น `would`, `graduate` (Present Simple) เป็น `graduated` (Past Simple) และเรียงประโยคเป็นบอกเล่า"
+      },
+      {
+        "question": "Direct: \"I'm sorry for being late,\" he said.",
+        "options": [
+          "A. He said he was sorry for being late.",
+          "B. He apologized for being late.",
+          "C. He apologized to be late.",
+          "D. Both A and B are correct."
+        ],
+        "answer": "D",
+        "explanation": "เราสามารถรายงานคำขอโทษได้ 2 แบบ คือใช้ `said that...` หรือใช้ reporting verb ที่มีความหมายเฉพาะอย่าง `apologized for + V-ing` ซึ่งทั้งสองข้อถูกต้อง"
+      },
+      {
+        "question": "Direct: \"Don't forget to buy some milk,\" my wife reminded me.",
+        "options": [
+          "A. My wife reminded me not to forget to buy some milk.",
+          "B. My wife reminded me don't forget to buy some milk.",
+          "C. My wife reminded me to not forget buying some milk.",
+          "D. My wife reminded me about buying milk."
+        ],
+        "answer": "A",
+        "explanation": "ประโยคคำสั่งปฏิเสธ ใช้ reporting verb `reminded` + `me not to + V1`"
+      },
+      {
+        "question": "Direct: \"How many languages do you speak?\" the interviewer asked.",
+        "options": [
+          "A. The interviewer asked how many languages did I speak.",
+          "B. The interviewer asked how many languages I spoke.",
+          "C. The interviewer asked how many languages I speak.",
+          "D. The interviewer asked that how many languages I spoke."
+        ],
+        "answer": "B",
+        "explanation": "Wh-question: Tense เปลี่ยนจาก Present Simple (`do you speak`) เป็น Past Simple (`spoke`) และเรียงประโยคเป็นบอกเล่า `I spoke`"
+      },
+      {
+        "question": "Direct: \"I was walking home when I saw a strange light in the sky,\" he claimed.",
+        "options": [
+          "A. He claimed he had been walking home when he had seen a strange light in the sky.",
+          "B. He claimed he was walking home when he saw a strange light in the sky.",
+          "C. He claimed he had been walking home when he saw a strange light in the sky.",
+          "D. He claimed he walked home when he had seen a strange light in the sky."
+        ],
+        "answer": "A",
+        "explanation": "Tense เปลี่ยนจาก Past Continuous (`was walking`) เป็น Past Perfect Continuous (`had been walking`) และ Past Simple (`saw`) เป็น Past Perfect (`had seen`)"
+      },
+      {
+        "question": "Direct: \"You needn't come to the office tomorrow,\" the manager said.",
+        "options": [
+          "A. The manager said I needn't come to the office the next day.",
+          "B. The manager said I wouldn't have to come to the office the next day.",
+          "C. The manager said I didn't have to come to the office the next day.",
+          "D. Both B and C are correct."
+        ],
+        "answer": "D",
+        "explanation": "`needn't` หรือ `don't need to` สามารถเปลี่ยนเป็น `didn't have to` หรือ `wouldn't have to` ได้"
+      },
+      {
+        "question": "Direct: \"What a beautiful view!\" she exclaimed.",
+        "options": [
+          "A. She exclaimed what a beautiful view it was.",
+          "B. She exclaimed that it was a very beautiful view.",
+          "C. She exclaimed what a beautiful view.",
+          "D. She exclaimed that what a beautiful view it was."
+        ],
+        "answer": "B",
+        "explanation": "การรายงานประโยคอุทาน (exclamation) มักจะเปลี่ยนเป็นประโยคบอกเล่าโดยใช้คำว่า `very` หรือ `really` เพื่อเน้นความรู้สึก"
+      },
+      {
+        "question": "Direct: \"Shall I help you with your luggage?\" he offered.",
+        "options": [
+          "A. He offered if he should help me with my luggage.",
+          "B. He offered to help me with my luggage.",
+          "C. He asked if he shall help me with my luggage.",
+          "D. He offered that he would help me with my luggage."
+        ],
+        "answer": "B",
+        "explanation": "การรายงานคำเสนอ (offer) ที่ใช้ `Shall I...?` เราจะใช้โครงสร้าง `offered to + V1`"
+      },
+      {
+        "question": "Direct: \"I had already finished the report when my boss asked for it,\" she explained.",
+        "options": [
+          "A. She explained that she had already finished the report when her boss had asked for it.",
+          "B. She explained that she already finished the report when her boss asked for it.",
+          "C. She explained that she had already finished the report when her boss asked for it.",
+          "D. She explained that she had finished the report before her boss had asked for it."
+        ],
+        "answer": "A",
+        "explanation": "Tense เปลี่ยนจาก Past Perfect (`had finished`) ซึ่งจะคงรูปเดิม และ Past Simple (`asked`) เปลี่ยนเป็น Past Perfect (`had asked`)"
+      },
+      {
+        "question": "Direct: \"Which book did you choose in the end?\" he asked.",
+        "options": [
+          "A. He asked which book I chose in the end.",
+          "B. He asked which book had I chosen in the end.",
+          "C. He asked which book I had chosen in the end.",
+          "D. He asked which book did I choose in the end."
+        ],
+        "answer": "C",
+        "explanation": "Wh-question: Tense เปลี่ยนจาก Past Simple (`did you choose`) เป็น Past Perfect (`had chosen`) และเรียงเป็นประโยคบอกเล่า"
+      },
+      {
+        "question": "Direct: \"You must not park here,\" the police officer told the driver.",
+        "options": [
+          "A. The police officer told the driver he didn't have to park there.",
+          "B. The police officer told the driver he must not park there.",
+          "C. The police officer told the driver he couldn't park there.",
+          "D. The police officer told the driver he had not to park there."
+        ],
+        "answer": "B",
+        "explanation": "`must not` ที่เป็นการห้าม (prohibition) จะไม่เปลี่ยนแปลงใน Reported Speech และ `here` เปลี่ยนเป็น `there`"
+      },
+      {
+        "question": "Direct: He says, \"I will always support you.\"",
+        "options": [
+          "A. He says that he would always support me.",
+          "B. He says that he will always support me.",
+          "C. He said that he would always support me.",
+          "D. He says he will always support you."
+        ],
+        "answer": "B",
+        "explanation": "นี่เป็นข้อยกเว้นสำคัญ เมื่อ Reporting Verb เป็น Present tense (`says`) เราจะไม่ทำการ Backshift (ไม่เปลี่ยน Tense) ในประโยคที่เล่าต่อ"
+      },
+      {
+        "question": "Direct: \"I was born in London,\" she said.",
+        "options": [
+          "A. She said she had been born in London.",
+          "B. She said she was born in London.",
+          "C. She said she has been born in London.",
+          "D. She said she would be born in London."
+        ],
+        "answer": "B",
+        "explanation": "แม้ว่า `was` จะเป็น Past Simple แต่ในกรณีของ `was born` ซึ่งเป็นเหตุการณ์ในอดีตที่เสร็จสิ้นและไม่เปลี่ยนแปลง เรามักจะไม่เปลี่ยนเป็น Past Perfect"
+      },
+      {
+        "question": "Direct: \"If I win the lottery, I will buy a mansion,\" he dreams.",
+        "options": [
+          "A. He dreams that if he wins the lottery, he will buy a mansion.",
+          "B. He dreams that if he won the lottery, he would buy a mansion.",
+          "C. He dreamt that if he won the lottery, he would buy a mansion.",
+          "D. He dreams that if he won the lottery, he will buy a mansion."
+        ],
+        "answer": "A",
+        "explanation": "Reporting verb อยู่ใน Present Tense (`dreams`) ดังนั้นประโยคเงื่อนไข (First Conditional) จะไม่เปลี่ยนแปลง Tense"
+      },
+      {
+        "question": "Direct: \"My new apartment is on the third floor,\" she mentioned.",
+        "options": [
+          "A. She mentioned her new apartment had been on the third floor.",
+          "B. She mentioned that her new apartment is on the third floor.",
+          "C. She mentioned that her new apartment was on the third floor.",
+          "D. She mentioned my new apartment was on the third floor."
+        ],
+        "answer": "C",
+        "explanation": "Tense เปลี่ยนจาก Present Simple (`is`) เป็น Past Simple (`was`) และสรรพนาม `My` เป็น `her`"
+      },
+      {
+        "question": "Direct: \"Let's not argue about it,\" she suggested.",
+        "options": [
+          "A. She suggested not arguing about it.",
+          "B. She suggested to not argue about it.",
+          "C. She suggested that we didn't argue about it.",
+          "D. She suggested let's not argue about it."
+        ],
+        "answer": "A",
+        "explanation": "การรายงานคำชักชวนปฏิเสธ สามารถใช้โครงสร้าง `suggested + not + V-ing` ได้"
+      }
+    ]
+  }
+]

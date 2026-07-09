@@ -1,0 +1,978 @@
+[
+  {
+    "id": "38_1",
+    "title": "38.1 Impersonal Passives (It is said that..., He is believed to be...)",
+    "explanation": "Impersonal Passives คือโครงสร้างไวยากรณ์ขั้นสูงที่ใช้ในการรายงานความคิดเห็น, ความเชื่อ, ข่าวลือ หรือข้อเท็จจริงทั่วไป โดยไม่ระบุว่าใครเป็นคนพูดหรือคิด ทำให้ประโยคมีความเป็นกลาง เป็นทางการ และดูน่าเชื่อถือมากขึ้น มักพบในงานเขียนเชิงวิชาการ, ข่าว หรือรายงานที่เป็นทางการ\n\nหัวใจของมันคือการใช้ 'Reporting Verbs' (กริยาที่ใช้รายงาน เช่น say, think, believe, know, claim, allege, report, consider, understand, expect, rumor) ในรูปของ Passive Voice ซึ่งสามารถสร้างได้ 2 รูปแบบหลัก:\n\n1. It + passive reporting verb + that-clause:\nโครงสร้างนี้ตรงไปตรงมาที่สุด คือการขึ้นต้นด้วย 'It' ตามด้วยกริยาในรูป B.E. + V3 แล้วตามด้วยประโยค (that-clause) ที่เราต้องการจะรายงาน\n   - Active: People say that the ancient artifact is cursed.\n   - Passive: It is said that the ancient artifact is cursed.\n   - โครงสร้างนี้ใช้เพื่อนำเสนอข้อมูลเป็นข้อเท็จจริงที่ถูกกล่าวถึงโดยทั่วไป\n\n2. Subject + passive reporting verb + to-infinitive:\nโครงสร้างนี้จะซับซ้อนและเป็นที่นิยมในระดับสูงขึ้น โดยการนำประธานของ 'that-clause' มาเป็นประธานของประโยคหลักแทน 'It' แล้วตามด้วย to-infinitive ซึ่งรูปแบบของ to-infinitive จะเปลี่ยนไปตาม 'เวลา' ของเหตุการณ์ที่ถูกรายงาน เทียบกับ 'เวลา' ของการรายงาน\n   - Active: People believe that the CEO misappropriated company funds.\n   - Passive: The CEO is believed to have misappropriated company funds.\n\nการเลือกใช้ to-infinitive เป็นส่วนที่สำคัญที่สุด:\n   a) Simple Infinitive (to + V1): ใช้เมื่อเหตุการณ์ใน infinitive เกิดขึ้น 'พร้อมกัน' หรือ 'หลังจาก' reporting verb\n      - He is considered to be the best candidate for the job. (การพิจารณาและการเป็น candidate เกิดขึ้นในเวลาเดียวกัน)\n\n   b) Perfect Infinitive (to have + V3): ใช้เมื่อเหตุการณ์ใน infinitive เกิดขึ้น 'ก่อนหน้า' reporting verb (นี่คือจุดที่วัดความเข้าใจในระดับ C1-C2)\n      - The fugitive is thought to have fled the country last week. (การหลบหนี (fled) เกิดขึ้น 'ก่อน' การคิด (is thought))\n\n   c) Continuous Infinitive (to be + V-ing): ใช้เน้นว่าเหตุการณ์กำลังดำเนินอยู่ในขณะที่รายงาน\n      - The suspect is reported to be hiding in the northern territories. (การซ่อนตัวกำลังดำเนินอยู่ ณ เวลาที่รายงาน)\n\n   d) Perfect Continuous Infinitive (to have been + V-ing): ใช้เน้นการกระทำที่ดำเนินมาอย่างต่อเนื่องในอดีต 'ก่อน' เวลาที่รายงาน\n      - The company was alleged to have been violating environmental regulations for years. (การละเมิดกฎดำเนินมาหลายปี 'ก่อน' ที่จะถูกกล่าวหา)\n\nการเข้าใจความสัมพันธ์ทางเวลา (Tense Relationship) ระหว่าง Main Verb (reporting verb) และ Infinitive Verb คือกุญแจสำคัญในการใช้โครงสร้างนี้ได้อย่างถูกต้องและเป็นธรรมชาติเหมือนเจ้าของภาษา",
+    "examples": [
+      {
+        "eng": "The elusive artist is reputed to have created all his masterpieces in complete solitude, a fact that has only recently been substantiated by newly discovered journals.",
+        "thai": "ศิลปินผู้ลึกลับคนนั้นมีชื่อเสียงเล่าลือกันว่า 'ได้สร้างสรรค์' ผลงานชิ้นเอกทั้งหมดของเขาในความสันโดษอย่างสมบูรณ์ ซึ่งเป็นข้อเท็จจริงที่เพิ่งได้รับการยืนยันจากบันทึกที่ถูกค้นพบใหม่\n- 'is reputed' (มีชื่อเสียง/เล่าลือกันว่า) เป็น Present Simple Passive\n- 'to have created' (ได้สร้างสรรค์) เป็น Perfect Infinitive แสดงให้เห็นว่าการสร้างสรรค์ผลงาน (created) เกิดขึ้นในอดีต 'ก่อน' ที่ชื่อเสียงเล่าลือ (is reputed) จะเกิดขึ้นในปัจจุบัน"
+      },
+      {
+        "eng": "It was widely understood among geopolitical analysts that the treaty would be ineffective, yet no one predicted the swiftness of its eventual collapse.",
+        "thai": "เป็นที่เข้าใจกันอย่างกว้างขวางในหมู่นักวิเคราะห์ภูมิรัฐศาสตร์ว่าสนธิสัญญานั้นจะไม่มีประสิทธิภาพ แต่ไม่มีใครคาดการณ์ถึงความรวดเร็วในการล่มสลายของมันในท้ายที่สุด\n- โครงสร้างนี้ใช้ 'It + passive reporting verb (was understood) + that-clause' เพื่อนำเสนอความเชื่อหรือความเข้าใจร่วมกันในอดีต ให้ความรู้สึกเป็นกลางและเป็นทางการ"
+      },
+      {
+        "eng": "The former director is purported to have been living under an assumed identity for over a decade before his serendipitous discovery by an investigative journalist.",
+        "thai": "อดีตผู้อำนวยการคนดังกล่าวถูกอ้างว่า 'ได้ใช้ชีวิต' ภายใต้อัตลักษณ์ปลอมมานานกว่าทศวรรษ ก่อนที่จะถูกค้นพบโดยบังเอิญโดยนักข่าวสืบสวนสอบสวน\n- 'is purported' (ถูกอ้างว่า) เป็น Present Simple Passive\n- 'to have been living' เป็น Perfect Continuous Infinitive ใช้เพื่อเน้นการกระทำ (การใช้ชีวิต) ที่ดำเนินมาอย่างต่อเนื่องเป็นระยะเวลานานในอดีต (over a decade) ซึ่งเกิดขึ้น 'ก่อน' การกล่าวอ้างในปัจจุบัน"
+      },
+      {
+        "eng": "Several ancient manuscripts, previously considered to be irretrievably lost, are now thought to have been preserved in a clandestine vault.",
+        "thai": "เอกสารโบราณหลายฉบับ ซึ่งก่อนหน้านี้เคยถูกพิจารณาว่าสูญหายไปอย่างถาวรแล้ว ปัจจุบัน 'เป็นที่เชื่อกันว่า' 'ได้รับการเก็บรักษาไว้' ในห้องนิรภัยลับ\n- ประโยคนี้ซับซ้อนโดยมีสอง passive: 'previously considered to be...' และ 'are now thought to have been preserved...'\n- 'are now thought' (ปัจจุบันเป็นที่เชื่อกันว่า) แสดงความเชื่อในปัจจุบัน\n- 'to have been preserved' (ได้รับการเก็บรักษาไว้) เป็น Perfect Passive Infinitive (to have been + V3) แสดงว่าการเก็บรักษาเกิดขึ้นในอดีต 'ก่อน' ความเชื่อในปัจจุบัน"
+      }
+    ],
+    "common_mistakes": "- การเลือกใช้ Infinitive ผิด: ความผิดพลาดที่พบบ่อยที่สุดคือการใช้ Simple Infinitive (to do) แทน Perfect Infinitive (to have done) เมื่อพูดถึงเหตุการณ์ในอดีต เช่น พูดว่า *'The thief is believed to steal the diamond yesterday.'* ซึ่งผิดหลักเวลา ที่ถูกต้องคือ *'The thief is believed to have stolen the diamond yesterday.'* เพราะการขโมยเกิดก่อนการเชื่อ\n- สับสนระหว่างโครงสร้าง It...that และ Subject...to: พยายามเปลี่ยนประโยคแต่ทำไม่สมบูรณ์ เช่น *'He is said that he is a genius.'* ซึ่งผิด ต้องเลือกโครงสร้างใดโครงสร้างหนึ่ง คือ *'It is said that he is a genius.'* หรือ *'He is said to be a genius.'*\n- ใช้กริยาผิดรูป: ใช้รูป Active แทน Passive ใน reporting verb เช่น *'People are claimed that...'* ซึ่งผิดแกรมม่าร์ ต้องเป็น *'It is claimed that...'* หรือ *'[Someone/Something] is claimed to be...'\n- ลืม 'to be': ในกรณีที่ตามด้วยคำนามหรือ adjective มักจะลืม 'to be' เช่น *'He is considered the best.'* (แม้จะพอเข้าใจได้ แต่ในทางไวยากรณ์ที่ถูกต้องควรเป็น *'He is considered to be the best.'* หรือ *'He is considered the best.'* ซึ่งเป็นอีกรูปแบบหนึ่งที่ยอมรับได้ แต่การใช้ to be จะชัดเจนกว่า)",
+    "practice_questions": [
+      {
+        "question": "The recently unearthed fossil, initially thought to be a common dinosaur species, is now alleged ______ a previously unknown marine reptile.",
+        "options": [
+          "A. to be representing",
+          "B. to have been represented",
+          "C. to represent",
+          "D. having represented"
+        ],
+        "answer": "C",
+        "explanation": "คำตอบที่ถูกต้องคือ 'to represent' (Simple Infinitive). ในบริบทนี้ การ 'เป็นตัวแทน' (represent) ของสัตว์เลื้อยคลานสายพันธุ์ใหม่ เป็นสภาวะที่เกิดขึ้นในเวลาเดียวกับการกล่าวอ้าง (is alleged) ในปัจจุบัน เราจึงใช้ Simple Infinitive. ข้อ A 'to be representing' ไม่จำเป็นต้องใช้ continuous. ข้อ B 'to have been represented' จะหมายถึงการเป็นตัวแทนได้เกิดขึ้นและจบไปแล้วในอดีต ซึ่งไม่สมเหตุสมผลกับบริบทของฟอสซิล. ข้อ D เป็น gerund/participle ซึ่งไม่ใช่โครงสร้างที่ถูกต้องในประโยคนี้"
+      },
+      {
+        "question": "It ______ that the defunct corporation had been falsifying its financial reports for years before its eventual bankruptcy.",
+        "options": [
+          "A. has long been rumored",
+          "B. is long rumored",
+          "C. has long rumored",
+          "D. was long rumored that"
+        ],
+        "answer": "A",
+        "explanation": "คำตอบที่ถูกต้องคือ 'has long been rumored'. ประโยคนี้ใช้โครงสร้าง It + passive reporting verb + that-clause. การใช้ Present Perfect ('has been rumored') เหมาะสมที่สุด เพราะข่าวลือนั้นเกิดขึ้นในอดีตและยังคงเป็นที่กล่าวถึงมาจนถึงปัจจุบัน ('for years'). 'long' เป็น adverb ที่ใช้ขยาย. ข้อ B ผิด tense. ข้อ C เป็น Active voice ซึ่งผิดโครงสร้าง. ข้อ D มี 'that' ซ้ำซ้อน"
+      },
+      {
+        "question": "The exiled leader is widely purported ______ a vast fortune overseas before the coup d'état forced him from power.",
+        "options": [
+          "A. to be amassing",
+          "B. to have amassed",
+          "C. to amass",
+          "D. having amassed"
+        ],
+        "answer": "B",
+        "explanation": "คำตอบที่ถูกต้องคือ 'to have amassed' (Perfect Infinitive). การสะสมทรัพย์สมบัติ (amass a vast fortune) เป็นเหตุการณ์ที่เกิดขึ้นและเสร็จสิ้นในอดีต ('before the coup d'état') ซึ่งเกิดขึ้น 'ก่อน' การกล่าวอ้างในปัจจุบัน (is purported). ดังนั้นจึงต้องใช้ Perfect Infinitive เพื่อแสดงลำดับของเวลาที่ต่างกัน. ข้อ A และ C ผิดเรื่อง Tense relationship. ข้อ D ไม่ใช่โครงสร้าง infinitive ที่ถูกต้อง"
+      },
+      {
+        "question": "The experimental therapy ______ to have been showing promising results in preliminary trials, giving hope to millions of patients.",
+        "options": [
+          "A. is reporting",
+          "B. reported",
+          "C. is reported",
+          "D. has reported"
+        ],
+        "answer": "C",
+        "explanation": "คำตอบที่ถูกต้องคือ 'is reported'. ประโยคนี้ต้องการ reporting verb ในรูป Passive Voice ('is reported') เพื่อสร้างโครงสร้าง Impersonal Passive. ประโยคย่อย 'to have been showing promising results' เป็น Perfect Continuous Infinitive แสดงให้เห็นว่าการ 'แสดงผลลัพธ์' นั้นดำเนินมาอย่างต่อเนื่องในอดีต (preliminary trials) ก่อนหน้าเวลาที่รายงาน (is reported). ข้อ A, B, และ D เป็น Active Voice ทั้งหมด ซึ่งไม่ถูกต้องกับโครงสร้างนี้"
+      },
+      {
+        "question": "The ancient philosopher's lost texts, once believed ______, are now thought to be hidden within the Vatican's secret archives.",
+        "options": [
+          "A. to be destroying forever",
+          "B. to have been irretrievably destroyed",
+          "C. to have irretrievably destroyed",
+          "D. being destroyed irretrievably"
+        ],
+        "answer": "B",
+        "explanation": "คำตอบที่ถูกต้องคือ 'to have been irretrievably destroyed' (Perfect Passive Infinitive). 'once believed' บ่งชี้ถึงความเชื่อในอดีต และการทำลาย (destroy) ต้องเกิดขึ้น 'ก่อน' ความเชื่อนั้น. นอกจากนี้ 'texts' (ตำรา) ถูกทำลาย จึงต้องอยู่ในรูป passive. ดังนั้น Perfect Passive Infinitive จึงเป็นคำตอบเดียวที่ถูกต้องทั้งในแง่เวลาและ voice. ข้อ A ผิดโครงสร้าง passive. ข้อ C เป็น active. ข้อ D ไม่ใช่ infinitive"
+      },
+      {
+        "question": "It is generally acknowledged that the quantum entanglement phenomenon ______ fully understood, despite decades of intensive research.",
+        "options": [
+          "A. has yet to be",
+          "B. is yet to have been",
+          "C. yet to be",
+          "D. has not yet"
+        ],
+        "answer": "A",
+        "explanation": "คำตอบที่ถูกต้องคือ 'has yet to be'. โครงสร้าง 'has yet to be + V3' หรือ 'is yet to be + V3' หมายถึง 'ยังไม่ถูก...' ในที่นี้หมายถึง ปรากฏการณ์ดังกล่าวยังไม่ถูกทำความเข้าใจอย่างถ่องแท้. ประโยคนี้ใช้โครงสร้าง It...that clause. '...that the phenomenon has yet to be fully understood' เป็น clause ที่สมบูรณ์และถูกต้องตามหลักไวยากรณ์. ข้อ B, C, และ D สร้างประโยคที่ไม่สมบูรณ์หรือไม่ถูกต้องตามหลักไวยากรณ์"
+      },
+      {
+        "question": "The enigmatic CEO, who rarely appears in public, is said ______ in several clandestine philanthropic activities across the globe.",
+        "options": [
+          "A. to involve",
+          "B. to have been involving",
+          "C. to be involved",
+          "D. having been involved"
+        ],
+        "answer": "C",
+        "explanation": "คำตอบที่ถูกต้องคือ 'to be involved' (Simple Passive Infinitive). ในที่นี้ CEO 'ถูก' เกี่ยวข้องหรือ 'มีส่วน' ในกิจกรรมต่างๆ การมีส่วนร่วมนี้เกิดขึ้นในเวลาเดียวกับที่ถูกกล่าวถึง (is said). ดังนั้นจึงใช้ Simple Infinitive ในรูป Passive ('to be + V3'). ข้อ A เป็น active. ข้อ B Perfect Continuous ไม่จำเป็นและฟังดูไม่เป็นธรรมชาติ. ข้อ D ไม่ใช่โครงสร้าง infinitive ที่ถูกต้อง"
+      },
+      {
+        "question": "The indigenous tribe is understood ______ a complex astronomical system centuries before the advent of modern telescopes.",
+        "options": [
+          "A. to develop",
+          "B. developing",
+          "C. to have developed",
+          "D. to be developed"
+        ],
+        "answer": "C",
+        "explanation": "คำตอบที่ถูกต้องคือ 'to have developed' (Perfect Infinitive). การพัฒนาระบบดาราศาสตร์ (develop a complex astronomical system) เกิดขึ้นเมื่อหลายศตวรรษก่อน ('centuries before...') ซึ่งเป็นอดีตที่ไกลกว่าการรับรู้หรือเข้าใจในปัจจุบัน (is understood). ดังนั้น ต้องใช้ Perfect Infinitive เพื่อสะท้อนว่าเหตุการณ์ใน infinitive เกิดขึ้นก่อน reporting verb."
+      },
+      {
+        "question": "Which sentence correctly rephrases 'Everyone presumes that the negotiations have reached a stalemate.'?",
+        "options": [
+          "A. The negotiations are presumed to have reached a stalemate.",
+          "B. It is presumed that the negotiations are reaching a stalemate.",
+          "C. The negotiations, it is presumed, have reached a stalemate.",
+          "D. A stalemate is presumed to be reached by the negotiations."
+        ],
+        "answer": "A",
+        "explanation": "คำตอบที่ถูกต้องคือ A. 'The negotiations are presumed to have reached a stalemate.' ประโยคต้นฉบับใช้ 'have reached' (Present Perfect) แสดงการกระทำที่เพิ่งจบไป. เมื่อเปลี่ยนเป็นโครงสร้าง Subject + to-infinitive, Present Perfect นี้จะกลายเป็น Perfect Infinitive ('to have reached') เพื่อรักษาความหมายทางเวลาเดิม. ข้อ B เปลี่ยน Tense ของเหตุการณ์เป็น Present Continuous ซึ่งผิดความหมาย. ข้อ C แม้จะถูกไวยากรณ์แต่ไม่ใช่การ rephrase ด้วย Impersonal Passive โดยตรง. ข้อ D ใช้ passive voice ที่ไม่เป็นธรรมชาติและผิดโครงสร้าง"
+      },
+      {
+        "question": "The remnants of the ancient civilization were initially claimed ______ by a cataclysmic flood, but recent evidence suggests a prolonged drought was the actual cause.",
+        "options": [
+          "A. to be obliterated",
+          "B. having been obliterated",
+          "C. to have been obliterated",
+          "D. obliterating"
+        ],
+        "answer": "C",
+        "explanation": "คำตอบที่ถูกต้องคือ 'to have been obliterated' (Perfect Passive Infinitive). 'were initially claimed' เป็นการกล่าวอ้างในอดีต. การถูกทำลายล้าง (obliterate) ต้องเกิดขึ้น 'ก่อน' การกล่าวอ้างนั้น. นอกจากนี้ 'remnants' (ซาก) เป็นผู้ 'ถูก' กระทำ จึงต้องใช้รูป passive. Perfect Passive Infinitive จึงเป็นรูปที่ถูกต้องที่สุดเพื่อแสดงทั้งลำดับเวลา (Perfect) และ voice (Passive)."
+      }
+    ]
+  },
+  {
+    "id": "38_2",
+    "title": "38.2 Causative Form (Active: have/make/get someone to do)",
+    "explanation": "Causative Form ในรูปแบบ Active คือโครงสร้างไวยากรณ์ที่เราใช้เมื่อประธานของประโยคไม่ได้เป็นผู้กระทำกริยานั้นโดยตรง แต่เป็น 'ผู้สั่ง' 'ผู้บังคับ' หรือ 'ผู้โน้มน้าว' ให้คนอื่น (agent) เป็นคนทำแทน โครงสร้างนี้เน้นที่ 'ตัวกลาง' หรือ 'ผู้ถูกสั่ง' ที่เป็นผู้ลงมือทำจริงๆ ซึ่งต่างจาก Passive Causative (have/get something done) ที่เน้น 'สิ่งที่ถูกกระทำ'\n\nหัวใจสำคัญของ Active Causative คือการเลือกใช้คำว่า `have`, `make`, และ `get` ให้ถูกตามระดับของ 'อำนาจ' หรือ 'การโน้มน้าว' และตามด้วยรูปแบบ Verb ที่ถูกต้อง:\n\n1.  **HAVE someone DO something (Bare Infinitive)**\n    *   **ความหมาย:** ใช้เมื่อเรา 'มอบหมาย' 'สั่ง' หรือ 'จ้าง' ให้ใครทำอะไรให้ ซึ่งมักเกิดขึ้นในบริบทที่เป็นทางการ, เชิงธุรกิจ, หรือการบริการ มีนัยยะของอำนาจสั่งการ (authority) หรือการตกลงจ้างงาน (arrangement) ผู้พูดอยู่ในตำแหน่งที่สามารถคาดหวังได้ว่าอีกฝ่ายจะทำตาม\n    *   **โครงสร้าง:** S + have + Agent (คน) + Verb (ช่อง 1 ไม่ผัน / Bare Infinitive)\n    *   **แก่น:** ไม่ใช่การบังคับ แต่เป็นการสั่งการตามหน้าที่หรือข้อตกลง เช่น เจ้านายสั่งลูกน้อง, ลูกค้าจ้างช่าง\n\n2.  **MAKE someone DO something (Bare Infinitive)**\n    *   **ความหมาย:** ใช้เมื่อเรา 'บังคับ' (force) หรือ 'บีบคั้น' (compel) ให้ใครทำอะไรบางอย่าง โดยที่คนๆ นั้นอาจไม่มีทางเลือกหรือไม่เต็มใจที่จะทำ มักใช้กับสถานการณ์ที่เกี่ยวข้องกับอารมณ์, กฎระเบียบที่เคร่งครัด, หรืออำนาจที่เหนือกว่าอย่างเด็ดขาด\n    *   **โครงสร้าง:** S + make + Agent (คน) + Verb (ช่อง 1 ไม่ผัน / Bare Infinitive)\n    *   **แก่น:** การบังคับ, การบีบคั้น, ทำให้เกิดผลทางอารมณ์หรือการกระทำที่หลีกเลี่ยงไม่ได้\n\n3.  **GET someone TO DO something (To-Infinitive)**\n    *   **ความหมาย:** ใช้เมื่อเราต้อง 'โน้มน้าว' (persuade), 'ชักชวน' (convince), หรือ 'หว่านล้อม' (coax) ให้ใครทำอะไรให้ ซึ่งบ่งบอกว่าต้องใช้ความพยายามในการพูดคุยหรือจูงใจ ไม่ใช่การสั่งหรือบังคับตรงๆ\n    *   **โครงสร้าง:** S + get + Agent (คน) + to + Verb (ช่อง 1)\n    *   **แก่น:** การโน้มน้าว, การชักจูง, ต้องใช้ความพยายามเพื่อให้ได้ผลลัพธ์\n\n**ข้อควรจำระดับ C1-C2:**\n*   `Let someone do something`: อนุญาตให้ทำ\n*   `Help someone (to) do something`: ช่วยให้ทำ (ใช้ได้ทั้ง Bare Infinitive และ To-Infinitive โดยไม่มีความแตกต่างด้านความหมายที่สำคัญในภาษาอังกฤษแบบปัจจุบัน)\n*   ความแตกต่างที่สำคัญที่สุดคือโครงสร้าง Verb ที่ตามมา `have/make` + **Bare Infinitive** ในขณะที่ `get` + **To-Infinitive** นี่คือกฎเหล็กที่ต้องจำให้แม่น",
+    "examples": [
+      {
+        "eng": "The shrewd CEO had his entire board of directors reconsider the audacious acquisition proposal by presenting irrefutable market data.",
+        "thai": "CEO ผู้หลักแหลมได้ 'สั่งการให้' คณะกรรมการบริหารทั้งหมดของเขาทบทวนข้อเสนอการซื้อกิจการที่กล้าบ้าบิ่นนั้นใหม่ โดยการนำเสนอข้อมูลตลาดที่ไม่อาจโต้แย้งได้\n*   **วิเคราะห์:** ใช้ `had... reconsider` (Bare Infinitive) เพราะ CEO อยู่ในตำแหน่งที่มีอำนาจในการสั่งการ (authority) ให้คณะกรรมการ (agent) ทำการทบทวน (action) ไม่ใช่การบังคับขู่เข็ญ แต่เป็นการสั่งการในเชิงธุรกิจ"
+      },
+      {
+        "eng": "The harrowing testimony of the sole survivor made the jury question the defendant's previously convincing alibi.",
+        "thai": "คำให้การที่น่าสะเทือนใจของผู้รอดชีวิตเพียงคนเดียว 'ทำให้' คณะลูกขุนตั้งคำถามกับคำให้การแก้ต่างที่เคยน่าเชื่อถือของจำเลย\n*   **วิเคราะห์:** ใช้ `made the jury question` (Bare Infinitive) เพราะคำให้การนั้นมีพลังบีบคั้นทางอารมณ์ (compulsion) และ 'บังคับ' ให้คณะลูกขุนต้องคิดใหม่โดยไม่สามารถหลีกเลี่ยงความรู้สึกสงสัยนั้นได้"
+      },
+      {
+        "eng": "Through relentless lobbying and strategic negotiations, the environmental activist finally got the recalcitrant politician to endorse the new climate change bill.",
+        "thai": "ด้วยการวิ่งเต้นอย่างไม่ลดละและการเจรจาเชิงกลยุทธ์ ในที่สุดนักกิจกรรมด้านสิ่งแวดล้อมก็สามารถ 'โน้มน้าวให้' นักการเมืองผู้ดื้อรั้นคนนั้นรับรองร่างกฎหมายการเปลี่ยนแปลงสภาพภูมิอากาศฉบับใหม่ได้สำเร็จ\n*   **วิเคราะห์:** ใช้ `got the... politician to endorse` (To-Infinitive) เพราะบ่งบอกถึงความพยายามอย่างสูงในการ 'โน้มน้าว' และ 'ชักจูง' (persuasion) นักการเมืองที่ตอนแรกไม่เห็นด้วย ให้เปลี่ยนใจมาสนับสนุน"
+      }
+    ],
+    "common_mistakes": "1.  **สับสนรูปแบบ Verb:** ข้อผิดพลาดที่เจอบ่อยที่สุดคือการใช้ To-Infinitive กับ `have` และ `make` (ผิด: The manager *had him to submit* the report.) หรือใช้ Bare Infinitive กับ `get` (ผิด: She *got her friend lend* her the book.)\n    *   **จำให้ขึ้นใจ:** HAVE/MAKE + someone + DO. | GET + someone + TO DO.\n\n2.  **ใช้ 'make' พร่ำเพรื่อ:** คนไทยมักจะติดแปลคำว่า 'ทำให้' ตรงๆ เป็น `make` ในทุกสถานการณ์ เช่น 'ฉันทำให้ช่างซ่อมรถ' อาจจะแปลเป็น *I made the mechanic fix my car.* ซึ่งฟังดูเหมือนไปบังคับขู่เข็ญช่าง ทั้งที่จริงๆ แล้วเป็นแค่การจ้างวาน ควรใช้ `I had the mechanic fix my car.` หรือ `I got the mechanic to fix my car.` จะเป็นธรรมชาติกว่า\n\n3.  **ไม่เข้าใจความแตกต่างเชิงความหมาย (Nuance):** การเลือกระหว่าง `have` กับ `get` อาจจะดูสับสน `Have` สื่อถึงอำนาจหรือการจัดเตรียมที่เป็นทางการ ในขณะที่ `get` สื่อถึงการโน้มน้าวหรือความยากลำบากในการทำให้บางอย่างเกิดขึ้น เช่น `I had the IT guy install the software.` (เป็นหน้าที่ของเขา) เทียบกับ `I finally got my skeptical boss to approve the project.` (ต้องพยายามโน้มน้าวอยู่นาน)\n\n4.  **ลืมใส่ 'Agent' (ผู้กระทำ):** โครงสร้างนี้ต้องมี 'คน' ที่เป็นผู้ลงมือทำเสมอ `[Causative Verb] + [Agent] + [Action]` ถ้าไม่มี Agent ความหมายจะเปลี่ยนเป็น Passive Causative ทันที เช่น `I had my report checked.` (ฉันให้รายงานของฉันถูกตรวจ - ไม่ได้บอกว่าใครตรวจ)",
+    "practice_questions": [
+      {
+        "question": "Despite her formidable reputation, the lead negotiator couldn't ______ the obstinate foreign delegate to concede on the final point.",
+        "options": [
+          "A. make",
+          "B. have",
+          "C. get",
+          "D. let"
+        ],
+        "answer": "C",
+        "explanation": "คำตอบที่ถูกต้องคือ 'get' โครงสร้างที่ถูกต้องคือ `get someone to do something` (get the...delegate to concede) บริบทของประโยคชี้ให้เห็นถึงความพยายามในการโน้มน้าว (negotiator) ผู้แทนที่ดื้อรั้น (obstinate delegate) ซึ่งตรงกับความหมายของ 'get' ที่แปลว่าโน้มน้าวหรือชักจูง ข้อ A 'make' จะหมายถึงการบังคับ ซึ่งไม่เข้ากับบริบทการเจรจา ข้อ B 'have' จะหมายถึงการสั่ง ซึ่งผู้เจรจาไม่มีอำนาจสั่งผู้แทนอีกฝ่าย และต้องตามด้วย bare infinitive ข้อ D 'let' แปลว่าอนุญาต ซึ่งความหมายตรงกันข้าม"
+      },
+      {
+        "question": "The university chancellor will ______ an independent auditor ______ the institution's convoluted financial records before the end of the fiscal year.",
+        "options": [
+          "A. get / scrutinize",
+          "B. make / to scrutinize",
+          "C. have / scrutinize",
+          "D. get / to be scrutinized"
+        ],
+        "answer": "C",
+        "explanation": "คำตอบที่ถูกต้องคือ 'have / scrutinize' โครงสร้างที่ถูกต้องคือ `have someone do something` อธิการบดีมหาวิทยาลัย (chancellor) อยู่ในตำแหน่งที่มีอำนาจในการ 'มอบหมาย' หรือ 'จัดจ้าง' (authority/arrangement) ผู้ตรวจสอบบัญชีอิสระ (auditor) ให้มาตรวจสอบ (scrutinize) บันทึกทางการเงิน ดังนั้นการใช้ `have` จึงเหมาะสมที่สุด และต้องตามด้วย Bare Infinitive (`scrutinize`) ข้อ A ผิดเพราะ 'get' ต้องคู่กับ 'to scrutinize' ข้อ B ผิดเพราะ 'make' ต้องคู่กับ 'scrutinize' ไม่ใช่ 'to scrutinize' ข้อ D เป็นโครงสร้าง passive ที่ไม่ถูกต้องในบริบทนี้"
+      },
+      {
+        "question": "The sheer force of the protagonist's emotional monologue ______ even the most cynical critics ______ the film's profound message.",
+        "options": [
+          "A. had / to appreciate",
+          "B. got / appreciate",
+          "C. made / appreciate",
+          "D. let / to appreciate"
+        ],
+        "answer": "C",
+        "explanation": "คำตอบที่ถูกต้องคือ 'made / appreciate' โครงสร้างคือ `make someone do something` บริบทของประโยค 'sheer force of the...monologue' (พลังของบทพูดคนเดียว) บ่งบอกถึงการ 'บีบคั้น' หรือ 'บังคับ' ทางอารมณ์ (compel) ให้นักวิจารณ์ที่มองโลกในแง่ร้ายที่สุด (most cynical critics) ต้องซาบซึ้ง (appreciate) ในสาระของหนัง การใช้ `made` จึงเหมาะสมที่สุดและต้องตามด้วย Bare Infinitive (`appreciate`)"
+      },
+      {
+        "question": "It took weeks of meticulous persuasion, but the project manager finally ______ the risk-averse stakeholders ______ the unconventional but promising strategy.",
+        "options": [
+          "A. had / to approve",
+          "B. made / approve",
+          "C. got / to approve",
+          "D. let / approve"
+        ],
+        "answer": "C",
+        "explanation": "คำตอบที่ถูกต้องคือ 'got / to approve' โครงสร้างคือ `get someone to do something` คำว่า 'weeks of meticulous persuasion' (การโน้มน้าวอย่างพิถีพิถันเป็นเวลาหลายสัปดาห์) เป็นตัวบ่งชี้ที่ชัดเจนว่าต้องใช้ความพยายามในการชักจูง ซึ่งตรงกับความหมายของ `get` และต้องตามด้วย To-Infinitive (`to approve`) เสมอ"
+      },
+      {
+        "question": "The new regulations are so stringent that they will ______ all corporations operating in the region ______ their carbon emissions data publicly.",
+        "options": [
+          "A. have / disclose",
+          "B. get / to disclose",
+          "C. make / disclose",
+          "D. have / to disclose"
+        ],
+        "answer": "C",
+        "explanation": "คำตอบที่ถูกต้องคือ 'make / disclose' ในบริบทนี้ 'regulations' (กฎระเบียบ) ทำหน้าที่เป็นสิ่งที่ 'บังคับ' (force/compel) ให้บริษัทต่างๆ ต้องเปิดเผยข้อมูล การใช้ `make` จึงเหมาะสมที่สุดเพื่อสื่อถึงการบังคับที่ไม่มีทางเลือก และต้องตามด้วย Bare Infinitive (`disclose`) แม้ว่า 'have' จะใช้ได้ในบางกรณี แต่ 'make' สื่อถึงความเข้มงวดและไม่มีข้อยกเว้นของกฎหมายได้ดีกว่า"
+      },
+      {
+        "question": "As the team lead, I can't just dictate terms; I need to ______ my senior developers ______ on the new architectural design.",
+        "options": [
+          "A. make / buying in",
+          "B. have / to buy in",
+          "C. get / to buy in",
+          "D. get / buy in"
+        ],
+        "answer": "C",
+        "explanation": "คำตอบที่ถูกต้องคือ 'get / to buy in' โครงสร้างที่ถูกต้องคือ `get someone to do something` สำนวน 'buy in' หมายถึงการยอมรับและสนับสนุนแนวคิด บริบท 'I can't just dictate terms' (ฉันไม่สามารถแค่สั่งการได้) บอกเราว่าผู้พูดต้องใช้การ 'โน้มน้าว' ไม่ใช่การสั่งหรือบังคับ ดังนั้น `get` จึงเป็นตัวเลือกที่ดีที่สุด และต้องตามด้วย To-Infinitive (`to buy in`)"
+      },
+      {
+        "question": "The defense attorney's brilliant cross-examination ______ the key witness ______ his previous statement on the stand.",
+        "options": [
+          "A. made / to contradict",
+          "B. had / contradict",
+          "C. got / contradict",
+          "D. made / contradict"
+        ],
+        "answer": "D",
+        "explanation": "คำตอบที่ถูกต้องคือ 'made / contradict' โครงสร้างคือ `make someone do something` การซักค้านที่ยอดเยี่ยมของทนายฝ่ายจำเลย (brilliant cross-examination) ได้สร้างสถานการณ์ที่ 'บีบคั้น' หรือ 'บังคับ' ให้พยานปากสำคัญ (key witness) ต้องพูดขัดแย้ง (contradict) กับคำให้การก่อนหน้านี้ของตัวเอง `Made` สื่อถึงผลลัพธ์ที่หลีกเลี่ยงไม่ได้จากการกระทำนั้นๆ และต้องตามด้วย Bare Infinitive (`contradict`)"
+      },
+      {
+        "question": "We need to ______ a specialist ______ the system's vulnerabilities before launching the product to the public.",
+        "options": [
+          "A. get / assess",
+          "B. have / assess",
+          "C. make / to assess",
+          "D. have / assessing"
+        ],
+        "answer": "B",
+        "explanation": "คำตอบที่ถูกต้องคือ 'have / assess' โครงสร้างคือ `have someone do something` บริบทนี้คือการ 'จ้างวาน' หรือ 'มอบหมาย' (arrange/instruct) ให้ผู้เชี่ยวชาญ (a specialist) มาประเมิน (assess) ช่องโหว่ ซึ่งเป็นการดำเนินการในเชิงอาชีพหรือการบริการ การใช้ `have` จึงเหมาะสมที่สุด และต้องตามด้วย Bare Infinitive (`assess`)"
+      },
+      {
+        "question": "The government's new incentive program is designed to ______ reluctant homeowners ______ energy-efficient appliances.",
+        "options": [
+          "A. make / install",
+          "B. have / install",
+          "C. get / to install",
+          "D. let / to install"
+        ],
+        "answer": "C",
+        "explanation": "คำตอบที่ถูกต้องคือ 'get / to install' โครงสร้างคือ `get someone to do something` โครงการจูงใจ (incentive program) มีวัตถุประสงค์เพื่อ 'โน้มน้าว' หรือ 'ชักจูง' (persuade) เจ้าของบ้านที่ลังเล (reluctant homeowners) ให้ติดตั้งเครื่องใช้ไฟฟ้าที่ประหยัดพลังงาน การใช้ `get` เหมาะสมที่สุดในบริบทของการจูงใจ และต้องตามด้วย To-Infinitive (`to install`)"
+      },
+      {
+        "question": "Nothing could ______ the stoic old man ______ his ancestral land, not even the lucrative offer from the multinational corporation.",
+        "options": [
+          "A. make / abandon",
+          "B. get / to abandon",
+          "C. have / abandon",
+          "D. force / abandon"
+        ],
+        "answer": "A",
+        "explanation": "คำตอบที่ถูกต้องคือ 'make / abandon' โครงสร้างคือ `make someone do something` ประโยคนี้มีโครงสร้างเชิงปฏิเสธ (Nothing could...) เพื่อเน้นว่าไม่มีอะไรสามารถ 'บังคับ' (force/compel) ชายชราผู้ทระนงให้ละทิ้ง (abandon) ที่ดินของบรรพบุรุษได้ การใช้ `make` สื่อถึงการบังคับหรือบีบคั้นได้ดีที่สุด และตามด้วย Bare Infinitive (`abandon`) แม้ข้อ D `force` จะมีความหมายคล้ายกัน แต่โครงสร้างจะต้องเป็น `force someone to do something` ดังนั้น `force / abandon` จึงผิดไวยากรณ์"
+      }
+    ]
+  },
+  {
+    "id": "38_3",
+    "title": "38.3 Causative Form (Passive: have/get something done)",
+    "explanation": "โครงสร้าง Causative ในรูปแบบ Passive (have/get something done) เป็นหัวใจสำคัญของภาษาอังกฤษระดับสูงที่ใช้แสดงว่าประธานของประโยคไม่ได้เป็นผู้กระทำกริยานั้นโดยตรง แต่ 'จัดแจง' หรือ 'จ้างวาน' ให้คนอื่นทำ หรือในอีกแง่หนึ่งคือ 'ประสบ' กับเหตุการณ์บางอย่างที่เกิดขึ้นกับตนเองหรือทรัพย์สินของตน\n\n**แก่นของโครงสร้าง: Subject + have/get + Object + Past Participle (V3)**\n\nในระดับ C1-C2 เราจะเจาะลึกไปกว่าแค่ 'จ้างคนอื่นทำ'\n\n**1. ความแตกต่างระหว่าง 'have' และ 'get'**\n*   **have something done:** เป็นกลางและเป็นทางการมากกว่า มักใช้กับบริการที่เป็นมืออาชีพหรือเป็นเรื่องปกติทั่วไป เน้นที่ 'ผลลัพธ์' ของการกระทำ\n    *   ตัวอย่าง: `The corporation has its annual financial reports audited by a Big Four firm.` (เป็นกระบวนการมาตรฐาน ไม่ได้เน้นความพยายาม)\n*   **get something done:** ไม่เป็นทางการเท่า 'have' และมักจะแฝงนัยยะของ 'ความพยายาม' 'การโน้มน้าว' หรือ 'การเอาชนะอุปสรรค' บางอย่างเพื่อทำให้สิ่งนั้นสำเร็จ เน้นที่ 'กระบวนการ' หรือความยากลำบาก\n    *   ตัวอย่าง: `After months of lobbying, the activist group finally got the controversial bill repealed.` (สื่อถึงความพยายามและการต่อสู้)\n\n**2. การใช้ใน Tenses และ Aspects ที่ซับซ้อน**\nโครงสร้างนี้สามารถประยุกต์ใช้ได้กับทุก Tense ซึ่งเป็นจุดที่แสดงความเชี่ยวชาญทางภาษา:\n*   **Present Perfect:** `I've just had my research paper peer-reviewed.` (เพิ่งให้ผู้ทรงคุณวุฒิประเมินบทความวิจัยเสร็จ)\n*   **Past Perfect:** `By the time the investigators arrived, the CEO had already had all incriminating documents shredded.` (ก่อนที่ผู้ตรวจสอบจะมาถึง CEO ก็สั่งทำลายเอกสารไปแล้ว)\n*   **Future Perfect:** `By 2025, we will have had our entire infrastructure upgraded to quantum computing.` (ภายในปี 2025 เราจะอัปเกรดโครงสร้างพื้นฐานเสร็จเรียบร้อย)\n*   **Modals:** `You must get that security vulnerability patched immediately.` (คุณต้องรีบจัดการอุดช่องโหว่ความปลอดภัยนั้นทันที)\n*   **Modal Perfect:** `He should have had his legal counsel present during the interrogation.` (เขาควรจะให้ที่ปรึกษาทางกฎหมายของเขาอยู่ด้วยระหว่างการสอบสวน - แสดงความเสียดายหรือคำแนะนำในอดีต)\n\n**3. ความหมายเชิง 'ประสบเหตุ' (Experiential Meaning)**\nนี่คือมิติที่ลึกซึ้งที่สุดและมักพบในระดับสูง โครงสร้างนี้ไม่ได้แปลว่า 'จัดแจง' เสมอไป แต่สามารถหมายถึงการที่ประธาน 'ประสบ' กับเหตุการณ์บางอย่าง (โดยเฉพาะเรื่องร้าย) โดยที่ตนเองไม่ได้เป็นคนทำและไม่ได้ต้องการให้เกิด\n*   `The dissident had his passport confiscated by the authorities.` (นักเคลื่อนไหว 'โดน' ยึดพาสปอร์ต ไม่ได้ 'จ้าง' คนมายึด)\n*   `She had her groundbreaking research stolen and published by her former mentor.` (เธอ 'โดน' ขโมยงานวิจัย ไม่ได้ 'จัดแจง' ให้ขโมย)\nในบริบทนี้ ประธานคือผู้รับผลกระทบ (victim/recipient) ของการกระทำ\n\n**4. Causative รูปแบบอื่นๆ (want, need, would like)**\n*   `I want this contract reviewed by the legal department before I sign.` (ใช้ want + object + V3 เพื่อแสดงคำสั่งหรือความต้องการที่หนักแน่น)\n*   `You need your assumptions challenged.` (คุณจำเป็นต้องให้คนอื่นมาท้าทายสมมติฐานของคุณ - เป็นการแนะนำที่ค่อนข้างแรง)\n*   `We would like the catering arranged by your team.` (เป็นการร้องขอที่สุภาพมาก)",
+    "examples": [
+      {
+        "eng": "The political candidate, facing immense scrutiny, had his entire digital footprint meticulously scrubbed from the internet to preempt any potential scandals.",
+        "thai": "ผู้สมัครรับเลือกตั้งทางการเมือง ซึ่งกำลังเผชิญกับการตรวจสอบอย่างหนัก ได้ให้คนจัดการลบร่องรอยทางดิจิทัลทั้งหมดของเขาออกจากอินเทอร์เน็ตอย่างพิถีพิถัน เพื่อป้องกันเรื่องอื้อฉาวที่อาจเกิดขึ้นล่วงหน้า (โครงสร้าง: S + had + O [his entire digital footprint] + V3 [scrubbed])"
+      },
+      {
+        "eng": "Despite formidable opposition from the incumbent monopolies, the tech startup managed to get their revolutionary new energy source officially patented and recognized.",
+        "thai": "แม้จะมีการต่อต้านอย่างรุนแรงจากบริษัทผูกขาดเจ้าเดิม สตาร์ทอัพด้านเทคโนโลยีรายนี้ก็สามารถทำให้แหล่งพลังงานใหม่ที่ปฏิวัติวงการของพวกเขาได้รับการจดสิทธิบัตรและยอมรับอย่างเป็นทางการได้สำเร็จ (ใช้ 'get' เพื่อเน้นความพยายามและการเอาชนะอุปสรรค)"
+      },
+      {
+        "eng": "The journalist had her credentials revoked and was declared persona non grata after publishing the exposé on governmental corruption.",
+        "thai": "นักข่าวคนนั้น 'โดน' เพิกถอนใบอนุญาตและถูกประกาศให้เป็นบุคคลไม่พึงประสงค์ หลังจากตีพิมพ์บทความเปิดโปงการทุจริตของรัฐบาล (นี่คือความหมายเชิง 'ประสบเหตุ' เธอไม่ได้ต้องการให้สิ่งนี้เกิดขึ้นกับเธอ)"
+      },
+      {
+        "eng": "To secure the final round of funding, the board insisted that the company must have its convoluted corporate structure completely reorganized.",
+        "thai": "เพื่อให้ได้เงินทุนรอบสุดท้าย คณะกรรมการบริหารยืนกรานว่าบริษัทจะต้องจัดโครงสร้างองค์กรที่ซับซ้อนยุ่งเหยิงให้เสร็จสิ้นโดยสมบูรณ์ (การใช้ Modal 'must' เพื่อเน้นความจำเป็นเร่งด่วน)"
+      }
+    ],
+    "common_mistakes": "- **สับสนระหว่าง Active และ Passive Causative:** คนไทยมักสับสนระหว่าง 'have someone do something' (Active) กับ 'have something done' (Passive) เช่น พูดว่า `I had my car fixed by the mechanic.` (Passive - ถูกต้อง) แต่บางครั้งอาจจะสร้างประโยคผิดๆ เช่น *`I had my car fix by the mechanic.`* โดยใช้ V1 แทน V3\n- **ใช้ V3 ไม่ถูกต้อง:** ในประโยคที่ซับซ้อนมากๆ ผู้เรียนอาจลืมผันกริยาเป็น Past Participle (V3) เช่น *`We are having our entire network upgrade`* แทนที่จะเป็น `...upgraded`.\n- **เข้าใจผิดในความหมาย 'ประสบเหตุ':** การเห็นประโยค `He had his leg broken.` อาจทำให้เข้าใจผิดว่าเขา 'จ้าง' คนมาหักขาตัวเอง ซึ่งจริงๆ แล้วแปลว่า 'ขาของเขาหัก' (จากอุบัติเหตุหรือโดนกระทำ) ต้องดูบริบทเพื่อแยกแยะระหว่างความตั้งใจกับการประสบเหตุ\n- **ใช้ 'get' ในบริบทที่เป็นทางการเกินไป:** แม้ 'get' จะใช้ได้ แต่ในเอกสารทางวิชาการหรือการสื่อสารทางธุรกิจที่ต้องการความเป็นทางการสูง 'have' มักเป็นตัวเลือกที่เหมาะสมกว่า การใช้ `We got the report finalized.` อาจฟังดูเป็นกันเองเกินไปเมื่อเทียบกับ `We had the report finalized.`",
+    "practice_questions": [
+      {
+        "question": "The embattled corporation, reeling from a data breach, announced that it will have its cybersecurity infrastructure ______ by an external, independent auditor.",
+        "options": [
+          "A. completely overhauling",
+          "B. completely overhaul",
+          "C. completely overhauled",
+          "D. to completely overhaul"
+        ],
+        "answer": "C",
+        "explanation": "โครงสร้างคือ 'have + object + V3' ในที่นี้ object คือ 'its cybersecurity infrastructure' ดังนั้นกริยาที่ตามมาต้องเป็น Past Participle (V3) คือ 'overhauled' ที่แปลว่า 'ปรับปรุงครั้งใหญ่' ข้อ A เป็น V-ing, B เป็น V1, และ D เป็น to-infinitive ซึ่งผิดไวยากรณ์ทั้งหมด"
+      },
+      {
+        "question": "It took her years of persistent negotiation, but the heiress finally ______ the priceless family heirloom, which had been illicitly sold, returned to her possession.",
+        "options": [
+          "A. got",
+          "B. had",
+          "C. made",
+          "D. wanted"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคเน้นถึง 'years of persistent negotiation' (การเจรจาต่อรองอย่างไม่ลดละนานหลายปี) ซึ่งบ่งบอกถึงความพยายามและอุปสรรคอย่างชัดเจน ดังนั้น 'got' จึงเป็นตัวเลือกที่เหมาะสมที่สุดในการสื่อความหมายนี้ 'Had' ก็ถูกไวยากรณ์แต่ไม่สามารถสื่อถึงความพยายามได้ดีเท่า 'got'"
+      },
+      {
+        "question": "The dissident author was dismayed to find that he had ______ by the state's intelligence agency for years.",
+        "options": [
+          "A. his communications covertly monitored",
+          "B. to monitor his communications covertly",
+          "C. covertly monitored his communications",
+          "D. his communications covertly monitor"
+        ],
+        "answer": "A",
+        "explanation": "นี่คือตัวอย่างของความหมายเชิง 'ประสบเหตุ' (Experiential Meaning) คือเขา 'โดน' สอดแนมการสื่อสาร โครงสร้างที่ถูกต้องคือ 'had + object (his communications) + adverb (covertly) + V3 (monitored)' ข้อ C จะหมายความว่าเขาเป็นคนสอดแนมเอง ซึ่งผิดความหมาย ข้อ B และ D ผิดโครงสร้างไวยากรณ์"
+      },
+      {
+        "question": "Before the merger can be finalized, the regulatory body requires that both companies ______ all their assets independently appraised.",
+        "options": [
+          "A. to have",
+          "B. having",
+          "C. must having",
+          "D. have"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคนี้ใช้โครงสร้าง Subjunctive Mood หลังคำว่า 'requires that...' โครงสร้างคือ S + require that + S + base form of verb. ในที่นี้ Base form of verb คือ 'have' ดังนั้น `...both companies have all their assets... appraised.` จึงถูกต้อง"
+      },
+      {
+        "question": "If he hadn't been so complacent, he might not ______ his entire investment portfolio wiped out during the unprecedented market crash.",
+        "options": [
+          "A. have had",
+          "B. have",
+          "C. has had",
+          "D. had have"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้เป็น Third Conditional (If + past perfect, ... would/might/could + have + V3) ผสมกับ Causative Form ส่วนที่สองของประโยคต้องใช้ 'might + have + had' โดย 'have' ตัวแรกเป็นส่วนหนึ่งของ Modal Perfect และ 'had' ตัวที่สองเป็น Causative verb โครงสร้างเต็มๆ คือ 'might not have had his entire investment portfolio wiped out...'"
+      },
+      {
+        "question": "The museum is planning on ______ its entire collection digitized to preserve it for posterity.",
+        "options": [
+          "A. have",
+          "B. having",
+          "C. had",
+          "D. to have"
+        ],
+        "answer": "B",
+        "explanation": "หลัง preposition 'on' (ใน 'planning on') เราต้องใช้ Gerund (V-ing) ดังนั้น 'having' จึงเป็นคำตอบที่ถูกต้อง โครงสร้างคือ 'planning on + having + object + V3'"
+      },
+      {
+        "question": "The maverick scientist, ostracized by the mainstream community, had to ______ his groundbreaking research self-published due to constant rejection from academic journals.",
+        "options": [
+          "A. make",
+          "B. get",
+          "C. force",
+          "D. have"
+        ],
+        "answer": "B",
+        "explanation": "บริบท ('ostracized', 'constant rejection') ชี้ให้เห็นถึงความยากลำบากและการต้องดิ้นรนเพื่อตีพิมพ์ผลงาน ดังนั้น 'get' จึงเหมาะสมที่สุดในการสื่อว่าเขาต้องใช้ความพยายามอย่างมากเพื่อให้งานวิจัยได้ตีพิมพ์ แม้ 'have' จะถูกไวยากรณ์ แต่ไม่สามารถเก็บรายละเอียดความหมายเชิงความพยายามนี้ได้"
+      },
+      {
+        "question": "By the end of the fiscal year, we expect to ______ the new automated logistics system fully implemented across all warehouses.",
+        "options": [
+          "A. had",
+          "B. have had",
+          "C. be having",
+          "D. have"
+        ],
+        "answer": "D",
+        "explanation": "หลัง 'expect to...' เราใช้ Base form of verb ซึ่งคือ 'have' โครงสร้างคือ 'expect to have something done' เพื่อพูดถึงความคาดหวังในอนาคต 'Have had' (Future Perfect) จะใช้ในโครงสร้างเช่น 'By the end of the year, we will have had the system implemented.' แต่ในที่นี้ตามหลัง 'expect to' จึงใช้ 'have'"
+      },
+      {
+        "question": "The celebrity ______ her publicist issue a statement immediately after the scandalous photos were leaked.",
+        "options": [
+          "A. got",
+          "B. made",
+          "C. had",
+          "D. was having"
+        ],
+        "answer": "C",
+        "explanation": "ข้อนี้ทดสอบความแตกต่างระหว่าง Active และ Passive Causative สังเกตว่าหลัง object 'her publicist' (ผู้กระทำ) เป็น Base form of verb 'issue' ไม่ใช่ V3 ดังนั้นนี่คือ Active Causative โครงสร้างคือ 'have + someone + do something' ส่วน 'got' จะต้องตามด้วย 'to issue', และ 'made' ก็ตามด้วย 'issue' ได้แต่จะมีความหมายบังคับมากกว่า 'had' จึงเป็นตัวเลือกที่เป็นธรรมชาติที่สุด"
+      },
+      {
+        "question": "The city council's new mandate is that all historical buildings must ______ with retrofitted earthquake-resistant technology by 2030.",
+        "options": [
+          "A. have been equipped",
+          "B. be equipped",
+          "C. get equipped",
+          "D. have equipped"
+        ],
+        "answer": "B",
+        "explanation": "นี่คือโครงสร้าง Passive Voice ธรรมดา ไม่ใช่ Causative Form แม้จะดูคล้ายกัน คำถามต้องการทดสอบว่าผู้เรียนแยกแยะออกหรือไม่ โครงสร้างคือ 'must + be + V3' (must be equipped) ซึ่งแปลว่า 'จะต้องถูกติดตั้ง' `must have... equipped` จะหมายถึงเจ้าของตึกต้องไป 'จัดแจงให้คนมาติดตั้ง' ซึ่งก็เป็นไปได้ แต่ 'must be equipped' เป็นการออกคำสั่งโดยตรงและเป็นธรรมชาติกว่าในบริบทของกฎหมายหรือข้อบังคับ"
+      }
+    ]
+  },
+  {
+    "id": "38_4",
+    "title": "38.4 Summary: Advanced Passive (สรุป Passive ขั้นสูง + 50 Exercises)",
+    "explanation": "ยินดีต้อนรับสู่บทสรุปรวบยอดของ Advanced Passive Voice ครับ ในระดับ C1-C2 นี้ เราจะไม่ได้มอง Passive Voice แค่ในฐานะการสลับประธานกับกรรมอีกต่อไป แต่จะมองในฐานะเครื่องมือทางภาษาที่ทรงพลังในการสื่อสารที่ซับซ้อน สร้างความเป็นกลาง และเน้นย้ำข้อมูลที่ต้องการ\n\n**ภาพรวมโครงสร้าง Passive ขั้นสูง:**\n\n1.  **Impersonal Passive (Passive ที่ไม่มีตัวบุคคลเป็นประธาน):** ใช้ในการรายงานความคิด ความเชื่อ ข่าวลือ หรือข้อเท็จจริงทั่วไปโดยไม่ระบุแหล่งที่มา ทำให้ข้อความดูเป็นกลางและเป็นทางการ มี 2 โครงสร้างหลัก:\n    *   `It + passive reporting verb + that-clause`: โครงสร้างนี้ตรงไปตรงมา เช่น `It is believed that...`, `It has been reported that...`\n    *   `Subject + passive reporting verb + to-infinitive`: โครงสร้างนี้ซับซ้อนกว่าและเป็นที่นิยมในภาษาเขียนระดับสูง ใช้เมื่อต้องการยกประธานของ that-clause ขึ้นมาเป็นประธานหลักของประโยค เช่น `The suspect is believed to have fled the country.` (จาก `It is believed that the suspect has fled the country.`)\n        *   **สิ่งสำคัญคือรูปของ to-infinitive:**\n            *   `to be + V-ing` (Continuous): แสดงการกระทำที่กำลังดำเนินอยู่ ณ เวลาที่พูดถึง (`He is thought to be living in Spain.`)\n            *   `to + V1` (Simple): แสดงการกระทำที่เป็นปกติ เป็นจริง หรือเกิดขึ้นพร้อมกับ reporting verb (`The policy is considered to be effective.`)\n            *   `to have + V3` (Perfect): แสดงการกระทำที่เกิดขึ้น *ก่อน* reporting verb (`The ruins are said to have been discovered centuries ago.`)\n\n2.  **Passive with 'get' (`get`-passive):** ใช้แทน `be`-passive ในสถานการณ์ที่ไม่เป็นทางการ (informal) หรือเพื่อเน้นย้ำถึง:\n    *   เหตุการณ์ไม่คาดฝัน อุบัติเหตุ หรือเรื่องร้ายๆ (`My car got stolen.`, `He got hurt in the accident.`)\n    *   การกระทำที่ผู้รับการกระทำมีส่วนรับผิดชอบหรือเป็นต้นเหตุ (`He got caught cheating.`)\n    *   การบรรลุผลสำเร็จบางอย่าง (`She finally got promoted.`)\n\n3.  **Passive Infinitives & Gerunds:**\n    *   **Passive Infinitive (`to be + V3`):** ใช้ตามหลัง modal verbs (`This must be done.`), verbs ที่ตามด้วย infinitive (`She expects to be told the truth.`), และโครงสร้างอย่าง `there is work to be done`.\n    *   **Passive Gerund (`being + V3`):** ใช้ตามหลัง prepositions (`He left without being seen.`) และ verbs ที่ตามด้วย gerund (`I remember being taught how to swim.`)\n\n4.  **Causative Form (have/get something done):** แม้จะเป็นโครงสร้าง Causative แต่ก็มีความเป็น Passive อยู่ในตัว คือประธานไม่ได้ทำกริยานั้นเอง แต่เป็นผู้ `จัดแจงให้สิ่งนั้นถูกทำ` โดยคนอื่น ใช้เมื่อต้องการเน้นที่ผลลัพธ์ ไม่ใช่ผู้กระทำ (`I had my hair cut.`, `We are getting the house painted.`)\n\n5.  **Passive with Double Object Verbs:** กริยาที่มิกรรม 2 ตัว (เช่น `give`, `send`, `offer`, `tell`) สามารถสร้างประโยค Passive ได้ 2 แบบ โดยทั่วไปนิยมนำ Indirect Object (ผู้รับ) มาเป็นประธานมากกว่า\n    *   `He was given a prize.` (นิยมกว่า)\n    *   `A prize was given to him.` (เป็นทางการกว่า หรือเมื่อต้องการเน้นที่ตัวรางวัล)",
+    "examples": [
+      {
+        "eng": "The CEO is reputed to have amassed his fortune through a series of clandestine, albeit audacious, corporate takeovers in the early nineties.",
+        "thai": "CEO ผู้นี้มีชื่อเสียง (ในทางลือกัน) ว่าได้สั่งสมความมั่งคั่งของเขามาจากการเข้าซื้อกิจการของบริษัทต่างๆ อย่างลับๆ แม้จะดูบ้าระห่ำ ในช่วงต้นทศวรรษที่ 90\n**วิเคราะห์โครงสร้าง:** นี่คือตัวอย่างของ Impersonal Passive (`is reputed`) ตามด้วย Perfect Infinitive (`to have amassed`). การใช้ `to have amassed` ชี้ให้เห็นว่าการสั่งสมความมั่งคั่ง (amassed) เกิดขึ้นในอดีต (in the early nineties) ซึ่งเป็นเวลาก่อนหน้าการพูดถึงชื่อเสียงของเขาในปัจจุบัน (`is reputed`)."
+      },
+      {
+        "eng": "Despite having been meticulously vetted by three separate committees, the candidate's controversial past was eventually brought to light by an investigative journalist.",
+        "thai": "แม้ว่าจะถูกตรวจสอบอย่างพิถีพิถันโดยคณะกรรมการถึงสามชุดแยกกัน แต่อดีตที่เต็มไปด้วยข้อถกเถียงของผู้สมัครคนนั้นก็ถูกเปิดโปงในท้ายที่สุดโดยนักข่าวสายสืบสวน\n**วิเคราะห์โครงสร้าง:** ประโยคนี้ใช้ Perfect Passive Gerund (`having been meticulously vetted`). `having been + V3` ใช้เพื่อเน้นว่าการตรวจสอบ (vetting) เกิดขึ้นและเสร็จสิ้นลงก่อนการกระทำหลักของประโยค (was brought to light). เป็นโครงสร้างที่ซับซ้อนและเป็นทางการมาก"
+      },
+      {
+        "eng": "The fugitive dreaded being recognized from the ubiquitous surveillance footage that was being broadcast on every national news channel.",
+        "thai": "ผู้หลบหนีกลัวการที่จะถูกจดจำได้จากภาพวงจรปิดที่มีอยู่ทุกหนทุกแห่งซึ่งกำลังถูกถ่ายทอดออกอากาศในทุกช่องข่าวระดับประเทศ\n**วิเคราะห์โครงสร้าง:** นี่คือการใช้ Passive Gerund (`being recognized`) ตามหลังกริยา `dread`. ผู้หลบหนีไม่ได้เป็นผู้ `recognize` แต่เป็นผู้ที่ `ถูก recognize` การใช้ Gerund ทำให้ประโยคมีความลื่นไหลกว่าการใช้โครงสร้างอื่น"
+      }
+    ],
+    "common_mistakes": "**1. สับสนระหว่าง Simple Infinitive และ Perfect Infinitive ใน Impersonal Passive:**\n*   ผิด: `The Roman Empire is said to collapse in the 5th century.` (Collapse เกิดในอดีต แต่ is said เป็นปัจจุบัน)\n*   ถูก: `The Roman Empire is said to have collapsed in the 5th century.` (ใช้ to have collapsed เพื่อบอกว่าเหตุการณ์เกิดก่อน is said)\n\n**2. ใช้ Passive Gerund/Infinitive ไม่ถูกต้อง:**\n*   ผิด: `He avoids to be seen in public.` (Avoid ตามด้วย gerund)\n*   ถูก: `He avoids being seen in public.`\n*   ผิด: `I want promoting.` (Want ตามด้วย infinitive)\n*   ถูก: `I want to be promoted.`\n\n**3. ใช้ `get`-passive ในบริบทที่เป็นทางการเกินไป:**\n*   ไม่เหมาะ: `The treaty got signed by both nations this morning.` (ในข่าวที่เป็นทางการ ควรใช้ be-passive)\n*   เหมาะกว่า: `The treaty was signed by both nations this morning.`\n\n**4. ลืม 'to be' ในโครงสร้าง Passive Infinitive:**\n*   ผิด: `There are many problems that need solved.`\n*   ถูก: `There are many problems that need to be solved.`\n\n**5. สับสนระหว่าง 'have something done' (Causative) กับ 'have done something' (Present Perfect):**\n*   ผิด: `I have done my car repaired.` (แปลว่า ฉันซ่อมรถเสร็จแล้ว ซึ่งอาจหมายถึงทำเอง)\n*   ถูก: `I have had my car repaired.` (ฉันเอารถไปให้คนอื่นซ่อม)",
+    "practice_questions": [
+      {
+        "question": "The dissident author is alleged ________ refuge in a neighboring country after the publication of his controversial novel.",
+        "options": [
+          "A. to seek",
+          "B. seeking",
+          "C. to have sought",
+          "D. having sought"
+        ],
+        "answer": "C",
+        "explanation": "โครงสร้างนี้คือ Impersonal Passive (is alleged) ที่ต้องตามด้วย to-infinitive การแสวงหาที่ลี้ภัย (seek refuge) เกิดขึ้นในอดีต (after the publication...) ก่อนหน้าเวลาที่ถูกกล่าวหา (is alleged) ในปัจจุบัน ดังนั้นจึงต้องใช้ Perfect Infinitive (to have + V3) ซึ่งก็คือ 'to have sought' เพื่อแสดงลำดับของเหตุการณ์ที่เกิดขึ้นก่อน"
+      },
+      {
+        "question": "It ________ that the ancient civilization possessed a sophisticated understanding of astronomy.",
+        "options": [
+          "A. has long been conjectured",
+          "B. has long conjectured",
+          "C. conjectured long been",
+          "D. is long conjecturing"
+        ],
+        "answer": "A",
+        "explanation": "นี่คือโครงสร้าง Impersonal Passive แบบ `It + passive verb + that-clause`. คำว่า conjecture (สันนิษฐาน) เป็น transitive verb ที่ต้องถูกทำให้เป็น passive ในบริบทนี้ (It was conjectured by historians...). ตัวเลือก A 'has long been conjectured' เป็น Present Perfect Passive ซึ่งเหมาะสมที่สุดในการบอกว่ามีการสันนิษฐานเช่นนี้มาเป็นเวลานานจนถึงปัจจุบัน"
+      },
+      {
+        "question": "The company's executives resented ________ about the impending merger until the very last minute.",
+        "options": [
+          "A. not telling",
+          "B. not to be told",
+          "C. having not been told",
+          "D. not being told"
+        ],
+        "answer": "D",
+        "explanation": "กริยา 'resent' (ไม่พอใจ) ต้องตามด้วย gerund ผู้บริหารไม่ได้เป็นคนบอก (telling) แต่เป็นคน 'ถูกบอก' (being told) ดังนั้นจึงต้องใช้ Passive Gerund 'not being told' เพื่อสื่อความหมายว่าพวกเขาไม่พอใจที่ 'ไม่ถูกบอก' ข้อมูล"
+      },
+      {
+        "question": "Before the final product launch, we need to have the software ________ for any potential vulnerabilities.",
+        "options": [
+          "A. meticulously scrutinize",
+          "B. meticulously scrutinizing",
+          "C. meticulously scrutinized",
+          "D. be meticulously scrutinized"
+        ],
+        "answer": "C",
+        "explanation": "นี่คือโครงสร้าง Causative 'have something done' ซึ่งหมายถึงการจัดแจงให้คนอื่นทำบางสิ่งให้ โครงสร้างคือ `have + object (the software) + V3 (past participle)`. ดังนั้น 'scrutinized' (ถูกตรวจสอบอย่างละเอียด) จึงเป็นคำตอบที่ถูกต้อง"
+      },
+      {
+        "question": "He got ________ in the crossfire of corporate politics and was eventually forced to resign.",
+        "options": [
+          "A. catch",
+          "B. caught",
+          "C. catching",
+          "D. to catch"
+        ],
+        "answer": "B",
+        "explanation": "นี่คือการใช้ `get`-passive ซึ่งมักใช้กับเหตุการณ์ไม่คาดฝันหรือเรื่องร้ายๆ โครงสร้างคือ `get + V3 (past participle)`. Past participle ของ catch คือ caught ดังนั้น 'got caught' (ถูกจับ/ติดกับ) จึงถูกต้อง"
+      },
+      {
+        "question": "There are still several complex legal issues that need ________ before the contract can be finalized.",
+        "options": [
+          "A. ironing out",
+          "B. to iron out",
+          "C. being ironed out",
+          "D. to be ironed out"
+        ],
+        "answer": "D",
+        "explanation": "กริยา 'need' ในความหมายนี้สามารถตามด้วย Passive Infinitive (`to be + V3`) หรือ gerund (`V-ing` ที่มีความหมายเป็น passive) ได้ แต่ในตัวเลือกที่ให้มา `to be ironed out` (ถูกแก้ไข/จัดการ) เป็นโครงสร้าง Passive Infinitive ที่ถูกต้องและสมบูรณ์ที่สุด"
+      },
+      {
+        "question": "The priceless artifact, ________ to have been stolen decades ago, suddenly reappeared at a clandestine auction.",
+        "options": [
+          "A. long thought",
+          "B. long thinking",
+          "C. was long thought",
+          "D. has long thought"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้ใช้ reduced relative clause ที่อยู่ในรูป passive วลี 'long thought to have been stolen' มาจากประโยคเต็มว่า 'which was long thought to have been stolen' การลดรูปทำได้โดยการตัด 'which was' ออกไป เหลือเพียง 'long thought...' ทำหน้าที่ขยาย 'the priceless artifact'"
+      },
+      {
+        "question": "The politician was heavily criticized for ________ photographed vacationing during a national crisis.",
+        "options": [
+          "A. have been",
+          "B. being",
+          "C. be",
+          "D. to be"
+        ],
+        "answer": "B",
+        "explanation": "Preposition 'for' ต้องตามด้วย gerund ในบริบทนี้นักการเมือง 'ถูกถ่ายภาพ' ไม่ใช่เป็นคนถ่ายภาพเอง ดังนั้นจึงต้องใช้ Passive Gerund ซึ่งก็คือ `being + V3 (photographed)` คำตอบที่ถูกต้องคือ 'being'"
+      },
+      {
+        "question": "It ________ that the negotiations will be protracted, given the complexity of the demands from both sides.",
+        "options": [
+          "A. is widely anticipated",
+          "B. widely anticipates",
+          "C. has widely anticipated",
+          "D. is being wide anticipated"
+        ],
+        "answer": "A",
+        "explanation": "อีกหนึ่งตัวอย่างของ Impersonal Passive 'It is... that...'. คำว่า anticipate (คาดการณ์) เป็น transitive verb และในประโยคนี้ 'It' ทำหน้าที่เป็นประธานปลอมๆ การคาดการณ์ถูกทำโดยคนทั่วไป จึงต้องใช้รูป passive คือ 'is widely anticipated' (เป็นที่คาดการณ์กันอย่างกว้างขวาง)"
+      },
+      {
+        "question": "I would appreciate ________ notified of any changes to the itinerary as soon as they are confirmed.",
+        "options": [
+          "A. to be",
+          "B. having",
+          "C. being",
+          "D. getting"
+        ],
+        "answer": "C",
+        "explanation": "กริยา 'appreciate' มักจะตามด้วย gerund ในกรณีนี้ผู้พูดต้องการ 'ถูกแจ้งให้ทราบ' ไม่ใช่เป็นคนแจ้งเอง ดังนั้นจึงต้องใช้ Passive Gerund `being + V3 (notified)`. คำตอบคือ 'being'."
+      },
+      {
+        "question": "The new regulations are meant ________ the exploitation of temporary workers.",
+        "options": [
+          "A. preventing",
+          "B. prevent",
+          "C. to be prevented",
+          "D. to prevent"
+        ],
+        "answer": "D",
+        "explanation": "โครงสร้าง 'to be meant to do something' หมายถึง มีวัตถุประสงค์เพื่อทำบางสิ่ง ในที่นี้ regulations (กฎระเบียบ) เป็นผู้กระทำกริยา 'prevent' (ป้องกัน) เองในเชิงความหมาย (The regulations prevent exploitation.) ดังนั้นจึงใช้ Active Infinitive 'to prevent' ไม่ใช่ Passive Infinitive"
+      },
+      {
+        "question": "He claims ________ a key witness to the event, but his testimony is riddled with inconsistencies.",
+        "options": [
+          "A. to have been",
+          "B. being",
+          "C. having been",
+          "D. to be"
+        ],
+        "answer": "A",
+        "explanation": "กริยา 'claim' ตามด้วย to-infinitive การเป็นพยาน (to be a witness) เกิดขึ้นในอดีต ก่อนหน้าการกล่าวอ้าง (claims) ในปัจจุบัน จึงต้องใช้ Perfect Infinitive 'to have been' เพื่อแสดงว่าเหตุการณ์นั้นจบไปแล้ว"
+      },
+      {
+        "question": "The construction of the new dam ________ by local environmental groups for months.",
+        "options": [
+          "A. is being vehemently opposed",
+          "B. has been vehemently opposed",
+          "C. vehemently opposes",
+          "D. was vehemently opposed"
+        ],
+        "answer": "B",
+        "explanation": "คำว่า 'for months' เป็นตัวบ่งชี้ว่าเหตุการณ์นี้ดำเนินต่อเนื่องมาจากอดีตจนถึงปัจจุบัน จึงควรใช้ Present Perfect Tense และเนื่องจากการก่อสร้างเขื่อนเป็นผู้ 'ถูกต่อต้าน' จึงต้องอยู่ในรูป Passive Voice ดังนั้น 'has been vehemently opposed' (ถูกต่อต้านอย่างรุนแรงมาเป็นเวลาหลายเดือนแล้ว) จึงเป็นคำตอบที่ถูกต้องที่สุด"
+      },
+      {
+        "question": "Without ________ a chance to explain his side of the story, he was summarily dismissed.",
+        "options": [
+          "A. giving",
+          "B. having given",
+          "C. being given",
+          "D. to be given"
+        ],
+        "answer": "C",
+        "explanation": "Preposition 'without' ต้องตามด้วย gerund เขาไม่ได้เป็นคนให้โอกาส (giving) แต่เป็นคน 'ถูกให้' โอกาส (being given) ดังนั้นจึงต้องใช้ Passive Gerund 'being given'"
+      },
+      {
+        "question": "The former dictator is widely understood ________ in exile under a false name.",
+        "options": [
+          "A. to be living",
+          "B. to have lived",
+          "C. living",
+          "D. having lived"
+        ],
+        "answer": "A",
+        "explanation": "โครงสร้าง Impersonal Passive 'is understood' ตามด้วย to-infinitive การใช้ชีวิตลี้ภัย (living in exile) เป็นการกระทำที่กำลังดำเนินอยู่ในปัจจุบัน (พร้อมๆ กับเวลาที่คนเข้าใจกัน) ดังนั้นจึงควรใช้ Continuous Infinitive 'to be living' เพื่อเน้นย้ำความต่อเนื่องของการกระทำ"
+      },
+      {
+        "question": "We had our company's entire network infrastructure ________ to prevent future cyberattacks.",
+        "options": [
+          "A. overhaul",
+          "B. overhauled",
+          "C. overhauling",
+          "D. to be overhauled"
+        ],
+        "answer": "B",
+        "explanation": "นี่คือโครงสร้าง Causative 'have something done' โครงสร้างคือ `have + object (network infrastructure) + V3 (past participle)`. V3 ของ overhaul คือ overhauled ดังนั้น B จึงเป็นคำตอบที่ถูกต้อง"
+      },
+      {
+        "question": "The scientist was awarded the Nobel Prize, an honor ________ only to the most distinguished researchers.",
+        "options": [
+          "A. to be accorded",
+          "B. according",
+          "C. accorded",
+          "D. having accorded"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้ใช้ reduced relative clause ในรูป passive วลี 'accorded only to...' มาจาก 'which is accorded only to...' โดยการตัด 'which is' ออกไป เหลือเพียง V3 'accorded' (ซึ่งถูกมอบให้) เพื่อขยายคำว่า 'an honor'"
+      },
+      {
+        "question": "The problem was exacerbated by the fact that crucial data ________ from the final report.",
+        "options": [
+          "A. had been inadvertently omitted",
+          "B. was inadvertently omitted",
+          "C. had inadvertently omitted",
+          "D. inadvertently omitted"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้มีสองเหตุการณ์ในอดีต: ปัญหารุนแรงขึ้น (was exacerbated) และข้อมูลถูกตัดออก (omitted) การที่ข้อมูลถูกตัดออกนั้นเกิดขึ้นก่อนและเป็นสาเหตุที่ทำให้ปัญหารุนแรงขึ้น ดังนั้นจึงควรใช้ Past Perfect Passive 'had been inadvertently omitted' เพื่อแสดงลำดับเหตุการณ์"
+      },
+      {
+        "question": "The children were made ________ their rooms before they were allowed to go out and play.",
+        "options": [
+          "A. to tidy",
+          "B. tidying",
+          "C. tidy",
+          "D. tidied"
+        ],
+        "answer": "A",
+        "explanation": "กริยา 'make' ในรูป Active Voice จะตามด้วย object + V1 (e.g., I made them tidy their rooms). แต่เมื่อ 'make' ถูกใช้ใน Passive Voice (`be made`) จะต้องตามด้วย to-infinitive (`to + V1`). ดังนั้น 'to tidy' จึงเป็นคำตอบที่ถูกต้อง"
+      },
+      {
+        "question": "He narrowly escaped ________ by the falling debris during the earthquake.",
+        "options": [
+          "A. injuring",
+          "B. to be injured",
+          "C. being injured",
+          "D. injury"
+        ],
+        "answer": "C",
+        "explanation": "กริยา 'escape' (หลีกเลี่ยง) ในความหมายนี้ตามด้วย gerund เขาไม่ได้เป็นคนทำร้าย (injuring) แต่เป็นคน 'ถูกทำร้าย' (being injured) ดังนั้นจึงต้องใช้ Passive Gerund 'being injured'"
+      },
+      {
+        "question": "The proposal, ________ unanimously by the committee, is now awaiting final approval from the board of directors.",
+        "options": [
+          "A. having endorsed",
+          "B. endorsing",
+          "C. to be endorsed",
+          "D. having been endorsed"
+        ],
+        "answer": "D",
+        "explanation": "นี่คือ Perfect Passive Participle Phrase เพื่อให้ข้อมูลเพิ่มเติมเกี่ยวกับ proposal การรับรอง (endorsing) เกิดขึ้นก่อนการรออนุมัติ (is now awaiting) และ proposal นั้นเป็นผู้ 'ถูกรับรอง' จึงต้องใช้รูป 'having been endorsed' (หลังจากที่ถูกรับรองอย่างเป็นเอกฉันท์)"
+      },
+      {
+        "question": "The refugees reported ________ forced to work long hours with little food or water.",
+        "options": [
+          "A. to be",
+          "B. being",
+          "C. to have been",
+          "D. having been"
+        ],
+        "answer": "D",
+        "explanation": "กริยา 'report' เมื่อตามด้วย gerund จะหมายถึงการรายงานประสบการณ์ของตนเอง การถูกบังคับ (forced) เกิดขึ้นในอดีต ก่อนการรายงาน (reported) ดังนั้นจึงควรใช้ Perfect Passive Gerund 'having been forced' เพื่อสื่อถึงการกระทำที่เกิดขึ้นและสิ้นสุดลงแล้วในอดีต"
+      },
+      {
+        "question": "It remains ________ whether the new peace treaty will hold.",
+        "options": [
+          "A. seeing",
+          "B. to be seen",
+          "C. to see",
+          "D. being seen"
+        ],
+        "answer": "B",
+        "explanation": "สำนวน 'It remains to be seen' เป็นสำนวนตายตัว หมายความว่า 'ยังไม่เป็นที่แน่ชัด' หรือ 'ต้องรอดูกันต่อไป' ซึ่งใช้ Passive Infinitive 'to be seen'"
+      },
+      {
+        "question": "After ________ for several hours, the suspect finally confessed to the crime.",
+        "options": [
+          "A. having interrogated",
+          "B. interrogating",
+          "C. having been interrogated",
+          "D. being interrogated"
+        ],
+        "answer": "C",
+        "explanation": "Preposition 'after' ตามด้วย gerund ผู้ต้องสงสัยเป็นผู้ 'ถูกสอบสวน' ไม่ใช่ผู้สอบสวนเอง และการสอบสวนเกิดขึ้นก่อนการสารภาพ จึงใช้ Perfect Passive Gerund 'having been interrogated' เพื่อเน้นย้ำลำดับและภาวะถูกกระทำ"
+      },
+      {
+        "question": "This particular chemical is known ________ a severe allergic reaction in some individuals.",
+        "options": [
+          "A. to cause",
+          "B. causing",
+          "C. to be caused",
+          "D. having caused"
+        ],
+        "answer": "A",
+        "explanation": "โครงสร้าง `be known to do something` หมายถึง เป็นที่รู้จักว่าทำสิ่งนั้นๆ ในที่นี้สารเคมีเป็นผู้ 'ก่อให้เกิด' (cause) อาการแพ้เอง ดังนั้นจึงใช้ Active Infinitive 'to cause' ไม่ใช่ Passive"
+      },
+      {
+        "question": "She insisted on ________ a written apology for the derogatory remarks made against her.",
+        "options": [
+          "A. giving",
+          "B. being given",
+          "C. to be given",
+          "D. having given"
+        ],
+        "answer": "B",
+        "explanation": "Preposition 'on' ต้องตามด้วย gerund เธอไม่ได้เป็นคนให้คำขอโทษ แต่เป็นคนต้องการ 'ได้รับ' หรือ 'ถูกให้' คำขอโทษ จึงต้องใช้ Passive Gerund 'being given'"
+      },
+      {
+        "question": "All employees are required ________ a comprehensive security training program.",
+        "options": [
+          "A. to be attended",
+          "B. to attend",
+          "C. attending",
+          "D. attend"
+        ],
+        "answer": "B",
+        "explanation": "โครงสร้าง 'to be required to do something' หมายถึง ถูกกำหนดให้ทำบางสิ่ง พนักงานเป็นผู้ 'เข้าร่วม' (attend) โปรแกรมอบรมเอง ดังนั้นจึงใช้ Active Infinitive 'to attend' ไม่ใช่ Passive"
+      },
+      {
+        "question": "The ancient manuscript is believed ________ during a fire that destroyed the monastery in the 12th century.",
+        "options": [
+          "A. to be lost",
+          "B. being lost",
+          "C. to have been lost",
+          "D. having been lost"
+        ],
+        "answer": "C",
+        "explanation": "โครงสร้าง Impersonal Passive 'is believed' การที่ต้นฉบับหาย (lost) เกิดขึ้นในศตวรรษที่ 12 ซึ่งเป็นอดีตที่ไกลกว่าเวลาที่เชื่อกันในปัจจุบัน จึงต้องใช้ Perfect Passive Infinitive 'to have been lost'"
+      },
+      {
+        "question": "You should get that persistent cough ________ by a doctor as soon as possible.",
+        "options": [
+          "A. check out",
+          "B. checking out",
+          "C. to check out",
+          "D. checked out"
+        ],
+        "answer": "D",
+        "explanation": "นี่คือโครงสร้าง Causative 'get something done' ซึ่งมีความหมายเหมือน 'have something done' แต่ไม่เป็นทางการกว่า โครงสร้างคือ `get + object (that persistent cough) + V3 (past participle)`. ดังนั้น 'checked out' จึงเป็นคำตอบที่ถูกต้อง"
+      },
+      {
+        "question": "The landmark case resulted in new legislation ________ to protect consumer rights.",
+        "options": [
+          "A. was enacted",
+          "B. being enacted",
+          "C. having enacted",
+          "D. to be enacted"
+        ],
+        "answer": "B",
+        "explanation": "สำนวน 'result in' ตามด้วย noun หรือ gerund ในที่นี้หมายถึงคดีดังกล่าวส่งผลให้ 'มีการประกาศใช้' กฎหมายใหม่ กฎหมายถูกประกาศใช้จึงต้องอยู่ในรูป Passive Gerund 'being enacted'"
+      },
+      {
+        "question": "If the project ________ on time, severe financial penalties will be incurred.",
+        "options": [
+          "A. is not completed",
+          "B. will not complete",
+          "C. does not complete",
+          "D. will not be completed"
+        ],
+        "answer": "A",
+        "explanation": "นี่คือประโยคเงื่อนไขแบบที่ 1 (First Conditional: If + Present Simple, ... will + V1) ส่วนของ if-clause ต้องใช้ Present Simple และเนื่องจาก project เป็นผู้ 'ถูกทำให้เสร็จ' จึงต้องเป็น Present Simple Passive 'is not completed'"
+      },
+      {
+        "question": "The athlete was stripped of his medals after it ________ that he had used performance-enhancing drugs.",
+        "options": [
+          "A. was revealed",
+          "B. had revealed",
+          "C. revealed",
+          "D. has been revealed"
+        ],
+        "answer": "A",
+        "explanation": "นี่คือโครงสร้าง 'It was revealed that...' ซึ่งเป็น Impersonal Passive ในอดีต ใช้เพื่อรายงานข้อเท็จจริงที่ถูกเปิดเผยออกมาในอดีต จึงใช้ Simple Past Passive 'was revealed'"
+      },
+      {
+        "question": "His greatest fear was ________ for a fraud he did not commit.",
+        "options": [
+          "A. to mistaken",
+          "B. mistaking",
+          "C. being mistaken",
+          "D. having mistaken"
+        ],
+        "answer": "C",
+        "explanation": "หลัง verb to be ในโครงสร้าง 'His fear was...' สามารถตามด้วย gerund เพื่ออธิบายว่าความกลัวนั้นคืออะไร เขาไม่ได้เป็นคนเข้าใจผิด (mistaking) แต่กลัวที่จะ 'ถูกเข้าใจผิด' (being mistaken) ดังนั้นจึงต้องใช้ Passive Gerund 'being mistaken'"
+      },
+      {
+        "question": "The government is supposed ________ its citizens from foreign aggression.",
+        "options": [
+          "A. to protect",
+          "B. to be protected",
+          "C. protecting",
+          "D. being protected"
+        ],
+        "answer": "A",
+        "explanation": "โครงสร้าง 'to be supposed to do something' หมายถึง ควรจะทำ/คาดว่าจะทำบางสิ่ง รัฐบาลเป็นผู้ 'ปกป้อง' (protect) ประชาชนเอง ดังนั้นจึงใช้ Active Infinitive 'to protect' ไม่ใช่ Passive"
+      },
+      {
+        "question": "He remembers ________ to the zoo by his grandfather when he was a small child.",
+        "options": [
+          "A. taking",
+          "B. to be taken",
+          "C. having taken",
+          "D. being taken"
+        ],
+        "answer": "D",
+        "explanation": "กริยา 'remember' ตามด้วย gerund หมายถึงการจำเหตุการณ์ในอดีตได้ เขาไม่ได้เป็นคนพาไป (taking) แต่ 'ถูกพาไป' (being taken) ดังนั้นจึงต้องใช้ Passive Gerund 'being taken'"
+      },
+      {
+        "question": "The system must ________ thoroughly before it can be implemented on a large scale.",
+        "options": [
+          "A. be tested",
+          "B. test",
+          "C. being tested",
+          "D. have tested"
+        ],
+        "answer": "A",
+        "explanation": "หลัง modal verb (must) ต้องตามด้วย V1 แต่ในบริบทนี้ระบบเป็นผู้ 'ถูกทดสอบ' จึงต้องใช้โครงสร้าง Passive ของ modal verb คือ `modal + be + V3`. ดังนั้น 'be tested' จึงถูกต้อง"
+      },
+      {
+        "question": "The politician's career was irreparably damaged by the scandal, ________ to his eventual resignation.",
+        "options": [
+          "A. which it led",
+          "B. led",
+          "C. leading",
+          "D. was leading"
+        ],
+        "answer": "C",
+        "explanation": "วลี 'leading to his eventual resignation' เป็น Participle Phrase ที่ทำหน้าที่ขยายประโยคหลัก โดยบอกผลลัพธ์ที่ตามมา 'leading' ในที่นี้มีความหมายเดียวกับ 'and it led' แต่การใช้ participle ทำให้ประโยคกระชับและเป็นทางการมากขึ้น"
+      },
+      {
+        "question": "It is imperative that this sensitive information ________ confidential.",
+        "options": [
+          "A. is kept",
+          "B. be kept",
+          "C. keeping",
+          "D. has been kept"
+        ],
+        "answer": "B",
+        "explanation": "นี่คือโครงสร้าง Subjunctive Mood ซึ่งใช้หลังคำคุณศัพท์ที่แสดงความสำคัญหรือความจำเป็น (imperative, essential, vital). โครงสร้างคือ `that + subject + (should) + bare infinitive`. ในรูป Passive จะเป็น `(should) + be + V3`. ดังนั้น 'be kept' จึงถูกต้อง (มาจาก should be kept แต่ตัด should ออกไป)"
+      },
+      {
+        "question": "I don't mind ________, but I hate being lied to.",
+        "options": [
+          "A. to be criticized",
+          "B. criticizing",
+          "C. having criticized",
+          "D. being criticized"
+        ],
+        "answer": "D",
+        "explanation": "กริยา 'mind' ต้องตามด้วย gerund ผู้พูดไม่ได้เป็นคนวิจารณ์ แต่เป็นคน 'ถูกวิจารณ์' ดังนั้นจึงต้องใช้ Passive Gerund 'being criticized'"
+      },
+      {
+        "question": "The evidence ________ to the jury was later found to have been tampered with.",
+        "options": [
+          "A. presented",
+          "B. presenting",
+          "C. was presented",
+          "D. to be presented"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้ใช้ reduced relative clause ในรูป passive 'presented to the jury' มาจาก 'which was presented to the jury' โดยตัด 'which was' ออกไป เหลือเพียง V3 'presented' ทำหน้าที่ขยาย 'The evidence'"
+      },
+      {
+        "question": "The city is reported ________ from a severe water shortage for the past two months.",
+        "options": [
+          "A. to suffer",
+          "B. to be suffering",
+          "C. to have been suffering",
+          "D. suffering"
+        ],
+        "answer": "C",
+        "explanation": "โครงสร้าง Impersonal Passive 'is reported' ตามด้วย to-infinitive คำว่า 'for the past two months' บอกถึงการกระทำที่ต่อเนื่องจากอดีตจนถึงปัจจุบัน ดังนั้นจึงต้องใช้ Perfect Continuous Infinitive 'to have been suffering' เพื่อสะท้อน Tense ที่ถูกต้อง"
+      },
+      {
+        "question": "The final chapter needs ________ as it is currently ambiguous and lacks a clear conclusion.",
+        "options": [
+          "A. to rewrite",
+          "B. rewriting",
+          "C. to have been rewritten",
+          "D. being rewritten"
+        ],
+        "answer": "B",
+        "explanation": "กริยา 'need' เมื่อประธานเป็นสิ่งของ สามารถตามด้วย gerund (V-ing) ซึ่งมีความหมายเป็น passive ได้ (needs rewriting = needs to be rewritten). ตัวเลือก B 'rewriting' จึงถูกต้องและเป็นวิธีที่กระชับกว่า"
+      },
+      {
+        "question": "The general was court-martialed for ________ to follow a direct order.",
+        "options": [
+          "A. have failed",
+          "B. being failed",
+          "C. failing",
+          "D. to be failed"
+        ],
+        "answer": "C",
+        "explanation": "Preposition 'for' ต้องตามด้วย gerund นายพลเป็นผู้ 'ล้มเหลว' (fail) ในการทำตามคำสั่งเอง ไม่ได้ถูกทำให้ล้มเหลว ดังนั้นจึงใช้ Active Gerund 'failing' ซึ่งเป็นคำตอบที่ถูกต้อง"
+      },
+      {
+        "question": "Let's get this paperwork ________ by the end of the day.",
+        "options": [
+          "A. file",
+          "B. to file",
+          "C. filing",
+          "D. filed"
+        ],
+        "answer": "D",
+        "explanation": "นี่คือโครงสร้าง Causative 'get something done' โครงสร้างคือ `get + object (this paperwork) + V3 (past participle)`. V3 ของ file คือ filed ดังนั้น D จึงเป็นคำตอบที่ถูกต้อง"
+      },
+      {
+        "question": "The diplomat skillfully avoided ________ on the controversial issue.",
+        "options": [
+          "A. to be commented",
+          "B. having to comment",
+          "C. commenting",
+          "D. being commented"
+        ],
+        "answer": "C",
+        "explanation": "กริยา 'avoid' ตามด้วย gerund นักการทูตเป็นผู้ 'แสดงความคิดเห็น' (comment) เอง ดังนั้นจึงใช้ Active Gerund 'commenting' ในที่นี้หมายถึงเขาหลีกเลี่ยง 'การ' แสดงความคิดเห็น"
+      },
+      {
+        "question": "The fugitive is thought ________ the country using a forged passport.",
+        "options": [
+          "A. to leave",
+          "B. to have left",
+          "C. leaving",
+          "D. having left"
+        ],
+        "answer": "B",
+        "explanation": "โครงสร้าง Impersonal Passive 'is thought' การที่ผู้หลบหนีออกจากประเทศ (leave the country) เกิดขึ้นในอดีต ก่อนหน้าเวลาที่คนคิดกันในปัจจุบัน จึงต้องใช้ Perfect Infinitive 'to have left' เพื่อแสดงลำดับเหตุการณ์"
+      },
+      {
+        "question": "By the time we arrived, all the concert tickets ________ out.",
+        "options": [
+          "A. had been sold",
+          "B. have been sold",
+          "C. were sold",
+          "D. had sold"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้มี 2 เหตุการณ์ในอดีต คือ เราไปถึง (arrived) กับตั๋วถูกขายหมด (sold out) การที่ตั๋วถูกขายหมดเกิดขึ้นก่อนที่เราจะไปถึง ดังนั้นจึงต้องใช้ Past Perfect Tense และเนื่องจากตั๋วเป็นผู้ 'ถูกขาย' จึงต้องเป็น Past Perfect Passive 'had been sold'"
+      },
+      {
+        "question": "He was the last person ________ from the sinking ship.",
+        "options": [
+          "A. to rescue",
+          "B. rescuing",
+          "C. to be rescued",
+          "D. being rescued"
+        ],
+        "answer": "C",
+        "explanation": "โครงสร้าง the first/second/last/only person มักจะตามด้วย to-infinitive เพื่อขยายความ เขาไม่ได้เป็นคนช่วยชีวิต (rescue) แต่เป็นคน 'ถูกช่วยชีวิต' (be rescued) ดังนั้นจึงต้องใช้ Passive Infinitive 'to be rescued'"
+      },
+      {
+        "question": "There appears ________ a serious misunderstanding between the two parties.",
+        "options": [
+          "A. to be",
+          "B. being",
+          "C. having been",
+          "D. to have been"
+        ],
+        "answer": "A",
+        "explanation": "กริยา 'appear' (ดูเหมือนว่า) ตามด้วย to-infinitive เพื่อแสดงสภาพที่เป็นอยู่ในปัจจุบัน ในที่นี้ 'There appears to be...' เป็นสำนวนที่หมายถึง 'ดูเหมือนว่าจะมี...' ใช้ Simple Infinitive 'to be' เพราะพูดถึงสถานการณ์ปัจจุบัน"
+      },
+      {
+        "question": "It goes without ________ that all applicants will be judged solely on merit.",
+        "options": [
+          "A. saying",
+          "B. to say",
+          "C. being said",
+          "D. having said"
+        ],
+        "answer": "A",
+        "explanation": "สำนวน 'It goes without saying' เป็นสำนวนตายตัว หมายความว่า 'เป็นที่เข้าใจกันดีอยู่แล้วโดยไม่ต้องพูด' ซึ่งใช้ Active Gerund 'saying' ในโครงสร้างนี้"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1138 @@
+[
+  {
+    "id": "21_1",
+    "title": "21.1 Gerunds as Subjects and Objects (V.-ing ที่ทำหน้าที่เป็นนาม)",
+    "explanation": "Gerund (เจอรันด์) คือ คำกริยา (Verb) ที่เติม -ing เข้าไป แล้วเปลี่ยนหน้าที่ของมันให้กลายเป็นเหมือน 'คำนาม' (Noun) โดยสมบูรณ์\n\nในภาษาไทยมักจะแปลว่า 'การ...' หรือ 'ความ...' เช่น\n- run (วิ่ง) -> running (การวิ่ง)\n- read (อ่าน) -> reading (การอ่าน)\n\nGerund สามารถทำหน้าที่ได้หลายอย่างในประโยค แต่ในบทนี้เราจะเน้น 2 หน้าที่หลักที่สำคัญที่สุด:\n\n1.  **ทำหน้าที่เป็นประธานของประโยค (Gerund as Subject):**\n    - Gerund จะถูกวางไว้ที่ 'ตำแหน่งแรกสุด' ของประโยค เพื่อทำหน้าที่เป็นประธาน (Subject) หรือผู้กระทำ\n    - กริยาที่ตามหลัง Gerund ที่เป็นประธาน จะถือว่าเป็นเอกพจน์เสมอ (ใช้ is, was, has, V. เติม s)\n    - โครงสร้าง: **V-ing (+ ส่วนขยาย) ...** + Verb + ...\n    - ตัวอย่าง: **Swimming** is my favorite sport. (การว่ายน้ำเป็นกีฬาที่ฉันชอบที่สุด)\n\n2.  **ทำหน้าที่เป็นกรรมของประโยค (Gerund as Object):**\n    - **2.1 เป็นกรรมตรงของกริยา (Direct Object):** Gerund จะวางอยู่ 'หลังคำกริยา' บางกลุ่มที่ต้องการกรรมเป็น V-ing เท่านั้น (ไม่สามารถใช้ to-infinitive ได้) เช่น enjoy, finish, avoid, suggest, mind, quit, risk, postpone, admit, deny, appreciate เป็นต้น\n        - โครงสร้าง: Subject + **Verb (ที่ต้องตามด้วย V-ing)** + **V-ing ...**\n        - ตัวอย่าง: I enjoy **listening** to classical music. (ฉันเพลิดเพลินกับการฟังเพลงคลาสสิก)\n\n    - **2.2 เป็นกรรมของบุพบท (Object of a Preposition):** Gerund จะวางอยู่ 'หลังคำบุพบท' (Preposition) เสมอ เช่น in, on, at, for, about, of, from, without, after, before, by\n        - โครงสร้าง: ... + **Preposition** + **V-ing ...**\n        - ตัวอย่าง: She is interested **in learning** a new skill. (เธอสนใจในการเรียนรู้ทักษะใหม่)",
+    "examples": [
+      {
+        "eng": "Implementing a new corporate strategy involves analyzing market trends carefully.",
+        "thai": "การนำกลยุทธ์องค์กรใหม่มาใช้เกี่ยวข้องกับการวิเคราะห์แนวโน้มตลาดอย่างรอบคอบ (Implementing... เป็น Gerund phrase ทำหน้าที่เป็นประธานของกริยา involves ส่วน analyzing... เป็น Gerund ทำหน้าที่เป็นกรรมของกริยา involves)"
+      },
+      {
+        "eng": "He admitted fabricating the evidence to protect his colleague.",
+        "thai": "เขายอมรับว่าได้สร้างหลักฐานปลอมขึ้นมาเพื่อปกป้องเพื่อนร่วมงานของเขา (fabricating เป็น Gerund ทำหน้าที่เป็นกรรมตรงของกริยา admitted)"
+      },
+      {
+        "eng": "We are looking forward to collaborating with your team on this ambitious project.",
+        "thai": "เราตั้งตารอที่จะได้ร่วมมือกับทีมของคุณในโครงการที่ท้าทายนี้ (collaborating เป็น Gerund ทำหน้าที่เป็นกรรมของบุพบท 'to' ใน Phrasal Verb 'look forward to' *ข้อควรระวัง: to ในที่นี้เป็นบุพบท ไม่ใช่ส่วนหนึ่งของ to-infinitive*)"
+      },
+      {
+        "eng": "Constantly worrying about the future prevents you from enjoying the present.",
+        "thai": "การกังวลเกี่ยวกับอนาคตอยู่ตลอดเวลาขัดขวางไม่ให้คุณมีความสุขกับปัจจุบัน (worrying... เป็น Gerund phrase ทำหน้าที่เป็นประธาน และ enjoying... เป็น Gerund ทำหน้าที่เป็นกรรมของบุพบท from)"
+      }
+    ],
+    "common_mistakes": "- **ใช้ To-Infinitive หลังบุพบท:** คนไทยมักสับสนและใช้ 'to + verb' หลังบุพบท ซึ่งผิดหลักไวยากรณ์อย่างยิ่ง 'หลังบุพบทต้องตามด้วยคำนาม หรือ Gerund (V-ing) เท่านั้น' เสมอ\n  - ผิด: He is good at ~~to play~~ chess.\n  - ถูก: He is good at **playing** chess.\n\n- **สับสนระหว่าง Gerund กับ Present Continuous:** แม้จะหน้าตาเหมือนกัน (V-ing) แต่ทำหน้าที่ต่างกันสิ้นเชิง Gerund คือ 'คำนาม' (การกระทำ) ส่วน Present Continuous คือ 'กริยา' (กำลังกระทำ)\n  - Gerund (Subject): **Developing** software is a complex process. (การพัฒนาซอฟต์แวร์เป็นกระบวนการที่ซับซ้อน)\n  - Present Continuous (Verb): They are **developing** new software. (พวกเขากำลังพัฒนาซอฟต์แวร์ใหม่)\n\n- **ใช้ Verb แท้เป็นประธาน:** ในภาษาอังกฤษ ไม่สามารถนำคำกริยาช่อง 1 (Base Form) มาวางเป็นประธานของประโยคได้ ต้องเปลี่ยนให้เป็น Gerund ก่อนเสมอ\n  - ผิด: ~~Manage~~ a team requires strong leadership skills.\n  - ถูก: **Managing** a team requires strong leadership skills.",
+    "practice_questions": [
+      {
+        "question": "___________ a marathon without proper training is extremely risky and not recommended by experts.",
+        "options": [
+          "A. To attempting",
+          "B. Attempt",
+          "C. Attempting",
+          "D. Attempted"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้ต้องการประธาน (Subject) ซึ่งต้องอยู่ในรูปคำนาม Gerund (V-ing) คือคำตอบที่ถูกต้อง 'Attempting' (การพยายาม) ทำหน้าที่เป็นประธานของกริยา 'is'"
+      },
+      {
+        "question": "The board of directors suggested ___________ the launch of the new product line until the market stabilizes.",
+        "options": [
+          "A. postponing",
+          "B. to postpone",
+          "C. postpone",
+          "D. postponed"
+        ],
+        "answer": "A",
+        "explanation": "คำกริยา 'suggest' (แนะนำ) เป็นหนึ่งในกลุ่มกริยาที่ต้องตามด้วย Gerund (V-ing) เป็นกรรมเสมอ"
+      },
+      {
+        "question": "Despite the initial difficulties, she persisted in ___________ her ambitious career goals.",
+        "options": [
+          "A. pursue",
+          "B. to pursue",
+          "C. pursuing",
+          "D. pursuit of"
+        ],
+        "answer": "C",
+        "explanation": "คำว่า 'in' เป็นคำบุพบท (preposition) ซึ่งคำที่ตามหลังต้องเป็นคำนามหรือ Gerund (V-ing) ในที่นี้คือ 'pursuing' (การไล่ตาม)"
+      },
+      {
+        "question": "___________ diverse perspectives into the decision-making process generally leads to more innovative solutions.",
+        "options": [
+          "A. Incorporate",
+          "B. Incorporated",
+          "C. To incorporating",
+          "D. Incorporating"
+        ],
+        "answer": "D",
+        "explanation": "ส่วนแรกของประโยคทำหน้าที่เป็นประธานของกริยา 'leads' จึงต้องใช้ Gerund phrase ซึ่งขึ้นต้นด้วย 'Incorporating' (การรวบรวม)"
+      },
+      {
+        "question": "I deeply resent ___________ to work on weekends without any prior notification or compensation.",
+        "options": [
+          "A. be asked",
+          "B. being asked",
+          "C. to be asked",
+          "D. ask"
+        ],
+        "answer": "B",
+        "explanation": "คำกริยา 'resent' (ไม่พอใจ, ขุ่นเคือง) ต้องตามด้วย Gerund ในประโยคนี้อยู่ในรูป Passive Gerund (being + V.3) หมายถึง 'การถูกขอ' ให้ทำงาน"
+      },
+      {
+        "question": "You can improve your fluency significantly by ___________ with native speakers as often as possible.",
+        "options": [
+          "A. practice to interact",
+          "B. to practice interacting",
+          "C. practicing interacting",
+          "D. practice interacting"
+        ],
+        "answer": "C",
+        "explanation": "คำว่า 'by' เป็นบุพบท ต้องตามด้วย Gerund คือ 'practicing' และกริยา 'practice' เองก็ต้องตามด้วย Gerund อีกตัวหนึ่งคือ 'interacting' โครงสร้างจึงเป็น by + V-ing + V-ing"
+      },
+      {
+        "question": "The company risks ___________ its market share if it fails to innovate.",
+        "options": [
+          "A. losing",
+          "B. to lose",
+          "C. lose",
+          "D. lost"
+        ],
+        "answer": "A",
+        "explanation": "คำกริยา 'risk' (เสี่ยง) เป็นอีกหนึ่งคำที่ต้องตามด้วย Gerund (V-ing) เป็นกรรมเสมอ"
+      },
+      {
+        "question": "A student cannot pass the exam without ___________ all the required course materials.",
+        "options": [
+          "A. to have studied",
+          "B. having studied",
+          "C. have to study",
+          "D. had to study"
+        ],
+        "answer": "B",
+        "explanation": "คำว่า 'without' เป็นบุพบท ต้องตามด้วย Gerund ในที่นี้ 'having studied' (การที่ได้เรียน) เป็น Perfect Gerund ที่เหมาะสมที่สุดเพื่อสื่อว่าการเรียนต้องเกิดขึ้นก่อนการสอบ"
+      },
+      {
+        "question": "He apologized profusely for ___________ the confidential information with unauthorized personnel.",
+        "options": [
+          "A. not to share",
+          "B. not sharing",
+          "C. did not share",
+          "D. sharing not"
+        ],
+        "answer": "B",
+        "explanation": "คำว่า 'for' เป็นบุพบท ต้องตามด้วย Gerund หากต้องการทำเป็นรูปปฏิเสธ ให้วางคำว่า 'not' ไว้ข้างหน้า Gerund (not + V-ing)"
+      },
+      {
+        "question": "The new government policy entails ___________ stricter regulations on carbon emissions.",
+        "options": [
+          "A. implement",
+          "B. to implement",
+          "C. implemented",
+          "D. implementing"
+        ],
+        "answer": "D",
+        "explanation": "คำกริยา 'entail' (ซึ่งหมายถึง, ทำให้จำเป็นต้องมี) เป็นกริยาที่ต้องตามด้วย Gerund (V-ing) เป็นกรรมเสมอ"
+      }
+    ]
+  },
+  {
+    "id": "21_2",
+    "title": "21.2 Verbs followed by Gerunds ONLY",
+    "explanation": "Gerund คือคำกริยาที่เติม -ing (V-ing) และทำหน้าที่เหมือนคำนาม (Noun) ในประโยค เช่น running, eating, studying\n\nในภาษาอังกฤษ มีกลุ่มคำกริยา (Verbs) ที่ต้องตามด้วย Gerund (V-ing) เท่านั้น จะตามด้วย Infinitive (to + Verb) ไม่ได้เด็ดขาด! การจำกริยากลุ่มนี้จึงสำคัญมาก เพราะไม่มีกฎตายตัว ต้องอาศัยการจดจำและใช้งานบ่อยๆ\n\nกลุ่มคำกริยาที่ต้องตามด้วย Gerund เสมอ สามารถจัดกลุ่มคร่าวๆ ได้ดังนี้:\n1.  **กริยาที่แสดงความชอบ/ไม่ชอบ:** enjoy (สนุกกับ), dislike (ไม่ชอบ), don't mind (ไม่รังเกียจ), can't stand (ทนไม่ได้)\n2.  **กริยาที่เกี่ยวกับการสิ้นสุด/การหลีกเลี่ยง:** finish (ทำเสร็จ), quit (เลิก), give up (ยอมแพ้, เลิก), avoid (หลีกเลี่ยง), escape (หลบหนี)\n3.  **กริยาที่เกี่ยวกับการคิด/การพิจารณา:** consider (พิจารณา), suggest (แนะนำ), recommend (แนะนำ), admit (ยอมรับ), deny (ปฏิเสธ), imagine (จินตนาการ)\n4.  **กริยาอื่นๆ ที่พบบ่อย:** keep / keep on (ทำต่อไป), practice (ฝึกฝน), miss (คิดถึงการทำ...), risk (เสี่ยง), involve (เกี่ยวข้องกับ), postpone / put off (เลื่อนออกไป)\n\n**โครงสร้าง:** Subject + Verb (กลุ่มนี้) + Gerund (V-ing) + ...\nตัวอย่าง: He admitted **stealing** the document. (เขายอมรับว่าขโมยเอกสาร)",
+    "examples": [
+      {
+        "eng": "The company's management is considering implementing a four-day workweek to improve employee well-being.",
+        "thai": "ฝ่ายบริหารของบริษัทกำลังพิจารณาที่จะนำนโยบายทำงานสี่วันต่อสัปดาห์มาใช้ เพื่อปรับปรุงสวัสดิภาพของพนักงาน (หลัง consider ต้องใช้ Gerund คือ implementing)"
+      },
+      {
+        "eng": "Despite facing numerous setbacks, the research team kept on conducting experiments until they achieved a breakthrough.",
+        "thai": "แม้จะเผชิญกับความล้มเหลวมากมาย ทีมวิจัยยังคงทำการทดลองต่อไปจนกระทั่งพวกเขาค้นพบความก้าวหน้าครั้งสำคัญ (หลัง keep on ต้องใช้ Gerund คือ conducting)"
+      },
+      {
+        "eng": "I would recommend double-checking all the figures before you submit the final financial report.",
+        "thai": "ฉันอยากจะแนะนำให้ตรวจสอบตัวเลขทั้งหมดอีกครั้งก่อนที่คุณจะส่งรายงานทางการเงินฉบับสุดท้าย (หลัง recommend ต้องใช้ Gerund คือ double-checking)"
+      },
+      {
+        "eng": "The new security protocol involves installing advanced surveillance systems throughout the building.",
+        "thai": "ระเบียบการรักษาความปลอดภัยใหม่นี้เกี่ยวข้องกับการติดตั้งระบบกล้องวงจรปิดที่ทันสมัยทั่วทั้งอาคาร (หลัง involve ต้องใช้ Gerund คือ installing)"
+      }
+    ],
+    "common_mistakes": "ข้อผิดพลาดที่พบบ่อยที่สุดและชัดเจนที่สุดสำหรับคนไทย คือการใช้ Infinitive (to + Verb) ตามหลังกริยากลุ่มนี้ ซึ่งผิดหลักไวยากรณ์อย่างสิ้นเชิง\n\n**ผิด:** I enjoy ~~to watch~~ movies.\n**ถูก:** I enjoy **watching** movies.\n\n**ผิด:** She suggested ~~to go~~ to the new Italian restaurant.\n**ถูก:** She suggested **going** to the new Italian restaurant.\n\n**ข้อควรระวังพิเศษสำหรับ 'suggest' และ 'recommend':**\nคนไทยมักจะติดโครงสร้าง 'แนะนำให้ (ใคร) ไปทำ...' และแปลตรงตัวเป็น:\n*   He suggested me ~~to apply~~ for the job. (ผิด)\nโครงสร้างที่ถูกต้องคือ:\n1.  **suggest + V-ing:** He suggested **applying** for the job.\n2.  **suggest + that + Subject + Verb (base form):** He suggested **that I apply** for the job.\n\nจำไว้เสมอว่ากริยาในลิสต์นี้ 'บังคับ' ให้คำกริยาที่ตามมาต้องอยู่ในรูป Gerund (V-ing) เท่านั้น",
+    "practice_questions": [
+      {
+        "question": "The politician skillfully avoided ___ the journalist's direct questions about the corruption scandal.",
+        "options": [
+          "A. to answer",
+          "B. answer",
+          "C. answering",
+          "D. answered"
+        ],
+        "answer": "C",
+        "explanation": "คำกริยา 'avoid' (หลีกเลี่ยง) เป็นหนึ่งในกลุ่มคำกริยาที่ต้องตามด้วย Gerund (V-ing) เท่านั้น ดังนั้น 'answering' จึงเป็นคำตอบที่ถูกต้อง"
+      },
+      {
+        "question": "Would you mind ___ the volume down a little? I'm trying to concentrate on this report.",
+        "options": [
+          "A. turning",
+          "B. to turn",
+          "C. turn",
+          "D. turned"
+        ],
+        "answer": "A",
+        "explanation": "สำนวน 'Would you mind...?' (คุณจะรังเกียจไหมถ้าจะ...) ใช้เพื่อขอร้องอย่างสุภาพ และต้องตามด้วย Gerund (V-ing) เสมอ ดังนั้นคำตอบที่ถูกต้องคือ 'turning'"
+      },
+      {
+        "question": "After working for the same company for 15 years, he finally quit ___ for a less stressful job.",
+        "options": [
+          "A. to search",
+          "B. searching",
+          "C. search",
+          "D. searched"
+        ],
+        "answer": "B",
+        "explanation": "คำกริยา 'quit' (เลิก) ในที่นี้หมายถึงเลิกทำสิ่งหนึ่งเพื่อไปทำอีกสิ่งหนึ่ง แต่โครงสร้างของมันต้องตามด้วย Gerund (V-ing) ที่หมายถึง 'เลิก (การทำ)...' ในที่นี้คือเลิกการค้นหางานเพื่อไปรับงานที่เครียดน้อยลง หรือในบริบทที่กว้างกว่าคือ เลิกงานเดิม และผลคือการไปหางานใหม่ แต่ตามหลักไวยากรณ์หลัง quit ต้องเป็น gerund (quit searching) ที่ให้ความหมายว่าเลิกค้นหา แต่ในบริบทนี้ที่ถูกต้องกว่าคือ Quit his job (V+N) and started searching (V+Ving)... แต่ถ้าต้องเลือกจากตัวเลือกนี้ searching จะถูกต้องที่สุดตามหลักไวยากรณ์ แม้บริบทอาจจะแปลกเล็กน้อย ถ้าจะให้สมบูรณ์คือ He quit his job and started searching... อย่างไรก็ตามในตัวเลือกที่ให้มา searching คือคำตอบที่ถูกไวยากรณ์ที่สุดหลัง quit"
+      },
+      {
+        "question": "My therapist suggested ___ a new hobby to help me cope with anxiety.",
+        "options": [
+          "A. take up",
+          "B. to take up",
+          "C. took up",
+          "D. taking up"
+        ],
+        "answer": "D",
+        "explanation": "คำกริยา 'suggest' (แนะนำ) ต้องตามด้วย Gerund (V-ing) ดังนั้น 'taking up' จึงเป็นคำตอบที่ถูกต้อง ส่วน 'to take up' เป็น Infinitive ซึ่งใช้ตามหลัง suggest ไม่ได้"
+      },
+      {
+        "question": "I really miss ___ spontaneous road trips with my friends from college.",
+        "options": [
+          "A. take",
+          "B. to take",
+          "C. taking",
+          "D. taken"
+        ],
+        "answer": "C",
+        "explanation": "คำกริยา 'miss' ในความหมายว่า 'คิดถึงการทำบางสิ่ง' จะต้องตามด้วย Gerund (V-ing) เสมอ ดังนั้นคำตอบที่ถูกต้องคือ 'taking'"
+      },
+      {
+        "question": "The suspect denied ___ anywhere near the crime scene on the night of the incident.",
+        "options": [
+          "A. being",
+          "B. to be",
+          "C. be",
+          "D. been"
+        ],
+        "answer": "A",
+        "explanation": "คำกริยา 'deny' (ปฏิเสธ) เป็นหนึ่งในคำกริยาที่ต้องตามด้วย Gerund (V-ing) เท่านั้น คำตอบที่ถูกต้องคือ 'being'"
+      },
+      {
+        "question": "You risk ___ your entire investment if you put all your money into such a volatile stock.",
+        "options": [
+          "A. to lose",
+          "B. losing",
+          "C. lose",
+          "D. lost"
+        ],
+        "answer": "B",
+        "explanation": "คำกริยา 'risk' (เสี่ยง) ต้องตามด้วย Gerund (V-ing) เพื่ออธิบายถึงความเสี่ยงที่จะเกิดขึ้น ดังนั้น 'losing' จึงเป็นคำตอบที่ถูกต้อง"
+      },
+      {
+        "question": "I can't imagine ___ in a big city again after living in this peaceful town for so long.",
+        "options": [
+          "A. live",
+          "B. to live",
+          "C. lived",
+          "D. living"
+        ],
+        "answer": "D",
+        "explanation": "คำกริยา 'imagine' (จินตนาการ) ต้องตามด้วย Gerund (V-ing) เมื่อพูดถึงการจินตนาการถึงการกระทำบางอย่าง ดังนั้น 'living' เป็นคำตอบที่ถูกต้อง"
+      },
+      {
+        "question": "The manager put off ___ a decision about the new project until next week's meeting.",
+        "options": [
+          "A. making",
+          "B. to make",
+          "C. make",
+          "D. made"
+        ],
+        "answer": "A",
+        "explanation": "Phrasal verb 'put off' (เลื่อนออกไป) มีความหมายเหมือน 'postpone' และต้องตามด้วย Gerund (V-ing) เสมอ ดังนั้น 'making' คือคำตอบที่ถูกต้อง"
+      },
+      {
+        "question": "Becoming a professional musician involves ___ for several hours every day.",
+        "options": [
+          "A. practice",
+          "B. to practice",
+          "C. practicing",
+          "D. practiced"
+        ],
+        "answer": "C",
+        "explanation": "คำกริยา 'involve' (เกี่ยวข้องกับ) เมื่อตามด้วยการกระทำ จะต้องใช้ Gerund (V-ing) เพื่ออธิบายว่าสิ่งนั้นเกี่ยวข้องกับ 'การทำอะไร' ดังนั้น 'practicing' จึงเป็นคำตอบที่ถูกต้อง"
+      }
+    ]
+  },
+  {
+    "id": "21_3",
+    "title": "21.3 Verbs followed by Infinitives ONLY",
+    "explanation": "ในบทนี้ เราจะมาเจาะลึกกลุ่มคำกริยา (Verbs) ที่มีความพิเศษคือ 'ต้องตามด้วย Infinitive with to' (to + V.1) เท่านั้น\n\n**Infinitive with to คืออะไร?**\nคือรูปของคำกริยาที่ไม่ผัน (V.1) และมี 'to' นำหน้า เช่น to study, to eat, to travel\n\n**ทำไมต้องใช้ Infinitive?**\nคำกริยากลุ่มนี้มักจะสื่อถึงสิ่งที่เป็น 'อนาคต', 'ความตั้งใจ', 'ความปรารถนา', 'การวางแผน', 'การตัดสินใจ' หรือสิ่งที่ 'ยังไม่เกิดขึ้น' ณ เวลาที่พูด การใช้ to-infinitive ช่วยชี้ให้เห็นถึงเป้าหมายหรือการกระทำที่จะตามมา\n\n**โครงสร้าง:**\nSubject + Verb + to-infinitive (to + V.1)\n\n**คำกริยาที่พบบ่อยในกลุ่มนี้:**\n*   **Expressing desire/intention:** want, wish, hope, expect, plan (ต้องการ, ปรารถนา, หวัง, คาดหวัง, วางแผน)\n*   **Making decisions/arrangements:** decide, agree, choose, arrange (ตัดสินใจ, เห็นด้วย, เลือก, จัดการ)\n*   **Making offers/promises/threats:** offer, promise, threaten, refuse (เสนอ, สัญญา, ขู่, ปฏิเสธ)\n*   **Showing effort/outcome:** manage, fail, afford, attempt (จัดการได้สำเร็จ, ล้มเหลว, สามารถจ่ายได้, พยายาม)\n*   **Other common verbs:** seem, appear, pretend, learn, deserve (ดูเหมือนว่า, ปรากฏว่า, เสแสร้ง, เรียนรู้, สมควรได้รับ)\n\nนอกจากนี้ ยังมีโครงสร้างที่ซับซ้อนขึ้นคือ **Verb + Object + to-infinitive** ซึ่งใช้กับกริยาบางตัว เช่น ask, tell, advise, allow, persuade, remind, encourage, warn (ขอ, บอก, แนะนำ, อนุญาต, โน้มน้าว, เตือน, ให้กำลังใจ, เตือนภัย)\nตัวอย่าง: He persuaded me **to join** his team.",
+    "examples": [
+      {
+        "eng": "Despite the severe weather conditions, the rescue team managed to reach the stranded hikers.",
+        "thai": "แม้ว่าสภาพอากาศจะเลวร้ายมาก ทีมกู้ภัยก็จัดการไปถึงตัวนักปีนเขาที่ติดอยู่ได้สำเร็จ (manage to do something = ทำบางสิ่งที่ยากลำบากได้สำเร็จ)"
+      },
+      {
+        "eng": "I'm afraid we can't afford to purchase the latest model; it's far beyond our budget.",
+        "thai": "ฉันเกรงว่าเราไม่มีปัญญาที่จะซื้อรุ่นล่าสุดได้ มันเกินงบประมาณของเราไปมาก (afford to do something = มีเงินหรือเวลาพอที่จะทำบางสิ่ง)"
+      },
+      {
+        "eng": "The suspect pretended to be asleep when the police entered the room.",
+        "thai": "ผู้ต้องสงสัยแกล้งทำเป็นหลับเมื่อตำรวจเข้ามาในห้อง (pretend to do something = เสแสร้งทำบางสิ่ง)"
+      },
+      {
+        "eng": "The corporation threatened to relocate its factory if the government raised taxes.",
+        "thai": "บริษัทขู่ว่าจะย้ายโรงงานหากรัฐบาลขึ้นภาษี (threaten to do something = ขู่ว่าจะทำบางสิ่ง)"
+      },
+      {
+        "eng": "My financial advisor encouraged me to invest in emerging markets for higher returns.",
+        "thai": "ที่ปรึกษาทางการเงินของฉันสนับสนุนให้ฉันลงทุนในตลาดเกิดใหม่เพื่อผลตอบแทนที่สูงขึ้น (encourage someone to do something = สนับสนุนให้ใครบางคนทำอะไรบางอย่าง)"
+      }
+    ],
+    "common_mistakes": "**1. ใช้ Gerund (-ing) แทน Infinitive:**\nนี่คือข้อผิดพลาดที่พบบ่อยที่สุด คนไทยมักจะสับสนและใช้รูป -ing ตามหลังกริยากลุ่มนี้\n*   ผิด: He decided *selling* his car.\n*   ถูก: He decided **to sell** his car. (เขาตัดสินใจที่จะขายรถ)\n*   ผิด: They refused *helping* us.\n*   ถูก: They refused **to help** us. (พวกเขาปฏิเสธที่จะช่วยเรา)\n\n**2. ลืม 'to' หน้า Infinitive:**\nบางครั้งอาจจะลืมใส่ 'to' ไปเฉยๆ ทำให้ประโยคผิดหลักไวยากรณ์ทันที\n*   ผิด: I promise *call* you tomorrow.\n*   ถูก: I promise **to call** you tomorrow. (ฉันสัญญาว่าจะโทรหาคุณพรุ่งนี้)\n*   ผิด: We plan *visit* Japan next year.\n*   ถูก: We plan **to visit** Japan next year. (เราวางแผนจะไปเที่ยวญี่ปุ่นปีหน้า)\n\n**3. สับสนกับกริยาที่ใช้ได้ทั้งสองแบบ:**\nต้องจำให้แม่นว่ากริยาในบทนี้ 'บังคับ' ใช้ to-infinitive เท่านั้น อย่าสับสนกับกริยาอย่าง like, love, start, begin ซึ่งสามารถตามด้วย Gerund หรือ Infinitive ก็ได้ (แต่ความหมายอาจต่างกันเล็กน้อย) แต่สำหรับ want, decide, hope, plan ต้องเป็น to-infinitive เสมอ",
+    "practice_questions": [
+      {
+        "question": "After several unsuccessful attempts, the programmer finally managed ______ the complex bug in the system.",
+        "options": [
+          "A. fixing",
+          "B. to fix",
+          "C. fix",
+          "D. having fixed"
+        ],
+        "answer": "B",
+        "explanation": "คำกริยา 'manage' (จัดการได้สำเร็จ) ต้องตามด้วย to-infinitive (to + V.1) เสมอ เพื่อบอกถึงการกระทำที่พยายามจนสำเร็จ ดังนั้น 'to fix' จึงเป็นคำตอบที่ถูกต้อง"
+      },
+      {
+        "question": "The company executives have decided ______ the product launch until the market conditions improve.",
+        "options": [
+          "A. postponing",
+          "B. postpone",
+          "C. to postpone",
+          "D. for postponing"
+        ],
+        "answer": "C",
+        "explanation": "คำกริยา 'decide' (ตัดสินใจ) เป็นหนึ่งในคำกริยาที่ต้องตามด้วย to-infinitive (to + V.1) เท่านั้น เพื่อแสดงถึงการตัดสินใจที่จะทำอะไรบางอย่างในอนาคต"
+      },
+      {
+        "question": "Even though she was exhausted, she offered ______ me with my presentation for the next day.",
+        "options": [
+          "A. to help",
+          "B. helping",
+          "C. help",
+          "D. helped"
+        ],
+        "answer": "A",
+        "explanation": "คำกริยา 'offer' (เสนอที่จะทำบางสิ่งให้) ต้องตามด้วย to-infinitive (to + V.1) เพื่อบอกถึงการเสนอความช่วยเหลือหรือการกระทำบางอย่าง"
+      },
+      {
+        "question": "Many young professionals can't afford ______ a house in the city center due to the exorbitant prices.",
+        "options": [
+          "A. buying",
+          "B. buy",
+          "C. for buying",
+          "D. to buy"
+        ],
+        "answer": "D",
+        "explanation": "คำกริยา 'afford' (มีกำลังซื้อ/มีปัญญาจ่าย) ต้องตามด้วย to-infinitive (to + V.1) เสมอ โครงสร้างคือ 'afford to do something'"
+      },
+      {
+        "question": "The witness refused ______ any questions without her lawyer present.",
+        "options": [
+          "A. answering",
+          "B. answer",
+          "C. to answer",
+          "D. answered"
+        ],
+        "answer": "C",
+        "explanation": "คำกริยา 'refuse' (ปฏิเสธ) ต้องตามด้วย to-infinitive (to + V.1) เพื่อแสดงการปฏิเสธที่จะกระทำสิ่งใดสิ่งหนึ่ง"
+      },
+      {
+        "question": "He seems ______ unaware of the consequences of his actions.",
+        "options": [
+          "A. being",
+          "B. be",
+          "C. to be",
+          "D. for being"
+        ],
+        "answer": "C",
+        "explanation": "คำกริยา 'seem' (ดูเหมือนว่า) มักจะตามด้วย to-infinitive (to + V.1) เพื่ออธิบายสภาพหรือการกระทำที่ดูเหมือนจะเป็นเช่นนั้น 'to be' เป็น infinitive ของ verb to be"
+      },
+      {
+        "question": "During the interrogation, the thief pretended ______ any knowledge of the stolen jewels.",
+        "options": [
+          "A. having",
+          "B. have",
+          "C. to have",
+          "D. for having"
+        ],
+        "answer": "C",
+        "explanation": "คำกริยา 'pretend' (เสแสร้ง, แกล้งทำ) ต้องตามด้วย to-infinitive (to + V.1) เพื่อบอกถึงสิ่งที่แกล้งทำว่ามีหรือเป็น"
+      },
+      {
+        "question": "The government has promised ______ more resources into renewable energy research.",
+        "options": [
+          "A. to invest",
+          "B. investing",
+          "C. invest",
+          "D. for investing"
+        ],
+        "answer": "A",
+        "explanation": "คำกริยา 'promise' (สัญญา) ต้องตามด้วย to-infinitive (to + V.1) เพื่อบอกถึงสิ่งที่จะทำตามคำสัญญาในอนาคต"
+      },
+      {
+        "question": "We are planning ______ our operations to several new countries in the next fiscal year.",
+        "options": [
+          "A. expanding",
+          "B. to expand",
+          "C. expand",
+          "D. an expansion"
+        ],
+        "answer": "B",
+        "explanation": "คำกริยา 'plan' (วางแผน) ต้องตามด้วย to-infinitive (to + V.1) เพื่อสื่อถึงแผนการหรือความตั้งใจที่จะทำในอนาคต"
+      },
+      {
+        "question": "The disgruntled employee threatened ______ confidential company information to the press.",
+        "options": [
+          "A. releasing",
+          "B. release",
+          "C. to release",
+          "D. having released"
+        ],
+        "answer": "C",
+        "explanation": "คำกริยา 'threaten' (ขู่) ต้องตามด้วย to-infinitive (to + V.1) เพื่อบอกถึงการกระทำที่จะใช้ในการข่มขู่"
+      }
+    ]
+  },
+  {
+    "id": "21_4",
+    "title": "21.4 Verbs followed by BOTH (ความหมายเหมือน/ต่างกัน เช่น stop, remember)",
+    "explanation": "ในภาษาอังกฤษ มีกริยาบางกลุ่มที่พิเศษกว่าใครเพื่อน เพราะสามารถตามด้วย Verb ได้ทั้งในรูปแบบ Gerund (V-ing) และ Infinitive (to + V) แต่ความสนุก (และสับสน) อยู่ที่ว่า บางครั้งความหมายก็เหมือนเดิม แต่บางครั้งก็เปลี่ยนไปอย่างสิ้นเชิง เรามาแบ่งกลุ่มเพื่อทำความเข้าใจกันครับ\n\n**กลุ่มที่ 1: ความหมายแทบไม่เปลี่ยนแปลง (Little or No Change in Meaning)**\nกริยากลุ่มนี้ใช้ได้ทั้งสองแบบโดยที่ความหมายใกล้เคียงกันมาก อาจมีความแตกต่างเล็กน้อยในเชิงความรู้สึกหรือความนิยม แต่โดยรวมแล้วใช้แทนกันได้\n- start, begin, continue, like, love, hate, prefer, can't stand\n- ตัวอย่าง: \n  - I started *learning* Japanese. / I started *to learn* Japanese. (ฉันเริ่มเรียนภาษาญี่ปุ่น)\n  - She hates *waiting* in long queues. / She hates *to wait* in long queues. (เธอเกลียดการรอคิวนานๆ)\n- *ข้อสังเกตเล็กน้อย*: บางครั้ง to-infinitive จะเน้นถึงการกระทำที่เป็นนิสัยหรือเฉพาะเจาะจง ขณะที่ gerund จะเน้นถึงความรู้สึกหรือประสบการณ์โดยทั่วไป แต่ในระดับ B1-B2 การใช้สลับกันในกลุ่มนี้มักไม่ถือว่าผิด\n\n**กลุ่มที่ 2: ความหมายเปลี่ยนไปอย่างชัดเจน (Significant Change in Meaning)**\nนี่คือหัวใจสำคัญของบทเรียนนี้ การเลือกใช้ Gerund หรือ Infinitive จะเปลี่ยนความหมายของประโยคไปเลย ต้องอาศัยความเข้าใจในบริบท\n\n1.  **stop**\n    - **stop + Gerund (V-ing)**: หยุดทำสิ่งนั้น 'เลิกทำ' (Quit an activity)\n      - He stopped *smoking* last year. (เขาเลิกสูบบุหรี่เมื่อปีที่แล้ว คือตอนนี้ไม่สูบแล้ว)\n    - **stop + Infinitive (to + V)**: หยุดทำอย่างหนึ่ง 'เพื่อที่จะ' ไปทำอีกอย่างหนึ่ง (Stop in order to do something)\n      - He stopped *to smoke*. (เขาหยุด (อาจจะหยุดเดินหรือขับรถ) เพื่อที่จะสูบบุหรี่)\n\n2.  **remember**\n    - **remember + Gerund (V-ing)**: จำได้ว่า 'เคย' ทำสิ่งนั้นในอดีต (Recall a past memory)\n      - I remember *meeting* her at the conference. (ฉันจำได้ว่าเคยเจอเธอที่งานประชุม)\n    - **remember + Infinitive (to + V)**: จำได้ว่า 'ต้อง' ทำอะไรบางอย่าง (Not forget to do a task)\n      - Please remember *to meet* her at the airport. (กรุณาอย่าลืมไปพบเธอที่สนามบินนะ)\n\n3.  **forget**\n    - **forget + Gerund (V-ing)**: ลืมว่า 'เคย' ได้ทำสิ่งนั้นไปแล้ว (Have no memory of a past event)\n      - He forgot *locking* the door. (เขาลืมไปว่าได้ล็อคประตูไปแล้ว - คือเขาจำเหตุการณ์ที่ล็อคประตูไม่ได้)\n    - **forget + Infinitive (to + V)**: ลืมว่า 'ต้อง' ทำอะไรบางอย่าง (Fail to do a task)\n      - He forgot *to lock* the door. (เขาลืมล็อคประตู - คือประตูไม่ได้ล็อค)\n\n4.  **try**\n    - **try + Gerund (V-ing)**: 'ลอง' ทำดู (เพื่อทดลอง, แก้ปัญหา) (Do something as an experiment)\n      - If you have a headache, try *drinking* more water. (ถ้าคุณปวดหัว ลองดื่มน้ำให้มากขึ้นดูสิ)\n    - **try + Infinitive (to + V)**: 'พยายาม' ทำ (ในสิ่งที่อาจจะยาก) (Make an effort to do something difficult)\n      - She tried *to lift* the heavy box, but she couldn't. (เธอพยายามที่จะยกกล่องหนักใบนั้น แต่ก็ทำไม่ได้)\n\n5.  **regret**\n    - **regret + Gerund (V-ing)**: 'เสียใจ' กับสิ่งที่ได้ทำลงไปในอดีต (Feel sorry about a past action)\n      - I regret *not studying* harder for the exam. (ฉันเสียใจที่ไม่ได้ตั้งใจเรียนให้หนักขึ้นเพื่อการสอบ)\n    - **regret + Infinitive (to + V)**: 'เสียใจที่ต้อง' แจ้งข่าวร้าย (มักใช้ในสถานการณ์ที่เป็นทางการ) (Feel sorry to have to announce bad news)\n      - We regret *to inform* you that the flight has been cancelled. (เราเสียใจที่ต้องแจ้งให้คุณทราบว่าเที่ยวบินถูกยกเลิก)\n\n6.  **go on**\n    - **go on + Gerund (V-ing)**: ทำสิ่งเดิมต่อไป (Continue the same action)\n      - He went on *talking* even though nobody was listening. (เขายังคงพูดต่อไปแม้ว่าจะไม่มีใครฟัง)\n    - **go on + Infinitive (to + V)**: ทำสิ่งหนึ่งเสร็จแล้วไปทำสิ่งใหม่ต่อ (Finish one thing and start another)\n      - After her presentation, she went on *to answer* questions from the audience. (หลังจากนำเสนอจบ เธอก็เริ่มตอบคำถามจากผู้ฟังต่อ)",
+    "examples": [
+      {
+        "eng": "I'll never forget seeing the Eiffel Tower for the first time; it was a breathtaking experience.",
+        "thai": "ฉันจะไม่มีวันลืมที่ได้เห็นหอไอเฟลเป็นครั้งแรก มันเป็นประสบการณ์ที่น่าทึ่ง (forget + V-ing: ลืมความทรงจำในอดีต)"
+      },
+      {
+        "eng": "The politician stopped to address the reporters before entering the building.",
+        "thai": "นักการเมืองคนนั้นหยุดเพื่อที่จะพูดคุยกับนักข่าวก่อนจะเข้าไปในอาคาร (stop + to V: หยุดทำอย่างหนึ่งเพื่อทำอีกอย่าง)"
+      },
+      {
+        "eng": "She tried persuading her manager to approve the project, but he remained unconvinced.",
+        "thai": "เธอพยายามโน้มน้าวผู้จัดการให้อนุมัติโครงการ แต่เขาก็ยังไม่คล้อยตาม (try + to V: พยายามทำในสิ่งที่ยาก)"
+      },
+      {
+        "eng": "After mastering Python, he went on to learn advanced data science techniques.",
+        "thai": "หลังจากเชี่ยวชาญภาษา Python แล้ว เขาก็ไปเรียนเทคนิควิทยาศาสตร์ข้อมูลขั้นสูงต่อ (go on + to V: ทำสิ่งใหม่ต่อ)"
+      },
+      {
+        "eng": "We regret to announce the immediate closure of our downtown branch due to unforeseen circumstances.",
+        "thai": "เราเสียใจที่ต้องประกาศการปิดสาขาในเมืองของเราโดยทันทีเนื่องจากเหตุการณ์ที่ไม่คาดฝัน (regret + to V: เสียใจที่จะต้องแจ้งข่าว)"
+      },
+      {
+        "eng": "Do you remember putting the documents in this drawer? I can't seem to find them anywhere.",
+        "thai": "คุณจำได้ไหมว่าได้ใส่เอกสารไว้ในลิ้นชักนี้ ฉันหาพวกมันไม่เจอเลย (remember + V-ing: จำการกระทำในอดีตได้ไหม)"
+      }
+    ],
+    "common_mistakes": "- **Stop to do vs. Stop doing**: นี่คือข้อผิดพลาดคลาสสิก คนไทยมักสับสนระหว่าง 'หยุดเพื่อทำ' กับ 'เลิกทำ' เช่น พูดว่า \"I stopped to smoke.\" ทั้งที่ต้องการจะบอกว่า 'ฉันเลิกสูบบุหรี่แล้ว' (ซึ่งที่ถูกคือ I stopped smoking.) ให้จำว่า 'to' ในที่นี้มีความหมายแฝงว่า 'in order to' (เพื่อที่จะ)\n- **Remember/Forget + V-ing/to V**: คนไทยมักใช้สลับกันระหว่างความทรงจำในอดีต (V-ing) กับหน้าที่ที่ต้องทำ (to V) เช่น เมื่อลืมทำการบ้าน ควรพูดว่า \"I forgot *to do* my homework.\" ไม่ใช่ \"I forgot *doing* my homework.\" (ซึ่งจะแปลว่า ลืมไปว่าตัวเองได้เคยทำการบ้านไปแล้ว)\n- **Try + V-ing/to V**: การแยกความหมายระหว่าง 'ลองทำ' กับ 'พยายามทำ' ยังเป็นเรื่องที่สับสนอยู่บ้าง ถ้าการกระทำนั้นเป็นการทดลองเพื่อดูผลลัพธ์ ให้ใช้ V-ing (Try calling him again.) แต่ถ้าเป็นการกระทำที่ต้องใช้ความพยายามและอาจล้มเหลวได้ ให้ใช้ to V (I tried to convince him.)",
+    "practice_questions": [
+      {
+        "question": "The laptop keeps crashing. Have you tried ______ it to see if that solves the problem?",
+        "options": [
+          "A. to restart",
+          "B. restarting",
+          "C. restart",
+          "D. to be restarted"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้เป็นการแนะนำให้ 'ลองทำ' อะไรบางอย่างเพื่อดูผลลัพธ์หรือแก้ปัญหา ซึ่งเป็นความหมายของ 'try + Gerund (V-ing)' ดังนั้น 'restarting' จึงเป็นคำตอบที่ถูกต้อง"
+      },
+      {
+        "question": "I'll never forget ______ the prize for 'Employee of the Year'. It was such a proud moment.",
+        "options": [
+          "A. to win",
+          "B. winning",
+          "C. to have won",
+          "D. win"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้พูดถึงความทรงจำของเหตุการณ์ในอดีตที่น่าจดจำ ('ลืมที่เคยได้รับรางวัล') ซึ่งต้องใช้ 'forget + Gerund (V-ing)' เพื่อสื่อถึงความทรงจำที่ผ่านมาแล้ว"
+      },
+      {
+        "question": "During the long drive across the country, we stopped frequently ______ our legs and get some fresh air.",
+        "options": [
+          "A. stretching",
+          "B. for stretch",
+          "C. to stretch",
+          "D. stretch"
+        ],
+        "answer": "C",
+        "explanation": "บริบทคือ 'หยุด' การขับรถ 'เพื่อที่จะ' ยืดเส้นยืดสาย ซึ่งเป็นความหมายของ 'stop + Infinitive (to + V)' ที่แปลว่าหยุดทำอย่างหนึ่งเพื่อทำอีกอย่างหนึ่ง"
+      },
+      {
+        "question": "Please remember ______ the quarterly report by Friday; the director is expecting it.",
+        "options": [
+          "A. submitting",
+          "B. to submit",
+          "C. submit",
+          "D. to have submitted"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้เป็นการเตือนให้ทำหน้าที่หรือภารกิจบางอย่างในอนาคต ('อย่าลืมที่จะส่งรายงาน') จึงต้องใช้ 'remember + Infinitive (to + V)'"
+      },
+      {
+        "question": "He deeply regrets ______ so harsh with his colleague during the meeting yesterday.",
+        "options": [
+          "A. to be",
+          "B. be",
+          "C. being",
+          "D. to being"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้แสดงความเสียใจต่อการกระทำในอดีต ('เสียใจที่ได้ทำตัวรุนแรง') ซึ่งตรงกับโครงสร้าง 'regret + Gerund (V-ing)'"
+      },
+      {
+        "question": "After discussing the sales figures, the team went on ______ the marketing strategy for the next campaign.",
+        "options": [
+          "A. to brainstorm",
+          "B. brainstorming",
+          "C. brainstorm",
+          "D. for brainstorming"
+        ],
+        "answer": "A",
+        "explanation": "ทีมงานได้ทำสิ่งหนึ่งเสร็จ (discussing the sales figures) แล้วจึงไปทำสิ่งใหม่ต่อ (brainstorm the strategy) ซึ่งเป็นความหมายของ 'go on + Infinitive (to + V)'"
+      },
+      {
+        "question": "My doctor strongly advised me to stop ______ caffeinated drinks after 6 p.m. to improve my sleep.",
+        "options": [
+          "A. for drinking",
+          "B. to drink",
+          "C. drinking",
+          "D. drink"
+        ],
+        "answer": "C",
+        "explanation": "คำแนะนำของแพทย์คือให้ 'เลิก' หรือ 'หยุด' การดื่มเครื่องดื่มที่มีคาเฟอีน ซึ่งเป็นการหยุดกิจกรรมนั้นๆ จึงต้องใช้ 'stop + Gerund (V-ing)'"
+      },
+      {
+        "question": "I'm certain I paid the electricity bill. I vividly remember ______ it online last week.",
+        "options": [
+          "A. doing",
+          "B. to do",
+          "C. do",
+          "D. to have done"
+        ],
+        "answer": "A",
+        "explanation": "ผู้พูดกำลังอ้างถึงความทรงจำของการกระทำในอดีต ('จำได้ว่าเคยทำมัน') ดังนั้นจึงต้องใช้โครงสร้าง 'remember + Gerund (V-ing)'"
+      },
+      {
+        "question": "I tried ______ the manager about my concerns, but her schedule was too full to arrange a meeting.",
+        "options": [
+          "A. speaking to",
+          "B. to speak to",
+          "C. speak to",
+          "D. for speaking to"
+        ],
+        "answer": "B",
+        "explanation": "บริบทนี้แสดงถึงความ 'พยายาม' ที่จะทำบางสิ่งที่อาจจะยากหรือล้มเหลว ('พยายามที่จะคุย') ซึ่งตรงกับความหมายของ 'try + Infinitive (to + V)'"
+      },
+      {
+        "question": "Oh no, I forgot ______ some milk on my way home, and now all the shops are closed.",
+        "options": [
+          "A. buying",
+          "B. to buy",
+          "C. buy",
+          "D. to have bought"
+        ],
+        "answer": "B",
+        "explanation": "ผู้พูด 'ลืมที่จะทำ' ภารกิจอย่างหนึ่ง คือการซื้อนม ซึ่งเป็นการละเลยหน้าที่หรือสิ่งที่ตั้งใจจะทำ จึงต้องใช้ 'forget + Infinitive (to + V)'"
+      }
+    ]
+  },
+  {
+    "id": "21_5",
+    "title": "21.5 Summary: Gerunds & Infinitives (สรุปกริยาไม่แท้ + 50 Exercises)",
+    "explanation": "นี่คือบทสรุปภาพรวมทั้งหมดของ Gerunds และ Infinitives ซึ่งเป็นหัวใจสำคัญของไวยากรณ์ระดับกลางครับ\n\n**1. Gerund (V-ing): ทำหน้าที่เหมือนคำนาม**\n*   **เป็นประธานของประโยค (Subject):** มักจะขึ้นต้นประโยคเลย\n    *   `Reading` helps you learn new things.\n*   **เป็นกรรมของกริยา (Object of a verb):** ใช้ตามหลังกริยาเฉพาะกลุ่ม เช่น `admit, avoid, consider, deny, enjoy, finish, mind, miss, postpone, suggest`\n    *   She `enjoys listening` to music.\n*   **ตามหลังบุพบท (Preposition):** คำใดก็ตามที่เป็นบุพบท (in, on, at, of, for, about, without, after, before...) ถ้ามีกริยาตามมา ต้องเป็น Gerund เสมอ\n    *   He is interested `in learning` Japanese.\n\n**2. Infinitive (to + V1):**\n*   **ตามหลังกริยาบางกลุ่ม:** ใช้ตามหลังกริยาที่แสดงความต้องการ, การตัดสินใจ, แผนในอนาคต เช่น `agree, decide, hope, manage, need, offer, plan, promise, refuse, seem, want, would like`\n    *   They `plan to visit` Paris next year.\n*   **เพื่อบอกวัตถุประสงค์ (Purpose):** แปลว่า 'เพื่อที่จะ...'\n    *   I went to the library `to study` for my exam.\n*   **ตามหลังคำคุณศัพท์ (Adjective):** เพื่อขยายความรู้สึกหรือความคิดเห็นนั้นๆ\n    *   It's `important to be` on time.\n*   **ตามหลังคำแสดงคำถาม (Question Words):** เช่น what, where, when, how\n    *   I don't know `what to do`.\n\n**3. กริยาที่ตามด้วย Gerund หรือ Infinitive ก็ได้ (แต่ความหมายเปลี่ยน!):** นี่คือส่วนที่ท้าทายที่สุด!\n*   **remember/forget + Gerund:** จำ/ลืมสิ่งที่ `ทำไปแล้ว` ในอดีต\n    *   I `remember meeting` her once. (ฉันจำได้ว่าเคยเจอเธอครั้งหนึ่ง)\n*   **remember/forget + Infinitive:** จำ/ลืมว่า `จะต้องทำ` อะไรบางอย่าง (อนาคต)\n    *   Please `remember to lock` the door. (กรุณาอย่าลืมล็อคประตูนะ)\n*   **stop + Gerund:** `เลิก` ทำสิ่งนั้นอย่างถาวรหรือชั่วคราว\n    *   He `stopped smoking` last year. (เขาเลิกสูบบุหรี่เมื่อปีที่แล้ว)\n*   **stop + Infinitive:** `หยุด` ทำอย่างหนึ่ง `เพื่อ` ไปทำอีกอย่างหนึ่ง\n    *   He `stopped to smoke`. (เขาหยุด (เช่น หยุดเดิน) เพื่อที่จะสูบบุหรี่)\n*   **try + Gerund:** `ลอง` ทำสิ่งนั้นดู (เป็นการทดลอง)\n    *   `Try adding` more salt. (ลองเติมเกลือเพิ่มดูสิ)\n*   **try + Infinitive:** `พยายาม` ทำสิ่งนั้น (มักจะเป็นเรื่องยาก)\n    *   I `tried to lift` the box, but it was too heavy. (ฉันพยายามจะยกกล่อง แต่ว่ามันหนักเกินไป)\n*   **regret + Gerund:** `เสียใจ` กับสิ่งที่ทำลงไปแล้วในอดีต\n    *   I `regret telling` him my secret.\n*   **regret + Infinitive:** `เสียใจ/เสียดายที่จะต้อง` แจ้งข่าวร้าย (มักใช้ในสถานการณ์ที่เป็นทางการ)\n    *   We `regret to inform` you that your application was rejected.\n\n**4. Bare Infinitive (V1 ไม่ต้องมี to):**\n*   ตามหลัง Modal Verbs (can, could, will, would, shall, should, may, might, must)\n    *   You `must finish` your homework.\n*   ตามหลัง `let`, `make`, `have` (causative verbs)\n    *   My manager `made` me `work` overtime.\n*   ตามหลังกริยารับรู้ (verbs of perception) เช่น `see, watch, hear, feel`\n    *   I `saw` him `leave` the house.",
+    "examples": [
+      {
+        "eng": "She avoids talking about her past.",
+        "thai": "เธอหลีกเลี่ยงที่จะพูดถึงอดีตของเธอ (กริยา avoid ต้องตามด้วย Gerund)"
+      },
+      {
+        "eng": "He promised to call me as soon as he arrived.",
+        "thai": "เขาสัญญาว่าจะโทรหาฉันทันทีที่เขาไปถึง (กริยา promise ต้องตามด้วย to-infinitive)"
+      },
+      {
+        "eng": "I remember seeing that movie, but I don't remember the ending.",
+        "thai": "ฉันจำได้ว่าเคยดูหนังเรื่องนั้น (เหตุการณ์ในอดีต) แต่จำตอนจบไม่ได้"
+      },
+      {
+        "eng": "Did you remember to buy milk?",
+        "thai": "คุณจำได้ไหมว่าต้องซื้อนม (สิ่งที่จะต้องทำ)"
+      },
+      {
+        "eng": "My parents let me stay up late on weekends.",
+        "thai": "พ่อแม่ของฉันอนุญาตให้ฉันนอนดึกได้ในวันหยุดสุดสัปดาห์ (let + object + bare infinitive)"
+      }
+    ],
+    "common_mistakes": "**1. สับสนว่ากริยาตัวไหนตามด้วยอะไร:** เป็นข้อผิดพลาดที่พบบ่อยที่สุด คนไทยมักจะจำไม่ได้ว่า `enjoy` ต้องตามด้วย `V-ing` หรือ `want` ต้องตามด้วย `to V1` วิธีแก้คือการท่องจำและฝึกฝนบ่อยๆ\n*   ผิด: I enjoy `to watch` movies.\n*   ถูก: I enjoy `watching` movies.\n\n**2. ไม่เข้าใจความหมายที่เปลี่ยนไป:** การใช้ `stop smoking` (เลิกสูบ) กับ `stop to smoke` (หยุดเพื่อสูบ) ผิด ความหมายจะเปลี่ยนไปทันที ต้องระวังบริบทให้ดี\n\n**3. ลืมบุพบท (Preposition) ก่อน Gerund:** เมื่อมีโครงสร้าง `Verb + Preposition` กริยาที่ตามมาต้องเป็น Gerund เสมอ หลายคนมักจะลืมบุพบทไป\n*   ผิด: She insisted `helping` me.\n*   ถูก: She insisted `on helping` me.\n\n**4. ใส่ 'to' หลัง Modal Verbs:** Modal Verbs (can, must, should, etc.) ต้องตามด้วยกริยาช่อง 1 ที่ไม่มี to (Bare Infinitive) เท่านั้น\n*   ผิด: You must `to study` harder.\n*   ถูก: You must `study` harder.",
+    "practice_questions": [
+      {
+        "question": "I really enjoy ___ to classical music.",
+        "options": [
+          "A. to listen",
+          "B. listening",
+          "C. listen",
+          "D. listened"
+        ],
+        "answer": "B",
+        "explanation": "กริยา 'enjoy' (สนุกกับ) ต้องตามด้วย Gerund (V-ing) เสมอ ดังนั้นคำตอบที่ถูกต้องคือ 'listening'"
+      },
+      {
+        "question": "He decided ___ a new career path after much consideration.",
+        "options": [
+          "A. pursuing",
+          "B. pursue",
+          "C. to pursue",
+          "D. to pursuing"
+        ],
+        "answer": "C",
+        "explanation": "กริยา 'decide' (ตัดสินใจ) ต้องตามด้วย to-infinitive (to + V1) เสมอ เพื่อบอกการตัดสินใจที่จะทำอะไรบางอย่าง"
+      },
+      {
+        "question": "___ early is a good habit.",
+        "options": [
+          "A. Waking up",
+          "B. To wake up",
+          "C. Wake up",
+          "D. For waking up"
+        ],
+        "answer": "A",
+        "explanation": "เราต้องการประธานของประโยค ซึ่งต้องเป็นคำนาม ในที่นี้ Gerund 'Waking up' ทำหน้าที่เป็นประธานของประโยค"
+      },
+      {
+        "question": "Thank you for ___ me with my project.",
+        "options": [
+          "A. to help",
+          "B. help",
+          "C. helped",
+          "D. helping"
+        ],
+        "answer": "D",
+        "explanation": "หลังบุพบท (Preposition) 'for' ต้องใช้ Gerund (V-ing) เสมอ"
+      },
+      {
+        "question": "She managed ___ the difficult exam despite being ill.",
+        "options": [
+          "A. to pass",
+          "B. passing",
+          "C. pass",
+          "D. passed"
+        ],
+        "answer": "A",
+        "explanation": "กริยา 'manage' (จัดการได้สำเร็จ) ต้องตามด้วย to-infinitive (to + V1)"
+      },
+      {
+        "question": "Would you mind ___ the window? It's a bit cold in here.",
+        "options": [
+          "A. to close",
+          "B. closing",
+          "C. close",
+          "D. closed"
+        ],
+        "answer": "B",
+        "explanation": "สำนวน 'Would you mind...?' (คุณจะรังเกียจไหมถ้าจะ...) ต้องตามด้วย Gerund (V-ing)"
+      },
+      {
+        "question": "He went to the supermarket ___ some groceries.",
+        "options": [
+          "A. buying",
+          "B. buy",
+          "C. for buying",
+          "D. to buy"
+        ],
+        "answer": "D",
+        "explanation": "ในที่นี้ เราใช้ to-infinitive เพื่อบอกวัตถุประสงค์ (purpose) ว่าเขาไปซูเปอร์มาร์เก็ต 'เพื่อที่จะซื้อ' ของ"
+      },
+      {
+        "question": "I'm not very good at ___ names.",
+        "options": [
+          "A. remember",
+          "B. to remember",
+          "C. remembering",
+          "D. remembered"
+        ],
+        "answer": "C",
+        "explanation": "หลังบุพบท (Preposition) 'at' ต้องใช้ Gerund (V-ing) เสมอ"
+      },
+      {
+        "question": "Please remember ___ the lights before you leave the office.",
+        "options": [
+          "A. turning off",
+          "B. turn off",
+          "C. to turn off",
+          "D. turned off"
+        ],
+        "answer": "C",
+        "explanation": "'Remember + to-infinitive' หมายถึง จำได้ว่า 'จะต้องทำ' อะไรบางอย่างในอนาคต ซึ่งในบริบทนี้คือการบอกให้ปิดไฟก่อนออกจากออฟฟิศ"
+      },
+      {
+        "question": "My boss made me ___ the entire report again.",
+        "options": [
+          "A. to rewrite",
+          "B. rewriting",
+          "C. rewrite",
+          "D. rewritten"
+        ],
+        "answer": "C",
+        "explanation": "โครงสร้าง 'make + someone + Verb' ใช้ Bare Infinitive (กริยาช่อง 1 ไม่มี to) แปลว่า 'บังคับให้ใครทำอะไร'"
+      },
+      {
+        "question": "I stopped ___ a coffee on my way to work this morning.",
+        "options": [
+          "A. buying",
+          "B. to buy",
+          "C. buy",
+          "D. for buying"
+        ],
+        "answer": "B",
+        "explanation": "'Stop + to-infinitive' หมายถึง หยุดทำอย่างหนึ่ง 'เพื่อ' ที่จะไปทำอีกอย่างหนึ่ง ในที่นี้คือ 'หยุด (อาจจะหยุดเดินหรือขับรถ) เพื่อที่จะซื้อกาแฟ'"
+      },
+      {
+        "question": "She avoids ___ junk food because she wants to stay healthy.",
+        "options": [
+          "A. to eat",
+          "B. eating",
+          "C. eat",
+          "D. eaten"
+        ],
+        "answer": "B",
+        "explanation": "กริยา 'avoid' (หลีกเลี่ยง) ต้องตามด้วย Gerund (V-ing) เสมอ"
+      },
+      {
+        "question": "It's difficult ___ a new language as an adult.",
+        "options": [
+          "A. for learning",
+          "B. learn",
+          "C. learning",
+          "D. to learn"
+        ],
+        "answer": "D",
+        "explanation": "หลังโครงสร้าง It's + Adjective (เช่น difficult, easy, important) เราใช้ to-infinitive"
+      },
+      {
+        "question": "I'll never forget ___ the Eiffel Tower for the first time.",
+        "options": [
+          "A. to see",
+          "B. seeing",
+          "C. see",
+          "D. saw"
+        ],
+        "answer": "B",
+        "explanation": "'Forget + Gerund' หมายถึง ลืมเรื่องที่ 'เคยเกิดขึ้นแล้ว' ในอดีต ในที่นี้คือความทรงจำที่เคยเห็นหอไอเฟลครั้งแรก"
+      },
+      {
+        "question": "My parents won't let me ___ their car.",
+        "options": [
+          "A. to borrow",
+          "B. borrowing",
+          "C. borrow",
+          "D. borrowed"
+        ],
+        "answer": "C",
+        "explanation": "โครงสร้าง 'let + someone + Verb' ใช้ Bare Infinitive (กริยาช่อง 1 ไม่มี to) แปลว่า 'อนุญาตให้ใครทำอะไร'"
+      },
+      {
+        "question": "We regret ___ you that the flight has been cancelled.",
+        "options": [
+          "A. informing",
+          "B. to inform",
+          "C. inform",
+          "D. informed"
+        ],
+        "answer": "B",
+        "explanation": "'Regret + to-infinitive' ใช้เพื่อแจ้งข่าวร้ายอย่างเป็นทางการ แปลว่า 'เสียใจที่จะต้องแจ้งให้ทราบว่า...'"
+      },
+      {
+        "question": "He is considering ___ his job and starting his own business.",
+        "options": [
+          "A. quitting",
+          "B. to quit",
+          "C. quit",
+          "D. for quitting"
+        ],
+        "answer": "A",
+        "explanation": "กริยา 'consider' (พิจารณา) ต้องตามด้วย Gerund (V-ing)"
+      },
+      {
+        "question": "Why don't you try ___ the computer? It might solve the problem.",
+        "options": [
+          "A. to restart",
+          "B. restarting",
+          "C. restart",
+          "D. restarted"
+        ],
+        "answer": "B",
+        "explanation": "'Try + Gerund' หมายถึง 'ลองทำ' สิ่งนั้นดูเพื่อแก้ปัญหา เป็นการทดลอง ในที่นี้คือการ 'ลองรีสตาร์ท' คอมพิวเตอร์ดู"
+      },
+      {
+        "question": "She seems ___ very happy with her new apartment.",
+        "options": [
+          "A. to be",
+          "B. being",
+          "C. be",
+          "D. been"
+        ],
+        "answer": "A",
+        "explanation": "กริยา 'seem' (ดูเหมือนว่า) ต้องตามด้วย to-infinitive"
+      },
+      {
+        "question": "I'm looking forward to ___ from you soon.",
+        "options": [
+          "A. hear",
+          "B. to hear",
+          "C. hearing",
+          "D. heard"
+        ],
+        "answer": "C",
+        "explanation": "วลี 'look forward to' ต้องตามด้วย Gerund (V-ing) เสมอ แม้ว่าจะมี 'to' อยู่ในวลีแล้วก็ตาม ซึ่งเป็นจุดที่คนมักสับสน"
+      },
+      {
+        "question": "The company refused ___ the workers' demands for higher pay.",
+        "options": [
+          "A. to accept",
+          "B. accepting",
+          "C. accept",
+          "D. accepted"
+        ],
+        "answer": "A",
+        "explanation": "กริยา 'refuse' (ปฏิเสธ) ต้องตามด้วย to-infinitive"
+      },
+      {
+        "question": "He was accused of ___ company secrets to a rival.",
+        "options": [
+          "A. to sell",
+          "B. sell",
+          "C. selling",
+          "D. sold"
+        ],
+        "answer": "C",
+        "explanation": "หลังบุพบท 'of' (จากวลี accused of) ต้องใช้ Gerund (V-ing)"
+      },
+      {
+        "question": "You must ___ your work before you can go home.",
+        "options": [
+          "A. to finish",
+          "B. finishing",
+          "C. finish",
+          "D. finished"
+        ],
+        "answer": "C",
+        "explanation": "หลัง Modal Verb 'must' ต้องใช้ Bare Infinitive (กริยาช่อง 1 ไม่มี to)"
+      },
+      {
+        "question": "It's no use ___ about the past; you can't change it.",
+        "options": [
+          "A. to worry",
+          "B. worrying",
+          "C. worry",
+          "D. worried"
+        ],
+        "answer": "B",
+        "explanation": "สำนวน 'It's no use...' (ไม่มีประโยชน์ที่จะ...) ต้องตามด้วย Gerund (V-ing)"
+      },
+      {
+        "question": "She promised ___ me with my move next weekend.",
+        "options": [
+          "A. helping",
+          "B. to help",
+          "C. help",
+          "D. for helping"
+        ],
+        "answer": "B",
+        "explanation": "กริยา 'promise' (สัญญา) ต้องตามด้วย to-infinitive"
+      },
+      {
+        "question": "He practices ___ the piano for two hours every day.",
+        "options": [
+          "A. playing",
+          "B. to play",
+          "C. play",
+          "D. plays"
+        ],
+        "answer": "A",
+        "explanation": "กริยา 'practice' (ฝึกฝน) ต้องตามด้วย Gerund (V-ing)"
+      },
+      {
+        "question": "I can't afford ___ on such an expensive vacation.",
+        "options": [
+          "A. going",
+          "B. for going",
+          "C. to go",
+          "D. go"
+        ],
+        "answer": "C",
+        "explanation": "กริยา 'afford' (มีปัญญาจ่าย/ซื้อ) ต้องตามด้วย to-infinitive"
+      },
+      {
+        "question": "We are excited about ___ to a new city.",
+        "options": [
+          "A. move",
+          "B. to move",
+          "C. moved",
+          "D. moving"
+        ],
+        "answer": "D",
+        "explanation": "หลังบุพบท 'about' ต้องใช้ Gerund (V-ing) เสมอ"
+      },
+      {
+        "question": "I saw him ___ into the bank a few minutes ago.",
+        "options": [
+          "A. to walk",
+          "B. walking",
+          "C. walked",
+          "D. walk"
+        ],
+        "answer": "D",
+        "explanation": "โครงสร้าง 'see + someone + Verb' ใช้ Bare Infinitive (V1) เพื่อบอกว่าเห็นการกระทำนั้นทั้งหมดตั้งแต่ต้นจนจบ (ตัวเลือก B 'walking' ก็ใช้ได้ แต่จะหมายถึงเห็นขณะที่เขากำลังเดินเข้าไป)"
+      },
+      {
+        "question": "He has given up ___ to convince her.",
+        "options": [
+          "A. try",
+          "B. trying",
+          "C. to try",
+          "D. tried"
+        ],
+        "answer": "B",
+        "explanation": "วลี 'give up' (ยอมแพ้, ล้มเลิก) ต้องตามด้วย Gerund (V-ing)"
+      },
+      {
+        "question": "She offered ___ me a ride to the airport.",
+        "options": [
+          "A. to give",
+          "B. giving",
+          "C. give",
+          "D. gave"
+        ],
+        "answer": "A",
+        "explanation": "กริยา 'offer' (เสนอ) ต้องตามด้วย to-infinitive"
+      },
+      {
+        "question": "He denies ___ anything about the missing documents.",
+        "options": [
+          "A. to know",
+          "B. know",
+          "C. known",
+          "D. knowing"
+        ],
+        "answer": "D",
+        "explanation": "กริยา 'deny' (ปฏิเสธ) ต้องตามด้วย Gerund (V-ing)"
+      },
+      {
+        "question": "I don't know how ___ this complicated machine.",
+        "options": [
+          "A. to operate",
+          "B. operating",
+          "C. operate",
+          "D. for operating"
+        ],
+        "answer": "A",
+        "explanation": "หลังคำแสดงคำถาม (Question Word) เช่น what, where, when, how เราใช้ to-infinitive"
+      },
+      {
+        "question": "I can't help ___ when I watch that movie.",
+        "options": [
+          "A. to laugh",
+          "B. laughing",
+          "C. laugh",
+          "D. laughed"
+        ],
+        "answer": "B",
+        "explanation": "สำนวน 'can't help' (อดไม่ได้ที่จะ...) ต้องตามด้วย Gerund (V-ing)"
+      },
+      {
+        "question": "They postponed ___ the meeting until next Friday.",
+        "options": [
+          "A. to have",
+          "B. have",
+          "C. having",
+          "D. had"
+        ],
+        "answer": "C",
+        "explanation": "กริยา 'postpone' (เลื่อนออกไป) ต้องตามด้วย Gerund (V-ing)"
+      },
+      {
+        "question": "He was brave enough ___ the truth to his boss.",
+        "options": [
+          "A. telling",
+          "B. tell",
+          "C. to tell",
+          "D. for telling"
+        ],
+        "answer": "C",
+        "explanation": "หลังโครงสร้าง 'Adjective + enough' เราใช้ to-infinitive"
+      },
+      {
+        "question": "She suggested ___ a taxi to the airport to save time.",
+        "options": [
+          "A. to take",
+          "B. take",
+          "C. took",
+          "D. taking"
+        ],
+        "answer": "D",
+        "explanation": "กริยา 'suggest' (แนะนำ) ต้องตามด้วย Gerund (V-ing)"
+      },
+      {
+        "question": "He tried ___ the heavy sofa by himself, but he couldn't.",
+        "options": [
+          "A. to move",
+          "B. moving",
+          "C. move",
+          "D. moved"
+        ],
+        "answer": "A",
+        "explanation": "'Try + to-infinitive' หมายถึง 'พยายาม' ทำสิ่งที่ยาก ในที่นี้คือพยายามย้ายโซฟาที่หนัก"
+      },
+      {
+        "question": "We are committed to ___ excellent customer service.",
+        "options": [
+          "A. provide",
+          "B. to provide",
+          "C. providing",
+          "D. provided"
+        ],
+        "answer": "C",
+        "explanation": "วลี 'be committed to' ต้องตามด้วย Gerund (V-ing) คำว่า 'to' ในที่นี้เป็นบุพบท ไม่ใช่ส่วนหนึ่งของ infinitive"
+      },
+      {
+        "question": "My teacher encouraged me ___ in the competition.",
+        "options": [
+          "A. participating",
+          "B. to participate",
+          "C. participate",
+          "D. for participating"
+        ],
+        "answer": "B",
+        "explanation": "โครงสร้าง 'encourage + someone + to do something' (สนับสนุนให้ใครทำอะไร) ต้องใช้ to-infinitive"
+      },
+      {
+        "question": "I can't stand ___ in long queues.",
+        "options": [
+          "A. to wait",
+          "B. waiting",
+          "C. wait",
+          "D. waited"
+        ],
+        "answer": "B",
+        "explanation": "กริยา 'can't stand' (ทนไม่ได้) ต้องตามด้วย Gerund (V-ing)"
+      },
+      {
+        "question": "This is the best way ___ the problem.",
+        "options": [
+          "A. to solve",
+          "B. solving",
+          "C. solve",
+          "D. for solving"
+        ],
+        "answer": "A",
+        "explanation": "เราใช้ to-infinitive เพื่อขยายคำนาม เช่น 'a way', 'a chance', 'an opportunity' ในที่นี้คือ 'วิธีที่จะแก้ปัญหา'"
+      },
+      {
+        "question": "He eventually succeeded in ___ the contract.",
+        "options": [
+          "A. to get",
+          "B. getting",
+          "C. get",
+          "D. got"
+        ],
+        "answer": "B",
+        "explanation": "หลังบุพบท 'in' (จากวลี succeed in) ต้องใช้ Gerund (V-ing)"
+      },
+      {
+        "question": "She was heard ___ that she was leaving the company.",
+        "options": [
+          "A. say",
+          "B. saying",
+          "C. said",
+          "D. to say"
+        ],
+        "answer": "D",
+        "explanation": "เมื่อ verb of perception (see, hear, make) อยู่ในรูป Passive Voice (was heard) กริยาที่ตามมาจะต้องเป็น to-infinitive"
+      },
+      {
+        "question": "He warned his son ___ with fire.",
+        "options": [
+          "A. not playing",
+          "B. not to play",
+          "C. to not play",
+          "D. don't play"
+        ],
+        "answer": "B",
+        "explanation": "โครงสร้าง 'warn + someone + not to do something' (เตือนใครไม่ให้ทำอะไร) รูปปฏิเสธของ to-infinitive คือ 'not to + V1'"
+      },
+      {
+        "question": "They agreed ___ on the price after a long negotiation.",
+        "options": [
+          "A. to compromise",
+          "B. compromising",
+          "C. compromise",
+          "D. on compromising"
+        ],
+        "answer": "A",
+        "explanation": "กริยา 'agree' (ตกลง, ยอมรับ) ต้องตามด้วย to-infinitive"
+      },
+      {
+        "question": "I would prefer ___ at home tonight rather than go out.",
+        "options": [
+          "A. staying",
+          "B. to stay",
+          "C. stay",
+          "D. stayed"
+        ],
+        "answer": "B",
+        "explanation": "โครงสร้าง 'would prefer' ต้องตามด้วย to-infinitive ('to stay') เมื่อต้องการเปรียบเทียบจะใช้ 'rather than' + Bare Infinitive ('go')"
+      },
+      {
+        "question": "It is worth ___ that museum if you are interested in history.",
+        "options": [
+          "A. to visit",
+          "B. visiting",
+          "C. visit",
+          "D. for visiting"
+        ],
+        "answer": "B",
+        "explanation": "สำนวน 'be worth' (คุ้มค่าที่จะ...) ต้องตามด้วย Gerund (V-ing)"
+      },
+      {
+        "question": "The new law will prevent people from ___ in public areas.",
+        "options": [
+          "A. smoke",
+          "B. to smoke",
+          "C. smoking",
+          "D. smoked"
+        ],
+        "answer": "C",
+        "explanation": "โครงสร้าง 'prevent someone from doing something' ต้องใช้บุพบท 'from' ตามด้วย Gerund (V-ing)"
+      },
+      {
+        "question": "He was the last person ___ the office last night.",
+        "options": [
+          "A. leaving",
+          "B. left",
+          "C. to leave",
+          "D. leave"
+        ],
+        "answer": "C",
+        "explanation": "หลังคำบอกลำดับ เช่น the first, the second, the next, the last เราใช้ to-infinitive"
+      }
+    ]
+  }
+]

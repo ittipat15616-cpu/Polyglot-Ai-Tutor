@@ -1,0 +1,1006 @@
+[
+  {
+    "id": "25_1",
+    "title": "25.1 Coordinating Conjunctions (FANBOYS)",
+    "explanation": "Coordinating Conjunctions คือ คำสันธานที่ใช้เชื่อมคำ (words), วลี (phrases), หรือประโยค (clauses) ที่มีความสำคัญเท่าเทียมกันเข้าด้วยกัน หลักการจำง่ายๆ คือตัวย่อ 'FANBOYS' ซึ่งแต่ละตัวมีความหมายและหน้าที่ดังนี้:\n\nF - For (เพราะว่า): ใช้บอกเหตุผล คล้าย 'because' แต่มีความเป็นทางการมากกว่า และมักจะใช้ในภาษาเขียน เหตุผลที่ตามหลัง 'for' มักจะเป็นการให้ข้อมูลเพิ่มเติม ไม่ใช่เหตุผลโดยตรง\n\nA - And (และ): ใช้เชื่อมสิ่งที่คล้อยตามกัน เป็นการเพิ่มข้อมูลเข้ามา\n\nN - Nor (และ...ก็ไม่): ใช้เชื่อมประโยคที่เป็นปฏิเสธสองประโยคเข้าด้วยกัน โดยประโยคที่ตามหลัง 'nor' จะต้องทำ Inversion (สลับที่กริยาช่วยกับประธาน)\n\nB - But (แต่): ใช้เชื่อมสิ่งที่ขัดแย้งกัน\n\nO - Or (หรือ): ใช้เชื่อมสิ่งที่ให้เลือกอย่างใดอย่างหนึ่ง\n\nY - Yet (แต่ถึงกระนั้น): ใช้เชื่อมสิ่งที่ขัดแย้งกัน คล้าย 'but' แต่จะเน้นความประหลาดใจ หรือผลลัพธ์ที่คาดไม่ถึงมากกว่า\n\nS - So (ดังนั้น): ใช้เชื่อมเหตุและผล โดยประโยคที่ตามหลัง 'so' จะเป็นผลลัพธ์\n\n**กฎการใช้เครื่องหมายจุลภาค (Comma):**\nเมื่อใช้ FANBOYS เชื่อมสองประโยคสมบูรณ์ (Independent Clauses) เข้าด้วยกัน จะต้องใส่ comma (,) ไว้หน้าคำสันธานเสมอ\nเช่น: The team played well, but they lost the game. (The team played well และ they lost the game เป็นประโยคสมบูรณ์ทั้งคู่)",
+    "examples": [
+      {
+        "eng": "The residents decided to protest, for the new construction project would eliminate their only local park.",
+        "thai": "เหล่าผู้พักอาศัยตัดสินใจที่จะประท้วง เพราะว่าโครงการก่อสร้างใหม่จะทำให้สวนสาธารณะในท้องถิ่นเพียงแห่งเดียวของพวกเขาหายไป (For ใช้ให้เหตุผลอย่างเป็นทางการ)"
+      },
+      {
+        "eng": "The government has invested heavily in renewable energy and has offered significant tax incentives to companies that adopt green technology.",
+        "thai": "รัฐบาลได้ลงทุนอย่างมหาศาลในพลังงานหมุนเวียน และได้เสนอสิ่งจูงใจทางภาษีที่สำคัญให้กับบริษัทที่นำเทคโนโลยีสีเขียวมาใช้ (And เชื่อมสองวลีที่มีความสำคัญเท่ากัน)"
+      },
+      {
+        "eng": "She has no interest in politics, nor does she follow the current news events.",
+        "thai": "เธอไม่สนใจเรื่องการเมืองเลย และเธอก็ไม่ติดตามข่าวสารปัจจุบันเช่นกัน (Nor เชื่อมประโยคปฏิเสธ สังเกตการใช้ does she follow ซึ่งเป็นโครงสร้าง Inversion)"
+      },
+      {
+        "eng": "The experiment yielded promising results, but further research is required before drawing any firm conclusions.",
+        "thai": "การทดลองให้ผลลัพธ์ที่น่าพอใจ แต่ยังจำเป็นต้องมีการวิจัยเพิ่มเติมก่อนที่จะสรุปผลอย่างแน่ชัด (But แสดงข้อมูลที่ขัดแย้งกัน)"
+      },
+      {
+        "eng": "We can either postpone the meeting until next week, or we can proceed without the absent members.",
+        "thai": "เราสามารถเลื่อนการประชุมออกไปจนถึงสัปดาห์หน้า หรือเราจะดำเนินการต่อไปโดยไม่มีสมาชิกที่ขาดประชุมก็ได้ (Or ให้ทางเลือกที่ชัดเจน)"
+      },
+      {
+        "eng": "It was a risky and unconventional strategy, yet it ultimately led to the company's greatest success.",
+        "thai": "มันเป็นกลยุทธ์ที่เสี่ยงและไม่เป็นไปตามแบบแผน แต่ถึงกระนั้นมันก็นำไปสู่ความสำเร็จที่ยิ่งใหญ่ที่สุดของบริษัทในท้ายที่สุด (Yet เน้นความขัดแย้งที่น่าประหลาดใจ/คาดไม่ถึง)"
+      },
+      {
+        "eng": "Consumer confidence has been steadily decreasing, so economists are predicting a slowdown in spending.",
+        "thai": "ความเชื่อมั่นของผู้บริโภคลดลงอย่างต่อเนื่อง ดังนั้นนักเศรษฐศาสตร์จึงคาดการณ์ว่าการใช้จ่ายจะชะลอตัว (So บอกผลลัพธ์ที่ตามมา)"
+      }
+    ],
+    "common_mistakes": "1. **การใช้ Comma Splice:** คนไทยมักเชื่อมสองประโยคสมบูรณ์ด้วย comma เพียงอย่างเดียว ซึ่งผิดหลักไวยากรณ์\n   - ผิด: The flight was delayed, we missed our connection.\n   - ถูก: The flight was delayed, so we missed our connection.\n\n2. **ลืมใส่ Comma หน้า FANBOYS:** เมื่อเชื่อมสองประโยคสมบูรณ์ (Independent Clauses) ต้องมี comma เสมอ\n   - ผิด: He is an exceptional leader but he struggles with public speaking.\n   - ถูก: He is an exceptional leader, but he struggles with public speaking.\n   - **ข้อยกเว้น:** ถ้าสิ่งที่เชื่อมไม่ใช่ประโยคสมบูรณ์ (เช่น คำ หรือ วลี) ไม่ต้องใส่ comma เช่น `He is smart and kind.`\n\n3. **การใช้ 'Nor' ที่ผิดโครงสร้าง:** มักจะลืมทำ Inversion (การสลับตำแหน่งกริยาช่วยกับประธาน) ในประโยคที่ตามหลัง 'nor'\n   - ผิด: He didn't finish his homework, nor he studied for the test.\n   - ถูก: He didn't finish his homework, nor did he study for the test.\n\n4. **สับสนระหว่าง 'But' และ 'Yet':** ทั้งสองคำแสดงความขัดแย้ง แต่ 'yet' จะมีความรู้สึกของ 'ความน่าประหลาดใจ' หรือ 'สิ่งที่คาดไม่ถึง' มากกว่า 'but' ซึ่งเป็นการขัดแย้งทั่วไป\n\n5. **ใช้ 'For' ในความหมาย 'Because' บ่อยเกินไป:** ในภาษาพูดและภาษาเขียนทั่วไป 'because' เป็นคำที่ใช้บอกเหตุผลโดยตรงและเป็นธรรมชาติกว่า 'For' จะใช้ในบริบทที่เป็นทางการมากๆ หรือในงานเขียนเชิงวรรณกรรม",
+    "practice_questions": [
+      {
+        "question": "The company's marketing strategy was innovative, ______ it failed to connect with the target demographic.",
+        "options": [
+          "A. so",
+          "B. yet",
+          "C. for",
+          "D. nor"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคหน้าบอกว่ากลยุทธ์การตลาดนั้นยอดเยี่ยม (แง่บวก) แต่ประโยคหลังบอกว่ามันล้มเหลว (แง่ลบ) ซึ่งเป็นผลลัพธ์ที่ขัดแย้งและน่าประหลาดใจ ดังนั้น 'yet' (แต่ถึงกระนั้น) จึงเหมาะสมที่สุด 'So' (ดังนั้น) ใช้บอกผลลัพธ์ที่คล้อยตามกัน 'For' (เพราะว่า) ใช้บอกเหตุผล และ 'Nor' (และ...ก็ไม่) ใช้กับประโยคปฏิเสธ"
+      },
+      {
+        "question": "The defendant had a solid alibi, ______ the jury found him guilty.",
+        "options": [
+          "A. for",
+          "B. but",
+          "C. or",
+          "D. so"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้แสดงความขัดแย้งระหว่างการมีพยานหลักฐานที่อยู่ (a solid alibi) กับผลการตัดสินว่ามีความผิด 'But' (แต่) เป็นคำเชื่อมที่เหมาะสมที่สุดในการแสดงความขัดแย้งโดยตรงนี้ 'Yet' ก็ใช้ได้ แต่ 'But' เป็นตัวเลือกที่ตรงไปตรงมาที่สุดในตัวเลือกที่ให้มา"
+      },
+      {
+        "question": "The system is not secure, ______ should it be used for sensitive data transmission.",
+        "options": [
+          "A. and",
+          "B. but",
+          "C. nor",
+          "D. or"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคแรกเป็นปฏิเสธ (is not secure) และประโยคที่สองก็เป็นการปฏิเสธเพิ่มเติม 'Nor' (และ...ก็ไม่) จึงเป็นคำตอบที่ถูกต้อง สังเกตโครงสร้าง Inversion ที่ตามมา 'should it be used' (สลับกริยาช่วย 'should' กับประธาน 'it')"
+      },
+      {
+        "question": "The city has invested millions in its public transport system, ______ many residents still prefer to drive their own cars.",
+        "options": [
+          "A. so",
+          "B. yet",
+          "C. for",
+          "D. and"
+        ],
+        "answer": "B",
+        "explanation": "การที่เมืองลงทุนไปมากแต่คนยังคงขับรถส่วนตัว ถือเป็นผลลัพธ์ที่ขัดแย้งและน่าประหลาดใจ 'Yet' (แต่ถึงกระนั้น) จึงสื่อความหมายนี้ได้ดีที่สุด 'So' จะหมายความว่าคนเลิกขับรถส่วนตัวซึ่งตรงข้ามกับเนื้อหา"
+      },
+      {
+        "question": "You must complete the mandatory safety training, ______ you will not be permitted to access the laboratory.",
+        "options": [
+          "A. or",
+          "B. nor",
+          "C. but",
+          "D. for"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้เป็นการให้ทางเลือกระหว่างสองสิ่ง คือ 'ทำ' หรือ 'ไม่ทำ' ซึ่งจะนำไปสู่ผลลัพธ์ที่ต่างกัน 'Or' (หรือ/มิฉะนั้น) เป็นคำเชื่อมที่แสดงเงื่อนไขหรือทางเลือกนี้ได้ถูกต้องที่สุด"
+      },
+      {
+        "question": "I have a great deal of respect for his professional achievements, ______ I cannot condone his personal behavior.",
+        "options": [
+          "A. so",
+          "B. for",
+          "C. but",
+          "D. or"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้แสดงความขัดแย้งระหว่างความเคารพในเรื่องงาน (แง่บวก) กับการไม่ยอมรับพฤติกรรมส่วนตัว (แง่ลบ) 'But' (แต่) คือคำที่ใช้เชื่อมสองแนวคิดที่ขัดแย้งกันอย่างชัดเจน"
+      },
+      {
+        "question": "The negotiations had broken down completely, ______ the two sides refused to compromise on the key issues.",
+        "options": [
+          "A. yet",
+          "B. so",
+          "C. for",
+          "D. nor"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคหลังให้เหตุผลว่า 'ทำไม' การเจรจาถึงล้มเหลว ในบริบทที่เป็นทางการ 'for' (เพราะว่า) ใช้เพื่ออธิบายเหตุผลที่ตามมาได้เหมาะสมที่สุด 'So' จะให้ความหมายกลับกัน (การเจรจาล้มเหลว ดังนั้นพวกเขาจึงไม่ยอม) ซึ่งไม่สมเหตุสมผล"
+      },
+      {
+        "question": "The research was meticulously planned ______ executed, which led to highly reliable findings.",
+        "options": [
+          "A. but",
+          "B. or",
+          "C. so",
+          "D. and"
+        ],
+        "answer": "D",
+        "explanation": "คำว่า 'meticulously planned' (วางแผนอย่างพิถีพิถัน) และ 'executed' (ดำเนินการ) เป็นสองสิ่งที่คล้อยตามกันและเสริมกัน 'And' (และ) จึงเป็นคำเชื่อมที่ถูกต้องเพื่อเพิ่มข้อมูลในทิศทางเดียวกัน"
+      },
+      {
+        "question": "The evidence against him was purely circumstantial, ______ the prosecutor struggled to build a convincing case.",
+        "options": [
+          "A. for",
+          "B. so",
+          "C. yet",
+          "D. or"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคแรกเป็นเหตุ (หลักฐานเป็นเพียงพยานแวดล้อม) และประโยคหลังเป็นผล (อัยการจึงลำบากในการสร้างคดี) 'So' (ดังนั้น) เป็นคำเชื่อมที่แสดงความสัมพันธ์แบบเหตุและผลนี้ได้ดีที่สุด"
+      },
+      {
+        "question": "He refused to apologize for his remarks, ______ did he show any remorse for the trouble he had caused.",
+        "options": [
+          "A. and",
+          "B. so",
+          "C. nor",
+          "D. but"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้เชื่อมสองการกระทำที่เป็นปฏิเสธเข้าด้วยกัน (ไม่ขอโทษ และ ไม่แสดงความเสียใจ) 'Nor' เป็นคำเชื่อมที่ถูกต้อง และต้องตามด้วยโครงสร้าง Inversion ('did he show' แทนที่จะเป็น 'he showed')"
+      }
+    ]
+  },
+  {
+    "id": "25_2",
+    "title": "25.2 Subordinating Conjunctions (although, because, if, unless)",
+    "explanation": "Subordinating Conjunctions (คำสันธานที่เชื่อมอนุประโยค) คือคำที่ใช้เชื่อม 'อนุประโยครอง' (Dependent Clause หรือ Subordinate Clause) ซึ่งเป็นประโยคที่ไม่สมบูรณ์ในตัวเอง เข้ากับ 'อนุประโยคหลัก' (Independent Clause หรือ Main Clause) ซึ่งเป็นประโยคที่สมบูรณ์และมีความหมายครบถ้วน\n\nโครงสร้างประโยคมี 2 แบบ:\n1. Subordinating Conjunction + Dependent Clause, + Independent Clause.\n(ถ้าอนุประโยครองขึ้นต้นประโยค จะต้องมีเครื่องหมาย comma (,) คั่นกลาง)\n2. Independent Clause + Subordinating Conjunction + Dependent Clause.\n(ถ้าอนุประโยคหลักขึ้นก่อน จะไม่มีเครื่องหมาย comma)\n\nเรามาดูตัวอย่างที่ใช้บ่อยในระดับ B1-B2 กัน:\n\n1.  **Although / Though / Even though (แม้ว่า)**: ใช้แสดงความขัดแย้ง (Contrast) หรือการยอมรับเงื่อนไขบางอย่าง (Concession) โดยที่ผลลัพธ์ไม่เป็นไปตามที่คาดหวัง\n    *   `Although` เป็นทางการที่สุด\n    *   `Though` ใช้ในบทสนทนาทั่วไปมากกว่า\n    *   `Even though` เน้นความขัดแย้งให้ชัดเจนและหนักแน่นยิ่งขึ้น\n\n2.  **Because / Since / As (เพราะว่า)**: ใช้บอกเหตุผล (Reason/Cause)\n    *   `Because` ใช้บอกเหตุผลโดยตรงและเป็นที่นิยมที่สุด\n    *   `Since` และ `As` ก็ใช้บอกเหตุผลได้เช่นกัน แต่มักใช้เมื่อผู้ฟัง/ผู้อ่านรู้อยู่แล้ว และผู้พูดต้องการเน้นที่ผลลัพธ์มากกว่าเหตุผล (มักวางไว้ต้นประโยค)\n\n3.  **If (ถ้า)**: ใช้ตั้งเงื่อนไข (Condition) สำหรับเหตุการณ์ที่จะเกิดขึ้นในอนาคต (First Conditional) หรือเหตุการณ์สมมติที่ไม่เป็นจริงในปัจจุบัน (Second Conditional)\n\n4.  **Unless (เว้นแต่ว่า, ถ้าไม่...)**: มีความหมายเหมือนกับ 'if... not' หรือ 'except if' ใช้เพื่อบอกเงื่อนไขที่เป็นข้อยกเว้นเพียงหนึ่งเดียวที่หากเกิดขึ้น จะทำให้ผลลัพธ์เปลี่ยนแปลงไป",
+    "examples": [
+      {
+        "eng": "Although the company invested heavily in marketing, its sales figures did not improve significantly.",
+        "thai": "แม้ว่าบริษัทจะลงทุนอย่างหนักในการตลาด แต่ยอดขายก็ไม่ได้ดีขึ้นอย่างมีนัยสำคัญ (ใช้ Although แสดงความขัดแย้งระหว่าง 'การลงทุนหนัก' กับ 'ยอดขายที่ไม่ดีขึ้น')"
+      },
+      {
+        "eng": "The project was postponed because several key members of the team were unexpectedly unavailable.",
+        "thai": "โครงการถูกเลื่อนออกไปเพราะว่าสมาชิกคนสำคัญหลายคนในทีมไม่ว่างอย่างกะทันหัน (ใช้ because เพื่อบอกเหตุผลโดยตรงของการเลื่อนโครงการ)"
+      },
+      {
+        "eng": "If the government implements this new environmental policy, many industries will need to adapt their operations.",
+        "thai": "ถ้ารัฐบาลบังคับใช้นโยบายสิ่งแวดล้อมใหม่นี้ หลายอุตสาหกรรมจะต้องปรับเปลี่ยนการดำเนินงานของตน (ใช้ if เพื่อตั้งเงื่อนไขที่เป็นไปได้ในอนาคต - First Conditional)"
+      },
+      {
+        "eng": "You won't be able to access the advanced features unless you subscribe to the premium plan.",
+        "thai": "คุณจะไม่สามารถเข้าถึงฟีเจอร์ขั้นสูงได้ เว้นแต่ว่าคุณจะสมัครแผนพรีเมียม (unless บอกเงื่อนไขเดียวที่จะทำให้เข้าถึงได้ คือ 'การสมัครแผนพรีเมียม' ถ้าไม่ทำ ก็จะเข้าไม่ได้)"
+      },
+      {
+        "eng": "Even though he had prepared meticulously for the presentation, he felt incredibly nervous standing in front of the board of directors.",
+        "thai": "ถึงแม้ว่าเขาจะเตรียมตัวสำหรับการนำเสนอมาอย่างพิถีพิถัน เขาก็ยังรู้สึกประหม่าอย่างไม่น่าเชื่อเมื่อต้องยืนอยู่ต่อหน้าคณะกรรมการบริหาร (ใช้ Even though เพื่อเน้นความขัดแย้งให้ชัดเจนยิ่งขึ้น)"
+      }
+    ],
+    "common_mistakes": "1.  **ใช้ although กับ but ในประโยคเดียวกัน**: คนไทยมักติดพูดว่า 'ถึงแม้ว่า...แต่...' ซึ่งในภาษาอังกฤษถือว่าซ้ำซ้อน เลือกใช้อย่างใดอย่างหนึ่ง\n    *   ผิด: Although it was raining, but we went to the park.\n    *   ถูก: Although it was raining, we went to the park.\n    *   ถูก: It was raining, but we went to the park.\n\n2.  **สับสนระหว่าง unless กับ if...not**: unless มีความหมายเชิงปฏิเสธในตัวอยู่แล้ว (แปลว่า 'ถ้า...ไม่') ดังนั้นประโยคที่ตามหลัง unless จึงไม่จำเป็นต้องเป็นรูปปฏิเสธอีก\n    *   ผิด: You will fail the exam unless you don't study.\n    *   ถูก: You will fail the exam unless you study. (คุณจะสอบตก ถ้าคุณไม่อ่านหนังสือ)\n    *   ถูก: You will fail the exam if you don't study.\n\n3.  **สับสนระหว่าง because กับ because of**: `because` ต้องตามด้วยประโยค (Subject + Verb) ในขณะที่ `because of` ต้องตามด้วยคำนาม (Noun) หรือ วลี (Phrase)\n    *   ผิด: We cancelled the trip because of the weather was bad.\n    *   ถูก: We cancelled the trip because the weather was bad. (ตามด้วยประโยค)\n    *   ถูก: We cancelled the trip because of the bad weather. (ตามด้วยนามวลี)\n\n4.  **การใช้ Comma (,) ไม่ถูกต้อง**: เมื่อประโยคที่ขึ้นต้นด้วย Subordinating Conjunction มาก่อน ต้องมี comma คั่น แต่ถ้ามาทีหลัง ไม่ต้องมี\n    *   ถูก: Because she felt ill, she left the meeting early.\n    *   ถูก: She left the meeting early because she felt ill.",
+    "practice_questions": [
+      {
+        "question": "______ the software has some minor bugs, it is still considered the most reliable on the market.",
+        "options": [
+          "A. Because",
+          "B. Although",
+          "C. If",
+          "D. Unless"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้แสดงความขัดแย้งกันระหว่าง 'การมีบั๊กเล็กน้อย' กับ 'การเป็นซอฟต์แวร์ที่น่าเชื่อถือที่สุด' ดังนั้นจึงต้องใช้ 'Although' (แม้ว่า) เพื่อเชื่อมสองแนวคิดนี้"
+      },
+      {
+        "question": "The security guard will not let you enter the building ______ you present a valid ID card.",
+        "options": [
+          "A. if",
+          "B. unless",
+          "C. because",
+          "D. although"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้หมายความว่า 'คุณจะเข้าตึกไม่ได้ ถ้าคุณไม่แสดงบัตร' ซึ่งเป็นเงื่อนไขยกเว้น 'Unless' (เว้นแต่ว่า) คือคำตอบที่ถูกต้องที่สุด มีความหมายเท่ากับ 'if you do not present...'"
+      },
+      {
+        "question": "Many employees were dissatisfied with the new policy ______ it significantly reduced their overtime pay.",
+        "options": [
+          "A. although",
+          "B. unless",
+          "C. because",
+          "D. if"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้เป็นการให้เหตุผลว่าทำไมพนักงานถึงไม่พอใจ ดังนั้น 'because' (เพราะว่า) จึงเป็นคำเชื่อมที่เหมาะสมที่สุดในการอธิบายสาเหตุ"
+      },
+      {
+        "question": "______ the economic conditions were more favorable, the company would consider expanding its operations overseas.",
+        "options": [
+          "A. If",
+          "B. Because",
+          "C. Unless",
+          "D. Although"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้เป็นการตั้งเงื่อนไขสมมติที่ไม่เป็นจริงในปัจจุบัน (สังเกตจากการใช้ were และ would consider - Second Conditional) ดังนั้น 'If' (ถ้า) จึงเป็นคำตอบที่ถูกต้อง"
+      },
+      {
+        "question": "He was promoted to a senior position ______ he had less experience than other candidates.",
+        "options": [
+          "A. even though",
+          "B. because",
+          "C. as",
+          "D. since"
+        ],
+        "answer": "A",
+        "explanation": "การที่เขาได้เลื่อนตำแหน่ง 'แม้ว่า' จะมีประสบการณ์น้อยกว่าคนอื่น เป็นเรื่องที่ขัดแย้งกัน 'even though' ใช้เพื่อเน้นความขัดแย้งนี้ให้ชัดเจนขึ้น"
+      },
+      {
+        "question": "We must submit the proposal by Friday; otherwise, we won't be considered for the contract ______ we have the best offer.",
+        "options": [
+          "A. because",
+          "B. even if",
+          "C. unless",
+          "D. so that"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้ต้องการสื่อว่า 'เราจะไม่ถูกพิจารณา ต่อให้ข้อเสนอเราดีที่สุดก็ตาม' 'even if' (ต่อให้) ใช้เพื่อเน้นสถานการณ์ที่เป็นข้อยกเว้นหรือสถานการณ์สุดขั้ว ซึ่งต่างจาก if ธรรมดา"
+      },
+      {
+        "question": "You can't expect to improve your language skills ______ you practice consistently.",
+        "options": [
+          "A. if",
+          "B. although",
+          "C. because",
+          "D. unless"
+        ],
+        "answer": "D",
+        "explanation": "ความหมายของประโยคคือ 'คุณจะคาดหวังให้ทักษะภาษาดีขึ้นไม่ได้ ถ้าคุณไม่ฝึกฝนอย่างสม่ำเสมอ' 'Unless' (ถ้าไม่...) เป็นคำที่ถูกต้องที่สุดในบริบทนี้"
+      },
+      {
+        "question": "The archeological site was closed to the public ______ researchers needed to preserve the delicate artifacts.",
+        "options": [
+          "A. although",
+          "B. since",
+          "C. if",
+          "D. unless"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้บอกเหตุผลว่าทำไมสถานที่จึงถูกปิด 'Since' (เนื่องจาก) เป็นอีกคำที่ใช้บอกเหตุผลได้เหมือน because และมักใช้เมื่อเหตุผลนั้นเป็นที่ทราบกันดีหรือต้องการเน้นที่ผลลัพธ์มากกว่า"
+      },
+      {
+        "question": "______ he is fluent in three languages, he finds it difficult to translate poetry accurately.",
+        "options": [
+          "A. Because",
+          "B. Unless",
+          "C. If",
+          "D. Although"
+        ],
+        "answer": "D",
+        "explanation": "ความสามารถในการพูดได้ 3 ภาษา (เรื่องดี) ขัดแย้งกับความยากลำบากในการแปลบทกวี (อุปสรรค) ดังนั้น 'Although' (แม้ว่า) จึงเป็นคำเชื่อมที่เหมาะสมที่สุด"
+      },
+      {
+        "question": "The experiment will be deemed a failure ______ the results show a statistically significant improvement.",
+        "options": [
+          "A. if",
+          "B. although",
+          "C. unless",
+          "D. because"
+        ],
+        "answer": "C",
+        "explanation": "การทดลองจะล้มเหลว 'เว้นเสียแต่ว่า' ผลลัพธ์จะแสดงการพัฒนาที่ดีขึ้นอย่างมีนัยสำคัญทางสถิติ 'Unless' สื่อถึงเงื่อนไขเดียวที่จะทำให้ผลลัพธ์เปลี่ยนจาก 'ล้มเหลว' เป็น 'ไม่ล้มเหลว'"
+      }
+    ]
+  },
+  {
+    "id": "25_3",
+    "title": "25.3 Correlative Conjunctions (either...or, both...and)",
+    "explanation": "Correlative Conjunctions คือ คำสันธานที่ต้องมาเป็นคู่เสมอ (work in pairs) เพื่อเชื่อมคำ วลี (phrases) หรือประโยค (clauses) ที่มีน้ำหนักหรือความสำคัญทางไวยากรณ์เท่าเทียมกัน (grammatically equal) เข้าด้วยกัน โครงสร้างที่ตามหลังคำสันธานแต่ละตัวในคู่จะต้องเป็นโครงสร้างเดียวกันเสมอ ซึ่งเรียกว่า Parallel Structure (โครงสร้างคู่ขนาน)\n\nคู่ที่พบบ่อยและสำคัญ:\n1.  **both...and...** (ทั้ง...และ...): ใช้เชื่อมสองสิ่งที่เกิดขึ้นหรือเป็นจริงทั้งคู่ ประโยคจะเป็นพหูพจน์เสมอ\n2.  **either...or...** (ไม่...ก็...): ใช้เชื่อมสองทางเลือก ให้เลือกอย่างใดอย่างหนึ่ง การผันกริยาจะยึดตามประธานตัวที่อยู่ใกล้กริยาที่สุด (Proximity Rule)\n3.  **neither...nor...** (ไม่ทั้ง...และ...): ใช้เชื่อมสองสิ่งที่ 'ไม่' เกิดขึ้นหรือ 'ไม่' เป็นจริงทั้งคู่ เป็นรูปปฏิเสธ การผันกริยาก็จะยึดตามประธานตัวที่อยู่ใกล้ที่สุดเช่นกัน\n4.  **not only...but also...** (ไม่เพียงแต่...แต่ยัง...อีกด้วย): ใช้เพื่อเน้นย้ำข้อมูลที่สอง ว่ามีความสำคัญเพิ่มเติมจากข้อมูลแรก ต้องใช้โครงสร้างคู่ขนานอย่างระมัดระวัง\n5.  **whether...or...** (ไม่ว่าจะ...หรือ...): ใช้เพื่อแสดงสองทางเลือกที่เป็นไปได้ มักใช้ในประโยคที่แสดงความไม่แน่นอน หรือใน indirect questions",
+    "examples": [
+      {
+        "eng": "Both the lead architect and the primary investors were impressed by the final design of the skyscraper.",
+        "thai": "ทั้งสถาปนิกนำและกลุ่มผู้ลงทุนหลักต่างก็ประทับใจกับการออกแบบตึกระฟ้าในขั้นสุดท้าย (ใช้กริยาพหูพจน์ 'were' เพราะ 'both...and' เชื่อมประธานสองตัว)"
+      },
+      {
+        "eng": "You must decide whether you will pursue a master's degree immediately or gain more practical experience in the field first.",
+        "thai": "คุณต้องตัดสินใจว่าคุณจะเรียนต่อปริญญาโททันที หรือจะหาประสบการณ์ทำงานจริงในสายงานก่อน (เชื่อมสองประโยคย่อย 'you will pursue...' or ' (you will) gain...')"
+      },
+      {
+        "eng": "Neither the outdated software nor the employees' lack of training is the main cause of the productivity decline.",
+        "thai": "ทั้งซอฟต์แวร์ที่ล้าสมัยและการขาดการฝึกอบรมของพนักงานก็ไม่ใช่สาเหตุหลักที่ทำให้ประสิทธิภาพการทำงานลดลง (กริยา 'is' ผันตามประธานตัวที่ใกล้กว่าคือ 'lack of training' ซึ่งเป็นนามนับไม่ได้)"
+      },
+      {
+        "eng": "The new government policy is intended not only to stimulate economic growth but also to address long-standing social inequalities.",
+        "thai": "นโยบายใหม่ของรัฐบาลไม่เพียงแต่มีจุดประสงค์เพื่อกระตุ้นการเติบโตทางเศรษฐกิจเท่านั้น แต่ยังมุ่งแก้ไขปัญหาความเหลื่อมล้ำทางสังคมที่มีมาอย่างยาวนานอีกด้วย (ใช้โครงสร้างคู่ขนาน to stimulate... และ to address...)"
+      },
+      {
+        "eng": "Either the regional managers or the CEO herself presents the annual report each year.",
+        "thai": "ไม่ผู้จัดการประจำภูมิภาคก็ท่าน CEO เองที่เป็นคนนำเสนอรายงานประจำปีในแต่ละปี (กริยา 'presents' ผันตามประธานตัวที่ใกล้กว่าคือ 'the CEO herself' ซึ่งเป็นเอกพจน์)"
+      }
+    ],
+    "common_mistakes": "1. **Subject-Verb Agreement (การใช้กริยาให้สอดคล้องกับประธาน)**: นี่คือจุดที่ผิดบ่อยที่สุด\n   - **both...and...**: ต้องใช้กริยาพหูพจน์เสมอ เช่น Both my friend and I *are* excited. (ผิด: *is* excited)\n   - **either...or... / neither...nor...**: กริยาจะผันตามประธานตัวที่อยู่ 'ใกล้' ที่สุด เช่น Neither my parents nor my brother *likes* the idea. (กริยา likes ผันตาม brother ที่เป็นเอกพจน์) ไม่ใช่ Neither my parents nor my brother *like* the idea.\n\n2. **Parallel Structure (โครงสร้างคู่ขนาน)**: โครงสร้างทางไวยากรณ์ที่ตามหลังคำสันธานแต่ละตัวต้องเหมือนกัน\n   - **ผิด**: She is not only fluent in Japanese but also speaks Korean well. (หลัง not only เป็น adjective 'fluent' แต่หลัง but also เป็น verb 'speaks')\n   - **ถูก**: She is not only fluent in Japanese but also proficient in Korean. (adjective + adjective)\n   - **ถูก**: She not only speaks Japanese fluently but also speaks Korean well. (verb + verb)\n\n3. **Double Negatives (การใช้ปฏิเสธซ้อน)**: ห้ามใช้ 'neither...nor...' ในประโยคที่มีคำปฏิเสธอื่นอยู่แล้ว เช่น not, don't\n   - **ผิด**: He doesn't like neither coffee nor tea.\n   - **ถูก**: He likes neither coffee nor tea. หรือ He doesn't like either coffee or tea.",
+    "practice_questions": [
+      {
+        "question": "Neither the project manager nor his team members ______ fully prepared for the client's unexpected demands.",
+        "options": [
+          "A. was",
+          "B. were",
+          "C. is",
+          "D. has been"
+        ],
+        "answer": "B",
+        "explanation": "ในโครงสร้าง 'neither...nor...' กริยาจะผันตามประธานตัวที่อยู่ใกล้ที่สุด (Proximity Rule) ในที่นี้คือ 'his team members' ซึ่งเป็นพหูพจน์ ดังนั้นจึงต้องใช้กริยาพหูพจน์ 'were'"
+      },
+      {
+        "question": "The newly hired consultant is expected not only to analyze the data but also ______ practical solutions.",
+        "options": [
+          "A. proposing",
+          "B. to propose",
+          "C. proposal",
+          "D. will propose"
+        ],
+        "answer": "B",
+        "explanation": "ต้องใช้โครงสร้างคู่ขนาน (Parallel Structure) กับ 'not only...but also...' ในที่นี้ 'not only' ตามด้วย 'to analyze' (infinitive with to) ดังนั้น 'but also' ก็ต้องตามด้วย 'to propose' เพื่อให้โครงสร้างสอดคล้องกัน"
+      },
+      {
+        "question": "The CEO is deliberating on ______ to acquire the rival company or to form a strategic partnership with them.",
+        "options": [
+          "A. both",
+          "B. either",
+          "C. neither",
+          "D. whether"
+        ],
+        "answer": "D",
+        "explanation": "'whether...or...' ใช้เพื่อนำเสนอสองทางเลือกที่เป็นไปได้ โดยเฉพาะเมื่อมีการไตร่ตรองหรือตัดสินใจ ประโยคนี้สื่อถึงการที่ CEO กำลังพิจารณาว่าจะทำอย่างแรก 'หรือ' อย่างที่สอง"
+      },
+      {
+        "question": "Not only ______ the flight delayed for several hours, but our luggage was also misplaced.",
+        "options": [
+          "A. did",
+          "B. had",
+          "C. was",
+          "D. is"
+        ],
+        "answer": "C",
+        "explanation": "เมื่อ 'Not only' ขึ้นต้นประโยค จะเกิดโครงสร้างแบบ Inversion คือการสลับที่ระหว่างกริยาช่วยกับประธาน (Not only + auxiliary verb + subject...) ประธานคือ 'the flight' (เอกพจน์) และกริยาคือ 'delayed' ซึ่งอยู่ในรูป passive voice (was delayed) ดังนั้นกริยาช่วยที่ถูกต้องคือ 'was'"
+      },
+      {
+        "question": "______ the quality of the materials and the craftsmanship of the product ______ its high price.",
+        "options": [
+          "A. Either...or",
+          "B. Neither...nor",
+          "C. Both...and",
+          "D. Not only...but also"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคนี้ต้องการสื่อว่า 'ไม่เพียงแต่คุณภาพและฝีมือการผลิตเท่านั้น แต่ราคาก็สูงด้วย' โดยในที่นี้มีการละคำว่า justify ไว้ (Both the quality... and the craftsmanship... justify its high price) แต่ Not only... but also... สามารถใช้ในโครงสร้างนี้เพื่อเน้นย้ำได้ (Not only A but also B justifies C) ซึ่งในที่นี้ กริยา justifies ผันตาม B (craftsmanship)"
+      },
+      {
+        "question": "You can ______ send your application via email ______ submit it directly through our company's career portal.",
+        "options": [
+          "A. both...and",
+          "B. either...or",
+          "C. neither...nor",
+          "D. whether...or"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้เสนอทางเลือกสองทางให้ผู้สมัครเลือกทำอย่างใดอย่างหนึ่ง คือ ส่งทางอีเมล 'หรือ' ส่งผ่านเว็บไซต์ ดังนั้น 'either...or...' จึงเหมาะสมที่สุด"
+      },
+      {
+        "question": "Both the research paper ______ the supplementary data ______ to be submitted by the end of the month.",
+        "options": [
+          "A. and / needs",
+          "B. or / need",
+          "C. and / need",
+          "D. nor / needs"
+        ],
+        "answer": "C",
+        "explanation": "Correlative conjunction 'both' ต้องใช้คู่กับ 'and' เสมอ และเมื่อใช้ 'both...and...' เชื่อมประธานสองตัว ประธานรวมจะถือเป็นพหูพจน์เสมอ ดังนั้น กริยาที่ตามมาต้องเป็นรูปพหูพจน์ คือ 'need' (ไม่มี s)"
+      },
+      {
+        "question": "The final decision depends on ______ the budget is approved ______ the timeline is feasible.",
+        "options": [
+          "A. neither...nor...",
+          "B. both...and...",
+          "C. either...or...",
+          "D. whether...or not..."
+        ],
+        "answer": "D",
+        "explanation": "'whether...or not...' หรือ 'whether...or...' มักใช้ตามหลังคำกริยาที่แสดงความไม่แน่นอน เช่น depend on, decide, know เพื่อแสดงเงื่อนไขสองอย่างที่อาจเกิดขึ้น ในที่นี้การตัดสินใจขึ้นอยู่กับว่า 'งบจะได้รับอนุมัติหรือไม่ และไทม์ไลน์จะทำได้จริงหรือไม่'"
+      },
+      {
+        "question": "To secure the contract, our proposal must be ______ more innovative ______ significantly more cost-effective than our competitors'.",
+        "options": [
+          "A. neither...nor",
+          "B. not only...but",
+          "C. whether...or",
+          "D. either...or"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคนี้หมายความว่า ข้อเสนอของเราต้องมีคุณสมบัติอย่างใดอย่างหนึ่งในสองอย่างนี้ (หรือไม่ก็ทั้งสองอย่าง) เพื่อที่จะได้สัญญา คือ 'ไม่' ต้องสร้างสรรค์กว่า 'ก็' ต้องคุ้มค่ากว่าคู่แข่ง ดังนั้น 'either...or' จึงเหมาะสมที่สุดในการแสดงเงื่อนไขทางเลือกนี้"
+      },
+      {
+        "question": "Neither of the candidates ______ the required experience in international finance.",
+        "options": [
+          "A. possess",
+          "B. possesses",
+          "C. are possessing",
+          "D. have possessed"
+        ],
+        "answer": "B",
+        "explanation": "นี่เป็นข้อที่ต้องระวัง เมื่อใช้ 'Neither of + a plural noun' (Neither of the candidates), ประธานที่แท้จริงคือคำว่า 'Neither' ซึ่งถือเป็นเอกพจน์เสมอ ดังนั้น กริยาต้องผันเป็นรูปเอกพจน์ คือ 'possesses'"
+      }
+    ]
+  },
+  {
+    "id": "25_4",
+    "title": "25.4 Summary: Conjunctions (สรุปคำเชื่อมประโยค + 50 Exercises)",
+    "explanation": "คำเชื่อม (Conjunctions) และคำเชื่อมความ (Linking Words) เป็นหัวใจสำคัญในการสร้างประโยคที่ซับซ้อนและแสดงความสัมพันธ์ระหว่างความคิดต่างๆ ในระดับ B1-B2 การเข้าใจและใช้คำเหล่านี้ได้อย่างถูกต้องจะทำให้การเขียนและการพูดของคุณมีโครงสร้างและเป็นธรรมชาติมากขึ้น\n\n**สรุปประเภทของคำเชื่อม:**\n\n1.  **Coordinating Conjunctions (คำเชื่อมความเท่ากัน):** ใช้เชื่อมคำ วลี หรือประโยคที่มีความสำคัญเท่ากัน โครงสร้างคือ `Independent Clause, + FANBOYS + Independent Clause`\n    *   **F**or (เพราะว่า), **A**nd (และ), **N**or (และ...ไม่), **B**ut (แต่), **O**r (หรือ), **Y**et (แต่), **S**o (ดังนั้น)\n\n2.  **Subordinating Conjunctions (คำเชื่อมความรอง):** ใช้นำหน้าประโยครอง (Dependent Clause) เพื่อเชื่อมกับประโยคหลัก (Independent Clause) แสดงความสัมพันธ์ต่างๆ เช่น เวลา, เหตุผล, เงื่อนไข, ความขัดแย้ง\n    *   **เวลา:** when, while, before, after, since, until, as soon as\n    *   **เหตุผล:** because, since, as\n    *   **เงื่อนไข:** if, unless, provided that\n    *   **ความขัดแย้ง:** although, though, even though, whereas\n    *   **วัตถุประสงค์:** so that, in order that\n\n3.  **Correlative Conjunctions (คำเชื่อมคู่):** เป็นคำเชื่อมที่มาเป็นคู่เสมอเพื่อเชื่อมส่วนต่างๆ ของประโยคที่มีโครงสร้างทางไวยากรณ์เหมือนกัน\n    *   **both... and...** (ทั้ง...และ...)\n    *   **either... or...** (ไม่...ก็...)\n    *   **neither... nor...** (ไม่ทั้ง...และ...)\n    *   **not only... but also...** (ไม่เพียงแต่...แต่ยัง...อีกด้วย)\n    *   **whether... or...** (ไม่ว่า...หรือ...)\n\n4.  **Conjunctive Adverbs / Linking Words (คำวิเศษณ์เชื่อมความ):** ใช้เชื่อมความคิดระหว่างสองประโยคที่เป็นอิสระต่อกัน มักจะตามด้วยเครื่องหมายจุลภาค (comma)\n    *   **แสดงความขัดแย้ง:** However, Nevertheless, On the other hand\n    *   **แสดงผลลัพธ์:** Therefore, Consequently, As a result, Thus\n    *   **แสดงการเพิ่มเติม:** Moreover, Furthermore, In addition, Besides\n    *   **ยกตัวอย่าง:** For example, For instance",
+    "examples": [
+      {
+        "eng": "The marketing campaign was creative, yet it failed to increase sales significantly.",
+        "thai": "แคมเปญการตลาดมีความคิดสร้างสรรค์ แต่ทว่ามันก็ไม่สามารถเพิ่มยอดขายได้อย่างมีนัยสำคัญ (ใช้ 'yet' แสดงความขัดแย้งที่น่าประหลาดใจ)"
+      },
+      {
+        "eng": "Unless you submit the report by Friday, you will not be eligible for the bonus.",
+        "thai": "ถ้าคุณไม่ส่งรายงานภายในวันศุกร์ คุณจะไม่มีสิทธิ์ได้รับโบนัส (ใช้ 'Unless' ที่แปลว่า 'ถ้า...ไม่' เพื่อตั้งเงื่อนไขเชิงปฏิเสธ)"
+      },
+      {
+        "eng": "Not only did the company achieve its financial goals, but it also won an award for innovation.",
+        "thai": "บริษัทไม่เพียงแต่บรรลุเป้าหมายทางการเงินเท่านั้น แต่ยังได้รับรางวัลด้านนวัตกรรมอีกด้วย (ใช้ 'Not only... but also...' และมีการทำ Inversion หลัง Not only)"
+      },
+      {
+        "eng": "The evidence was overwhelming; therefore, the jury found the defendant guilty.",
+        "thai": "หลักฐานนั้นท่วมท้น ด้วยเหตุนี้ คณะลูกขุนจึงตัดสินว่าจำเลยมีความผิด (ใช้ 'therefore' เชื่อมสองประโยคเพื่อแสดงเหตุและผล)"
+      }
+    ],
+    "common_mistakes": "1.  **ใช้ But กับ Although/Though ในประโยคเดียวกัน:** นี่คือข้อผิดพลาดที่พบบ่อยที่สุด คนไทยมักจะติดพูดว่า 'ถึงแม้ว่า...แต่...' ซึ่งในภาษาอังกฤษจะใช้แค่ตัวเดียว\n    *   ❌ Incorrect: **Although** it was raining, **but** we went for a walk.\n    *   ✅ Correct: **Although** it was raining, we went for a walk.\n    *   ✅ Correct: It was raining, **but** we went for a walk.\n\n2.  **สับสนระหว่าง Because กับ Because of:** `Because` ต้องตามด้วยประโยค (Subject + Verb) ในขณะที่ `Because of` ต้องตามด้วยคำนาม (Noun) หรือ วลี (Phrase)\n    *   ❌ Incorrect: The match was cancelled **because of** it rained heavily.\n    *   ✅ Correct: The match was cancelled **because** it rained heavily. (it rained heavily คือ Clause)\n    *   ✅ Correct: The match was cancelled **because of** the heavy rain. (the heavy rain คือ Noun Phrase)\n\n3.  **ใช้เครื่องหมายวรรคตอนกับ Conjunctive Adverbs ผิด:** คำอย่าง However, Therefore, Moreover มักจะใช้เชื่อม 2 ประโยคสมบูรณ์ ต้องมีเครื่องหมายคั่นที่ถูกต้อง\n    *   ❌ Incorrect: The project was difficult, however we finished it on time.\n    *   ✅ Correct: The project was difficult. **However,** we finished it on time. (ใช้ Period)\n    *   ✅ Correct: The project was difficult; **however,** we finished it on time. (ใช้ Semicolon)\n\n4.  **สับสนระหว่าง So กับ So that:** `So` ใช้บอกผลลัพธ์ (result) ในขณะที่ `So that` ใช้บอกวัตถุประสงค์ (purpose)\n    *   He was tired, **so** he went to bed. (เขาเหนื่อย ดังนั้นเขาจึงไปนอน -> ผลลัพธ์)\n    *   He went to bed early **so that** he could wake up on time. (เขาไปนอนเร็ว เพื่อที่เขาจะได้ตื่นทันเวลา -> วัตถุประสงค์)",
+    "practice_questions": [
+      {
+        "question": "The company is expanding rapidly, ______ it needs to hire more staff.",
+        "options": [
+          "A. yet",
+          "B. so",
+          "C. for",
+          "D. nor"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคหลังเป็นผลลัพธ์ของประโยคแรก (บริษัทขยายตัวอย่างรวดเร็ว 'ดังนั้น' จึงต้องจ้างพนักงานเพิ่ม) 'so' ใช้แสดงเหตุและผล"
+      },
+      {
+        "question": "______ he has a lot of experience, he wasn't offered the job.",
+        "options": [
+          "A. Because",
+          "B. As",
+          "C. Although",
+          "D. So that"
+        ],
+        "answer": "C",
+        "explanation": "เนื้อหาของสองประโยคขัดแย้งกัน (มีประสบการณ์มาก แต่ไม่ได้รับงาน) จึงต้องใช้ 'Although' (ถึงแม้ว่า)"
+      },
+      {
+        "question": "You can have ______ the chicken curry ______ the vegetable stir-fry for lunch.",
+        "options": [
+          "A. both...and",
+          "B. not only...but also",
+          "C. either...or",
+          "D. neither...nor"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคให้เลือกอย่างใดอย่างหนึ่งระหว่างแกงกะหรี่ไก่กับผัดผัก 'either...or' (ไม่...ก็...) คือตัวเลือกที่ถูกต้อง"
+      },
+      {
+        "question": "The project was a huge success. ______, we are planning a celebration party.",
+        "options": [
+          "A. However",
+          "B. Nevertheless",
+          "C. Therefore",
+          "D. On the other hand"
+        ],
+        "answer": "C",
+        "explanation": "การวางแผนจัดงานฉลองเป็นผลมาจากการที่โปรเจกต์ประสบความสำเร็จ 'Therefore' (ดังนั้น, ด้วยเหตุนี้) เหมาะสมที่สุดในการแสดงผลลัพธ์"
+      },
+      {
+        "question": "I will not approve your request ______ you provide a more detailed proposal.",
+        "options": [
+          "A. if",
+          "B. unless",
+          "C. although",
+          "D. because"
+        ],
+        "answer": "B",
+        "explanation": "'Unless' หมายถึง 'if...not' (ถ้า...ไม่) ประโยคนี้หมายความว่า 'ฉันจะไม่อนุมัติคำขอของคุณ 'ถ้าคุณไม่' ยื่นข้อเสนอที่ละเอียดกว่านี้' ซึ่งตรงกับความหมาย"
+      },
+      {
+        "question": "She is talented at ______ painting ______ sculpting.",
+        "options": [
+          "A. either...or",
+          "B. neither...nor",
+          "C. both...and",
+          "D. whether...or"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคบอกว่าเธอมีพรสวรรค์ทั้งสองอย่าง จึงต้องใช้ 'both...and...' (ทั้ง...และ...)"
+      },
+      {
+        "question": "He kept working on the puzzle ______ he finally solved it.",
+        "options": [
+          "A. until",
+          "B. while",
+          "C. whereas",
+          "D. since"
+        ],
+        "answer": "A",
+        "explanation": "เขาทำปริศนาต่อไป 'จนกระทั่ง' เขาแก้ได้ในที่สุด 'until' (จนกระทั่ง) ใช้บอกจุดสิ้นสุดของการกระทำ"
+      },
+      {
+        "question": "The concert was cancelled ______ the lead singer's illness.",
+        "options": [
+          "A. because",
+          "B. since",
+          "C. as",
+          "D. due to"
+        ],
+        "answer": "D",
+        "explanation": "'the lead singer's illness' เป็นวลีคำนาม (noun phrase) ไม่ใช่ประโยค (clause) ดังนั้นต้องใช้ 'due to' หรือ 'because of' ซึ่งตามด้วยนาม ส่วน 'because', 'since', 'as' ต้องตามด้วย clause (S+V)"
+      },
+      {
+        "question": "______ my brother loves spicy food, I prefer milder flavors.",
+        "options": [
+          "A. Since",
+          "B. Whereas",
+          "C. Because",
+          "D. So"
+        ],
+        "answer": "B",
+        "explanation": "'Whereas' ใช้เปรียบเทียบความแตกต่างหรือความตรงกันข้ามระหว่างคนสองคนหรือสองสิ่ง ในที่นี้คือความชอบรสชาติอาหารที่ต่างกันของพี่ชายกับฉัน"
+      },
+      {
+        "question": "I need to finish this report by tomorrow; ______, I'll have to work late tonight.",
+        "options": [
+          "A. for example",
+          "B. otherwise",
+          "C. in contrast",
+          "D. similarly"
+        ],
+        "answer": "B",
+        "explanation": "'Otherwise' หมายถึง 'มิฉะนั้น' ใช้แสดงผลลัพธ์ในแง่ลบที่จะเกิดขึ้นหากไม่ทำตามเงื่อนไขแรก (ถ้าไม่ทำงานดึกคืนนี้ รายงานก็จะไม่เสร็จพรุ่งนี้)"
+      },
+      {
+        "question": "The defendant was acquitted ______ there was insufficient evidence.",
+        "options": [
+          "A. so that",
+          "B. despite",
+          "C. for",
+          "D. as"
+        ],
+        "answer": "D",
+        "explanation": "'as' ในที่นี้มีความหมายเหมือน 'because' หรือ 'since' ใช้ให้เหตุผลว่าทำไมจำเลยถึงถูกตัดสินให้พ้นผิด (เพราะว่าหลักฐานไม่เพียงพอ)"
+      },
+      {
+        "question": "She speaks several languages fluently; ______, she is a great candidate for the international sales position.",
+        "options": [
+          "A. consequently",
+          "B. nevertheless",
+          "C. alternatively",
+          "D. meanwhile"
+        ],
+        "answer": "A",
+        "explanation": "การที่เธอพูดได้หลายภาษาเป็นเหตุให้เธอเป็นตัวเลือกที่ดีสำหรับตำแหน่งงาน 'Consequently' (ดังนั้น, ผลที่ตามมาคือ) เหมาะสมที่สุด"
+      },
+      {
+        "question": "______ he is the team captain, he has a great deal of responsibility.",
+        "options": [
+          "A. Since",
+          "B. Although",
+          "C. Unless",
+          "D. While"
+        ],
+        "answer": "A",
+        "explanation": "'Since' ในบริบทนี้หมายถึง 'because' (เพราะว่า) เพื่อให้เหตุผลว่าทำไมเขามีความรับผิดชอบมาก (เพราะว่าเขาเป็นกัปตันทีม)"
+      },
+      {
+        "question": "The instructions were complicated, ______ I managed to assemble the furniture correctly.",
+        "options": [
+          "A. so",
+          "B. for",
+          "C. nor",
+          "D. yet"
+        ],
+        "answer": "D",
+        "explanation": "'yet' มีความหมายคล้าย 'but' ใช้แสดงความขัดแย้งที่น่าประหลาดใจ (คำแนะนำซับซ้อน แต่ทว่าฉันก็ประกอบเฟอร์นิเจอร์ได้สำเร็จ)"
+      },
+      {
+        "question": "We must reduce our expenses ______ we will face financial difficulties.",
+        "options": [
+          "A. but",
+          "B. or",
+          "C. and",
+          "D. for"
+        ],
+        "answer": "B",
+        "explanation": "'or' ในที่นี้ใช้เพื่อแสดงทางเลือกหรือผลลัพธ์ที่จะตามมาหากไม่ทำสิ่งแรก (เราต้องลดรายจ่าย 'มิเช่นนั้น' เราจะเจอปัญหาทางการเงิน)"
+      },
+      {
+        "question": "He is ______ a great musician ______ a talented composer.",
+        "options": [
+          "A. not only...but also",
+          "B. either...or",
+          "C. both...or",
+          "D. neither...and"
+        ],
+        "answer": "A",
+        "explanation": "โครงสร้างนี้ใช้เพื่อเน้นว่าเขามีความสามารถทั้งสองอย่าง 'not only... but also...' (ไม่เพียงแต่...แต่ยัง...) คือคู่ที่ถูกต้อง"
+      },
+      {
+        "question": "You should bring a jacket ______ it gets cold later in the evening.",
+        "options": [
+          "A. in case",
+          "B. as if",
+          "C. even though",
+          "D. so that"
+        ],
+        "answer": "A",
+        "explanation": "'in case' (ในกรณีที่, เผื่อว่า) ใช้เพื่อพูดถึงการเตรียมการสำหรับสถานการณ์ที่อาจจะเกิดขึ้นในอนาคต"
+      },
+      {
+        "question": "______ being exhausted, the team continued to practice for the championship.",
+        "options": [
+          "A. Although",
+          "B. In spite of",
+          "C. Because",
+          "D. As"
+        ],
+        "answer": "B",
+        "explanation": "'being exhausted' เป็น gerund phrase (วลี) ไม่ใช่ clause (ประโยค) ดังนั้นต้องใช้ 'In spite of' หรือ 'Despite' ซึ่งตามด้วยนามหรือวลี"
+      },
+      {
+        "question": "The company offers excellent benefits. ______, it provides opportunities for professional development.",
+        "options": [
+          "A. However",
+          "B. Furthermore",
+          "C. Consequently",
+          "D. Otherwise"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคที่สองเป็นการให้ข้อมูลเพิ่มเติมจากประโยคแรก 'Furthermore' (ยิ่งไปกว่านั้น) เป็นคำที่เหมาะสมที่สุด"
+      },
+      {
+        "question": "______ the storm was raging outside, we felt safe and warm indoors.",
+        "options": [
+          "A. While",
+          "B. Because",
+          "C. If",
+          "D. Until"
+        ],
+        "answer": "A",
+        "explanation": "'While' ในที่นี้ใช้เพื่อแสดงความขัดแย้งหรือเปรียบเทียบสถานการณ์สองอย่างที่เกิดขึ้นพร้อมกัน (ในขณะที่ข้างนอกพายุกำลังโหมกระหน่ำ ข้างในเรารู้สึกปลอดภัย)"
+      },
+      {
+        "question": "______ you study harder, you are likely to fail the final exam.",
+        "options": [
+          "A. If",
+          "B. When",
+          "C. Because",
+          "D. Unless"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคหมายความว่า 'ถ้าคุณไม่เรียนให้หนักขึ้น...' คุณมีแนวโน้มจะสอบตก 'Unless' (ถ้า...ไม่) สื่อความหมายนี้ได้ดีที่สุด"
+      },
+      {
+        "question": "I didn't like the movie, ______ did my friend.",
+        "options": [
+          "A. so",
+          "B. or",
+          "C. nor",
+          "D. but"
+        ],
+        "answer": "C",
+        "explanation": "'nor' ใช้เพื่อเชื่อมประโยคปฏิเสธสองประโยคเข้าด้วยกัน และต้องมีการสลับตำแหน่งกริยาช่วย (inversion) เป็น 'nor + aux verb + subject'"
+      },
+      {
+        "question": "We left early ______ we could avoid the rush hour traffic.",
+        "options": [
+          "A. because",
+          "B. so",
+          "C. in order to",
+          "D. so that"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคบอกวัตถุประสงค์ของการออกเดินทางแต่เช้า 'so that' (เพื่อที่จะ) ตามด้วย clause (we could avoid...) เป็นคำตอบที่ถูกต้อง ถ้าจะใช้ in order to ต้องตามด้วย Verb Infinitive (in order to avoid)"
+      },
+      {
+        "question": "Some people prefer living in the city, ______ others enjoy the tranquility of the countryside.",
+        "options": [
+          "A. but",
+          "B. whereas",
+          "C. so",
+          "D. for"
+        ],
+        "answer": "B",
+        "explanation": "'whereas' ใช้เพื่อเปรียบเทียบความแตกต่างอย่างชัดเจนระหว่างสองกลุ่มหรือสองสถานการณ์ (คนเมือง vs. คนชนบท)"
+      },
+      {
+        "question": "The economy is in a recession; ______, many people are losing their jobs.",
+        "options": [
+          "A. nevertheless",
+          "B. for instance",
+          "C. as a result",
+          "D. in addition"
+        ],
+        "answer": "C",
+        "explanation": "การที่คนตกงานเป็นผลโดยตรงจากภาวะเศรษฐกิจถดถอย 'as a result' (ผลก็คือ) เป็นตัวเชื่อมที่เหมาะสม"
+      },
+      {
+        "question": "I can't decide ______ to accept the job offer in London ______ to stay in my current position.",
+        "options": [
+          "A. either...or",
+          "B. both...and",
+          "C. whether...or",
+          "D. not only...but also"
+        ],
+        "answer": "C",
+        "explanation": "'whether...or' ใช้เมื่อพูดถึงการตัดสินใจระหว่างสองทางเลือก หรือความไม่แน่นอน"
+      },
+      {
+        "question": "The new software is very efficient; ______, it is quite expensive to implement.",
+        "options": [
+          "A. therefore",
+          "B. moreover",
+          "C. however",
+          "D. thus"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคแรกพูดถึงข้อดี (มีประสิทธิภาพ) ประโยคที่สองพูดถึงข้อเสีย (แพง) เป็นการแสดงความขัดแย้ง 'however' (อย่างไรก็ตาม) จึงเหมาะสมที่สุด"
+      },
+      {
+        "question": "Please turn off all the lights ______ you leave the office.",
+        "options": [
+          "A. after",
+          "B. before",
+          "C. while",
+          "D. until"
+        ],
+        "answer": "B",
+        "explanation": "ลำดับเหตุการณ์คือต้องปิดไฟ 'ก่อน' ออกจากออฟฟิศ 'before' จึงเป็นคำตอบที่ถูกต้อง"
+      },
+      {
+        "question": "He has ______ the skills ______ the experience required for this senior role.",
+        "options": [
+          "A. either...or",
+          "B. neither...nor",
+          "C. both...or",
+          "D. whether...and"
+        ],
+        "answer": "B",
+        "explanation": "หากบริบทหมายความว่าเขาขาดคุณสมบัติทั้งสองอย่าง 'neither...nor' (ไม่ทั้ง...และ...) คือตัวเลือกที่ถูกต้อง ทำให้ประโยคมีความหมายว่า เขาไม่มีทั้งทักษะและประสบการณ์"
+      },
+      {
+        "question": "The presentation was informative, ______ a bit too long.",
+        "options": [
+          "A. as",
+          "B. because",
+          "C. although",
+          "D. unless"
+        ],
+        "answer": "C",
+        "explanation": "ในที่นี้ 'although' สามารถย่อรูปเป็น 'although a bit too long' เพื่อแสดงความขัดแย้ง (ให้ข้อมูลดี แต่ก็นานไปหน่อย)"
+      },
+      {
+        "question": "You need to book your flight in advance, ______ the prices will increase significantly.",
+        "options": [
+          "A. therefore",
+          "B. furthermore",
+          "C. otherwise",
+          "D. besides"
+        ],
+        "answer": "C",
+        "explanation": "'otherwise' (มิฉะนั้น) ใช้เตือนถึงผลเสียที่จะตามมาหากไม่ทำตามคำแนะนำแรก (ถ้าไม่จองล่วงหน้า ราคาจะแพงขึ้น)"
+      },
+      {
+        "question": "He was found guilty ______ all the evidence presented against him.",
+        "options": [
+          "A. because",
+          "B. on account of",
+          "C. despite",
+          "D. so that"
+        ],
+        "answer": "B",
+        "explanation": "'on account of' เป็นอีกคำที่มีความหมายเหมือน 'because of' หรือ 'due to' และต้องตามด้วย Noun Phrase ('all the evidence...') ซึ่งหมายถึง 'เนื่องจากหลักฐานทั้งหมด'"
+      },
+      {
+        "question": "She continued to smile, ______ she was feeling deeply disappointed.",
+        "options": [
+          "A. because",
+          "B. so that",
+          "C. even though",
+          "D. if"
+        ],
+        "answer": "C",
+        "explanation": "การกระทำ (ยิ้ม) ขัดแย้งกับความรู้สึก (ผิดหวังอย่างมาก) 'even though' (ถึงแม้ว่า) ใช้เน้นความขัดแย้งนี้"
+      },
+      {
+        "question": "We can go to the museum ______ the art gallery; it's your choice.",
+        "options": [
+          "A. and",
+          "B. but",
+          "C. or",
+          "D. so"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคกำลังเสนอทางเลือกให้ตัดสินใจระหว่างสองสถานที่ 'or' (หรือ) จึงเป็นคำตอบที่ถูกต้อง"
+      },
+      {
+        "question": "I'll lend you the money, ______ you promise to pay me back next month.",
+        "options": [
+          "A. unless",
+          "B. provided that",
+          "C. although",
+          "D. whereas"
+        ],
+        "answer": "B",
+        "explanation": "'provided that' หรือ 'providing that' มีความหมายเหมือน 'if' แต่เป็นทางการกว่าเล็กน้อย ใช้ตั้งเงื่อนไข (ฉันจะให้ยืมเงิน 'หาก' คุณสัญญาว่าจะคืนเดือนหน้า)"
+      },
+      {
+        "question": "The athlete trained relentlessly for months. ______, she won the gold medal.",
+        "options": [
+          "A. Nevertheless",
+          "B. Consequently",
+          "C. Moreover",
+          "D. Alternatively"
+        ],
+        "answer": "B",
+        "explanation": "การได้เหรียญทองเป็นผลมาจากการฝึกซ้อมอย่างหนัก 'Consequently' (ผลที่ตามมาคือ) เป็นคำเชื่อมที่แสดงเหตุและผลได้ดีที่สุด"
+      },
+      {
+        "question": "______ he was tired, he offered to help me with my project.",
+        "options": [
+          "A. Since",
+          "B. As",
+          "C. Though",
+          "D. Because"
+        ],
+        "answer": "C",
+        "explanation": "มีความขัดแย้งระหว่างความรู้สึกเหนื่อยกับการเสนอตัวเข้าช่วยเหลือ 'Though' (แม้ว่า) ซึ่งมีความหมายเหมือน 'Although' เหมาะสมที่สุด"
+      },
+      {
+        "question": "The negotiations were successful, ______ a few minor disagreements.",
+        "options": [
+          "A. because of",
+          "B. due to",
+          "C. despite",
+          "D. as a result of"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคแสดงความขัดแย้งว่าการเจรจาสำเร็จ 'แม้ว่าจะมี' ความไม่เห็นด้วยเล็กน้อย 'despite' (ทั้งๆ ที่) ตามด้วย Noun Phrase จึงถูกต้อง"
+      },
+      {
+        "question": "He invested in the stock market ______ he hoped to make a quick profit.",
+        "options": [
+          "A. for",
+          "B. so",
+          "C. yet",
+          "D. but"
+        ],
+        "answer": "A",
+        "explanation": "'for' ในฐานะ Coordinating Conjunction มีความหมายคล้าย 'because' และเป็นทางการกว่า ใช้เพื่อให้เหตุผล (เขาลงทุนในตลาดหุ้น 'เพราะว่า' เขาหวังจะทำกำไรเร็ว)"
+      },
+      {
+        "question": "The restaurant is famous for its delicious food; ______, the service is often slow.",
+        "options": [
+          "A. on the other hand",
+          "B. in addition",
+          "C. as a result",
+          "D. for example"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคเปรียบเทียบข้อดี (อาหารอร่อย) กับข้อเสีย (บริการช้า) 'on the other hand' (ในทางกลับกัน) ใช้เพื่อนำเสนอแง่มุมที่ตรงกันข้าม"
+      },
+      {
+        "question": "The deadline is approaching, ______ we need to accelerate our progress.",
+        "options": [
+          "A. but",
+          "B. yet",
+          "C. so",
+          "D. for"
+        ],
+        "answer": "C",
+        "explanation": "การที่ต้องเร่งทำงานเป็นผลมาจากการที่เดดไลน์ใกล้เข้ามาแล้ว 'so' (ดังนั้น) จึงเป็นคำเชื่อมที่เหมาะสม"
+      },
+      {
+        "question": "You can't enter the restricted area ______ you have special authorization.",
+        "options": [
+          "A. if",
+          "B. unless",
+          "C. because",
+          "D. while"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคหมายถึง 'คุณเข้าไม่ได้ 'ถ้าคุณไม่มี' ใบอนุญาตพิเศษ' 'Unless' (ถ้า...ไม่) สื่อความหมายนี้ได้ตรงที่สุด"
+      },
+      {
+        "question": "She is ______ intelligent ______ hardworking, which is why she is so successful.",
+        "options": [
+          "A. either...or",
+          "B. both...and",
+          "C. neither...nor",
+          "D. whether...or"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคกล่าวถึงคุณสมบัติเชิงบวกสองอย่างที่ทำให้เธอประสบความสำเร็จ จึงต้องใช้ 'both...and...' (ทั้ง...และ...)"
+      },
+      {
+        "question": "My car broke down; ______, I had to take a taxi to the meeting.",
+        "options": [
+          "A. otherwise",
+          "B. meanwhile",
+          "C. thus",
+          "D. nonetheless"
+        ],
+        "answer": "C",
+        "explanation": "'thus' มีความหมายคล้าย 'therefore' หรือ 'consequently' ใช้เพื่อแสดงผลลัพธ์ (รถเสีย 'ดังนั้น' ฉันจึงต้องนั่งแท็กซี่)"
+      },
+      {
+        "question": "We will proceed with the plan ______ or not everyone agrees.",
+        "options": [
+          "A. although",
+          "B. if",
+          "C. whether",
+          "D. despite"
+        ],
+        "answer": "C",
+        "explanation": "สำนวน 'whether or not' หมายถึง 'ไม่ว่าจะ...หรือไม่ก็ตาม' ใช้เพื่อแสดงว่าการกระทำจะเกิดขึ้นโดยไม่คำนึงถึงเงื่อนไข"
+      },
+      {
+        "question": "Many critics panned the movie. ______, it became a box office hit.",
+        "options": [
+          "A. For this reason",
+          "B. Similarly",
+          "C. Nevertheless",
+          "D. Furthermore"
+        ],
+        "answer": "C",
+        "explanation": "'Nevertheless' (อย่างไรก็ตาม) ใช้เพื่อนำเสนอข้อมูลที่น่าประหลาดใจและขัดแย้งกับสิ่งที่กล่าวไปก่อนหน้า (นักวิจารณ์ไม่ชอบ แต่หนังกลับทำเงิน)"
+      },
+      {
+        "question": "He set multiple alarms ______ he wouldn't oversleep.",
+        "options": [
+          "A. because",
+          "B. so that",
+          "C. in case",
+          "D. due to"
+        ],
+        "answer": "B",
+        "explanation": "การตั้งนาฬิกาปลุกหลายอันมี 'วัตถุประสงค์' เพื่อที่จะไม่ตื่นสาย 'so that' จึงเป็นคำตอบที่ถูกต้อง"
+      },
+      {
+        "question": "The region has a pleasant climate ______ a stunning natural landscape.",
+        "options": [
+          "A. in contrast to",
+          "B. as well as",
+          "C. instead of",
+          "D. except for"
+        ],
+        "answer": "B",
+        "explanation": "'as well as' (เช่นเดียวกับ) ใช้เพื่อเพิ่มข้อมูลเข้าไป มีความหมายคล้าย 'and' แต่เน้นย้ำมากกว่า"
+      },
+      {
+        "question": "The new policy will be implemented next month; ______, all employees should familiarize themselves with the changes.",
+        "options": [
+          "A. however",
+          "B. for example",
+          "C. on the contrary",
+          "D. accordingly"
+        ],
+        "answer": "D",
+        "explanation": "'Accordingly' (ดังนั้น, ให้สอดคล้องกัน) ใช้เพื่อบอกว่าการกระทำที่สองเป็นผลหรือเป็นไปตามสถานการณ์แรก (นโยบายจะเปลี่ยน 'ดังนั้น' พนักงานควรทำความคุ้นเคย)"
+      },
+      {
+        "question": "The journey was long and arduous. It was, ______, an unforgettable experience.",
+        "options": [
+          "A. therefore",
+          "B. nonetheless",
+          "C. otherwise",
+          "D. moreover"
+        ],
+        "answer": "B",
+        "explanation": "'Nonetheless' มีความหมายเหมือน 'nevertheless' (อย่างไรก็ตาม) ใช้แสดงความขัดแย้ง (การเดินทางยาวนานและยากลำบาก 'แต่ถึงกระนั้น' มันก็เป็นประสบการณ์ที่ลืมไม่ลง)"
+      }
+    ]
+  }
+]

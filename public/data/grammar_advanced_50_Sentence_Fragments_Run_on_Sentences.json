@@ -1,0 +1,834 @@
+[
+  {
+    "id": "50_1",
+    "title": "50.1 Identifying and Fixing Sentence Fragments (ประโยคที่ไม่สมบูรณ์)",
+    "explanation": "ในระดับ C1-C2 ความเข้าใจเรื่อง Sentence Fragment จะลึกซึ้งกว่าแค่การหาประธาน (Subject) และกริยา (Verb) แต่คือการวิเคราะห์ว่า 'กลุ่มคำนั้นสื่อความคิดที่สมบูรณ์จบในตัวเอง (complete thought) หรือไม่' แม้ว่าจะมีประธานและกริยาครบก็ตาม\n\n**แก่นแท้ของประโยคที่สมบูรณ์ (Complete Sentence):**\n1.  **ต้องมีประธาน (Subject):** ผู้กระทำหรือสิ่งที่ถูกกล่าวถึง\n2.  **ต้องมีกริยาแท้ (Finite Verb):** กริยาที่ผันตามประธานและกาลเทศะ ไม่ใช่ verb form อื่นๆ เช่น gerunds, participles, หรือ infinitives ที่ทำหน้าที่เป็นคำนาม คุณศัพท์ หรือกริยาวิเศษณ์\n3.  **ต้องสื่อความหมายครบถ้วนสมบูรณ์ (Express a complete thought):** สามารถอยู่ได้ด้วยตัวเองโดยไม่ต้องพึ่งประโยคอื่นมาขยายความ\n\n**ประเภทของ Sentence Fragments ที่พบบ่อยในระดับสูง:**\n\n1.  **Dependent Clause Fragments (อนุประโยคที่ไม่สมบูรณ์):**\n    นี่คือกับดักที่พบบ่อยที่สุดในระดับ C1-C2 ครับ กลุ่มคำเหล่านี้มีทั้งประธานและกริยา แต่เริ่มต้นด้วยคำเชื่อมที่ทำให้มันกลายเป็นส่วนขยาย (Subordinating Conjunction) เช่น `although`, `because`, `since`, `if`, `while`, `when` หรือ Relative Pronoun เช่น `who`, `which`, `that` ทำให้ความหมายของมันไม่สมบูรณ์ ต้องไปเกาะกับประโยคหลัก (Independent Clause) เสมอ\n    *   ตัวอย่าง: *Although the council had reached a consensus on the overarching policy.* (ถึงแม้ว่าสภาจะบรรลุข้อตกลงเกี่ยวกับนโยบายโดยรวมแล้วก็ตาม...) ประโยคนี้ทำให้ผู้อ่านรอว่า 'แล้วเกิดอะไรขึ้น?' มันยังไม่จบ\n\n2.  **Phrase Fragments (วลีที่ไม่สมบูรณ์):**\n    กลุ่มคำที่ไม่มีประธานและกริยาแท้คู่กัน ทำหน้าที่เป็นส่วนขยายเท่านั้น\n    *   **Participial Phrase Fragment:** ขึ้นต้นด้วย Present Participle (-ing) หรือ Past Participle (-ed/-en) เพื่อทำหน้าที่ขยายคำนาม มักจะบรรยายการกระทำที่เกิดขึ้นพร้อมกันหรือเป็นผลลัพธ์\n        *   ตัวอย่าง: *Having meticulously analyzed the convoluted data sets for weeks.* (หลังจากได้วิเคราะห์ชุดข้อมูลที่ซับซ้อนอย่างพิถีพิถันเป็นเวลาหลายสัปดาห์...) ใครวิเคราะห์? แล้วเขาทำอะไรต่อ?\n    *   **Infinitive Phrase Fragment:** ขึ้นต้นด้วย to + verb เพื่อบอกวัตถุประสงค์หรือทำหน้าที่เป็นคำนาม/คุณศัพท์\n        *   ตัวอย่าง: *To fully grasp the esoteric nature of the manuscript.* (เพื่อที่จะเข้าใจแก่นแท้ที่ลึกลับของต้นฉบับโบราณนี้อย่างถ่องแท้...) ใครต้องเข้าใจ? แล้วต้องทำอย่างไร?\n    *   **Appositive Phrase Fragment:** กลุ่มคำนามที่มาขยายหรือให้ข้อมูลเพิ่มเติมเกี่ยวกับคำนามที่อยู่ข้างหน้า\n        *   ตัวอย่าง: *A maverick innovator, the one who perpetually challenged the industry's orthodoxy.* (นักนวัตกรรมนอกคอก ผู้ซึ่งท้าทายความเชื่อดั้งเดิมของอุตสาหกรรมอยู่เสมอ...) นี่เป็นเพียงคำอธิบาย ยังไม่มีการกระทำหลักของประโยค\n    *   **Prepositional Phrase Fragment:** กลุ่มคำที่ขึ้นต้นด้วยบุพบท (in, on, at, with, etc.) และไม่มีประธาน-กริยาแท้\n        *   ตัวอย่าง: *In the cavernous, dimly lit hall filled with echoes of bygone eras.* (ในห้องโถงที่กว้างใหญ่และสลัวซึ่งเต็มไปด้วยเสียงสะท้อนของยุคสมัยที่ล่วงเลยไป...)\n\n**วิธีการแก้ไข (Fixing Fragments):**\n1.  **ผนวกรวมกับประโยคหลัก:** นำ Fragment ไปเชื่อมต่อกับประโยคหลักที่อยู่ข้างหน้าหรือข้างหลัง ซึ่งเป็นวิธีที่ใช้บ่อยที่สุด\n2.  **เติมส่วนที่ขาดหาย:** เติมประธานหรือกริยาแท้เข้าไปเพื่อทำให้ Fragment กลายเป็นประโยคสมบูรณ์\n3.  **ตัดคำที่เป็นปัญหา:** สำหรับ Dependent Clause Fragment เราสามารถตัด Subordinating Conjunction ทิ้งไปเพื่อทำให้มันกลายเป็นประโยคหลักได้",
+    "examples": [
+      {
+        "eng": "FRAGMENT: Whereas the plaintiff's legal team presented a plethora of compelling evidence. The defendant's counsel offered only tenuous counterarguments.\nCORRECTED: Whereas the plaintiff's legal team presented a plethora of compelling evidence, the defendant's counsel offered only tenuous counterarguments.",
+        "thai": "ประโยคที่ไม่สมบูรณ์ (FRAGMENT): ส่วนทีมกฎหมายของโจทก์ได้นำเสนอหลักฐานที่น่าเชื่อถือมากมาย ในขณะที่... ประโยคนี้เป็น Fragment เพราะคำว่า 'Whereas' (ในขณะที่) ทำให้มันกลายเป็น Dependent Clause ที่ต้องมีประโยคหลักตามมา การใส่จุด Full Stop คั่นกลางจึงผิด\nประโยคที่ถูกต้อง (CORRECTED): แก้ไขโดยการเปลี่ยน Full Stop เป็น Comma (,) เพื่อรวมสองส่วนเข้าด้วยกัน ทำให้ 'Whereas clause' ทำหน้าที่ขยายประโยคหลักที่ตามมาได้อย่างสมบูรณ์"
+      },
+      {
+        "eng": "FRAGMENT: The research institute published its groundbreaking findings. Having spent nearly a decade collating and verifying the empirical data.\nCORRECTED: Having spent nearly a decade collating and verifying the empirical data, the research institute published its groundbreaking findings.",
+        "thai": "ประโยคที่ไม่สมบูรณ์ (FRAGMENT): ส่วนที่สอง 'Having spent...' เป็น Participial Phrase Fragment มันอธิบายการกระทำของ 'The research institute' แต่ถูกแยกออกมาเป็นประโยคเดี่ยวๆ ทำให้ไม่สมบูรณ์\nประโยคที่ถูกต้อง (CORRECTED): แก้ไขโดยการย้าย Participial Phrase มาไว้ข้างหน้า และเชื่อมด้วย Comma เพื่อให้มันทำหน้าที่ขยายประธาน (the research institute) ของประโยคหลักได้อย่างถูกต้อง"
+      },
+      {
+        "eng": "FRAGMENT: The CEO, a visionary entrepreneur known for his perspicacity and relentless drive. He transformed the fledgling startup into a global conglomerate.\nCORRECTED: The CEO, a visionary entrepreneur known for his perspicacity and relentless drive, transformed the fledgling startup into a global conglomerate.",
+        "thai": "ประโยคที่ไม่สมบูรณ์ (FRAGMENT): 'The CEO, a visionary entrepreneur...' เป็น Appositive Phrase Fragment ที่มีประธานซ้ำซ้อน (He) ในประโยคถัดมา ทำให้ประโยคแรกเป็นเพียงส่วนขยายที่ยังไม่สมบูรณ์\nประโยคที่ถูกต้อง (CORRECTED): แก้ไขโดยการเอา 'He' ออก แล้วรวมสองส่วนเข้าด้วยกัน ทำให้ Appositive Phrase ('a visionary entrepreneur...') ขยายประธาน 'The CEO' ได้อย่างถูกต้องในประโยคเดียว"
+      }
+    ],
+    "common_mistakes": "1.  **การขึ้นต้นประโยคด้วย Because/Although/While แล้วจบประโยคเลย:** คนไทยมักแปลตรงตัวจากความคิดในภาษาไทย เช่น 'เพราะว่าเศรษฐกิจไม่ดี.' แล้วจึงขึ้นประโยคใหม่ว่า 'บริษัทจึงต้องลดค่าใช้จ่าย.' ในภาษาอังกฤษที่เป็นทางการ 'Because the economy was dire.' คือ Fragment ต้องเขียนรวมเป็น 'Because the economy was dire, the company had to curtail its expenditures.'\n\n2.  **หลงคิดว่า Participle (-ing/-ed) คือกริยาแท้:** ในประโยคซับซ้อนที่มีส่วนขยายเยอะๆ ผู้เรียนอาจเห็นคำว่า 'implementing' หรือ 'established' แล้วคิดว่าเป็นกริยาแท้ของประโยค ทั้งที่มันเป็นเพียงส่วนหนึ่งของ Participial Phrase ที่มาขยายคำนาม ทำให้ประโยคนั้นไม่มีกริยาแท้จริงๆ และกลายเป็น Fragment\n    *   ตัวอย่างพลาด: *The new protocol, implementing stringent security measures across all departments.* (นี่คือ Fragment เพราะกริยาแท้หายไป กริยาที่เห็นคือ Participle)\n    *   ที่ถูกต้อง: *The new protocol, which implements stringent security measures, was approved.* หรือ *The new protocol implements stringent security measures...*\n\n3.  **การใช้ 'Such as' หรือ 'For example' เพื่อสร้าง Fragment:** เผลอใส่จุด Full Stop ก่อนที่จะยกตัวอย่าง ทำให้ส่วนที่ยกตัวอย่างกลายเป็น Fragment\n    *   ตัวอย่างพลาด: *The artist experimented with various unconventional media. Such as reclaimed industrial materials and biodegradable plastics.*\n    *   ที่ถูกต้อง: *The artist experimented with various unconventional media, such as reclaimed industrial materials and biodegradable plastics.*",
+    "practice_questions": [
+      {
+        "question": "Which of the following is a sentence fragment?",
+        "options": [
+          "A. Despite the vociferous opposition from entrenched interests, the reform bill was eventually ratified by a narrow margin.",
+          "B. A luminary in the field of quantum physics, whose groundbreaking theories fundamentally altered our perception of reality.",
+          "C. The ancient civilization, its intricate societal structure now deciphered through painstaking archaeological work, thrived for centuries.",
+          "D. Exhausted but undeterred, the rescue team persevered through the treacherous, snow-laden mountain pass."
+        ],
+        "answer": "B",
+        "explanation": "ข้อ B เป็น Sentence Fragment ครับ 'A luminary...' เป็น Appositive Phrase (วลีขยายคำนาม) ที่ตามด้วย Relative Clause ('whose groundbreaking theories...') แต่มันไม่มีกริยาแท้ (main verb) ของประธานหลัก ทำให้เป็นเพียงส่วนขยายที่ลอยๆ อยู่ ข้อ A, C, และ D เป็นประโยคสมบูรณ์ทั้งหมด โดยมีประธานและกริยาแท้ครบถ้วน (A: bill was ratified, C: civilization thrived, D: team persevered)"
+      },
+      {
+        "question": "Choose the option that correctly fixes the following fragment: 'While the esoteric philosophical treatise garnered acclaim from a niche academic circle. It failed to resonate with the general populace.'",
+        "options": [
+          "A. While the esoteric philosophical treatise garnered acclaim from a niche academic circle, it failed to resonate with the general populace.",
+          "B. The esoteric philosophical treatise garnered acclaim from a niche academic circle. While it failed to resonate with the general populace.",
+          "C. Garnering acclaim from a niche academic circle, the esoteric philosophical treatise, while it failed to resonate with the general populace.",
+          "D. Although the esoteric philosophical treatise garnered acclaim from a niche academic circle, but it failed to resonate with the general populace."
+        ],
+        "answer": "A",
+        "explanation": "ประโยคเดิมมีปัญหาเพราะ 'While...' เป็น Dependent Clause แต่ถูกแยกด้วย Full Stop ทำให้กลายเป็น Fragment ข้อ A แก้ไขได้ถูกต้องที่สุดโดยการใช้ Comma (,) เชื่อม Dependent Clause เข้ากับ Independent Clause ที่ตามมา ข้อ B ยังคงสร้าง Fragment ในประโยคที่สอง ข้อ C สร้าง Fragment แบบ Participial Phrase ที่โครงสร้างสับสน ข้อ D ใช้คำเชื่อมซ้ำซ้อน ('Although' และ 'but') ซึ่งผิดหลักไวยากรณ์"
+      },
+      {
+        "question": "Identify the complete sentence.",
+        "options": [
+          "A. The politician's speech, a masterclass in equivocation and rhetorical flourish designed to placate the disgruntled electorate.",
+          "B. To meticulously document the precipitous decline of the endangered species before it vanishes entirely.",
+          "C. Given the unprecedented volatility in the global markets and the subsequent economic repercussions.",
+          "D. The confluence of these disparate socio-economic factors precipitated a crisis of unforeseen magnitude."
+        ],
+        "answer": "D",
+        "explanation": "ข้อ D เป็นประโยคเดียวที่สมบูรณ์ มีประธานคือ 'The confluence' และกริยาแท้คือ 'precipitated' และสื่อความหมายครบถ้วน ข้อ A เป็น Appositive Phrase Fragment ไม่มีกริยาแท้ ข้อ B เป็น Infinitive Phrase Fragment ไม่มีประธานและกริยาแท้ ข้อ C เป็น Participial/Prepositional Phrase Fragment ที่ขึ้นต้นด้วย 'Given' และไม่มีประโยคหลักมารองรับ"
+      },
+      {
+        "question": "How can the following fragment be best corrected? 'A sprawling, labyrinthine narrative that defies conventional storytelling tropes.'",
+        "options": [
+          "A. A sprawling, labyrinthine narrative that defies conventional storytelling tropes, the author's latest novel.",
+          "B. The author’s latest novel is a sprawling, labyrinthine narrative that defies conventional storytelling tropes.",
+          "C. Because it is a sprawling, labyrinthine narrative that defies conventional storytelling tropes.",
+          "D. The author's latest novel. A sprawling, labyrinthine narrative that defies conventional storytelling tropes."
+        ],
+        "answer": "B",
+        "explanation": "Fragment ที่ให้มาคือ Appositive Phrase ที่ตามด้วย Relative Clause ('that defies...') มันเป็นเพียงคำอธิบาย ยังไม่มีประธานและกริยาแท้ของตัวเอง ข้อ B แก้ไขโดยการทำให้มันเป็นภาคแสดง (Predicate Nominative) ของประโยคที่มีประธาน ('The author's latest novel') และกริยา ('is') ที่สมบูรณ์ ข้อ A และ D ยังคงเป็น Fragment ส่วนข้อ C เปลี่ยนมันเป็น Dependent Clause Fragment ซึ่งก็ยังไม่สมบูรณ์"
+      },
+      {
+        "question": "Which of these sentences contains a fragment? 'The expedition faced myriad challenges. Including dwindling supplies, inclement weather, and burgeoning dissent among the crew. Nevertheless, the captain remained resolute.'",
+        "options": [
+          "A. The expedition faced myriad challenges.",
+          "B. Including dwindling supplies, inclement weather, and burgeoning dissent among the crew.",
+          "C. Nevertheless, the captain remained resolute.",
+          "D. None of the sentences are fragments."
+        ],
+        "answer": "B",
+        "explanation": "ประโยคที่ขึ้นต้นด้วย 'Including...' เป็น Fragment มันคือ Phrase ที่ควรจะเชื่อมต่อกับประโยคก่อนหน้าเพื่อยกตัวอย่าง 'myriad challenges' วิธีแก้ที่ถูกต้องคือ 'The expedition faced myriad challenges, including dwindling supplies...'"
+      },
+      {
+        "question": "Which revision corrects the fragment? 'Having been meticulously engineered by a team of preeminent scientists. The device still exhibited inexplicable anomalies during preliminary trials.'",
+        "options": [
+          "A. Having been meticulously engineered by a team of preeminent scientists; the device still exhibited inexplicable anomalies during preliminary trials.",
+          "B. The device, having been meticulously engineered by a team of preeminent scientists, still exhibited inexplicable anomalies during preliminary trials.",
+          "C. The device was meticulously engineered by a team of preeminent scientists, and still exhibited inexplicable anomalies during preliminary trials.",
+          "D. Both B and C are correct revisions."
+        ],
+        "answer": "D",
+        "explanation": "Fragment เดิมคือ 'Having been...' ซึ่งเป็น Participial Phrase ข้อ B แก้ไขโดยการสอดแทรก Phrase นี้เข้าไปในประโยคหลักเพื่อขยายประธาน 'The device' ซึ่งถูกต้องตามหลักไวยากรณ์ ข้อ C แก้ไขโดยการเปลี่ยน Phrase ให้กลายเป็น Independent Clause ที่สมบูรณ์ ('The device was...') แล้วเชื่อมด้วย 'and' ซึ่งก็ถูกต้องเช่นกัน ดังนั้นทั้ง B และ C จึงเป็นวิธีแก้ที่ถูกต้อง"
+      },
+      {
+        "question": "What is the primary reason the following group of words is a fragment? 'Which ultimately corroborates the initial hypothesis despite a few statistical outliers.'",
+        "options": [
+          "A. It lacks a subject.",
+          "B. It lacks a main verb.",
+          "C. It begins with a relative pronoun, making it a dependent clause.",
+          "D. It is a prepositional phrase."
+        ],
+        "answer": "C",
+        "explanation": "กลุ่มคำนี้มีประธาน ('which') และกริยา ('corroborates') แต่การที่มันเริ่มต้นด้วย Relative Pronoun 'which' ทำให้มันกลายเป็น Relative Clause (หรือ Adjective Clause) ซึ่งเป็นอนุประโยค (Dependent Clause) ประเภทหนึ่ง มันไม่สามารถอยู่เดี่ยวๆ ได้ ต้องไปขยายคำนามในประโยคหลัก เช่น 'The final report presents data which ultimately corroborates the initial hypothesis...'"
+      },
+      {
+        "question": "Find the fragment in the following paragraph: '(I) The conglomerate's audacious restructuring plan was met with skepticism. (II) A radical departure from its traditionally conservative corporate strategy. (III) Analysts predicted a tumultuous period of transition. (IV) However, the CEO insisted it was a necessary gambit for long-term viability.'",
+        "options": [
+          "A. Sentence I",
+          "B. Sentence II",
+          "C. Sentence III",
+          "D. Sentence IV"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคที่ (II) 'A radical departure from its traditionally conservative corporate strategy' เป็น Appositive Phrase Fragment ครับ มันทำหน้าที่ขยายและให้ความหมายเพิ่มเติมกับ 'restructuring plan' ในประโยคที่ (I) แต่ถูกแยกออกมาเป็นประโยคเดี่ยว ทำให้ไม่สมบูรณ์ ต้องรวมกับประโยคแรก เช่น '...plan, a radical departure from...'"
+      },
+      {
+        "question": "Choose the best way to combine the following into one complete sentence: 'The system has a critical vulnerability. One that could be exploited by malicious actors.'",
+        "options": [
+          "A. The system has a critical vulnerability, one that could be exploited by malicious actors.",
+          "B. The system has a critical vulnerability, and one that could be exploited by malicious actors.",
+          "C. The system has a critical vulnerability; one that could be exploited by malicious actors.",
+          "D. The system has a critical vulnerability, because it is one that could be exploited by malicious actors."
+        ],
+        "answer": "A",
+        "explanation": "ประโยคที่สอง 'One that could be...' เป็น Appositive Phrase Fragment ที่ขยายความ 'vulnerability' ข้อ A แก้ไขได้ถูกต้องและเป็นธรรมชาติที่สุดโดยใช้ Comma เพื่อเชื่อม Appositive เข้ากับคำนามที่มันขยาย ข้อ B ใช้ 'and' ที่ไม่จำเป็น ข้อ C ใช้ Semicolon ไม่ถูกต้องเพราะส่วนที่ตามมาไม่ใช่ Independent Clause ข้อ D เปลี่ยนความหมายของประโยค"
+      },
+      {
+        "question": "Which of the following is a complete, grammatically correct sentence?",
+        "options": [
+          "A. Since the discovery of quantum entanglement, a phenomenon Einstein famously called 'spooky action at a distance'.",
+          "B. The paradoxical nature of the experiment, confounding physicists and philosophers alike for decades.",
+          "C. Whatever the ultimate resolution to this cosmological conundrum may be remains a subject of intense speculation.",
+          "D. Especially the recent data from the super-collider, which seems to contradict established theoretical models."
+        ],
+        "answer": "C",
+        "explanation": "ข้อ C เป็นประโยคที่สมบูรณ์และซับซ้อน โดยมีประธานเป็น Noun Clause ทั้งหมดคือ 'Whatever the ultimate resolution to this cosmological conundrum may be' และมีกริยาแท้คือ 'remains' ข้อ A เป็น Dependent Clause Fragment ที่ขึ้นต้นด้วย 'Since' ข้อ B เป็น Appositive Phrase Fragment ข้อ D เป็น Fragment ที่ขึ้นต้นด้วย 'Especially' ซึ่งควรเป็นส่วนหนึ่งของประโยคอื่น"
+      }
+    ]
+  },
+  {
+    "id": "50_2",
+    "title": "50.2 Identifying and Fixing Run-on Sentences (ประโยคที่ต่อกันผิดหลัก)",
+    "explanation": "Run-on Sentences คือข้อผิดพลาดทางไวยากรณ์ที่ร้ายแรงในระดับสูง เกิดขึ้นเมื่อ Independent Clauses (ประโยคสมบูรณ์ที่อยู่ได้ด้วยตัวเอง) ตั้งแต่ 2 ประโยคขึ้นไปมาเชื่อมต่อกันอย่างไม่ถูกต้อง ทำให้ประโยคยาวเยิ่นเย้อและสื่อความหมายสับสน ในระดับ C1-C2 การกำจัดข้อผิดพลาดนี้ถือเป็นเรื่องสำคัญอย่างยิ่ง\n\nRun-on Sentences มี 2 ประเภทหลักๆ ที่ต้องรู้จักให้แม่นยำ:\n\n1.  **Fused Sentence (ประโยคชนกัน):** คือการนำ Independent Clause (IC) สองประโยคมาวางติดกันโดย 'ไม่มี' เครื่องหมายวรรคตอนหรือคำเชื่อมใดๆ คั่นกลางเลย\n    *   โครงสร้างผิด: `[IC] [IC].`\n    *   ตัวอย่าง: `The philosopher's esoteric theories were groundbreaking they challenged centuries of orthodox thought.`\n\n2.  **Comma Splice (คอมม่าเชื่อมประโยคผิด):** คือการใช้เครื่องหมาย Comma (,) เพียงตัวเดียวเพื่อเชื่อม Independent Clause สองประโยค ซึ่งเป็นวิธีที่ 'ผิด' เพราะ Comma มีความแข็งแรงไม่พอที่จะเชื่อมสองประโยคสมบูรณ์เข้าด้วยกันได้\n    *   โครงสร้างผิด: `[IC], [IC].`\n    *   ตัวอย่าง: `The study's conclusions were unequivocal, further research was deemed essential to corroborate the findings.`\n\n**วิธีการแก้ไข Run-on Sentences (4 วิธีหลักสำหรับระดับสูง):**\n\n1.  **ใช้ Period (.) สร้างเป็นสองประโยค:**\n    *   วิธีที่ง่ายและชัดเจนที่สุด คือการจบประโยคแรกด้วย Period แล้วขึ้นประโยคใหม่ด้วยตัวพิมพ์ใหญ่ วิธีนี้เหมาะเมื่อสองประโยคมีความเกี่ยวข้องกันไม่มาก หรือเมื่อต้องการเน้นแต่ละประเด็นให้แยกจากกันอย่างชัดเจน\n    *   แก้ไข: `The philosopher's esoteric theories were groundbreaking. They challenged centuries of orthodox thought.`\n\n2.  **ใช้ Semicolon (;) เชื่อมประโยคที่เกี่ยวข้องกันอย่างใกล้ชิด:**\n    *   Semicolon เป็นเครื่องหมายที่มีพลังมากกว่า Comma แต่ไม่เด็ดขาดเท่า Period ใช้เชื่อมสอง IC ที่มีความหมายเกี่ยวเนื่องกันอย่างใกล้ชิด (เช่น ประโยคหลังขยายความ, ให้เหตุผล, หรือแสดงความขัดแย้งกับประโยคแรก)\n    *   แก้ไข: `The study's conclusions were unequivocal; further research was deemed essential to corroborate the findings.`\n    *   **ขั้นสูง (C1-C2):** การใช้ Semicolon ร่วมกับ Conjunctive Adverbs (เช่น however, therefore, consequently, moreover, nevertheless) เพื่อแสดงความสัมพันธ์ทางตรรกะที่ซับซ้อนขึ้น โครงสร้างคือ `IC; conjunctive adverb, IC.`\n    *   ตัวอย่าง: `His argument was compelling; however, it lacked empirical evidence.` (สังเกตว่ามี comma หลัง however)\n\n3.  **ใช้ Comma (,) และ Coordinating Conjunction (FANBOYS):**\n    *   วิธีที่พบบ่อยที่สุด คือการใช้ Comma ตามด้วยคำเชื่อมกลุ่ม FANBOYS (For, And, Nor, But, Or, Yet, So) เพื่อเชื่อมสอง IC\n    *   โครงสร้าง: `IC, but IC.`\n    *   แก้ไข: `The philosopher's esoteric theories were groundbreaking, for they challenged centuries of orthodox thought.`\n\n4.  **ใช้ Subordination (การทำให้อนุประโยคหนึ่งเป็นส่วนขยาย):**\n    *   วิธีที่แสดงความซับซ้อนทางความคิดได้ดีที่สุด คือการเปลี่ยน IC หนึ่งให้กลายเป็น Dependent Clause (DC) โดยใช้ Subordinating Conjunction (เช่น although, because, since, while, when, if, unless) วิธีนี้จะช่วยชี้ให้เห็นความสัมพันธ์ระหว่างสองประโยคได้ชัดเจนที่สุด (เช่น เหตุผล, ความขัดแย้ง, เงื่อนไข, เวลา)\n    *   โครงสร้าง: `Subordinating Conjunction + IC, IC.` หรือ `IC + Subordinating Conjunction + IC.`\n    *   แก้ไข: `Although the study's conclusions were unequivocal, further research was deemed essential to corroborate the findings.`\n\nการเลือกวิธีแก้ไขขึ้นอยู่กับความสัมพันธ์ของเนื้อหาและสไตล์การเขียนที่ผู้เขียนต้องการจะสื่อสาร การใช้ Semicolon และ Subordination จะแสดงให้เห็นถึงทักษะการเขียนในระดับสูงได้เป็นอย่างดี",
+    "examples": [
+      {
+        "eng": "Incorrect (Comma Splice): The proliferation of digital media has democratized information, it has also exacerbated the spread of misinformation.",
+        "thai": "ผิด (Comma Splice): 'การแพร่กระจายของสื่อดิจิทัลได้ทำให้ข้อมูลเข้าถึงง่ายขึ้น' และ 'มันก็ได้ทำให้การแพร่กระจายของข้อมูลที่ผิดๆ รุนแรงขึ้นเช่นกัน' เป็นสอง Independent Clauses ที่เชื่อมด้วย Comma เพียงอย่างเดียว ซึ่งผิดหลักไวยากรณ์\n\n**วิธีการแก้ไขแบบต่างๆ:**\n1.  **Period:** `The proliferation of digital media has democratized information. It has also exacerbated the spread of misinformation.` (แยกเป็นสองประเด็นชัดเจน)\n2.  **Semicolon:** `The proliferation of digital media has democratized information; it has also exacerbated the spread of misinformation.` (เชื่อมสองประเด็นที่เกี่ยวข้องกันอย่างใกล้ชิด แสดงให้เห็นถึงสองด้านของเหรียญเดียวกัน)\n3.  **Comma + FANBOYS:** `The proliferation of digital media has democratized information, but it has also exacerbated the spread of misinformation.` (ใช้ 'but' เพื่อเน้นความขัดแย้ง)\n4.  **Subordination:** `While the proliferation of digital media has democratized information, it has also exacerbated the spread of misinformation.` (ใช้ 'While' เพื่อแสดงความขัดแย้งและทำให้ประโยคดูซับซ้อนและเป็นทางการมากขึ้น)"
+      },
+      {
+        "eng": "Incorrect (Fused Sentence): The CEO's austerity measures were met with vehement opposition from the union the board of directors, however, fully endorsed the plan.",
+        "thai": "ผิด (Fused Sentence): ประโยค 'The CEO's austerity measures were met with vehement opposition from the union' และ 'the board of directors, however, fully endorsed the plan' เป็นสอง IC ที่มาชนกันโดยไม่มีเครื่องหมายใดๆ คั่นกลางเลย\n\n**วิธีการแก้ไขแบบต่างๆ:**\n1.  **Period:** `The CEO's austerity measures were met with vehement opposition from the union. The board of directors, however, fully endorsed the plan.` (แบ่งเรื่องราวเป็นสองส่วนชัดเจน)\n2.  **Semicolon:** `The CEO's austerity measures were met with vehement opposition from the union; the board of directors, however, fully endorsed the plan.` (วิธีที่ถูกต้องและเหมาะสมที่สุดสำหรับการใช้ conjunctive adverb 'however' เพื่อเชื่อมสองประโยคที่มีความขัดแย้งกันอย่างชัดเจน)\n3.  **Comma + FANBOYS:** `The CEO's austerity measures were met with vehement opposition from the union, yet the board of directors fully endorsed the plan.` (ใช้ 'yet' เพื่อเน้นความขัดแย้ง)\n4.  **Subordination:** `Although the CEO's austerity measures were met with vehement opposition from the union, the board of directors fully endorsed the plan.` (ใช้ 'Although' เพื่อสร้างประโยคเชิงซ้อนที่แสดงความขัดแย้ง)"
+      }
+    ],
+    "common_mistakes": "1.  **ใช้ Comma Splice กับ Conjunctive Adverbs:** นี่คือข้อผิดพลาดที่พบบ่อยที่สุดในระดับสูง คนไทยมักคิดว่าคำอย่าง however, therefore, moreover, consequently เป็นคำเชื่อมเหมือน FANBOYS จึงใช้โครงสร้างผิดๆ แบบ `IC, however, IC.` โครงสร้างที่ถูกต้องคือ `IC; however, IC.` หรือ `IC. However, IC.` จำไว้เสมอว่าคำเหล่านี้ไม่ใช่ Coordinating Conjunctions\n\n2.  **ติดการใช้ and, but, so มากเกินไป:** แม้การใช้ `IC, and IC.` หรือ `IC, but IC.` จะถูกต้อง แต่การใช้บ่อยเกินไปจะทำให้งานเขียนดูเรียบง่าย ขาดความซับซ้อน ในระดับ C1-C2 ควรฝึกใช้ Semicolon และ Subordination เพื่อแสดงความสัมพันธ์ของแนวคิดที่หลากหลายและลึกซึ้งกว่า\n\n3.  **แยก Independent Clause ไม่ออก:** ในประโยคที่ซับซ้อนและยาวมากๆ ผู้เรียนอาจสับสนและไม่สามารถระบุได้ว่าส่วนไหนคือ Independent Clause ที่สมบูรณ์ (มี Subject + Verb แท้) ทำให้ใส่เครื่องหมายวรรคตอนผิดพลาดได้ง่าย วิธีแก้คือต้องฝึกหาแกนหลัก (Subject-Verb) ของแต่ละประโยคย่อยให้เจอเสมอ\n\n4.  **คิดว่า Semicolon (;) เหมือนกับ Colon (:):** Semicolon (;) ใช้เชื่อมสอง Independent Clauses ที่มีความหมายเกี่ยวเนื่องกัน แต่ Colon (:) ใช้เพื่อนำเสนอ list, คำอธิบาย, หรือคำพูด/ประโยคที่ตามมาเพื่อขยายความสิ่งที่อยู่ข้างหน้า เช่น `He had one goal in mind: to win.` จะใช้ Semicolon แทนไม่ได้",
+    "practice_questions": [
+      {
+        "question": "Which of the following sentences is grammatically correct and most stylistically effective?",
+        "options": [
+          "A. The archeological discovery was momentous, it fundamentally altered our understanding of early human migration patterns.",
+          "B. The archeological discovery was momentous and it fundamentally altered our understanding of early human migration patterns.",
+          "C. The archeological discovery was momentous; consequently, it fundamentally altered our understanding of early human migration patterns.",
+          "D. The archeological discovery was momentous, fundamentally altering our understanding of early human migration patterns."
+        ],
+        "answer": "D",
+        "explanation": "ข้อ D ถูกต้องและมีสไตล์การเขียนที่ดีที่สุด 'fundamentally altering...' เป็น participial phrase ที่มาขยายความประโยคหลัก ทำให้ประโยคกระชับและลื่นไหล \nข้อ A เป็น Comma Splice ที่ผิดไวยากรณ์ \nข้อ B ถูกไวยากรณ์แต่ใช้ 'and' ทำให้ความสัมพันธ์ของเหตุและผลไม่ชัดเจนเท่าที่ควร \nข้อ C ใช้ Semicolon และ 'consequently' ถูกต้องตามโครงสร้าง แต่ในบริบทนี้ การค้นพบไม่ได้เป็น 'ผลให้เกิด' การเปลี่ยนแปลงความเข้าใจโดยตรง แต่การค้นพบนั้นเองที่ 'เป็น' การเปลี่ยนแปลง การใช้ participial phrase ในข้อ D จึงสื่อความหมายได้ดีกว่า"
+      },
+      {
+        "question": "The conglomerate’s precipitous decline was attributed to several factors, its profligate spending on defunct projects was chief among them. How should this run-on sentence be corrected?",
+        "options": [
+          "A. The conglomerate’s precipitous decline was attributed to several factors its profligate spending on defunct projects was chief among them.",
+          "B. The conglomerate’s precipitous decline was attributed to several factors; its profligate spending on defunct projects was chief among them.",
+          "C. The conglomerate’s precipitous decline was attributed to several factors, and its profligate spending on defunct projects was chief among them.",
+          "D. Because the conglomerate’s precipitous decline was attributed to several factors, its profligate spending on defunct projects was chief among them."
+        ],
+        "answer": "B",
+        "explanation": "ประโยคคำถามเป็น Comma Splice ข้อ B คือคำตอบที่ถูกต้องที่สุด โดยใช้ Semicolon (;) เพื่อเชื่อมสอง Independent Clauses ที่เกี่ยวข้องกันอย่างใกล้ชิด ประโยคที่สองเป็นการขยายความและให้รายละเอียดที่สำคัญของประโยคแรก\nข้อ A เปลี่ยนจาก Comma Splice เป็น Fused Sentence ซึ่งผิดเช่นกัน\nข้อ C ใช้ 'and' ซึ่งแม้จะถูกไวยากรณ์ แต่ไม่สามารถสื่อถึงความสัมพันธ์แบบ 'ขยายความ' ได้ดีเท่า Semicolon\nข้อ D ใช้ 'Because' สร้างความสัมพันธ์แบบเหตุและผลที่ไม่สมเหตุสมผลในบริบทนี้"
+      },
+      {
+        "question": "Identify the sentence that contains a FUSED SENTENCE error.",
+        "options": [
+          "A. The statesman delivered a magniloquent oration, few, however, were swayed by his rhetoric.",
+          "B. The company implemented draconian security measures after the data breach, these measures included biometric authentication.",
+          "C. Although the evidence was compelling, the jury remained deadlocked for days.",
+          "D. The esoteric nature of quantum physics fascinates many physicists it remains largely incomprehensible to the layperson."
+        ],
+        "answer": "D",
+        "explanation": "ข้อ D เป็น Fused Sentence ที่ชัดเจน 'The esoteric nature of quantum physics fascinates many physicists' และ 'it remains largely incomprehensible to the layperson' เป็นสอง Independent Clauses ที่มาวางต่อกันโดยไม่มีเครื่องหมายวรรคตอนหรือคำเชื่อมใดๆ\nข้อ A เป็น Comma Splice (ผิด แต่ไม่ใช่ Fused Sentence)\nข้อ B ก็เป็น Comma Splice เช่นกัน\nข้อ C เป็นประโยค Complex Sentence ที่ถูกต้องสมบูรณ์ โดยใช้ Subordinating Conjunction 'Although'"
+      },
+      {
+        "question": "The forensic evidence was inconclusive ___ the prosecution's case faltered.",
+        "options": [
+          "A. , therefore",
+          "B. ; therefore,",
+          "C. , therefore,",
+          "D. ; therefore"
+        ],
+        "answer": "B",
+        "explanation": "นี่คือการทดสอบการใช้ Semicolon กับ Conjunctive Adverb 'therefore' โครงสร้างที่ถูกต้องคือ `IC; conjunctive adverb, IC.` ดังนั้น ข้อ B `...inconclusive; therefore, the prosecution's...` จึงถูกต้องที่สุด\nข้อ A เป็น Comma Splice\nข้อ C ใช้ Comma สองตัวซึ่งผิดโครงสร้าง\nข้อ D ขาด Comma ที่จำเป็นต้องมีหลัง 'therefore' เสมอเมื่อมันอยู่ต้น clause"
+      },
+      {
+        "question": "Which of the following revisions best corrects the comma splice in this sentence: 'The nascent technology showed immense potential, its widespread adoption was hampered by prohibitive costs.'?",
+        "options": [
+          "A. The nascent technology showed immense potential, but its widespread adoption was hampered by prohibitive costs.",
+          "B. The nascent technology showed immense potential, its widespread adoption, however, was hampered by prohibitive costs.",
+          "C. The nascent technology showed immense potential; and its widespread adoption was hampered by prohibitive costs.",
+          "D. The nascent technology showed immense potential, yet its widespread adoption being hampered by prohibitive costs."
+        ],
+        "answer": "A",
+        "explanation": "ข้อ A ใช้ Comma และ Coordinating Conjunction 'but' ได้อย่างถูกต้องและเหมาะสมที่สุด เพื่อแสดงความขัดแย้งระหว่าง 'ศักยภาพ' และ 'อุปสรรค'\nข้อ B ยังคงเป็น Comma Splice เพราะ 'however' ไม่สามารถเชื่อมสอง IC ด้วย Comma ได้\nข้อ C ใช้ Semicolon ร่วมกับ 'and' ซึ่งเป็นการใช้เครื่องหมายซ้ำซ้อนและผิดหลัก (Redundant) เราจะใช้ Semicolon หรือ Comma+and อย่างใดอย่างหนึ่ง\nข้อ D ทำให้ส่วนหลังของประโยคกลายเป็น Fragment ('being hampered...' ไม่ใช่ Verb แท้)"
+      },
+      {
+        "question": "The lexicographer meticulously cataloged neologisms from online discourse, she recognized the ephemeral nature of internet slang.",
+        "options": [
+          "A. NO CHANGE",
+          "B. discourse she",
+          "C. discourse, for she",
+          "D. discourse; and she"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคเดิมเป็น Comma Splice ข้อ C แก้ไขได้อย่างถูกต้องโดยใช้ Comma และ Coordinating Conjunction 'for' ซึ่งในที่นี้มีความหมายว่า 'because' เพื่อให้เหตุผลว่าทำไมนักศัพท์บัญญัติจึงทำเช่นนั้น (เพราะเธอตระหนักถึงธรรมชาติที่ไม่ยั่งยืนของสแลง)\nข้อ A คือ Comma Splice ที่ผิด\nข้อ B คือ Fused Sentence ที่ผิด\nข้อ D ใช้ Semicolon คู่กับ 'and' ซึ่งผิดหลักไวยากรณ์"
+      },
+      {
+        "question": "Select the only grammatically flawless sentence.",
+        "options": [
+          "A. The political climate grew increasingly volatile, consequently, many investors divested from the region.",
+          "B. The artist's oeuvre spans several decades; it showcases a remarkable evolution in style and thematic complexity.",
+          "C. Her perspicacious analysis of the economic data was lauded by the committee, it formed the basis of their new policy.",
+          "D. The pathogen's virulence was underestimated, this led to a catastrophic public health crisis."
+        ],
+        "answer": "B",
+        "explanation": "ข้อ B เป็นประโยคที่ถูกต้องสมบูรณ์ โดยใช้ Semicolon เชื่อมสอง Independent Clauses ที่มีความสัมพันธ์กันอย่างใกล้ชิด (ประโยคหลังขยายความประโยคแรก)\nข้อ A เป็น Comma Splice ที่ใช้กับ 'consequently'\nข้อ C เป็น Comma Splice\nข้อ D ก็เป็น Comma Splice เช่นกัน"
+      },
+      {
+        "question": "The ubiquity of smartphones has reshaped social interaction many argue it has led to a more attenuated form of communication. What is the most sophisticated way to fix this fused sentence?",
+        "options": [
+          "A. ...social interaction, and many argue it has led...",
+          "B. ...social interaction. Many argue it has led...",
+          "C. ...social interaction; many, in fact, argue it has led...",
+          "D. Although the ubiquity of smartphones has reshaped social interaction, many argue it has led..."
+        ],
+        "answer": "D",
+        "explanation": "ในขณะที่ข้อ A, B, C ก็ถูกไวยากรณ์ แต่ข้อ D ถือว่า 'sophisticated' ที่สุด เพราะการใช้ Subordination ด้วย 'Although' แสดงให้เห็นความสัมพันธ์เชิงขัดแย้งที่ซับซ้อนระหว่างสองแนวคิดได้ชัดเจนที่สุด ซึ่งเป็นทักษะการเขียนระดับสูง\nข้อ C ใช้ Semicolon ได้ดี แต่การใช้ Subordination ในข้อ D จะแสดงความสัมพันธ์เชิงตรรกะได้ดีกว่าในบริบทนี้"
+      },
+      {
+        "question": "The prime minister's intransigence on the issue frustrated diplomats, they saw it as a major impediment to reaching a resolution.",
+        "options": [
+          "A. NO CHANGE",
+          "B. diplomats; who saw it as a major impediment...",
+          "C. diplomats, who saw it as a major impediment...",
+          "D. diplomats; they saw it as a major impediment..."
+        ],
+        "answer": "D",
+        "explanation": "ประโยคเดิมเป็น Comma Splice ข้อ D แก้ไขได้อย่างถูกต้องโดยใช้ Semicolon เพื่อเชื่อมสอง Independent Clauses\nข้อ A คือ Comma Splice ที่ผิด\nข้อ B การใช้ Semicolon หน้า relative pronoun 'who' เป็นการใช้ที่ผิด\nข้อ C การใช้ Comma กับ 'who' จะสร้าง non-restrictive clause ซึ่งถูกต้องตามไวยากรณ์ แต่การใช้ Semicolon ในข้อ D จะให้น้ำหนักกับ clause ที่สองในฐานะที่เป็นประโยคสมบูรณ์ที่แยกจากกันแต่เกี่ยวข้องกัน ซึ่งทำให้ความหมายชัดเจนและหนักแน่นกว่า"
+      },
+      {
+        "question": "E-commerce platforms have burgeoned, their logistical networks, however, still struggle with last-mile delivery challenges. This sentence is an example of a...",
+        "options": [
+          "A. Fused Sentence",
+          "B. Sentence Fragment",
+          "C. Comma Splice",
+          "D. Correctly punctuated sentence"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้เป็นตัวอย่างคลาสสิกของ Comma Splice ที่คนมักทำผิดบ่อยที่สุด มี Independent Clause สองประโยค (`E-commerce platforms have burgeoned` และ `their logistical networks... still struggle...`) ที่ถูกเชื่อมด้วย Comma เพียงตัวเดียว แม้ว่าจะมี 'however' อยู่ก็ตาม 'However' เป็น conjunctive adverb ไม่ใช่ coordinating conjunction จึงไม่สามารถเชื่อมประโยคด้วย Comma ได้ ต้องใช้ Semicolon (;) หรือ Period (.)"
+      }
+    ]
+  },
+  {
+    "id": "50_3",
+    "title": "50.3 Summary: Fragments & Run-ons (สรุปการแก้วากยสัมพันธ์ + 50 Exercises)",
+    "explanation": "ในระดับ C1-C2, การควบคุมโครงสร้างประโยคที่ซับซ้อน (Complex Sentence) คือหัวใจสำคัญของการเขียนที่มีประสิทธิภาพ หัวข้อนี้คือการสรุปรวบยอดเพื่อขจัดข้อผิดพลาดพื้นฐานที่ยังคงหลงเหลืออยู่ แม้ในผู้เรียนระดับสูง นั่นคือ Sentence Fragments (ประโยคขาดส่วน) และ Run-on Sentences (ประโยคที่เชื่อมกันผิดหลัก)\n\n**1. Sentence Fragments (วากยสัมพันธ์วิภาค): ประโยคที่ไม่สมบูรณ์**\n\nประโยคที่สมบูรณ์ (Complete Sentence) ต้องประกอบด้วยอย่างน้อย 1 Independent Clause (อนุประโยคหลัก) ซึ่งมีประธาน (Subject), กริยา (Verb), และสื่อความหมายครบถ้วนในตัวเอง (Complete Thought) Fragment คือ 'เงา' ของประโยคที่ขาดองค์ประกอบสำคัญเหล่านี้ไป\n\n*   **Dependent Clause Fragments**: คืออนุประโยคย่อย (Subordinate Clause) ที่ขึ้นต้นด้วย Subordinating Conjunctions (เช่น because, although, when, while, since, if) หรือ Relative Pronouns (เช่น who, which, that) แต่นำมาใช้อย่างโดดเดี่ยวเสมือนเป็นประโยคหลัก\n    *   ผิด: *Although the quantum theory postulates a universe of probabilities.* (แม้ว่าทฤษฎีควอนตัมจะตั้งสมมติฐานเกี่ยวกับจักรวาลแห่งความน่าจะเป็น) - แล้วยังไงต่อ? ความคิดยังไม่จบ\n    *   แก้: เชื่อมเข้ากับ Independent Clause -> *Although the quantum theory postulates a universe of probabilities, it remains one of the most successful scientific theories ever conceived.*\n\n*   **Phrase Fragments**: คือกลุ่มคำ (phrase) ที่ไม่มีทั้งประธานและกริยาแท้ แต่ถูกใช้เหมือนเป็นประโยค ที่พบบ่อยในระดับสูงคือ:\n    *   **Participial Phrase Fragment**: ขึ้นต้นด้วย V-ing หรือ V-ed เพื่อขยายคำนาม เช่น *Scrutinizing the data with meticulous precision.* (ใคร scrutinizing?)\n    *   **Appositive Phrase Fragment**: กลุ่มคำนามที่ให้ข้อมูลเพิ่มเติมเกี่ยวกับคำนามข้างหน้า เช่น *A philosophical paradigm shift that redefined humanity's place in the cosmos.* (นี่คืออะไร? มันขยายคำนามอะไร?)\n    *   **Absolute Phrase Fragment**: กลุ่มคำที่มี 'ประธาน' ของตัวเองแต่ไม่มีกริยาแท้ (มักมี participle) เพื่อขยายทั้งประโยค เช่น *Its implications reverberating throughout the scientific community.* (โครงสร้างนี้ต้องเป็นส่วนหนึ่งของประโยคอื่น)\n\n**2. Run-on Sentences (วากยสัมพันธ์ซ้อน): ประโยคที่เชื่อมผิดวิธี**\n\nRun-on เกิดจากการนำ Independent Clauses ตั้งแต่ 2 ประโยคขึ้นไปมาเชื่อมต่อกันอย่างไม่ถูกต้อง มี 2 รูปแบบหลัก:\n\n*   **Fused Sentence**: ไม่มีเครื่องหมายวรรคตอนหรือคำเชื่อมใดๆ คั่นกลางระหว่างสองประโยคหลัก\n    *   ผิด: *The deregulation of the financial markets precipitated a crisis its repercussions are still felt today.*\n\n*   **Comma Splice**: ใช้เพียงเครื่องหมายจุลภาค (comma) ในการเชื่อมสองประโยคหลัก ซึ่งพลังของ comma ไม่เพียงพอ\n    *   ผิด: *Existentialism posits that individuals create their own meaning, this can be a daunting yet liberating concept.*\n\n**วิธีการแก้ไข Run-on Sentences ในระดับ C1-C2 (เรียงจากง่ายไปซับซ้อน):**\n1.  **Period (.)**: แยกเป็นสองประโยค ง่ายที่สุด แต่ถ้าใช้บ่อยจะทำให้งานเขียนดูกระตุก ไม่ลื่นไหล\n    *   *Existentialism posits that individuals create their own meaning. This can be a daunting yet liberating concept.*\n2.  **Semicolon (;)**: ใช้เชื่อม 2 Independent Clauses ที่มีความเกี่ยวข้องกันอย่างใกล้ชิด แสดงถึงความเชื่อมโยงทางความคิดที่แนบแน่นกว่าการใช้ Period\n    *   *The deregulation of the financial markets precipitated a crisis; its repercussions are still felt today.*\n3.  **Semicolon + Conjunctive Adverb + Comma**: ใช้ Semicolon ตามด้วยคำวิเศษณ์เชื่อมความ (เช่น however, therefore, consequently, moreover) และ Comma เพื่อแสดงความสัมพันธ์ทางตรรกะที่ชัดเจน\n    *   *The experiment yielded anomalous results; therefore, the initial hypothesis had to be reconsidered.*\n4.  **Comma + Coordinating Conjunction (FANBOYS)**: วิธีมาตรฐาน ใช้ comma ร่วมกับ for, and, nor, but, or, yet, so\n    *   *The legislation was controversial, but it ultimately passed with bipartisan support.*\n5.  **Subordination (วิธีที่ทรงพลังที่สุด)**: เปลี่ยน Independent Clause หนึ่งให้กลายเป็น Dependent Clause เพื่อแสดงลำดับชั้นของความคิด (อันไหนเป็นใจความหลัก อันไหนเป็นใจความรอง) ทำให้ประโยคซับซ้อนและสละสลวยขึ้น\n    *   *Because the deregulation of the financial markets precipitated a crisis, its repercussions are still felt today.*\n    *   *Although existentialism posits that individuals create their own meaning, this can be a daunting yet liberating concept.*\n\nการเลือกวิธีแก้ไขขึ้นอยู่กับความสัมพันธ์ระหว่างประโยคและสไตล์การเขียนที่ผู้เขียนต้องการจะสื่อ การใช้ Subordination และ Semicolon บ่งบอกถึงวุฒิภาวะในการเขียนระดับสูง",
+    "examples": [
+      {
+        "eng": "Fragment: *Which ultimately proved to be a pyrrhic victory for the corporation.* \nCorrection: The corporation won the lengthy legal battle, which ultimately proved to be a pyrrhic victory.",
+        "thai": "ตัวอย่าง Fragment ที่พบบ่อยมากในงานเขียนคนไทย คือการใช้ 'Which' ขึ้นต้นประโยคใหม่เพื่ออ้างอิงถึงความคิดในประโยคก่อนหน้า ที่ถูกต้อง 'which' ต้องทำหน้าที่เป็น Relative Pronoun ใน Clause ที่เชื่อมต่อกับประโยคหลักโดยตรง (มักจะตามหลัง comma) เพื่อขยายความ การแยกออกมาเป็นประโยคเดี่ยวทำให้มันกลายเป็น Fragment เพราะ Relative Clause เป็น Dependent Clause"
+      },
+      {
+        "eng": "Run-on (Comma Splice): *The geopolitical landscape is in constant flux, nations must perpetually adapt their foreign policies.* \nFix 1 (Semicolon): The geopolitical landscape is in constant flux; nations must perpetually adapt their foreign policies. \nFix 2 (Subordination): As the geopolitical landscape is in constant flux, nations must perpetually adapt their foreign policies.",
+        "thai": "ตัวอย่าง Comma Splice ที่เชื่อมสองแนวคิดที่เกี่ยวข้องกันอย่างใกล้ชิด การแก้ไขด้วย Semicolon (Fix 1) ทำได้ดีเพราะแสดงความเท่าเทียมกันของสองแนวคิด แต่การใช้ Subordination (Fix 2) จะยกระดับประโยคขึ้น โดยชี้ให้เห็นว่า 'การปรับตัวของชาติ' เป็นผลมาจาก 'ภูมิรัฐศาสตร์ที่เปลี่ยนแปลงตลอดเวลา' สร้างความสัมพันธ์เชิงเหตุและผลที่ชัดเจนกว่า"
+      },
+      {
+        "eng": "Fragment (Absolute Phrase): *The sun having set, casting long, tenebrous shadows across the valley.*\nCorrection: The sun having set, casting long, tenebrous shadows across the valley, the nocturnal creatures began to stir.",
+        "thai": "โครงสร้าง Absolute Phrase (The sun having set...) ไม่สามารถอยู่เป็นประโยคเดี่ยวได้ มันทำหน้าที่ขยายความ Independent Clause ทั้งประโยค (the nocturnal creatures began to stir) โดยให้ข้อมูลเกี่ยวกับเวลาหรือสถานการณ์แวดล้อม การแยกมันออกมาทำให้เกิด Fragment วิธีแก้คือต้องนำไปรวมกับประโยคหลัก"
+      }
+    ],
+    "common_mistakes": "*   **The 'Which' Fragment**: ข้อผิดพลาดอันดับหนึ่งของคนไทยระดับสูง คือการขึ้นประโยคใหม่ด้วย 'Which' เพื่อขยายความประโยคก่อนหน้า เช่น 'The economy recovered quickly. Which was unexpected.' ที่ถูกต้องคือ 'The economy recovered quickly, which was unexpected.'\n*   **Comma Splice with Conjunctive Adverbs**: การใช้คำเชื่อมอย่าง however, therefore, moreover โดยมีแค่ comma นำหน้า เช่น 'He was qualified, however, he did not get the job.' ที่ถูกต้องต้องใช้ Semicolon (He was qualified; however, he did not get the job.) หรือ Period (He was qualified. However, he did not get the job.)\n*   **Over-reliance on FANBOYS**: ในระดับสูง การใช้ and, but, so เชื่อมประโยคบ่อยเกินไปทำให้งานเขียนดูไม่ซับซ้อน การฝึกใช้ Semicolon และ Subordination จะช่วยยกระดับงานเขียนได้อย่างมาก\n*   **Complex Phrase Fragments**: เมื่อเขียนวลี (phrase) ที่ซับซ้อนและยาว เช่น participial phrase หรือ appositive phrase ผู้เขียนอาจเผลอใส่จุด full stop ทำให้มันกลายเป็น fragment โดยไม่ได้ตั้งใจ เพราะคิดว่ามันยาวพอที่จะเป็นประโยคได้ เช่น 'A theory predicated on several unproven assumptions and convoluted logic.' (ผิด) ต้องเชื่อมกับประโยคหลัก เช่น 'The committee rejected the proposal, a theory predicated on...'",
+    "practice_questions": [
+      {
+        "question": "Which of the following is a sentence fragment?",
+        "options": [
+          "A. After the Byzantine Empire fell, its cultural legacy persisted for centuries.",
+          "B. To fully comprehend the intricacies of quantum mechanics is a lifelong endeavor.",
+          "C. Although the evidence was largely circumstantial and open to interpretation.",
+          "D. The committee, having deliberated for hours, finally reached a consensus."
+        ],
+        "answer": "C",
+        "explanation": "ข้อ C เป็น sentence fragment เพราะขึ้นต้นด้วย Subordinating Conjunction 'Although' ทำให้มันเป็น Dependent Clause ซึ่งไม่สามารถอยู่ตามลำพังได้ มันต้องการ Independent Clause มาต่อท้ายเพื่อทำให้ความหมายสมบูรณ์ (เช่น ..., the jury acquitted the defendant.) ข้อ A, B, และ D เป็นประโยคที่สมบูรณ์"
+      },
+      {
+        "question": "Identify the type of error in the following sentence: 'The philosopher's arguments were compelling, they fundamentally altered my worldview.'",
+        "options": [
+          "A. Sentence Fragment",
+          "B. Fused Sentence",
+          "C. Comma Splice",
+          "D. No error"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้มีข้อผิดพลาดแบบ Comma Splice เนื่องจากมีการใช้ comma เพียงอย่างเดียวเพื่อเชื่อม Independent Clause สองประโยค ('The philosopher's arguments were compelling' และ 'they fundamentally altered my worldview') ซึ่งไม่ถูกต้องตามหลักไวยากรณ์"
+      },
+      {
+        "question": "Which revision best corrects the following run-on sentence? 'The algorithm is incredibly efficient it processes terabytes of data in seconds.'",
+        "options": [
+          "A. The algorithm is incredibly efficient, it processes terabytes of data in seconds.",
+          "B. The algorithm is incredibly efficient; it processes terabytes of data in seconds.",
+          "C. The algorithm is incredibly efficient, and it processing terabytes of data in seconds.",
+          "D. Because the algorithm is incredibly efficient, so it processes terabytes of data in seconds."
+        ],
+        "answer": "B",
+        "explanation": "ข้อ B แก้ไข Fused Sentence นี้ได้อย่างถูกต้องโดยใช้ semicolon (;) เพื่อเชื่อมสอง Independent Clauses ที่มีความสัมพันธ์กันอย่างใกล้ชิด ข้อ A สร้าง Comma Splice ข้อ C มีข้อผิดพลาดทางไวยากรณ์ ('processing' ไม่ใช่กริยาแท้) และข้อ D ใช้คำเชื่อมซ้ำซ้อน ('Because' และ 'so')"
+      },
+      {
+        "question": "Which of the following is NOT a sentence fragment?",
+        "options": [
+          "A. A discovery with profound implications for modern astrophysics.",
+          "B. Whereas the opposition presented a cogent and well-researched counterargument.",
+          "C. Her magnum opus, a sprawling historical novel spanning three generations.",
+          "D. Question everything."
+        ],
+        "answer": "D",
+        "explanation": "ข้อ D 'Question everything.' เป็นประโยคคำสั่ง (Imperative Sentence) ที่สมบูรณ์ โดยมีประธานคือ 'you' ที่ละไว้ในฐานที่เข้าใจ ส่วนข้อ A และ C เป็น Appositive Phrase Fragments และข้อ B เป็น Dependent Clause Fragment"
+      },
+      {
+        "question": "Choose the best way to combine these two sentences: 'The company faced unprecedented financial challenges. Its leadership remained resolute.'",
+        "options": [
+          "A. The company faced unprecedented financial challenges, its leadership remained resolute.",
+          "B. Although the company faced unprecedented financial challenges, its leadership remained resolute.",
+          "C. The company faced unprecedented financial challenges, so its leadership remained resolute.",
+          "D. The company facing unprecedented financial challenges, its leadership remained resolute."
+        ],
+        "answer": "B",
+        "explanation": "ข้อ B ใช้ Subordination (ด้วย 'Although') เพื่อสร้างความสัมพันธ์เชิงขัดแย้ง (contrast) ระหว่างสองประโยคได้อย่างสละสลวยที่สุด ซึ่งเป็นวิธีที่ซับซ้อนและมีประสิทธิภาพ ข้อ A เป็น Comma Splice ข้อ C ใช้ 'so' ซึ่งสื่อถึงความเป็นเหตุเป็นผลที่ไม่สมเหตุสมผลในบริบทนี้ และข้อ D เป็น Fragment"
+      },
+      {
+        "question": "What error, if any, is present in this sentence? 'Cognitive dissonance occurs when one holds contradictory beliefs, this psychological tension motivates a change in one's beliefs or behaviors.'",
+        "options": [
+          "A. Fused Sentence",
+          "B. Comma Splice",
+          "C. Fragment",
+          "D. No error"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้เป็นตัวอย่างคลาสสิกของ Comma Splice โดยใช้ comma เชื่อมสอง Independent Clauses ที่สมบูรณ์ วิธีแก้ที่เหมาะสมคือใช้ semicolon, period, หรือทำการ subordination"
+      },
+      {
+        "question": "Which of the following sentences is grammatically correct?",
+        "options": [
+          "A. The research was inconclusive; therefore, the funding was withdrawn.",
+          "B. The research was inconclusive, therefore, the funding was withdrawn.",
+          "C. The research was inconclusive, therefore the funding was withdrawn.",
+          "D. The research was inconclusive therefore the funding was withdrawn."
+        ],
+        "answer": "A",
+        "explanation": "ข้อ A ใช้โครงสร้าง Semicolon + Conjunctive Adverb (therefore) + Comma ได้อย่างถูกต้องเพื่อเชื่อมสอง Independent Clauses ข้อ B และ C เป็น Comma Splice รูปแบบหนึ่งที่พบบ่อย และข้อ D เป็น Fused Sentence"
+      },
+      {
+        "question": "Identify the sentence fragment.",
+        "options": [
+          "A. The new policy, despite its laudable intentions, proved utterly impracticable.",
+          "B. Running parallel to the main narrative, a subplot involving espionage and betrayal.",
+          "C. Analyze the data meticulously before drawing any conclusions.",
+          "D. It is imperative that we act decisively."
+        ],
+        "answer": "B",
+        "explanation": "ข้อ B เป็น Participial Phrase Fragment ('Running parallel...') ที่ไม่มีประธานและกริยาหลักของตัวเอง มันควรจะเป็นส่วนหนึ่งของประโยคที่ใหญ่กว่า เช่น 'Running parallel to the main narrative is a subplot involving espionage and betrayal.'"
+      },
+      {
+        "question": "How should this fragment be corrected? 'A candidate with unimpeachable credentials and a formidable reputation.'",
+        "options": [
+          "A. Attach it to an independent clause: The party nominated a candidate with unimpeachable credentials and a formidable reputation.",
+          "B. Add a verb: A candidate with unimpeachable credentials and a formidable reputation was chosen.",
+          "C. Both A and B are correct ways to fix the fragment.",
+          "D. The sentence is already correct."
+        ],
+        "answer": "C",
+        "explanation": "Fragment นี้เป็น Appositive Phrase สามารถแก้ไขได้สองวิธีหลักๆ คือ 1) ทำให้มันเป็นส่วนขยายของประโยคหลัก (ข้อ A) หรือ 2) เติมกริยาและส่วนประกอบอื่นๆ เพื่อทำให้มันกลายเป็นประโยคหลักเสียเอง (ข้อ B) ดังนั้นทั้งสองวิธีจึงถูกต้อง"
+      },
+      {
+        "question": "Which of the following is a fused sentence?",
+        "options": [
+          "A. The system rebooted, however, the critical error persisted.",
+          "B. The treaty was signed, ending decades of conflict.",
+          "C. Epigenetic modifications do not change the DNA sequence they can change how the body reads a DNA sequence.",
+          "D. While the orchestra tuned their instruments, the conductor reviewed the score."
+        ],
+        "answer": "C",
+        "explanation": "ข้อ C เป็น Fused Sentence เพราะมีสอง Independent Clauses ('Epigenetic modifications do not change the DNA sequence' และ 'they can change how the body reads a DNA sequence') อยู่ติดกันโดยไม่มีเครื่องหมายวรรคตอนหรือคำเชื่อมใดๆ"
+      },
+      {
+        "question": "Select the sentence that is correctly structured.",
+        "options": [
+          "A. He was a polymath, a person of wide-ranging knowledge and learning.",
+          "B. He was a polymath. A person of wide-ranging knowledge and learning.",
+          "C. He was a polymath a person of wide-ranging knowledge and learning.",
+          "D. He was a polymath, which is a person of wide-ranging knowledge and learning."
+        ],
+        "answer": "A",
+        "explanation": "ข้อ A ใช้ Appositive Phrase ('a person of...') ได้อย่างถูกต้อง โดยใช้ comma เพื่อให้ข้อมูลเพิ่มเติมเกี่ยวกับคำนาม 'polymath' ข้อ B สร้าง Appositive Fragment ข้อ C เป็น Fused Sentence และข้อ D ใช้ 'which is' ที่ซ้ำซ้อนและไม่สละสลวยเท่า"
+      },
+      {
+        "question": "What is the most effective way to revise this sentence? 'The study's methodology was flawed, its conclusions are therefore unreliable.'",
+        "options": [
+          "A. The study's methodology was flawed, so its conclusions are therefore unreliable.",
+          "B. Because the study's methodology was flawed, its conclusions are unreliable.",
+          "C. The study's methodology was flawed and its conclusions are therefore unreliable.",
+          "D. The study's methodology was flawed; its conclusions being therefore unreliable."
+        ],
+        "answer": "B",
+        "explanation": "ข้อ B ใช้ Subordination ('Because...') เพื่อสร้างประโยคเชิงเหตุและผลที่ชัดเจนและสละสลวยที่สุด เป็นการแก้ไข Comma Splice ที่มีประสิทธิภาพ ข้อ A มีคำซ้ำซ้อน ('so' และ 'therefore') ข้อ C ใช้ 'and' ที่พอใช้ได้แต่ไม่ดีเท่า B และข้อ D สร้าง Fragment ('its conclusions being...')"
+      },
+      {
+        "question": "Which sentence contains a fragment?",
+        "options": [
+          "A. The verdict, which shocked the nation, was delivered after midnight.",
+          "B. The trial lasted for months. Resulting in a hung jury.",
+          "C. Having been found guilty, the defendant showed no remorse.",
+          "D. What the prosecution failed to prove was motive."
+        ],
+        "answer": "B",
+        "explanation": "ประโยคที่สองในข้อ B ('Resulting in a hung jury.') เป็น Participial Phrase Fragment มันไม่สามารถอยู่เป็นประโยคเดี่ยวได้ ควรจะเขียนเป็น 'The trial lasted for months, resulting in a hung jury.'"
+      },
+      {
+        "question": "Identify the run-on sentence.",
+        "options": [
+          "A. The CEO resigned amidst the scandal; the company's stock plummeted immediately.",
+          "B. Although the proposal seemed promising at first, a closer analysis revealed several critical flaws.",
+          "C. The painting is a masterpiece of impressionism its use of light and color is revolutionary.",
+          "D. To err is human; to forgive, divine."
+        ],
+        "answer": "C",
+        "explanation": "ข้อ C คือ Fused Sentence โดยนำสอง Independent Clauses ('The painting is a masterpiece of impressionism' และ 'its use of light and color is revolutionary') มาต่อกันโดยไม่มีเครื่องหมายวรรคตอนหรือคำเชื่อม"
+      },
+      {
+        "question": "Choose the correct sentence.",
+        "options": [
+          "A. The archeological dig unearthed a forgotten city, this discovery will rewrite history books.",
+          "B. The archeological dig unearthed a forgotten city, a discovery that will rewrite history books.",
+          "C. The archeological dig unearthed a forgotten city. A discovery that will rewrite history books.",
+          "D. The archeological dig unearthed a forgotten city and this discovery will rewrite history books."
+        ],
+        "answer": "B",
+        "explanation": "ข้อ B แก้ไขปัญหาวากยสัมพันธ์ได้อย่างสวยงาม โดยใช้ Appositive Phrase ('a discovery that...') เพื่อขยายความ 'a forgotten city' ข้อ A เป็น Comma Splice ข้อ C สร้าง Appositive Fragment และข้อ D ใช้ 'and' ที่ถูกต้องแต่ไม่สละสลวยเท่าข้อ B"
+      },
+      {
+        "question": "Which of the following is a fragment?",
+        "options": [
+          "A. Stop.",
+          "B. Considering the vastness of the cosmos and the probabilistic nature of life's emergence.",
+          "C. It was an epoch-defining moment.",
+          "D. Whatever you decide is fine with me."
+        ],
+        "answer": "B",
+        "explanation": "ข้อ B เป็น Participial Phrase Fragment ที่ยาวและซับซ้อน แต่ก็ยังขาดประธานและกริยาหลัก มันเป็นแค่ส่วนขยายที่ต้องไปเกาะกับประโยคหลัก ข้อ A เป็นประโยคคำสั่งที่สมบูรณ์ ข้อ C และ D ก็เป็นประโยคที่สมบูรณ์เช่นกัน"
+      },
+      {
+        "question": "The sentence 'Her elocution was impeccable, consequently she won the debate easily' is a...",
+        "options": [
+          "A. Comma Splice",
+          "B. Correctly punctuated sentence",
+          "C. Fused Sentence",
+          "D. Sentence Fragment"
+        ],
+        "answer": "A",
+        "explanation": "นี่คือ Comma Splice ที่พบบ่อย การใช้ Conjunctive Adverb ('consequently') ต้องการ semicolon (;) ก่อนหน้า หรือ period (.) เพื่อแยกประโยค การใช้แค่ comma ไม่เพียงพอ"
+      },
+      {
+        "question": "Which revision is best? 'Globalization has interconnected economies, a downturn in one major market can trigger a worldwide recession.'",
+        "options": [
+          "A. Since globalization has interconnected economies, a downturn in one major market can trigger a worldwide recession.",
+          "B. Globalization has interconnected economies, a downturn in one major market triggering a worldwide recession.",
+          "C. Globalization has interconnected economies and a downturn in one major market can trigger a worldwide recession.",
+          "D. Globalization has interconnected economies; a downturn in one major market can trigger a worldwide recession."
+        ],
+        "answer": "A",
+        "explanation": "ข้อ A ใช้ Subordination ('Since...') ได้ดีที่สุดในการแสดงความสัมพันธ์เชิงเหตุและผลที่ซับซ้อนระหว่างสองประโยค ข้อ D (ใช้ semicolon) ก็ถูกต้องตามไวยากรณ์ แต่ข้อ A แสดงความเชื่อมโยงทางตรรกะได้ดีกว่า ข้อ B สร้าง Fragment และข้อ C ใช้ 'and' ซึ่งไม่แสดงความสัมพันธ์ได้ชัดเจนเท่า"
+      },
+      {
+        "question": "Which of the following is a complete, correct sentence?",
+        "options": [
+          "A. The plethora of information available online, while beneficial, often leads to cognitive overload.",
+          "B. The plethora of information available online. While beneficial, often leads to cognitive overload.",
+          "C. The plethora of information available online, it is beneficial but often leads to cognitive overload.",
+          "D. The plethora of information available online, which while beneficial, often leads to cognitive overload."
+        ],
+        "answer": "A",
+        "explanation": "ข้อ A เป็นประโยคที่สมบูรณ์และถูกต้อง โดยมีวลี 'while beneficial' แทรกอยู่ระหว่าง comma เพื่อให้ข้อมูลเพิ่มเติม ประโยคหลักคือ 'The plethora of information... often leads to cognitive overload.' ข้อ B สร้าง Fragment ข้อ C เป็น Comma Splice และข้อ D มีโครงสร้าง 'which' ที่ผิดเพี้ยน"
+      },
+      {
+        "question": "Identify the error: 'The experiment's parameters were meticulously controlled, every variable was accounted for.'",
+        "options": [
+          "A. Fused Sentence",
+          "B. Misplaced Modifier",
+          "C. Fragment",
+          "D. Comma Splice"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคนี้ใช้ comma เพื่อเชื่อมสอง Independent Clauses ('The experiment's parameters were meticulously controlled' และ 'every variable was accounted for') ซึ่งเป็นลักษณะของ Comma Splice"
+      },
+      {
+        "question": "Which of the following is a fused sentence?",
+        "options": [
+          "A. The novel's protagonist is an anti-hero we are meant to sympathize with his plight.",
+          "B. The novel's protagonist is an anti-hero, with whose plight we are meant to sympathize.",
+          "C. Although the novel's protagonist is an anti-hero, we are meant to sympathize with his plight.",
+          "D. The novel's protagonist is an anti-hero; we are meant to sympathize with his plight."
+        ],
+        "answer": "A",
+        "explanation": "ข้อ A เป็น Fused Sentence เพราะไม่มีเครื่องหมายวรรคตอนหรือคำเชื่อมระหว่างสอง Independent Clauses ข้อ B, C, และ D ล้วนเป็นวิธีที่ถูกต้องในการเชื่อมโยงแนวคิดทั้งสองนี้"
+      },
+      {
+        "question": "What is the best way to fix this fragment? 'Such as the rise of populism and the erosion of democratic norms.'",
+        "options": [
+          "A. This leads to many problems, such as the rise of populism and the erosion of democratic norms.",
+          "B. Such as the rise of populism and the erosion of democratic norms, are worrying trends.",
+          "C. There are many problems. Such as the rise of populism and the erosion of democratic norms.",
+          "D. It is such as the rise of populism and the erosion of democratic norms."
+        ],
+        "answer": "A",
+        "explanation": "วลีที่ขึ้นต้นด้วย 'Such as' ไม่สามารถเป็นประโยคเดี่ยวได้ มันต้องถูกนำไปต่อท้าย Independent Clause เพื่อยกตัวอย่าง ดังในข้อ A ข้อ B มีโครงสร้างที่ไม่ถูกต้อง ข้อ C ยังคงเป็น Fragment และข้อ D ไม่มีความหมาย"
+      },
+      {
+        "question": "Which sentence is grammatically sound?",
+        "options": [
+          "A. The negotiations stalled, the delegates were unable to find common ground.",
+          "B. Because the negotiations stalled, the delegates being unable to find common ground.",
+          "C. The negotiations stalled because the delegates were unable to find common ground.",
+          "D. The negotiations stalled. The delegates being unable to find common ground."
+        ],
+        "answer": "C",
+        "explanation": "ข้อ C เป็นประโยค Complex Sentence ที่ถูกต้องสมบูรณ์ โดยใช้ 'because' เพื่อเชื่อมโยยงเหตุและผล ข้อ A เป็น Comma Splice ข้อ B และ D ทั้งคู่มี Fragment ('the delegates being...')"
+      },
+      {
+        "question": "Identify the sentence fragment.",
+        "options": [
+          "A. The philosophical concept of phenomenology, which was developed by Edmund Husserl.",
+          "B. Phenomenology, developed by Edmund Husserl, is a complex philosophical concept.",
+          "C. To understand phenomenology is to understand the structure of experience.",
+          "D. Let's discuss phenomenology."
+        ],
+        "answer": "A",
+        "explanation": "ข้อ A เป็น Fragment แม้จะดูเหมือนประโยคยาว แต่จริงๆ แล้วมันเป็นแค่ Appositive Phrase ('The philosophical concept of phenomenology') ที่มี Relative Clause ('which was developed...') มาขยาย แต่มันยังขาดกริยาหลักของประโยค"
+      },
+      {
+        "question": "The sentence 'He gave a grandiloquent speech it was full of rhetoric but devoid of substance' is a:",
+        "options": [
+          "A. Comma Splice",
+          "B. Fused Sentence",
+          "C. Complex Sentence",
+          "D. No error"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้เป็น Fused Sentence เนื่องจากนำสอง Independent Clauses มาต่อกันโดยไม่มีเครื่องหมายวรรคตอนหรือคำเชื่อมใดๆ ทั้งสิ้น"
+      },
+      {
+        "question": "Which of the following revisions is INCORRECT for fixing this comma splice? 'The storm was ferocious, the city's infrastructure was severely damaged.'",
+        "options": [
+          "A. The storm was ferocious; the city's infrastructure was severely damaged.",
+          "B. The storm was ferocious, and the city's infrastructure was severely damaged.",
+          "C. The storm was ferocious, the city's infrastructure being severely damaged.",
+          "D. Because the storm was ferocious, the city's infrastructure was severely damaged."
+        ],
+        "answer": "C",
+        "explanation": "ข้อ C เป็นการแก้ไขที่ไม่ถูกต้อง เพราะมันสร้าง Fragment ขึ้นมาแทน วลี 'the city's infrastructure being severely damaged' เป็น Absolute Phrase ที่ไม่สมบูรณ์ ไม่สามารถใช้ในลักษณะนี้ได้ ข้อ A, B, และ D ล้วนเป็นวิธีแก้ไขที่ถูกต้อง"
+      },
+      {
+        "question": "Which sentence is structured correctly?",
+        "options": [
+          "A. The artist's early work was derivative, however, his later pieces were highly original.",
+          "B. The artist's early work was derivative; his later pieces, however, were highly original.",
+          "C. The artist's early work was derivative, his later pieces however were highly original.",
+          "D. The artist's early work was derivative; however his later pieces were highly original."
+        ],
+        "answer": "B",
+        "explanation": "ข้อ B ใช้ semicolon เพื่อเชื่อมสองประโยคหลัก และวาง 'however' เป็นตัวคั่นกลางโดยมี comma ล้อมรอบได้อย่างถูกต้องและมีสไตล์ ข้อ A เป็น Comma Splice ข้อ C ขาด comma รอบ 'however' และข้อ D ขาด comma หลัง 'however'"
+      },
+      {
+        "question": "Identify the fragment.",
+        "options": [
+          "A. The defendant, steadfastly maintaining his innocence throughout the trial.",
+          "B. The defendant steadfastly maintained his innocence throughout the trial.",
+          "C. That the defendant maintained his innocence was clear to everyone.",
+          "D. Despite the evidence, the defendant maintained his innocence."
+        ],
+        "answer": "A",
+        "explanation": "ข้อ A เป็น Fragment เพราะมีเพียงประธาน ('The defendant') และ Participial Phrase ('steadfastly maintaining...') แต่ขาดกริยาหลักของประโยค ข้อ B มีกริยาหลัก ('maintained') ทำให้เป็นประโยคที่สมบูรณ์"
+      },
+      {
+        "question": "Which is the best way to combine these ideas? 'The Internet provides access to vast information. It also disseminates misinformation at an alarming rate.'",
+        "options": [
+          "A. The Internet provides access to vast information, it also disseminates misinformation at an alarming rate.",
+          "B. The Internet provides access to vast information and also disseminates misinformation at an alarming rate.",
+          "C. While the Internet provides access to vast information, it also disseminates misinformation at an alarming rate.",
+          "D. The Internet provides access to vast information, moreover, it also disseminates misinformation at an alarming rate."
+        ],
+        "answer": "C",
+        "explanation": "ข้อ C ใช้ 'While' เพื่อสร้างความสัมพันธ์เชิงขัดแย้ง (concession/contrast) ได้อย่างดีเยี่ยม แสดงให้เห็นถึงสองด้านของเหรียญในประโยคเดียว ข้อ A เป็น Comma Splice ข้อ B ใช้ 'and' ซึ่งถูกต้องแต่ไม่ซับซ้อนเท่า และข้อ D เป็น Comma Splice"
+      },
+      {
+        "question": "What kind of error is in the sentence: 'The system has a critical vulnerability all users should update their software immediately.'?",
+        "options": [
+          "A. Comma Splice",
+          "B. Parallelism Error",
+          "C. Fused Sentence",
+          "D. Sentence Fragment"
+        ],
+        "answer": "C",
+        "explanation": "นี่คือ Fused Sentence ที่เกิดจากการนำสอง Independent Clauses ('The system has a critical vulnerability' และ 'all users should update their software immediately') มาต่อกันโดยปราศจากเครื่องหมายวรรคตอนหรือคำเชื่อม"
+      },
+      {
+        "question": "Which sentence is correct?",
+        "options": [
+          "A. Having considered all the options, the decision was made to postpone the project.",
+          "B. Having considered all the options, we decided to postpone the project.",
+          "C. After considering all the options. The decision was made to postpone the project.",
+          "D. The decision was made to postpone the project. Having considered all the options."
+        ],
+        "answer": "B",
+        "explanation": "ข้อ B เป็นประโยคที่ถูกต้อง โดย Participial Phrase 'Having considered all the options' ทำหน้าที่ขยายประธาน 'we' ได้อย่างถูกต้อง ข้อ A มี Dangling Modifier (the decision ไม่ได้ consider) ข้อ C และ D สร้าง Fragment ขึ้นมา"
+      },
+      {
+        "question": "The sun having risen, the world was bathed in golden light. The first part of this sentence, 'The sun having risen,' is...",
+        "options": [
+          "A. An independent clause",
+          "B. A sentence fragment if it stood alone",
+          "C. A subordinate clause",
+          "D. A prepositional phrase"
+        ],
+        "answer": "B",
+        "explanation": "'The sun having risen' คือ Absolute Phrase มันมีประธานของตัวเอง ('The sun') แต่ไม่มีกริยาแท้ ('having risen' เป็น participle) ดังนั้นมันจึงไม่สามารถอยู่เป็นประโยคเดี่ยวได้ และจะเป็น Fragment หากแยกออกมา"
+      },
+      {
+        "question": "Choose the sentence with no errors.",
+        "options": [
+          "A. The politician's rhetoric was incendiary, it sparked riots across the country.",
+          "B. The politician's rhetoric was incendiary; sparking riots across the country.",
+          "C. The politician's rhetoric was incendiary, sparking riots across the country.",
+          "D. The politician's rhetoric was incendiary it sparked riots across the country."
+        ],
+        "answer": "C",
+        "explanation": "ข้อ C เป็นประโยคที่ถูกต้อง โดยใช้ Participial Phrase ('sparking riots...') เพื่อขยายผลของประโยคหลักได้อย่างกระชับและมีประสิทธิภาพ ข้อ A เป็น Comma Splice ข้อ D เป็น Fused Sentence และข้อ B ใช้ Semicolon อย่างไม่ถูกต้อง (เพราะส่วนที่ตามมาไม่ใช่ Independent Clause)"
+      },
+      {
+        "question": "Which of the following is a comma splice?",
+        "options": [
+          "A. The evidence is irrefutable; nevertheless, the defendant maintains his innocence.",
+          "B. The evidence is irrefutable, the defendant, nevertheless, maintains his innocence.",
+          "C. Although the evidence is irrefutable, the defendant maintains his innocence.",
+          "D. The evidence is irrefutable, but the defendant maintains his innocence."
+        ],
+        "answer": "B",
+        "explanation": "ข้อ B เป็น Comma Splice การแทรก 'nevertheless' เข้ามาไม่ได้เปลี่ยนความจริงที่ว่ามันยังคงเป็นการใช้ comma เชื่อมสอง Independent Clauses ที่ไม่ถูกต้อง ข้อ A, C, และ D เป็นวิธีการเชื่อมประโยคที่ถูกต้องทั้งหมด"
+      },
+      {
+        "question": "What is the most concise and effective revision? 'The report was exhaustive, it covered every conceivable aspect of the issue.'",
+        "options": [
+          "A. The report was exhaustive, and it covered every conceivable aspect of the issue.",
+          "B. The exhaustive report covered every conceivable aspect of the issue.",
+          "C. The report was exhaustive, covering every conceivable aspect of the issue.",
+          "D. The report was exhaustive; it covered every conceivable aspect of the issue."
+        ],
+        "answer": "B",
+        "explanation": "ข้อ B เป็นวิธีที่กระชับและทรงพลังที่สุดโดยการเปลี่ยน Clause แรกให้กลายเป็น Adjective ('exhaustive') มาขยายคำนาม 'report' โดยตรง ทำให้ประโยคแน่นและลื่นไหลขึ้น แม้ว่าข้อ C และ D จะถูกต้องตามหลักไวยากรณ์ แต่ข้อ B มีความเป็นเลิศทางโวหาร (stylistically superior)"
+      },
+      {
+        "question": "Identify the sentence fragment.",
+        "options": [
+          "A. To be or not to be, that is the question.",
+          "B. An intellectual tradition stretching back to antiquity and influencing countless thinkers.",
+          "C. What he proposed was nothing short of revolutionary.",
+          "D. The situation, dire as it was, was not hopeless."
+        ],
+        "answer": "B",
+        "explanation": "ข้อ B เป็น Fragment ที่ซับซ้อน มันคือ Appositive Phrase ที่มี Participial Phrase ('stretching back...') มาขยายต่ออีกที แต่ทั้งหมดนี้ยังขาดประธานและกริยาหลักของประโยค"
+      },
+      {
+        "question": "Which of the following contains a run-on sentence error?",
+        "options": [
+          "A. The cell divides into two daughter cells, each identical to the parent.",
+          "B. The cell divides into two daughter cells each is identical to the parent.",
+          "C. The cell divides into two daughter cells, which are identical to the parent.",
+          "D. When the cell divides, it creates two daughter cells identical to the parent."
+        ],
+        "answer": "B",
+        "explanation": "ข้อ B เป็น Fused Sentence โดยมีสอง Independent Clauses ('The cell divides into two daughter cells' และ 'each is identical to the parent') ติดกันโดยไม่มีการเชื่อมที่ถูกต้อง ข้อ A, C, และ D เป็นประโยคที่ถูกต้องทั้งหมด"
+      },
+      {
+        "question": "Choose the best correction for: 'The new law is controversial, many believe it infringes on civil liberties.'",
+        "options": [
+          "A. The new law is controversial because many believing it infringes on civil liberties.",
+          "B. The new law is controversial, for many believe it infringes on civil liberties.",
+          "C. The new law is controversial, many believe, it infringes on civil liberties.",
+          "D. The new law, which is controversial, many believe it infringes on civil liberties."
+        ],
+        "answer": "B",
+        "explanation": "ข้อ B แก้ Comma Splice ได้อย่างถูกต้องโดยใช้ Comma + Coordinating Conjunction ('for', ซึ่งมีความหมายคล้าย 'because') ข้อ A มีข้อผิดพลาดทางไวยากรณ์ ('believing') ข้อ C ยังคงเป็น Comma Splice และข้อ D มีโครงสร้างที่ซ้ำซ้อนและผิดหลัก"
+      },
+      {
+        "question": "Which of the following is a grammatically complete sentence?",
+        "options": [
+          "A. Whatever the committee decides to recommend to the board.",
+          "B. The committee's final recommendation, whatever it may be.",
+          "C. Whatever the committee decides will be implemented immediately.",
+          "D. The committee deciding whatever to recommend to the board."
+        ],
+        "answer": "C",
+        "explanation": "ข้อ C เป็นประโยคที่สมบูรณ์ โดยมี Noun Clause ('Whatever the committee decides') ทำหน้าที่เป็นประธานของประโยค และมีกริยาคือ 'will be implemented' ข้อ A และ B เป็น Fragments และข้อ D ก็เป็น Fragment ที่มีโครงสร้างผิด"
+      },
+      {
+        "question": "Identify the type of error: 'He is a veritable titan of industry, his influence extends across the globe.'",
+        "options": [
+          "A. Fused sentence",
+          "B. Comma splice",
+          "C. Sentence fragment",
+          "D. No error"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้ใช้ comma เพื่อเชื่อมสอง Independent Clauses ที่สมบูรณ์ ('He is a veritable titan of industry' และ 'his influence extends across the globe') ซึ่งถือเป็นข้อผิดพลาดแบบ Comma Splice"
+      },
+      {
+        "question": "Which sentence correctly uses a semicolon?",
+        "options": [
+          "A. The journey was arduous; but they reached the summit by dawn.",
+          "B. The team worked tirelessly; achieving unprecedented results.",
+          "C. The source code is open-source; anyone can view and modify it.",
+          "D. He excels at many sports; for example, tennis, squash, and badminton."
+        ],
+        "answer": "C",
+        "explanation": "ข้อ C ใช้ semicolon ได้อย่างถูกต้องเพื่อเชื่อมสอง Independent Clauses ที่เกี่ยวข้องกันอย่างใกล้ชิด ข้อ A ใช้ semicolon ร่วมกับ conjunction 'but' อย่างซ้ำซ้อน (ควรใช้แค่ comma + but) ข้อ B ตามด้วย phrase ไม่ใช่ independent clause และข้อ D ควรใช้ colon (:) เพื่อนำเสนอรายการตัวอย่าง ไม่ใช่ semicolon"
+      },
+      {
+        "question": "What is the error in: 'The paradox of our time is that we have more knowledge than ever. But less wisdom.'?",
+        "options": [
+          "A. Comma Splice",
+          "B. Fused Sentence",
+          "C. Sentence Fragment",
+          "D. No error"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคที่สอง 'But less wisdom.' เป็น Sentence Fragment มันขาดทั้งประธานและกริยา ควรจะรวมกับประโยคแรกเป็น: 'The paradox of our time is that we have more knowledge than ever but less wisdom.'"
+      },
+      {
+        "question": "Which of the following is NOT a run-on sentence?",
+        "options": [
+          "A. The painting was a forgery, it looked authentic to the untrained eye.",
+          "B. The painting was a forgery it looked authentic to the untrained eye.",
+          "C. The painting, a forgery, looked authentic to the untrained eye.",
+          "D. The painting was a forgery, however, it looked authentic to the untrained eye."
+        ],
+        "answer": "C",
+        "explanation": "ข้อ C เป็นประโยคที่ถูกต้อง โดยใช้ 'a forgery' เป็น Appositive เพื่อให้ข้อมูลเพิ่มเติมเกี่ยวกับ 'The painting' ได้อย่างกระชับ ข้อ A, D เป็น Comma Splice และข้อ B เป็น Fused Sentence"
+      },
+      {
+        "question": "How to best fix the error? 'The corporate merger was approved, the deal, however, collapsed weeks later.'",
+        "options": [
+          "A. The corporate merger was approved; the deal, however, collapsed weeks later.",
+          "B. The corporate merger was approved, the deal however collapsed weeks later.",
+          "C. Although the corporate merger was approved, the deal collapsed weeks later.",
+          "D. Both A and C are excellent revisions."
+        ],
+        "answer": "D",
+        "explanation": "ข้อผิดพลาดเดิมคือ Comma Splice ทั้งข้อ A (ใช้ semicolon) และข้อ C (ใช้ subordination) เป็นวิธีแก้ไขที่ยอดเยี่ยมและถูกต้องตามหลักไวยากรณ์ทั้งคู่ การเลือกใช้ขึ้นอยู่กับสไตล์และความเน้นย้ำที่ผู้เขียนต้องการ ข้อ A ให้ความรู้สึกว่าสองเหตุการณ์มีน้ำหนักเท่ากัน ในขณะที่ข้อ C เน้นความขัดแย้ง ดังนั้นทั้งสองข้อจึงเป็นคำตอบที่ดี"
+      },
+      {
+        "question": "Which sentence is a fragment?",
+        "options": [
+          "A. The more one learns, the more one realizes how little one knows.",
+          "B. The realization that one knows very little despite learning a great deal.",
+          "C. Realize that you know very little.",
+          "D. It is a humbling realization that the more one learns, the less one feels one knows."
+        ],
+        "answer": "B",
+        "explanation": "ข้อ B เป็น Fragment มันเป็น Noun Phrase ที่ซับซ้อน ('The realization...') ที่มี Noun Clause ('that one knows...') มาขยายต่อ แต่มันยังขาดกริยาหลักของประโยค"
+      },
+      {
+        "question": "Identify the sentence with no structural errors.",
+        "options": [
+          "A. The city's infrastructure is crumbling, it needs immediate investment.",
+          "B. The city's infrastructure is crumbling and it needs immediate investment.",
+          "C. The city's infrastructure is crumbling. Which needs immediate investment.",
+          "D. The city's crumbling infrastructure needs immediate investment."
+        ],
+        "answer": "D",
+        "explanation": "ข้อ D เป็นประโยคที่ถูกต้อง กระชับ และมีประสิทธิภาพที่สุดโดยการใช้ 'crumbling' เป็น adjective ขยาย 'infrastructure' ข้อ A เป็น Comma Splice ข้อ B ถูกต้องตามไวยากรณ์แต่ไม่กระชับเท่า D และข้อ C มี 'which' fragment ที่พบบ่อย"
+      },
+      {
+        "question": "What is wrong with this sentence? 'A colossal failure of imagination and a testament to the dangers of groupthink.'",
+        "options": [
+          "A. It's a fused sentence.",
+          "B. It's a comma splice.",
+          "C. It's a sentence fragment.",
+          "D. Nothing is wrong with it."
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้เป็น Appositive Phrase Fragment มันเป็นเพียงกลุ่มคำนามที่ให้ข้อมูลเพิ่มเติม แต่ไม่มีประธานและกริยาหลัก มันควรจะตามหลังคำนามที่มันขยาย เช่น 'The decision was a colossal failure of imagination and a testament to the dangers of groupthink.'"
+      },
+      {
+        "question": "Which revision corrects the run-on? 'The temperature dropped precipitously the hikers were caught unprepared.'",
+        "options": [
+          "A. The temperature dropped precipitously, the hikers were caught unprepared.",
+          "B. As the temperature dropped precipitously, the hikers were caught unprepared.",
+          "C. The temperature dropped precipitously, and the hikers being caught unprepared.",
+          "D. The temperature dropped precipitously, so the hikers being caught unprepared."
+        ],
+        "answer": "B",
+        "explanation": "ข้อ B ใช้ Subordination ('As...') เพื่อสร้างความสัมพันธ์เชิงเวลาและเหตุผลระหว่างสอง Clause ได้อย่างถูกต้องและมีประสิทธิภาพที่สุด ข้อ A สร้าง Comma Splice ข้อ C และ D มีโครงสร้างที่ไม่ถูกต้อง ('being caught...')"
+      },
+      {
+        "question": "Which of the following is a complete and correctly punctuated sentence?",
+        "options": [
+          "A. The incumbent lost the election, a result that stunned political pundits.",
+          "B. The incumbent lost the election. A result that stunned political pundits.",
+          "C. The incumbent lost the election, which was a result that stunned political pundits.",
+          "D. The incumbent losing the election, a result that stunned political pundits."
+        ],
+        "answer": "A",
+        "explanation": "ข้อ A ใช้ Appositive Phrase ('a result that...') ได้อย่างสมบูรณ์แบบเพื่อขยายความผลลัพธ์ของการเลือกตั้ง ข้อ B สร้าง Appositive Fragment ข้อ C ใช้ 'which was' ที่ฟุ่มเฟือยกว่า และข้อ D เป็น Fragment ทั้งหมด"
+      },
+      {
+        "question": "The final question, a comprehensive test of all the principles covered in this unit.",
+        "options": [
+          "A. The sentence above is a comma splice.",
+          "B. The sentence above is a fused sentence.",
+          "C. The sentence above is a fragment.",
+          "D. The sentence above is grammatically correct."
+        ],
+        "answer": "C",
+        "explanation": "ประโยคคำถามนี้จงใจสร้างขึ้นมาให้เป็น Sentence Fragment มันเป็น Appositive Phrase ('The final question') ที่มี Appositive Phrase อีกอัน ('a comprehensive test...') มาขยายต่อ แต่มันไม่มีกริยาหลักของประโยค ประโยคที่สมบูรณ์อาจจะเป็น 'This is the final question, a comprehensive test...'"
+      }
+    ]
+  }
+]

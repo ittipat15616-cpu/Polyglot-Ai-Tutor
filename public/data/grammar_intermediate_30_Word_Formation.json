@@ -1,0 +1,990 @@
+[
+  {
+    "id": "30_1",
+    "title": "30.1 Common Prefixes (un-, dis-, re-, pre-)",
+    "explanation": "Prefixes (คำอุปสรรค) คือกลุ่มตัวอักษรที่เติมไว้ข้างหน้าคำศัพท์เพื่อเปลี่ยนความหมายของคำนั้นๆ สำหรับระดับ B1-B2 การเข้าใจ Prefixes ทั่วไปเป็นสิ่งสำคัญอย่างยิ่ง เพราะช่วยให้เราสามารถเดาความหมายของศัพท์ที่ไม่เคยเห็นมาก่อน และยังช่วยให้ใช้คำศัพท์ได้หลากหลายขึ้น\n\nในบทนี้ เราจะเน้นไปที่ Prefixes ที่ใช้บ่อยที่สุด 4 ตัว:\n\n1.  **un-**: ใช้เพื่อสร้างความหมายตรงกันข้าม (not, opposite of) มักใช้กับ Adjectives และ Verbs บางตัว\n    *   `happy` (มีความสุข) → `unhappy` (ไม่มีความสุข)\n    *   `able` (สามารถ) → `unable` (ไม่สามารถ)\n    *   `lock` (ล็อค) → `unlock` (ปลดล็อค)\n\n2.  **dis-**: มีความหมายคล้ายกับ un- คือ \"ไม่\" หรือ \"ตรงกันข้าม\" (not, opposite of, away) แต่ไม่สามารถใช้แทนกันได้เสมอไป มักใช้กับ Verbs, Adjectives และ Nouns\n    *   `agree` (เห็นด้วย) → `disagree` (ไม่เห็นด้วย)\n    *   `honest` (ซื่อสัตย์) → `dishonest` (ไม่ซื่อสัตย์)\n    *   `connect` (เชื่อมต่อ) → `disconnect` (ตัดการเชื่อมต่อ)\n\n3.  **re-**: หมายถึง \"อีกครั้ง\" หรือ \"กลับไป\" (again, back) ใช้เติมหน้า Verbs เพื่อแสดงการกระทำนั้นซ้ำอีกครั้ง\n    *   `write` (เขียน) → `rewrite` (เขียนใหม่)\n    *   `consider` (พิจารณา) → `reconsider` (พิจารณาใหม่)\n    *   `build` (สร้าง) → `rebuild` (สร้างขึ้นมาใหม่)\n\n4.  **pre-**: หมายถึง \"ก่อน\" หรือ \"ล่วงหน้า\" (before, in advance) ใช้เพื่อบ่งบอกว่าสิ่งนั้นเกิดขึ้นก่อนเวลาหรือก่อนเหตุการณ์อื่น\n    *   `view` (ดู) → `preview` (ดูตัวอย่างก่อน)\n    *   `historic` (เกี่ยวกับประวัติศาสตร์) → `prehistoric` (ก่อนประวัติศาสตร์)\n    *   `pay` (จ่าย) → `prepaid` (จ่ายล่วงหน้า)",
+    "examples": [
+      {
+        "eng": "The politician's speech was full of dishonest claims, which left many voters feeling completely dissatisfied.",
+        "thai": "คำปราศรัยของนักการเมืองคนนั้นเต็มไปด้วยคำกล่าวอ้างที่ไม่ซื่อสัตย์ ซึ่งทำให้ผู้ลงคะแนนจำนวนมากรู้สึกไม่พอใจอย่างสิ้นเชิง (ใช้ dishonest และ dissatisfied เพื่อแสดงความหมายเชิงลบ)"
+      },
+      {
+        "eng": "It is unwise to underestimate your opponent; you should re-evaluate your strategy before the competition begins.",
+        "thai": "มันไม่ฉลาดเลยที่จะประเมินคู่ต่อสู้ของคุณต่ำเกินไป คุณควรประเมินกลยุทธ์ของคุณใหม่อีกครั้งก่อนที่การแข่งขันจะเริ่มขึ้น (ใช้ re-evaluate เพื่อสื่อว่าให้ทำอีกครั้ง)"
+      },
+      {
+        "eng": "Many unforeseen circumstances forced the company to reschedule the pre-planned product launch event.",
+        "thai": "สถานการณ์ที่ไม่คาดฝันหลายอย่างบังคับให้บริษัทต้องจัดตารางงานเปิดตัวผลิตภัณฑ์ที่วางแผนไว้ล่วงหน้าใหม่ (ใช้ unforeseen [un-] แปลว่าไม่ได้คาดการณ์ไว้, pre-planned [pre-] แปลว่าวางแผนไว้ก่อน, และ reschedule [re-] แปลว่าจัดตารางใหม่)"
+      },
+      {
+        "eng": "He was disqualified from the tournament after the judges discovered he had an unfair advantage over the other players.",
+        "thai": "เขาถูกตัดสิทธิ์ออกจากการแข่งขันหลังจากกรรมการพบว่าเขาได้เปรียบผู้เล่นคนอื่นอย่างไม่ยุติธรรม (ใช้ disqualify และ unfair เพื่อเน้นความหมายเชิงลบและตรงข้าม)"
+      }
+    ],
+    "common_mistakes": "จุดที่คนไทยมักทำผิดบ่อยที่สุดคือการสับสนระหว่าง 'un-' และ 'dis-' เนื่องจากทั้งสองคำมีความหมายว่า 'ไม่' หรือ 'ตรงข้าม' เหมือนกัน\n\n**หลักการ:** ไม่มีกฎตายตัวว่าคำไหนต้องใช้กับ un- หรือ dis- วิธีที่ดีที่สุดคือการเรียนรู้และจดจำจากการอ่านและการฟังมากๆ\n\n**ข้อผิดพลาดที่พบบ่อย:**\n1.  **ใช้สลับกัน:**\n    *   ผิด: `I unagree with your opinion.`\n    *   ถูก: `I disagree with your opinion.` (disagree เป็นคำที่ถูกต้อง)\n    *   ผิด: `He seems very dishappy today.`\n    *   ถูก: `He seems very unhappy today.` (unhappy เป็นคำที่ถูกต้อง)\n\n2.  **พยายามเติม Prefix กับทุกคำ:**\n    *   ผิด: `You need to re-happy yourself.`\n    *   ถูก: `You need to be happy again.` (ไม่มีคำว่า re-happy)\n\n**ข้อสังเกต:** คำบางคำมีความหมายต่างกันเมื่อใช้ un- และ dis- เช่น `unable` (ไม่สามารถทำสิ่งใดสิ่งหนึ่งได้) กับ `disabled` (พิการ, มีความบกพร่องทางร่างกายหรือจิตใจ ซึ่งเป็นความหมายที่เฉพาะเจาะจงกว่า)",
+    "practice_questions": [
+      {
+        "question": "After the computer system crashed, the IT department worked all night to ______store the lost data.",
+        "options": [
+          "A. dis",
+          "B. un",
+          "C. re",
+          "D. pre"
+        ],
+        "answer": "C",
+        "explanation": "คำว่า 'restore' (re + store) หมายถึง 'กู้คืน' หรือ 'นำกลับมาสู่สภาพเดิม' ซึ่งเข้ากับบริบทที่ข้อมูลหายไปและต้องนำกลับคืนมา Prefixes อื่นๆ ไม่เข้ากับความหมาย: dis- (ไม่), un- (ไม่), pre- (ก่อน)"
+      },
+      {
+        "question": "The company had to issue a product recall because of several ______foreseen safety issues.",
+        "options": [
+          "A. un",
+          "B. dis",
+          "C. re",
+          "D. pre"
+        ],
+        "answer": "A",
+        "explanation": "'unforeseen' (un + foreseen) เป็น Adjective หมายถึง 'ที่ไม่ได้คาดการณ์ไว้ล่วงหน้า' ซึ่งเหมาะสมกับบริบทที่ปัญหาด้านความปลอดภัยเกิดขึ้นโดยไม่คาดคิด"
+      },
+      {
+        "question": "To avoid long queues, it is highly recommended to ______-register for the conference online.",
+        "options": [
+          "A. un",
+          "B. dis",
+          "C. re",
+          "D. pre"
+        ],
+        "answer": "D",
+        "explanation": "'pre-register' (pre + register) หมายถึง 'ลงทะเบียนล่วงหน้า' การกระทำนี้ช่วยหลีกเลี่ยงการต่อคิวยาวในวันงาน ซึ่งตรงกับความหมายของประโยค"
+      },
+      {
+        "question": "Many people ______approve of the government's decision to increase taxes without public consultation.",
+        "options": [
+          "A. re",
+          "B. un",
+          "C. dis",
+          "D. pre"
+        ],
+        "answer": "C",
+        "explanation": "'disapprove' (dis + approve) เป็น Verb หมายถึง 'ไม่เห็นด้วย' หรือ 'ไม่ยอมรับ' เป็นคำที่ถูกต้องในการแสดงความรู้สึกต่อต้านการตัดสินใจของรัฐบาล"
+      },
+      {
+        "question": "The evidence presented in court was later found to be ______reliable and was dismissed by the judge.",
+        "options": [
+          "A. pre",
+          "B. un",
+          "C. re",
+          "D. dis"
+        ],
+        "answer": "B",
+        "explanation": "'unreliable' (un + reliable) เป็น Adjective หมายถึง 'ไม่น่าเชื่อถือ' ซึ่งอธิบายลักษณะของหลักฐานที่ถูกผู้พิพากษาปัดตกไป"
+      },
+      {
+        "question": "The old factory will be demolished and the entire area will be ______developed into a modern commercial center.",
+        "options": [
+          "A. pre",
+          "B. dis",
+          "C. re",
+          "D. un"
+        ],
+        "answer": "C",
+        "explanation": "'redevelop' (re + develop) หมายถึง 'พัฒนาขึ้นใหม่' ซึ่งเข้ากับบริบทของการทุบโรงงานเก่าทิ้งเพื่อสร้างศูนย์การค้าที่ทันสมัยขึ้นมาแทน"
+      },
+      {
+        "question": "It is almost impossible to ______assemble this piece of furniture once it has been put together.",
+        "options": [
+          "A. dis",
+          "B. un",
+          "C. re",
+          "D. pre"
+        ],
+        "answer": "A",
+        "explanation": "'disassemble' (dis + assemble) หมายถึง 'ถอดชิ้นส่วน' ซึ่งเป็นความหมายตรงกันข้ามกับ 'assemble' (ประกอบ) ในประโยคนี้จึงใช้ dis- เพื่อสร้างความหมายตรงข้าม"
+      },
+      {
+        "question": "One major ______advantage of living in a big city is the high cost of living.",
+        "options": [
+          "A. un",
+          "B. pre",
+          "C. re",
+          "D. dis"
+        ],
+        "answer": "D",
+        "explanation": "'disadvantage' (dis + advantage) หมายถึง 'ข้อเสียเปรียบ' หรือ 'ข้อด้อย' ซึ่งเป็นคำนามที่ถูกต้องและตรงข้ามกับ advantage (ข้อได้เปรียบ)"
+      },
+      {
+        "question": "The company offers a ______-paid mobile plan, which allows you to control your spending.",
+        "options": [
+          "A. re",
+          "B. un",
+          "C. pre",
+          "D. dis"
+        ],
+        "answer": "C",
+        "explanation": "'prepaid' (pre + paid) หมายถึง 'ที่จ่ายเงินล่วงหน้า' เป็นรูปแบบของแผนบริการมือถือที่ผู้ใช้ต้องจ่ายเงินก่อนใช้งาน ซึ่งตรงกับคำอธิบายในประโยค"
+      },
+      {
+        "question": "Despite his efforts, his arguments were largely ______convincing to the skeptical audience.",
+        "options": [
+          "A. dis",
+          "B. un",
+          "C. pre",
+          "D. re"
+        ],
+        "answer": "B",
+        "explanation": "'unconvincing' (un + convincing) เป็น Adjective หมายถึง 'ที่ไม่น่าเชื่อถือ' หรือ 'ที่โน้มน้าวใจไม่ได้' เป็นคำที่ถูกต้องที่สุดในการอธิบายเหตุผลของเขาที่ไม่สามารถทำให้ผู้ฟังที่สงสัยคล้อยตามได้"
+      }
+    ]
+  },
+  {
+    "id": "30_2",
+    "title": "30.2 Noun Suffixes (-tion, -ment, -ness, -ity)",
+    "explanation": "Noun Suffixes คือส่วนที่เติมท้ายคำ (root word) เพื่อเปลี่ยนประเภทของคำนั้นให้กลายเป็นคำนาม (Noun) ซึ่งมักจะเป็นคำนามเชิงนามธรรม (Abstract Nouns)\nการเข้าใจ Suffixes เหล่านี้ช่วยให้เราเดาความหมายของคำศัพท์ใหม่ๆ และขยายคลังคำศัพท์ของเราได้อย่างมหาศาล\n\n1. **-tion / -sion**: มักใช้เปลี่ยนคำกริยา (Verb) ให้เป็นคำนาม\n   - **ความหมาย**: แสดงถึง 'การกระทำ', 'กระบวนการ', หรือ 'ผลลัพธ์' ของการกระทำนั้น\n   - **ตัวอย่าง**: `educate` (v. ให้การศึกษา) -> `education` (n. การศึกษา), `decide` (v. ตัดสินใจ) -> `decision` (n. การตัดสินใจ)\n   - **ข้อควรระวัง**: การสะกดคำอาจเปลี่ยนแปลง เช่น `create` -> `creation` (ตัด e), `permit` -> `permission` (เปลี่ยน t เป็น ssion)\n\n2. **-ment**: มักใช้เปลี่ยนคำกริยา (Verb) ให้เป็นคำนาม\n   - **ความหมาย**: แสดงถึง 'ผลลัพธ์ของการกระทำ', 'สภาวะ', หรือ 'การกระทำ'\n   - **ตัวอย่าง**: `achieve` (v. บรรลุ) -> `achievement` (n. ความสำเร็จ), `govern` (v. ปกครอง) -> `government` (n. รัฐบาล)\n\n3. **-ness**: มักใช้เปลี่ยนคำคุณศัพท์ (Adjective) ให้เป็นคำนาม\n   - **ความหมาย**: แสดงถึง 'สภาวะ', 'คุณภาพ', หรือ 'คุณลักษณะ'\n   - **ตัวอย่าง**: `happy` (adj. มีความสุข) -> `happiness` (n. ความสุข), `weak` (adj. อ่อนแอ) -> `weakness` (n. จุดอ่อน, ความอ่อนแอ)\n   - **ข้อควรระวัง**: ถ้าคำลงท้ายด้วย 'y' ให้เปลี่ยนเป็น 'i' ก่อนเติม -ness เช่น `lonely` -> `loneliness`\n\n4. **-ity**: มักใช้เปลี่ยนคำคุณศัพท์ (Adjective) ให้เป็นคำนาม\n   - **ความหมาย**: คล้ายกับ -ness คือแสดง 'สภาวะ' หรือ 'คุณภาพ' แต่มักจะใช้กับคำที่เป็นทางการหรือเป็นนามธรรมมากกว่า\n   - **ตัวอย่าง**: `able` (adj. สามารถ) -> `ability` (n. ความสามารถ), `possible` (adj. เป็นไปได้) -> `possibility` (n. ความเป็นไปได้)\n   - **ข้อควรระวัง**: การสะกดคำมักเปลี่ยนแปลงซับซ้อน เช่น `responsible` -> `responsibility`, `curious` -> `curiosity`",
+    "examples": [
+      {
+        "eng": "The implementation of the new system caused a lot of confusion among the employees.",
+        "thai": "`implementation` (การนำไปปฏิบัติ) มาจากกริยา `implement`. ประโยคนี้หมายถึง 'การนำระบบใหม่มาใช้งานได้ก่อให้เกิดความสับสนอย่างมากในหมู่พนักงาน' ซึ่งแสดงถึงผลของการกระทำ"
+      },
+      {
+        "eng": "Her dedication to her research is evident in the quality of her publications.",
+        "thai": "`dedication` (การอุทิศตน) มาจากกริยา `dedicate`. ประโยคนี้หมายถึง 'การอุทิศตนให้กับงานวิจัยของเธอปรากฏชัดในคุณภาพของผลงานตีพิมพ์' ซึ่งแสดงถึงการกระทำที่ต่อเนื่อง"
+      },
+      {
+        "eng": "The vastness of the desert can be both breathtaking and intimidating.",
+        "thai": "`vastness` (ความกว้างใหญ่ไพศาล) มาจากคุณศัพท์ `vast`. ประโยคนี้หมายถึง 'ความกว้างใหญ่ไพศาลของทะเลทรายนั้นน่าทึ่งและน่าเกรงขามในเวลาเดียวกัน' เป็นการบอกสภาวะหรือคุณลักษณะ"
+      },
+      {
+        "eng": "Due to the project's complexity, we need to hire an expert with specialized knowledge.",
+        "thai": "`complexity` (ความซับซ้อน) มาจากคุณศัพท์ `complex`. ประโยคนี้หมายถึง 'เนื่องจากความซับซ้อนของโครงการ เราจึงจำเป็นต้องจ้างผู้เชี่ยวชาญที่มีความรู้เฉพาะทาง' เป็นการบอกถึงคุณภาพของโครงการ"
+      }
+    ],
+    "common_mistakes": "1. **เลือกใช้ Suffix ผิดตัว**: คนไทยมักสับสนว่าจะใช้ suffix ตัวไหนกับคำไหนดี เช่น ใช้ `*improveness` หรือ `*improvation` แทนที่จะเป็น `improvement` ที่ถูกต้อง วิธีแก้คือการอ่านและฟังภาษาอังกฤษบ่อยๆ เพื่อสร้างความคุ้นเคย เพราะไม่มีกฎตายตัวเสมอไป\n\n2. **สะกดผิดเมื่อเติม Suffix**: เป็นข้อผิดพลาดที่พบบ่อยมาก โดยเฉพาะเมื่อคำเดิมต้องมีการเปลี่ยนแปลงก่อนเติม Suffix\n   - ลืมตัด 'e' ท้ายคำ: `create` -> `createtion` (ผิด) ต้องเป็น `creation` (ถูก)\n   - ลืมเปลี่ยน 'y' เป็น 'i': `happy` -> `happyness` (ผิด) ต้องเป็น `happiness` (ถูก)\n   - การเปลี่ยนแปลงที่ซับซ้อน: `responsible` -> `responsiblity` (ผิด) ต้องเป็น `responsibility` (ถูก)\n\n3. **สับสนระหว่าง Noun และ Adjective**: บางครั้งผู้เรียนใช้คำนามที่ลงท้ายด้วย Suffix เหล่านี้ในตำแหน่งของคำคุณศัพท์ เช่น พูดว่า \"I feel happiness.\" แม้จะพอเข้าใจได้ แต่ประโยคที่ถูกต้องตามหลักไวยากรณ์คือ \"I feel happy.\" เพราะ `feel` เป็น linking verb ที่ต้องตามด้วย Adjective เพื่ออธิบายสภาวะของประธาน ไม่ใช่ Noun",
+    "practice_questions": [
+      {
+        "question": "The company is focusing on the ______ of its customer service to increase client loyalty.",
+        "options": [
+          "A. improve",
+          "B. improvement",
+          "C. improving",
+          "D. improved"
+        ],
+        "answer": "B",
+        "explanation": "ในประโยคนี้เราต้องการคำนาม (Noun) เพื่อมาเป็นกรรม (Object) ของบุพบท 'on' คำว่า `improvement` (การปรับปรุง) เป็นคำนามที่มาจากกริยา `improve` จึงเป็นคำตอบที่ถูกต้อง"
+      },
+      {
+        "question": "One of the key qualities for a modern leader is ______, as plans often need to be changed unexpectedly.",
+        "options": [
+          "A. flexible",
+          "B. flexion",
+          "C. flexibility",
+          "D. flexibly"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้ต้องการคำนามเพื่อบอก 'คุณสมบัติ' (quality) คำว่า `flexibility` (ความยืดหยุ่น) ซึ่งเป็นคำนามของ Adjective `flexible` จึงถูกต้องที่สุดในบริบทนี้"
+      },
+      {
+        "question": "The ______ of information online requires users to be critical of what they read.",
+        "options": [
+          "A. aware",
+          "B. awareness",
+          "C. awoke",
+          "D. awaken"
+        ],
+        "answer": "B",
+        "explanation": "ตำแหน่งหลัง 'The growing...' และหน้า 'of' ต้องการคำนาม `awareness` (ความตระหนักรู้) เป็นคำนามที่ถูกต้องซึ่งมาจาก Adjective `aware`"
+      },
+      {
+        "question": "His ______ to the team's success was recognized with a special award from the management.",
+        "options": [
+          "A. contribution",
+          "B. contribute",
+          "C. contributing",
+          "D. contributor"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้ต้องการคำนามเพื่อทำหน้าที่เป็นประธานของประโยคย่อย `contribution` (การมีส่วนร่วม, สิ่งที่มอบให้) เป็นคำนามที่มาจากกริยา `contribute` และเหมาะสมกับบริบทที่สุด"
+      },
+      {
+        "question": "The sudden ______ of the CEO shocked the entire industry and led to a drop in stock prices.",
+        "options": [
+          "A. resignation",
+          "B. resign",
+          "C. resigned",
+          "D. resigning"
+        ],
+        "answer": "A",
+        "explanation": "หลังคำว่า 'The sudden...' เราต้องการคำนามมาขยาย `resignation` (การลาออก) เป็นคำนามที่มาจากกริยา `resign` จึงเป็นคำตอบที่ถูกต้อง"
+      },
+      {
+        "question": "It is a common ______ that creativity is something you are born with and cannot be learned.",
+        "options": [
+          "A. misconception",
+          "B. misconcept",
+          "C. misconceive",
+          "D. misperceive"
+        ],
+        "answer": "A",
+        "explanation": "หลัง 'a common...' ต้องการคำนาม คำว่า `misconception` (ความเข้าใจผิด) เป็นคำนามที่ถูกต้องและใช้บ่อยในสำนวนนี้"
+      },
+      {
+        "question": "We need to confirm the ______ of this historical artifact before putting it on display.",
+        "options": [
+          "A. authentic",
+          "B. authenticity",
+          "C. authentically",
+          "D. authenticate"
+        ],
+        "answer": "B",
+        "explanation": "หลัง 'the' และก่อน 'of' เราต้องการคำนามเพื่อเป็นกรรมของกริยา 'confirm' คำว่า `authenticity` (ความเป็นของแท้) เป็นคำนามที่มาจาก Adjective `authentic` ด้วย Suffix -ity"
+      },
+      {
+        "question": "The main ______ of this new smartphone is its exceptionally long battery life.",
+        "options": [
+          "A. attractive",
+          "B. attraction",
+          "C. attract",
+          "D. attractively"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้ต้องการคำนามเพื่อมาเป็นประธาน `attraction` (สิ่งดึงดูดใจ, เสน่ห์) เป็นคำนามที่ถูกต้องและเหมาะสมกับความหมายของประโยค"
+      },
+      {
+        "question": "Despite facing many obstacles, her ______ to finish her degree never wavered.",
+        "options": [
+          "A. determine",
+          "B. determined",
+          "C. determination",
+          "D. determining"
+        ],
+        "answer": "C",
+        "explanation": "หลังคำแสดงความเป็นเจ้าของ 'her' ต้องตามด้วยคำนาม `determination` (ความมุ่งมั่น, ความตั้งใจแน่วแน่) เป็นคำนามที่มาจากกริยา `determine` ซึ่งถูกต้องตามหลักไวยากรณ์และความหมาย"
+      },
+      {
+        "question": "The growing ______ between the two countries has been a source of instability in the region.",
+        "options": [
+          "A. tense",
+          "B. tensity",
+          "C. tenses",
+          "D. tension"
+        ],
+        "answer": "D",
+        "explanation": "หลัง 'The growing...' เราต้องการคำนามเพื่อทำหน้าที่เป็นประธานของประโยค `tension` (ความตึงเครียด) เป็นคำนามที่มาจาก Adjective `tense` และเป็นคำที่ใช้ถูกต้องในบริบทความสัมพันธ์ระหว่างประเทศ"
+      }
+    ]
+  },
+  {
+    "id": "30_3",
+    "title": "30.3 Adjective & Verb Suffixes (-able, -ive, -ful, -ize)",
+    "explanation": "Suffixes คือส่วนที่เติมท้ายคำเพื่อเปลี่ยนประเภทหรือความหมายของคำ ในบทนี้เราจะเน้น Suffixes ที่ใช้สร้าง Adjective และ Verb ซึ่งเป็นพื้นฐานสำคัญในการสร้างประโยคที่ซับซ้อนและหลากหลายขึ้น\n\n1. **-able / -ible (Adjective Suffix)**\n   - **ความหมาย:** 'สามารถที่จะ...ได้' (capable of, able to be)\n   - **วิธีใช้:** มักจะเติมท้ายคำกริยา (Verb) เพื่อเปลี่ยนให้เป็นคำคุณศัพท์ (Adjective) เพื่อบอกว่าสิ่งนั้น 'สามารถถูกกระทำได้'\n   - **ตัวอย่าง:** break (v.) + able -> breakable (adj.) = ที่สามารถแตกหักได้\n   - **ข้อสังเกต:** -able เป็นรูปที่พบบ่อยกว่า ส่วน -ible มักใช้กับคำที่มีรากศัพท์มาจากภาษาละติน เช่น `audible`, `visible`, `terrible` ไม่มีกฎตายตัว ต้องอาศัยการจดจำ\n\n2. **-ive (Adjective Suffix)**\n   - **ความหมาย:** 'มีคุณสมบัติหรือแนวโน้มที่จะ...' (having the quality of, tending to)\n   - **วิธีใช้:** มักเติมท้ายคำนาม (Noun) หรือคำกริยา (Verb) เพื่อสร้าง Adjective ที่อธิบายลักษณะหรือคุณสมบัติ\n   - **ตัวอย่าง:** create (v.) + ive -> creative (adj.) = ที่มีความคิดสร้างสรรค์\n\n3. **-ful (Adjective Suffix)**\n   - **ความหมาย:** 'เต็มไปด้วย...' (full of)\n   - **วิธีใช้:** เติมท้ายคำนาม (Noun) เพื่อสร้าง Adjective ที่แสดงว่ามีสิ่งนั้นอยู่เต็มเปี่ยม\n   - **ตัวอย่าง:** beauty (n.) + ful -> beautiful (adj.) = ที่เต็มไปด้วยความสวยงาม\n   - **ข้อควรระวัง:** อย่าสับสนกับ -less ที่แปลว่า 'ปราศจาก' เช่น `careful` (ระมัดระวัง) vs. `careless` (ประมาท)\n\n4. **-ize / -ise (Verb Suffix)**\n   - **ความหมาย:** 'ทำให้เป็น...' หรือ 'กลายเป็น...' (to make, to become)\n   - **วิธีใช้:** เติมท้ายคำนาม (Noun) หรือคำคุณศัพท์ (Adjective) เพื่อสร้างเป็นคำกริยา (Verb)\n   - **ตัวอย่าง:** modern (adj.) + ize -> modernize (v.) = ทำให้ทันสมัย\n   - **ข้อสังเกต:** -ize เป็นการสะกดแบบ American English (AmE) ส่วน -ise เป็นแบบ British English (BrE) ทั้งสองแบบถูกต้อง แค่เลือกใช้ให้สอดคล้องกัน",
+    "examples": [
+      {
+        "eng": "The new policy is not applicable to temporary employees.",
+        "thai": "นโยบายใหม่นี้ไม่สามารถนำไปใช้ได้กับพนักงานชั่วคราว (apply + able -> applicable: ที่สามารถนำไปปรับใช้ได้)"
+      },
+      {
+        "eng": "His explanation was so persuasive that the committee approved his proposal immediately.",
+        "thai": "คำอธิบายของเขามีความน่าโน้มน้าวใจมาก จนคณะกรรมการอนุมัติข้อเสนอของเขาทันที (persuade + ive -> persuasive: ที่มีลักษณะโน้มน้าวใจ)"
+      },
+      {
+        "eng": "It's doubtful that the project will be completed on time due to unforeseen circumstances.",
+        "thai": "เป็นที่น่าสงสัยว่าโครงการจะเสร็จทันเวลาเนื่องจากสถานการณ์ที่ไม่คาดฝัน (doubt + ful -> doubtful: ที่เต็มไปด้วยความสงสัย, น่าสงสัย)"
+      },
+      {
+        "eng": "The company decided to decentralize its operations to give more autonomy to regional branches.",
+        "thai": "บริษัทตัดสินใจที่จะกระจายอำนาจการดำเนินงานเพื่อให้สาขาท้องถิ่นมีอิสระในการตัดสินใจมากขึ้น (central + ize -> decentralize: ทำให้ไม่รวมศูนย์กลาง, กระจายอำนาจ)"
+      },
+      {
+        "eng": "This fabric is machine-washable, which makes it very convenient for busy people.",
+        "thai": "ผ้าชนิดนี้สามารถซักด้วยเครื่องได้ ซึ่งทำให้สะดวกมากสำหรับคนที่ไม่ค่อยมีเวลา (wash + able -> washable: ที่สามารถซักได้)"
+      }
+    ],
+    "common_mistakes": "- **สับสนระหว่าง -able และ -ful:** คนไทยมักสับสนความหมาย เช่น `respectable` หมายถึง 'น่าเคารพ' (สามารถถูกเคารพได้) ในขณะที่ `respectful` หมายถึง 'แสดงความเคารพ' (เต็มไปด้วยความเคารพ) ความหมายต่างกันสิ้นเชิง เช่น A respectful student (นักเรียนที่แสดงความเคารพ) vs. A respectable family (ครอบครัวที่น่าเคารพนับถือ)\n- **ใช้ Adjective กับ Verb สลับกัน:** เมื่อเห็นคำที่ลงท้ายด้วย Suffix เหล่านี้แล้ว อาจจะลืมไปว่ามันทำหน้าที่อะไรในประโยค เช่น พูดว่า \"We need to creative a new logo.\" ที่ถูกต้องคือ \"We need to create a new logo.\" หรือ \"We need to be creative.\"\n- **เติม -ize กับคำที่ไม่ต้องเติม:** บางคำเป็น Verb อยู่แล้วโดยไม่ต้องเติม -ize เช่น `improve`, `change`, `develop` แต่ผู้เรียนอาจจะเผลอไปเติมเป็น `improvize` หรือ `changize` ซึ่งไม่มีในภาษาอังกฤษ (ยกเว้น `improvise` ที่แปลว่าด้นสด ซึ่งเป็นคนละคำ)\n- **สะกดผิดระหว่าง -able กับ -ible:** เนื่องจากไม่มีกฎตายตัว ทำให้สะกดผิดได้ง่าย เช่น `responsible` (ถูก) แต่เขียนเป็น `responsable` (ผิด) หรือ `available` (ถูก) แต่เขียนเป็น `availible` (ผิด) ต้องอาศัยการจำและใช้บ่อยๆ",
+    "practice_questions": [
+      {
+        "question": "The company is looking for a ______ person who can handle multiple tasks efficiently.",
+        "options": [
+          "A. dependable",
+          "B. depending",
+          "C. dependful",
+          "D. dependize"
+        ],
+        "answer": "A",
+        "explanation": "ตำแหน่งนี้ต้องการคำคุณศัพท์ (Adjective) เพื่อขยายคำนาม `person` โดย `dependable` (depend + able) หมายถึง 'พึ่งพาได้, ไว้ใจได้' ซึ่งเหมาะสมกับบริบทที่สุด"
+      },
+      {
+        "question": "Management decided to ______ the workflow to increase overall productivity.",
+        "options": [
+          "A. systemful",
+          "B. systematize",
+          "C. systemable",
+          "D. systemive"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้ต้องการคำกริยา (Verb) ตามหลัง `to` (to + Verb infinitive) โดย `systematize` (system + atize) หมายถึง 'จัดให้เป็นระบบ' ซึ่งเป็นความหมายที่ถูกต้อง"
+      },
+      {
+        "question": "Her comments were very ______ and provided a new perspective on the issue.",
+        "options": [
+          "A. thoughtful",
+          "B. thinkable",
+          "C. thoughtive",
+          "D. thoughtize"
+        ],
+        "answer": "A",
+        "explanation": "เราต้องการ Adjective เพื่อขยายคำนาม `comments` โดย `thoughtful` (thought + ful) หมายถึง 'ที่ผ่านการไตร่ตรองมาอย่างดี, ที่เต็มไปด้วยความคิด' ซึ่งเหมาะสมกับบริบทที่บอกว่าให้มุมมองใหม่ๆ"
+      },
+      {
+        "question": "The new manager is very ______ and is always open to new ideas from the team.",
+        "options": [
+          "A. approachful",
+          "B. approachive",
+          "C. approachable",
+          "D. approachize"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้ต้องการ Adjective เพื่ออธิบาย `manager` โดย `approachable` (approach + able) หมายถึง 'เข้าถึงง่าย, เป็นมิตร' ซึ่งเข้ากับส่วนขยายที่ว่า 'always open to new ideas'"
+      },
+      {
+        "question": "This documentary offers a ______ look into the lives of deep-sea explorers.",
+        "options": [
+          "A. fascinative",
+          "B. fascinating",
+          "C. fascinatable",
+          "D. fascinate"
+        ],
+        "answer": "B",
+        "explanation": "ข้อนี้เป็นข้อหลอก แม้ `-ive` จะเป็น Suffix ที่สร้าง Adjective ได้ แต่ในกรณีของ `fascinate` รูป Adjective ที่ถูกต้องคือ `fascinating` (น่าหลงใหล) และ `fascinated` (รู้สึกหลงใหล) คำว่า `fascinative` ไม่มีใช้กันทั่วไป"
+      },
+      {
+        "question": "To avoid bankruptcy, the company had to ______ and cut down on non-essential spending.",
+        "options": [
+          "A. economy",
+          "B. economize",
+          "C. economical",
+          "D. economic"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้ต้องการ Verb ตามหลัง `to` โดย `economize` (economy + ize) หมายถึง 'ประหยัด, ใช้อย่างคุ้มค่า' ซึ่งตรงกับบริบทของการลดรายจ่ายที่ไม่จำเป็น"
+      },
+      {
+        "question": "He gave a very ______ account of his travels, but some details seemed exaggerated.",
+        "options": [
+          "A. convincing",
+          "B. convinceable",
+          "C. convulsive",
+          "D. convincible"
+        ],
+        "answer": "A",
+        "explanation": "เราต้องการ Adjective ขยาย `account` (เรื่องราว) `convincing` (น่าเชื่อถือ) เป็นรูปที่ถูกต้อง `convincible/convinceable` หมายถึง 'สามารถถูกโน้มน้าวได้' ใช้กับคน ไม่ใช่เรื่องราว ส่วน `convulsive` หมายถึง 'ที่สั่นกระตุก' คนละความหมายเลย"
+      },
+      {
+        "question": "After the scandal, the politician's position became un______.",
+        "options": [
+          "A. defansive",
+          "B. defensible",
+          "C. defensive",
+          "D. defendful"
+        ],
+        "answer": "B",
+        "explanation": "`defensible` (defend + ible) หมายถึง 'สามารถปกป้องหรือแก้ต่างได้' เมื่อเติม Prefix 'un-' เป็น `undefensible` จะแปลว่า 'ไม่สามารถปกป้องได้' ซึ่งเข้ากับบริบทหลังเกิดเรื่องอื้อฉาว ส่วน `defensive` หมายถึง 'ตั้งรับ, ที่เป็นการป้องกันตัว'"
+      },
+      {
+        "question": "The team's success was ______ of their hard work and dedication.",
+        "options": [
+          "A. productive",
+          "B. indicative",
+          "C. predictive",
+          "D. subjective"
+        ],
+        "answer": "B",
+        "explanation": "เราต้องการ Adjective ที่หมายถึง 'เป็นเครื่องบ่งชี้' `indicative of` (indicate + ive) เป็นสำนวนที่แปลว่า 'เป็นสิ่งที่บ่งชี้ถึง' ซึ่งถูกต้องตามบริบทว่าความสำเร็จเป็นเครื่องบ่งชี้ถึงการทำงานหนัก"
+      },
+      {
+        "question": "It's not always ______ to implement the latest technology without considering the cost.",
+        "options": [
+          "A. adviceful",
+          "B. advise",
+          "C. advisable",
+          "D. advisory"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้ต้องการ Adjective ตามหลัง 'is not' `advisable` (advise + able) หมายถึง 'เป็นสิ่งที่สมควรทำ, เป็นคำแนะนำที่ดี' ซึ่งเข้ากับบริบทที่ว่าการนำเทคโนโลยีใหม่มาใช้โดยไม่คำนึงถึงต้นทุนนั้น 'ไม่ใช่สิ่งที่สมควรทำเสมอไป'"
+      }
+    ]
+  },
+  {
+    "id": "30_4",
+    "title": "30.4 Summary: Word Formation (สรุปการสร้างคำ + 50 Exercises)",
+    "explanation": "Word Formation คือกระบวนการสร้างคำศัพท์ใหม่จากคำศัพท์ที่มีอยู่เดิม โดยส่วนใหญ่ในระดับ B1-B2 จะเน้นไปที่การใช้ Prefixes (คำอุปสรรค) และ Suffixes (คำปัจจัย) ซึ่งเป็นส่วนสำคัญที่ช่วยให้เราขยายคลังคำศัพท์และเข้าใจโครงสร้างประโยคได้ดีขึ้น\n\n1. **Prefixes (คำอุปสรรค)**: คือส่วนที่เติมหน้าคำศัพท์ (base word) เพื่อ 'เปลี่ยนความหมาย' ของคำนั้นๆ แต่โดยส่วนใหญ่ 'จะไม่เปลี่ยนประเภทของคำ' (part of speech)\n   - **Negative Prefixes**: สร้างความหมายตรงกันข้าม เช่น un- (unhappy), im- (impossible), in- (incorrect), ir- (irresponsible), il- (illegal), dis- (disagree), mis- (misunderstand)\n   - **Other Prefixes**: บอกความหมายอื่นๆ เช่น re- (ทำอีกครั้ง: rewrite), pre- (ก่อน: pre-war), post- (หลัง: post-war), over- (มากเกินไป: overeat), under- (น้อยเกินไป: underestimate)\n\n2. **Suffixes (คำปัจจัย)**: คือส่วนที่เติมท้ายคำศัพท์ เพื่อ 'เปลี่ยนประเภทของคำ' (part of speech) เป็นหลัก และบางครั้งก็เปลี่ยนความหมายด้วย\n   - **Noun Suffixes** (สร้างคำนาม): -ment (development), -tion/-sion (information, decision), -ness (happiness), -ity (ability), -ance/-ence (importance, difference), -er/-or/-ist (teacher, actor, artist)\n   - **Adjective Suffixes** (สร้างคำคุณศัพท์): -able/-ible (readable, responsible), -ful (beautiful), -less (homeless), -ous (famous), -al (national), -ive (creative)\n   - **Verb Suffixes** (สร้างคำกริยา): -ize (modernize), -ify (clarify), -en (shorten)\n   - **Adverb Suffixes** (สร้างคำกริยาวิเศษณ์): -ly (quickly, carefully)\n\nการเข้าใจหลักการเหล่านี้จะช่วยให้คุณสามารถเดาความหมายของศัพท์ที่ไม่เคยเห็นมาก่อน และเลือกใช้คำในประโยคได้อย่างถูกต้องตามหลักไวยากรณ์",
+    "examples": [
+      {
+        "eng": "The company's failure was due to poor management and financial irresponsibility.",
+        "thai": "ความล้มเหลวของบริษัทเกิดจากการจัดการที่ย่ำแย่และความไม่รับผิดชอบทางการเงิน (responsible (adj.) + ir- (prefix) + -ity (suffix) -> irresponsibility (n.))"
+      },
+      {
+        "eng": "To modernize the city, the government decided to invest in public transportation.",
+        "thai": "เพื่อทำให้เมืองทันสมัย รัฐบาลตัดสินใจลงทุนในการขนส่งสาธารณะ (modern (adj.) + -ize (suffix) -> modernize (v.))"
+      },
+      {
+        "eng": "Despite its complexity, the problem is solvable if we work together.",
+        "thai": "แม้ว่าปัญหานี้จะซับซ้อน แต่มันก็สามารถแก้ไขได้ถ้าเราร่วมมือกัน (solve (v.) + -able (suffix) -> solvable (adj.))"
+      },
+      {
+        "eng": "His disappearance remains a mystery to this day.",
+        "thai": "การหายตัวไปของเขายังคงเป็นปริศนามาจนถึงทุกวันนี้ (disappear (v.) + -ance (suffix) -> disappearance (n.))"
+      }
+    ],
+    "common_mistakes": "1. **สับสน Suffixes**: ใช้ Suffix ของคำนามกับคำคุณศัพท์ปนกัน เช่น พูดว่า 'The product has a high qualitive' แทนที่จะเป็น '...a high quality' (n.) หรือ '...is high-quality' (adj.) หรือใช้ '-tion' กับ '-ment' ผิดคำ เช่น 'develoption' แทนที่ 'development'\n\n2. **ลืมเปลี่ยนการสะกดคำ (Spelling Changes)**: เมื่อเติม Suffix บางตัว ต้องมีการเปลี่ยนการสะกดคำของคำเดิม เช่น 'happy' + '-ness' -> 'happiness' (เปลี่ยน y เป็น i) หรือ 'create' + '-ion' -> 'creation' (ตัด e ทิ้ง) คนไทยมักจะลืมกฎข้อนี้\n\n3. **ใช้ Negative Prefix ผิดตัว**: แต่ละคำมักจะมี Negative Prefix ที่ใช้คู่กันตายตัว เช่น 'impossible' (ไม่ใช่ unpossible), 'incorrect' (ไม่ใช่ discorrect), 'illegal' (ไม่ใช่ inlegal) การจำคู่คำจึงสำคัญมาก\n\n4. **ไม่ดูหน้าที่ของคำในประโยค**: เลือกคำที่สร้างขึ้นมาถูก แต่ผิดหน้าที่ทางไวยากรณ์ เช่น ในช่องว่างต้องการคำนาม (Noun) แต่กลับเลือกคำคุณศัพท์ (Adjective) มาใส่ เช่น 'We need to find a solve for this problem.' ที่ถูกต้องคือ '...a solution for this problem.'",
+    "practice_questions": [
+      {
+        "question": "The ______ of the new project was announced yesterday. (CREATE)",
+        "options": [
+          "A. creative",
+          "B. creation",
+          "C. create",
+          "D. creatively"
+        ],
+        "answer": "B",
+        "explanation": "ตำแหน่งนี้อยู่หลัง 'The' และทำหน้าที่เป็นประธานของประโยค จึงต้องเป็นคำนาม (Noun) คำว่า 'creation' (การสร้างสรรค์) เป็นคำนามที่ถูกต้อง"
+      },
+      {
+        "question": "It's ______ to drive without a license; you could get a huge fine. (LEGAL)",
+        "options": [
+          "A. unlegal",
+          "B. inlegal",
+          "C. dislegal",
+          "D. illegal"
+        ],
+        "answer": "D",
+        "explanation": "คำว่า 'legal' (ถูกกฎหมาย) เมื่อต้องการทำให้เป็นความหมายตรงกันข้าม (ไม่ถูกกฎหมาย) จะใช้ Prefix 'il-' เป็น 'illegal'"
+      },
+      {
+        "question": "Her ______ and dedication to her work are truly admirable. (COMMIT)",
+        "options": [
+          "A. commitment",
+          "B. committable",
+          "C. commiting",
+          "D. commitive"
+        ],
+        "answer": "A",
+        "explanation": "ในประโยคนี้ต้องการคำนาม (Noun) ที่แปลว่า 'ความมุ่งมั่น' ซึ่งมาคู่กับ 'dedication' (การอุทิศตน) คำนามของ 'commit' คือ 'commitment'"
+      },
+      {
+        "question": "The information you provided was extremely ______. (HELP)",
+        "options": [
+          "A. helpless",
+          "B. helper",
+          "C. helpful",
+          "D. helpfully"
+        ],
+        "answer": "C",
+        "explanation": "ตำแหน่งนี้ตามหลัง Adverb 'extremely' และขยายคำนาม 'information' จึงต้องเป็นคำคุณศัพท์ (Adjective) คำว่า 'helpful' (ที่เป็นประโยชน์) เหมาะสมที่สุด"
+      },
+      {
+        "question": "He was disqualified for ______ behavior during the match. (SPORTSMAN)",
+        "options": [
+          "A. unsportsmanlike",
+          "B. dissportsmanlike",
+          "C. imsportsmanlike",
+          "D. nonsportsmanlike"
+        ],
+        "answer": "A",
+        "explanation": "คำว่า 'sportsmanlike' (มีน้ำใจนักกีฬา) เมื่อต้องการความหมายตรงกันข้าม จะใช้ Prefix 'un-' เป็น 'unsportsmanlike' (ไม่มีน้ำใจนักกีฬา)"
+      },
+      {
+        "question": "The government is trying to encourage foreign ______. (INVEST)",
+        "options": [
+          "A. investor",
+          "B. investment",
+          "C. investable",
+          "D. investing"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้ต้องการคำนามที่แปลว่า 'การลงทุน' เพื่อเป็นกรรมของ 'encourage' คำว่า 'investment' เป็นคำนามที่ถูกต้อง ส่วน 'investor' คือ 'นักลงทุน'"
+      },
+      {
+        "question": "His argument was completely ______ and lacked any evidence. (LOGICAL)",
+        "options": [
+          "A. unlogical",
+          "B. dislogical",
+          "C. illogical",
+          "D. nonlogical"
+        ],
+        "answer": "C",
+        "explanation": "คำว่า 'logical' (สมเหตุสมผล) เมื่อต้องการทำให้เป็นความหมายตรงกันข้ามจะใช้ Prefix 'il-' กลายเป็น 'illogical' (ไม่สมเหตุสมผล)"
+      },
+      {
+        "question": "We need to ______ the process to make it more efficient. (SIMPLE)",
+        "options": [
+          "A. simple",
+          "B. simply",
+          "C. simplicity",
+          "D. simplify"
+        ],
+        "answer": "D",
+        "explanation": "หลัง 'need to' ต้องตามด้วยคำกริยา (Verb) ช่องที่ 1 คำกริยาของ 'simple' คือ 'simplify' (ทำให้ง่ายขึ้น)"
+      },
+      {
+        "question": "The ______ of technology has changed the way we live. (DEVELOP)",
+        "options": [
+          "A. developing",
+          "B. developable",
+          "C. developer",
+          "D. development"
+        ],
+        "answer": "D",
+        "explanation": "ตำแหน่งประธานของประโยคนี้ต้องการคำนาม 'การพัฒนา' ซึ่งคือคำว่า 'development'"
+      },
+      {
+        "question": "I find his attitude completely ______. (ACCEPT)",
+        "options": [
+          "A. unacceptance",
+          "B. unacceptable",
+          "C. acceptably",
+          "D. accepted"
+        ],
+        "answer": "B",
+        "explanation": "หลัง Adverb 'completely' และอยู่ในตำแหน่งที่ขยายคำนาม 'attitude' ต้องเป็นคำคุณศัพท์ (Adjective) คือ 'unacceptable' (ซึ่งยอมรับไม่ได้)"
+      },
+      {
+        "question": "She has the ______ to succeed in any field she chooses. (ABLE)",
+        "options": [
+          "A. ability",
+          "B. ableness",
+          "C. disable",
+          "D. ably"
+        ],
+        "answer": "A",
+        "explanation": "หลัง 'has the' ต้องตามด้วยคำนาม (Noun) คำนามของ 'able' คือ 'ability' (ความสามารถ)"
+      },
+      {
+        "question": "The politician's speech was very ______ and won over the crowd. (PERSUADE)",
+        "options": [
+          "A. persuadable",
+          "B. persuasion",
+          "C. persuasive",
+          "D. persuasively"
+        ],
+        "answer": "C",
+        "explanation": "ตำแหน่งนี้ขยายคำนาม 'speech' จึงต้องเป็นคำคุณศัพท์ (Adjective) คำว่า 'persuasive' (ที่โน้มน้าวใจ) ถูกต้องที่สุด"
+      },
+      {
+        "question": "It is ______ for employees to be late without a valid reason. (APPROPRIATE)",
+        "options": [
+          "A. unappropriate",
+          "B. inappropriate",
+          "C. disappropriate",
+          "D. misappropriate"
+        ],
+        "answer": "B",
+        "explanation": "คำว่า 'appropriate' (เหมาะสม) เมื่อต้องการความหมายตรงข้ามจะใช้ Prefix 'in-' เป็น 'inappropriate' (ไม่เหมาะสม)"
+      },
+      {
+        "question": "The novel is known for its ______ description of historical events. (ACCURACY)",
+        "options": [
+          "A. accurate",
+          "B. accurately",
+          "C. inaccurate",
+          "D. accuracy"
+        ],
+        "answer": "A",
+        "explanation": "ตำแหน่งนี้อยู่หน้าคำนาม 'description' เพื่อขยายความ จึงต้องเป็นคำคุณศัพท์ (Adjective) คือ 'accurate' (แม่นยำ)"
+      },
+      {
+        "question": "You need to ______ your password every three months for security reasons. (NEW)",
+        "options": [
+          "A. renew",
+          "B. newness",
+          "C. newly",
+          "D. renewal"
+        ],
+        "answer": "A",
+        "explanation": "หลัง 'need to' ต้องตามด้วยคำกริยา (Verb) คำว่า 'renew' (ทำใหม่, ต่ออายุ) เป็นคำกริยาที่ถูกต้อง ซึ่งมาจาก Prefix 're-' (อีกครั้ง) + 'new'"
+      },
+      {
+        "question": "The company suffered a ______ loss last quarter. (SUBSTANCE)",
+        "options": [
+          "A. substantive",
+          "B. substantially",
+          "C. substantial",
+          "D. substance"
+        ],
+        "answer": "C",
+        "explanation": "ตำแหน่งนี้อยู่หน้าคำนาม 'loss' เพื่อขยายความ ต้องเป็นคำคุณศัพท์ (Adjective) คำว่า 'substantial' (สำคัญ, อย่างมาก) เหมาะสมที่สุด"
+      },
+      {
+        "question": "Many people are showing ______ in the new environmental policy. (INTEREST)",
+        "options": [
+          "A. interesting",
+          "B. interested",
+          "C. interest",
+          "D. interestingly"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้ต้องการคำนาม (Noun) ที่แปลว่า 'ความสนใจ' ซึ่งคือคำว่า 'interest' ในที่นี้ 'showing interest' หมายถึง 'แสดงความสนใจ'"
+      },
+      {
+        "question": "The city has undergone a remarkable ______ in the last decade. (TRANSFORM)",
+        "options": [
+          "A. transformative",
+          "B. transformable",
+          "C. transformed",
+          "D. transformation"
+        ],
+        "answer": "D",
+        "explanation": "หลัง article 'a' และ adjective 'remarkable' ต้องเป็นคำนาม (Noun) คำนามของ 'transform' คือ 'transformation' (การเปลี่ยนแปลง)"
+      },
+      {
+        "question": "He has always been a ______ and dedicated employee. (RELY)",
+        "options": [
+          "A. reliable",
+          "B. reliance",
+          "C. reliably",
+          "D. relied"
+        ],
+        "answer": "A",
+        "explanation": "คำที่มาคู่กับ 'dedicated' (adj.) เพื่อขยาย 'employee' (n.) ต้องเป็นคำคุณศัพท์ (Adjective) เช่นกัน คำว่า 'reliable' (ที่เชื่อถือได้) คือคำตอบที่ถูกต้อง"
+      },
+      {
+        "question": "The instructions were so ______ that I finished the task in minutes. (CLEAR)",
+        "options": [
+          "A. unclear",
+          "B. clarity",
+          "C. clearly",
+          "D. clear"
+        ],
+        "answer": "D",
+        "explanation": "หลัง 'were so...' และก่อน 'that...' ต้องการคำคุณศัพท์ (Adjective) เพื่อบอกลักษณะของ 'instructions' คำว่า 'clear' (ชัดเจน) ถูกต้องที่สุด"
+      },
+      {
+        "question": "The ______ of a good leader is the ability to inspire others. (CHARACTER)",
+        "options": [
+          "A. characterful",
+          "B. characterize",
+          "C. characteristic",
+          "D. characteristically"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้ต้องการคำนามที่แปลว่า 'คุณลักษณะ' หรือ 'ลักษณะพิเศษ' คำว่า 'characteristic' สามารถเป็นได้ทั้ง adj. และ n. ในบริบทนี้ทำหน้าที่เป็นคำนาม"
+      },
+      {
+        "question": "I ______ with your opinion on this matter; we need a different approach. (AGREE)",
+        "options": [
+          "A. misagree",
+          "B. unagree",
+          "C. disagree",
+          "D. nonagree"
+        ],
+        "answer": "C",
+        "explanation": "คำว่า 'agree' (เห็นด้วย) เมื่อต้องการความหมายตรงข้าม (ไม่เห็นด้วย) จะใช้ Prefix 'dis-' เป็น 'disagree'"
+      },
+      {
+        "question": "The long, ______ journey left all the passengers exhausted. (TIRE)",
+        "options": [
+          "A. tireless",
+          "B. tiresome",
+          "C. tiredly",
+          "D. tiredness"
+        ],
+        "answer": "B",
+        "explanation": "ตำแหน่งนี้ต้องการคำคุณศัพท์ (Adjective) เพื่อขยายคำนาม 'journey' คำว่า 'tiresome' หมายถึง 'น่าเหนื่อย, น่าเบื่อ' ซึ่งเหมาะกับบริบทนี้ ส่วน 'tireless' หมายถึง 'ไม่รู้จักเหน็ดเหนื่อย'"
+      },
+      {
+        "question": "The project was a ______ success, exceeding all expectations. (PHENOMENON)",
+        "options": [
+          "A. phenomena",
+          "B. phenomenal",
+          "C. phenomenally",
+          "D. phenomenon"
+        ],
+        "answer": "B",
+        "explanation": "ตำแหน่งนี้อยู่หน้าคำนาม 'success' เพื่อขยายความ ต้องเป็นคำคุณศัพท์ (Adjective) คือ 'phenomenal' (มหัศจรรย์, ยอดเยี่ยม)"
+      },
+      {
+        "question": "There is a high ______ that it will rain this afternoon. (PROBABLE)",
+        "options": [
+          "A. probably",
+          "B. probability",
+          "C. improbable",
+          "D. probableness"
+        ],
+        "answer": "B",
+        "explanation": "หลัง 'a high...' ต้องเป็นคำนาม (Noun) คำนามของ 'probable' คือ 'probability' (ความเป็นไปได้)"
+      },
+      {
+        "question": "Many people feel a sense of ______ with their local community. (CONNECT)",
+        "options": [
+          "A. connection",
+          "B. connectivity",
+          "C. connectable",
+          "D. connectedly"
+        ],
+        "answer": "A",
+        "explanation": "หลัง 'a sense of' ต้องตามด้วยคำนาม (Noun) คำว่า 'connection' (ความเชื่อมโยง, ความผูกพัน) เป็นคำตอบที่ถูกต้อง"
+      },
+      {
+        "question": "He has a ______ to exaggerate problems. (TEND)",
+        "options": [
+          "A. tender",
+          "B. tending",
+          "C. tendful",
+          "D. tendency"
+        ],
+        "answer": "D",
+        "explanation": "หลัง 'has a' ต้องเป็นคำนาม (Noun) คำนามของ 'tend' คือ 'tendency' (แนวโน้ม)"
+      },
+      {
+        "question": "The food at that restaurant is ______, but the service is excellent. (EXPENSE)",
+        "options": [
+          "A. expensive",
+          "B. expensively",
+          "C. expense",
+          "D. expensiveness"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้ต้องการคำคุณศัพท์ (Adjective) เพื่อบอกลักษณะของ 'food' คำว่า 'expensive' (แพง) คือคำตอบที่ถูกต้อง"
+      },
+      {
+        "question": "It's ______ to assume you know everything about a situation. (WISE)",
+        "options": [
+          "A. unwise",
+          "B. diswise",
+          "C. imwise",
+          "D. wiseless"
+        ],
+        "answer": "A",
+        "explanation": "ในบริบทนี้ต้องการความหมายว่า 'ไม่ฉลาด' ที่จะทำเช่นนั้น คำว่า 'wise' (ฉลาด) เมื่อเติม Negative Prefix จะใช้ 'un-' เป็น 'unwise'"
+      },
+      {
+        "question": "The ______ of the Amazon rainforest is a global concern. (DESTROY)",
+        "options": [
+          "A. destructive",
+          "B. destroyer",
+          "C. destructively",
+          "D. destruction"
+        ],
+        "answer": "D",
+        "explanation": "ตำแหน่งประธานของประโยคนี้ (The ... of) ต้องการคำนาม 'การทำลาย' ซึ่งคือ 'destruction'"
+      },
+      {
+        "question": "The witness gave a very ______ account of the incident. (DESCRIBE)",
+        "options": [
+          "A. descriptive",
+          "B. description",
+          "C. describable",
+          "D. describing"
+        ],
+        "answer": "A",
+        "explanation": "ตำแหน่งนี้อยู่หน้าคำนาม 'account' เพื่อขยายความ ต้องเป็นคำคุณศัพท์ (Adjective) คือ 'descriptive' (ซึ่งให้รายละเอียด)"
+      },
+      {
+        "question": "His ______ to adapt to new situations is one of his greatest strengths. (FLEXIBLE)",
+        "options": [
+          "A. flexibly",
+          "B. flexibleness",
+          "C. flexibility",
+          "D. flexible"
+        ],
+        "answer": "C",
+        "explanation": "ตำแหน่งนี้ทำหน้าที่เป็นประธานของประโยค (His ... is) ต้องการคำนาม 'ความยืดหยุ่น' ซึ่งคือ 'flexibility'"
+      },
+      {
+        "question": "The company needs to ______ its marketing strategy to attract younger customers. (MODERN)",
+        "options": [
+          "A. modernity",
+          "B. modernize",
+          "C. modernly",
+          "D. modernism"
+        ],
+        "answer": "B",
+        "explanation": "หลัง 'needs to' ต้องตามด้วยคำกริยา (Verb) คำกริยาของ 'modern' คือ 'modernize' (ทำให้ทันสมัย)"
+      },
+      {
+        "question": "She is known for her ______ and kindness to everyone. (GENEROUS)",
+        "options": [
+          "A. generousness",
+          "B. generously",
+          "C. generosity",
+          "D. general"
+        ],
+        "answer": "C",
+        "explanation": "คำที่มาคู่กับ 'kindness' (n.) ต้องเป็นคำนามเช่นกัน คำนามของ 'generous' คือ 'generosity' (ความมีน้ำใจ, ความเอื้อเฟื้อเผื่อแผ่)"
+      },
+      {
+        "question": "This manual is full of ______ information for new users. (VALUE)",
+        "options": [
+          "A. valueless",
+          "B. valuable",
+          "C. value",
+          "D. valuation"
+        ],
+        "answer": "B",
+        "explanation": "ตำแหน่งนี้ขยายคำนาม 'information' ต้องเป็นคำคุณศัพท์ (Adjective) ในบริบทที่แปลว่า 'มีคุณค่า' จึงใช้ 'valuable' (ส่วน 'valueless' แปลว่า 'ไร้ค่า')"
+      },
+      {
+        "question": "We were surprised by the ______ of his decision to quit his job. (SUDDEN)",
+        "options": [
+          "A. sudden",
+          "B. suddenly",
+          "C. suddenness",
+          "D. desudden"
+        ],
+        "answer": "C",
+        "explanation": "หลัง 'the' และก่อน 'of' ต้องเป็นคำนาม (Noun) คำนามของ 'sudden' คือ 'suddenness' (ความกะทันหัน)"
+      },
+      {
+        "question": "It's important to be ______ of other people's feelings. (CONSIDER)",
+        "options": [
+          "A. considerable",
+          "B. consideration",
+          "C. considerate",
+          "D. considerably"
+        ],
+        "answer": "C",
+        "explanation": "หลัง 'to be' ต้องการคำคุณศัพท์ (Adjective) ที่แปลว่า 'เห็นอกเห็นใจ' ซึ่งคือ 'considerate' (ส่วน 'considerable' แปลว่า 'สำคัญ, มากมาย')"
+      },
+      {
+        "question": "The ______ of the two companies will create the largest firm in the industry. (MERGE)",
+        "options": [
+          "A. merging",
+          "B. merged",
+          "C. merger",
+          "D. mergeable"
+        ],
+        "answer": "C",
+        "explanation": "ตำแหน่งประธานของประโยคนี้ (The ... of) ต้องการคำนามที่หมายถึง 'การควบรวมกิจการ' ซึ่งคือคำว่า 'merger'"
+      },
+      {
+        "question": "His performance was ______; he made several mistakes. (SATISFY)",
+        "options": [
+          "A. satisfactory",
+          "B. satisfaction",
+          "C. satisfied",
+          "D. unsatisfactory"
+        ],
+        "answer": "D",
+        "explanation": "บริบทของประโยค (he made several mistakes) บอกความหมายในแง่ลบ จึงต้องการคำคุณศัพท์ (Adjective) ที่มีความหมายว่า 'ไม่น่าพอใจ' ซึ่งคือ 'unsatisfactory'"
+      },
+      {
+        "question": "The ______ of the president is a matter of national security. (SAFE)",
+        "options": [
+          "A. safety",
+          "B. safely",
+          "C. save",
+          "D. safe"
+        ],
+        "answer": "A",
+        "explanation": "ตำแหน่งนี้ต้องการคำนาม (Noun) ที่แปลว่า 'ความปลอดภัย' ซึ่งคือคำว่า 'safety'"
+      },
+      {
+        "question": "It is ______ to complete the project by Friday. (REAL)",
+        "options": [
+          "A. unreal",
+          "B. realistic",
+          "C. really",
+          "D. reality"
+        ],
+        "answer": "B",
+        "explanation": "หลัง 'It is...' ต้องการคำคุณศัพท์ (Adjective) ที่ขยายความว่าการทำโปรเจกต์ให้เสร็จนั้นเป็นอย่างไร 'realistic' (ที่เป็นไปได้จริง) เหมาะสมที่สุด"
+      },
+      {
+        "question": "Many historical documents require careful ______ to prevent damage. (PRESERVE)",
+        "options": [
+          "A. preservative",
+          "B. preservable",
+          "C. preservation",
+          "D. preserved"
+        ],
+        "answer": "C",
+        "explanation": "หลัง Adjective 'careful' และทำหน้าที่เป็นกรรมของ 'require' ต้องเป็นคำนาม (Noun) คือ 'preservation' (การอนุรักษ์, การเก็บรักษา)"
+      },
+      {
+        "question": "His ______ behavior at the party embarrassed everyone. (MATURE)",
+        "options": [
+          "A. maturity",
+          "B. immature",
+          "C. maturely",
+          "D. maturation"
+        ],
+        "answer": "B",
+        "explanation": "บริบท (embarrassed everyone) บอกความหมายในแง่ลบ ต้องการคำคุณศัพท์ (Adjective) ขยาย 'behavior' คำว่า 'immature' (ที่ไม่มีวุฒิภาวะ) จึงถูกต้อง"
+      },
+      {
+        "question": "The ______ of the workforce is a key factor in the company's success. (DIVERSE)",
+        "options": [
+          "A. diversify",
+          "B. diversely",
+          "C. diverse",
+          "D. diversity"
+        ],
+        "answer": "D",
+        "explanation": "ตำแหน่งนี้ต้องการคำนาม (Noun) ที่แปลว่า 'ความหลากหลาย' ซึ่งคือคำว่า 'diversity'"
+      },
+      {
+        "question": "The hotel offers ______ views of the ocean. (SPECTACLE)",
+        "options": [
+          "A. spectacular",
+          "B. spectate",
+          "C. spectacle",
+          "D. spectacularly"
+        ],
+        "answer": "A",
+        "explanation": "ตำแหน่งนี้อยู่หน้าคำนาม 'views' เพื่อขยายความ ต้องเป็นคำคุณศัพท์ (Adjective) คือ 'spectacular' (ที่งดงาม, น่าตื่นตาตื่นใจ)"
+      },
+      {
+        "question": "The defendant was found guilty due to ______ evidence. (SUFFICIENT)",
+        "options": [
+          "A. insufficiency",
+          "B. insufficient",
+          "C. sufficiently",
+          "D. suffice"
+        ],
+        "answer": "B",
+        "explanation": "บริบท (found guilty) ชี้ว่าหลักฐานไม่เพียงพอ ต้องการคำคุณศัพท์ (Adjective) ขยาย 'evidence' ที่มีความหมายเป็นลบ คือ 'insufficient' (ไม่เพียงพอ)"
+      },
+      {
+        "question": "Good ______ skills are essential for this job. (COMMUNICATE)",
+        "options": [
+          "A. communicative",
+          "B. communication",
+          "C. communicator",
+          "D. communicably"
+        ],
+        "answer": "B",
+        "explanation": "ในที่นี้ 'communication' ทำหน้าที่เป็น Adjective ขยายคำนาม 'skills' (ทักษะด้านการสื่อสาร) หรือเรียกว่า Noun adjunct เป็นการใช้ที่ถูกต้องและพบบ่อยที่สุด"
+      },
+      {
+        "question": "He showed great ______ throughout the difficult negotiation. (PATIENT)",
+        "options": [
+          "A. patient",
+          "B. patiently",
+          "C. patience",
+          "D. inpatient"
+        ],
+        "answer": "C",
+        "explanation": "หลัง Adjective 'great' ต้องการคำนาม (Noun) ที่แปลว่า 'ความอดทน' ซึ่งคือ 'patience'"
+      },
+      {
+        "question": "The company decided to ______ its operations and open branches overseas. (WIDE)",
+        "options": [
+          "A. width",
+          "B. widely",
+          "C. wide",
+          "D. widen"
+        ],
+        "answer": "D",
+        "explanation": "หลัง 'decided to' ต้องตามด้วยคำกริยา (Verb) คำกริยาของ 'wide' คือ 'widen' (ขยายให้กว้างขึ้น)"
+      },
+      {
+        "question": "The ______ of the rainforest ecosystem is very delicate. (STABLE)",
+        "options": [
+          "A. stability",
+          "B. stabilize",
+          "C. stable",
+          "D. stably"
+        ],
+        "answer": "A",
+        "explanation": "ตำแหน่งนี้ต้องการคำนาม (Noun) ที่แปลว่า 'ความเสถียร' หรือ 'ความมั่นคง' ซึ่งคือคำว่า 'stability'"
+      }
+    ]
+  }
+]

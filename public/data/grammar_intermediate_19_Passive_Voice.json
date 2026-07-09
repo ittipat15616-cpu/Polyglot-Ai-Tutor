@@ -1,0 +1,1134 @@
+[
+  {
+    "id": "19_1",
+    "title": "19.1 Active vs. Passive Concept (คอนเซ็ปต์การเปลี่ยนประโยค)",
+    "explanation": "Active Voice และ Passive Voice คือโครงสร้างประโยค 2 รูปแบบที่ใช้สื่อความหมายเดียวกัน แต่มีจุดเน้นต่างกัน\n\n**Active Voice (ประโยคที่ประธานเป็นผู้กระทำ)**\n- โครงสร้าง: Subject (ผู้กระทำ) + Verb + Object (ผู้ถูกกระทำ)\n- การใช้งาน: เป็นโครงสร้างประโยคส่วนใหญ่ที่เราใช้กัน เน้นว่า 'ใคร' เป็นคนทำกริยานั้นๆ\n- ตัวอย่าง: `The team developed a new strategy.` (ทีมได้พัฒนากลยุทธ์ใหม่ขึ้นมา -> เน้นที่ 'ทีม')\n\n**Passive Voice (ประโยคที่ประธานเป็นผู้ถูกกระทำ)**\n- โครงสร้าง: Subject (ผู้ถูกกระทำ) + verb to be + V.3 (Past Participle) + (by + Agent)\n- การใช้งาน: ใช้เมื่อเราต้องการเน้น 'ผู้ถูกกระทำ' หรือ 'การกระทำ' นั้นๆ มากกว่าผู้กระทำ หรือเมื่อเราไม่รู้/ไม่ต้องการบอกว่าใครเป็นผู้กระทำ\n- ตัวอย่าง: `A new strategy was developed by the team.` (กลยุทธ์ใหม่ได้ถูกพัฒนาขึ้นโดยทีม -> เน้นที่ 'กลยุทธ์ใหม่')\n\n**ขั้นตอนการเปลี่ยน Active เป็น Passive:**\n1.  **ระบุ S, V, O:** ในประโยค Active: `The manager (S) will review (V) the reports (O).`\n2.  **ย้าย Object มาเป็น Subject:** นำ `the reports` มาขึ้นต้นประโยคใหม่\n3.  **เปลี่ยน Verb เป็น 'be + V.3':**\n    - ดู Tense ของประโยคเดิม: `will review` เป็น Future Simple.\n    - ผัน verb to be ให้เป็น Tense เดิม: Future Simple ของ be คือ `will be`.\n    - เปลี่ยน Verb หลักเป็น V.3: `review` -> `reviewed`.\n    - รวมกันได้: `will be reviewed`.\n4.  **ย้าย Subject เดิมไปข้างหลัง:** เติม `by` ข้างหน้า Subject เดิม (เรียกว่า Agent): `by the manager`.\n5.  **รวมประโยค:** `The reports will be reviewed by the manager.`\n\n**ตารางการเปลี่ยน Tense (ตัวอย่าง):**\n- **Present Simple:** `writes` -> `is/am/are written`\n- **Past Simple:** `wrote` -> `was/were written`\n- **Present Perfect:** `has written` -> `has been written`\n- **Future Simple:** `will write` -> `will be written`\n- **Modal Verbs:** `must write` -> `must be written`",
+    "examples": [
+      {
+        "eng": "Active (Past Perfect): The investigators had found crucial evidence before the case was closed.",
+        "thai": "Passive: Crucial evidence had been found by the investigators before the case was closed.\n(คำอธิบาย: ประโยค Active ใช้ Past Perfect Tense (had found) เมื่อเปลี่ยนเป็น Passive จึงต้องใช้โครงสร้าง had been + V.3 คือ had been found เพื่อคง Tense เดิมไว้)"
+      },
+      {
+        "eng": "Active (Modal Verb): The authorities should have issued a warning much earlier.",
+        "thai": "Passive: A warning should have been issued much earlier by the authorities.\n(คำอธิบาย: สำหรับ Modal Verb ในรูปอดีต (should have + V.3) เมื่อเปลี่ยนเป็น Passive จะมีโครงสร้างเป็น Modal + have been + V.3)"
+      },
+      {
+        "eng": "Active (Unknown/Unimportant Subject): Someone has stolen the confidential files.",
+        "thai": "Passive: The confidential files have been stolen.\n(คำอธิบาย: ในกรณีนี้ เราไม่รู้ว่าใครเป็นคนขโมย (Someone) ดังนั้นในประโยค Passive จึงไม่จำเป็นต้องใส่ 'by someone' เพราะการกระทำ (การถูกขโมย) สำคัญกว่าตัวผู้กระทำ)"
+      },
+      {
+        "eng": "Active (Reporting Verb): People believe that the new CEO will bring significant changes.",
+        "thai": "Passive: It is believed that the new CEO will bring significant changes. OR The new CEO is believed to bring significant changes.\n(คำอธิบาย: นี่คือโครงสร้าง Passive ที่ซับซ้อนขึ้น มักใช้กับการรายงานข่าวหรือความเชื่อทั่วไป สามารถขึ้นต้นด้วย It is + V.3 หรือนำประธานของประโยคย่อยมาขึ้นต้นก็ได้)"
+      }
+    ],
+    "common_mistakes": "**1. ลืมใส่ Verb to be:** เป็นข้อผิดพลาดที่เจอบ่อยที่สุด นักเรียนมักจะใช้ V.3 โดดๆ เช่น 'The letter sent yesterday.' ที่ถูกต้องคือ 'The letter **was** sent yesterday.' โครงสร้าง Passive ต้องมี 'be' เสมอ!\n\n**2. ผัน Verb to be ผิด Tense:** เมื่อเปลี่ยนจาก Active เป็น Passive ต้องคง Tense เดิมของประโยคไว้เสมอผ่านการผัน Verb to be\n- **ผิด:** Active: `He wrote the book.` (Past) -> Passive: `The book **is** written by him.` (Present)\n- **ถูก:** `The book **was** written by him.` (Past)\n\n**3. สับสนระหว่าง Verb ช่อง 2 (Past Simple) กับช่อง 3 (Past Participle):** สำหรับกริยาอปกติ (Irregular Verbs) หลายตัวมีรูป V.2 และ V.3 ไม่เหมือนกัน เช่น (take, took, taken) หรือ (speak, spoke, spoken)\n- **ผิด:** `The photo was **took** last year.`\n- **ถูก:** `The photo was **taken** last year.`\n\n**4. ใช้ Passive Voice โดยไม่จำเป็น:** บางครั้งประโยค Active ให้ความหมายที่ชัดเจนและเป็นธรรมชาติกว่า การใช้ Passive Voice มากเกินไปอาจทำให้การเขียนดูเป็นทางการหรือยุ่งเหยิงโดยไม่จำเป็น\n- **ไม่เป็นธรรมชาติ (Passive):** `My lunch was eaten by me.`\n- **เป็นธรรมชาติ (Active):** `I ate my lunch.`",
+    "practice_questions": [
+      {
+        "question": "Choose the correct passive form of this sentence: 'The company is launching a new marketing campaign next month.'",
+        "options": [
+          "A. A new marketing campaign is launched by the company next month.",
+          "B. A new marketing campaign is being launched by the company next month.",
+          "C. A new marketing campaign will be being launched next month.",
+          "D. A new marketing campaign has been launched by the company next month."
+        ],
+        "answer": "B",
+        "explanation": "ประโยคเดิมเป็น Present Continuous Tense ('is launching') เพื่อบอกถึงแผนในอนาคตอันใกล้ ดังนั้นประโยค Passive ที่ถูกต้องจึงต้องอยู่ในรูป Present Continuous Passive คือ is/am/are + being + V.3 ซึ่งตรงกับข้อ B 'is being launched'"
+      },
+      {
+        "question": "The historical documents, which were discovered by archaeologists, ___ carefully in the national museum now.",
+        "options": [
+          "A. are preserving",
+          "B. have preserved",
+          "C. are being preserved",
+          "D. were preserved"
+        ],
+        "answer": "C",
+        "explanation": "คำว่า 'now' ในประโยคบ่งบอกว่าเหตุการณ์กำลังเกิดขึ้นในปัจจุบัน และประธาน 'The historical documents' เป็นผู้ถูกกระทำ (ถูกเก็บรักษา) จึงต้องใช้ Present Continuous Passive (are being + V.3) เพื่อสื่อว่า 'กำลังถูกเก็บรักษาอยู่'"
+      },
+      {
+        "question": "By the time we arrived, all the preparations for the event ___ by the staff.",
+        "options": [
+          "A. had been completed",
+          "B. were completing",
+          "C. have been completed",
+          "D. would be completed"
+        ],
+        "answer": "A",
+        "explanation": "โครงสร้าง 'By the time + Past Simple' (By the time we arrived) มักจะใช้คู่กับ Past Perfect Tense เพื่อบอกว่ามีเหตุการณ์หนึ่งเกิดขึ้นและเสร็จสิ้นก่อนอีกเหตุการณ์ในอดีต ในที่นี้ 'preparations' เป็นผู้ถูกกระทำ จึงต้องใช้ Past Perfect Passive (had been + V.3)"
+      },
+      {
+        "question": "Which sentence has the same meaning? 'The judges must evaluate all submissions based on creativity.'",
+        "options": [
+          "A. All submissions must be evaluating based on creativity.",
+          "B. All submissions must have been evaluated based on creativity.",
+          "C. All submissions must be evaluated by the judges based on creativity.",
+          "D. All submissions were evaluated by the judges based on creativity."
+        ],
+        "answer": "C",
+        "explanation": "ประโยค Active ใช้ Modal Verb 'must' + V.1 (must evaluate) เมื่อเปลี่ยนเป็น Passive Voice จะมีโครงสร้างเป็น Modal Verb 'must' + be + V.3 (must be evaluated) ซึ่งตรงกับข้อ C"
+      },
+      {
+        "question": "The new safety regulations ___ last Monday, but they haven't been fully implemented yet.",
+        "options": [
+          "A. announced",
+          "B. were announced",
+          "C. are announced",
+          "D. have been announced"
+        ],
+        "answer": "B",
+        "explanation": "คำว่า 'last Monday' เป็นตัวบอกเวลาในอดีตที่ชัดเจน เราจึงต้องใช้ Past Simple Tense และเนื่องจากประธาน 'regulations' (กฎระเบียบ) ไม่สามารถประกาศตัวเองได้ ต้อง 'ถูกประกาศ' จึงต้องใช้ Past Simple Passive (was/were + V.3)"
+      },
+      {
+        "question": "It is widely ___ that regular exercise contributes to better mental health.",
+        "options": [
+          "A. acknowledged",
+          "B. acknowledging",
+          "C. acknowledge",
+          "D. to acknowledge"
+        ],
+        "answer": "A",
+        "explanation": "นี่คือโครงสร้าง Passive แบบพิเศษที่ใช้ในการรายงาน (It is + V.3) ซึ่งหมายถึง 'เป็นที่ยอมรับกันอย่างกว้างขวางว่า...' ในโครงสร้างนี้ ต้องตามด้วย Verb ช่อง 3 (Past Participle) เสมอ ดังนั้น 'acknowledged' จึงเป็นคำตอบที่ถูกต้อง"
+      },
+      {
+        "question": "The system failure ___ by a sudden power surge.",
+        "options": [
+          "A. was causing",
+          "B. caused",
+          "C. was caused",
+          "D. had been causing"
+        ],
+        "answer": "C",
+        "explanation": "ประธาน 'The system failure' (ระบบล่ม) เป็นผู้ถูกกระทำ (ถูกก่อให้เกิด) โดย 'a sudden power surge' (ไฟกระชาก) จึงต้องใช้โครงสร้าง Passive Voice ในรูป Past Simple คือ 'was caused'"
+      },
+      {
+        "question": "Choose the correct passive form: 'No one has ever beaten him at chess.'",
+        "options": [
+          "A. He has ever been beaten at chess.",
+          "B. He has never been beaten at chess.",
+          "C. He was never beaten at chess by anyone.",
+          "D. He had never been beaten at chess."
+        ],
+        "answer": "B",
+        "explanation": "ประโยค Active เป็น Present Perfect Tense ('has beaten') และมีความหมายปฏิเสธ ('No one'). เมื่อเปลี่ยนเป็น Passive Voice จะต้องคง Tense เดิม (Present Perfect Passive: has been beaten) และคงความหมายปฏิเสธไว้ โดยเปลี่ยน 'No one...ever' เป็น 'never' จึงได้ประโยคว่า 'He has never been beaten at chess.'"
+      },
+      {
+        "question": "This complex problem cannot ___ without expert consultation.",
+        "options": [
+          "A. solve",
+          "B. be solved",
+          "C. being solved",
+          "D. have solved"
+        ],
+        "answer": "B",
+        "explanation": "หลัง Modal Verb (เช่น can, cannot, must, should) เมื่อใช้ในรูป Passive Voice จะต้องตามด้วย 'be + V.3' เสมอ ในที่นี้คือ 'cannot be solved' ซึ่งหมายถึง 'ไม่สามารถถูกแก้ไขได้'"
+      },
+      {
+        "question": "While the new bridge ___, traffic had to be rerouted through the city center.",
+        "options": [
+          "A. built",
+          "B. was building",
+          "C. has been built",
+          "D. was being built"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคนี้กล่าวถึงสองเหตุการณ์ที่เกิดขึ้นในอดีต โดยมีเหตุการณ์หนึ่ง (การสร้างสะพาน) กำลังดำเนินอยู่ และอีกเหตุการณ์หนึ่ง (การเปลี่ยนเส้นทางจราจร) เกิดขึ้นระหว่างนั้น ประธาน 'the new bridge' เป็นผู้ถูกกระทำ จึงต้องใช้ Past Continuous Passive (was/were + being + V.3) คือ 'was being built' (กำลังถูกสร้าง)"
+      }
+    ]
+  },
+  {
+    "id": "19_2",
+    "title": "19.2 Passive Voice in Present & Past Tenses",
+    "explanation": "Passive Voice คือประโยคที่ 'ประธานเป็นผู้ถูกกระทำ' (Subject is the receiver of the action) เราใช้เมื่อต้องการเน้นที่ 'การกระทำ' หรือ 'ผู้ถูกกระทำ' มากกว่า 'ผู้กระทำ' หรือเมื่อเราไม่รู้, ไม่สำคัญ, หรือไม่ต้องการจะบอกว่าใครเป็นผู้กระทำ\n\nโครงสร้างหลักคือ: **Subject + Verb to be (ผันตาม Tense) + V.3 (Past Participle)**\n\n**1. Present Simple Passive**\n   - โครงสร้าง: **S + is/am/are + V.3**\n   - ใช้กับ: เหตุการณ์ที่เป็นความจริงทั่วไป, กิจวัตร, หรือกระบวนการที่เกิดขึ้นเป็นประจำในปัจจุบัน\n   - Active: The company manufactures electronic components in this factory.\n   - Passive: Electronic components **are manufactured** in this factory. (ชิ้นส่วนอิเล็กทรอนิกส์ถูกผลิตขึ้นในโรงงานนี้ - เน้นที่ชิ้นส่วน ไม่ได้เน้นที่บริษัท)\n\n**2. Present Continuous Passive**\n   - โครงสร้าง: **S + is/am/are + being + V.3**\n   - ใช้กับ: เหตุการณ์ที่ 'กำลังถูกกระทำ' อยู่ในขณะที่พูด\n   - Active: The team is developing a new mobile application.\n   - Passive: A new mobile application **is being developed**. (แอปพลิเคชันมือถือใหม่กำลังถูกพัฒนา - เน้นที่แอปฯ ที่กำลังถูกทำอยู่ตอนนี้)\n\n**3. Past Simple Passive**\n   - โครงสร้าง: **S + was/were + V.3**\n   - ใช้กับ: เหตุการณ์ที่ 'ถูกกระทำ' และจบลงแล้วในอดีต\n   - Active: Someone stole my wallet yesterday.\n   - Passive: My wallet **was stolen** yesterday. (กระเป๋าเงินของฉันถูกขโมยเมื่อวานนี้ - เราไม่รู้ว่าใครขโมย จึงใช้ Passive Voice)\n\n**4. Past Continuous Passive**\n   - โครงสร้าง: **S + was/were + being + V.3**\n   - ใช้กับ: เหตุการณ์ที่ 'กำลังถูกกระทำ' อยู่ ณ จุดเวลาใดเวลาหนึ่งในอดีต (มักจะมีอีกเหตุการณ์หนึ่งเข้ามาแทรก)\n   - Active: The workers were repairing the road when the accident happened.\n   - Passive: The road **was being repaired** when the accident happened. (ถนนกำลังถูกซ่อมแซมอยู่ตอนที่เกิดอุบัติเหตุ - เน้นว่าถนนกำลังอยู่ในกระบวนการซ่อม)",
+    "examples": [
+      {
+        "eng": "Millions of emails are sent every day for business communication.",
+        "thai": "Present Simple Passive: อีเมลหลายล้านฉบับถูกส่งทุกวันเพื่อการสื่อสารทางธุรกิจ (เป็นความจริงทั่วไป, ผู้ส่งไม่สำคัญเท่าการกระทำ)"
+      },
+      {
+        "eng": "The building's security system is being upgraded right now, so some areas are temporarily inaccessible.",
+        "thai": "Present Continuous Passive: ระบบความปลอดภัยของตึกกำลังถูกอัปเกรดในขณะนี้ ดังนั้นบางพื้นที่จึงเข้าถึงไม่ได้ชั่วคราว (เน้นการกระทำที่กำลังเกิดขึ้น)"
+      },
+      {
+        "eng": "The original manuscript of the novel was discovered in an old library decades after the author's death.",
+        "thai": "Past Simple Passive: ต้นฉบับดั้งเดิมของนิยายเรื่องนี้ถูกค้นพบในห้องสมุดเก่าหลายทศวรรษหลังจากการเสียชีวิตของผู้เขียน (การกระทำที่จบลงแล้วในอดีต)"
+      },
+      {
+        "eng": "The suspect was being interrogated by the police while new evidence was being analyzed by the forensics team.",
+        "thai": "Past Continuous Passive: ผู้ต้องสงสัยกำลังถูกสอบสวนโดยตำรวจ ในขณะที่หลักฐานใหม่กำลังถูกวิเคราะห์โดยทีมพิสูจน์หลักฐาน (สองเหตุการณ์ที่กำลังดำเนินไปพร้อมกันในอดีต)"
+      }
+    ],
+    "common_mistakes": "- **ลืม Verb to be:** คนไทยมักจะลืมใส่ Verb to be (is, am, are, was, were) แล้วตามด้วย V.3 เลย เช่น 'The car stolen yesterday.' ที่ถูกต้องคือ 'The car **was** stolen yesterday.'\n- **ใช้ Verb ช่องผิด:** ใช้ Verb ช่อง 1 หรือ 2 แทนที่จะเป็น V.3 (Past Participle) เช่น 'The decision was **made**.' (ถูกต้อง) แต่กลับใช้ 'The decision was **make**.' (ผิด)\n- **สับสน Subject-Verb Agreement:** ใช้ Verb to be ไม่สอดคล้องกับประธาน เช่น 'The documents **was** signed.' ที่ถูกต้องคือ 'The documents **were** signed.' เพราะ documents เป็นพหูพจน์\n- **ใช้ Passive Voice กับกริยาที่ไม่ต้องการกรรม (Intransitive Verbs):** กริยาบางตัวเช่น happen, occur, die, arrive ไม่สามารถใช้ในรูป Passive Voice ได้ เพราะไม่มีกรรมมารองรับ เช่น 'The accident **was happened**.' (ผิด) ต้องพูดว่า 'The accident **happened**.' (ถูกต้อง)",
+    "practice_questions": [
+      {
+        "question": "The confidential files _______ from the secure server yesterday by an unauthorized user.",
+        "options": [
+          "A. were stolen",
+          "B. are stolen",
+          "C. was stealing",
+          "D. stole"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้มีคำว่า 'yesterday' บอกถึงอดีต จึงต้องใช้ Past Tense และประธาน 'The confidential files' (เอกสารลับ) เป็นผู้ถูกกระทำ (ถูกขโมย) จึงต้องใช้ Past Simple Passive โครงสร้างคือ S + was/were + V.3 เนื่องจาก 'files' เป็นพหูพจน์ จึงใช้ 'were stolen'"
+      },
+      {
+        "question": "In many modern societies, a great deal of importance _______ on education and lifelong learning.",
+        "options": [
+          "A. is placed",
+          "B. are placed",
+          "C. places",
+          "D. placing"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้กล่าวถึงความจริงทั่วไปในสังคมปัจจุบัน จึงใช้ Present Simple Tense ประธาน 'a great deal of importance' (ความสำคัญจำนวนมาก) เป็นผู้ถูกกระทำ (ถูกให้ความสำคัญ) และเป็นนามนับไม่ได้ (เอกพจน์) จึงต้องใช้ Present Simple Passive ในรูป 'is placed'"
+      },
+      {
+        "question": "Please be quiet. A very sensitive experiment _______ in the laboratory right now.",
+        "options": [
+          "A. is conducted",
+          "B. was conducted",
+          "C. conducts",
+          "D. is being conducted"
+        ],
+        "answer": "D",
+        "explanation": "คำว่า 'right now' บ่งบอกว่าเหตุการณ์กำลังเกิดขึ้นในขณะที่พูด ประธาน 'A very sensitive experiment' (การทดลองที่ละเอียดอ่อน) เป็นผู้ถูกกระทำ จึงต้องใช้ Present Continuous Passive โครงสร้างคือ is/am/are + being + V.3 ดังนั้น 'is being conducted' จึงถูกต้องที่สุด"
+      },
+      {
+        "question": "While the new policy _______ by the committee, the employees were speculating about its potential impact.",
+        "options": [
+          "A. was being discussed",
+          "B. was discussing",
+          "C. is discussed",
+          "D. has been discussed"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้มี 'while' และมี Past Continuous Tense (were speculating) อยู่อีกส่วนหนึ่ง แสดงถึงเหตุการณ์ที่กำลังดำเนินไปพร้อมกันในอดีต ประธาน 'the new policy' (นโยบายใหม่) ถูกอภิปราย จึงต้องใช้ Past Continuous Passive โครงสร้างคือ was/were + being + V.3"
+      },
+      {
+        "question": "The invitations for the annual conference _______ out to all members last week.",
+        "options": [
+          "A. was sent",
+          "B. sent",
+          "C. were sent",
+          "D. are sent"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคมีคำว่า 'last week' บอกถึงอดีต และประธาน 'The invitations' เป็นพหูพจน์และเป็นผู้ถูกกระทำ (ถูกส่งออกไป) จึงต้องใช้ Past Simple Passive ในรูปพหูพจน์ คือ 'were sent'"
+      },
+      {
+        "question": "At this very moment, a new skyscraper _______ in the city center, and it is expected to be the tallest in the country.",
+        "options": [
+          "A. was constructed",
+          "B. is being constructed",
+          "C. constructs",
+          "D. is constructed"
+        ],
+        "answer": "B",
+        "explanation": "วลี 'At this very moment' มีความหมายเดียวกับ 'right now' คือ ณ ขณะนี้ ดังนั้นต้องใช้ Present Continuous Tense ประธาน 'a new skyscraper' (ตึกระฟ้าแห่งใหม่) กำลังถูกสร้าง จึงต้องเป็น Present Continuous Passive คือ 'is being constructed'"
+      },
+      {
+        "question": "The ancient ruins _______ by archaeologists for five years before they finally uncovered the hidden chamber.",
+        "options": [
+          "A. were being excavated",
+          "B. were excavated",
+          "C. excavated",
+          "D. had been excavated"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้เล่าถึงการกระทำที่จบไปแล้วในอดีต (ถูกขุดค้น) ก่อนที่จะเกิดอีกเหตุการณ์หนึ่งตามมา (uncovered) 'The ancient ruins' (ซากปรักหักพังโบราณ) เป็นผู้ถูกกระทำ และเป็นพหูพจน์ จึงใช้ Past Simple Passive 'were excavated' เพื่อบอกเล่าข้อเท็จจริงในอดีต (แม้ had been excavated จะถูกหลักไวยากรณ์ แต่ Past Simple เป็นตัวเลือกที่ตรงไปตรงมาและเหมาะสมกับบริบทนี้มากกว่า)"
+      },
+      {
+        "question": "Why _______ the employees about the upcoming system maintenance until today?",
+        "options": [
+          "A. weren't informed",
+          "B. wasn't informed",
+          "C. weren't the employees informed",
+          "D. the employees weren't informed"
+        ],
+        "answer": "C",
+        "explanation": "นี่คือประโยคคำถามในรูป Past Simple Passive โครงสร้างคำถามคือ Wh-word + was/were + Subject + V.3? ประธาน 'the employees' เป็นพหูพจน์ จึงต้องใช้ 'were' และต้องสลับตำแหน่งกับประธาน 'Why weren't the employees informed' จึงถูกต้องตามหลักไวยากรณ์"
+      },
+      {
+        "question": "The bridge collapsed because crucial safety checks _______ properly by the inspectors.",
+        "options": [
+          "A. were not performed",
+          "B. did not perform",
+          "C. was not performed",
+          "D. are not performed"
+        ],
+        "answer": "A",
+        "explanation": "เหตุการณ์สะพานถล่ม (collapsed) เกิดขึ้นในอดีต ดังนั้นสาเหตุก็ต้องเกิดในอดีตเช่นกัน ประธาน 'crucial safety checks' (การตรวจสอบความปลอดภัยที่สำคัญ) เป็นผู้ถูกกระทำ (ถูกดำเนินการ) และเป็นพหูพจน์ จึงต้องใช้ Past Simple Passive ในรูปปฏิเสธ คือ 'were not performed'"
+      },
+      {
+        "question": "Look at the chaos in the kitchen! It looks like a huge meal _______ here just a few moments ago.",
+        "options": [
+          "A. was being prepared",
+          "B. prepared",
+          "C. was prepared",
+          "D. is prepared"
+        ],
+        "answer": "C",
+        "explanation": "คำว่า 'just a few moments ago' บ่งชี้ถึงอดีตที่เพิ่งจบไปไม่นาน ประธาน 'a huge meal' (อาหารมื้อใหญ่) เป็นผู้ถูกกระทำ (ถูกเตรียม) จึงใช้ Past Simple Passive โครงสร้างคือ was + V.3 'was prepared' จึงเป็นคำตอบที่ถูกต้องที่สุด (was being prepared จะหมายถึงกำลังถูกเตรียม ซึ่งขัดกับบริบทที่เหตุการณ์เพิ่งจบไป)"
+      }
+    ]
+  },
+  {
+    "id": "19_3",
+    "title": "19.3 Passive Voice in Perfect & Future Tenses",
+    "explanation": "ในบทนี้ เราจะมาเจาะลึกการใช้ Passive Voice ใน Tense ที่ซับซ้อนขึ้นอย่าง Perfect Tenses และ Future Tenses กันครับ โครงสร้างหลักยังคงเป็น 'be + V.3' แต่จะมีการผัน 'be' ให้เข้ากับ Tense นั้นๆ\n\n**1. Present Perfect Passive (S + has/have + been + V.3)**\n*   **ใช้เมื่อไหร่:** ใช้พูดถึงการกระทำที่เพิ่งจบลง หรือเกิดขึ้นในอดีตแต่ยังส่งผลถึงปัจจุบัน โดยเน้นที่ 'กรรม' ว่าถูกกระทำอะไรไปแล้ว\n*   **Active:** Someone has stolen my laptop. (มีคนขโมยแล็ปท็อปของฉันไป)\n*   **Passive:** My laptop has been stolen. (แล็ปท็อปของฉันถูกขโมยไปแล้ว - ไม่เน้นว่าใครขโมย แต่เน้นว่าตอนนี้แล็ปท็อปหายไป)\n\n**2. Past Perfect Passive (S + had + been + V.3)**\n*   **ใช้เมื่อไหร่:** ใช้พูดถึงการกระทำที่เกิดขึ้นและเสร็จสิ้น 'ก่อน' อีกเหตุการณ์หนึ่งในอดีต โดยเน้นที่ 'กรรม' ว่าถูกกระทำเสร็จไปแล้วก่อนที่จะมีอีกอย่างเกิดขึ้น\n*   **Active:** They had repaired the road before the storm hit. (พวกเขาซ่อมถนนเสร็จก่อนที่พายุจะมา)\n*   **Passive:** The road had been repaired before the storm hit. (ถนนถูกซ่อมเสร็จเรียบร้อยแล้วก่อนที่พายุจะมา)\n\n**3. Future Simple Passive (S + will + be + V.3)**\n*   **ใช้เมื่อไหร่:** ใช้พูดถึงการกระทำที่จะเกิดขึ้นในอนาคต โดยเน้นที่ 'กรรม' ว่าจะถูกกระทำ\n*   **Active:** The company will announce the results tomorrow. (บริษัทจะประกาศผลในวันพรุ่งนี้)\n*   **Passive:** The results will be announced tomorrow. (ผลจะถูกประกาศในวันพรุ่งนี้)\n\n**4. Future Perfect Passive (S + will + have + been + V.3)**\n*   **ใช้เมื่อไหร่:** ใช้พูดถึงการกระทำที่จะเสร็จสมบูรณ์ 'ก่อน' เวลาใดเวลาหนึ่งในอนาคต โดยเน้นที่ 'กรรม' ว่าจะถูกกระทำจนเสร็จสิ้นแล้ว ณ เวลานั้น\n*   **Active:** They will have completed the project by next month. (พวกเขาจะทำโปรเจกต์เสร็จภายในเดือนหน้า)\n*   **Passive:** The project will have been completed by next month. (โปรเจกต์จะถูกทำจนเสร็จสมบูรณ์ภายในเดือนหน้า)",
+    "examples": [
+      {
+        "eng": "The final decision has already been made by the committee.",
+        "thai": "การตัดสินใจครั้งสุดท้ายได้ถูกกระทำไปแล้วโดยคณะกรรมการ (Present Perfect Passive - เน้นว่าการตัดสินใจเกิดขึ้นแล้วและมีผลตอนนี้)"
+      },
+      {
+        "eng": "All the arrangements had been confirmed before the guests arrived.",
+        "thai": "การเตรียมการทั้งหมดได้ถูกยืนยันเรียบร้อยแล้วก่อนที่แขกจะมาถึง (Past Perfect Passive - การยืนยันเกิดก่อนการมาถึงของแขก)"
+      },
+      {
+        "eng": "The new security protocol will be implemented across all departments next week.",
+        "thai": "มาตรการรักษาความปลอดภัยใหม่จะถูกนำไปใช้ในทุกแผนกในสัปดาห์หน้า (Future Simple Passive - บอกสิ่งที่จะเกิดขึ้นในอนาคต)"
+      },
+      {
+        "eng": "By the time the audit begins, all financial records will have been thoroughly reviewed.",
+        "thai": "กว่าที่การตรวจสอบบัญชีจะเริ่มขึ้น บันทึกทางการเงินทั้งหมดจะถูกตรวจสอบอย่างละเอียดเรียบร้อยแล้ว (Future Perfect Passive - การตรวจสอบจะเสร็จสิ้นก่อนที่การ audit จะเริ่ม)"
+      },
+      {
+        "eng": "Has the package been delivered yet?",
+        "thai": "พัสดุถูกส่งมาหรือยัง? (Present Perfect Passive ในรูปประโยคคำถาม)"
+      }
+    ],
+    "common_mistakes": "**1. ลืม 'been' ใน Perfect Tenses:** คนไทยมักจะลืมใส่ 'been' ซึ่งเป็น V.3 ของ 'be' ทำให้โครงสร้างผิดไปเลย\n*   **ผิด:** The email has sent. ✗\n*   **ถูก:** The email has been sent. ✓\n\n**2. ลืม 'be' ใน Future Simple Tense:** เป็นอีกจุดที่พลาดบ่อย คือใส่ V.3 ต่อท้าย will ทันที\n*   **ผิด:** The meeting will cancelled. ✗\n*   **ถูก:** The meeting will be cancelled. ✓\n\n**3. สับสนระหว่าง Active กับ Passive Perfect:** บางครั้งจะใช้โครงสร้าง Active แต่ต้องการความหมายแบบ Passive\n*   **ผิด:** I have invited to the party. (แปลว่า 'ฉันได้เชิญ...' ซึ่งผิดความหมาย)\n*   **ถูก:** I have been invited to the party. (ฉันถูกเชิญไปงานปาร์ตี้ - เป็นผู้ถูกกระทำ)\n\n**4. ใช้ Auxiliary Verb (กริยาช่วย) ผิด:** เช่น ใช้ was/were แทน has/have been ในสถานการณ์ที่การกระทำเพิ่งจบและส่งผลถึงปัจจุบัน\n*   **อาจจะผิด:** The window was broken. (หน้าต่างถูกทำพัง - บอกเล่าเหตุการณ์ในอดีตเฉยๆ)\n*   **ถูกกว่าในบางบริบท:** The window has been broken. (หน้าต่างถูกทำพัง - เน้นว่าตอนนี้มันก็ยังพังอยู่)",
+    "practice_questions": [
+      {
+        "question": "The ancient manuscript, which was recently discovered, _______ by several leading historians.",
+        "options": [
+          "A. is translated",
+          "B. has been translated",
+          "C. had translated",
+          "D. will be translated"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้กล่าวถึงการกระทำที่เพิ่งเกิดขึ้น (recently discovered) และเสร็จสิ้นไปแล้ว โดยเน้นที่ตัว manuscript (กรรม) ดังนั้นจึงต้องใช้ Present Perfect Passive (has/have + been + V.3) โครงสร้างที่ถูกต้องคือ 'has been translated'"
+      },
+      {
+        "question": "All applicants _______ via email regarding the outcome of their interviews by this Friday.",
+        "options": [
+          "A. will notify",
+          "B. have been notified",
+          "C. will be notified",
+          "D. had been notified"
+        ],
+        "answer": "C",
+        "explanation": "คำว่า 'by this Friday' เป็นการบอกถึงเวลาในอนาคต และผู้สมัคร (applicants) เป็นผู้ 'ถูก' แจ้งผล ไม่ใช่ผู้แจ้งผลเอง ดังนั้นจึงต้องใช้ Future Simple Passive (will + be + V.3) ซึ่งก็คือ 'will be notified'"
+      },
+      {
+        "question": "The CEO realized that a critical error _______ in the financial report after it had already been submitted.",
+        "options": [
+          "A. was made",
+          "B. has been made",
+          "C. had been made",
+          "D. will be made"
+        ],
+        "answer": "C",
+        "explanation": "มี 2 เหตุการณ์ในอดีต: 1. การทำพลาด (error) 2. การส่งรายงาน (submitted) การทำพลาดเกิดขึ้น 'ก่อน' การส่ง ดังนั้นเหตุการณ์ที่เกิดก่อนต้องใช้ Past Perfect และในที่นี้ error 'ถูก' ทำขึ้น จึงเป็น Past Perfect Passive (had + been + V.3) คือ 'had been made'"
+      },
+      {
+        "question": "By the time you return from your vacation, the entire house _______.",
+        "options": [
+          "A. will redecorate",
+          "B. will be redecorating",
+          "C. is going to be redecorated",
+          "D. will have been redecorated"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคมี 'By the time...' ซึ่งบ่งบอกถึงเส้นตายในอนาคต หมายความว่าการกระทำจะเสร็จสิ้นสมบูรณ์ 'ก่อน' เวลานั้น และบ้านเป็นผู้ 'ถูก' ตกแต่ง จึงต้องใช้ Future Perfect Passive (will + have + been + V.3) คือ 'will have been redecorated'"
+      },
+      {
+        "question": "Despite numerous complaints, the issue of noise pollution _______ properly by the local authorities yet.",
+        "options": [
+          "A. was not addressed",
+          "B. has not been addressed",
+          "C. had not been addressed",
+          "D. will not be addressed"
+        ],
+        "answer": "B",
+        "explanation": "คำว่า 'yet' (ยัง) เป็นตัวบ่งชี้ของ Present Perfect Tense และปัญหา (issue) เป็นสิ่งที่ 'ถูก' จัดการ ดังนั้นจึงต้องใช้ Present Perfect Passive ในรูปปฏิเสธ (has/have + not + been + V.3) ซึ่งก็คือ 'has not been addressed'"
+      },
+      {
+        "question": "Before the merger was finalized, all legal documents _______ thoroughly by both companies' legal teams.",
+        "options": [
+          "A. have been reviewed",
+          "B. were reviewing",
+          "C. had been reviewed",
+          "D. will be reviewed"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้มีลำดับเหตุการณ์ในอดีต 2 อย่าง: 1. การตรวจสอบเอกสาร 2. การควบรวมกิจการเสร็จสิ้น การตรวจสอบเอกสารเกิดขึ้น 'ก่อน' ดังนั้นต้องใช้ Past Perfect และเอกสารเป็นผู้ 'ถูก' ตรวจสอบ จึงเป็น Past Perfect Passive (had + been + V.3) คือ 'had been reviewed'"
+      },
+      {
+        "question": "When _______ the results of the clinical trial _______ to the public?",
+        "options": [
+          "A. will / be released",
+          "B. have / been released",
+          "C. do / release",
+          "D. are / going to release"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้เป็นคำถามเกี่ยวกับเหตุการณ์ในอนาคต และผลการทดลอง (results) เป็นสิ่งที่ 'ถูก' เปิดเผย จึงต้องใช้ Future Simple Passive ในรูปคำถาม โครงสร้างคือ (Wh-word + will + S + be + V.3?) ดังนั้น 'will...be released' จึงถูกต้องที่สุด"
+      },
+      {
+        "question": "It is projected that by 2050, many coastal cities _______ by rising sea levels.",
+        "options": [
+          "A. will affect",
+          "B. will be affecting",
+          "C. will have been affected",
+          "D. have been affected"
+        ],
+        "answer": "C",
+        "explanation": "วลี 'by 2050' เป็นการระบุจุดเวลาในอนาคตที่การกระทำจะเสร็จสิ้นสมบูรณ์ไปแล้ว และเมือง (cities) เป็นผู้ 'ถูก' กระทบ จึงต้องใช้ Future Perfect Passive (will + have + been + V.3) เพื่อสื่อว่า ณ ปี 2050 เมืองเหล่านั้นจะได้รับผลกระทบไปแล้ว"
+      },
+      {
+        "question": "A significant breakthrough _______ in the field of renewable energy, offering hope for a sustainable future.",
+        "options": [
+          "A. has made",
+          "B. was made",
+          "C. has been made",
+          "D. had been made"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคพูดถึงการค้นพบครั้งสำคัญ (breakthrough) ที่เกิดขึ้นในอดีตไม่ระบุเวลาและยังส่งผลถึงปัจจุบัน (offering hope) การค้นพบนี้ 'ถูก' สร้างขึ้นมา จึงต้องใช้ Present Perfect Passive (has/have + been + V.3) คือ 'has been made'"
+      },
+      {
+        "question": "After the new software _______ for security vulnerabilities, it was launched to all users.",
+        "options": [
+          "A. was tested",
+          "B. has been tested",
+          "C. had been tested",
+          "D. would be tested"
+        ],
+        "answer": "C",
+        "explanation": "มี 2 เหตุการณ์ในอดีต คือ 'การทดสอบซอฟต์แวร์' และ 'การเปิดตัว' การทดสอบเกิดขึ้น 'ก่อน' การเปิดตัว และซอฟต์แวร์ 'ถูก' ทดสอบ ดังนั้นเหตุการณ์ที่เกิดก่อนจึงต้องใช้ Past Perfect Passive (had + been + V.3) คือ 'had been tested'"
+      }
+    ]
+  },
+  {
+    "id": "19_4",
+    "title": "19.4 Passive Voice with Modals (must be done, should be done)",
+    "explanation": "Passive Voice with Modals คือการนำกริยาช่วย (Modal Verbs) มาใช้ร่วมกับโครงสร้าง Passive Voice เพื่อแสดงความหมายต่างๆ เช่น ความจำเป็น, การแนะนำ, ความเป็นไปได้, การคาดคะเน หรือภาระหน้าที่ ที่กระทำต่อประธานของประโยค\n\n**โครงสร้างหลัก:**\n`Subject + Modal Verb + be + Past Participle (V.3)`\n\n- **Modal Verbs** ที่ใช้บ่อย ได้แก่ can, could, may, might, will, would, shall, should, must, ought to.\n- `be` จะอยู่ในรูป infinitive (ไม่ผัน) เสมอ เพราะตามหลัง Modal Verb.\n- `Past Participle (V.3)` คือกริยาช่องที่ 3.\n\n**ตัวอย่างการใช้ Modal Verbs ต่างๆ:**\n- `must be done`: ต้องถูกทำ (แสดงความจำเป็น, ข้อบังคับ)\n- `should be done`: ควรจะถูกทำ (แสดงคำแนะนำ)\n- `can be done`: สามารถถูกทำได้ (แสดงความสามารถ, ความเป็นไปได้)\n- `will be done`: จะถูกทำ (แสดงสิ่งที่จะเกิดขึ้นในอนาคต)\n- `might be done`: อาจจะถูกทำ (แสดงความเป็นไปได้ที่ไม่แน่นอน)\n\n**โครงสร้างสำหรับเหตุการณ์ในอดีต (Perfect Modals):**\nเมื่อเราต้องการพูดถึงเหตุการณ์ในอดีตที่ควรจะเกิดขึ้นแต่ไม่ได้เกิด หรือการคาดคะเนเกี่ยวกับอดีต เราจะใช้โครงสร้างนี้ ซึ่งท้าทายขึ้นสำหรับผู้เรียนระดับ B1-B2:\n`Subject + Modal Verb + have been + Past Participle (V.3)`\n\n- `should have been done`: ควรจะถูกทำไปแล้ว (แต่ไม่ได้ทำ)\n- `must have been done`: ต้องถูกทำไปแล้วแน่ๆ (คาดคะเนอย่างมั่นใจ)\n- `could have been done`: อาจจะถูกทำไปแล้วก็ได้ (แต่ไม่เกิดขึ้น)",
+    "examples": [
+      {
+        "eng": "This confidential report must be submitted to the manager by Friday.",
+        "thai": "รายงานลับฉบับนี้ต้องถูกส่งให้ผู้จัดการภายในวันศุกร์ (แสดงความจำเป็นหรือข้อบังคับ)"
+      },
+      {
+        "eng": "To improve air quality, more trees should be planted in urban areas.",
+        "thai": "เพื่อปรับปรุงคุณภาพอากาศ ควรมีการปลูกต้นไม้ให้มากขึ้นในเขตเมือง (แสดงคำแนะนำ)"
+      },
+      {
+        "eng": "The issue is quite complex, but a solution can be found if we collaborate.",
+        "thai": "ปัญหานี้ค่อนข้างซับซ้อน แต่ทางออกสามารถถูกค้นพบได้ถ้าเราร่วมมือกัน (แสดงความเป็นไปได้)"
+      },
+      {
+        "eng": "The package was sent yesterday, so it might be delivered this afternoon.",
+        "thai": "พัสดุถูกส่งเมื่อวานนี้ ดังนั้นมันอาจจะถูกนำส่งในบ่ายวันนี้ (แสดงความเป็นไปได้ที่ไม่แน่นอน)"
+      },
+      {
+        "eng": "The historical monument should have been protected more carefully from vandalism.",
+        "thai": "โบราณสถานแห่งนี้น่าจะได้รับการปกป้องจากการทำลายทรัพย์สินอย่างระมัดระวังมากกว่านี้ (พูดถึงสิ่งที่ควรทำในอดีตแต่ไม่ได้ทำ หรือทำได้ไม่ดีพอ)"
+      },
+      {
+        "eng": "Judging by the empty pizza boxes, a party must have been held here last night.",
+        "thai": "ดูจากกล่องพิซซ่าเปล่าๆ แล้ว ปาร์ตี้ต้องถูกจัดขึ้นที่นี่แน่ๆ เมื่อคืนนี้ (การคาดเดาอย่างมีหลักฐานเกี่ยวกับเหตุการณ์ในอดีต)"
+      }
+    ],
+    "common_mistakes": "1. **ลืมใส่ `be`**: เป็นข้อผิดพลาดที่พบบ่อยที่สุด คนไทยมักจะพูดว่า *The email must sent.* ที่ถูกต้องคือ `The email must be sent.` (หลัง Modal ต้องมี `be` ก่อน V.3)\n\n2. **ใช้กริยาผิดรูปหลัง `be`**: บางครั้งอาจสับสนไปใช้ V.1 หรือ V.2 แทน V.3 เช่น *The car can be fix.* ที่ถูกต้องคือ `The car can be fixed.`\n\n3. **ใช้โครงสร้างผิดเมื่อพูดถึงอดีต**: เมื่อพูดถึงสิ่งที่ควรเกิดในอดีต มักจะใช้โครงสร้างปัจจุบันแทน เช่น *This problem should be solved yesterday.* ที่ถูกต้องคือ `This problem should have been solved yesterday.` (ต้องใช้โครงสร้าง `modal + have been + V.3` สำหรับอดีต)\n\n4. **ใส่ `to` หลัง Modal Verb**: Modal Verb ต้องตามด้วย Verb Infinitive (ไม่ผัน) เสมอ ไม่ใช่ `to`-infinitive เช่น *The rules must to be followed.* ที่ถูกต้องคือ `The rules must be followed.`",
+    "practice_questions": [
+      {
+        "question": "The new safety regulations _______ strictly by all employees to prevent accidents.",
+        "options": [
+          "A. must followed",
+          "B. must be followed",
+          "C. must to be followed",
+          "D. must be following"
+        ],
+        "answer": "B",
+        "explanation": "โครงสร้าง Passive Voice with Modals คือ `Modal + be + V.3` ในที่นี้ `must` คือ Modal, `be` คือ be, และ `followed` คือ V.3 ของ follow แปลว่า \"กฎระเบียบความปลอดภัยใหม่ต้องถูกปฏิบัติตามอย่างเคร่งครัด\""
+      },
+      {
+        "question": "I can't find the presentation file anywhere. I think it _______ accidentally.",
+        "options": [
+          "A. might delete",
+          "B. might have been deleted",
+          "C. might be deleting",
+          "D. might had been deleted"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้เป็นการคาดเดาเหตุการณ์ที่เกิดขึ้นแล้วในอดีต (I can't find it now) จึงต้องใช้โครงสร้าง Perfect Modal ในรูป Passive: `Modal + have been + V.3` ข้อ B `might have been deleted` (อาจจะถูกลบไปแล้ว) จึงถูกต้องที่สุด"
+      },
+      {
+        "question": "According to the project timeline, the initial prototype _______ by the end of this month.",
+        "options": [
+          "A. should have been completed",
+          "B. should be completed",
+          "C. should completed",
+          "D. should be completing"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคกล่าวถึงกำหนดการในอนาคต ('by the end of this month') จึงใช้โครงสร้าง `Modal + be + V.3` ในความหมายว่า \"ควรจะทำให้เสร็จ\" ข้อ A `should have been completed` ใช้กับเหตุการณ์ในอดีตที่ไม่เกิดขึ้น"
+      },
+      {
+        "question": "This valuable painting is very delicate and _______ without special gloves.",
+        "options": [
+          "A. can't be touched",
+          "B. can't touch",
+          "C. can't have been touched",
+          "D. can't be touching"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้กล่าวถึงข้อห้ามหรือความเป็นไปไม่ได้ในปัจจุบัน รูปแบบที่ถูกต้องคือ `Modal (can't) + be + V.3 (touched)` เพื่อสื่อว่า \"ไม่สามารถถูกสัมผัสได้\""
+      },
+      {
+        "question": "The public announcement _______ until all the family members have been notified.",
+        "options": [
+          "A. will not be made",
+          "B. will not made",
+          "C. will not make",
+          "D. will not be making"
+        ],
+        "answer": "A",
+        "explanation": "นี่คือ Passive Voice ที่จะเกิดขึ้นในอนาคต โครงสร้างคือ `Modal (will not) + be + V.3 (made)` หมายถึง \"การประกาศต่อสาธารณะจะยังไม่ถูกจัดทำขึ้น\""
+      },
+      {
+        "question": "The client was very angry. The shipping delay _______ to him earlier.",
+        "options": [
+          "A. should explain",
+          "B. should be explained",
+          "C. should have explained",
+          "D. should have been explained"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคแรก ('The client was very angry') บ่งบอกว่าเหตุการณ์เกิดขึ้นแล้วในอดีต ประโยคที่สองเป็นการพูดถึงสิ่งที่ควรจะทำแต่ไม่ได้ทำในอดีต จึงต้องใช้ `Modal + have been + V.3` ข้อ D `should have been explained` (ควรจะได้รับการอธิบาย) จึงถูกต้อง"
+      },
+      {
+        "question": "All electronic devices _______ off during the flight's takeoff and landing.",
+        "options": [
+          "A. must be turning",
+          "B. must turned",
+          "C. must be turned",
+          "D. must to be turned"
+        ],
+        "answer": "C",
+        "explanation": "เป็นกฎข้อบังคับที่ต้องปฏิบัติ จึงใช้ `must` ตามด้วยโครงสร้าง Passive คือ `be + V.3 (turned)` ทำให้ C `must be turned` เป็นคำตอบที่ถูกต้อง"
+      },
+      {
+        "question": "If we had had more funding, a more advanced security system _______. ",
+        "options": [
+          "A. can be installed",
+          "B. could install",
+          "C. could have been installed",
+          "D. could be installing"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้เป็น Conditional Sentence Type 3 (If + past perfect, ... would/could/might + have + V.3) ในที่นี้ส่วนผลลัพธ์เป็น Passive Voice จึงต้องใช้ `could have been + V.3 (installed)` เพื่อบอกว่า \"ระบบความปลอดภัยที่ล้ำหน้ากว่านี้ก็อาจจะถูกติดตั้งไปแล้ว (แต่ก็ไม่ได้ทำเพราะไม่มีเงินทุน)\""
+      },
+      {
+        "question": "The damage to the building was severe; the fire _______ deliberately.",
+        "options": [
+          "A. must be started",
+          "B. must have started",
+          "C. must have been started",
+          "D. must start"
+        ],
+        "answer": "C",
+        "explanation": "เป็นการคาดคะเนอย่างหนักแน่นเกี่ยวกับเหตุการณ์ในอดีต ('The damage was severe') และประธานคือ 'the fire' ซึ่งถูกกระทำ (ถูกจุดขึ้น) จึงต้องใช้ Perfect Modal Passive: `must have been + V.3 (started)`"
+      },
+      {
+        "question": "Changes to the company policy _______ without approval from the board of directors.",
+        "options": [
+          "A. may not be made",
+          "B. may not have made",
+          "C. may not made",
+          "D. may not be make"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้กล่าวถึงกฎหรือความเป็นไปได้ในปัจจุบัน จึงใช้โครงสร้าง `Modal (may not) + be + V.3 (made)` หมายถึง \"การเปลี่ยนแปลงนโยบายอาจไม่สามารถทำได้หากไม่ได้รับอนุมัติ\""
+      }
+    ]
+  },
+  {
+    "id": "19_5",
+    "title": "19.5 Summary: Passive Voice (สรุปประโยคถูกกระทำ + 50 Exercises)",
+    "explanation": "Passive Voice คือประโยคที่ 'ประธานเป็นผู้ถูกกระทำ' (Subject receives the action) ซึ่งตรงข้ามกับ Active Voice ที่ 'ประธานเป็นผู้กระทำ' (Subject does the action) เราใช้ Passive Voice เมื่อ:\n1. ไม่ทราบว่าใครเป็นผู้กระทำ: My car was stolen last night. (ไม่รู้ว่าใครขโมย)\n2. ผู้กระทำไม่สำคัญ หรือเป็นที่รู้กันอยู่แล้ว: The suspect was arrested. (แน่นอนว่าตำรวจเป็นผู้จับกุม)\n3. ต้องการเน้นที่ผู้ถูกกระทำ หรือการกระทำนั้นๆ มากกว่าตัวผู้กระทำ: This beautiful bridge was built in the 19th century.\n\n**หัวใจของ Passive Voice คือโครงสร้าง: S + Verb to be + Past Participle (V.3)**\n\nการเปลี่ยนรูป Verb to be จะเป็นไปตาม Tense ของประโยค:\n- **Present Simple:** is/am/are + V.3 (e.g., The emails are sent every morning.)\n- **Past Simple:** was/were + V.3 (e.g., The window was broken yesterday.)\n- **Present Continuous:** is/am/are + being + V.3 (e.g., The road is being repaired.)\n- **Past Continuous:** was/were + being + V.3 (e.g., The documents were being printed when the power went out.)\n- **Present Perfect:** has/have + been + V.3 (e.g., The project has been finished.)\n- **Past Perfect:** had + been + V.3 (e.g., The letter had been sent before I arrived.)\n- **Future Simple:** will + be + V.3 (e.g., The winner will be announced tomorrow.)\n- **Modal Verbs:** modal (can, must, should, etc.) + be + V.3 (e.g., This form must be signed.)\n\nหากต้องการระบุผู้กระทำ ให้ใช้ 'by' ตามหลัง: The book was written **by** Jane.",
+    "examples": [
+      {
+        "eng": "The new policies will be implemented next month.",
+        "thai": "นโยบายใหม่จะถูกนำมาใช้ในเดือนหน้า (Future Simple Passive - เน้นที่นโยบาย ไม่ได้เน้นว่าใครเป็นผู้นำมาใช้)"
+      },
+      {
+        "eng": "While the presentation was being given, the fire alarm went off.",
+        "thai": "ในขณะที่การนำเสนอกำลังถูกบรรยายอยู่ สัญญาณเตือนไฟไหม้ก็ดังขึ้น (Past Continuous Passive - เน้นว่าการนำเสนอ 'กำลังถูก' บรรยาย)"
+      },
+      {
+        "eng": "Mistakes have been made, but lessons have also been learned.",
+        "thai": "ความผิดพลาดได้เกิดขึ้นแล้ว แต่บทเรียนก็ได้ถูกเรียนรู้เช่นกัน (Present Perfect Passive - ไม่ได้ระบุว่าใครทำผิดพลาดหรือใครเรียนรู้ แต่เน้นที่ผลลัพธ์)"
+      },
+      {
+        "eng": "This issue should be discussed with the manager immediately.",
+        "thai": "ปัญหานี้ควรจะถูกนำไปปรึกษากับผู้จัดการทันที (Modal Verb Passive - เน้นการกระทำที่ควรเกิดขึ้นกับปัญหา)"
+      }
+    ],
+    "common_mistakes": "**1. ลืม Verb 'to be'**: เป็นข้อผิดพลาดที่พบบ่อยที่สุด คนไทยมักจะใส่ V.3 เลยโดยไม่มี 'to be' มาช่วย\n- ผิด: The report submitted yesterday.\n- ถูก: The report **was** submitted yesterday.\n\n**2. ใช้ Verb ผิดช่อง**: จำสับสนระหว่าง V.2 กับ V.3 โดยเฉพาะกับ Irregular Verbs\n- ผิด: The song was **sang** by a famous artist.\n- ถูก: The song was **sung** by a famous artist. (sang คือ V.2, sung คือ V.3)\n\n**3. สับสนระหว่าง Active และ Passive**: ใช้ Passive Voice กับกริยาที่ไม่ต้องการกรรม (Intransitive Verbs) หรือในสถานการณ์ที่ประธานเป็นผู้กระทำเอง\n- ผิด: I was arrived at the airport at 9 PM.\n- ถูก: I **arrived** at the airport at 9 PM. ('arrive' ไม่สามารถทำเป็น passive ได้)\n- ผิด: The company was grown rapidly.\n- ถูก: The company **grew** rapidly. (บริษัทเติบโตเอง)\n\n**4. ใช้ Passive Voice พร่ำเพรื่อ**: การใช้ Passive Voice มากเกินไปในบทสนทนาหรือการเขียนที่ไม่เป็นทางการอาจทำให้ประโยคดูแข็งและไม่เป็นธรรมชาติ โดยเฉพาะเมื่อรู้ว่าใครเป็นผู้กระทำ\n- ไม่เป็นธรรมชาติ: My homework was done by me last night.\n- เป็นธรรมชาติกว่า: I did my homework last night.",
+    "practice_questions": [
+      {
+        "question": "The new software ______ by the IT department next week.",
+        "options": [
+          "A. is installed",
+          "B. will be installed",
+          "C. has been installed",
+          "D. was installed"
+        ],
+        "answer": "B",
+        "explanation": "คำว่า 'next week' บ่งบอกถึงอนาคต จึงต้องใช้ Future Simple Passive ซึ่งมีโครงสร้างคือ will + be + V.3 (installed)"
+      },
+      {
+        "question": "Many historical documents ______ in the fire last century.",
+        "options": [
+          "A. destroyed",
+          "B. were destroyed",
+          "C. have been destroyed",
+          "D. are destroyed"
+        ],
+        "answer": "B",
+        "explanation": "คำว่า 'last century' เป็นอดีตที่จบไปแล้ว ประธาน 'documents' เป็นพหูพจน์และถูกทำลาย จึงใช้ Past Simple Passive: were + V.3 (destroyed)"
+      },
+      {
+        "question": "Currently, the main bridge in the city ______.",
+        "options": [
+          "A. is repairing",
+          "B. has been repaired",
+          "C. is being repaired",
+          "D. was repaired"
+        ],
+        "answer": "C",
+        "explanation": "คำว่า 'Currently' (ในปัจจุบันนี้) บ่งบอกว่าเหตุการณ์กำลังเกิดขึ้น จึงต้องใช้ Present Continuous Passive: is + being + V.3 (repaired)"
+      },
+      {
+        "question": "This beautiful song ______ by an unknown artist in the 1980s.",
+        "options": [
+          "A. was written",
+          "B. is written",
+          "C. has written",
+          "D. wrote"
+        ],
+        "answer": "A",
+        "explanation": "คำว่า 'in the 1980s' เป็นอดีตที่ชัดเจน ประธาน 'song' ถูกเขียน จึงใช้ Past Simple Passive: was + V.3 (written)"
+      },
+      {
+        "question": "Your online order ______ and will be delivered within 3-5 business days.",
+        "options": [
+          "A. has confirmed",
+          "B. is confirming",
+          "C. has been confirmed",
+          "D. was confirmed"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้กล่าวถึงสถานะล่าสุดของการสั่งซื้อที่เพิ่งเสร็จสิ้นและส่งผลถึงปัจจุบัน จึงใช้ Present Perfect Passive: has + been + V.3 (confirmed)"
+      },
+      {
+        "question": "All employees ______ to attend the safety training session tomorrow.",
+        "options": [
+          "A. require",
+          "B. are requiring",
+          "C. were required",
+          "D. are required"
+        ],
+        "answer": "D",
+        "explanation": "พนักงาน 'ถูก' กำหนดให้เข้าร่วม เป็นกฎเกณฑ์ทั่วไปในปัจจุบัน ใช้ Present Simple Passive: are + V.3 (required)"
+      },
+      {
+        "question": "The suspect ______ by the police as he was trying to leave the country.",
+        "options": [
+          "A. was being caught",
+          "B. was caught",
+          "C. has been caught",
+          "D. caught"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้เล่าเหตุการณ์ในอดีตที่เกิดขึ้นแทรก (ถูกจับ) ขณะที่อีกเหตุการณ์กำลังดำเนินอยู่ (กำลังพยายามหนี) ใช้ Past Simple Passive: was + V.3 (caught)"
+      },
+      {
+        "question": "These traditional crafts ______ by hand for generations.",
+        "options": [
+          "A. are made",
+          "B. have been made",
+          "C. were made",
+          "D. will be made"
+        ],
+        "answer": "B",
+        "explanation": "วลี 'for generations' (เป็นเวลาหลายชั่วอายุคน) บ่งบอกถึงการกระทำที่เกิดขึ้นตั้งแต่อดีตและดำเนินมาถึงปัจจุบัน จึงใช้ Present Perfect Passive: have + been + V.3 (made)"
+      },
+      {
+        "question": "The meeting ______ until next Friday due to the manager's illness.",
+        "options": [
+          "A. has postponed",
+          "B. postponed",
+          "C. has been postponed",
+          "D. is postponing"
+        ],
+        "answer": "C",
+        "explanation": "การประชุม 'ถูก' เลื่อนออกไป เป็นเหตุการณ์ที่เพิ่งเกิดขึ้นและส่งผลถึงปัจจุบัน (คือยังไม่ประชุม) จึงใช้ Present Perfect Passive: has + been + V.3 (postponed)"
+      },
+      {
+        "question": "This problem cannot ______ without everyone's cooperation.",
+        "options": [
+          "A. solve",
+          "B. be solved",
+          "C. solved",
+          "D. solving"
+        ],
+        "answer": "B",
+        "explanation": "หลัง modal verb (can, must, should, etc.) ในโครงสร้าง Passive Voice ต้องตามด้วย be + V.3 ดังนั้น 'cannot be solved' จึงถูกต้อง"
+      },
+      {
+        "question": "The first prize ______ to the youngest contestant in the competition.",
+        "options": [
+          "A. was awarded",
+          "B. awarded",
+          "C. has awarded",
+          "D. is awarding"
+        ],
+        "answer": "A",
+        "explanation": "การแข่งขันจบลงแล้วในอดีต รางวัล 'ถูก' มอบให้ จึงใช้ Past Simple Passive: was + V.3 (awarded)"
+      },
+      {
+        "question": "While the guests were waiting, dinner ______ in the kitchen.",
+        "options": [
+          "A. was prepared",
+          "B. prepared",
+          "C. had been prepared",
+          "D. was being prepared"
+        ],
+        "answer": "D",
+        "explanation": "มีสองเหตุการณ์เกิดขึ้นพร้อมกันในอดีต (แขกรอ, อาหารเย็นกำลังถูกเตรียม) จึงใช้ Past Continuous Passive: was + being + V.3 (prepared)"
+      },
+      {
+        "question": "English ______ as a second language in many countries around the world.",
+        "options": [
+          "A. speaks",
+          "B. is spoken",
+          "C. has spoken",
+          "D. was spoken"
+        ],
+        "answer": "B",
+        "explanation": "นี่คือข้อเท็จจริงทั่วไปในปัจจุบัน ภาษาอังกฤษ 'ถูก' พูด จึงใช้ Present Simple Passive: is + V.3 (spoken)"
+      },
+      {
+        "question": "The confidential files should ______ in a secure location.",
+        "options": [
+          "A. keep",
+          "B. be kept",
+          "C. kept",
+          "D. keeping"
+        ],
+        "answer": "B",
+        "explanation": "หลัง modal verb 'should' ในโครงสร้าง Passive ต้องตามด้วย be + V.3 ดังนั้น 'should be kept' จึงถูกต้อง"
+      },
+      {
+        "question": "By the time we arrived, the tickets ______ already sold out.",
+        "options": [
+          "A. have been",
+          "B. were",
+          "C. had been",
+          "D. are"
+        ],
+        "answer": "C",
+        "explanation": "โครงสร้าง 'By the time + Past Simple' มักจะใช้คู่กับ Past Perfect เพื่อบอกว่ามีเหตุการณ์หนึ่งเกิดขึ้นก่อนอีกเหตุการณ์ในอดีต ตั๋ว 'ถูก' ขายไปก่อนที่พวกเราจะไปถึง จึงใช้ Past Perfect Passive: had + been + V.3 (sold)"
+      },
+      {
+        "question": "Patients ______ not to eat or drink anything for eight hours before the surgery.",
+        "options": [
+          "A. are advised",
+          "B. advise",
+          "C. advised",
+          "D. are advising"
+        ],
+        "answer": "A",
+        "explanation": "เป็นการให้คำแนะนำที่เป็นกฎเกณฑ์ทั่วไปในปัจจุบัน ผู้ป่วย 'ถูก' แนะนำ จึงใช้ Present Simple Passive: are + V.3 (advised)"
+      },
+      {
+        "question": "Who ______ to be the best player of the tournament?",
+        "options": [
+          "A. was considered",
+          "B. did consider",
+          "C. considered",
+          "D. had considered"
+        ],
+        "answer": "A",
+        "explanation": "คำถามนี้ถามว่าใคร 'ถูก' พิจารณาว่าเป็นผู้เล่นที่ดีที่สุด เป็นการถามถึงเหตุการณ์ในอดีต ใช้ Past Simple Passive: was + V.3 (considered)"
+      },
+      {
+        "question": "The old factory ______ into a modern art gallery last year.",
+        "options": [
+          "A. has transformed",
+          "B. was transforming",
+          "C. transformed",
+          "D. was transformed"
+        ],
+        "answer": "D",
+        "explanation": "คำว่า 'last year' ระบุเวลาในอดีตที่ชัดเจน โรงงาน 'ถูก' เปลี่ยนโฉม จึงใช้ Past Simple Passive: was + V.3 (transformed)"
+      },
+      {
+        "question": "It ______ that the company will merge with its main rival.",
+        "options": [
+          "A. is rumored",
+          "B. rumored",
+          "C. has rumored",
+          "D. rumors"
+        ],
+        "answer": "A",
+        "explanation": "เป็นโครงสร้างที่ใช้บ่อย 'It is rumored that...' หมายถึง 'มีข่าวลือว่า...' เป็น Present Simple Passive เพื่อกล่าวถึงข่าวลือในปัจจุบัน"
+      },
+      {
+        "question": "The cause of the accident ______ by the police at the moment.",
+        "options": [
+          "A. is investigated",
+          "B. has been investigated",
+          "C. is being investigated",
+          "D. was investigated"
+        ],
+        "answer": "C",
+        "explanation": "วลี 'at the moment' (ในขณะนี้) บ่งบอกว่าเหตุการณ์กำลังเกิดขึ้น จึงต้องใช้ Present Continuous Passive: is + being + V.3 (investigated)"
+      },
+      {
+        "question": "All flights ______ due to the severe weather conditions.",
+        "options": [
+          "A. have been cancelled",
+          "B. have cancelled",
+          "C. were cancelling",
+          "D. cancelled"
+        ],
+        "answer": "A",
+        "explanation": "เที่ยวบิน 'ถูก' ยกเลิก เป็นเหตุการณ์ที่เพิ่งเกิดขึ้นและส่งผลถึงปัจจุบัน (คือตอนนี้ไม่มีเที่ยวบิน) จึงใช้ Present Perfect Passive: have + been + V.3 (cancelled)"
+      },
+      {
+        "question": "This ancient manuscript ______ to be over a thousand years old.",
+        "options": [
+          "A. believes",
+          "B. is believing",
+          "C. is believed",
+          "D. has believed"
+        ],
+        "answer": "C",
+        "explanation": "เป็นโครงสร้าง 'is believed to be...' หมายถึง 'เชื่อกันว่า...' ใช้ Present Simple Passive เพื่อกล่าวถึงความเชื่อในปัจจุบัน"
+      },
+      {
+        "question": "The children ______ how to swim by a professional instructor.",
+        "options": [
+          "A. are taught",
+          "B. teach",
+          "C. are teaching",
+          "D. taught"
+        ],
+        "answer": "A",
+        "explanation": "เด็กๆ 'ถูก' สอน เป็นการบอกเล่าข้อเท็จจริงทั่วไป จึงใช้ Present Simple Passive: are + V.3 (taught)"
+      },
+      {
+        "question": "The president's speech ______ live on all major news channels tonight.",
+        "options": [
+          "A. broadcasted",
+          "B. will broadcast",
+          "C. is broadcasting",
+          "D. will be broadcast"
+        ],
+        "answer": "D",
+        "explanation": "คำว่า 'tonight' บอกถึงอนาคต คำปราศรัย 'จะถูก' ถ่ายทอดสด จึงใช้ Future Simple Passive: will + be + V.3 (broadcast)"
+      },
+      {
+        "question": "I wasn't invited to the party, and I feel a bit left out. Why ______?",
+        "options": [
+          "A. I wasn't invited",
+          "B. wasn't I invited",
+          "C. didn't I invite",
+          "D. I was not being invited"
+        ],
+        "answer": "B",
+        "explanation": "เป็นประโยคคำถามในรูป Passive Voice ที่ถูกต้องคือการสลับ verb to be มาไว้หน้าประธาน: Why wasn't I invited?"
+      },
+      {
+        "question": "The new regulations must ______ by all members of staff without exception.",
+        "options": [
+          "A. followed",
+          "B. be followed",
+          "C. follow",
+          "D. to be followed"
+        ],
+        "answer": "B",
+        "explanation": "หลัง modal verb 'must' ในโครงสร้าง Passive ต้องตามด้วย be + V.3 ดังนั้น 'must be followed' จึงถูกต้อง"
+      },
+      {
+        "question": "How many languages ______ in Switzerland?",
+        "options": [
+          "A. are spoken",
+          "B. do they speak",
+          "C. have spoken",
+          "D. were spoken"
+        ],
+        "answer": "A",
+        "explanation": "เป็นคำถามเกี่ยวกับข้อเท็จจริงในปัจจุบัน ภาษา 'ถูก' พูด จึงใช้ Present Simple Passive: are + V.3 (spoken)"
+      },
+      {
+        "question": "The entire building ______ after the earthquake was declared unsafe.",
+        "options": [
+          "A. was evacuated",
+          "B. evacuated",
+          "C. has been evacuated",
+          "D. is evacuated"
+        ],
+        "answer": "A",
+        "explanation": "เหตุการณ์ในอดีต (แผ่นดินไหว, ถูกประกาศว่าไม่ปลอดภัย) ทำให้ตึก 'ถูก' อพยพผู้คนออกไป ใช้ Past Simple Passive: was + V.3 (evacuated)"
+      },
+      {
+        "question": "Vegetables sold at this market ______ locally.",
+        "options": [
+          "A. grow",
+          "B. are grown",
+          "C. have grown",
+          "D. were growing"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้บอกข้อเท็จจริงทั่วไปว่าผักที่ขายที่นี่ 'ถูก' ปลูกในท้องถิ่น จึงใช้ Present Simple Passive: are + V.3 (grown)"
+      },
+      {
+        "question": "You will ______ when a decision has been made.",
+        "options": [
+          "A. notify",
+          "B. be notified",
+          "C. be notifying",
+          "D. have been notified"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคบอกว่าคุณ 'จะถูก' แจ้งให้ทราบ เป็นเหตุการณ์ในอนาคต จึงใช้ Future Simple Passive: will + be + V.3 (notified)"
+      },
+      {
+        "question": "Before the invention of the printing press, books ______ by hand.",
+        "options": [
+          "A. were copied",
+          "B. have been copied",
+          "C. copied",
+          "D. had copied"
+        ],
+        "answer": "A",
+        "explanation": "เป็นการเล่าถึงสิ่งที่เกิดขึ้นเป็นประจำในอดีต (ก่อนการประดิษฐ์แท่นพิมพ์) หนังสือ 'ถูก' คัดลอก จึงใช้ Past Simple Passive: were + V.3 (copied)"
+      },
+      {
+        "question": "The project had to ______ because of a lack of funding.",
+        "options": [
+          "A. abandon",
+          "B. be abandoned",
+          "C. abandoned",
+          "D. been abandoned"
+        ],
+        "answer": "B",
+        "explanation": "โครงสร้าง 'had to' ทำหน้าที่คล้าย modal verb ในที่นี้ต้องตามด้วย รูป passive คือ be + V.3 ดังนั้น 'had to be abandoned' จึงถูกต้อง"
+      },
+      {
+        "question": "More than a million cars ______ in this factory every year.",
+        "options": [
+          "A. are produced",
+          "B. produce",
+          "C. have produced",
+          "D. were produced"
+        ],
+        "answer": "A",
+        "explanation": "วลี 'every year' บ่งบอกถึงการกระทำที่เกิดขึ้นเป็นประจำในปัจจุบัน รถยนต์ 'ถูก' ผลิต จึงใช้ Present Simple Passive: are + V.3 (produced)"
+      },
+      {
+        "question": "The injured hiker ______ by a rescue helicopter.",
+        "options": [
+          "A. has rescued",
+          "B. was rescued",
+          "C. is rescuing",
+          "D. had rescued"
+        ],
+        "answer": "B",
+        "explanation": "เป็นการเล่าเรื่องที่จบไปแล้วในอดีต นักปีนเขา 'ถูก' ช่วยเหลือ จึงใช้ Past Simple Passive: was + V.3 (rescued)"
+      },
+      {
+        "question": "This medicine should not ______ by children without supervision.",
+        "options": [
+          "A. take",
+          "B. taken",
+          "C. be taking",
+          "D. be taken"
+        ],
+        "answer": "D",
+        "explanation": "หลัง modal verb 'should not' ในโครงสร้าง Passive ต้องตามด้วย be + V.3 ดังนั้น 'should not be taken' จึงถูกต้อง"
+      },
+      {
+        "question": "A new planet ______ by astronomers recently.",
+        "options": [
+          "A. was discovered",
+          "B. is discovered",
+          "C. has been discovered",
+          "D. discovered"
+        ],
+        "answer": "C",
+        "explanation": "คำว่า 'recently' (เมื่อไม่นานมานี้) มักใช้กับ Present Perfect Tense ดาวเคราะห์ดวงใหม่ 'ถูก' ค้นพบ จึงใช้ Present Perfect Passive: has + been + V.3 (discovered)"
+      },
+      {
+        "question": "The room ______ right now, so you can't go in.",
+        "options": [
+          "A. is cleaned",
+          "B. is being cleaned",
+          "C. has been cleaned",
+          "D. was cleaned"
+        ],
+        "answer": "B",
+        "explanation": "วลี 'right now' บ่งบอกว่ากำลังเกิดเหตุการณ์ขึ้นในขณะที่พูด ห้อง 'กำลังถูก' ทำความสะอาด จึงใช้ Present Continuous Passive: is + being + V.3 (cleaned)"
+      },
+      {
+        "question": "What ______ to prevent this from happening again?",
+        "options": [
+          "A. can do",
+          "B. can be done",
+          "C. has done",
+          "D. was doing"
+        ],
+        "answer": "B",
+        "explanation": "คำถามนี้ถามว่าอะไรที่ 'สามารถถูกทำ' ได้ เพื่อป้องกันไม่ให้เกิดซ้ำ เป็นการใช้ Passive Voice กับ modal verb 'can': can + be + V.3 (done)"
+      },
+      {
+        "question": "She was upset because she ______ about the changes in the schedule.",
+        "options": [
+          "A. didn't tell",
+          "B. hasn't been told",
+          "C. hadn't been told",
+          "D. wasn't telling"
+        ],
+        "answer": "C",
+        "explanation": "เธออารมณ์เสีย (past) เพราะเธอ 'ไม่เคยถูกบอก' มาก่อน (past perfect) เกี่ยวกับการเปลี่ยนแปลง เป็นเหตุการณ์ที่เกิดขึ้นก่อนอีกเหตุการณ์ในอดีต จึงใช้ Past Perfect Passive: had not been + V.3 (told)"
+      },
+      {
+        "question": "The results of the survey ______ in next month's journal.",
+        "options": [
+          "A. will publish",
+          "B. are going to publish",
+          "C. will be published",
+          "D. have been published"
+        ],
+        "answer": "C",
+        "explanation": "คำว่า 'next month' บอกถึงอนาคต ผลสำรวจ 'จะถูก' ตีพิมพ์ จึงใช้ Future Simple Passive: will + be + V.3 (published)"
+      },
+      {
+        "question": "The Great Wall of China can ______ from space, but it's a myth.",
+        "options": [
+          "A. see",
+          "B. be seen",
+          "C. seeing",
+          "D. have seen"
+        ],
+        "answer": "B",
+        "explanation": "หลัง modal verb 'can' ในโครงสร้าง Passive ต้องตามด้วย be + V.3 (be seen) หมายถึง 'สามารถถูกมองเห็นได้'"
+      },
+      {
+        "question": "The stolen painting ______ yet.",
+        "options": [
+          "A. hasn't found",
+          "B. isn't found",
+          "C. wasn't found",
+          "D. hasn't been found"
+        ],
+        "answer": "D",
+        "explanation": "คำว่า 'yet' (ยัง) มักใช้กับ Perfect Tense ในประโยคปฏิเสธ ภาพวาด 'ยังไม่ถูก' ค้นพบ จึงใช้ Present Perfect Passive: has not been + V.3 (found)"
+      },
+      {
+        "question": "Don't touch the wall. It ______ just ______.",
+        "options": [
+          "A. has / painted",
+          "B. has been / painted",
+          "C. was / painted",
+          "D. is / painting"
+        ],
+        "answer": "B",
+        "explanation": "คำว่า 'just' บอกว่าเพิ่งทำเสร็จใหม่ๆ และส่งผลถึงปัจจุบัน (สียังไม่แห้ง) ผนัง 'เพิ่งจะถูก' ทาสี จึงใช้ Present Perfect Passive: has been + V.3 (painted)"
+      },
+      {
+        "question": "When ______ the telephone ______?",
+        "options": [
+          "A. was / invented",
+          "B. did / invent",
+          "C. has / invented",
+          "D. is / invented"
+        ],
+        "answer": "A",
+        "explanation": "คำถามนี้ถามถึงสิ่งประดิษฐ์ในอดีตที่จบไปแล้ว โทรศัพท์ 'ถูก' ประดิษฐ์ขึ้นเมื่อไหร่ จึงใช้ Past Simple Passive: Was + S + V.3"
+      },
+      {
+        "question": "All the work ______ by 5 PM yesterday.",
+        "options": [
+          "A. was completed",
+          "B. had completed",
+          "C. had been completed",
+          "D. has been completed"
+        ],
+        "answer": "C",
+        "explanation": "วลี 'by 5 PM yesterday' บอกถึงจุดเวลาในอดีตที่การกระทำเสร็จสิ้นสมบูรณ์ก่อนหน้านั้น งาน 'ได้ถูก' ทำให้เสร็จ จึงใช้ Past Perfect Passive: had been + V.3 (completed)"
+      },
+      {
+        "question": "The author ______ a prestigious award for his latest novel.",
+        "options": [
+          "A. was given",
+          "B. gave",
+          "C. has given",
+          "D. had been given"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้มีกรรมสองตัวคือ 'a prestigious award' และ 'the author' สามารถเขียนได้สองแบบคือ The award was given to the author. หรือ The author was given an award. ในที่นี้ผู้เขียน 'ได้รับ' รางวัล (เป็นผู้ถูกกระทำ) จึงใช้ Past Simple Passive"
+      },
+      {
+        "question": "The system ______ for any errors before it is launched.",
+        "options": [
+          "A. must check",
+          "B. must be checking",
+          "C. must have checked",
+          "D. must be checked"
+        ],
+        "answer": "D",
+        "explanation": "หลัง modal verb 'must' ในโครงสร้าง Passive ต้องตามด้วย be + V.3 ระบบ 'ต้องถูก' ตรวจสอบ จึงใช้ must be checked"
+      },
+      {
+        "question": "He is believed ______ one of the wealthiest people in the country.",
+        "options": [
+          "A. is",
+          "B. to be",
+          "C. being",
+          "D. has been"
+        ],
+        "answer": "B",
+        "explanation": "เป็นโครงสร้าง Passive ที่ซับซ้อนขึ้น: S + is/are believed + to-infinitive. 'He is believed to be...' หมายถึง 'เชื่อกันว่าเขาเป็น...'"
+      },
+      {
+        "question": "I remember ______ to the zoo by my parents when I was a child.",
+        "options": [
+          "A. taking",
+          "B. to be taken",
+          "C. being taken",
+          "D. having taken"
+        ],
+        "answer": "C",
+        "explanation": "หลังกริยา 'remember' เมื่อพูดถึงความทรงจำในอดีต จะตามด้วย gerund (V-ing). ในรูป Passive คือ 'being + V.3'. ฉันจำได้ว่า 'ถูก' พาไปสวนสัตว์"
+      },
+      {
+        "question": "This type of problem is often ______ by inexperienced users.",
+        "options": [
+          "A. encountered",
+          "B. encountering",
+          "C. encounters",
+          "D. is encountered"
+        ],
+        "answer": "A",
+        "explanation": "โครงสร้างคือ is + V.3 (Past Participle) ในที่นี้คือ 'is often encountered'. กริยา V.3 ของ encounter คือ encountered"
+      }
+    ]
+  }
+]

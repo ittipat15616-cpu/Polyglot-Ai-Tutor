@@ -1,0 +1,978 @@
+[
+  {
+    "id": "35_1",
+    "title": "35.1 Past condition / Present result (Type 3 + Type 2)",
+    "explanation": "Mixed Conditionals คือประโยคเงื่อนไขแบบผสม ที่นำโครงสร้างของ Conditional Sentence สองชนิดมารวมกันเพื่อสื่อความหมายที่ซับซ้อนยิ่งขึ้น โดยเฉพาะการเชื่อมโยงเหตุการณ์ในเวลาที่แตกต่างกัน\n\nสำหรับรูปแบบ 'Past condition / Present result' นี้ คือการผสมผสานระหว่าง 'Type 3' (ในส่วนของ if-clause) และ 'Type 2' (ในส่วนของ main clause) เพื่อพูดถึง 'เงื่อนไขที่เป็นไปไม่ได้ในอดีต' ซึ่งส่งผลลัพธ์มาถึง 'สถานการณ์ที่ไม่เป็นจริงในปัจจุบัน'\n\n**แก่นของมันคือ:** 'ถ้าตอนนั้น...ทำอย่างนั้นไปแล้ว ป่านนี้...ก็คงจะ...' นั่นคือการจินตนาการถึงอดีตที่ไม่ได้เกิดขึ้น (unreal past) และผลลัพธ์ของมันที่ส่งผลต่อปัจจุบันที่ไม่เป็นจริง (unreal present)\n\n**โครงสร้างหลัก:**\n`If + Past Perfect (had + V3), ... would/could/might + base form of verb (V1)`\n\n*   **If-clause (ส่วนเงื่อนไข):** `If + S + had + V3`\n    ส่วนนี้จะเหมือนกับ Type 3 ทุกประการ คือพูดถึงเงื่อนไขในอดีตที่ตรงข้ามกับความจริง เช่น \"If I had studied harder...\" (ความจริงคือ 'ตอนนั้น' ไม่ได้ตั้งใจเรียน)\n\n*   **Main clause (ส่วนผลลัพธ์):** `S + would/could/might + V1`\n    ส่วนนี้จะเหมือนกับ Type 2 คือพูดถึงผลลัพธ์ในปัจจุบันที่ไม่เป็นจริง เช่น \"...I would be a doctor now.\" (ความจริงคือ 'ตอนนี้' ไม่ได้เป็นหมอ)\n\n**การเลือกใช้ would, could, might:**\n*   `would`: ใช้แสดงผลลัพธ์ที่ค่อนข้างแน่นอนในจินตนาการ (certain result)\n*   `could`: ใช้แสดงผลลัพธ์ที่เป็นไปได้ หรือแสดงความสามารถในปัจจุบัน (possibility/ability)\n*   `might`: ใช้แสดงผลลัพธ์ที่มีความเป็นไปได้น้อยกว่า `could` (slight possibility)\n\n**จุดเด่นที่ต้องจำ:** ประโยคชนิดนี้เชื่อม 'อดีต' กับ 'ปัจจุบัน' เข้าด้วยกันอย่างชัดเจน มักจะมีคำบอกเวลา เช่น `now`, `today`, `at this moment` ในส่วนของ main clause เพื่อเน้นย้ำว่าเป็นผลลัพธ์ในปัจจุบัน แต่ถึงไม่มีคำเหล่านี้ บริบทก็จะช่วยชี้ชัดได้เอง\n\n**Advanced Variation (Inversion):**\nในระดับสูง เราสามารถละ 'If' แล้วสลับตำแหน่ง 'Had' มาไว้ข้างหน้าเพื่อความเป็นทางการหรือเน้นย้ำมากขึ้น\n*   `If I had known...` จะกลายเป็น `Had I known...`\n*   `If she had not accepted...` จะกลายเป็น `Had she not accepted...`\nความหมายยังคงเดิมทุกประการ",
+    "examples": [
+      {
+        "eng": "If she had pursued her doctorate in astrophysics, she would now be a leading researcher at CERN instead of working in finance.",
+        "thai": "ถ้าเธอเรียนต่อปริญญาเอกด้านฟิสิกส์ดาราศาสตร์ (ในอดีต) ตอนนี้เธอก็คงเป็นนักวิจัยชั้นแนวหน้าที่ CERN ไปแล้ว แทนที่จะทำงานด้านการเงิน\n*   **If-clause (Past):** `had pursued` - พูดถึงการตัดสินใจในอดีตที่ไม่ได้เกิดขึ้นจริง\n*   **Main clause (Present):** `would now be` - พูดถึงสถานะอาชีพในปัจจุบันที่ไม่เป็นจริง อันเป็นผลมาจากการตัดสินใจในอดีตนั้น"
+      },
+      {
+        "eng": "Had I not invested in that fledgling tech startup a decade ago, I wouldn't be enjoying such financial autonomy today.",
+        "thai": "หากผมไม่ได้ลงทุนในบริษัทสตาร์ทอัพด้านเทคโนโลยีที่เพิ่งตั้งไข่บริษัทนั้นเมื่อสิบปีก่อน วันนี้ผมก็คงไม่สุขสบายมีอิสระทางการเงินเช่นนี้\n*   **โครงสร้าง:** ประโยคนี้ใช้ Inversion โดยตัด 'If' ออกไป แล้วนำ `Had` ขึ้นต้นประโยค (`Had I not invested...`)\n*   **If-clause (Past):** `Had I not invested` - การกระทำในอดีตที่ตรงข้ามความจริง (ความจริงคือ 'ได้ลงทุนไป')\n*   **Main clause (Present):** `wouldn't be enjoying` - ผลลัพธ์ในปัจจุบันที่ตรงข้ามความจริง (ความจริงคือ 'กำลังมีความสุขสบาย')"
+      },
+      {
+        "eng": "If the ancient cartographers had possessed more accurate navigational tools, our fundamental understanding of early world geography might be completely different.",
+        "thai": "ถ้านักทำแผนที่ในสมัยโบราณมีเครื่องมือนำทางที่แม่นยำกว่านี้ ความเข้าใจพื้นฐานของเราเกี่ยวกับภูมิศาสตร์โลกยุคแรกเริ่มก็อาจจะแตกต่างไปจากนี้โดยสิ้นเชิง\n*   **If-clause (Past):** `had possessed` - การมีอยู่ของสิ่งของในอดีตที่ไม่เป็นจริง\n*   **Main clause (Present):** `might be` - แสดงถึงผลลัพธ์ในปัจจุบันที่มีความเป็นไปได้ (possibility) ไม่ใช่ข้อสรุปที่แน่นอนเหมือน `would`"
+      },
+      {
+        "eng": "We could be living in a much more sustainable society if previous generations had heeded the early warnings about environmental degradation.",
+        "thai": "เราอาจจะได้อยู่ในสังคมที่ยั่งยืนกว่านี้มาก หากคนรุ่นก่อนๆ ใส่ใจคำเตือนในช่วงแรกๆ เกี่ยวกับความเสื่อมโทรมของสิ่งแวดล้อม\n*   **โครงสร้าง:** สลับ Main clause ขึ้นก่อน If-clause\n*   **Main clause (Present):** `could be living` - ความเป็นไปได้ของสภาพสังคมในปัจจุบัน\n*   **If-clause (Past):** `had heeded` - การกระทำ (การใส่ใจ) ในอดีตที่ไม่ได้เกิดขึ้น"
+      }
+    ],
+    "common_mistakes": "**1. ใช้ Tense ใน Main Clause ผิด:** นี่คือข้อผิดพลาดที่พบบ่อยที่สุด คนไทยมักจะเผลอใช้โครงสร้างของ Type 3 ทั้งประโยค (would have + V3) ทั้งๆ ที่ผลลัพธ์อยู่ในปัจจุบัน\n*   **ผิด:** If I had taken your advice, I *would have been* rich now.\n*   **ถูก:** If I had taken your advice, I *would be* rich now.\n(ถ้าฉันทำตามคำแนะนำของเธอ 'ตอนนั้น' ป่าน'นี้' ฉันก็รวยไปแล้ว)\n\n**2. ใช้ Tense ใน If-Clause ผิด:** สับสนระหว่างเงื่อนไขในอดีต (Past Perfect) กับเงื่อนไขในปัจจุบัน (Simple Past)\n*   **ผิด:** If I *studied* harder in university, I would have a better job now.\n*   **ถูก:** If I *had studied* harder in university, I would have a better job now.\n(ต้องใช้ `had studied` เพื่ออ้างถึงการกระทำในอดีตที่จบไปแล้วและไม่เป็นจริง)\n\n**3. ไม่เข้าใจความเชื่อมโยงของเวลา:** ไม่ตระหนักว่าประโยคกำลังพูดถึง 'อดีต' ที่ส่งผลต่อ 'ปัจจุบัน' ทำให้เลือกใช้โครงสร้างผิดไปจาก Type 2 หรือ Type 3 แบบปกติ ต้องสังเกตคำบอกเวลา เช่น `now`, `today` หรือบริบทโดยรวมให้ดี",
+    "practice_questions": [
+      {
+        "question": "If the government ______ more stringent environmental regulations decades ago, our capital's air quality ______ so perilous today.",
+        "options": [
+          "A. had implemented / wouldn't have been",
+          "B. implemented / wouldn't be",
+          "C. had implemented / wouldn't be",
+          "D. had implemented / wouldn't have to be"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้ต้องการเงื่อนไขในอดีต (decades ago) ที่ส่งผลถึงปัจจุบัน (today) ดังนั้น If-clause ต้องเป็น Past Perfect (had implemented) และ Main clause ต้องเป็น would + V1 (wouldn't be) โครงสร้างที่ถูกต้องคือ Type 3 + Type 2 ข้อ A ผิดเพราะ Main clause เป็นของ Type 3 (Past result) ข้อ B ผิดเพราะ If-clause เป็นของ Type 2 (Present condition) ข้อ D ผิดโครงสร้าง"
+      },
+      {
+        "question": "He ______ a much more cosmopolitan individual now if he ______ the opportunity to study abroad during his formative years.",
+        "options": [
+          "A. would be / had seized",
+          "B. would have been / had seized",
+          "C. would be / seized",
+          "D. was / would have seized"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้สลับ Main clause มาไว้ข้างหน้า ผลลัพธ์อยู่ในปัจจุบัน (now) จึงต้องใช้ `would be` เงื่อนไขอยู่ในอดีต (during his formative years) จึงต้องใช้ Past Perfect `had seized` ข้อ B ผิดเพราะ `would have been` ใช้กับผลลัพธ์ในอดีต ข้อ C ผิดเพราะ `seized` (Simple Past) ใช้กับเงื่อนไขในปัจจุบัน/อนาคต"
+      },
+      {
+        "question": "Had the company not been so myopic in its R&D strategy, it ______ its dominant market position at this moment.",
+        "options": [
+          "A. might not have lost",
+          "B. might not be losing",
+          "C. would not lose",
+          "D. wouldn't lost"
+        ],
+        "answer": "B",
+        "explanation": "`Had the company not been...` เป็น If-clause แบบ Inversion ในรูป Past Perfect แสดงเงื่อนไขในอดีต ผลลัพธ์คือ `at this moment` (ปัจจุบัน) ดังนั้น Main clause ต้องเป็น `modal + be + V-ing` เพื่อเน้นว่ากำลังเกิดขึ้นอยู่ตอนนี้ `might not be losing` (อาจจะไม่กำลังสูญเสีย) สื่อความหมายได้ดีที่สุด ข้อ A `might not have lost` เป็นผลลัพธ์ในอดีต (Type 3) ข้อ C `would not lose` ถูกไวยากรณ์แต่ B สื่อความต่อเนื่องในปัจจุบันได้ดีกว่า ข้อ D ผิดไวยากรณ์"
+      },
+      {
+        "question": "If the ancient library of Alexandria ______ to survive, the trajectory of Western civilization ______ profoundly different today.",
+        "options": [
+          "A. had managed / could be",
+          "B. managed / could have been",
+          "C. had managed / could have been",
+          "D. was managing / would be"
+        ],
+        "answer": "A",
+        "explanation": "เงื่อนไขคือเรื่องราวในอดีตที่ไกลโพ้น (ancient library) จึงต้องใช้ Past Perfect `had managed` ผลลัพธ์คือ `today` (ปัจจุบัน) จึงต้องใช้ `could be` เพื่อแสดงความเป็นไปได้ในปัจจุบัน ข้อ C ผิดเพราะ `could have been` เป็นผลลัพธ์ในอดีต (Type 3)"
+      },
+      {
+        "question": "You ______ such debilitating chronic pain now if you ______ the physiotherapist's advice after the accident.",
+        "options": [
+          "A. wouldn't be experiencing / had heeded",
+          "B. wouldn't have experienced / had heeded",
+          "C. wouldn't experience / heeded",
+          "D. didn't experience / would have heeded"
+        ],
+        "answer": "A",
+        "explanation": "Main clause มีคำว่า `now` และใช้ `be experiencing` เพื่อเน้นความต่อเนื่องในปัจจุบัน ส่วน If-clause พูดถึงอุบัติเหตุในอดีต (after the accident) จึงต้องใช้ Past Perfect `had heeded` (ใส่ใจ/ทำตาม) ดังนั้น A คือคำตอบที่ถูกต้องที่สุด ข้อ B เป็น Type 3 เต็มรูปแบบ (Past result) ข้อ C เป็น Type 2 เต็มรูปแบบ (Present condition)"
+      },
+      {
+        "question": "If the negotiators ______ a more conciliatory approach during the initial talks, this political impasse ______ so intractable now.",
+        "options": [
+          "A. had adopted / might not have been",
+          "B. adopted / might not be",
+          "C. had adopted / might not be",
+          "D. would have adopted / weren't"
+        ],
+        "answer": "C",
+        "explanation": "เงื่อนไขคือการเจรจาในอดีต (`during the initial talks`) จึงต้องใช้ `had adopted` ผลลัพธ์คือสภาวะในปัจจุบัน (`now`) จึงต้องใช้ `might not be` (อาจจะไม่ยากที่จะแก้ไขขนาดนี้) เพื่อแสดงความเป็นไปได้ในปัจจุบัน ข้อ A ผิดเพราะเป็นผลลัพธ์ในอดีต ข้อ B ผิดเพราะเป็นเงื่อนไขในปัจจุบัน"
+      },
+      {
+        "question": "______ his inheritance so frivolously in his youth, he wouldn't be in such a precarious financial situation today.",
+        "options": [
+          "A. If he didn't squander",
+          "B. Had he not squandered",
+          "C. If he hasn't squandered",
+          "D. If he wasn't squandering"
+        ],
+        "answer": "B",
+        "explanation": "Main clause `...he wouldn't be...today` เป็นผลลัพธ์ในปัจจุบันที่เกิดจากเงื่อนไขในอดีต (`in his youth`) เราจึงต้องการ If-clause ที่เป็น Past Perfect (`If he had not squandered`) ข้อ B `Had he not squandered` คือรูปแบบ Inversion ของ Past Perfect ซึ่งถูกต้องและมีความเป็นทางการสูง เหมาะกับระดับ C1-C2"
+      },
+      {
+        "question": "The biodiversity in this region ______ so fragile if the indigenous farming techniques ______ generations ago.",
+        "options": [
+          "A. wouldn't be / hadn't been abandoned",
+          "B. wouldn't have been / hadn't been abandoned",
+          "C. isn't / weren't abandoned",
+          "D. wouldn't be / weren't abandoned"
+        ],
+        "answer": "A",
+        "explanation": "ผลลัพธ์คือสภาพความเปราะบางในปัจจุบัน (`wouldn't be`) ส่วนเงื่อนไขคือการที่เทคนิคถูกทอดทิ้งไปในอดีต (`generations ago`) ซึ่งต้องใช้ Past Perfect Passive Voice (`hadn't been abandoned`) ข้อ B คือ Type 3 สมบูรณ์แบบ (ผลลัพธ์ในอดีต) ส่วนข้อ D ใช้ Tense ใน If-clause ผิด"
+      },
+      {
+        "question": "If I ______ more attention to the subtle nuances of her message back then, I ______ the underlying tension in our relationship now.",
+        "options": [
+          "A. paid / would have understood",
+          "B. had paid / would understand",
+          "C. had paid / would have understood",
+          "D. have paid / would understand"
+        ],
+        "answer": "B",
+        "explanation": "คำว่า `back then` ชี้ชัดว่าเป็นเงื่อนไขในอดีต จึงต้องใช้ `had paid` คำว่า `now` ชี้ชัดว่าเป็นผลลัพธ์ในปัจจุบัน จึงต้องใช้ `would understand` นี่คือโครงสร้าง Mixed Conditional ที่สมบูรณ์แบบ ข้อ C ผิดเพราะเป็น Type 3 (Past result) ข้อ A และ D ใช้ Tense ใน If-clause ผิด"
+      },
+      {
+        "question": "This antiquated software ______ such a liability for our operations if the previous CIO ______ the foresight to invest in modernization five years ago.",
+        "options": [
+          "A. wouldn't have been / had had",
+          "B. wasn't / had",
+          "C. wouldn't be / had had",
+          "D. wouldn't be / has had"
+        ],
+        "answer": "C",
+        "explanation": "ผลลัพธ์คือสถานะของซอฟต์แวร์ในปัจจุบัน (`wouldn't be`) ส่วนเงื่อนไขคือการมีวิสัยทัศน์ในอดีต (`five years ago`) ซึ่งต้องใช้ Past Perfect ของ verb 'to have' นั่นคือ `had had` ดังนั้นข้อ C คือคำตอบที่ถูกต้อง การใช้ `had had` ติดกันนั้นถูกต้องตามไวยากรณ์ (had ตัวแรกเป็น auxiliary, had ตัวที่สองเป็น V3 ของ have)"
+      }
+    ]
+  },
+  {
+    "id": "35_2",
+    "title": "35.2 Present condition / Past result (Type 2 + Type 3)",
+    "explanation": "Mixed Conditionals แบบที่สองนี้เป็นการผสมผสานระหว่าง 'เงื่อนไขที่ไม่เป็นจริงในปัจจุบัน' (โครงสร้างแบบ Type 2) กับ 'ผลลัพธ์ที่ไม่เป็นจริงในอดีต' (โครงสร้างแบบ Type 3) เพื่อแสดงให้เห็นว่า 'คุณสมบัติ, นิสัย, หรือสถานการณ์ทั่วไปที่เป็นอยู่ในปัจจุบัน' (ซึ่งตรงข้ามกับความจริง) ได้ส่งผลกระทบต่อ 'เหตุการณ์ในอดีต' และทำให้ผลลัพธ์ในอดีตนั้นเปลี่ยนไปอย่างไร\n\n**แก่นของมันคือ:** สภาพในปัจจุบัน (unreal present) ที่ส่งผลย้อนกลับไปเปลี่ยนอดีต (unreal past)\n\n**โครงสร้าง:**\n*   **If-clause (เงื่อนไข):** `If + Subject + Past Simple / Past Subjunctive (were)`\n    *   ส่วนนี้คือโครงสร้างของ Type 2 ที่ใช้อธิบายเงื่อนไขที่ 'ตรงข้ามกับความจริงในปัจจุบัน' เช่น ถ้าฉันเป็น... (แต่ตอนนี้ฉันไม่ได้เป็น), ถ้าฉันรู้... (แต่ตอนนี้ฉันไม่รู้)\n*   **Main-clause (ผลลัพธ์):** `Subject + would/could/might + have + Past Participle (V3)`\n    *   ส่วนนี้คือโครงสร้างของ Type 3 ที่ใช้อธิบายผลลัพธ์ที่ 'ไม่เกิดขึ้นจริงในอดีต' เพราะเงื่อนไขนั้นไม่เป็นจริง\n\n**วิธีคิดง่ายๆ:** ลองนึกถึงสถานการณ์ที่นิสัยหรือความสามารถของคุณ 'ในตอนนี้' เป็นตัวกำหนดผลของการกระทำ 'ในอดีต' ตัวอย่างเช่น 'ถ้าฉันเป็นคนรอบคอบกว่านี้ (นิสัยปัจจุบัน), ฉันคงไม่ทำผิดพลาดครั้งใหญ่ไปเมื่อวานนี้ (เหตุการณ์ในอดีต)' นิสัย 'ความรอบคอบ' เป็นสิ่งที่ติดตัวเรามาจนถึงปัจจุบัน แต่เรากำลังพูดถึงผลของมันที่เกิดขึ้นไปแล้วในอดีต\n\nความแตกต่างสำคัญที่ต้องจำคือ Time Frame ของแต่ละ Clause:\n*   **If-clause:** พูดถึง 'Now' หรือ 'In general' (ปัจจุบัน, สภาพทั่วไป)\n*   **Main-clause:** พูดถึง 'Past' (อดีต เช่น yesterday, last week, in 2020)",
+    "examples": [
+      {
+        "eng": "If she were more politically astute, she wouldn't have made that calamitous gaffe during the press conference last week.",
+        "thai": "ถ้าเธอเป็นคนหลักแหลมทางการเมืองมากกว่านี้ (ซึ่งจริงๆ แล้วเธอไม่ใช่), เธอคงจะไม่พลั้งปากพูดอะไรที่ก่อให้เกิดหายนะครั้งใหญ่ระหว่างการแถลงข่าวเมื่อสัปดาห์ที่แล้ว\n\n*   **คำอธิบาย:** 'were more politically astute' คือการอธิบายคุณลักษณะของเธอในปัจจุบัน (unreal present condition) ว่าเธอไม่ใช่คนฉลาดทางการเมือง ส่วน 'wouldn't have made that... gaffe' คือผลลัพธ์ในอดีต (unreal past result) ที่ไม่ได้เกิดขึ้นจริง (ในความเป็นจริงคือเธอได้พูดผิดพลาดไปแล้ว) เพราะคุณลักษณะในปัจจุบันของเธอไม่ได้เป็นไปตามเงื่อนไข"
+      },
+      {
+        "eng": "If I possessed a fundamental understanding of astrophysics, I might have grasped the core argument of the documentary we watched yesterday.",
+        "thai": "ถ้าฉันมีความเข้าใจพื้นฐานเกี่ยวกับดาราศาสตร์ฟิสิกส์ (ซึ่งตอนนี้ฉันไม่มี), ฉันก็อาจจะเข้าใจแก่นของสารคดีที่เราดูกันเมื่อวานนี้ไปแล้ว\n\n*   **คำอธิบาย:** 'possessed a fundamental understanding' คือเงื่อนไขในปัจจุบันที่ตรงข้ามความจริง (ตอนนี้ไม่มีความเข้าใจ) ส่วน 'might have grasped' คือความเป็นไปได้ในอดีต (เมื่อวานนี้) ที่ไม่เกิดขึ้นจริง เพราะเงื่อนไขในปัจจุบันไม่เป็นจริง"
+      },
+      {
+        "eng": "The company could have avoided bankruptcy if its business model weren't so inherently flawed from the start.",
+        "thai": "บริษัทคงจะสามารถหลีกเลี่ยงการล้มละลายได้ ถ้าโมเดลธุรกิจของมันไม่มีข้อบกพร่องร้ายแรงโดยเนื้อแท้มาตั้งแต่ต้น (และยังคงเป็นอยู่)\n\n*   **คำอธิบาย:** ประโยคนี้มีการสลับ Clause โดยเอา Main-clause ขึ้นก่อน 'Its business model weren't so inherently flawed' หมายถึงสภาพของโมเดลธุรกิจที่บกพร่อง ซึ่งเป็นสภาพที่ยังคงอยู่ถึงปัจจุบัน (unreal present condition) ส่วน 'could have avoided bankruptcy' คือผลลัพธ์ในอดีตที่เป็นไปได้แต่ไม่เกิดขึ้นจริง"
+      }
+    ],
+    "common_mistakes": "1. **สับสนกับ Type 3 ล้วนๆ:** จุดที่พลาดบ่อยที่สุดคือการใช้ Past Perfect ใน If-clause โดยไม่จำเป็น เช่น พูดว่า 'If I *had been* more patient, I would have passed the exam.' ประโยคนี้ถูกต้องถ้าหมายความว่า 'ถ้าตอนนั้นฉันอดทนกว่านี้' แต่ถ้าความหมายที่ต้องการจะสื่อคือ 'ถ้าโดยนิสัยแล้วฉันเป็นคนอดทนกว่านี้ (ซึ่งนิสัยนี้ยังคงอยู่ถึงปัจจุบัน)' ประโยคที่ถูกต้องคือ 'If I *were* more patient, I would have passed the exam.' ต้องแยกให้ออกระหว่าง 'สภาพชั่วคราวในอดีต' (Type 3) กับ 'คุณลักษณะหรือสภาพถาวรในปัจจุบัน' (Mixed Type 2+3)\n\n2. **ใช้โครงสร้างผลลัพธ์ผิด:** เผลอใช้โครงสร้างผลลัพธ์ของ Type 2 (would + V1) มาแทน เช่น 'If he knew the answer, he *would tell* us yesterday.' ซึ่งผิดแกรมม่า เพราะ 'yesterday' บ่งบอกถึงอดีตอย่างชัดเจน ผลลัพธ์จึงต้องอยู่ในรูป 'would have told' เท่านั้น โครงสร้างที่ถูกต้องคือ: 'If he knew the answer (now), he *would have told* us yesterday.'\n\n3. **ไม่สังเกต Time Markers:** มองข้ามคำบอกเวลาที่ซ่อนอยู่ในประโยค ซึ่งเป็นกุญแจสำคัญในการแยกแยะ Mixed Conditionals คำอย่าง 'now', 'in general', 'always' มักจะชี้ไปที่เงื่อนไขแบบ Type 2 ในขณะที่คำอย่าง 'yesterday', 'last month', 'back then', 'during the event' จะชี้ไปที่ผลลัพธ์แบบ Type 3 การไม่ใส่ใจรายละเอียดเหล่านี้ทำให้เลือกใช้โครงสร้างผิด",
+    "practice_questions": [
+      {
+        "question": "If the prime minister ______ a more charismatic speaker, he ______ the public's support during last year's contentious election campaign.",
+        "options": [
+          "A. had been / would have secured",
+          "B. were / would have secured",
+          "C. were / would secure",
+          "D. is / would have secured"
+        ],
+        "answer": "B",
+        "explanation": "คำตอบที่ถูกต้องคือ B. 'were / would have secured' เนื่องจาก 'a more charismatic speaker' เป็นการอธิบายคุณลักษณะทั่วไปของนายกรัฐมนตรีในปัจจุบัน (unreal present condition - ใช้ 'were') ซึ่งส่งผลต่อเหตุการณ์ในอดีตคือ 'last year's election campaign' (unreal past result - ใช้ 'would have secured') ข้อ A ผิดเพราะ 'had been' จะหมายถึงถ้าเขาเป็นคนมีเสน่ห์แค่ในช่วงเวลานั้นๆ ไม่ใช่คุณลักษณะทั่วไป ข้อ C ผิดเพราะ 'would secure' เป็นผลลัพธ์ในปัจจุบัน/อนาคต (Type 2) ซึ่งขัดกับ 'last year's' ข้อ D ผิดเพราะ 'is' ใช้กับเงื่อนไขที่เป็นจริง (Type 1 or Zero)"
+      },
+      {
+        "question": "We ______ the negotiation successfully if our legal team ______ a deeper expertise in international patent law.",
+        "options": [
+          "A. could have concluded / possessed",
+          "B. could conclude / possessed",
+          "C. could have concluded / had possessed",
+          "D. concluded / possesses"
+        ],
+        "answer": "A",
+        "explanation": "คำตอบที่ถูกต้องคือ A. 'could have concluded / possessed' ประโยคนี้สลับ Main-clause มาไว้ข้างหน้า ผลลัพธ์ 'concluded the negotiation successfully' เป็นเหตุการณ์ในอดีต (unreal past - 'could have concluded') ส่วนเงื่อนไข 'deeper expertise' เป็นสภาพความรู้ความสามารถของทีมกฎหมายในปัจจุบัน (unreal present - 'possessed') ข้อ B ผิดที่ Main-clause ('could conclude') เป็นผลลัพธ์ของ Type 2 ข้อ C ผิดที่ If-clause ('had possessed') จะหมายถึงความเชี่ยวชาญที่มีแค่ในอดีต ซึ่งไม่สมเหตุสมผลกับบริบทของความเชี่ยวชาญ ข้อ D ผิดโครงสร้างไวยากรณ์"
+      },
+      {
+        "question": "If I ______ so averse to public speaking, I ______ the opportunity to present our findings at the international symposium last month.",
+        "options": [
+          "A. weren't / wouldn't have relinquished",
+          "B. hadn't been / wouldn't have relinquished",
+          "C. am not / wouldn't relinquish",
+          "D. weren't / wouldn't relinquish"
+        ],
+        "answer": "A",
+        "explanation": "คำตอบที่ถูกต้องคือ A. 'weren't / wouldn't have relinquished' 'averse to public speaking' คือนิสัยหรือลักษณะส่วนตัวที่เป็นอยู่จนถึงปัจจุบัน (unreal present - 'weren't') ส่วนผลลัพธ์คือการสละโอกาสในอดีต 'last month' (unreal past - 'wouldn't have relinquished') ข้อ B ผิดเพราะ 'hadn't been' จะหมายถึงความไม่ชอบการพูดในที่สาธารณะเป็นเรื่องที่เกิดขึ้นและจบไปแล้วในอดีตเท่านั้น ไม่ใช่ลักษณะนิสัย ข้อ D ผิดเพราะ Main-clause เป็นของ Type 2 ซึ่งขัดกับ 'last month'"
+      },
+      {
+        "question": "The catastrophic failure of the Mars rover ______ if its onboard software ______ less susceptible to cosmic radiation.",
+        "options": [
+          "A. might have been avoided / was",
+          "B. could be avoided / was",
+          "C. might have been avoided / were",
+          "D. would be avoided / had been"
+        ],
+        "answer": "C",
+        "explanation": "คำตอบที่ถูกต้องคือ C. 'might have been avoided / were' ผลลัพธ์ 'catastrophic failure' เป็นเหตุการณ์ในอดีต (unreal past - 'might have been avoided') ส่วนเงื่อนไข 'susceptible to cosmic radiation' คือคุณสมบัติของซอฟต์แวร์ที่เป็นอยู่โดยทั่วไป (unreal present - ใช้ 'were' ซึ่งเป็น subjunctive form ที่เหมาะสมกว่า 'was' ในบริบทที่เป็นทางการและสมมุติ) ข้อ A ใช้ 'was' ซึ่งก็พอรับได้ในภาษาพูด แต่ 'were' ถูกต้องกว่าตามหลักไวยากรณ์ ข้อ B และ D ใช้โครงสร้างผลลัพธ์และเงื่อนไขที่ผิดประเภท"
+      },
+      {
+        "question": "If this ancient artifact ______ genuinely from the pre-dynastic era, the museum ______ a fortune for it at the auction yesterday.",
+        "options": [
+          "A. had been / would have paid",
+          "B. were / would have paid",
+          "C. was / would pay",
+          "D. is / paid"
+        ],
+        "answer": "B",
+        "explanation": "คำตอบที่ถูกต้องคือ B. 'were / would have paid' เงื่อนไข 'genuinely from the pre-dynastic era' คือการตั้งสมมติฐานเกี่ยวกับสภาพ 'ความเป็นของจริง' ของวัตถุในปัจจุบัน (unreal present - 'were') ซึ่งจะส่งผลต่อการกระทำในอดีต 'at the auction yesterday' (unreal past - 'would have paid') ข้อ A ผิดเพราะ 'had been' ไม่เหมาะสมกับการอธิบายสภาพความเป็นจริงของวัตถุที่เป็นอยู่ ข้อ C ผิดที่ Main-clause"
+      },
+      {
+        "question": "If you ______ such an inveterate optimist, the constant setbacks last year ______ you far more.",
+        "options": [
+          "A. hadn't been / would have discouraged",
+          "B. weren't / would discourage",
+          "C. weren't / would have discouraged",
+          "D. aren't / would have discouraged"
+        ],
+        "answer": "C",
+        "explanation": "คำตอบที่ถูกต้องคือ C. 'weren't / would have discouraged' 'an inveterate optimist' คือนิสัยที่หยั่งรากลึกเป็นตัวตนในปัจจุบัน (unreal present - 'weren't') ส่วนผลลัพธ์ ('discouraged you') เกิดขึ้นในอดีต 'last year' (unreal past - 'would have discouraged') ข้อ A ผิดเพราะนิสัยการมองโลกในแง่ดีเป็นเรื่องต่อเนื่อง ไม่ใช่แค่เหตุการณ์ในอดีต ข้อ B ผิดที่ Main-clause เป็นโครงสร้างของ Type 2 ข้อ D ผิดที่ If-clause"
+      },
+      {
+        "question": "The espionage attempt ______ if the country's intelligence agency ______ more sophisticated surveillance technology.",
+        "options": [
+          "A. might have been thwarted / possessed",
+          "B. might be thwarted / possessed",
+          "C. could have been thwarted / had possessed",
+          "D. was thwarted / possesses"
+        ],
+        "answer": "A",
+        "explanation": "คำตอบที่ถูกต้องคือ A. 'might have been thwarted / possessed' ผลลัพธ์ 'espionage attempt' เป็นเหตุการณ์ในอดีต (unreal past - 'might have been thwarted') เงื่อนไขคือสถานะของเทคโนโลยีที่หน่วยข่าวกรองมีอยู่โดยทั่วไป (unreal present - 'possessed') ข้อ B ผิดที่ Main-clause ('might be thwarted') ข้อ C ผิดที่ If-clause ('had possessed') ซึ่งหมายความว่าถ้ามีเทคโนโลยีแค่ในอดีต ซึ่งไม่สมเหตุสมผล ข้อ D ผิดโครงสร้างไวยากรณ์"
+      },
+      {
+        "question": "If I ______ a better command of legalese, I ______ so many disadvantageous clauses in the contract I signed.",
+        "options": [
+          "A. had / wouldn't have overlooked",
+          "B. had had / wouldn't have overlooked",
+          "C. have / wouldn't overlook",
+          "D. had / wouldn't overlook"
+        ],
+        "answer": "A",
+        "explanation": "คำตอบที่ถูกต้องคือ A. 'had / wouldn't have overlooked' เงื่อนไข 'a better command of legalese' คือความสามารถในการเข้าใจภาษากฎหมายในปัจจุบัน (unreal present - 'had') ผลลัพธ์คือการมองข้ามข้อเสียเปรียบต่างๆ ในอดีตตอนที่เซ็นสัญญา (unreal past - 'wouldn't have overlooked') ข้อ B ผิดเพราะ 'had had' เป็น Past Perfect (Type 3) ซึ่งไม่ตรงกับบริบทของความสามารถในปัจจุบัน ข้อ D ผิดที่ Main-clause"
+      },
+      {
+        "question": "That startup ______ its initial funding round if its founder ______ such a compelling and visionary leader.",
+        "options": [
+          "A. would never have passed / hadn't been",
+          "B. would never pass / weren't",
+          "C. would never have passed / weren't",
+          "D. had never passed / weren't"
+        ],
+        "answer": "C",
+        "explanation": "คำตอบที่ถูกต้องคือ C. 'would never have passed / weren't' ผลลัพธ์คือ 'passing its initial funding round' ซึ่งเป็นเหตุการณ์ในอดีต (unreal past - 'would never have passed') เงื่อนไขคือคุณลักษณะความเป็นผู้นำของผู้ก่อตั้งซึ่งเป็นสิ่งที่ติดตัวมาถึงปัจจุบัน (unreal present - 'weren't') ข้อ A ผิดที่ If-clause ซึ่งใช้ Past Perfect โดยไม่จำเป็น ข้อ B ผิดที่ Main-clause เป็นโครงสร้างของ Type 2 ข้อ D ผิดไวยากรณ์ใน Main-clause"
+      },
+      {
+        "question": "If the global supply chain ______ so interconnected, the localized factory shutdown last quarter ______ such widespread economic repercussions.",
+        "options": [
+          "A. weren't / wouldn't have caused",
+          "B. hadn't been / wouldn't have caused",
+          "C. isn't / wouldn't cause",
+          "D. weren't / wouldn't cause"
+        ],
+        "answer": "A",
+        "explanation": "คำตอบที่ถูกต้องคือ A. 'weren't / wouldn't have caused' เงื่อนไข 'so interconnected' คือสภาพของห่วงโซ่อุปทานโลกที่เป็นอยู่ในปัจจุบัน (unreal present - 'weren't') ผลลัพธ์คือผลกระทบทางเศรษฐกิจที่เกิดขึ้นไปแล้วในอดีต 'last quarter' (unreal past - 'wouldn't have caused') ข้อ B ผิดเพราะสภาพความเชื่อมโยงของ Supply Chain เป็นเรื่องต่อเนื่อง ไม่ใช่แค่เรื่องในอดีต ข้อ D ผิดที่ Main-clause เป็นของ Type 2"
+      }
+    ]
+  },
+  {
+    "id": "35_3",
+    "title": "35.3 Conditionals without \"If\" (Unless, Provided that, As long as)",
+    "explanation": "ในระดับสูง การใช้ประโยคเงื่อนไขไม่ได้จำกัดอยู่แค่ 'If' เท่านั้น เรามีคำเชื่อม (conjunctions) อื่นๆ ที่ทำให้ความหมายเฉพาะเจาะจงและเป็นทางการมากขึ้น คำเหล่านี้ช่วยเพิ่มความซับซ้อนและความแม่นยำในการสื่อสาร ซึ่งเป็นหัวใจของระดับ C1-C2\n\n1. **Unless (เว้นแต่, ตราบใดที่...ไม่)**\n   - **แก่นแท้:** `Unless` มีความหมายเท่ากับ `if...not` ใช้เพื่อระบุ 'ข้อยกเว้นเพียงอย่างเดียว' ที่จะทำให้ผลลัพธ์ใน main clause ไม่เกิดขึ้น มันเป็นการบอกว่า 'เหตุการณ์ A จะเกิดขึ้น เว้นแต่ว่าเหตุการณ์ B จะมาขัดขวาง'\n   - **การใช้งานเชิงลึก:** While `if...not` simply states a negative condition, `Unless` places a stronger emphasis on the exception. It highlights that the main clause's action is the default or expected outcome, and the 'unless' clause is the sole factor that could change it.\n   - **โครงสร้าง:** เหมือนประโยคเงื่อนไขทั่วไป (Type 1, 2, 3) แต่ clause ที่ตามหลัง `Unless` จะเป็นประโยคบอกเล่าเสมอ เพราะความหมายปฏิเสธอยู่ในตัว `Unless` แล้ว\n     - Type 1: Unless you submit the report by Friday, you won't receive the bonus. (ถ้าคุณไม่ส่งรายงานภายในวันศุกร์...)\n     - Type 2: I wouldn't have bought this dilapidated mansion unless I believed it had hidden potential. (ฉันคงไม่ซื้อคฤหาสน์เก่าซอมซ่อนี้ ถ้าฉันไม่เชื่อว่ามันมีศักยภาพซ่อนอยู่)\n\n2. **Provided that / Providing that (ต่อเมื่อ, โดยมีเงื่อนไขว่า)**\n   - **แก่นแท้:** คำนี้มีความเป็นทางการสูงกว่า `if` มาก ใช้เพื่อกำหนดเงื่อนไขที่ 'ต้อง' เกิดขึ้นก่อน ผลลัพธ์ใน main clause จึงจะตามมา มันเน้นย้ำถึง 'เงื่อนไขที่จำเป็นและขาดไม่ได้' (a prerequisite or stipulation) มักใช้ในบริบททางกฎหมาย ธุรกิจ หรือการเจรจาต่อรอง\n   - **ความแตกต่าง:** `Provided that` เป็นทางการกว่า `Providing that` เล็กน้อย แต่ใช้แทนกันได้\n   - **การใช้งานเชิงลึก:** It implies a stronger sense of control or demand from the speaker. The condition is presented as a non-negotiable term of an agreement. It's less about a hypothetical situation and more about a concrete requirement.\n   - **โครงสร้าง:** Provided that + Present Simple, ... Future Simple/modal verb. (เช่นเดียวกับ Type 1)\n     - We will sign the contract, provided that you guarantee exclusive distribution rights.\n\n3. **As long as / So long as (ตราบใดที่, ตราบเท่าที่)**\n   - **แก่นแท้:** ใช้เพื่อกำหนดเงื่อนไขที่ต้องเป็นจริง 'ตลอดช่วงเวลา' ที่ main clause เกิดขึ้น มันเน้นความต่อเนื่องของสภาวะหรือการกระทำ\n   - **ความแตกต่าง:** `So long as` จะมีความเน้นย้ำ (emphatic) และเป็นทางการกว่า `As long as` เล็กน้อย\n   - **การใช้งานเชิงลึก:** Unlike `if` or `provided that`, which can refer to a single action, `as long as` emphasizes duration. The condition must be maintained for the result to continue. It sets a boundary for the main clause's validity.\n   - **โครงสร้าง:** As long as + Present Simple, ... Future Simple/modal verb.\n     - As long as the public remains vigilant, the government cannot enact such draconian laws.",
+    "examples": [
+      {
+        "eng": "The delicate ecosystem will irrevocably collapse unless drastic conservation measures are implemented with immediate effect.",
+        "thai": "ระบบนิเวศอันเปราะบางนี้จะล่มสลายอย่างถาวร 'เว้นแต่ว่า' จะมีการใช้มาตรการอนุรักษ์ที่จริงจังอย่างมีผลทันที \n- คำอธิบาย: ประโยคนี้ใช้ 'unless' เพื่อเน้นว่าการล่มสลายเป็นสิ่งที่ 'จะเกิดขึ้นแน่นอน' และมี 'หนทางรอดเพียงทางเดียว' คือมาตรการอนุรักษ์ที่เข้มข้น การใช้ unless ทำให้สถานการณ์ดูเร่งด่วนและน่ากังวลกว่าการใช้ 'if...not'"
+      },
+      {
+        "eng": "The dissident will be granted political asylum, provided that he discloses all pertinent intelligence regarding the rogue state's clandestine operations.",
+        "thai": "ผู้เห็นต่างทางการเมืองจะได้รับสถานะผู้ลี้ภัย 'โดยมีเงื่อนไขว่า' เขาต้องเปิดเผยข้อมูลข่าวกรองที่เกี่ยวข้องทั้งหมดเกี่ยวกับการปฏิบัติการลับของรัฐอันธพาลนั้น\n- คำอธิบาย: 'provided that' ถูกใช้ในบริบทที่เป็นทางการ (การให้สถานะผู้ลี้ภัย) เพื่อกำหนดเงื่อนไขที่ 'ต้องปฏิบัติ' อย่างชัดเจน ไม่ใช่แค่สมมติฐาน แต่เป็นข้อตกลงที่ต้องแลกเปลี่ยน"
+      },
+      {
+        "eng": "As long as the company maintains its ethical sourcing policy, it can retain its coveted B-Corp certification.",
+        "thai": "'ตราบใดที่' บริษัทยังคงรักษานโยบายการจัดหาวัตถุดิบอย่างมีจริยธรรมไว้ได้ บริษัทก็จะสามารถรักษาสถานะการรับรอง B-Corp ที่เป็นที่ปรารถนาไว้ได้\n- คำอธิบาย: 'as long as' เน้นย้ำว่าเงื่อนไข (การรักษานโยบาย) ต้องดำเนินไป 'อย่างต่อเนื่อง' ตลอดเวลา เพื่อให้ผลลัพธ์ (การรักษาสถานะ) ยังคงอยู่ หากนโยบายนี้หยุดไปเมื่อไหร่ สถานะก็จะถูกถอนคืนทันที"
+      },
+      {
+        "eng": "Further investment is contingent upon a successful prototype, so unless your team can produce a compelling proof-of-concept, all funding will be unequivocally withdrawn.",
+        "thai": "การลงทุนเพิ่มเติมขึ้นอยู่กับความสำเร็จของต้นแบบ ดังนั้น 'เว้นเสียแต่ว่า' ทีมของคุณจะสามารถสร้างเครื่องพิสูจน์แนวคิดที่น่าเชื่อถือได้ เงินทุนทั้งหมดจะถูกถอนออกไปอย่างไม่มีข้อโต้แย้ง\n- คำอธิบาย: ประโยคซับซ้อนที่ใช้ 'unless' เป็นตัวเชื่อมผลลัพธ์ที่รุนแรง (การถอนทุน) กับข้อยกเว้นเพียงหนึ่งเดียวที่จะหยุดยั้งผลลัพธ์นั้นได้ (การสร้างต้นแบบที่สำเร็จ) แสดงให้เห็นถึงความสัมพันธ์เชิงเหตุและผลที่เด็ดขาด"
+      }
+    ],
+    "common_mistakes": "- **ใช้ Double Negative กับ Unless:** คนไทยมักติดใช้ปฏิเสธซ้อนปฏิเสธ เช่น 'Unless you don't study, you will fail.' ซึ่งผิดหลักไวยากรณ์และทำให้ความหมายเพี้ยนไปเลย ที่ถูกต้องคือ 'Unless you study, you will fail.' (ถ้าคุณไม่อ่านหนังสือ คุณจะสอบตก) จำไว้ว่า 'Unless' = 'If not' อยู่ในตัวแล้ว\n- **สับสนระหว่าง As long as กับ For a long time:** 'As long as' ในที่นี้คือคำเชื่อมเงื่อนไข ไม่ใช่การบอกระยะเวลา เช่น 'You can use my car as long as you drive carefully.' (เป็นเงื่อนไข) เทียบกับ 'I have known him for a long time.' (เป็นระยะเวลา)\n- **ใช้ Provided that ในบทสนทนาทั่วไป:** 'Provided that' มีความหมายเป็นทางการสูงมาก การนำไปใช้ในบริบทที่ไม่เป็นทางการ เช่น คุยกับเพื่อน อาจทำให้ฟังดูแปลกและไม่เป็นธรรมชาติ ควรใช้ 'if' หรือ 'as long as' แทน เช่น ไม่ควรพูดว่า 'We can go to the cinema, provided that you pay.' แต่ควรพูดว่า 'We can go... as long as you pay.'\n- **ลืมกฎการใช้ Tense:** แม้จะไม่ได้ใช้ 'if' แต่ conjunctions เหล่านี้ยังคงตามกฎของ Conditional Sentences อย่างเคร่งครัด เช่น ใน Type 1, clause ที่ตามหลังคำเหล่านี้ต้องใช้ Present Simple ไม่ใช่ Future Simple (will) เช่น 'As long as it *rains*, we will stay inside.' (ไม่ใช่ as long as it will rain)",
+    "practice_questions": [
+      {
+        "question": "The sensitive diplomatic negotiations are set to continue, ______ both parties refrain from making inflammatory public statements.",
+        "options": [
+          "A. unless",
+          "B. providing that",
+          "C. otherwise",
+          "D. in case"
+        ],
+        "answer": "B",
+        "explanation": "คำตอบที่ถูกต้องคือ 'providing that' (หรือ as long as) เนื่องจากประโยคต้องการเงื่อนไขที่ต้องเกิดขึ้นเพื่อให้การเจรจาดำเนินต่อไปได้ 'Providing that' เหมาะสมที่สุดเพราะสื่อถึงเงื่อนไขที่เป็นข้อตกลงที่ค่อนข้างเป็นทางการ 'Unless' (เว้นแต่) จะให้ความหมายตรงกันข้าม 'Otherwise' (มิฉะนั้น) เป็น adverb ไม่ใช่ conjunction ในบริบทนี้ 'In case' (ในกรณีที่) ใช้เพื่อเตรียมการป้องกันล่วงหน้า ซึ่งไม่เข้ากับความหมาย"
+      },
+      {
+        "question": "______ a sudden cataclysmic event disrupts the global supply chain, the projected economic recovery should proceed as anticipated.",
+        "options": [
+          "A. Provided that",
+          "B. As long as",
+          "C. Unless",
+          "D. If"
+        ],
+        "answer": "C",
+        "explanation": "คำตอบที่ถูกต้องคือ 'Unless' ประโยคหลักกล่าวถึงผลลัพธ์ที่เป็นบวก (การฟื้นตัวของเศรษฐกิจจะดำเนินต่อไป) ส่วน clause ที่หายไปพูดถึงเหตุการณ์ที่เป็นลบ (เหตุการณ์หายนะ) ดังนั้น เราต้องการคำที่หมายถึง 'if...not' หรือ 'except if' เพื่อเชื่อมโยงว่าการฟื้นตัวจะเกิดขึ้น 'เว้นเสียแต่ว่า' จะมีเหตุการณ์หายนะมาขัดขวาง"
+      },
+      {
+        "question": "You are at liberty to pursue any research methodology you deem appropriate, ______ you adhere strictly to the established ethical guidelines.",
+        "options": [
+          "A. as long as",
+          "B. unless",
+          "C. otherwise",
+          "D. whether"
+        ],
+        "answer": "A",
+        "explanation": "คำตอบที่ถูกต้องคือ 'as long as' บริบทนี้เป็นการให้อิสระโดยมีเงื่อนไขที่ต้องปฏิบัติ 'ตลอดเวลา' ของการทำวิจัย 'As long as' สื่อถึงเงื่อนไขที่ต้องดำเนินไปอย่างต่อเนื่อง (การยึดมั่นในแนวปฏิบัติทางจริยธรรม) ได้ดีที่สุด 'Provided that' ก็ใช้ได้ แต่ 'as long as' เน้นความต่อเนื่องได้ดีกว่าในบริบทนี้"
+      },
+      {
+        "question": "The company would have faced insolvency years ago ______ its enigmatic benefactor had not intervened with a substantial capital injection.",
+        "options": [
+          "A. if",
+          "B. unless",
+          "C. provided that",
+          "D. as long as"
+        ],
+        "answer": "B",
+        "explanation": "นี่คือ Mixed Conditional ที่ซับซ้อน (คล้าย Type 3 + 2 แต่ใช้ unless) ประโยคหลัก ('would have faced') เป็นอดีตที่ไม่จริง ประโยครอง ('had not intervened') ก็เป็นอดีตที่ไม่จริงเช่นกัน การจะใช้ unless ในบริบทนี้ต้องคิดว่า unless = if...not ดังนั้น 'unless its benefactor had not intervened' จะเท่ากับ 'if its benefactor had not not intervened' ซึ่งเป็น double negative และผิด ที่ถูกต้องคือต้องใช้ unless กับประโยคบอกเล่า: 'unless its benefactor had intervened'. อย่างไรก็ตาม ในตัวเลือกไม่มีแบบนั้น แต่โจทย์ใช้ 'had not intervened' ดังนั้นคำเชื่อมที่เหมาะสมที่สุดคือ 'if' เพื่อสร้าง Type 3 Conditional: 'if its enigmatic benefactor had not intervened...' แต่เดี๋ยวก่อน! ลองตีความใหม่: 'บริษัทคงล้มละลายไปแล้ว... เว้นเสียแต่ว่าผู้อุปถัมภ์จะเข้ามาแทรกแซง' ความหมายนี้ต้องใช้ 'if...not' หรือ 'unless'. แต่โครงสร้าง 'unless...had not' ผิดไวยากรณ์ ดังนั้นโจทย์ข้อนี้อาจมีข้อผิดพลาด หรือจงใจให้สับสน อย่างไรก็ตาม หากต้องเลือกตัวที่ใกล้เคียงที่สุดตามความหมายทั่วไปว่า 'เหตุการณ์ A จะเกิดถ้าไม่มี B' คือ if...not ซึ่งก็คือ Unless. แต่ถ้าจะให้ถูกไวยากรณ์ 100% ควรเป็น 'if...not' คำถามนี้ซับซ้อนและอาจมีข้อโต้แย้ง แต่ในตัวเลือกที่ให้มาไม่มี If ดังนั้นเราต้องมองหาความเป็นไปได้อื่น ถ้าเรามองว่า 'unless' ใช้แทน 'if.. not' ทั้งก้อน ประโยคจะเป็น The company would have faced insolvency... if its benefactor had NOT intervened... คำตอบที่ใกล้เคียงความหมายที่สุดในบริบทปฏิเสธคือ B แต่ต้องเข้าใจว่าโครงสร้างที่ถูกคือ `if...not` หรือ `unless + positive clause`"
+      },
+      {
+        "question": "The fragile armistice will hold, ______ a unilateral act of aggression from either side shatters the delicate peace.",
+        "options": [
+          "A. as long as",
+          "B. unless",
+          "C. providing that",
+          "D. in case"
+        ],
+        "answer": "B",
+        "explanation": "คำตอบที่ถูกต้องคือ 'Unless' ประโยคกล่าวว่า 'การหยุดยิงจะยังคงอยู่' (ผลลัพธ์ที่เป็นบวก) และมีเงื่อนไขคือ 'การกระทำที่ก้าวร้าว' (เหตุการณ์เชิงลบที่จะมาขัดขวาง) ดังนั้น 'unless' ซึ่งหมายถึง 'เว้นแต่' จึงเหมาะสมที่สุดในการเชื่อมสองส่วนนี้เข้าด้วยกัน"
+      },
+      {
+        "question": "Shareholders are permitted to vote by proxy, ______ their completed ballot forms are received no later than 48 hours before the annual general meeting.",
+        "options": [
+          "A. unless",
+          "B. so long as",
+          "C. provided that",
+          "D. otherwise"
+        ],
+        "answer": "C",
+        "explanation": "คำตอบที่ถูกต้องคือ 'provided that' บริบทนี้เป็นกฎระเบียบที่เป็นทางการและชัดเจน (การประชุมผู้ถือหุ้น) การกำหนดเงื่อนไขที่ต้องปฏิบัติให้สำเร็จ (ส่งเอกสารให้ทันเวลา) จึงเหมาะกับ 'provided that' ที่สุด ซึ่งให้ความรู้สึกเหมือนเป็นข้อกำหนดหรือเงื่อนไขบังคับ (stipulation) 'So long as' ก็พอใช้ได้ แต่ 'provided that' เหมาะกับความเป็นทางการของสถานการณ์มากกว่า"
+      },
+      {
+        "question": "He vowed to continue his quixotic protest ______ there was even a scintilla of hope for legislative change.",
+        "options": [
+          "A. provided that",
+          "B. unless",
+          "C. as long as",
+          "D. otherwise"
+        ],
+        "answer": "C",
+        "explanation": "คำตอบที่ถูกต้องคือ 'as long as' ประโยคนี้เน้นความต่อเนื่องของการกระทำ (การประท้วง) ที่ผูกติดอยู่กับความต่อเนื่องของสภาวะ (การยังมีความหวังอยู่) 'As long as' สื่อถึง 'ตราบเท่าที่' เงื่อนไขนี้ยังคงเป็นจริง การกระทำก็จะดำเนินต่อไป ซึ่งตรงกับความหมายของประโยคที่สุด"
+      },
+      {
+        "question": "An acquittal is almost certain, ______ the prosecution unearths some incontrovertible evidence at the eleventh hour.",
+        "options": [
+          "A. unless",
+          "B. if",
+          "C. provided that",
+          "D. as long as"
+        ],
+        "answer": "A",
+        "explanation": "คำตอบที่ถูกต้องคือ 'Unless' ประโยคหลักบอกผลลัพธ์ที่คาดการณ์ไว้ ('การตัดสินให้พ้นผิดนั้นแทบจะแน่นอน') และมีข้อยกเว้นเพียงอย่างเดียวที่จะเปลี่ยนแปลงผลลัพธ์นี้ได้ คือ 'การที่ฝ่ายอัยการค้นพบหลักฐานที่โต้แย้งไม่ได้ในนาทีสุดท้าย' ดังนั้น 'unless' (เว้นแต่ว่า) จึงเป็นคำเชื่อมที่ถูกต้องที่สุด"
+      },
+      {
+        "question": "The archaeological team has been granted permission to excavate the sensitive heritage site, ______ all artifacts discovered remain the unequivocal property of the state.",
+        "options": [
+          "A. unless",
+          "B. so long as",
+          "C. in case",
+          "D. provided that"
+        ],
+        "answer": "D",
+        "explanation": "คำตอบที่ถูกต้องคือ 'provided that' สถานการณ์นี้เป็นการอนุญาตอย่างเป็นทางการโดยมีข้อกำหนดที่ชัดเจนและเข้มงวด 'Provided that' เหมาะสมที่สุดในการสื่อถึงเงื่อนไขบังคับ (stipulation) ที่ต้องยอมรับก่อนการดำเนินการจะเริ่มขึ้น มันมีความหมายหนักแน่นและเป็นทางการกว่า 'so long as'"
+      },
+      {
+        "question": "______ you scrupulously follow the complex instructions, the experiment is doomed to yield anomalous results.",
+        "options": [
+          "A. If",
+          "B. Provided that",
+          "C. As long as",
+          "D. Unless"
+        ],
+        "answer": "D",
+        "explanation": "คำตอบที่ถูกต้องคือ 'Unless' ผลลัพธ์ในประโยคหลักเป็นเชิงลบ ('การทดลองถึงวาระที่จะให้ผลลัพธ์ที่ผิดปกติ') ดังนั้นเงื่อนไขที่นำหน้าควรจะเป็นสิ่งที่ 'ป้องกัน' ผลลัพธ์เชิงลบนี้ 'Unless you scrupulously follow...' หมายถึง 'ถ้าคุณไม่ทำตามคำสั่งอย่างเคร่งครัด...' ซึ่งจะนำไปสู่ผลลัพธ์ที่เลวร้ายนั้น เป็นการเชื่อมโยงเหตุและผลที่สมบูรณ์ที่สุดในเชิงตรรกะ"
+      }
+    ]
+  },
+  {
+    "id": "35_4",
+    "title": "35.4 Summary: Mixed Conditionals (สรุปประโยคเงื่อนไขผสม + 50 Exercises)",
+    "explanation": "Mixed Conditionals คือสุดยอดของประโยคเงื่อนไขในภาษาอังกฤษ เป็นการผสมผสานโครงสร้างระหว่าง Conditional Sentences Type 2 และ Type 3 เพื่อแสดงความเชื่อมโยงของเหตุการณ์ที่เกิดขึ้นใน 'เวลาที่แตกต่างกัน' ซึ่งเป็นสิ่งที่ประโยคเงื่อนไขแบบปกติทำไม่ได้ หัวใจสำคัญคือการระบุ 'เวลา' ของเงื่อนไข (If-clause) และ 'เวลา' ของผลลัพธ์ (Main clause) ให้แม่นยำ\n\nมี 2 รูปแบบหลักที่พบบ่อยที่สุด:\n\n1.  **เงื่อนไขในอดีต (Past Condition) -> ผลลัพธ์ในปัจจุบัน/อนาคต (Present/Future Result)**\n    *   โครงสร้าง: If + Past Perfect (Type 3), ... would/could/might + base form (Type 2).\n    *   ความหมาย: ถ้าหากเรื่องราวใน 'อดีต' เป็นอีกอย่างหนึ่ง 'ตอนนี้' ชีวิตหรือสถานการณ์ก็คงจะแตกต่างไปจากที่เป็นอยู่\n    *   แก่นความคิด: เรากำลังจินตนาการถึงผลกระทบในปัจจุบันที่เกิดจากเหตุการณ์ในอดีตที่ไม่ได้เกิดขึ้นจริง\n\n2.  **เงื่อนไขในปัจจุบัน (Present Condition) -> ผลลัพธ์ในอดีต (Past Result)**\n    *   โครงสร้าง: If + Past Simple (Type 2), ... would/could/might + have + past participle (Type 3).\n    *   ความหมาย: ถ้าหาก 'นิสัย' หรือ 'คุณสมบัติ' ของเราในปัจจุบันเป็นอีกอย่างหนึ่ง การกระทำหรือผลลัพธ์ใน 'อดีต' ก็คงจะเปลี่ยนไป\n    *   แก่นความคิด: เรากำลังเชื่อมโยงลักษณะนิสัยหรือสถานะที่เป็นจริงในปัจจุบัน (ซึ่งไม่น่าจะเปลี่ยนได้ง่ายๆ) กับการกระทำในอดีตที่เกิดขึ้นไปแล้ว\n\n**Advanced Variations (รูปแบบสำหรับ C1-C2):**\n*   **Inversion (การสลับตำแหน่ง):** สามารถใช้การสลับตำแหน่งใน If-clause เพื่อความเป็นทางการมากขึ้น เช่น 'Had I known...' แทน 'If I had known...' หรือ 'Were I not...' แทน 'If I were not...'\n*   **Continuous Forms:** สามารถใช้ Continuous Tense ทั้งใน If-clause และ Main clause เพื่อเน้นการกระทำที่กำลังดำเนินอยู่ เช่น 'If I hadn't been procrastinating all week, I would be relaxing now.'",
+    "examples": [
+      {
+        "eng": "Had the board of directors not been so risk-averse, the company would be a market leader in disruptive technology today.",
+        "thai": "ถ้าคณะกรรมการบริษัทไม่กลัวความเสี่ยงมากขนาดนั้นในตอนนั้น ป่านนี้บริษัทคงเป็นผู้นำตลาดด้านเทคโนโลยีที่พลิกโฉมวงการไปแล้ว\nโครงสร้าง: 'Had the board... not been...' คือ Inversion ของ 'If the board had not been...' (เงื่อนไขในอดีต) ส่งผลให้ 'the company would be a market leader... today' (ผลลัพธ์ในปัจจุบัน)"
+      },
+      {
+        "eng": "If I were more adept at navigating Byzantine bureaucracies, I would have secured that government contract months ago.",
+        "thai": "ถ้าฉันมีความชำนาญในการรับมือกับระบบราชการที่ซับซ้อนยุ่งเหยิงมากกว่านี้ ฉันก็คงได้สัญญางานของรัฐบาลนั้นมาเมื่อหลายเดือนก่อนแล้ว\nโครงสร้าง: 'If I were more adept...' (เงื่อนไขที่เป็นคุณสมบัติตัวตนในปัจจุบัน) ส่งผลให้ 'I would have secured...' (ผลลัพธ์ที่เฉพาะเจาะจงในอดีต)"
+      },
+      {
+        "eng": "If you had heeded my warnings about the volatile market, you wouldn't be grappling with such a substantial financial deficit now.",
+        "thai": "ถ้าคุณใส่ใจคำเตือนของฉันเกี่ยวกับตลาดที่ผันผวนในตอนนั้น ตอนนี้คุณก็คงไม่ต้องมาต่อสู้กับภาวะขาดทุนทางการเงินมหาศาลขนาดนี้\nโครงสร้าง: 'If you had heeded...' (เงื่อนไขการกระทำในอดีต) ส่งผลให้ 'you wouldn't be grappling... now' (ผลลัพธ์ที่เป็นสถานการณ์ต่อเนื่องในปัจจุบัน)"
+      }
+    ],
+    "common_mistakes": "1.  **สับสน Time Frame:** จุดที่พลาดบ่อยที่สุดคือการไม่แยกแยะเวลาของ 'เงื่อนไข' และ 'ผลลัพธ์' ให้ชัดเจน เช่น ต้องการจะพูดว่า 'ถ้าตอนนั้นฉันเรียนหนักกว่านี้ ตอนนี้ฉันคงมีงานดีๆ ทำ' แต่กลับใช้ Type 3 ทั้งประโยค (If I had studied harder, I would have had a good job.) ซึ่งหมายถึง 'คงจะได้งานดีๆ ไปแล้วในอดีต' ไม่ใช่ 'มีในตอนนี้'\n\n2.  **ใช้โครงสร้างผิดฝั่ง:** จำสลับกันระหว่างสองรูปแบบหลัก เช่น ใช้ If + Past Simple คู่กับ would + V.1 (กลายเป็น Type 2 ธรรมดา) ทั้งที่ต้องการจะสื่อถึงผลในอดีต หรือใช้ If + Past Perfect คู่กับ would have + V.3 (กลายเป็น Type 3 ธรรมดา) ทั้งที่ต้องการสื่อถึงผลในปัจจุบัน\n\n3.  **ลืมนึกถึงความจริง:** Mixed Conditionals มักพูดถึงสิ่งที่ตรงข้ามกับความจริงเสมอ (Hypothetical/Unreal) การใช้ 'was' แทน 'were' ในเงื่อนไขปัจจุบัน (If I was more...) แม้จะยอมรับได้ในการพูดที่ไม่เป็นทางการ แต่ในระดับสูง (C1-C2) และการเขียนเชิงวิชาการ ควรใช้ 'were' กับประธานทุกตัวเพื่อแสดงความเป็น unreal subjunctive mood\n\n4.  **มองข้าม Inversion:** ในระดับสูง การใช้ Inversion (เช่น Had I known...) เป็นเรื่องปกติ ผู้เรียนที่ไม่คุ้นเคยอาจจะงงหรือไม่สามารถสร้างประโยคเองได้ ทำให้ภาษาดูเป็นทางการน้อยลง",
+    "practice_questions": [
+      {
+        "question": "If the ancient library of Alexandria hadn't been destroyed, humanity's scientific progress ______ significantly more advanced today.",
+        "options": [
+          "A. would have been",
+          "B. would be",
+          "C. had been",
+          "D. will be"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้เป็น Mixed Conditional แบบ Past Condition -> Present Result. เงื่อนไข 'If the ancient library... hadn't been destroyed' (had + not + V3) เป็นเหตุการณ์ในอดีตที่ไม่เป็นจริง ผลลัพธ์จึงต้องอยู่ในปัจจุบัน '...would be... more advanced today' (would + V1) เพื่อสะท้อนถึงสถานการณ์ในปัจจุบัน"
+      },
+      {
+        "question": "I ______ that arduous trek through the Himalayas last year if I weren't so afraid of heights.",
+        "options": [
+          "A. would have completed",
+          "B. would complete",
+          "C. completed",
+          "D. had completed"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้เป็น Mixed Conditional แบบ Present Condition -> Past Result. เงื่อนไข 'if I weren't so afraid of heights' (If + Past Simple) เป็นคุณลักษณะนิสัยในปัจจุบันที่ไม่เป็นจริง ผลลัพธ์จึงต้องอยู่ในอดีต 'I would have completed that... trek last year' (would + have + V3) เพื่ออธิบายถึงการกระทำในอดีตที่อาจเกิดขึ้นได้"
+      },
+      {
+        "question": "______ more foresight during the initial planning phase, we wouldn't be grappling with these logistical nightmares now.",
+        "options": [
+          "A. If we had",
+          "B. Had we had",
+          "C. Did we have",
+          "D. If we would have"
+        ],
+        "answer": "B",
+        "explanation": "นี่คือรูปแบบ Inversion ของ Past Condition -> Present Result. ประโยคเต็มคือ 'If we had had more foresight...'. ในรูปแบบสลับตำแหน่ง เราจะตัด If ออกแล้วนำ 'Had' ขึ้นต้นประโยค กลายเป็น 'Had we had...'. ผลลัพธ์ 'we wouldn't be grappling... now' อยู่ในปัจจุบัน"
+      },
+      {
+        "question": "If you ______ such an eloquent and persuasive speaker, you might not have won over the skeptical investors during yesterday's crucial meeting.",
+        "options": [
+          "A. hadn't been",
+          "B. wouldn't be",
+          "C. weren't",
+          "D. aren't"
+        ],
+        "answer": "C",
+        "explanation": "เป็นแบบ Present Condition -> Past Result. เงื่อนไข 'If you weren't...' (If + Past Simple) พูดถึงคุณสมบัติที่เป็นจริงในปัจจุบัน (คุณเป็นคนพูดเก่ง) ผลลัพธ์ 'you might not have won...' (might + have + V3) เป็นเหตุการณ์ในอดีต (การประชุมเมื่อวาน)"
+      },
+      {
+        "question": "The company's stock value ______ so precarious today if the CEO hadn't made those imprudent remarks last quarter.",
+        "options": [
+          "A. wouldn't have been",
+          "B. hadn't been",
+          "C. wouldn't be",
+          "D. won't be"
+        ],
+        "answer": "C",
+        "explanation": "Past Condition -> Present Result. เงื่อนไข 'if the CEO hadn't made...' (If + Past Perfect) เป็นการกระทำในอดีต ผลลัพธ์ 'The company's stock value wouldn't be so precarious today' (wouldn't + V1) คือสถานการณ์ในปัจจุบัน"
+      },
+      {
+        "question": "If I were proficient in coding, I ______ the bug in the system myself yesterday instead of waiting for IT support.",
+        "options": [
+          "A. would fix",
+          "B. could have fixed",
+          "C. fixed",
+          "D. had fixed"
+        ],
+        "answer": "B",
+        "explanation": "Present Condition -> Past Result. เงื่อนไข 'If I were proficient in coding' คือความสามารถในปัจจุบันที่ไม่เป็นจริง ผลลัพธ์จึงต้องอยู่ในอดีต 'I could have fixed the bug... yesterday' (could + have + V3) แสดงถึงความเป็นไปได้ในอดีตที่ไม่ได้ทำ"
+      },
+      {
+        "question": "We ______ celebrating our victory right now if the star player hadn't sustained that injury in the first half.",
+        "options": [
+          "A. would have been",
+          "B. were",
+          "C. would be",
+          "D. had been"
+        ],
+        "answer": "C",
+        "explanation": "Past Condition -> Present Result. เงื่อนไข 'if the star player hadn't sustained that injury...' (อดีต) มีผลกระทบต่อสถานการณ์ในปัจจุบัน 'We would be celebrating... right now' (would + be + V-ing) เพื่อเน้นการกระทำที่ควรจะกำลังเกิดขึ้นอยู่ตอนนี้"
+      },
+      {
+        "question": "Had the government invested in renewable energy decades ago, the nation ______ less dependent on foreign oil imports now.",
+        "options": [
+          "A. would have been",
+          "B. will be",
+          "C. would be",
+          "D. was"
+        ],
+        "answer": "C",
+        "explanation": "Inversion ของ Past Condition -> Present Result. เงื่อนไข 'Had the government invested...' (อดีต) ส่งผลต่อ 'the nation would be less dependent... now' (ปัจจุบัน)"
+      },
+      {
+        "question": "If your command of the Japanese language were stronger, you ______ the subtle nuances in that classic film we watched last night.",
+        "options": [
+          "A. would appreciate",
+          "B. appreciated",
+          "C. would have appreciated",
+          "D. had appreciated"
+        ],
+        "answer": "C",
+        "explanation": "Present Condition -> Past Result. เงื่อนไข 'If your command... were stronger' (ความสามารถในปัจจุบัน) ส่งผลต่อการรับรู้ในอดีต 'you would have appreciated the... nuances... last night' (would + have + V3)"
+      },
+      {
+        "question": "This political scandal ______ if the journalist hadn't meticulously corroborated every fact before publishing the story.",
+        "options": [
+          "A. might never erupt",
+          "B. would never be erupting",
+          "C. might never have erupted",
+          "D. would never erupt"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้มี Main clause มาก่อน If-clause. If-clause 'if the journalist hadn't meticulously corroborated...' เป็นเงื่อนไขในอดีต ส่วน Main clause เป็นผลในอดีตเช่นกัน ดังนั้นนี่คือ Type 3 conditional ไม่ใช่ mixed conditional. อย่างไรก็ตาม ในบริบทของการทบทวนขั้นสูง ข้อนี้ทดสอบความสามารถในการแยกแยะ 'might never have erupted' (might + have + V3) จึงเป็นคำตอบที่ถูกต้องตามโครงสร้าง Type 3."
+      },
+      {
+        "question": "If I didn't have such a strong pragmatic streak, I ______ all my savings on that speculative venture last year.",
+        "options": [
+          "A. would invest",
+          "B. might have invested",
+          "C. invested",
+          "D. would have been investing"
+        ],
+        "answer": "B",
+        "explanation": "Present Condition -> Past Result. เงื่อนไข 'If I didn't have such a strong pragmatic streak' (ลักษณะนิสัยในปัจจุบัน) ส่งผลต่อการตัดสินใจในอดีต 'I might have invested all my savings... last year' (might + have + V3)"
+      },
+      {
+        "question": "The negotiations wouldn't be in a state of perpetual gridlock if both parties ______ more willing to compromise from the outset.",
+        "options": [
+          "A. would have been",
+          "B. were",
+          "C. would be",
+          "D. had been"
+        ],
+        "answer": "D",
+        "explanation": "Past Condition -> Present Result. ผลลัพธ์ 'The negotiations wouldn't be... now' (อนุมานจาก 'in a state of') อยู่ในปัจจุบัน เงื่อนไขจึงต้องอยู่ในอดีต 'if both parties had been more willing... from the outset' (If + Past Perfect)"
+      },
+      {
+        "question": "______ for his timely intervention, the server crash could have resulted in a catastrophic loss of data.",
+        "options": [
+          "A. If it were not",
+          "B. Had it not been",
+          "C. Weren't it",
+          "D. If it hadn't"
+        ],
+        "answer": "B",
+        "explanation": "นี่คือรูปแบบ Inversion ที่ใช้สำนวน 'Had it not been for...' ซึ่งมีความหมายเหมือนกับ 'If it had not been for...' (ถ้าไม่ใช่เพราะว่า...) เป็นเงื่อนไขในอดีต ที่ส่งผลต่อเหตุการณ์ในอดีตเช่นกัน (Type 3) แต่เป็นโครงสร้างขั้นสูงที่ต้องรู้"
+      },
+      {
+        "question": "If this artist's work weren't so ephemeral and abstract, it ______ a wider audience decades ago.",
+        "options": [
+          "A. could have reached",
+          "B. could reach",
+          "C. reached",
+          "D. had reached"
+        ],
+        "answer": "A",
+        "explanation": "Present Condition -> Past Result. เงื่อนไข 'If this artist's work weren't so ephemeral...' (ลักษณะงานในปัจจุบัน) ส่งผลต่อความเป็นไปได้ในอดีต 'it could have reached a wider audience decades ago' (could + have + V3)"
+      },
+      {
+        "question": "You ______ with so much student debt now if you had applied for more scholarships back in university.",
+        "options": [
+          "A. wouldn't have been saddled",
+          "B. wouldn't be saddled",
+          "C. weren't saddled",
+          "D. hadn't been saddled"
+        ],
+        "answer": "B",
+        "explanation": "Past Condition -> Present Result. เงื่อนไข 'if you had applied for more scholarships...' (การกระทำในอดีต) ส่งผลต่อสถานะทางการเงินในปัจจุบัน 'You wouldn't be saddled with... debt now' (wouldn't + V1)"
+      },
+      {
+        "question": "If the city council had implemented a more robust public transport system, the traffic congestion ______ such a chronic issue today.",
+        "options": [
+          "A. isn't",
+          "B. wouldn't be",
+          "C. wouldn't have been",
+          "D. weren't"
+        ],
+        "answer": "B",
+        "explanation": "Past Condition -> Present Result. การตัดสินใจของสภาในอดีต 'had implemented' ส่งผลต่อปัญหารถติดในปัจจุบัน 'wouldn't be'."
+      },
+      {
+        "question": "I would have recognized the forgery immediately if I ______ more about Renaissance art techniques.",
+        "options": [
+          "A. had known",
+          "B. knew",
+          "C. would know",
+          "D. have known"
+        ],
+        "answer": "B",
+        "explanation": "Present Condition -> Past Result. ผลลัพธ์ 'I would have recognized... immediately' อยู่ในอดีต แสดงว่าเงื่อนไขต้องเป็นความสามารถหรือความรู้ทั่วไปในปัจจุบัน 'if I knew more...'"
+      },
+      {
+        "question": "The project ______ on schedule now if the supplier hadn't defaulted on their delivery commitment last month.",
+        "options": [
+          "A. would be",
+          "B. was",
+          "C. would have been",
+          "D. will be"
+        ],
+        "answer": "A",
+        "explanation": "Past Condition -> Present Result. เหตุการณ์ในอดีต 'supplier hadn't defaulted' ส่งผลโดยตรงต่อสถานะของโครงการในปัจจุบัน 'would be on schedule now'."
+      },
+      {
+        "question": "______ less obstinate by nature, he might have listened to our advice and avoided that disastrous investment.",
+        "options": [
+          "A. If he had been",
+          "B. Had he been",
+          "C. If he were",
+          "D. Were he"
+        ],
+        "answer": "D",
+        "explanation": "Inversion ของ Present Condition -> Past Result. ประโยคเต็มคือ 'If he were less obstinate...'. ในรูปแบบสลับตำแหน่ง เราจะตัด If ออกแล้วนำ 'Were' ขึ้นต้นประโยค กลายเป็น 'Were he...'. ผลลัพธ์ 'he might have listened...' อยู่ในอดีต"
+      },
+      {
+        "question": "If the Roman Empire had discovered the principles of steam power, the Industrial Revolution ______ much earlier.",
+        "options": [
+          "A. could start",
+          "B. might have started",
+          "C. would be starting",
+          "D. had started"
+        ],
+        "answer": "B",
+        "explanation": "Past Condition -> Past Result. นี่คือ Type 3 conditional แบบคลาสสิก เพื่อทดสอบความสามารถในการแยกแยะ. เงื่อนไขในอดีตไกล 'had discovered' ส่งผลต่อเหตุการณ์ในอดีตเช่นกัน 'might have started'."
+      },
+      {
+        "question": "If she weren't so meticulous with her research, she ______ that critical flaw in the data during her analysis last week.",
+        "options": [
+          "A. wouldn't spot",
+          "B. wouldn't have spotted",
+          "C. didn't spot",
+          "D. hadn't spotted"
+        ],
+        "answer": "B",
+        "explanation": "Present Condition -> Past Result. คุณสมบัติในปัจจุบัน 'weren't so meticulous' ส่งผลต่อการกระทำในอดีต 'wouldn't have spotted ... last week'."
+      },
+      {
+        "question": "The ecosystem in this region wouldn't be on the brink of collapse if the authorities ______ deforestation laws decades ago.",
+        "options": [
+          "A. enforced",
+          "B. would have enforced",
+          "C. had enforced",
+          "D. would enforce"
+        ],
+        "answer": "C",
+        "explanation": "Past Condition -> Present Result. ผลลัพธ์ในปัจจุบัน 'wouldn't be on the brink of collapse' เกิดจากเงื่อนไขในอดีต 'if the authorities had enforced...'."
+      },
+      {
+        "question": "Had the rescue team not persevered against the blizzard, those climbers ______ alive today.",
+        "options": [
+          "A. wouldn't have been",
+          "B. wouldn't be",
+          "C. weren't",
+          "D. hadn't been"
+        ],
+        "answer": "B",
+        "explanation": "Inversion ของ Past Condition -> Present Result. การกระทำของทีมกู้ภัยในอดีต 'Had the rescue team not persevered' ส่งผลต่อการมีชีวิตอยู่ในปัจจุบันของนักปีนเขา 'wouldn't be alive today'."
+      },
+      {
+        "question": "If I had a better understanding of quantum mechanics, I ______ that lecture on string theory yesterday.",
+        "options": [
+          "A. would have enjoyed",
+          "B. would enjoy",
+          "C. enjoyed",
+          "D. had enjoyed"
+        ],
+        "answer": "A",
+        "explanation": "Present Condition -> Past Result. ความเข้าใจ (หรือการขาดความเข้าใจ) ในปัจจุบัน 'had a better understanding' (ใช้ had เป็น past simple) ส่งผลต่อประสบการณ์ในอดีต 'would have enjoyed... yesterday'."
+      },
+      {
+        "question": "This software ______ so many vulnerabilities now if the developers had followed proper security protocols during its creation.",
+        "options": [
+          "A. won't have",
+          "B. didn't have",
+          "C. wouldn't have had",
+          "D. wouldn't have"
+        ],
+        "answer": "D",
+        "explanation": "Past Condition -> Present Result. การพัฒนากระบวนการในอดีต 'had followed' ส่งผลต่อสถานะของซอฟต์แวร์ในปัจจุบัน 'wouldn't have so many vulnerabilities now'."
+      },
+      {
+        "question": "If he ______ his inheritance so frivolously in his youth, he wouldn't be struggling to make ends meet now.",
+        "options": [
+          "A. didn't squander",
+          "B. hadn't squandered",
+          "C. wouldn't have squandered",
+          "D. wasn't squandering"
+        ],
+        "answer": "B",
+        "explanation": "Past Condition -> Present Result. ผลลัพธ์ในปัจจุบัน 'wouldn't be struggling... now' มาจากเงื่อนไขในอดีต 'if he hadn't squandered... in his youth'."
+      },
+      {
+        "question": "We could have averted the entire crisis if the communication ______ more transparent from the beginning.",
+        "options": [
+          "A. was",
+          "B. had been",
+          "C. were",
+          "D. would have been"
+        ],
+        "answer": "B",
+        "explanation": "Past Condition -> Past Result (Type 3). 'We could have averted' เป็นผลในอดีต ดังนั้นเงื่อนไขก็ต้องอยู่ในอดีตเช่นกัน 'if the communication had been...'. เป็นการทดสอบการแยกแยะอีกครั้ง"
+      },
+      {
+        "question": "If this political party were more aligned with my personal values, I ______ for them in the last election.",
+        "options": [
+          "A. would vote",
+          "B. voted",
+          "C. would have voted",
+          "D. had voted"
+        ],
+        "answer": "C",
+        "explanation": "Present Condition -> Past Result. อุดมการณ์ของพรรคการเมือง (สถานะปัจจุบัน) 'were more aligned' ส่งผลต่อการตัดสินใจลงคะแนนในอดีต 'would have voted in the last election'."
+      },
+      {
+        "question": "The athlete's career ______ so abruptly if he had listened to the medical advice to rest his injury.",
+        "options": [
+          "A. might not end",
+          "B. might not have ended",
+          "C. didn't end",
+          "D. wouldn't be ending"
+        ],
+        "answer": "B",
+        "explanation": "Past Condition -> Past Result (Type 3). การตัดสินใจในอดีต 'had listened' ส่งผลต่อเหตุการณ์ในอดีต 'might not have ended'. สังเกตว่าไม่มีตัวบ่งชี้เวลาปัจจุบัน"
+      },
+      {
+        "question": "I ______ this confident and articulate person I am today if I hadn't joined the debate club in high school.",
+        "options": [
+          "A. wouldn't have become",
+          "B. hadn't become",
+          "C. didn't become",
+          "D. wouldn't be"
+        ],
+        "answer": "D",
+        "explanation": "Past Condition -> Present Result. การเข้าร่วมชมรมในอดีต 'hadn't joined' ส่งผลต่อบุคลิกภาพในปัจจุบัน 'I wouldn't be this confident... person I am today'."
+      },
+      {
+        "question": "If genetic engineering technology had been perfected sooner, many hereditary diseases ______ a thing of the past by now.",
+        "options": [
+          "A. would be",
+          "B. would have been",
+          "C. are",
+          "D. had been"
+        ],
+        "answer": "A",
+        "explanation": "Past Condition -> Present Result. ความก้าวหน้าทางเทคโนโลยีในอดีต 'had been perfected' ส่งผลต่อสถานการณ์ของโรคภัยในปัจจุบัน 'would be a thing of the past by now'."
+      },
+      {
+        "question": "______ a more financially astute individual, I would not have made such a calamitous investment during the market bubble.",
+        "options": [
+          "A. Were I",
+          "B. Had I been",
+          "C. If I would be",
+          "D. Am I"
+        ],
+        "answer": "A",
+        "explanation": "Inversion ของ Present Condition -> Past Result. 'Were I...' (If I were...) คือคุณสมบัติในปัจจุบัน ส่งผลต่อการกระทำในอดีต 'would not have made'."
+      },
+      {
+        "question": "The city's infrastructure wouldn't be under such immense strain if urban planners ______ for such rapid population growth.",
+        "options": [
+          "A. would account",
+          "B. accounted",
+          "C. would have accounted",
+          "D. had accounted"
+        ],
+        "answer": "D",
+        "explanation": "Past Condition -> Present Result. ผลลัพธ์ในปัจจุบัน 'wouldn't be under strain' เกิดจากเงื่อนไขการวางแผนในอดีต 'if urban planners had accounted'."
+      },
+      {
+        "question": "If you ______ paying attention to the presentation yesterday, you would know the answer to this question now.",
+        "options": [
+          "A. were",
+          "B. would have been",
+          "C. would be",
+          "D. had been"
+        ],
+        "answer": "D",
+        "explanation": "Past Condition (continuous) -> Present Result. การกระทำที่ต่อเนื่องในอดีต 'had been paying attention' ส่งผลต่อความรู้ในปัจจุบัน 'you would know the answer now'."
+      },
+      {
+        "question": "This ancient manuscript ______ if the monastery hadn't been situated in such a remote, inaccessible location.",
+        "options": [
+          "A. might not survive",
+          "B. might not have survived",
+          "C. didn't survive",
+          "D. wouldn't be surviving"
+        ],
+        "answer": "B",
+        "explanation": "Past Condition -> Past Result (Type 3). ที่ตั้งของวัดในอดีต 'hadn't been situated' ส่งผลต่อการอยู่รอดของเอกสารในอดีต 'might not have survived'."
+      },
+      {
+        "question": "If I didn't have to work this weekend, I ______ you with your move yesterday.",
+        "options": [
+          "A. would help",
+          "B. would have helped",
+          "C. helped",
+          "D. had helped"
+        ],
+        "answer": "B",
+        "explanation": "Present Condition -> Past Result. เงื่อนไข 'If I didn't have to work this weekend' (สถานการณ์ปัจจุบัน/อนาคตอันใกล้) ส่งผลต่อการกระทำในอดีต 'I would have helped... yesterday'."
+      },
+      {
+        "question": "The defendant ______ a much lighter sentence if he had shown genuine remorse during the trial.",
+        "options": [
+          "A. could receive",
+          "B. received",
+          "C. could have received",
+          "D. would be receiving"
+        ],
+        "answer": "C",
+        "explanation": "Past Condition -> Past Result (Type 3). การแสดงความสำนึกผิดในอดีต (ระหว่างการพิจารณาคดี) 'had shown' ส่งผลต่อคำตัดสินในอดีต 'could have received'."
+      },
+      {
+        "question": "Our planet's climate ______ so unstable today if humanity had transitioned to clean energy sources much earlier.",
+        "options": [
+          "A. won't be",
+          "B. wouldn't be",
+          "C. hadn't been",
+          "D. wouldn't have been"
+        ],
+        "answer": "B",
+        "explanation": "Past Condition -> Present Result. การเปลี่ยนผ่านพลังงานในอดีต 'had transitioned' ส่งผลต่อสภาพอากาศในปัจจุบัน 'wouldn't be so unstable today'."
+      },
+      {
+        "question": "______ for her inherent skepticism, she would have fallen for that elaborate phishing scam last week.",
+        "options": [
+          "A. Weren't it",
+          "B. If it hadn't been",
+          "C. Had it not been",
+          "D. If it isn't"
+        ],
+        "answer": "A",
+        "explanation": "Inversion ของ Present Condition -> Past Result. 'Weren't it for...' (If it were not for...) หมายถึง 'ถ้าไม่ใช่เพราะ...' ซึ่งในที่นี้คือ 'นิสัยขี้สงสัย' (คุณสมบัติปัจจุบัน) ส่งผลให้เธอ 'would have fallen' (ผลลัพธ์ในอดีต)."
+      },
+      {
+        "question": "If the startup had secured venture capital funding, it ______ its innovative product across the nation by now.",
+        "options": [
+          "A. would have been launching",
+          "B. would be launching",
+          "C. launched",
+          "D. had been launching"
+        ],
+        "answer": "B",
+        "explanation": "Past Condition -> Present Result. การได้ทุนในอดีต 'had secured' ส่งผลให้ตอนนี้บริษัท 'would be launching' (would + be + V-ing) กำลังอยู่ในกระบวนการเปิดตัวสินค้า."
+      },
+      {
+        "question": "You could have passed the certification exam if you ______ more disciplined in your study routine.",
+        "options": [
+          "A. were",
+          "B. had been",
+          "C. would be",
+          "D. are"
+        ],
+        "answer": "A",
+        "explanation": "Present Condition -> Past Result. ผลลัพธ์ในอดีต 'could have passed' เกิดจากเงื่อนไขที่เป็นนิสัยหรือคุณสมบัติในปัจจุบัน 'if you were more disciplined'."
+      },
+      {
+        "question": "The international relations ______ so tense now if the diplomats had managed to de-escalate the conflict last year.",
+        "options": [
+          "A. wouldn't be",
+          "B. won't be",
+          "C. weren't",
+          "D. wouldn't have been"
+        ],
+        "answer": "A",
+        "explanation": "Past Condition -> Present Result. การจัดการความขัดแย้งในอดีต 'had managed' ส่งผลต่อความสัมพันธ์ระหว่างประเทศในปัจจุบัน 'wouldn't be so tense now'."
+      },
+      {
+        "question": "If my laptop ______ yesterday during the online exam, I would be feeling much more relaxed right now.",
+        "options": [
+          "A. didn't crash",
+          "B. wasn't crashing",
+          "C. hadn't crashed",
+          "D. wouldn't have crashed"
+        ],
+        "answer": "C",
+        "explanation": "Past Condition -> Present Result. เหตุการณ์ในอดีต 'hadn't crashed' ส่งผลต่อความรู้สึกในปัจจุบัน 'I would be feeling... right now'."
+      },
+      {
+        "question": "______ for his profound erudition, the professor couldn't have answered that obscure question from the student.",
+        "options": [
+          "A. Had it not been",
+          "B. If it weren't",
+          "C. Weren't it",
+          "D. If he was not"
+        ],
+        "answer": "C",
+        "explanation": "Inversion ของ Present Condition -> Past Result. 'Weren't it for his profound erudition' (If it were not for his knowledge - คุณสมบัติปัจจุบัน) ส่งผลให้ 'couldn't have answered' (การกระทำในอดีต). ข้อ B ก็ถูกไวยากรณ์ แต่ C เป็นรูปแบบสลับที่ ที่ทดสอบความเข้าใจลึกซึ้งกว่า"
+      },
+      {
+        "question": "The author's magnum opus might have received more acclaim if its themes ______ so anachronistic.",
+        "options": [
+          "A. weren't",
+          "B. hadn't been",
+          "C. wouldn't be",
+          "D. aren't"
+        ],
+        "answer": "A",
+        "explanation": "Present Condition -> Past Result. ผลลัพธ์ในอดีต 'might have received more acclaim' เกิดจากเงื่อนไขที่เป็นลักษณะของงาน (ซึ่งคงอยู่ถึงปัจจุบัน) 'if its themes weren't so anachronistic'."
+      },
+      {
+        "question": "If you had taken my advice about diversifying your portfolio, you ______ the brunt of the recent market downturn.",
+        "options": [
+          "A. wouldn't be feeling",
+          "B. wouldn't have felt",
+          "C. didn't feel",
+          "D. wouldn't feel"
+        ],
+        "answer": "A",
+        "explanation": "Past Condition -> Present Result (continuous). การทำตามคำแนะนำในอดีต 'had taken my advice' ส่งผลให้ตอนนี้ 'you wouldn't be feeling the brunt...' (คุณคงไม่กำลังรู้สึกถึงผลกระทบ)."
+      },
+      {
+        "question": "If the internet didn't exist, how ______ we have coordinated such a large-scale international project last year?",
+        "options": [
+          "A. would",
+          "B. could",
+          "C. did",
+          "D. had"
+        ],
+        "answer": "B",
+        "explanation": "Present Condition -> Past Result. เงื่อนไข 'If the internet didn't exist' (สถานะที่เป็นจริงในปัจจุบัน) ส่งผลต่อความเป็นไปได้ในการกระทำในอดีต 'how could we have coordinated...' (could + have + V3)."
+      },
+      {
+        "question": "We wouldn't be in this predicament if you ______ more transparent with us from the very beginning.",
+        "options": [
+          "A. were",
+          "B. had been",
+          "C. would have been",
+          "D. are"
+        ],
+        "answer": "B",
+        "explanation": "Past Condition -> Present Result. สถานการณ์แย่ๆ ในปัจจุบัน 'wouldn't be in this predicament' เป็นผลมาจากเงื่อนไขในอดีต 'if you had been more transparent'."
+      },
+      {
+        "question": "If I ______ a natural aptitude for mathematics, I would have pursued a career in astrophysics instead of literature.",
+        "options": [
+          "A. had",
+          "B. had had",
+          "C. would have",
+          "D. have"
+        ],
+        "answer": "A",
+        "explanation": "Present Condition -> Past Result. 'If I had...' ในที่นี้ had คือ Past Simple ของ have หมายถึงความถนัดในปัจจุบัน ส่งผลต่อการตัดสินใจเลือกอาชีพในอดีต 'I would have pursued'."
+      },
+      {
+        "question": "Had the treaty been ratified, the two nations ______ in a state of peaceful coexistence for years now.",
+        "options": [
+          "A. would have been",
+          "B. had been",
+          "C. would be",
+          "D. were"
+        ],
+        "answer": "C",
+        "explanation": "Inversion ของ Past Condition -> Present Result. การให้สัตยาบันในอดีต 'Had the treaty been ratified' ส่งผลต่อสถานะความสัมพันธ์ในปัจจุบัน 'the two nations would be...'"
+      }
+    ]
+  }
+]

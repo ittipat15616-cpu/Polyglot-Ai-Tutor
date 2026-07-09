@@ -1,0 +1,854 @@
+[
+  {
+    "id": "28_1",
+    "title": "28.1 Forming Compound Nouns (Noun+Noun, Adj+Noun)",
+    "explanation": "Compound Nouns หรือ 'คำนามประสม' คือคำนามที่เกิดจากการนำคำตั้งแต่ 2 คำขึ้นไปมารวมกันเพื่อสร้างความหมายใหม่ มักจะทำให้ภาษากระชับขึ้น ในบทนี้เราจะเน้น 2 รูปแบบที่พบบ่อยที่สุด:\n\n1.  **Noun + Noun (คำนาม + คำนาม)**\n    *   โครงสร้างนี้เป็นโครงสร้างที่พบบ่อยมาก คำนามตัวแรกจะทำหน้าที่คล้าย Adjective คือ ขยายคำนามตัวหลักที่อยู่ข้างหลัง เพื่อบอก 'ประเภท', 'วัตถุประสงค์' หรือ 'ทำมาจากอะไร'\n    *   **กฎสำคัญ:** คำนามตัวแรกมักจะอยู่ในรูป 'เอกพจน์' (Singular) เสมอ แม้ว่าจะสื่อถึงความหมายที่เป็นพหูพจน์ก็ตาม\n    *   ตัวอย่าง: `a car park` (ที่จอดรถ) ไม่ใช่ `a cars park` แม้ว่าจะมีรถจอดหลายคันก็ตาม เพราะ `car` ในที่นี้ทำหน้าที่บอก 'ประเภท' ของที่จอด ไม่ได้นับจำนวนรถ\n    *   รูปแบบการเขียนมี 3 แบบ: เขียนแยกกัน (open form: `bus stop`), เขียนติดกัน (closed form: `bedroom`), และมีขีดคั่น (hyphenated form: `mother-in-law`)\n\n2.  **Adjective + Noun (คำคุณศัพท์ + คำนาม)**\n    *   โครงสร้างนี้ดูเผินๆ อาจเหมือนการใช้ Adjective ขยายนามตามปกติ แต่ Compound Noun ประเภทนี้มักจะรวมกันจนกลายเป็น 'คำเฉพาะ' ที่มีความหมายเจาะจง ไม่สามารถแปลตรงตัวได้เสมอไป\n    *   ตัวอย่าง: `a greenhouse` ไม่ได้แปลว่า 'บ้านสีเขียว' แต่หมายถึง 'เรือนกระจก' สำหรับปลูกต้นไม้\n    *   ตัวอย่างอื่น: `software` (ไม่ใช่ 'เครื่องมือที่นุ่มนิ่ม' แต่คือ 'ซอฟต์แวร์'), `a blackboard` (กระดานดำ), `global warming` (ภาวะโลกร้อน)",
+    "examples": [
+      {
+        "eng": "The government has proposed a new income tax policy to support low-wage earners.",
+        "thai": "รัฐบาลได้เสนอนโยบาย 'ภาษีเงินได้' (income tax) ใหม่เพื่อช่วยเหลือผู้มีรายได้น้อย (Noun+Noun: `income` ขยาย `tax` เพื่อบอกว่าเป็นภาษีประเภทไหน)"
+      },
+      {
+        "eng": "Due to the engine trouble, the flight was delayed for several hours.",
+        "thai": "เนื่องจาก 'ปัญหาเครื่องยนต์' (engine trouble) เที่ยวบินจึงล่าช้าไปหลายชั่วโมง (Noun+Noun: `engine` ขยาย `trouble` เพื่อบอกว่าเป็นปัญหาที่เกี่ยวกับอะไร)"
+      },
+      {
+        "eng": "Many scientists believe that the melting of polar ice caps is a direct consequence of global warming.",
+        "thai": "นักวิทยาศาสตร์หลายคนเชื่อว่าการละลายของธารน้ำแข็งขั้วโลกเป็นผลโดยตรงจาก 'ภาวะโลกร้อน' (global warming) (Adj+Noun: `global` + `warming` รวมกันเป็นคำศัพท์เฉพาะ)"
+      },
+      {
+        "eng": "Could you please give me the customer service department's phone number?",
+        "thai": "คุณช่วยให้เบอร์โทรศัพท์ของแผนก 'บริการลูกค้า' (customer service) หน่อยได้ไหมครับ (Noun+Noun: `customer` ขยาย `service` เพื่อบอกว่าเป็นบริการสำหรับใคร)"
+      },
+      {
+        "eng": "He is a well-known expert in the field of artificial intelligence.",
+        "thai": "เขาเป็นผู้เชี่ยวชาญที่มีชื่อเสียงในสาขา 'ปัญญาประดิษฐ์' (artificial intelligence) (Adj+Noun: `artificial` + `intelligence` รวมกันเป็นคำเฉพาะทาง)"
+      }
+    ],
+    "common_mistakes": "1.  **การเติม s ที่คำนามตัวแรก (Pluralizing the first noun):** นี่คือข้อผิดพลาดที่พบบ่อยที่สุด คนไทยมักจะแปลตรงตัว เช่น 'ร้านขายรองเท้า' ก็จะพูดว่า `a shoes store` ซึ่งผิดหลักไวยากรณ์\n    *   **ที่ถูกคือ:** `a shoe store` เพราะคำนามตัวแรก (`shoe`) ทำหน้าที่เป็น Adjective ขยาย `store` และ Adjective ในภาษาอังกฤษไม่มีการเติม s\n    *   ตัวอย่างอื่น: `vegetable soup` (ไม่ใช่ `vegetables soup`), `a five-year plan` (ไม่ใช่ `a five-years plan`)\n\n2.  **การใช้ 's แสดงความเป็นเจ้าของ (Possessive 's) สับสนกับ Noun+Noun:** บางครั้งผู้เรียนใช้ 's ในความหมายของประเภท ซึ่งไม่ถูกต้อง\n    *   `the car door` หมายถึง ประตูรถ (เป็นชิ้นส่วนประเภทหนึ่งของรถยนต์)\n    *   `the car's door` หมายถึง ประตูของรถ 'คันนั้น' (เจาะจงว่าเป็นของรถคันใดคันหนึ่ง)\n    *   ดังนั้น เวลาพูดถึงประเภททั่วไป ให้ใช้ Noun+Noun เช่น `computer screen`, `company policy`, `kitchen window`\n\n3.  **สับสนระหว่างความหมายตรงตัวกับความหมายเฉพาะ:** โดยเฉพาะในรูปแบบ Adj+Noun\n    *   `a black board` (กระดานอันหนึ่งที่เป็นสีดำ)\n    *   `a blackboard` (กระดานดำที่ใช้ในห้องเรียน)\n    *   ต้องอาศัยการจดจำและสังเกตบริบทว่าคำนั้นเป็น Compound Noun ที่มีความหมายเฉพาะหรือไม่",
+    "practice_questions": [
+      {
+        "question": "The company is investing heavily in ______ to protect its data from hackers.",
+        "options": [
+          "A. cyber security",
+          "B. security of cyber",
+          "C. cyber's security",
+          "D. securities cyber"
+        ],
+        "answer": "A",
+        "explanation": "คำตอบที่ถูกต้องคือ 'cyber security' (ความปลอดภัยทางไซเบอร์) ซึ่งเป็น Compound Noun แบบ Noun+Noun ที่ถูกต้อง โดย 'cyber' ทำหน้าที่ขยาย 'security' เพื่อบอกประเภทของความปลอดภัย ข้อ B และ C ผิดหลักไวยากรณ์ ส่วนข้อ D เรียงลำดับคำผิด"
+      },
+      {
+        "question": "I always have a cup of ______ before I go to bed; it helps me relax.",
+        "options": [
+          "A. herbs tea",
+          "B. herbal tea",
+          "C. tea of herb",
+          "D. tea's herb"
+        ],
+        "answer": "B",
+        "explanation": "คำตอบที่ถูกต้องคือ 'herbal tea' (ชาสมุนไพร) เป็น Compound Noun แบบ Adjective ('herbal') + Noun ('tea') เพื่อบอกชนิดของชา ข้อ A 'herbs tea' ผิดเพราะคำนามตัวแรกที่ทำหน้าที่ขยายควรเป็นเอกพจน์ (herb) หรือใช้รูป Adjective ไปเลยซึ่งเป็นธรรมชาติกว่าในกรณีนี้"
+      },
+      {
+        "question": "The city council has approved the plans for a new ______ in the city center.",
+        "options": [
+          "A. sports center",
+          "B. sport center",
+          "C. sport's center",
+          "D. center for sports"
+        ],
+        "answer": "A",
+        "explanation": "คำตอบที่ถูกต้องคือ 'sports center' (ศูนย์กีฬา) เป็น Compound Noun แบบ Noun+Noun แม้ว่า 'sports' จะลงท้ายด้วย 's' แต่ในกรณีนี้ 'sports' ถูกใช้เป็นคำนามเอกพจน์ที่หมายถึง 'กิจกรรมเกี่ยวกับกีฬา' (เช่น a sports car, sports news) ซึ่งเป็นข้อยกเว้นที่ต้องจำ ข้อ B 'sport center' ก็ใช้ได้ในบางบริบท แต่ 'sports center' เป็นที่นิยมและยอมรับมากกว่าในภาษาอังกฤษทั่วไป"
+      },
+      {
+        "question": "You should read the ______ carefully before installing this new software.",
+        "options": [
+          "A. instructions manual",
+          "B. instruction manual",
+          "C. manual of instruction",
+          "D. manual's instruction"
+        ],
+        "answer": "B",
+        "explanation": "คำตอบที่ถูกต้องคือ 'instruction manual' (คู่มือการใช้งาน) ตามกฎของ Noun+Noun คำนามตัวแรก ('instruction') ต้องเป็นรูปเอกพจน์เพื่อทำหน้าที่ขยายคำนามตัวหลัก ('manual') แม้ว่าในคู่มือจะมีคำแนะนำหลายข้อก็ตาม ข้อ A 'instructions manual' เป็นข้อผิดพลาดที่คนไทยทำบ่อย"
+      },
+      {
+        "question": "Global warming is causing a significant rise in ______.",
+        "options": [
+          "A. the level of the sea",
+          "B. sea levels",
+          "C. seas level",
+          "D. sea's level"
+        ],
+        "answer": "B",
+        "explanation": "คำตอบที่ถูกต้องคือ 'sea levels' (ระดับน้ำทะเล) ในที่นี้ 'sea' เป็น Noun ที่ขยาย 'levels' (ซึ่งเป็นคำนามหลักและเป็นพหูพจน์ได้) หมายถึง ระดับน้ำของทะเลต่างๆ ทั่วโลก รูปแบบ Noun+Noun สามารถมีคำนามตัวหลังเป็นพหูพจน์ได้ถ้าความหมายสอดคล้อง ข้อ C 'seas level' ผิดเพราะสลับการเติม s"
+      },
+      {
+        "question": "A ______ is a place where you can borrow books, not buy them.",
+        "options": [
+          "A. books library",
+          "B. book library",
+          "C. library of book",
+          "D. book's library"
+        ],
+        "answer": "B",
+        "explanation": "คำตอบที่ถูกต้องคือ 'book library' (ห้องสมุดหนังสือ) ตามหลักการ คำนามตัวแรก 'book' ต้องเป็นเอกพจน์เพื่อขยาย 'library' แม้ว่าในห้องสมุดจะมีหนังสือหลายเล่มก็ตาม (อย่างไรก็ตาม คนส่วนใหญ่มักเรียกสั้นๆ ว่า 'library' แต่ถ้าต้องการขยายความ นี่คือรูปที่ถูกต้อง)"
+      },
+      {
+        "question": "The new skyscraper has a ______ on the top floor with an amazing view of the city.",
+        "options": [
+          "A. swimming pool",
+          "B. swims pool",
+          "C. pool for swimming",
+          "D. swimming's pool"
+        ],
+        "answer": "A",
+        "explanation": "คำตอบที่ถูกต้องคือ 'swimming pool' (สระว่ายน้ำ) เป็น Compound Noun ที่เกิดจาก Gerund (V-ing ที่ทำหน้าที่เป็นนาม) + Noun โดย 'swimming' ทำหน้าที่บอกวัตถุประสงค์ของ 'pool' คือ เป็นสระสำหรับว่ายน้ำ"
+      },
+      {
+        "question": "I'm looking for a high-quality ______ to protect my new phone.",
+        "options": [
+          "A. phone case",
+          "B. phone's case",
+          "C. case of phone",
+          "D. phones case"
+        ],
+        "answer": "A",
+        "explanation": "คำตอบที่ถูกต้องคือ 'phone case' (เคสโทรศัพท์) เป็น Compound Noun แบบ Noun+Noun ที่ใช้บอกประเภทของเคส ข้อ B 'phone's case' หมายถึงเคสของโทรศัพท์เครื่องนั้นโดยเฉพาะ ซึ่งไม่ตรงกับบริบทที่พูดถึงประเภทสินค้า ข้อ D 'phones case' ผิดเพราะใช้รูปพหูพจน์กับคำนามตัวแรก"
+      },
+      {
+        "question": "The company's annual ______ will be published next month.",
+        "options": [
+          "A. report of finance",
+          "B. finances report",
+          "C. financial report",
+          "D. finance's report"
+        ],
+        "answer": "C",
+        "explanation": "คำตอบที่ถูกต้องคือ 'financial report' (รายงานทางการเงิน) เป็นรูปแบบ Adjective ('financial') + Noun ('report') ซึ่งเป็นวิธีที่ถูกต้องและเป็นธรรมชาติที่สุดในการอธิบายประเภทของรายงาน ข้อ B 'finances report' ผิดหลักไวยากรณ์"
+      },
+      {
+        "question": "After the long hike, everyone complained about having a terrible ______.",
+        "options": [
+          "A. head ache",
+          "B. ache of head",
+          "C. head's ache",
+          "D. headache"
+        ],
+        "answer": "D",
+        "explanation": "คำตอบที่ถูกต้องคือ 'headache' (อาการปวดหัว) ซึ่งเป็น Compound Noun แบบเขียนติดกัน (closed form) ที่เกิดจาก Noun+Noun และมีความหมายเฉพาะตัว ข้อ A 'head ache' (เขียนแยก) อาจพบได้บ้าง แต่รูปที่ถูกต้องและเป็นมาตรฐานคือเขียนติดกันเป็นคำเดียว"
+      }
+    ]
+  },
+  {
+    "id": "28_2",
+    "title": "28.2 Forming Compound Adjectives (Number-Noun, Noun-Participle)",
+    "explanation": "Compound Adjectives คือคำคุณศัพท์ที่เกิดจากการนำคำตั้งแต่ 2 คำขึ้นไปมารวมกัน (โดยมักมี hyphen คั่นกลาง) เพื่อทำหน้าที่เป็น Adjective เพียงคำเดียว ขยายคำนามที่ตามมา ในบทนี้เราจะเน้น 2 รูปแบบที่พบบ่อยและสำคัญมากในระดับ B1-B2 ครับ\n\n1.  **Number-Noun (ตัวเลข + คำนาม)**\n    -   โครงสร้าง: `Number-Noun` (คำนามต้องเป็นรูปเอกพจน์เสมอ!)\n    -   หน้าที่: ใช้บอกจำนวน, ระยะเวลา, ขนาด, อายุ หรือคุณลักษณะอื่นๆ ของคำนามที่ตามมา\n    -   หลักการสำคัญ: เมื่อตัวเลขและคำนามถูกนำมารวมกันด้วย hyphen เพื่อทำหน้าที่เป็น Adjective แล้ว คำนามที่อยู่ในโครงสร้างนี้จะต้องเป็น **รูปเอกพจน์ (Singular)** เสมอ แม้ว่าตัวเลขข้างหน้าจะมากกว่า 1 ก็ตาม\n    -   ตัวอย่าง: a `two-hour` meeting (การประชุม 2 ชั่วโมง), a `five-year-old` child (เด็กอายุ 5 ขวบ), a `20-page` report (รายงาน 20 หน้า)\n\n2.  **Noun-Participle (คำนาม + V-ing/V3)**\n    -   โครงสร้างนี้จะซับซ้อนขึ้นมาอีกเล็กน้อย โดยแบ่งได้ 2 แบบหลักๆ ตามความหมาย:\n\n    -   **a) Noun + Present Participle (V-ing)**\n        -   โครงสร้าง: `Noun-Ving`\n        -   ความหมาย: สื่อถึงสิ่งที่ **'กระทำ'** หรือ **'ก่อให้เกิด'** อาการนั้นๆ (Active meaning) คำนามข้างหน้ามักเป็นประธานของการกระทำนั้น\n        -   ตัวอย่าง: a `thought-provoking` film (หนังที่ 'กระตุ้น' ความคิด), a `mouth-watering` dish (อาหารที่ 'ทำให้น้ำลายสอ'), a `record-breaking` performance (การแสดงที่ 'ทำลาย' สถิติ)\n\n    -   **b) Noun + Past Participle (V3)**\n        -   โครงสร้าง: `Noun-V3`\n        -   ความหมาย: สื่อถึงสิ่งที่ **'ถูกกระทำ'** (Passive meaning) คำนามข้างหน้ามักจะเป็นสิ่งที่เกี่ยวข้องหรือเป็นเครื่องมือในการกระทำนั้น\n        -   ตัวอย่าง: a `hand-made` gift (ของขวัญที่ 'ถูกทำ' ด้วยมือ), a `sun-dried` tomato (มะเขือเทศที่ 'ถูกทำให้แห้ง' ด้วยแสงอาทิตย์), a `well-known` author (นักเขียนที่ 'เป็นที่รู้จัก' อย่างดี)\n\nการเข้าใจความแตกต่างระหว่าง V-ing (กระทำเอง) และ V3 (ถูกกระทำ) เป็นหัวใจสำคัญในการใช้ Compound Adjective ประเภทนี้ให้ถูกต้องครับ",
+    "examples": [
+      {
+        "eng": "The company requires all new employees to complete a three-day intensive training program.",
+        "thai": "บริษัทกำหนดให้พนักงานใหม่ทุกคนต้องผ่านโปรแกรมการฝึกอบรมอย่างเข้มข้นเป็นเวลาสามวัน (สังเกตว่าใช้ three-day ไม่ใช่ three-days)"
+      },
+      {
+        "eng": "She presented a thought-provoking analysis of the current economic situation.",
+        "thai": "เธอนำเสนอการวิเคราะห์สถานการณ์เศรษฐกิจปัจจุบันที่กระตุ้นให้เกิดความคิด (thought-provoking หมายถึง ตัวการวิเคราะห์นั้น 'กระตุ้น' ความคิดของเรา)"
+      },
+      {
+        "eng": "This restaurant is famous for its home-cooked meals that taste just like your grandmother's.",
+        "thai": "ร้านอาหารนี้มีชื่อเสียงด้านอาหารที่ปรุงเองที่บ้าน (home-cooked หมายถึง มื้ออาหารที่ 'ถูกปรุง' ที่บ้าน ไม่ได้ไปปรุงใคร)"
+      },
+      {
+        "eng": "The critically acclaimed, state-of-the-art device is a battery-powered vehicle designed for urban commuting.",
+        "thai": "อุปกรณ์ล้ำสมัยที่ได้รับคำชมจากนักวิจารณ์นี้ เป็นยานพาหนะที่ใช้พลังงานจากแบตเตอรี่ (battery-powered) ซึ่งถูกออกแบบมาเพื่อการเดินทางในเมือง (ประโยคนี้ซับซ้อนขึ้น โดยมีทั้ง state-of-the-art และ battery-powered เป็น Compound Adjectives)"
+      }
+    ],
+    "common_mistakes": "จุดที่คนไทยมักพลาดบ่อยๆ มีดังนี้ครับ:\n\n1.  **ใช้รูปพหูพจน์ใน Number-Noun Adjective**: นี่คือข้อผิดพลาดที่พบบ่อยที่สุด! เช่น พูดว่า `a ten-pages document` แทนที่จะเป็น `a ten-page document` หรือ `a five-years-old boy` แทนที่จะเป็น `a five-year-old boy` **จำไว้เสมอว่า**: เมื่อมันทำหน้าที่เป็น Adjective คำนามตรงกลางต้องเป็นเอกพจน์เสมอ\n\n2.  **ลืมใส่ขีด Hyphen (-)**: การไม่มี hyphen จะเปลี่ยนความหมายของประโยคไปเลย เช่น\n    -   `a high school student` (นักเรียนมัธยมปลาย - high school เป็น Compound Noun อยู่แล้ว)\n    -   `a high-school romance` (เรื่องรักในสมัยมัธยม - high-school ทำหน้าที่เป็น Adjective ขยาย romance)\n    -   `a two week vacation` (อาจทำให้สับสน) vs `a two-week vacation` (ชัดเจนว่าคือวันหยุดยาว 2 สัปดาห์)\n\n3.  **สับสนระหว่าง Present Participle (V-ing) และ Past Participle (V3)**: ไม่เข้าใจความหมาย Active vs Passive ทำให้เลือกใช้ผิด เช่น\n    -   `a heart-breaking story` (เรื่องราวที่ 'ทำให้' ใจสลาย) vs `a heart-broken person` (คนที่ 'ถูกทำให้' ใจสลาย)\n    -   `an English-speaking country` (ประเทศที่ 'พูด' ภาษาอังกฤษ) vs `a widely-spoken language` (ภาษาที่ 'ถูกพูด' อย่างแพร่หลาย)\n    -   นักเรียนมักใช้ผิดโดยพูดว่า `I am a heart-breaking person` ซึ่งจะหมายความว่า 'ฉันเป็นคนที่ชอบหักอกคนอื่น' แทนที่จะบอกว่าตัวเองอกหัก",
+    "practice_questions": [
+      {
+        "question": "The manager asked me to summarize the main points of the ______ report before the meeting.",
+        "options": [
+          "A. fifty-pages",
+          "B. fifty-page",
+          "C. fifty page",
+          "D. fifties-page"
+        ],
+        "answer": "B",
+        "explanation": "โครงสร้าง Number-Noun ที่ทำหน้าที่เป็น Adjective คำนามที่อยู่ตรงกลาง (page) จะต้องเป็นรูปเอกพจน์เสมอ แม้ว่าตัวเลขข้างหน้า (fifty) จะมากกว่าหนึ่งก็ตาม และต้องมี hyphen คั่นกลาง ดังนั้น fifty-page จึงเป็นคำตอบที่ถูกต้อง"
+      },
+      {
+        "question": "Her latest novel is a ______ story that keeps you guessing until the very end.",
+        "options": [
+          "A. spine-chilling",
+          "B. spine-chilled",
+          "C. spine-chill",
+          "D. spine-to-chill"
+        ],
+        "answer": "A",
+        "explanation": "เราต้องการ Adjective ที่สื่อว่าเรื่องราวนั้น 'ทำให้' เราสยอง (Active meaning) ดังนั้นจึงต้องใช้รูป Present Participle (V-ing) คำว่า 'spine-chilling' หมายถึง น่าขนลุก, น่ากลัว"
+      },
+      {
+        "question": "Most of the furniture in their apartment is ______, which adds a unique, personal touch.",
+        "options": [
+          "A. hand-make",
+          "B. hand-making",
+          "C. hand-made",
+          "D. hands-made"
+        ],
+        "answer": "C",
+        "explanation": "เฟอร์นิเจอร์ 'ถูกทำ' ด้วยมือ (Passive meaning) ดังนั้นเราต้องใช้รูป Past Participle (V3) คือ made กลายเป็น 'hand-made' หมายถึง ทำด้วยมือ"
+      },
+      {
+        "question": "The company is looking for ______ individuals who can work independently and under pressure.",
+        "options": [
+          "A. self-motivating",
+          "B. self-motivated",
+          "C. self-motive",
+          "D. self-motivation"
+        ],
+        "answer": "B",
+        "explanation": "เรากำลังพูดถึงคุณสมบัติของบุคคลที่ 'ถูกกระตุ้น' โดยตนเอง (มีแรงจูงใจในตัวเอง) ความหมายเป็น Passive จึงใช้ Past Participle (V3) คือ 'self-motivated' ถ้าใช้ 'self-motivating' จะหมายถึงสิ่งที่ 'กระตุ้นตัวเอง' ได้"
+      },
+      {
+        "question": "The flight was delayed for three hours, so we were given a ______ voucher for food and drinks.",
+        "options": [
+          "A. ten-dollars",
+          "B. ten-dollar",
+          "C. ten dollar",
+          "D. ten of dollars"
+        ],
+        "answer": "B",
+        "explanation": "ตามกฎของ Number-Noun Adjective คำนาม 'dollar' ต้องเป็นรูปเอกพจน์ และต้องมี hyphen เชื่อมกับ 'ten' เพื่อทำหน้าที่ขยายคำนาม voucher"
+      },
+      {
+        "question": "The new eco-friendly car is ______ and has a remarkably low environmental impact.",
+        "options": [
+          "A. solar-powering",
+          "B. sun-powered",
+          "C. solar-powered",
+          "D. sun-powering"
+        ],
+        "answer": "C",
+        "explanation": "รถยนต์ 'ถูกขับเคลื่อน' ด้วยพลังงานแสงอาทิตย์ (Passive meaning) จึงต้องใช้ Past Participle (V3) คือ powered คำว่า 'solar-powered' หมายถึง ใช้พลังงานแสงอาทิตย์"
+      },
+      {
+        "question": "It was a truly ______ experience to see the Grand Canyon for the first time.",
+        "options": [
+          "A. awe-inspiring",
+          "B. awe-inspired",
+          "C. awed-inspiring",
+          "D. awe-inspire"
+        ],
+        "answer": "A",
+        "explanation": "ประสบการณ์นั้น 'เป็นแรงบันดาลใจ' หรือ 'ทำให้' เรารู้สึกทึ่ง (Active meaning) ดังนั้นจึงต้องใช้ Present Participle (V-ing) คือ 'awe-inspiring' ถ้าใช้ 'awe-inspired' จะหมายถึงคนที่ 'รู้สึก' ทึ่ง"
+      },
+      {
+        "question": "For this project, we need to hire a ______ web designer with at least five years of experience.",
+        "options": [
+          "A. highly-skill",
+          "B. high-skilled",
+          "C. highly-skilled",
+          "D. high-skill"
+        ],
+        "answer": "C",
+        "explanation": "รูปแบบนี้คือ Adverb-Past Participle (highly + skilled) เพื่ออธิบายคุณสมบัติของนักออกแบบว่า 'มีทักษะสูง' (ถูกทำให้มีทักษะ) 'highly-skilled' จึงเป็นคำตอบที่ถูกต้องที่สุดเพื่อขยายคำนาม web designer"
+      },
+      {
+        "question": "Preparing the annual budget is a very ______ process that requires great attention to detail.",
+        "options": [
+          "A. time-consumed",
+          "B. time-consuming",
+          "C. time-consumes",
+          "D. timed-consuming"
+        ],
+        "answer": "B",
+        "explanation": "กระบวนการนี้ 'ใช้' เวลา (Active meaning) ไม่ได้ 'ถูกใช้' โดยเวลา ดังนั้นจึงต้องใช้ Present Participle (V-ing) คือ 'time-consuming' หมายถึง ที่กินเวลา, ที่ต้องใช้เวลามาก"
+      },
+      {
+        "question": "The athlete's ______ performance in the final race earned him a gold medal.",
+        "options": [
+          "A. record-broken",
+          "B. record-breaking",
+          "C. record-breaks",
+          "D. recording-break"
+        ],
+        "answer": "B",
+        "explanation": "การแสดงหรือผลงานของนักกีฬา 'ทำลาย' สถิติ (Active meaning) จึงใช้ Present Participle (V-ing) คือ 'record-breaking' ถ้าใช้ 'record-broken' จะหมายถึงสถิติที่ 'ถูกทำลาย' ซึ่งไม่เข้ากับบริบทที่ต้องการขยายคำว่า performance"
+      }
+    ]
+  },
+  {
+    "id": "28_3",
+    "title": "28.3 Summary: Compounds (สรุปคำประสม + 50 Exercises)",
+    "explanation": "คำประสม (Compounds) คือการนำคำตั้งแต่ 2 คำขึ้นไปมารวมกันเพื่อสร้างคำใหม่ที่มีความหมายเฉพาะเจาะจง แบ่งเป็น 2 ประเภทหลักที่ต้องรู้ในระดับ B1-B2:\n\n1. **Compound Nouns (คำนามประสม)**: คือคำนามที่เกิดจากการรวมคำ เกิดขึ้นได้หลายรูปแบบ เช่น\n   - **Closed (เขียนติดกัน)**: `toothbrush`, `bedroom`, `software`\n   - **Open (เขียนแยกกัน)**: `bus stop`, `swimming pool`, `post office`\n   - **Hyphenated (มีขีดกลาง)**: `mother-in-law`, `check-in`, `dry-cleaning`\n   - **โครงสร้างที่พบบ่อย**: `Noun + Noun` (e.g., `car park`) คำนามตัวแรกทำหน้าที่คล้าย Adjective และมักเป็นรูปเอกพจน์เสมอ\n\n2. **Compound Adjectives (คุณศัพท์ประสม)**: คือกลุ่มคำที่ทำหน้าที่เป็น Adjective ขยายคำนาม มักจะมีขีดกลาง (hyphen) เชื่อมเมื่อวางอยู่ 'หน้า' คำนาม เพื่อบอกว่าคำเหล่านี้ทำงานร่วมกันเป็นหน่วยเดียว\n   - **โครงสร้างที่พบบ่อย**:\n     - `Number + Noun`: `a ten-minute walk` (การเดิน 10 นาที) → **สำคัญมาก**: คำนามที่ตามหลังตัวเลขต้องเป็นรูปเอกพจน์เสมอ (`minute` ไม่ใช่ `minutes`)\n     - `Adverb/Adjective + Past Participle`: `a well-known author` (นักเขียนที่มีชื่อเสียง), `a brightly-lit room` (ห้องที่สว่างไสว)\n     - `Noun + Past Participle`: `sun-dried tomatoes` (มะเขือเทศตากแห้ง)\n     - `Adjective + Noun+ed`: `a cold-hearted person` (คนใจร้าย)\n   - **ข้อควรจำ**: ถ้า Compound Adjective วางอยู่ 'หลัง' คำนาม (เช่น ตามหลัง verb to be) เรามักจะไม่ใส่ขีดกลาง เช่น `This author is well known.`",
+    "examples": [
+      {
+        "eng": "I'm waiting at the bus stop.",
+        "thai": "ฉันกำลังรออยู่ที่ป้ายรถเมล์ (bus stop เป็น Open Compound Noun)"
+      },
+      {
+        "eng": "We need a long-term solution to this problem.",
+        "thai": "เราต้องการวิธีแก้ปัญหาระยะยาวสำหรับปัญหานี้ (long-term เป็น Compound Adjective ที่มีขีดกลางเพราะวางอยู่หน้าคำนาม solution)"
+      },
+      {
+        "eng": "It was a two-hour meeting, so I'm exhausted.",
+        "thai": "มันเป็นการประชุมนานสองชั่วโมง ฉันเลยเหนื่อยมาก (two-hour เป็น Compound Adjective สังเกตว่า hour เป็นรูปเอกพจน์ แม้ว่าจะมี two อยู่ข้างหน้า)"
+      },
+      {
+        "eng": "The fact that he is well known doesn't mean he's a good person.",
+        "thai": "การที่เขาเป็นคนมีชื่อเสียงไม่ได้หมายความว่าเขาเป็นคนดี (well known ไม่มีขีดกลางเพราะวางอยู่หลัง verb to be)"
+      }
+    ],
+    "common_mistakes": "- **เติม 's' ผิดที่ (Pluralization Error)**: คนไทยมักเผลอเติม 's' ที่คำนามตัวแรกของ Compound Noun เช่นพูดว่า *a shoes store* แทนที่จะเป็น `a shoe store` ที่ถูกต้อง เพราะคำว่า shoe ทำหน้าที่ขยาย store และต้องเป็นรูปเอกพจน์\n- **ลืมใส่ขีดกลาง (Missing Hyphen)**: เป็นข้อผิดพลาดที่พบบ่อยที่สุดใน Compound Adjective เมื่อวางหน้าคำนาม เช่นเขียนว่า *a world famous singer* แทนที่จะเป็น `a world-famous singer` การใส่ขีดกลางช่วยให้ผู้อ่านเข้าใจว่า world และ famous ทำงานร่วมกันเพื่อขยายคำว่า singer\n- **ใช้รูปพหูพจน์กับ Number-Noun Adjective**: จุดที่ผิดบ่อยจนเป็นเรื่องปกติคือการใช้รูปพหูพจน์ใน Adjective ที่มีตัวเลข เช่น *a twenty-pages report* ที่ถูกต้องคือ `a twenty-page report` กฎคือคำนามในโครงสร้างนี้ต้องเป็นเอกพจน์เสมอ ไม่ว่าตัวเลขข้างหน้าจะเป็นเท่าไหร่ก็ตาม\n- **สับสนรูปแบบ Open/Closed**: ไม่แน่ใจว่าคำไหนเขียนติดกัน (closed) หรือแยกกัน (open) เช่น `bookshop` vs. `book store` ซึ่งบางคำใช้ได้ทั้งสองแบบ แต่หลายคำมีรูปแบบตายตัว วิธีที่ดีที่สุดคือการอ่านและสังเกตเพื่อสร้างความคุ้นเคย",
+    "practice_questions": [
+      {
+        "question": "The journey took forever. It was a very ______ trip.",
+        "options": [
+          "A. long distance",
+          "B. long-distance",
+          "C. long-distances",
+          "D. long of distance"
+        ],
+        "answer": "B",
+        "explanation": "เมื่อกลุ่มคำทำหน้าที่เป็น Adjective ขยายคำนามที่ตามมา (trip) ต้องใช้ขีดกลาง (hyphen) เชื่อมคำเหล่านั้นเข้าด้วยกัน จึงต้องใช้ long-distance"
+      },
+      {
+        "question": "We had a ______ break after studying for three hours.",
+        "options": [
+          "A. ten minutes",
+          "B. ten-minutes",
+          "C. ten minute",
+          "D. ten-minute"
+        ],
+        "answer": "D",
+        "explanation": "นี่คือ Compound Adjective ที่มีตัวเลขนำหน้า (Number + Noun) คำนามที่ตามหลังตัวเลข (minute) จะต้องเป็นรูปเอกพจน์เสมอ และต้องมีขีดกลางเชื่อมเมื่อวางไว้หน้าคำนาม (break) ดังนั้น ten-minute คือคำตอบที่ถูกต้อง"
+      },
+      {
+        "question": "My ______ is coming to visit us this weekend.",
+        "options": [
+          "A. mother-in-law",
+          "B. mother in law",
+          "C. mother's in law",
+          "D. mother in laws"
+        ],
+        "answer": "A",
+        "explanation": "คำว่า 'แม่ยาย/แม่สามี' ในภาษาอังกฤษคือ mother-in-law เป็นคำนามประสมแบบมีขีดกลาง (Hyphenated Compound Noun)"
+      },
+      {
+        "question": "This is a very ______ author. Almost everyone knows her books.",
+        "options": [
+          "A. well known",
+          "B. well-known",
+          "C. well-knowing",
+          "D. well-know"
+        ],
+        "answer": "B",
+        "explanation": "well-known (มีชื่อเสียง) เป็น Compound Adjective ที่ใช้ขยายคำนาม author ที่ตามมา จึงต้องมีขีดกลางเชื่อม"
+      },
+      {
+        "question": "The company produces ______ equipment for professional photographers.",
+        "options": [
+          "A. high quality",
+          "B. high-quality",
+          "C. higher-quality",
+          "D. quality-high"
+        ],
+        "answer": "B",
+        "explanation": "high-quality เป็น Compound Adjective ที่ขยายคำนาม equipment จึงต้องใช้ขีดกลางเชื่อมคำว่า high และ quality เข้าด้วยกัน"
+      },
+      {
+        "question": "I need to go to the post ______ to send this package.",
+        "options": [
+          "A. office",
+          "B. offices",
+          "C. officer",
+          "D. official"
+        ],
+        "answer": "A",
+        "explanation": "post office (ที่ทำการไปรษณีย์) เป็น Open Compound Noun ที่เกิดจากการรวมคำว่า post และ office"
+      },
+      {
+        "question": "Be careful, this is a ______ street. You can't turn back.",
+        "options": [
+          "A. one way",
+          "B. one ways",
+          "C. one-way",
+          "D. one-ways"
+        ],
+        "answer": "C",
+        "explanation": "one-way (เดินทางเดียว) เป็น Compound Adjective ที่ขยายคำนาม street จึงต้องมีขีดกลางเชื่อม"
+      },
+      {
+        "question": "His job is very ______. It takes up all of his evenings.",
+        "options": [
+          "A. time consuming",
+          "B. time-consuming",
+          "C. time-consumed",
+          "D. time consumes"
+        ],
+        "answer": "B",
+        "explanation": "time-consuming (ที่กินเวลา) เป็น Compound Adjective ที่ใช้บรรยายลักษณะของงาน (job) ในที่นี้ถึงแม้จะไม่ได้อยู่หน้าคำนามโดยตรง แต่ทำหน้าที่เป็น predicate adjective ที่อธิบาย 주어 และเป็นที่ยอมรับในการใช้ขีดกลาง"
+      },
+      {
+        "question": "Many people prefer using a ______ to a desktop computer because it's portable.",
+        "options": [
+          "A. lap top",
+          "B. lap-top",
+          "C. laptop",
+          "D. lapping top"
+        ],
+        "answer": "C",
+        "explanation": "laptop เป็น Closed Compound Noun หมายถึงคอมพิวเตอร์พกพา เป็นคำที่เขียนติดกัน"
+      },
+      {
+        "question": "He's a very ______ person; he never changes his mind.",
+        "options": [
+          "A. strong willed",
+          "B. strong-willed",
+          "C. strongly-willed",
+          "D. strongs-willed"
+        ],
+        "answer": "B",
+        "explanation": "strong-willed (ใจเด็ด, ดื้อรั้น) เป็น Compound Adjective ที่ใช้ขยายคำนาม person จึงต้องมีขีดกลางเชื่อม"
+      },
+      {
+        "question": "I love eating ______ tomatoes in my pasta.",
+        "options": [
+          "A. sun dried",
+          "B. sun-dried",
+          "C. sun-drying",
+          "D. suns-dried"
+        ],
+        "answer": "B",
+        "explanation": "sun-dried (ตากแห้งด้วยแดด) เป็น Compound Adjective ที่มาจาก 'Noun + Past Participle' ใช้ขยายคำนาม tomatoes จึงต้องมีขีดกลาง"
+      },
+      {
+        "question": "We stayed at a ______ hotel, and the service was excellent.",
+        "options": [
+          "A. five star",
+          "B. five stars",
+          "C. five-star",
+          "D. five-stars"
+        ],
+        "answer": "C",
+        "explanation": "นี่คือ Compound Adjective แบบ 'Number + Noun' (five-star) คำนาม (star) ต้องเป็นรูปเอกพจน์ และต้องมีขีดกลางเมื่อวางหน้าคำนาม (hotel)"
+      },
+      {
+        "question": "What is the ______ for this project?",
+        "options": [
+          "A. dead line",
+          "B. dead-line",
+          "C. deadline",
+          "D. dead lining"
+        ],
+        "answer": "C",
+        "explanation": "deadline (กำหนดส่งงาน) เป็น Closed Compound Noun ที่เขียนติดกัน"
+      },
+      {
+        "question": "The ______ is responsible for the company's daily operations.",
+        "options": [
+          "A. general manager",
+          "B. general-manager",
+          "C. generally manager",
+          "D. general managing"
+        ],
+        "answer": "A",
+        "explanation": "general manager (ผู้จัดการทั่วไป) เป็น Open Compound Noun ที่เขียนแยกกัน"
+      },
+      {
+        "question": "This is a ______ shirt, made just for me.",
+        "options": [
+          "A. custom made",
+          "B. custom-made",
+          "C. custom-making",
+          "D. custom makes"
+        ],
+        "answer": "B",
+        "explanation": "custom-made (ทำขึ้นเป็นพิเศษ, สั่งทำ) เป็น Compound Adjective ที่ขยายคำนาม shirt จึงต้องมีขีดกลาง"
+      },
+      {
+        "question": "Don't forget to put your clothes in the ______.",
+        "options": [
+          "A. machine for washing",
+          "B. washing machine",
+          "C. wash-machine",
+          "D. machine of wash"
+        ],
+        "answer": "B",
+        "explanation": "washing machine (เครื่องซักผ้า) เป็น Open Compound Noun ที่มีโครงสร้างแบบ 'Verb-ing + Noun'"
+      },
+      {
+        "question": "She is a ______ girl with beautiful brown hair.",
+        "options": [
+          "A. blue eyed",
+          "B. blue-eyed",
+          "C. blue-eye",
+          "D. blue eyes"
+        ],
+        "answer": "B",
+        "explanation": "blue-eyed (ที่มีตาสีฟ้า) เป็น Compound Adjective ที่มีโครงสร้างแบบ 'Adjective + Noun + -ed' ใช้ขยายคำนาม girl จึงต้องมีขีดกลาง"
+      },
+      {
+        "question": "The fire alarm went off, causing a complete ______ in the office.",
+        "options": [
+          "A. melt down",
+          "B. melt-down",
+          "C. meltdown",
+          "D. melting down"
+        ],
+        "answer": "C",
+        "explanation": "meltdown (ความโกลาหล, การล่มสลาย) เป็น Closed Compound Noun ที่เขียนติดกัน"
+      },
+      {
+        "question": "You need to fill in this ______ form.",
+        "options": [
+          "A. application",
+          "B. apply",
+          "C. applicable",
+          "D. applicant"
+        ],
+        "answer": "A",
+        "explanation": "application form (แบบฟอร์มใบสมัคร) เป็น Open Compound Noun ที่คำนาม application ทำหน้าที่ขยายคำนาม form"
+      },
+      {
+        "question": "This new policy will have ______ consequences for the economy.",
+        "options": [
+          "A. far reaching",
+          "B. far-reaching",
+          "C. far-reached",
+          "D. far-reaches"
+        ],
+        "answer": "B",
+        "explanation": "far-reaching (ที่ส่งผลกระทบในวงกว้าง) เป็น Compound Adjective ที่ขยายคำนาม consequences จึงต้องมีขีดกลาง"
+      },
+      {
+        "question": "Can you pass me the ______? I want to change the channel.",
+        "options": [
+          "A. remote control",
+          "B. remote controlling",
+          "C. remoting control",
+          "D. remote-control"
+        ],
+        "answer": "A",
+        "explanation": "remote control (รีโมตคอนโทรล) เป็น Open Compound Noun ที่เขียนแยกกัน"
+      },
+      {
+        "question": "He is very ______. He always comes up with clever ideas.",
+        "options": [
+          "A. quick witted",
+          "B. quick-witted",
+          "C. quickly-witted",
+          "D. quicks-witted"
+        ],
+        "answer": "B",
+        "explanation": "quick-witted (มีไหวพริบดี) เป็น Compound Adjective ที่ใช้บรรยายลักษณะของคน ในที่นี้ใช้ขีดกลางเพราะเป็นคุณศัพท์ที่เป็นที่รู้จักและยอมรับในรูปแบบนี้"
+      },
+      {
+        "question": "The decision was made by a ______ jury.",
+        "options": [
+          "A. twelve person",
+          "B. twelve-person",
+          "C. twelve-persons",
+          "D. twelve persons"
+        ],
+        "answer": "B",
+        "explanation": "นี่คือ Compound Adjective แบบ 'Number + Noun' คำนาม (person) ต้องเป็นรูปเอกพจน์เสมอ และต้องมีขีดกลางเมื่อวางหน้าคำนาม (jury)"
+      },
+      {
+        "question": "I need to withdraw some money from the ______.",
+        "options": [
+          "A. cash's machine",
+          "B. cashs machine",
+          "C. cash-machine",
+          "D. cash machine"
+        ],
+        "answer": "D",
+        "explanation": "cash machine (ตู้เอทีเอ็ม) เป็น Open Compound Noun ที่เขียนแยกกัน"
+      },
+      {
+        "question": "The meeting is about finding a ______ solution to our financial problems.",
+        "options": [
+          "A. long term",
+          "B. long-term",
+          "C. long-terms",
+          "D. longer-term"
+        ],
+        "answer": "B",
+        "explanation": "long-term (ระยะยาว) เป็น Compound Adjective ที่ขยายคำนาม solution จึงต้องมีขีดกลางเชื่อม"
+      },
+      {
+        "question": "A ______ is someone who spends a lot of time sitting and watching TV.",
+        "options": [
+          "A. coach potato",
+          "B. couch-potato",
+          "C. couch potato",
+          "D. couch potatos"
+        ],
+        "answer": "C",
+        "explanation": "couch potato (คนที่เอาแต่นั่งดูทีวี) เป็น Open Compound Noun ซึ่งเป็นสำนวนที่นิยมใช้กัน"
+      },
+      {
+        "question": "She wore a ______ dress that she bought from a famous designer.",
+        "options": [
+          "A. ready made",
+          "B. ready-made",
+          "C. ready-making",
+          "D. readys-made"
+        ],
+        "answer": "B",
+        "explanation": "ready-made (สำเร็จรูป) เป็น Compound Adjective ที่ขยายคำนาม dress จึงต้องมีขีดกลาง"
+      },
+      {
+        "question": "I prefer to use a ______ keyboard for better comfort while typing.",
+        "options": [
+          "A. full size",
+          "B. full-size",
+          "C. full-sized",
+          "D. full-sizes"
+        ],
+        "answer": "B",
+        "explanation": "full-size (ขนาดเต็ม) เป็น Compound Adjective ที่ขยายคำนาม keyboard จึงต้องมีขีดกลางเชื่อม บางครั้ง full-sized ก็ใช้ได้เช่นกัน แต่ B เป็นตัวเลือกที่ดีที่สุด"
+      },
+      {
+        "question": "The police are investigating a recent ______ in the jewelry store.",
+        "options": [
+          "A. break in",
+          "B. break-in",
+          "C. breaking-in",
+          "D. break-ining"
+        ],
+        "answer": "B",
+        "explanation": "break-in (การบุกรุก, การย่องเบา) เป็น Hyphenated Compound Noun ที่มาจาก Phrasal Verb 'break in'"
+      },
+      {
+        "question": "The new manager is known for his ______ approach to problem-solving.",
+        "options": [
+          "A. hands on",
+          "B. hands-on",
+          "C. hand-on",
+          "D. hand-ons"
+        ],
+        "answer": "B",
+        "explanation": "hands-on (ที่ลงมือปฏิบัติจริง) เป็น Compound Adjective ที่ขยายคำนาม approach จึงต้องมีขีดกลาง"
+      },
+      {
+        "question": "My ______ hurts from sitting in front of the computer all day.",
+        "options": [
+          "A. back ache",
+          "B. back-ache",
+          "C. backache",
+          "D. aching back"
+        ],
+        "answer": "C",
+        "explanation": "backache (อาการปวดหลัง) เป็น Closed Compound Noun ที่เขียนติดกัน"
+      },
+      {
+        "question": "We need to consider the ______ effects of this decision.",
+        "options": [
+          "A. side",
+          "B. sided",
+          "C. side-",
+          "D. side effects"
+        ],
+        "answer": "D",
+        "explanation": "side effects (ผลข้างเคียง) เป็น Open Compound Noun ที่คำว่า side ทำหน้าที่ขยาย effects"
+      },
+      {
+        "question": "This coffee is ______ and will keep you awake.",
+        "options": [
+          "A. strong tasting",
+          "B. strong-tasting",
+          "C. taste-strong",
+          "D. strongly-tasted"
+        ],
+        "answer": "B",
+        "explanation": "strong-tasting (รสชาติเข้มข้น) เป็น Compound Adjective ที่ใช้บรรยายลักษณะของกาแฟ"
+      },
+      {
+        "question": "A ______ is used to open bottles.",
+        "options": [
+          "A. bottle-opener",
+          "B. opener of bottle",
+          "C. bottle opener",
+          "D. opening bottle"
+        ],
+        "answer": "C",
+        "explanation": "bottle opener (ที่เปิดขวด) เป็น Open Compound Noun ที่เกิดจาก 'Noun + Noun (ที่มาจาก Verb + -er)' บางครั้งอาจเห็นเป็น bottle-opener ได้ แต่แบบแยกเป็นที่นิยมกว่า"
+      },
+      {
+        "question": "The movie was a ______ success, earning millions worldwide.",
+        "options": [
+          "A. box office",
+          "B. box-office",
+          "C. boxing-office",
+          "D. office-box"
+        ],
+        "answer": "B",
+        "explanation": "box-office (ที่ทำรายได้สูง) เป็น Compound Adjective ที่ขยายคำนาม success จึงต้องมีขีดกลางเชื่อม"
+      },
+      {
+        "question": "He has a ______ job from 9 to 5, Monday to Friday.",
+        "options": [
+          "A. full time",
+          "B. full-time",
+          "C. fulls-time",
+          "D. time-full"
+        ],
+        "answer": "B",
+        "explanation": "full-time (เต็มเวลา) เป็น Compound Adjective ที่ขยายคำนาม job จึงต้องมีขีดกลาง"
+      },
+      {
+        "question": "I can't believe his ______ behavior; he was so rude.",
+        "options": [
+          "A. self-centered",
+          "B. self center",
+          "C. centered-self",
+          "D. selfs-centered"
+        ],
+        "answer": "A",
+        "explanation": "self-centered (ที่ยึดตัวเองเป็นศูนย์กลาง) เป็น Compound Adjective ที่ต้องมีขีดกลางเพื่อขยายคำนาม behavior"
+      },
+      {
+        "question": "The ______ of the global economy is a major concern.",
+        "options": [
+          "A. down turn",
+          "B. down-turn",
+          "C. downturn",
+          "D. turning down"
+        ],
+        "answer": "C",
+        "explanation": "downturn (ภาวะตกต่ำ) เป็น Closed Compound Noun ที่เขียนติดกัน"
+      },
+      {
+        "question": "This is a ______ book that has won several awards.",
+        "options": [
+          "A. best selling",
+          "B. best-selling",
+          "C. sell-besting",
+          "D. best-selled"
+        ],
+        "answer": "B",
+        "explanation": "best-selling (ที่ขายดีที่สุด) เป็น Compound Adjective ที่ขยายคำนาม book จึงต้องมีขีดกลาง"
+      },
+      {
+        "question": "Please put your dirty dishes in the ______.",
+        "options": [
+          "A. dish washer",
+          "B. dish-washer",
+          "C. dishwasher",
+          "D. washing dish"
+        ],
+        "answer": "C",
+        "explanation": "dishwasher (เครื่องล้างจาน) เป็น Closed Compound Noun ที่เขียนติดกัน"
+      },
+      {
+        "question": "She gave me a ______ look that made me feel uncomfortable.",
+        "options": [
+          "A. hard to read",
+          "B. hard-to-read",
+          "C. hard-reading",
+          "D. read-hard"
+        ],
+        "answer": "B",
+        "explanation": "hard-to-read เป็น Compound Adjective ที่ประกอบด้วยสามคำ ใช้ขยายคำนาม look จึงต้องมีขีดกลางเชื่อมทุกคำเข้าด้วยกัน"
+      },
+      {
+        "question": "The city is planning to build a new ______ system.",
+        "options": [
+          "A. public transport",
+          "B. public-transport",
+          "C. public's transport",
+          "D. publicly transport"
+        ],
+        "answer": "A",
+        "explanation": "public transport (ระบบขนส่งสาธารณะ) เป็น Open Compound Noun ที่เขียนแยกกัน"
+      },
+      {
+        "question": "He's an ______ person who always tries to see the positive side of things.",
+        "options": [
+          "A. easy going",
+          "B. easy-going",
+          "C. easily-going",
+          "D. go-easy"
+        ],
+        "answer": "B",
+        "explanation": "easy-going (สบายๆ, ไม่เรื่องมาก) เป็น Compound Adjective ที่ขยายคำนาม person จึงต้องมีขีดกลาง"
+      },
+      {
+        "question": "The company needs to perform a ______ analysis of the market.",
+        "options": [
+          "A. deep-in",
+          "B. in depth",
+          "C. in-depth",
+          "D. depth-in"
+        ],
+        "answer": "C",
+        "explanation": "in-depth (อย่างละเอียด, อย่างลึกซึ้ง) เป็น Compound Adjective ที่ขยายคำนาม analysis จึงต้องมีขีดกลาง"
+      },
+      {
+        "question": "My ______ is my favorite place to relax and read a book.",
+        "options": [
+          "A. living room",
+          "B. living-room",
+          "C. live-room",
+          "D. room for living"
+        ],
+        "answer": "A",
+        "explanation": "living room (ห้องนั่งเล่น) เป็น Open Compound Noun ที่เขียนแยกกัน"
+      },
+      {
+        "question": "The final exam will be a ______ test.",
+        "options": [
+          "A. multiple choice",
+          "B. multiple-choice",
+          "C. multi-choice",
+          "D. choice-multiple"
+        ],
+        "answer": "B",
+        "explanation": "multiple-choice (แบบปรนัย, แบบมีตัวเลือก) เป็น Compound Adjective ที่ขยายคำนาม test จึงต้องมีขีดกลาง"
+      },
+      {
+        "question": "I have a ______ appointment at 3 PM today.",
+        "options": [
+          "A. two o'clock",
+          "B. two-o'clock",
+          "C. two-hour",
+          "D. two hours"
+        ],
+        "answer": "B",
+        "explanation": "เมื่อใช้เวลาเป็น Adjective ขยายคำนาม appointment เราจะใช้ขีดกลางเชื่อม เช่น a two-o'clock appointment"
+      },
+      {
+        "question": "The new skyscraper is a ______ building.",
+        "options": [
+          "A. sixty story",
+          "B. sixty-story",
+          "C. sixty-stories",
+          "D. sixty stories"
+        ],
+        "answer": "B",
+        "explanation": "นี่คือ Compound Adjective แบบ 'Number + Noun' (sixty-story) คำนาม (story) ต้องเป็นรูปเอกพจน์ และต้องมีขีดกลางเมื่อวางหน้าคำนาม (building)"
+      },
+      {
+        "question": "This phone comes with a ______ warranty.",
+        "options": [
+          "A. one year",
+          "B. one-year",
+          "C. one-years",
+          "D. ones-year"
+        ],
+        "answer": "B",
+        "explanation": "one-year เป็น Compound Adjective ที่ขยายคำนาม warranty จึงต้องมีขีดกลางเชื่อม แม้ว่าคำนาม year จะเป็นเอกพจน์อยู่แล้ว แต่กฎการใช้ขีดกลางยังคงเหมือนเดิม"
+      },
+      {
+        "question": "He gave a ______ speech that inspired everyone in the audience.",
+        "options": [
+          "A. thought provoking",
+          "B. thought-provoking",
+          "C. provoking-thought",
+          "D. thought-provoked"
+        ],
+        "answer": "B",
+        "explanation": "thought-provoking (ที่กระตุ้นความคิด) เป็น Compound Adjective ที่ขยายคำนาม speech จึงต้องมีขีดกลาง"
+      }
+    ]
+  }
+]

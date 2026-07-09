@@ -1,0 +1,842 @@
+[
+  {
+    "id": "43_1",
+    "title": "43.1 Parallel Structure in Lists and Series (N+N, V+V)",
+    "explanation": "หลักการโครงสร้างคู่ขนาน (Parallelism หรือ Parallel Structure) คือกฎไวยากรณ์ที่ว่าด้วยการใช้รูปแบบทางไวยากรณ์ (grammatical form) ที่เหมือนกันสำหรับองค์ประกอบตั้งแต่ 2 อย่างขึ้นไปที่ถูกเชื่อมเข้าด้วยกันในประโยค โดยเฉพาะในรายการ (lists) หรืออนุกรม (series)\n\nในระดับสูง (C1-C2) Parallelism ไม่ใช่แค่เรื่อง 'ถูกหรือผิด' แต่เป็นเครื่องมือสำคัญที่ทำให้การเขียนของคุณมี 'ความสง่างาม (elegance)', 'จังหวะที่ลื่นไหล (rhythm)' และ 'ความชัดเจน (clarity)' สูงสุด มันคือสิ่งที่แยกระหว่างงานเขียนธรรมดาๆ กับงานเขียนระดับมืออาชีพ\n\nหัวใจของมันคือความสมดุล (balance) ถ้าคุณเริ่มต้น list ด้วย Noun, องค์ประกอบถัดไปใน list ก็ควรเป็น Noun ถ้าคุณเริ่มต้นด้วย Verb-ing (Gerund), ที่เหลือก็ควรเป็น Gerund เหมือนกัน หลักการนี้ครอบคลุมโครงสร้างทุกรูปแบบ:\n\n1.  **Nouns / Noun Phrases**: `The report criticized the company's convoluted bureaucracy, its outdated technology, and its lack of strategic vision.` (ไม่ใช่ and that its vision was not strategic.)\n2.  **Verbs / Verb Phrases**: `The new software allows users to collate data, generate reports, and visualize trends.` (Tense และ Form ของ Verb ต้องเหมือนกัน)\n3.  **Adjectives / Adjectival Phrases**: `The ideal candidate must be tenacious, resourceful, and adept at navigating ambiguity.`\n4.  **Gerund Phrases (-ing form)**: `The company's strategy focuses on penetrating new markets, optimizing supply chains, and enhancing customer engagement.`\n5.  **Infinitive Phrases (to + verb)**: `Her ambition is to spearhead the project, to mentor junior colleagues, and to effect meaningful change within the organization.` (Note: 'to' ตัวที่สองและสามมักจะถูกละไว้เพื่อความกระชับ: to spearhead..., mentor..., and effect...)\n6.  **Prepositional Phrases**: `He found evidence of corruption in the financial records, under the layers of bureaucracy, and among the executive board's private correspondence.`\n7.  **Clauses (กลุ่มคำที่มี Subject+Verb)**: `The auditors concluded that the accounting practices were unethical, that the financial disclosures were misleading, and that immediate remedial action was necessary.`\n\nParallelism มีความสำคัญอย่างยิ่งเมื่อใช้กับสันธานเชื่อม (Coordinating Conjunctions) เช่น `and`, `but`, `or`, `nor` และโดยเฉพาะอย่างยิ่งกับสันธานคู่ (Correlative Conjunctions) เช่น `not only...but also...`, `either...or...`, `neither...nor...` ซึ่งโครงสร้างที่ตามหลังแต่ละส่วนของสันธานคู่นั้น 'ต้อง' ขนานกันเป๊ะๆ",
+    "examples": [
+      {
+        "eng": "To revitalize the struggling enterprise, the new CEO implemented a strategy to streamline operations, divest unprofitable subsidiaries, and reinvest capital into research and development.",
+        "thai": "เพื่อฟื้นฟูองค์กรที่กำลังประสบปัญหา CEO คนใหม่ได้ดำเนินกลยุทธ์เพื่อปรับปรุงการดำเนินงานให้มีประสิทธิภาพ, ขายบริษัทย่อยที่ไม่ทำกำไร, และนำเงินทุนกลับไปลงทุนใหม่ในการวิจัยและพัฒนา\n**คำอธิบายโครงสร้าง:** นี่คือตัวอย่างของ Parallelism ที่ใช้ Infinitive Phrases โครงสร้างหลักคือ `to` + verb. ทั้งสามส่วนขนานกันอย่างสมบูรณ์: `to streamline...`, `(to) divest...`, และ `(to) reinvest...` ทำให้ประโยคอ่านลื่นไหลและเข้าใจเป้าหมายของกลยุทธ์ได้อย่างชัดเจน"
+      },
+      {
+        "eng": "The inquiry focused on determining how the security breach occurred, assessing the extent of the damage, and recommending robust preventative measures for the future.",
+        "thai": "การไต่สวนมุ่งเน้นไปที่การสืบหาว่าการละเมิดความปลอดภัยเกิดขึ้นได้อย่างไร, การประเมินขอบเขตของความเสียหาย, และการแนะนำมาตรการป้องกันที่แข็งแกร่งสำหรับอนาคต\n**คำอธิบายโครงสร้าง:** นี่คือตัวอย่างของ Parallelism ที่ใช้ Gerund Phrases (-ing form) ที่ทำหน้าที่เป็นกรรมของบุพบท 'on'. แต่ละส่วนคือ: `determining...`, `assessing...`, และ `recommending...` การใช้โครงสร้างเดียวกันช่วยจัดระเบียบความคิดที่ซับซ้อนให้เป็นลำดับและเข้าใจง่าย"
+      },
+      {
+        "eng": "The legal team's argument was that the contract was invalid not only because it was signed under duress but also because its terms were unconscionable and violated statutory regulations.",
+        "thai": "ข้อโต้แย้งของทีมกฎหมายคือ สัญญาฉบับนั้นไม่สมบูรณ์ ไม่เพียงเพราะมันถูกลงนามภายใต้การข่มขู่เท่านั้น แต่ยังเป็นเพราะข้อกำหนดในสัญญานั้นไม่เป็นธรรมอย่างยิ่งและละเมิดข้อบังคับตามกฎหมาย\n**คำอธิบายโครงสร้าง:** ตัวอย่างนี้แสดงการใช้ Parallelism กับ Correlative Conjunctions 'not only... but also...' สิ่งที่ตามหลังทั้งสองส่วนคือ Subordinate Clause ที่ขึ้นต้นด้วย 'because' เหมือนกัน: `because it was signed...` และ `because its terms were...` ความขนานกันของ Clause ทำให้ข้อโต้แย้งมีน้ำหนักและชัดเจนมาก"
+      }
+    ],
+    "common_mistakes": "1.  **ผสมรูปแบบไวยากรณ์ (Mixing Forms)**: นี่คือข้อผิดพลาดพื้นฐานที่สุดแต่ยังคงพบได้ในระดับสูง เช่น `The company's goals are to maximize shareholder value, expanding into Asia, and the improvement of its brand image.` ประโยคนี้ผสมทั้ง Infinitive (`to maximize`), Gerund (`expanding`), และ Noun Phrase (`the improvement`) เข้าด้วยกัน ที่ถูกต้องควรเลือกทางใดทางหนึ่ง เช่น `...to maximize..., to expand..., and to improve...`\n\n2.  **โครงสร้างไม่ขนานกับสันธานคู่ (Faulty Parallelism with Correlatives)**: คนไทยมักพลาดจุดนี้บ่อยมาก เช่น `He was not only a brilliant strategist but also was charismatic.` สิ่งที่ตามหลัง `not only` คือ Noun Phrase (`a brilliant strategist`) แต่สิ่งที่ตามหลัง `but also` คือ Verb Phrase (`was charismatic`) ที่ถูกต้องคือต้องจัดโครงสร้างให้เหมือนกัน: `He was not only a brilliant strategist but also a charismatic leader.` (Noun Phrase + Noun Phrase) หรือ `He was not only brilliant but also charismatic.` (Adjective + Adjective).\n\n3.  **ละเลยความขนานในประโยคยาวและซับซ้อน**: เมื่อประโยคมีความยาวและซับซ้อน ผู้เขียนมักจะลืมรักษาโครงสร้างให้ขนานกันไปจนจบ เช่น `After completing the feasibility study and the financial implications were thoroughly analyzed, the project was approved.` ส่วนแรก `completing...` เป็น Gerund Phrase แต่ส่วนที่สอง `the financial implications were...` เป็น Independent Clause ซึ่งไม่ขนานกัน ที่ถูกต้องคือ: `After completing the feasibility study and thoroughly analyzing the financial implications, the project was approved.`\n\n4.  **ใช้ Verb Tense หรือ Voice ไม่สอดคล้องกัน**: ในรายการของ Verb Phrases ควรใช้ Tense และ Voice (Active/Passive) เดียวกัน เช่น `The team gathered the data, analyzed the results, and a report was written.` ประโยคนี้ผิดเพราะสองส่วนแรกเป็น Active Voice (team gathered, team analyzed) แต่ส่วนที่สามเป็น Passive Voice (`a report was written`) ที่ถูกต้องคือ: `The team gathered the data, analyzed the results, and wrote a report.`",
+    "practice_questions": [
+      {
+        "question": "To succeed in this volatile market, a company must not only anticipate emerging trends but also ______ with agility to unforeseen disruptions.",
+        "options": [
+          "A. to be responding",
+          "B. respond",
+          "C. the response",
+          "D. responding"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้ใช้โครงสร้างสันธานคู่ 'not only... but also...' สิ่งที่ตามหลัง 'not only' คือ bare infinitive 'anticipate' (มาจาก must anticipate) ดังนั้นสิ่งที่ตามหลัง 'but also' ก็ต้องเป็น bare infinitive เช่นกันเพื่อให้โครงสร้างขนานกัน คำตอบที่ถูกต้องคือ 'respond' (มาจาก must also respond)"
+      },
+      {
+        "question": "The philosopher's magnum opus is lauded for its intellectual profundity, its stylistic elegance, and ______.",
+        "options": [
+          "A. the way it cogently argues",
+          "B. its cogent argumentation",
+          "C. because it argues cogently",
+          "D. it has cogent arguments"
+        ],
+        "answer": "B",
+        "explanation": "รายการนี้ประกอบด้วย Noun Phrases ที่ขึ้นต้นด้วย 'its' เพื่อแสดงความเป็นเจ้าของ: 'its intellectual profundity', 'its stylistic elegance' ดังนั้นส่วนที่สามของรายการก็ควรเป็น Noun Phrase ที่มีรูปแบบเดียวกันคือ 'its cogent argumentation' เพื่อรักษาโครงสร้างคู่ขนาน"
+      },
+      {
+        "question": "The investigation revealed that the executive had systematically falsified financial records, misappropriated corporate funds, and ______ to mislead the auditors.",
+        "options": [
+          "A. conspiring",
+          "B. did conspire",
+          "C. conspired",
+          "D. a conspiracy"
+        ],
+        "answer": "C",
+        "explanation": "นี่คือรายการของ Past Tense Verb Phrases ที่ขนานกัน: 'had... falsified', '(had) misappropriated', และ '(had) conspired'. คำว่า 'had' ตัวแรกครอบคลุม verb ทั้งสามตัวในรายการ ทำให้ต้องใช้ Past Participle Form ในทุกส่วน 'conspired' คือรูปแบบที่ถูกต้องเพื่อรักษาความขนานของ Tense และโครงสร้าง"
+      },
+      {
+        "question": "Effective crisis management requires formulating a clear communication strategy, ______ a dedicated response team, and acting decisively under pressure.",
+        "options": [
+          "A. to assemble",
+          "B. the assembly of",
+          "C. assembling",
+          "D. having assembled"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้ขึ้นต้นด้วยรายการของ Gerund Phrases (-ing form) ที่อธิบายสิ่งที่ 'requires': 'formulating...', '(and) acting...'. ดังนั้นช่องว่างจึงต้องเติมด้วย Gerund Phrase เช่นกันเพื่อให้โครงสร้างสมดุล คำตอบคือ 'assembling'"
+      },
+      {
+        "question": "The new legislation is intended both to bolster national security and ______ the privacy of ordinary citizens.",
+        "options": [
+          "A. safeguarding",
+          "B. to safeguard",
+          "C. the safeguard of",
+          "D. it safeguards"
+        ],
+        "answer": "B",
+        "explanation": "โครงสร้างนี้ใช้สันธานคู่ 'both... and...'. สิ่งที่ตามหลัง 'both' คือ Infinitive Phrase 'to bolster...' ดังนั้นสิ่งที่ตามหลัง 'and' จะต้องเป็น Infinitive Phrase ที่ขนานกันคือ 'to safeguard'. 'to' ตัวที่สองมักจะไม่ถูกละไว้ในโครงสร้าง 'both... and...' เพื่อความชัดเจน"
+      },
+      {
+        "question": "The report criticized the agency for being inefficient, overly bureaucratic, and ______ to the public's needs.",
+        "options": [
+          "A. it was unresponsive",
+          "B. demonstrated unresponsiveness",
+          "C. unresponsive",
+          "D. having unresponsiveness"
+        ],
+        "answer": "C",
+        "explanation": "นี่คือรายการของ Adjectives ที่ขนานกันเพื่อขยายคำว่า 'agency': 'inefficient', 'overly bureaucratic', และ 'unresponsive'. ข้อ C 'unresponsive' เป็น Adjective เพียงคำเดียวที่รักษาความขนานของโครงสร้างไวยากรณ์นี้ได้"
+      },
+      {
+        "question": "The company's failure was attributed not to a single catastrophic event, but rather to a gradual erosion of market share, a persistent lack of innovation, and ______.",
+        "options": [
+          "A. its management was inept",
+          "B. an increasingly inept management team",
+          "C. because the management was inept",
+          "D. the management being inept"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้มีรายการของ Noun Phrases ที่อธิบายสาเหตุของความล้มเหลว: 'a gradual erosion...', 'a persistent lack...'. ดังนั้นส่วนที่สามก็ต้องเป็น Noun Phrase ที่มีโครงสร้างคล้ายกันคือ 'an increasingly inept management team' เพื่อให้เกิดความขนาน"
+      },
+      {
+        "question": "We are faced with a stark choice: either we proactively invest in sustainable technologies, or ______ the irreversible consequences of environmental degradation.",
+        "options": [
+          "A. to confront",
+          "B. confronting",
+          "C. we will be confronting",
+          "D. confront"
+        ],
+        "answer": "D",
+        "explanation": "โครงสร้างสันธานคู่ 'either... or...' เชื่อม Verb Phrases สองส่วน. สิ่งที่ตามหลัง 'either' คือ 'we proactively invest...'. ดังนั้นสิ่งที่ตามหลัง 'or' ควรจะมีโครงสร้างขนานกันคือ '(we) confront...'. 'confront' เป็น bare infinitive ที่สอดคล้องกับ 'invest' ในส่วนแรก"
+      },
+      {
+        "question": "The historian's lecture explained that the empire collapsed because its economy was overstretched, ______ its military was demoralized, and that its political leadership had become corrupt and ineffective.",
+        "options": [
+          "A. that its military was",
+          "B. because its military was",
+          "C. its military being",
+          "D. and its military"
+        ],
+        "answer": "A",
+        "explanation": "นี่คือรายการของ Subordinate Clauses ที่ขนานกันเพื่ออธิบายเหตุผลของการล่มสลาย. Clause แรกคือ 'because its economy was overstretched' และ Clause ที่สามคือ 'that its political leadership had become...'. เพื่อให้ Clause ตรงกลางขนานกัน ควรใช้ 'that' นำหน้าเช่นกันเป็น 'that its military was demoralized'. การใช้ 'that' ซ้ำๆ กันใน list ของ clause เป็นวิธีที่ถูกต้องในการสร้าง parallelism"
+      },
+      {
+        "question": "The CEO's vision involves transforming the company from a domestic manufacturer into a global powerhouse by acquiring strategic assets, ______ into emerging markets, and fostering a culture of relentless innovation.",
+        "options": [
+          "A. expands",
+          "B. an expansion",
+          "C. expanding",
+          "D. to expand"
+        ],
+        "answer": "C",
+        "explanation": "บุพบท 'by' ถูกตามด้วยรายการของ Gerund Phrases (-ing form) ที่อธิบายวิธีการ: 'by acquiring...', '(by) ...', และ '(by) fostering...'. ดังนั้นช่องว่างต้องเติมด้วย Gerund 'expanding' เพื่อรักษาโครงสร้างคู่ขนานให้สมบูรณ์"
+      }
+    ]
+  },
+  {
+    "id": "43_2",
+    "title": "43.2 Parallel Structure with Correlative Conjunctions (Not only...but also)",
+    "explanation": "โครงสร้างคู่ขนาน (Parallelism) กับ Correlative Conjunctions อย่าง Not only...but also เป็นหัวใจสำคัญของการเขียนในระดับสูง (C1-C2) ที่แสดงถึงความสง่างามและความชัดเจนของภาษา หลักการพื้นฐานคือ **'สิ่งที่ตามหลัง not only ต้องมีโครงสร้างทางไวยากรณ์ (Grammatical Form) เหมือนกับสิ่งที่ตามหลัง but also ทุกประการ'**\n\n**แก่นของเรื่อง (Core Concepts):**\n1.  **Symmetry is Key:** ความสมมาตรคือหัวใจสำคัญ ถ้าตามหลัง 'not only' เป็นคำนาม (Noun) สิ่งที่ตามหลัง 'but also' ก็ต้องเป็นคำนาม ถ้าเป็น Gerund Phrase ก็ต้องเป็น Gerund Phrase เหมือนกัน, ถ้าเป็น Clause ก็ต้องเป็น Clause เหมือนกัน\n\n2.  **Placement is Crucial:** ตำแหน่งของ 'not only' สำคัญมาก มันจะต้องถูกวางไว้ 'หน้า' ส่วนแรกของสิ่งที่ต้องการเปรียบเทียบเท่านั้น การวางผิดที่จะทำให้โครงสร้างเสียสมดุลทันที\n    *   **ผิด:** She **not only** wrote the script but also directed the film. (คำว่า wrote เป็น Verb ของประโยค ไม่ใช่ส่วนที่ขนานกัน)\n    *   **ถูก:** She **not only wrote** the script **but also directed** the film. (wrote the script [Verb Phrase] || directed the film [Verb Phrase])\n    *   **ถูกอีกแบบ:** She **wrote not only** the script **but also** the official novelization. (the script [Noun Phrase] || the official novelization [Noun Phrase])\n\n3.  **Inversion for Emphasis (โครงสร้างแบบกลับหน้าหลังเพื่อเน้นความ):** นี่คือโครงสร้างระดับสูงที่ใช้บ่อยในการเขียนเชิงวิชาการหรือสุนทรพจน์ เมื่อนำ 'Not only' ขึ้นต้นประโยค จะต้องเกิดการ Inversion (Subject-Auxiliary Inversion) ใน Clause แรก\n    *   **โครงสร้าง:** Not only + Auxiliary Verb + Subject + Main Verb..., but + Subject + also + Verb...\n    *   **ตัวอย่าง:** Not only **did the policy fail** to ameliorate the situation, but it also exacerbated the underlying economic issues.\n\n4.  **Subject-Verb Agreement:** เมื่อ 'not only...but also' ใช้เชื่อม Subject สองตัว คำกริยา (Verb) ของประโยคจะต้องสอดคล้องกับ Subject ตัวที่อยู่ 'ใกล้' ที่สุด (ตัวที่ตามหลัง 'but also')\n    *   **ตัวอย่าง:** Not only the CEO **but also the board members are** responsible for this debacle. (Verb 'are' สอดคล้องกับ 'the board members' ซึ่งเป็นพหูพจน์)",
+    "examples": [
+      {
+        "eng": "The new legislation is designed not only to curtail monopolistic practices but also to foster a more competitive and equitable market environment.",
+        "thai": "กฎหมายใหม่ถูกออกแบบมาไม่เพียงเพื่อจำกัดการผูกขาดทางการค้าเท่านั้น แต่ยังเพื่อส่งเสริมสภาพแวดล้อมของตลาดที่มีการแข่งขันและเท่าเทียมกันมากขึ้นด้วย\n**วิเคราะห์โครงสร้าง:** โครงสร้างที่ขนานกันคือ Infinitive Phrase สองส่วน: 'to curtail monopolistic practices' และ 'to foster a more competitive and equitable market environment' ทั้งสองส่วนขึ้นต้นด้วย to-infinitive เหมือนกันอย่างสมบูรณ์"
+      },
+      {
+        "eng": "Not only does this ubiquitous technology offer unprecedented convenience, but it also poses profound questions about privacy and data security.",
+        "thai": "เทคโนโลยีที่แพร่หลายนี้ไม่เพียงแต่มอบความสะดวกสบายอย่างที่ไม่เคยมีมาก่อนเท่านั้น แต่มันยังก่อให้เกิดคำถามที่ลึกซึ้งเกี่ยวกับความเป็นส่วนตัวและความปลอดภัยของข้อมูลอีกด้วย\n**วิเคราะห์โครงสร้าง:** นี่คือตัวอย่างของการใช้ Inversion เมื่อ 'Not only' ขึ้นต้นประโยค Clause แรกจึงเรียงเป็น 'does (Auxiliary) + this technology (Subject) + offer (Main Verb)' ส่วน Clause ที่สองยังคงเรียงตามปกติ"
+      },
+      {
+        "eng": "To secure the contract, the company had to demonstrate proficiency not only in state-of-the-art software development but also in antiquated legacy system integration.",
+        "thai": "เพื่อให้ได้สัญญานี้มา บริษัทต้องแสดงให้เห็นถึงความเชี่ยวชาญไม่เพียงแค่ในด้านการพัฒนาซอฟต์แวร์ที่ล้ำสมัยเท่านั้น แต่ยังรวมถึงในด้านการบูรณาการระบบดั้งเดิมที่ล้าสมัยอีกด้วย\n**วิเคราะห์โครงสร้าง:** โครงสร้างคู่ขนานในที่นี้คือ Prepositional Phrase สองส่วน: 'in state-of-the-art software development' และ 'in antiquated legacy system integration' ทั้งสองวลีขึ้นต้นด้วย giới từ 'in' และตามด้วย Noun Phrase ที่มีความซับซ้อน"
+      },
+      {
+        "eng": "Not only the junior analysts but also the seasoned director was perplexed by the anomalous data.",
+        "thai": "ไม่เพียงแค่นักวิเคราะห์รุ่นเยาว์เท่านั้น แต่แม้กระทั่งผู้อำนวยการผู้มากประสบการณ์ก็ยังงุนงงกับข้อมูลที่ผิดปกตินั้น\n**วิเคราะห์โครงสร้าง:** นี่คือการใช้กฎ Subject-Verb Agreement คำกริยา 'was' (เอกพจน์) สอดคล้องกับประธานตัวที่อยู่ใกล้กว่าคือ 'the seasoned director' (เอกพจน์) แม้ว่าประธานตัวแรก 'the junior analysts' จะเป็นพหูพจน์ก็ตาม"
+      }
+    ],
+    "common_mistakes": "**1. Faulty Parallelism (โครงสร้างไม่ขนานกัน):**\nข้อผิดพลาดที่เจอบ่อยที่สุดคือการใช้โครงสร้างไวยากรณ์คนละชนิดกัน\n*   **ผิด:** The committee is responsible not only for allocating funds, but they also **oversee** project implementation. (Gerund Phrase vs. Clause)\n*   **ถูก:** The committee is responsible not only for **allocating** funds but also for **overseeing** project implementation. (Gerud Phrase || Gerund Phrase)\n\n**2. Incorrect Inversion (ทำ Inversion ผิดพลาด):**\nเมื่อนำ Not only ขึ้นต้นประโยค หลายคนลืมกลับ Auxiliary Verb หรือกลับผิด\n*   **ผิด:** Not only **the company achieved** its quarterly targets, but it also surpassed all expectations.\n*   **ถูก:** Not only **did the company achieve** its quarterly targets, but it also surpassed all expectations.\n\n**3. Misplacement of 'Not Only' (วาง 'Not Only' ผิดตำแหน่ง):**\nการวาง 'not only' ไว้ต้นประโยคเกินไปทำให้โครงสร้างเสียสมดุล\n*   **ผิด:** The organization **not only** offers educational workshops but also free counseling services. (Verb 'offers' ควรจะอยู่นอกโครงสร้างขนาน เพราะมันใช้ร่วมกัน)\n*   **ถูก:** The organization offers **not only** educational workshops **but also** free counseling services. (ขนานกันที่ Noun Phrase ทั้งสองส่วน)",
+    "practice_questions": [
+      {
+        "question": "Not only ______ the antiquated infrastructure, but it has also instigated a paradigm shift in urban planning.",
+        "options": [
+          "A. the project has revitalized",
+          "B. has the project revitalized",
+          "C. the project revitalized has",
+          "D. has revitalized the project"
+        ],
+        "answer": "B",
+        "explanation": "เมื่อ 'Not only' ขึ้นต้นประโยค จะต้องเกิด Subject-Auxiliary Inversion ใน clause แรก โครงสร้างที่ถูกต้องคือ 'Auxiliary Verb + Subject + Main Verb' ในข้อนี้ Auxiliary Verb คือ 'has', Subject คือ 'the project' และ Main Verb คือ 'revitalized' ดังนั้น 'has the project revitalized' จึงเป็นคำตอบที่ถูกต้องตามหลักไวยากรณ์"
+      },
+      {
+        "question": "The prolific author's work is celebrated not only for its intricate plotlines but also ______ profound philosophical underpinnings.",
+        "options": [
+          "A. because of its",
+          "B. for its",
+          "C. it has",
+          "D. having"
+        ],
+        "answer": "B",
+        "explanation": "โครงสร้างคู่ขนานในประโยคนี้คือ Prepositional Phrase ส่วนแรกคือ 'for its intricate plotlines' ดังนั้นส่วนที่สองก็ต้องขึ้นต้นด้วย giới từ 'for' เหมือนกันเพื่อให้โครงสร้างสมมาตร คำตอบที่ถูกต้องคือ 'for its' ทำให้ได้โครงสร้าง 'for its profound philosophical underpinnings' ที่ขนานกันอย่างสมบูรณ์"
+      },
+      {
+        "question": "Not only the peripheral team members but also the project lead ______ confounded by the sudden change in client specifications.",
+        "options": [
+          "A. were",
+          "B. are",
+          "C. was",
+          "D. have been"
+        ],
+        "answer": "C",
+        "explanation": "ตามกฎ Subject-Verb Agreement เมื่อใช้ 'not only...but also' เชื่อมประธานสองตัว กริยาจะผันตามประธานตัวที่อยู่ใกล้ที่สุด ในที่นี้คือ 'the project lead' ซึ่งเป็นคำนามเอกพจน์ ดังนั้นคำกริยาที่ถูกต้องจึงต้องเป็นรูปเอกพจน์คือ 'was'"
+      },
+      {
+        "question": "The CEO's speech was meticulously crafted to ______ not only the concerned investors but also the skeptical employees.",
+        "options": [
+          "A. be placating",
+          "B. placate",
+          "C. the placating of",
+          "D. having placated"
+        ],
+        "answer": "B",
+        "explanation": "โครงสร้างนี้ต้องการ Infinitive of purpose (เพื่อที่จะ...) หลัง 'to' ดังนั้นคำที่ต้องตามมาคือ Verb รูป base form (Infinitive without to) ในที่นี้คือ 'placate' เพื่อทำให้โครงสร้างเป็น 'to placate...' ที่สมบูรณ์ จากนั้น 'not only...but also' จะเชื่อม Noun Phrase สองส่วนคือ 'the concerned investors' และ 'the skeptical employees'"
+      },
+      {
+        "question": "The diplomat's objective was not only to de-escalate the immediate crisis but also ______ a framework for lasting peace.",
+        "options": [
+          "A. establishing",
+          "B. the establishment of",
+          "C. to establish",
+          "D. establish"
+        ],
+        "answer": "C",
+        "explanation": "โครงสร้างคู่ขนานที่ต้องการคือ Infinitive Phrase ส่วนแรกคือ 'to de-escalate the immediate crisis' ดังนั้นส่วนที่สองต้องมีโครงสร้างเดียวกัน คือ 'to + Verb' คำตอบที่ถูกต้องคือ 'to establish' เพื่อสร้างความสมดุลทางไวยากรณ์"
+      },
+      {
+        "question": "Not only ______ to elucidate the complex theory, but he also provided compelling, real-world applications for it.",
+        "options": [
+          "A. the professor attempted",
+          "B. attempted the professor",
+          "C. did the professor attempt",
+          "D. the professor did attempt"
+        ],
+        "answer": "C",
+        "explanation": "นี่คืออีกตัวอย่างของการใช้ Inversion เมื่อ 'Not only' ขึ้นต้นประโยคและกริยาเป็น Past Simple Tense เราต้องใช้ Auxiliary Verb 'did' เข้ามาช่วย โครงสร้างที่ถูกต้องคือ 'Not only + did + Subject + Main Verb (base form)' ดังนั้น 'did the professor attempt' จึงเป็นคำตอบที่ถูกต้อง"
+      },
+      {
+        "question": "The new environmental regulations are expected to impact not only large multinational corporations ______ small, local enterprises.",
+        "options": [
+          "A. and also",
+          "B. but also",
+          "C. as well as",
+          "D. but as well"
+        ],
+        "answer": "B",
+        "explanation": "Correlative conjunction 'not only' จะต้องใช้คู่กับ 'but also' เพื่อสร้างโครงสร้างที่สมบูรณ์และเป็นทางการ ตัวเลือกอื่น ๆ อาจพบได้ในภาษาพูด แต่ 'but also' เป็นคู่ที่ถูกต้องตามหลักไวยากรณ์ที่สุดสำหรับ 'not only'"
+      },
+      {
+        "question": "To remain viable, the company must focus not only on innovating its products but also ______ its internal processes for greater efficiency.",
+        "options": [
+          "A. on streamlining",
+          "B. to streamline",
+          "C. for streamlining",
+          "D. streamlines"
+        ],
+        "answer": "A",
+        "explanation": "โครงสร้างคู่ขนานในที่นี้คือ Prepositional Phrase ที่เริ่มต้นด้วย 'on' และตามด้วย Gerund ส่วนแรกคือ 'on innovating its products' ดังนั้นส่วนที่สองจะต้องมีโครงสร้างที่เหมือนกันคือ 'on streamlining its internal processes...' จึงจะเกิดความสมดุล"
+      },
+      {
+        "question": "Not only the ostensibly straightforward data but also the convoluted anecdotal evidence ______ to be re-evaluated.",
+        "options": [
+          "A. need",
+          "B. is needing",
+          "C. are needing",
+          "D. needs"
+        ],
+        "answer": "D",
+        "explanation": "ตามกฎ Subject-Verb Agreement กริยาจะผันตามประธานตัวที่อยู่ใกล้กว่า ในที่นี้คือ 'the convoluted anecdotal evidence' คำว่า 'evidence' เป็นคำนามที่นับไม่ได้ (uncountable noun) จึงต้องใช้กริยาในรูปเอกพจน์ ดังนั้น 'needs' จึงเป็นคำตอบที่ถูกต้อง"
+      },
+      {
+        "question": "The system failed not because of a singular catastrophic event, but because it was plagued by not only persistent software glitches ______ inadequate user training.",
+        "options": [
+          "A. and also by",
+          "B. as well as",
+          "C. but also by",
+          "D. but also"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้มีความซับซ้อน โครงสร้างคู่ขนานอยู่ภายใน clause ที่สอง ('...plagued by...') ส่วนที่ขนานกันคือสิ่งที่ระบบถูกรบกวน (plagued by) ส่วนแรกคือ 'persistent software glitches' (Noun Phrase) แต่สังเกตว่ามันตามหลัง 'by' อยู่แล้วในประโยคหลัก ดังนั้นส่วนที่สองต้องเป็น 'but also by inadequate user training' เพื่อให้เกิดโครงสร้าง 'by [Noun Phrase]' ขนานกับ 'by [Noun Phrase]' ที่สมบูรณ์แบบ ตัวเลือก D 'but also' จะทำให้โครงสร้างเป็น '...plagued by... and inadequate user training' ซึ่งไม่ขนานกันเท่ากับ C"
+      }
+    ]
+  },
+  {
+    "id": "43_3",
+    "title": "43.3 Summary: Parallelism (สรุปโครงสร้างคู่ขนาน + 50 Exercises)",
+    "explanation": "สรุปโครงสร้างคู่ขนาน (Parallelism): ยกระดับการเขียนสู่ C1-C2\n\nในระดับสูง, Parallelism ไม่ใช่แค่การเรียงคำประเภทเดียวกัน (N, V, Adj) ในลิสต์ง่ายๆ อีกต่อไป แต่มันคือศิลปะของการสร้างสมดุลและความสอดคล้องทางไวยากรณ์ในประโยคที่ซับซ้อน เพื่อสร้างความชัดเจน (clarity), จังหวะ (rhythm), และพลัง (emphasis) ในการสื่อสาร\n\n**แก่นแท้ของ Advanced Parallelism คือ:**\n1.  **ความสมดุลในโครงสร้างที่ซับซ้อน (Complex Structures):** ไม่ใช่แค่คำ แต่เป็น วลี (phrases) และ อนุประโยค (clauses) ทั้งหมดต้องขนานกัน\n    *   **Gerund Phrases:** *Analyzing market trends* and *forecasting future growth* are essential skills.\n    *   **Infinitive Phrases:** The company's mission is *to innovate relentlessly* and *to provide unparalleled customer service*.\n    *   **Prepositional Phrases:** The decision will be based *on the data we have collected*, *on the feedback from our clients*, and *on the potential for long-term profitability*.\n    *   **Clauses:** The detective suspected *that the witness was lying* and *that crucial evidence had been concealed*.\n\n2.  **ความแม่นยำกับ Correlative Conjunctions:** นี่คือจุดที่วัดระดับ C1-C2 อย่างแท้จริง โครงสร้างที่ตามหลังคำเชื่อมแต่ละตัว (e.g., `not only...`, `but also...`) ต้องเหมือนกันเป๊ะๆ\n    *   **ผิด:** The new policy will *not only* affect employees *but also* our international partners. (affect employees [verb phrase] vs. our international partners [noun phrase])\n    *   **ถูก:** The new policy will affect *not only* employees *but also* our international partners. (employees [noun] vs. our international partners [noun phrase, acting as a noun unit])\n    *   **ถูก (อีกแบบ):** The new policy will *not only affect* employees *but also impact* our international partnerships. (affect [verb] vs. impact [verb])\n\n3.  **ความเทียบเท่าในการเปรียบเทียบ (Comparisons):** สิ่งที่ถูกเปรียบเทียบด้วย `than` หรือ `as` ต้องเป็นสิ่งประเภทเดียวกันทางตรรกะและไวยากรณ์\n    *   **ผิด:** The climate in northern Thailand is milder than *southern Thailand*. (เปรียบเทียบ climate กับ สถานที่)\n    *   **ถูก:** The climate in northern Thailand is milder than *that of southern Thailand*. (that = the climate)\n    *   **ถูก:** The climate in northern Thailand is milder than *southern Thailand's climate*.\n\n4.  **ความสม่ำเสมอใน Lists & Series:** แม้ในลิสต์ที่ยาวและซับซ้อน แต่ละหน่วยต้องคงรูปแบบไวยากรณ์เดิมไว้เสมอ\n    *   **ตัวอย่าง:** The report outlined three critical issues: *the company's over-reliance on a single supplier*, *its failure to innovate in a competitive market*, and *how it has neglected employee development programs*. (ผิด: Noun Phrase, Noun Phrase, และ Noun Clause)\n    *   **แก้ไข:** ...*its over-reliance on a single supplier*, *its failure to innovate*, and *its neglect of employee development programs*. (ขนานกันด้วย Noun Phrase ที่มี its นำหน้า)",
+    "examples": [
+      {
+        "eng": "The consultant recommended not only that the company overhaul its entire supply chain but also that it invest heavily in predictive analytics to forestall future disruptions.",
+        "thai": "ที่ปรึกษาแนะนำไม่เพียงแต่ให้บริษัทปรับปรุงซัพพลายเชนทั้งหมด แต่ยังให้ลงทุนอย่างหนักในเทคโนโลยีการวิเคราะห์เชิงพยากรณ์เพื่อป้องกันปัญหาในอนาคตด้วย\n**โครงสร้าง:** ประโยคนี้ใช้ `not only... but also...` เชื่อมอนุประโยค (Subjunctive Clauses) สองอันที่ขนานกัน:\n  *   `that the company overhaul...`\n  *   `that it invest...`\n  ทั้งสอง clause เริ่มด้วย 'that' ตามด้วยประธานและ base form of verb (overhaul, invest) ซึ่งเป็นโครงสร้าง Subjunctive ที่สมบูรณ์แบบ"
+      },
+      {
+        "eng": "Successfully navigating the complexities of international diplomacy requires a profound understanding of cultural nuances, a capacity for strategic thinking, and the ability to communicate with perspicuity.",
+        "thai": "การรับมือกับความซับซ้อนของการทูตระหว่างประเทศให้สำเร็จนั้น ต้องการความเข้าใจอย่างลึกซึ้งในความแตกต่างทางวัฒนธรรม, ความสามารถในการคิดเชิงกลยุทธ์, และทักษะในการสื่อสารอย่างชัดเจน\n**โครงสร้าง:** นี่คือลิสต์ของ Noun Phrases ที่ขนานกันอย่างสวยงาม แต่ละหน่วยเริ่มต้นด้วยคำนามหลักที่แสดงถึงคุณสมบัติ:\n  *   `a profound understanding...`\n  *   `a capacity...`\n  *   `the ability...`"
+      },
+      {
+        "eng": "Many executives find that communicating a clear vision to their teams is more challenging than devising the vision itself.",
+        "thai": "ผู้บริหารหลายคนพบว่าการสื่อสารวิสัยทัศน์ที่ชัดเจนให้ทีมของพวกเขาทราบนั้น ท้าทายยิ่งกว่าการคิดค้นวิสัยทัศน์นั้นขึ้นมาเสียอีก\n**โครงสร้าง:** เป็นการเปรียบเทียบ (Comparison) ที่ใช้ `more... than...` โดยเปรียบเทียบ Gerund Phrase สองอันที่ขนานกัน:\n  *   `communicating a clear vision...` (การสื่อสาร...)\n  *   `devising the vision itself` (การคิดค้น...)\n  เป็นการเปรียบเทียบ 'การกระทำ' กับ 'การกระทำ' ซึ่งถูกต้องตามหลักไวยากรณ์"
+      }
+    ],
+    "common_mistakes": "**จุดที่คนไทยระดับสูงมักพลาด (Common C1-C2 Mistakes):**\n1.  **วาง Correlative Conjunctions ผิดตำแหน่ง:** ข้อผิดพลาดที่พบบ่อยที่สุดคือการวาง `not only`, `either`, `both` ไว้หน้าคำกริยา ทั้งๆ ที่ส่วนที่ต้องการเปรียบเทียบจริงๆ อยู่หลังคำกริยานั้น\n    *   **ตัวอย่างที่ผิด:** I want *either* to go to the mountains *or* the beach.\n    *   **วิเคราะห์:** โครงสร้างที่ตามหลัง `either` คือ `to go to the mountains` (infinitive phrase) แต่โครงสร้างที่ตามหลัง `or` คือ `the beach` (noun phrase) ซึ่งไม่ขนานกัน\n    *   **แก้ไข:** I want to go *either* to the mountains *or* to the beach. (ขนานกันด้วย prepositional phrase: `to the mountains` // `to the beach`)\n\n2.  **เปรียบเทียบผิดประเภท (Faulty Comparison):** แม้จะรู้หลักการ แต่ในประโยคยาวๆ ก็อาจพลาดได้ง่าย โดยเฉพาะการลืมใช้ `that of` หรือ `'s`\n    *   **ตัวอย่างที่ผิด:** The regulations in the European Union are far more stringent than America.\n    *   **วิเคราะห์:** เปรียบเทียบ 'regulations' (กฎระเบียบ) กับ 'America' (ประเทศ) ซึ่งผิดประเภท\n    *   **แก้ไข:** ...than *those in* America. (those = regulations) หรือ ...than *America's regulations*.\n\n3.  **ละเลย Parallelism ใน Clause:** เมื่อประโยคซับซ้อนขึ้น มีหลาย Clause มาต่อกัน ผู้เรียนมักจะสนใจแค่ความหมาย แต่ลืมทำให้โครงสร้างของ Clause เหล่านั้นขนานกัน\n    *   **ตัวอย่างที่ผิด:** The manager explained *that the project was behind schedule* and *why they needed to work overtime*.\n    *   **วิเคราะห์:** That-clause กับ Wh-clause ไม่ขนานกัน\n    *   **แก้ไข (ทางที่ 1 - ทำให้เป็น That-clause ทั้งคู่):** ...explained *that the project was behind schedule* and *that they needed to work overtime*.\n    *   **แก้ไข (ทางที่ 2 - ทำให้เป็น Noun Phrase ทั้งคู่):** ...explained *the project's delay* and *the need for overtime*.",
+    "practice_questions": [
+      {
+        "question": "The new CEO is determined not only to streamline operations but also ______ the company's market presence.",
+        "options": [
+          "A. expanding",
+          "B. to expand",
+          "C. the expansion of",
+          "D. will expand"
+        ],
+        "answer": "B",
+        "explanation": "โครงสร้างนี้ใช้ 'not only... but also...' เพื่อเชื่อม infinitive phrases สองอันที่ขนานกัน ส่วนแรกคือ 'to streamline operations' ดังนั้นส่วนที่สองก็ต้องเป็น infinitive phrase เช่นกันคือ 'to expand...'"
+      },
+      {
+        "question": "To succeed in this field, you must be both a creative thinker and ______.",
+        "options": [
+          "A. having good communication skills",
+          "B. a meticulous planner",
+          "C. to plan meticulously",
+          "D. plans meticulously"
+        ],
+        "answer": "B",
+        "explanation": "โครงสร้าง 'both... and...' เชื่อมสองสิ่งที่ขนานกัน ในที่นี้ 'a creative thinker' เป็น noun phrase ดังนั้นส่วนที่ตามหลัง 'and' ก็ต้องเป็น noun phrase ที่เทียบเท่ากันคือ 'a meticulous planner'"
+      },
+      {
+        "question": "The philosopher argued that it is better to question everything than ______.",
+        "options": [
+          "A. accepting dogma blindly",
+          "B. to accept dogma blindly",
+          "C. the blind acceptance of dogma",
+          "D. you should accept dogma blindly"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้เปรียบเทียบ infinitive phrase สองอัน 'to question everything' กับ 'to accept dogma blindly' การใช้ gerund 'accepting' (ข้อ A) จะทำให้โครงสร้างไม่ขนานกัน"
+      },
+      {
+        "question": "Her responsibilities include managing the budget, supervising the team, and ______ reports to the board.",
+        "options": [
+          "A. to submit",
+          "B. the submission of",
+          "C. submitting",
+          "D. she submits"
+        ],
+        "answer": "C",
+        "explanation": "นี่คือลิสต์ของ gerund phrases ที่ขนานกัน: 'managing...', 'supervising...', และ 'submitting...' การใช้ 'to submit' หรือ 'the submission of' จะทำลายความขนานของโครงสร้าง"
+      },
+      {
+        "question": "The economic sanctions are intended to debilitate the regime's military capabilities and ______ its international influence.",
+        "options": [
+          "A. to curtail",
+          "B. curtailing",
+          "C. curtail",
+          "D. for curtailing"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้มีโครงสร้าง infinitive ที่ขนานกันหลัง 'are intended to...' นั่นคือ 'to debilitate... and (to) curtail...' ในโครงสร้างคู่ขนาน เราสามารถละ 'to' ตัวที่สองไว้ได้ ดังนั้นคำตอบที่ถูกต้องคือ 'curtail' ซึ่งเป็น base form verb ที่ขนานกับ 'debilitate'"
+      },
+      {
+        "question": "The problem was not that the data was inaccurate but ______.",
+        "options": [
+          "A. that the interpretation was flawed",
+          "B. because of a flawed interpretation",
+          "C. the interpretation being flawed",
+          "D. a flawed interpretation"
+        ],
+        "answer": "A",
+        "explanation": "โครงสร้าง 'not... but...' เชื่อมสองสิ่งที่ขนานกัน ในที่นี้ ส่วนแรกคือ noun clause 'that the data was inaccurate' ดังนั้นส่วนที่สองก็ต้องเป็น noun clause ที่ขึ้นต้นด้วย 'that' เช่นกัน"
+      },
+      {
+        "question": "Whether we approve the merger or ______ it will have profound consequences for the industry.",
+        "options": [
+          "A. rejecting",
+          "B. to reject",
+          "C. reject",
+          "D. its rejection"
+        ],
+        "answer": "C",
+        "explanation": "โครงสร้าง 'Whether we... or...' ต้องการ verb ที่ขนานกัน ส่วนแรกคือ 'approve' (base form verb) ดังนั้นส่วนที่สองก็ต้องเป็น 'reject' (base form verb)"
+      },
+      {
+        "question": "The cost of living in metropolitan areas is significantly higher than ______.",
+        "options": [
+          "A. rural areas",
+          "B. in rural areas",
+          "C. that in rural areas",
+          "D. people in rural areas"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้เปรียบเทียบ 'The cost of living' ในเมืองกับ 'the cost of living' ในชนบท การใช้ 'that' แทน 'the cost of living' เพื่อหลีกเลี่ยงการซ้ำซ้อนและรักษาความขนานในการเปรียบเทียบจึงถูกต้องที่สุด ข้อ B 'in rural areas' ก็เป็นที่ยอมรับได้ในการพูด แต่ C เป็นทางการและถูกต้องที่สุด"
+      },
+      {
+        "question": "The legislation will affect not only large corporations ______ small, family-owned businesses.",
+        "options": [
+          "A. but also",
+          "B. and also",
+          "C. but as well",
+          "D. and"
+        ],
+        "answer": "A",
+        "explanation": "นี่คือการใช้ correlative conjunction 'not only... but also...' ที่ถูกต้องเพื่อเชื่อมสอง noun phrases ('large corporations' and 'small, family-owned businesses') ที่ขนานกัน"
+      },
+      {
+        "question": "He was praised for his meticulous research, his cogent arguments, and ______.",
+        "options": [
+          "A. for his eloquent presentation",
+          "B. how eloquent his presentation was",
+          "C. his eloquent presentation",
+          "D. presenting eloquently"
+        ],
+        "answer": "C",
+        "explanation": "ลิสต์นี้ประกอบด้วย noun phrases ที่มี possessive pronoun 'his' นำหน้า: 'his meticulous research', 'his cogent arguments', และ 'his eloquent presentation' เพื่อให้โครงสร้างขนานกัน"
+      },
+      {
+        "question": "To acquiesce to their demands would be to betray our principles and ______ everything we stand for.",
+        "options": [
+          "A. to abandon",
+          "B. abandoning",
+          "C. abandon",
+          "D. the abandonment of"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้ใช้โครงสร้าง infinitive คู่ขนานหลัง 'would be to...' นั่นคือ 'to betray... and (to) abandon...' เราสามารถละ 'to' ตัวที่สองได้ ดังนั้น 'abandon' จึงเป็นคำตอบที่ถูกต้องและกระชับที่สุด"
+      },
+      {
+        "question": "The challenges facing the new government include revitalizing the economy, reforming the healthcare system, and ______ geopolitical tensions.",
+        "options": [
+          "A. it must navigate",
+          "B. to navigate",
+          "C. navigation of",
+          "D. navigating"
+        ],
+        "answer": "D",
+        "explanation": "นี่คือลิสต์ของ gerund phrases ที่ขนานกัน: 'revitalizing...', 'reforming...', และ 'navigating...' การใช้รูปแบบอื่นจะทำลายความต่อเนื่องของไวยากรณ์"
+      },
+      {
+        "question": "The board must decide whether to invest in new technology or ______ existing infrastructure.",
+        "options": [
+          "A. upgrading",
+          "B. they should upgrade",
+          "C. to upgrade",
+          "D. an upgrade of"
+        ],
+        "answer": "C",
+        "explanation": "โครงสร้าง 'whether to... or to...' ต้องการ infinitive phrase ที่ขนานกัน ส่วนแรกคือ 'to invest' ดังนั้นส่วนที่สองต้องเป็น 'to upgrade' เพื่อรักษาความสมดุล"
+      },
+      {
+        "question": "The judge's ruling was based on the evidence presented, the testimony of the witnesses, and ______ established legal precedents.",
+        "options": [
+          "A. on what were the",
+          "B. on",
+          "C. the",
+          "D. how they"
+        ],
+        "answer": "B",
+        "explanation": "ลิสต์นี้ประกอบด้วย prepositional phrases ที่ขึ้นต้นด้วย 'on': 'on the evidence presented', 'on the testimony...', and 'on established legal precedents'. แม้ว่าในทางปฏิบัติสามารถละ 'on' ที่ซ้ำซ้อนได้ แต่การใส่ 'on' เพื่อความชัดเจนก็ถูกต้องตามหลักไวยากรณ์ อย่างไรก็ตาม ในตัวเลือกนี้ การเติม 'on' เพื่อให้สมบูรณ์เป็นทางเลือกที่ดีที่สุดที่ทำให้โครงสร้างขนานกันอย่างชัดเจน แต่ถ้ามองอีกมุมหนึ่ง ประโยคสามารถเป็น `was based on A, B, and C` โดยที่ A, B, C เป็น noun phrase ได้เช่นกัน ในกรณีนี้ `The...` (ข้อ C) จะทำให้ประโยคเป็น `...the testimony..., and the established...` ซึ่งก็ขนานกัน แต่ข้อ B ทำให้โครงสร้างวลีสมบูรณ์และขนานกันมากกว่าในแง่ของ prepositional phrase อย่างไรก็ตาม เพื่อให้ชัดเจนที่สุด ประโยคควรเป็น '...and on established legal precedents.' ดังนั้นหากมีตัวเลือก 'on established legal precedents' จะดีที่สุด แต่ในที่นี้ 'on' เพื่อนำไปสู่ noun phrase ที่เหลือเป็นตัวเลือกที่สมเหตุสมผลที่สุดเพื่อสร้างความขนานกับ 'on the evidence...' และ 'the testimony' ที่เข้าใจว่าอยู่ภายใต้ 'on' เดียวกัน"
+      },
+      {
+        "question": "The complexity of the algorithm is comparable to ______ of a neural network.",
+        "options": [
+          "A. that",
+          "B. it",
+          "C. which",
+          "D. the one"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้เปรียบเทียบ 'The complexity of the algorithm' กับ 'the complexity of a neural network'. เพื่อหลีกเลี่ยงการพูดซ้ำ เราใช้ 'that' ซึ่งเป็น pronoun แทน 'the complexity' ทำให้การเปรียบเทียบถูกต้องและขนานกัน"
+      },
+      {
+        "question": "The journalist was fired not for her political opinions, but ______ she had fabricated sources in her articles.",
+        "options": [
+          "A. because",
+          "B. due to",
+          "C. for the fact that",
+          "D. because of"
+        ],
+        "answer": "A",
+        "explanation": "โครงสร้าง 'not for..., but because...' ไม่ขนานกันที่สมบูรณ์แบบ ที่ถูกต้องคือ 'not because..., but because...' หรือ 'not for..., but for...' ในบริบทนี้ 'not for [noun phrase]' ควรตามด้วย 'but for [noun phrase]'. แต่เนื่องจากส่วนที่สองเป็น clause ('she had fabricated...'), เราต้องการโครงสร้างที่นำ clause ได้ และเพื่อให้ขนานกับเหตุผล (for her opinions), การใช้ 'because [clause]' จึงเป็นวิธีที่สื่อความหมายได้ดีที่สุดและเป็นที่ยอมรับ แม้จะไม่ใช่คู่ขนานที่สมบูรณ์แบบที่สุด. ถ้าจะให้สมบูรณ์แบบ ต้องปรับเป็น '...not because of her political opinions, but because she had fabricated sources...'"
+      },
+      {
+        "question": "Her goal is to be not just a successful entrepreneur, but also ______ who inspires positive change.",
+        "options": [
+          "A. being someone",
+          "B. to be someone",
+          "C. someone",
+          "D. as someone"
+        ],
+        "answer": "C",
+        "explanation": "โครงสร้าง 'not just... but also...' เชื่อมสองสิ่งที่ขนานกัน ในที่นี้ 'a successful entrepreneur' เป็น noun phrase ดังนั้นส่วนที่ตามมาก็ควรเป็น noun phrase ที่เทียบเท่ากันคือ 'someone who inspires positive change'"
+      },
+      {
+        "question": "His writing style is characterized by its clarity, its conciseness, and ______.",
+        "options": [
+          "A. by its profoundness",
+          "B. its profundity",
+          "C. it is profound",
+          "D. having profundity"
+        ],
+        "answer": "B",
+        "explanation": "ลิสต์นี้ใช้ noun phrases ที่ขึ้นต้นด้วย 'its' เพื่อแสดงคุณลักษณะ: 'its clarity', 'its conciseness', และ 'its profundity' เพื่อรักษาโครงสร้างคู่ขนาน"
+      },
+      {
+        "question": "The survey revealed that employees are more concerned about job security than ______ a higher salary.",
+        "options": [
+          "A. about getting",
+          "B. to get",
+          "C. they get",
+          "D. getting"
+        ],
+        "answer": "A",
+        "explanation": "โครงสร้างนี้เปรียบเทียบ 'concerned about [noun phrase]' กับ 'concerned about [gerund phrase]'. เพื่อให้ขนานกันอย่างสมบูรณ์ เราควรพูดว่า 'more concerned about job security than about getting a higher salary'. การใช้ 'about getting' จึงถูกต้องที่สุด"
+      },
+      {
+        "question": "The documentary explores both the devastation caused by the war and ______.",
+        "options": [
+          "A. how resilient the human spirit is",
+          "B. the resilience of the human spirit",
+          "C. the human spirit's resilience",
+          "D. the resilient human spirit"
+        ],
+        "answer": "B",
+        "explanation": "โครงสร้าง 'both... and...' เชื่อม noun phrase สองอัน 'the devastation caused by the war' และ 'the resilience of the human spirit'. ทั้งสองเป็น noun phrase ที่มีความซับซ้อนใกล้เคียงกัน ทำให้ประโยคมีความสมดุล"
+      },
+      {
+        "question": "My primary objectives for this year are to complete my dissertation, to secure a post-doctoral position, and ______ a new language.",
+        "options": [
+          "A. beginning to learn",
+          "B. to begin learning",
+          "C. I will begin to learn",
+          "D. the beginning of learning"
+        ],
+        "answer": "B",
+        "explanation": "นี่คือลิสต์ของ infinitive phrases: 'to complete...', 'to secure...', และ 'to begin learning...' การรักษาโครงสร้าง infinitive 'to + verb' ตลอดทั้งลิสต์เป็นสิ่งสำคัญ"
+      },
+      {
+        "question": "The company's failure was attributed to a combination of poor management, an outdated business model, and ______.",
+        "options": [
+          "A. it had an inability to adapt to market changes",
+          "B. being unable to adapt to market changes",
+          "C. an inability to adapt to market changes",
+          "D. because it was unable to adapt to market changes"
+        ],
+        "answer": "C",
+        "explanation": "ลิสต์นี้ประกอบด้วย noun phrases: 'poor management', 'an outdated business model', และ 'an inability to adapt...'. การใช้ noun phrase ในส่วนสุดท้ายทำให้โครงสร้างขนานกัน"
+      },
+      {
+        "question": "I would rather spend my time reading a thought-provoking novel than ______ a mindless action movie.",
+        "options": [
+          "A. to watch",
+          "B. watching",
+          "C. watch",
+          "D. I watch"
+        ],
+        "answer": "B",
+        "explanation": "โครงสร้าง 'would rather [verb] than [verb]' มักใช้ base form verb (e.g., rather read than watch). อย่างไรก็ตาม ในบริบทที่ซับซ้อนขึ้น 'rather spend my time [gerund] than [gerund]' ก็เป็นโครงสร้างที่ขนานกันและถูกต้อง 'spend my time reading' ขนานกับ '(spend my time) watching'."
+      },
+      {
+        "question": "The system was designed to be both highly efficient and ______.",
+        "options": [
+          "A. it is easily maintainable",
+          "B. easily maintainable",
+          "C. ease of maintenance",
+          "D. maintaining it is easy"
+        ],
+        "answer": "B",
+        "explanation": "โครงสร้าง 'both... and...' เชื่อมสอง adverbs ที่ขยาย 'efficient' และ 'maintainable'. ในที่นี้ 'highly' ขยาย 'efficient' และ 'easily' ขยาย 'maintainable'. โครงสร้างที่ขนานกันคือ 'highly efficient' และ 'easily maintainable'."
+      },
+      {
+        "question": "The professor instructed the students to analyze the text, to identify its main themes, and ______ a critical response.",
+        "options": [
+          "A. writing",
+          "B. to write",
+          "C. write",
+          "D. they should write"
+        ],
+        "answer": "B",
+        "explanation": "ลิสต์ของคำสั่งนี้ใช้ infinitive phrases: 'to analyze...', 'to identify...', และ 'to write...'. การใช้ 'to write' ทำให้โครงสร้างขนานกันอย่างสมบูรณ์"
+      },
+      {
+        "question": "The emissions from this factory are substantially lower than ______.",
+        "options": [
+          "A. other factories in the region",
+          "B. those from other factories in the region",
+          "C. from other factories in the region",
+          "D. what other factories in the region emit"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้เปรียบเทียบ 'The emissions from this factory' กับ 'emissions from other factories'. การใช้ 'those' แทน 'emissions' เป็นวิธีที่ถูกต้องเพื่อสร้างการเปรียบเทียบที่ขนานกัน"
+      },
+      {
+        "question": "The defendant's demeanor in court seemed neither remorseful ______.",
+        "options": [
+          "A. or cooperative",
+          "B. nor was he cooperative",
+          "C. nor cooperative",
+          "D. but uncooperative"
+        ],
+        "answer": "C",
+        "explanation": "โครงสร้าง 'neither... nor...' เชื่อมสอง adjectives ที่ขนานกันคือ 'remorseful' และ 'cooperative' เพื่ออธิบาย 'demeanor'"
+      },
+      {
+        "question": "His decision to resign was motivated not by a desire for personal gain but ______ to protest the company's unethical practices.",
+        "options": [
+          "A. by a need",
+          "B. because he needed",
+          "C. for needing",
+          "D. it was a need"
+        ],
+        "answer": "A",
+        "explanation": "โครงสร้าง 'not by..., but by...' ต้องการ prepositional phrase ที่ขนานกัน ส่วนแรกคือ 'by a desire for personal gain', ดังนั้นส่วนที่สองต้องเป็น 'by a need to protest...'"
+      },
+      {
+        "question": "The committee is debating whether the funds should be allocated to public infrastructure or ______ healthcare services.",
+        "options": [
+          "A. should be used for",
+          "B. to improving",
+          "C. if they should improve",
+          "D. to improve"
+        ],
+        "answer": "D",
+        "explanation": "โครงสร้าง 'whether... should be allocated to [noun] or to [verb]' ต้องการความขนาน. ในที่นี้ 'allocated to public infrastructure' ขนานกับ '(allocated) to improve healthcare services'. การใช้ infinitive 'to improve' เป็นวิธีที่เหมาะสมที่สุดในการแสดงจุดประสงค์ที่ขนานกัน"
+      },
+      {
+        "question": "A well-rounded education should teach students not only how to think critically but also ______ effectively.",
+        "options": [
+          "A. how to communicate",
+          "B. communicating",
+          "C. they should communicate",
+          "D. to be a communicator"
+        ],
+        "answer": "A",
+        "explanation": "โครงสร้าง 'not only... but also...' เชื่อมสอง 'how to' clauses ที่ขนานกัน: 'how to think critically' และ 'how to communicate effectively'"
+      },
+      {
+        "question": "The path to success is often paved with unforeseen challenges, unexpected setbacks, and ______.",
+        "options": [
+          "A. requires unwavering perseverance",
+          "B. you must persevere unwaveringly",
+          "C. unwavering perseverance",
+          "D. to persevere unwaveringly"
+        ],
+        "answer": "C",
+        "explanation": "ลิสต์นี้ประกอบด้วย noun phrases: 'unforeseen challenges', 'unexpected setbacks', และ 'unwavering perseverance'. การใช้ noun phrase ในส่วนสุดท้ายทำให้โครงสร้างขนานกัน"
+      },
+      {
+        "question": "The political rhetoric was designed either to inspire fervent loyalty ______ deep-seated fear among the populace.",
+        "options": [
+          "A. or to instill",
+          "B. and instilled",
+          "C. or instilling",
+          "D. nor to instill"
+        ],
+        "answer": "A",
+        "explanation": "โครงสร้าง 'either... or...' เชื่อม infinitive phrases สองอันที่แสดงจุดประสงค์: 'to inspire...' และ 'to instill...'. ทั้งสองต้องอยู่ในรูป infinitive เพื่อความขนาน"
+      },
+      {
+        "question": "Understanding the nuances of a foreign culture is as important as ______ its language.",
+        "options": [
+          "A. to master",
+          "B. the mastery of",
+          "C. you master",
+          "D. mastering"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคนี้เปรียบเทียบการกระทำสองอย่างโดยใช้ gerund phrases: 'Understanding the nuances...' และ 'mastering its language'. การใช้ gerund ทั้งสองส่วนทำให้การเปรียบเทียบขนานกัน"
+      },
+      {
+        "question": "The policy was criticized for being both overly bureaucratic and ______.",
+        "options": [
+          "A. it was ineffective",
+          "B. of no effect",
+          "C. ineffective",
+          "D. having no effect"
+        ],
+        "answer": "C",
+        "explanation": "โครงสร้าง 'both... and...' เชื่อมสอง adjectives ที่ขนานกัน: 'overly bureaucratic' และ 'ineffective'. ทั้งสองคำขยาย 'policy'"
+      },
+      {
+        "question": "She is a leader who is respected for her integrity, admired for her vision, and ______ for her compassion.",
+        "options": [
+          "A. she is loved",
+          "B. loved",
+          "C. being loved",
+          "D. the love"
+        ],
+        "answer": "B",
+        "explanation": "ลิสต์นี้ประกอบด้วย participial phrases ที่ขนานกัน: 'respected for...', 'admired for...', และ 'loved for...'. คำกริยา 'loved' อยู่ในรูป past participle เช่นเดียวกับ 'respected' และ 'admired'"
+      },
+      {
+        "question": "The indigenous population's way of life is profoundly different from ______ of the urban dwellers.",
+        "options": [
+          "A. it is",
+          "B. that",
+          "C. which",
+          "D. what"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้เปรียบเทียบ 'way of life' ของคนกลุ่มหนึ่งกับ 'way of life' ของอีกกลุ่มหนึ่ง การใช้ 'that' แทน 'the way of life' เพื่อหลีกเลี่ยงการซ้ำซ้อนและรักษาการเปรียบเทียบที่ขนานกัน"
+      },
+      {
+        "question": "The negotiator's job is not to adjudicate the dispute but ______ a mutually acceptable compromise.",
+        "options": [
+          "A. finding",
+          "B. it is to find",
+          "C. to find",
+          "D. for finding"
+        ],
+        "answer": "C",
+        "explanation": "โครงสร้าง 'not to..., but to...' ต้องการ infinitive phrase ที่ขนานกัน ส่วนแรกคือ '(is) not to adjudicate', ดังนั้นส่วนที่สองต้องเป็น 'but (is) to find...'"
+      },
+      {
+        "question": "What the report recommends and ______ are two vastly different things.",
+        "options": [
+          "A. what the board will actually implement",
+          "B. the implementation of the board",
+          "C. that the board will implement it",
+          "D. for the board to implement"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้เชื่อม noun clauses สองอันที่ขึ้นต้นด้วย 'what' ซึ่งทำหน้าที่เป็นประธานของประโยค 'What the report recommends' และ 'what the board will actually implement' เป็นโครงสร้างที่ขนานกัน"
+      },
+      {
+        "question": "He told me that he would finish the project by Friday and ______.",
+        "options": [
+          "A. to submit it then",
+          "B. submitting it then",
+          "C. its submission would be then",
+          "D. that he would submit it then"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคนี้ใช้ reported speech ที่มี clauses สองอันเชื่อมด้วย 'and'. ส่วนแรกคือ 'that he would finish...' ดังนั้นส่วนที่สองก็ควรเป็น 'that he would submit...' เพื่อความขนาน แม้ว่า 'that' ตัวที่สองจะละได้ แต่ตัวเลือก D เป็นตัวเลือกที่ชัดเจนและถูกต้องที่สุด"
+      },
+      {
+        "question": "The ancient manuscript was remarkable for both its exquisite calligraphy and ______.",
+        "options": [
+          "A. for its historical significance",
+          "B. its historical significance",
+          "C. it was historically significant",
+          "D. the significance of its history"
+        ],
+        "answer": "B",
+        "explanation": "โครงสร้าง 'both... and...' เชื่อม noun phrases ที่มี possessive pronoun 'its' นำหน้า: 'its exquisite calligraphy' และ 'its historical significance'. การใช้โครงสร้างนี้ทำให้ประโยคมีความสมดุล"
+      },
+      {
+        "question": "Investing in renewable energy is not only an ethical imperative but also ______.",
+        "options": [
+          "A. an economic opportunity that is sound",
+          "B. a sound economic opportunity",
+          "C. economically it is a sound opportunity",
+          "D. to have a sound economic opportunity"
+        ],
+        "answer": "B",
+        "explanation": "โครงสร้าง 'not only... but also...' เชื่อมสอง noun phrases: 'an ethical imperative' และ 'a sound economic opportunity'. ทั้งสองเป็น noun phrase ที่มีโครงสร้างคล้ายกัน (article + adjective + noun)"
+      },
+      {
+        "question": "The purpose of the workshop is to provide participants with new skills and ______ them to collaborate more effectively.",
+        "options": [
+          "A. enabling",
+          "B. to enable",
+          "C. enable",
+          "D. it enables"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้มีจุดประสงค์สองอย่างที่ขนานกัน ซึ่งแสดงด้วย infinitive phrases: 'to provide...' และ 'to enable...'. การใช้ 'to enable' ทำให้โครงสร้างสมบูรณ์และขนานกัน"
+      },
+      {
+        "question": "The quality of public schools in affluent neighborhoods is often superior to ______ in impoverished areas.",
+        "options": [
+          "A. it",
+          "B. the one",
+          "C. them",
+          "D. that"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคนี้เปรียบเทียบ 'The quality' ของโรงเรียนในย่านหนึ่งกับ 'the quality' ของโรงเรียนในอีกย่านหนึ่ง เราใช้ 'that' ซึ่งเป็น pronoun แทน 'the quality' เพื่อสร้างการเปรียบเทียบที่ขนานและถูกต้อง"
+      },
+      {
+        "question": "The research findings suggest that a sedentary lifestyle contributes to poor physical health and ______.",
+        "options": [
+          "A. diminishing mental acuity",
+          "B. to diminish mental acuity",
+          "C. mental acuity is diminished",
+          "D. diminished mental acuity"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคนี้เชื่อม noun phrases สองอันที่เป็นผลลัพธ์: 'poor physical health' (adjective + noun) และ 'diminished mental acuity' (past participle as adjective + noun). โครงสร้างนี้ขนานกันอย่างสมบูรณ์"
+      },
+      {
+        "question": "The company promises to deliver superior products, to offer exceptional service, and ______ integrity in all its dealings.",
+        "options": [
+          "A. maintaining",
+          "B. to maintain",
+          "C. it will maintain",
+          "D. the maintenance of"
+        ],
+        "answer": "B",
+        "explanation": "นี่คือลิสต์ของ 'promises' ที่ใช้ infinitive phrases: 'to deliver...', 'to offer...', และ 'to maintain...'. การใช้ infinitive ทำให้โครงสร้างขนานกัน"
+      },
+      {
+        "question": "He was a man of profound intellect, of unwavering conviction, and ______.",
+        "options": [
+          "A. of considerable courage",
+          "B. he was considerably courageous",
+          "C. with considerable courage",
+          "D. courage that was considerable"
+        ],
+        "answer": "A",
+        "explanation": "ลิสต์นี้ประกอบด้วย prepositional phrases ที่ขึ้นต้นด้วย 'of': 'of profound intellect', 'of unwavering conviction', และ 'of considerable courage'. การรักษา preposition 'of' ทำให้เกิดจังหวะและโครงสร้างที่ขนานกัน"
+      },
+      {
+        "question": "It is one thing to have a brilliant idea, but quite another ______.",
+        "options": [
+          "A. to execute it successfully",
+          "B. executing it successfully",
+          "C. its successful execution",
+          "D. you execute it successfully"
+        ],
+        "answer": "A",
+        "explanation": "สำนวน 'It is one thing to..., but quite another to...' ต้องการ infinitive ที่ขนานกัน 'to have a brilliant idea' ขนานกับ 'to execute it successfully'"
+      },
+      {
+        "question": "The lawyer argued that the evidence was not only circumstantial but also ______ by an unreliable witness.",
+        "options": [
+          "A. it was provided",
+          "B. providing",
+          "C. provided",
+          "D. the provision of it"
+        ],
+        "answer": "C",
+        "explanation": "โครงสร้าง 'not only... but also...' เชื่อมสอง adjectives/participles ที่ขยาย 'evidence'. ส่วนแรกคือ 'circumstantial' (adjective), และส่วนที่สองคือ 'provided by...' (past participle phrase). ทั้งสองทำหน้าที่เป็น adjective ขยายคำนามเดียวกัน"
+      },
+      {
+        "question": "The paradox of modern life is that we have more ways to connect, yet ______ more isolated.",
+        "options": [
+          "A. to feel",
+          "B. feeling",
+          "C. we feel",
+          "D. the feeling of being"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้มี clauses สองอันที่ขนานกันเชื่อมด้วย 'yet'. ส่วนแรกคือ 'we have more ways to connect', และส่วนที่สองคือ 'we feel more isolated'. ทั้งสองเป็น independent clauses ที่มีความหมายขัดแย้งกัน"
+      },
+      {
+        "question": "The committee's final report will either recommend immediate policy changes or ______ for further investigation.",
+        "options": [
+          "A. it will call",
+          "B. to call",
+          "C. calling",
+          "D. call"
+        ],
+        "answer": "D",
+        "explanation": "โครงสร้าง 'either... or...' เชื่อม base form verbs สองอันที่ตามหลัง modal verb 'will'. 'will either recommend... or call...'. Base form 'call' ขนานกับ 'recommend'"
+      }
+    ]
+  }
+]

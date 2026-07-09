@@ -1,0 +1,1138 @@
+[
+  {
+    "id": "18_1",
+    "title": "18.1 Zero Conditional (Fact)",
+    "explanation": "Zero Conditional หรือประโยคเงื่อนไขแบบที่ 0 ใช้เพื่อพูดถึงความจริงแท้ 100% ซึ่งเป็นข้อเท็จจริงทั่วไป (general truths), ข้อเท็จจริงทางวิทยาศาสตร์ (scientific facts), กฎเกณฑ์ (rules), หรือสถานการณ์ที่เกิดขึ้นเป็นประจำ (habits/routines) ซึ่งผลลัพธ์จะเกิดขึ้นเหมือนเดิมเสมอ\n\nโครงสร้างหลักคือ:\n**If + Present Simple, Present Simple**\n(If-clause)      , (Main clause)\n\nสิ่งสำคัญที่ต้องจำ:\n1.  **ความจริงเสมอ**: ผลลัพธ์ใน main clause จะเกิดขึ้น 'เสมอ' เมื่อเงื่อนไขใน if-clause เป็นจริง ไม่ใช่การคาดเดาอนาคต\n2.  **สลับที่ได้**: เราสามารถสลับที่ประโยคได้เป็น **Present Simple + if + Present Simple** โดยไม่ต้องมีเครื่องหมายจุลภาค (comma) คั่นกลาง\n3.  **ใช้ 'When' แทน 'If'**: ในหลายกรณี เราสามารถใช้ 'When' หรือ 'Whenever' (เมื่อไหร่ก็ตามที่) แทน 'If' ได้โดยที่ความหมายไม่เปลี่ยน เพื่อเน้นย้ำว่ามันเกิดขึ้นทุกครั้ง",
+    "examples": [
+      {
+        "eng": "If a company doesn't adapt to market changes, it generally falls behind its competitors.",
+        "thai": "ถ้าบริษัทไม่ปรับตัวตามการเปลี่ยนแปลงของตลาด โดยทั่วไปแล้วก็จะล้าหลังคู่แข่ง (นี่คือข้อเท็จจริงทั่วไปในโลกธุรกิจ ไม่ใช่การทำนายเหตุการณ์ในอนาคต)"
+      },
+      {
+        "eng": "When you integrate two different software systems, compatibility issues often arise.",
+        "thai": "เมื่อคุณรวมระบบซอฟต์แวร์ที่แตกต่างกันสองระบบเข้าด้วยกัน ปัญหาความเข้ากันได้มักจะเกิดขึ้น (ใช้ When แทน If เพื่อสื่อถึงผลลัพธ์ที่เกิดขึ้นเป็นประจำในสถานการณ์แบบนี้)"
+      },
+      {
+        "eng": "Materials expand if you heat them.",
+        "thai": "วัตถุจะขยายตัวถ้าคุณให้ความร้อนแก่มัน (ประโยคสลับที่ ไม่มี comma และเป็นข้อเท็จจริงทางวิทยาศาสตร์)"
+      },
+      {
+        "eng": "If the fire alarm sounds, you evacuate the building immediately.",
+        "thai": "ถ้าสัญญาณเตือนไฟไหม้ดังขึ้น คุณต้องอพยพออกจากอาคารทันที (นี่เป็นกฎหรือคำสั่งที่ต้องปฏิบัติเสมอ)"
+      },
+      {
+        "eng": "Whenever my manager is under pressure, he delegates more tasks.",
+        "thai": "เมื่อไหร่ก็ตามที่ผู้จัดการของฉันตกอยู่ภายใต้ความกดดัน เขาจะมอบหมายงานมากขึ้น (นี่คือนิสัยหรือพฤติกรรมที่เกิดขึ้นเป็นประจำ)"
+      }
+    ],
+    "common_mistakes": "1. **ใช้ 'will' โดยไม่จำเป็น**: คนไทยมักติดใช้ 'will' กับประโยค if ทุกประเภท เพราะคิดถึงอนาคต แต่ Zero Conditional พูดถึง 'ข้อเท็จจริง' ไม่ใช่ 'การคาดเดา' \n   - **ผิด**: If you heat water to 100 degrees, it ~~will boil~~.\n   - **ถูก**: If you heat water to 100 degrees, it **boils**. (มันเป็นความจริงทางวิทยาศาสตร์เสมอ)\n\n2. **สับสนกับ First Conditional**: ต้องแยกให้ออกระหว่าง 'ความจริง 100%' (Zero) กับ 'ความเป็นไปได้ในอนาคต' (First)\n   - **Zero (Fact)**: If I **eat** seafood, I **get** an allergic reaction. (ฉันแพ้อาหารทะเล กินเมื่อไหร่ก็แพ้เมื่อนั้น เป็นเรื่องจริงเกี่ยวกับตัวฉัน)\n   - **First (Prediction)**: If I **eat** that suspicious-looking oyster, I **will probably get** sick. (ฉันคาดการณ์ว่าถ้ากินหอยนางรมตัวที่ดูไม่สดตัวนั้น ฉัน 'น่าจะ' ป่วย ซึ่งเป็นเหตุการณ์เฉพาะหน้า)\n\n3. **ลืมผัน Verb ตามประธาน**: ทั้งสอง Clause เป็น Present Simple ดังนั้นต้องอย่าลืมกฎ Subject-Verb Agreement (ประธานเอกพจน์ กริยาเติม s/es)\n   - **ผิด**: If a person ~~work~~ hard, they usually succeed.\n   - **ถูก**: If a person **works** hard, they usually succeed.",
+    "practice_questions": [
+      {
+        "question": "If an economy ______ into a recession, unemployment rates typically ______.",
+        "options": [
+          "A. goes / rises",
+          "B. will go / rise",
+          "C. goes / will rise",
+          "D. went / rose"
+        ],
+        "answer": "A",
+        "explanation": "คำถามนี้พูดถึงข้อเท็จจริงทั่วไปทางเศรษฐศาสตร์ จึงต้องใช้ Zero Conditional (If + Present Simple, Present Simple) ประธาน 'an economy' เป็นเอกพจน์ กริยาจึงต้องเป็น 'goes' และประธาน 'unemployment rates' เป็นพหูพจน์ กริยาจึงเป็น 'rise'"
+      },
+      {
+        "question": "Plants wither and die if they ______ enough water and sunlight.",
+        "options": [
+          "A. will not receive",
+          "B. don't receive",
+          "C. doesn't receive",
+          "D. aren't receiving"
+        ],
+        "answer": "B",
+        "explanation": "นี่คือข้อเท็จจริงทางชีววิทยา และเป็นประโยคแบบสลับที่ (Main Clause + if-clause) จึงไม่ต้องมี comma โครงสร้างคือ Present Simple ทั้งสองส่วน ประธาน 'they' (หมายถึง plants) เป็นพหูพจน์ จึงต้องใช้ 'don't receive'"
+      },
+      {
+        "question": "When you ______ a file on this cloud server, it automatically ______ across all your devices.",
+        "options": [
+          "A. update / syncs",
+          "B. updated / synced",
+          "C. update / will sync",
+          "D. will update / syncs"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้อธิบายการทำงานของระบบ ซึ่งเป็นข้อเท็จจริงหรือกฎของระบบนั้นๆ ใช้ Zero Conditional ประธาน 'you' ใช้กริยา 'update' (ไม่เติม s) และประธาน 'it' (หมายถึง a file) เป็นเอกพจน์ ใช้กริยา 'syncs' (เติม s)"
+      },
+      {
+        "question": "If a company ______ its employees well, productivity often ______.",
+        "options": [
+          "A. treat / improves",
+          "B. treats / improve",
+          "C. will treat / improves",
+          "D. treats / improves"
+        ],
+        "answer": "D",
+        "explanation": "นี่คือความจริงทั่วไปเกี่ยวกับการบริหารจัดการบุคคล โครงสร้าง Zero Conditional ประธาน 'a company' เป็นเอกพจน์ กริยาคือ 'treats' ประธาน 'productivity' เป็นนามนับไม่ได้ (เอกพจน์) กริยาคือ 'improves'"
+      },
+      {
+        "question": "According to the rules, if a player ______ a second yellow card, they ______ the field of play.",
+        "options": [
+          "A. receives / must leave",
+          "B. will receive / leave",
+          "C. receives / are leaving",
+          "D. received / have to leave"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้พูดถึงกฎกติกาที่ตายตัว ใน main clause เราสามารถใช้ modal verb เช่น must, have to, can เพื่อแสดงกฎหรือความสามารถได้ ประธาน 'a player' เป็นเอกพจน์ จึงใช้ 'receives' และ 'must leave' เพื่อบอกกฎที่ต้องปฏิบัติ"
+      },
+      {
+        "question": "Whenever a politician ______ a controversial statement, the media ______ it extensively.",
+        "options": [
+          "A. make / cover",
+          "B. makes / covers",
+          "C. will make / covers",
+          "D. makes / will cover"
+        ],
+        "answer": "B",
+        "explanation": "'Whenever' บ่งบอกถึงเหตุการณ์ที่เกิดขึ้นเป็นประจำ (habitual action) จึงใช้ Zero Conditional ประธาน 'a politician' เป็นเอกพจน์ กริยาคือ 'makes' และประธาน 'the media' (ถือเป็นหน่วยเดียว) เป็นเอกพจน์ กริยาคือ 'covers'"
+      },
+      {
+        "question": "Most metals ______ if you expose them to acid.",
+        "options": [
+          "A. corrode",
+          "B. corrodes",
+          "C. will corrode",
+          "D. are corroding"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้เป็นข้อเท็จจริงทางวิทยาศาสตร์ และเป็นการสลับที่ (Main Clause + if-clause) ประธาน 'Most metals' เป็นพหูพจน์ ดังนั้นกริยา 'corrode' จึงไม่ต้องเติม s"
+      },
+      {
+        "question": "If you ______ the terms of a contract, you ______ legal consequences.",
+        "options": [
+          "A. violate / face",
+          "B. will violate / face",
+          "C. violates / faces",
+          "D. violate / will face"
+        ],
+        "answer": "A",
+        "explanation": "นี่คือข้อเท็จจริงที่เป็นกฎเกณฑ์หรือผลลัพธ์ที่แน่นอนตามกฎหมาย ใช้ Zero Conditional ประธาน 'you' ใช้กริยา 'violate' และใน Main Clause ประธาน 'you' ก็ใช้กริยา 'face' เช่นกัน"
+      },
+      {
+        "question": "In this software, if a user ______ the 'save' button, the data ______ to the database.",
+        "options": [
+          "A. click / is written",
+          "B. clicks / is written",
+          "C. clicks / will be written",
+          "D. will click / is written"
+        ],
+        "answer": "B",
+        "explanation": "อธิบายการทำงานของโปรแกรมซึ่งเป็นข้อเท็จจริง ประธาน 'a user' เป็นเอกพจน์ จึงใช้ 'clicks' ใน Main Clause ใช้โครงสร้าง Passive Voice (is + V.3) ในรูป Present Simple เพื่อบอกว่าข้อมูล 'ถูกเขียน' ลงไป ซึ่งถูกต้องตามหลักไวยากรณ์ของ Zero Conditional"
+      },
+      {
+        "question": "Food ______ fresh for longer if you ______ it in an airtight container.",
+        "options": [
+          "A. stay / will store",
+          "B. stays / store",
+          "C. will stay / store",
+          "D. stays / will store"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้ให้คำแนะนำที่เป็นข้อเท็จจริงทั่วไป และเป็นประโยคแบบสลับที่ ประธาน 'Food' (นามนับไม่ได้) เป็นเอกพจน์ จึงใช้กริยา 'stays' และประธาน 'you' ใช้กริยา 'store'"
+      }
+    ]
+  },
+  {
+    "id": "18_2",
+    "title": "18.2 First Conditional (Real future)",
+    "explanation": "First Conditional หรือ Conditional Sentence Type 1 ใช้พูดถึงเหตุการณ์ที่เป็นเหตุเป็นผลกัน ซึ่งมี **ความเป็นไปได้จริง** ที่จะเกิดขึ้นใน **อนาคต**\n\n**โครงสร้างหลัก:**\nIf + Present Simple, ... will + Verb infinitive (V.1)\n(ส่วนที่เป็นเงื่อนไข) , (ส่วนที่เป็นผลลัพธ์)\n\n**การใช้งานและรูปแบบต่างๆ:**\n1.  **พูดถึงเงื่อนไขและผลลัพธ์ที่เป็นไปได้ในอนาคต:** นี่คือการใช้งานพื้นฐานที่สุด เช่น 'ถ้าฝนตก ฉันจะอยู่บ้าน' (เป็นไปได้จริงว่าฝนจะตก)\n\n2.  **สามารถสลับที่ประโยคได้:** เราสามารถนำส่วนผลลัพธ์ (Main Clause) ขึ้นก่อนได้ โดยไม่ต้องมีเครื่องหมาย comma (,) คั่นกลาง\n    *   `... will + Verb infinitive if + Present Simple`\n    *   ตัวอย่าง: `I will stay home if it rains.`\n\n3.  **ใช้ Modal Verbs อื่นๆ แทน 'will':** เพื่อสื่อความหมายที่แตกต่างกันออกไปในส่วนของผลลัพธ์ เช่น:\n    *   **can/may/might (อาจจะ):** แสดงความเป็นไปได้ที่น้อยลงหรือไม่แน่นอนเท่า will\n        *   `If you finish your work early, you can go home.` (อนุญาต)\n        *   `If the traffic is bad, we might be late for the meeting.` (อาจจะ)\n    *   **should (ควรจะ):** ให้คำแนะนำ\n        *   `If you want to improve your English, you should practice every day.`\n    *   **must (ต้อง):** แสดงความจำเป็น\n        *   `If you want to pass the exam, you must study harder.`\n\n4.  **ใช้ประโยคคำสั่ง (Imperative) ในส่วนผลลัพธ์:** ใช้เมื่อต้องการสั่งหรือขอร้องให้ทำอะไรบางอย่างหากเงื่อนไขเป็นจริง\n    *   `If + Present Simple, + Verb infinitive (Imperative)`\n    *   ตัวอย่าง: `If you see John, tell him to call me.`\n\n5.  **การใช้ 'Unless' (เว้นแต่ว่า):** Unless มีความหมายเท่ากับ 'if...not' ใช้เพื่อสร้างเงื่อนไขเชิงปฏิเสธ\n    *   `Unless you hurry, you will miss the train.` (ถ้าคุณไม่รีบ, คุณจะตกรถไฟ)\n    *   ประโยคนี้มีความหมายเหมือนกับ: `If you don't hurry, you will miss the train.`\n\n**หัวใจสำคัญของ First Conditional คือ 'ความเป็นไปได้จริง' (Real Possibility) ในอนาคต** ซึ่งต่างจาก Second Conditional ที่เป็นเรื่องสมมติหรือไม่จริงในปัจจุบัน",
+    "examples": [
+      {
+        "eng": "If the company secures this major contract, we will need to hire more staff to handle the workload.",
+        "thai": "ถ้าบริษัทได้สัญญาสัญญาหลักฉบับนี้มา เราจะต้องจ้างพนักงานเพิ่มเพื่อรับมือกับปริมาณงาน (เป็นสถานการณ์ที่เป็นไปได้จริงในอนาคต)"
+      },
+      {
+        "eng": "You might lose potential clients if your website doesn't offer a seamless user experience.",
+        "thai": "คุณอาจจะเสียลูกค้าที่มีแนวโน้มจะเป็นลูกค้าไปได้นะ ถ้าเว็บไซต์ของคุณไม่มอบประสบการณ์การใช้งานที่ราบรื่น (ใช้ might เพื่อแสดงความเป็นไปได้ที่ไม่แน่นอน 100%)"
+      },
+      {
+        "eng": "Unless we adopt more sustainable practices, our company's reputation could be at risk.",
+        "thai": "เว้นเสียแต่ว่าเราจะนำแนวทางปฏิบัติที่ยั่งยืนกว่านี้มาใช้ ชื่อเสียงของบริษัทก็อาจตกอยู่ในความเสี่ยงได้ (Unless = If we don't adopt...)"
+      },
+      {
+        "eng": "If you encounter any technical issues with the software, please contact the support desk immediately.",
+        "thai": "หากคุณพบปัญหาทางเทคนิคใดๆ กับซอฟต์แวร์ กรุณาติดต่อฝ่ายสนับสนุนทันที (ใช้ประโยคคำสั่ง 'please contact' ในส่วนผลลัพธ์)"
+      },
+      {
+        "eng": "Should you require further assistance, don't hesitate to ask. (This is a more formal way of saying 'If you require...')",
+        "thai": "หากท่านต้องการความช่วยเหลือเพิ่มเติม อย่าลังเลที่จะสอบถาม (เป็นการใช้ 'Should' ขึ้นต้นประโยคแทน 'If' ซึ่งเป็นรูปแบบที่เป็นทางการมากขึ้น แต่ความหมายยังคงเป็น First Conditional)"
+      }
+    ],
+    "common_mistakes": "**ข้อผิดพลาดที่พบบ่อยที่สุดและสำคัญที่สุดของคนไทย:**\n\n1.  **ใช้ 'will' ใน 'If-clause':** นี่คือข้อผิดพลาดที่เจอบ่อยที่สุดและผิดหลักไวยากรณ์อย่างชัดเจน ในส่วนของเงื่อนไข (If-clause) เราจะใช้ Present Simple Tense เสมอเพื่อพูดถึงอนาคต จะไม่ใช้ will\n    *   **ผิด:** `If I will have free time, I will call you.`\n    *   **ถูก:** `If I have free time, I will call you.`\n    *   **จำไว้ว่า:** 'will' จะอยู่ในส่วนของ 'ผลลัพธ์' เท่านั้น ไม่ใช่อยู่ในส่วนของ 'เงื่อนไข'\n\n2.  **สับสนกับการใช้ 'Unless':** บางครั้งมีการใช้ 'Unless' คู่กับประโยคปฏิเสธซ้อนกัน ทำให้ความหมายผิดเพี้ยน (Double Negative)\n    *   **ผิด:** `Unless you don't study, you will fail.` (ความหมายกลายเป็น 'ถ้าคุณเรียน คุณจะสอบตก' ซึ่งผิด)\n    *   **ถูก:** `Unless you study, you will fail.` (เว้นแต่ว่าคุณจะเรียน = ถ้าคุณไม่เรียน คุณจะสอบตก)\n    *   **ถูก:** `If you don't study, you will fail.`\n\n3.  **สับสนระหว่าง First และ Second Conditional:** เมื่อสถานการณ์ยังมีความเป็นไปได้จริงในอนาคต แต่ผู้เรียนอาจเผลอไปใช้โครงสร้างของ Second Conditional (If + Past Simple, would + V.1) ซึ่งใช้กับเรื่องสมมติ\n    *   **สถานการณ์:** เพื่อนถามว่า 'เย็นนี้จะไปปาร์ตี้ไหม?' (ยังเป็นอนาคตและเป็นไปได้)\n    *   **ผิด (ใช้ Second):** `If I finished my work, I would go.` (ประโยคนี้จะสื่อว่า 'ถ้าฉันทำงานเสร็จนะ' แต่จริงๆ แล้วรู้ตัวว่าทำไม่เสร็จหรอก เป็นเรื่องสมมติ)\n    *   **ถูก (ใช้ First):** `If I finish my work, I will go.` (สื่อว่า 'ถ้าฉันทำงานเสร็จ ฉันจะไป' ซึ่งมีความเป็นไปได้จริง)",
+    "practice_questions": [
+      {
+        "question": "If the marketing team _______ a successful campaign, our sales will likely increase by 20%.",
+        "options": [
+          "A. will launch",
+          "B. launches",
+          "C. launched",
+          "D. would launch"
+        ],
+        "answer": "B",
+        "explanation": "ในส่วนของเงื่อนไข (If-clause) ของ First Conditional เราต้องใช้ Present Simple Tense (launches) เพื่อพูดถึงเหตุการณ์ในอนาคตที่เป็นไปได้จริง เราจะไม่ใช้ 'will' ใน If-clause"
+      },
+      {
+        "question": "The company might have to downsize _______ we secure that new international client.",
+        "options": [
+          "A. if",
+          "B. when",
+          "C. unless",
+          "D. provided that"
+        ],
+        "answer": "C",
+        "explanation": "'Unless' แปลว่า 'ถ้า...ไม่' หรือ 'เว้นเสียแต่ว่า' ประโยคนี้หมายความว่า 'บริษัทอาจจะต้องลดขนาดลง เว้นเสียแต่ว่าเราจะได้ลูกค้าระหว่างประเทศรายใหม่มา' ซึ่งเท่ากับ 'If we don't secure...'"
+      },
+      {
+        "question": "Please inform the manager immediately if you _______ any discrepancies in the financial report.",
+        "options": [
+          "A. will find",
+          "B. found",
+          "C. would find",
+          "D. find"
+        ],
+        "answer": "D",
+        "explanation": "ส่วนของผลลัพธ์เป็นประโยคคำสั่ง (Please inform...) ดังนั้นส่วนของเงื่อนไข (If-clause) ต้องใช้ Present Simple Tense (find)"
+      },
+      {
+        "question": "We _______ the project on time if the supplier delivers the materials as scheduled.",
+        "options": [
+          "A. can complete",
+          "B. completed",
+          "C. have completed",
+          "D. were completing"
+        ],
+        "answer": "A",
+        "explanation": "นี่คือโครงสร้าง First Conditional มาตรฐาน ส่วนเงื่อนไขคือ 'if the supplier delivers...' (Present Simple) ดังนั้นส่วนผลลัพธ์ต้องใช้ Modal Verb + V.1 ซึ่งในที่นี้ 'can complete' (สามารถทำให้เสร็จ) เหมาะสมที่สุด"
+      },
+      {
+        "question": "Unless the weather conditions _______ dramatically, the flight will depart on schedule.",
+        "options": [
+          "A. won't improve",
+          "B. improve",
+          "C. don't improve",
+          "D. improved"
+        ],
+        "answer": "B",
+        "explanation": "หลัง 'Unless' เราจะใช้ประโยคบอกเล่าในรูป Present Simple เพราะ Unless มีความหมายว่า 'if...not' อยู่ในตัวแล้ว ประโยคจึงหมายความว่า 'If the weather conditions don't improve...' ดังนั้นคำตอบที่ถูกต้องคือ 'improve'"
+      },
+      {
+        "question": "If you _______ the advanced training course, you will be eligible for a promotion.",
+        "options": [
+          "A. will complete",
+          "B. complete",
+          "C. would complete",
+          "D. completed"
+        ],
+        "answer": "B",
+        "explanation": "เป็นกฎของ First Conditional ที่ส่วน If-clause ต้องใช้ Present Simple Tense แม้จะพูดถึงอนาคตก็ตาม ดังนั้น 'complete' จึงเป็นคำตอบที่ถูกต้อง"
+      },
+      {
+        "question": "The negotiation _______ successful unless both parties are willing to compromise.",
+        "options": [
+          "A. isn't",
+          "B. won't be",
+          "C. wasn't",
+          "D. wouldn't be"
+        ],
+        "answer": "B",
+        "explanation": "ส่วนเงื่อนไขคือ 'unless both parties are willing...' (Present Simple) ดังนั้นส่วนผลลัพธ์ต้องเป็นรูปอนาคต คือ 'will not be' หรือ 'won't be' เพื่อสร้างประโยค First Conditional ที่สมบูรณ์"
+      },
+      {
+        "question": "What _______ if the main server crashes during peak business hours?",
+        "options": [
+          "A. will you do",
+          "B. do you do",
+          "C. did you do",
+          "D. would you do"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้เป็นคำถามในรูปแบบ First Conditional ส่วนเงื่อนไขคือ 'if the main server crashes' (Present Simple) ดังนั้นส่วนผลลัพธ์ที่เป็นคำถามจึงต้องใช้ 'will' คือ 'What will you do?'"
+      },
+      {
+        "question": "If interest rates continue to rise, it _______ more difficult for people to buy property.",
+        "options": [
+          "A. becomes",
+          "B. became",
+          "C. will become",
+          "D. has become"
+        ],
+        "answer": "C",
+        "explanation": "ส่วนเงื่อนไข 'If interest rates continue to rise' เป็น Present Simple ดังนั้นส่วนผลลัพธ์หลัก (main clause) จะต้องเป็น Future Simple (will + V.1) ซึ่งก็คือ 'will become'"
+      },
+      {
+        "question": "Should you _______ any further information, please visit our official website.",
+        "options": [
+          "A. need",
+          "B. will need",
+          "C. needed",
+          "D. to need"
+        ],
+        "answer": "A",
+        "explanation": "นี่คือการใช้ First Conditional ในรูปแบบที่เป็นทางการ โดยใช้ 'Should' ขึ้นต้นประโยคแทน 'If' โครงสร้างคือ 'Should + subject + V.1' ดังนั้นคำตอบที่ถูกต้องคือ 'need' ที่เป็น Verb infinitive (V.1)"
+      }
+    ]
+  },
+  {
+    "id": "18_3",
+    "title": "18.3 Second Conditional (Unreal present)",
+    "explanation": "Second Conditional หรือประโยคเงื่อนไขแบบที่ 2 ใช้พูดถึงเหตุการณ์ที่ 'ตรงกันข้ามกับความจริงในปัจจุบัน' หรือ 'จินตนาการถึงเหตุการณ์ในอนาคตที่แทบจะเป็นไปไม่ได้' พูดง่ายๆ คือการ 'สมมติ' หรือ 'มโน' ขึ้นมานั่นเอง\n\n**โครงสร้างหลัก:**\n`If + Past Simple (V2), ... would/could/might + Verb infinitive (V1)`\n\n**การใช้งานและหลักการสำคัญ:**\n1.  **If-clause (ประโยคเงื่อนไข):** ใช้ Past Simple Tense (V.2) เช่น `if I knew`, `if she had`, `if they went` ถึงแม้จะใช้รูป Past แต่ความหมายไม่ได้พูดถึงอดีต แต่เป็นการ 'ลดทอนความเป็นจริง' (distancing from reality) เพื่อบอกว่านี่คือเรื่องสมมติเท่านั้น\n\n2.  **Main clause (ประโยคหลัก):** ใช้ Modal Verbs รูปอดีตอย่าง `would`, `could`, `might` ตามด้วยกริยาช่องที่ 1 (Infinitive without to)\n    *   `would`: จะ... (บอกผลลัพธ์ที่จะเกิด) \n    *   `could`: สามารถจะ... (บอกความสามารถที่เป็นไปได้ในสถานการณ์สมมตินั้น)\n    *   `might`: อาจจะ... (บอกผลลัพธ์ที่อาจเกิดขึ้น แต่ไม่แน่นอน)\n\n3.  **การใช้ 'were' กับทุกประธาน:** ใน Second Conditional โดยเฉพาะในประโยคที่ขึ้นต้นว่า `If I were you...` (ถ้าฉันเป็นเธอ...) ซึ่งเป็นการให้คำแนะนำ เราจะใช้ `were` กับประธานทุกตัว (I, he, she, it) ถึงแม้ปกติจะใช้ `was` ก็ตาม การใช้ `were` ถือเป็น Subjunctive Mood ที่ถูกต้องตามหลักไวยากรณ์และเป็นทางการกว่า แม้ว่าในภาษาพูดทั่วไปอาจได้ยินคนใช้ `was` บ้างก็ตาม\n\n**ตัวอย่างการใช้งาน:**\n*   **สมมติเรื่องตรงข้ามกับความจริง:**\n    *   `If I had a million dollars, I would travel the world.` (ถ้าฉันมีเงินล้านดอลลาร์ ฉันจะไปเที่ยวรอบโลก) -> ความจริงคือ ตอนนี้ฉันไม่มีเงินล้านดอลลาร์\n*   **ให้คำแนะนำ:**\n    *   `If I were you, I would accept the job offer.` (ถ้าฉันเป็นเธอ ฉันจะตอบรับข้อเสนองานนั้น) -> เป็นการให้คำแนะนำโดยสมมติตัวเองเป็นคนคนนั้น\n*   **จินตนาการถึงอนาคตที่เป็นไปได้น้อย:**\n    *   `If humans could photosynthesize, we wouldn't need to worry about food security.` (ถ้ามนุษย์สังเคราะห์แสงได้ เราก็คงไม่ต้องกังวลเรื่องความมั่นคงทางอาหาร) -> เป็นเรื่องเพ้อฝัน เป็นไปไม่ได้",
+    "examples": [
+      {
+        "eng": "If the company offered me a promotion in another country, I would seriously consider relocating.",
+        "thai": "ถ้าบริษัทเสนอตำแหน่งที่สูงขึ้นให้ฉันในต่างประเทศ ฉันจะพิจารณาเรื่องการย้ายถิ่นฐานอย่างจริงจัง (ความจริงคือตอนนี้บริษัทยังไม่ได้เสนอ)"
+      },
+      {
+        "eng": "What would you do if you discovered a major security flaw in your company's system?",
+        "thai": "คุณจะทำอย่างไรถ้าคุณบังเอิญค้นพบช่องโหว่ด้านความปลอดภัยที่สำคัญในระบบของบริษัทคุณ? (เป็นการตั้งคำถามในสถานการณ์สมมติ)"
+      },
+      {
+        "eng": "He could be a much better negotiator if he weren't so emotional during meetings.",
+        "thai": "เขาสามารถเป็นนักเจรจาต่อรองที่ดีกว่านี้ได้มากเลยนะ ถ้าเขาไม่ใช้อารมณ์มากเกินไประหว่างการประชุม (ความจริงคือเขาเป็นคนใช้อารมณ์ ทำให้การเจรจาไม่ดีเท่าที่ควร)"
+      },
+      {
+        "eng": "We might be able to finish the project on time if we had just one more experienced developer on the team.",
+        "thai": "เราอาจจะทำโปรเจกต์นี้เสร็จทันเวลาก็ได้นะ ถ้าเรามีนักพัฒนาที่มีประสบการณ์เพิ่มขึ้นในทีมอีกแค่คนเดียว (ความจริงคือไม่มี และอาจจะเสร็จไม่ทัน)"
+      },
+      {
+        "eng": "Life would be less complicated if we communicated more directly and honestly.",
+        "thai": "ชีวิตคงจะซับซ้อนน้อยลงถ้าเราสื่อสารกันอย่างตรงไปตรงมาและจริงใจมากขึ้น (เป็นการสมมติถึงโลกในอุดมคติ)"
+      }
+    ],
+    "common_mistakes": "**1. ใช้ would ใน If-clause:**\n*   ผิด: `If I would have more money, I would buy a new car.`\n*   ถูก: `If I had more money, I would buy a new car.`\n*   จำไว้ว่า: `would` จะอยู่ในส่วนของผลลัพธ์ (Main clause) เท่านั้น ห้ามอยู่ในส่วนของเงื่อนไข (If-clause)\n\n**2. ใช้ Verb ช่อง 1 (Present Simple) ใน If-clause:**\n*   ผิด: `If I have wings, I would fly.`\n*   ถูก: `If I had wings, I would fly.`\n*   ข้อควรระวัง: ถ้าใช้ Verb ช่อง 1 มันจะกลายเป็น First Conditional ทันที ซึ่งความหมายจะเปลี่ยนไปเป็นการพูดถึงเงื่อนไขที่เป็นไปได้จริงในอนาคต เช่น `If I have enough money, I will buy a car.` (ถ้ามีเงินพอ ก็จะซื้อจริงๆ)\n\n**3. ใช้ was แทน were กับประธาน I/he/she/it:**\n*   ไม่เป็นทางการ/ภาษาพูด: `If he was the manager, he would change the policy.`\n*   ถูกต้อง/เป็นทางการ: `If he were the manager, he would change the policy.`\n*   จำไว้ว่า: ในการสอบหรือการเขียนที่เป็นทางการ ควรใช้ `were` กับประธานทุกตัวใน Second Conditional เพื่อแสดงถึง Subjunctive Mood (ประโยคสมมติ)\n\n**4. สับสนระหว่าง First และ Second Conditional:**\n*   **First:** `If I see John, I will tell him.` (ถ้าเจอจอห์น ฉันจะบอกเขา - มีโอกาสที่จะเจอจริงๆ)\n*   **Second:** `If I saw John, I would tell him.` (ถ้าฉันเจอจอห์น ฉันจะบอกเขา - แต่คิดว่าคงไม่เจอหรอกวันนี้ เป็นการสมมติขึ้นมาเฉยๆ)",
+    "practice_questions": [
+      {
+        "question": "If I ___ the CEO of this company, I would prioritize employee well-being.",
+        "options": [
+          "A. am",
+          "B. was",
+          "C. were",
+          "D. would be"
+        ],
+        "answer": "C",
+        "explanation": "นี่คือประโยค Second Conditional ที่เป็นการสมมติเรื่องที่ไม่เป็นจริง (ฉันไม่ได้เป็น CEO) ใน If-clause เราต้องใช้ Past Simple และสำหรับประโยคสมมติแบบนี้ เราใช้ 'were' กับประธานทุกตัว (I, he, she, it) เพื่อให้ถูกต้องตามหลักไวยากรณ์ (Subjunctive Mood) ดังนั้น 'were' จึงเป็นคำตอบที่ดีที่สุด"
+      },
+      {
+        "question": "The team could achieve better results if they ___ more effectively.",
+        "options": [
+          "A. communicate",
+          "B. are communicating",
+          "C. would communicate",
+          "D. communicated"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคนี้มี Main clause คือ 'The team could achieve...' ซึ่งเป็นโครงสร้างของ Second Conditional ดังนั้นใน If-clause ต้องใช้ Past Simple Tense (V.2) คำว่า 'communicated' คือรูป Past Simple ของ communicate"
+      },
+      {
+        "question": "What would you do if you ___ a chance to relocate to any country in the world?",
+        "options": [
+          "A. had",
+          "B. have",
+          "C. would have",
+          "D. will have"
+        ],
+        "answer": "A",
+        "explanation": "นี่คือประโยคคำถามในรูปแบบ Second Conditional สังเกตจาก 'What would you do...' ดังนั้นใน If-clause ต้องตามด้วย Past Simple Tense (V.2) ซึ่งก็คือ 'had'"
+      },
+      {
+        "question": "If I knew the answer to his question, I ___ you immediately.",
+        "options": [
+          "A. will tell",
+          "B. told",
+          "C. would tell",
+          "D. am telling"
+        ],
+        "answer": "C",
+        "explanation": "If-clause 'If I knew...' ใช้ Past Simple (V.2) แสดงว่าเป็น Second Conditional ดังนั้น Main clause (ประโยคหลัก) ต้องใช้โครงสร้าง would + Verb infinitive (V.1) คำตอบที่ถูกต้องคือ 'would tell'"
+      },
+      {
+        "question": "He would be more successful if he ___ so afraid of taking risks.",
+        "options": [
+          "A. isn't",
+          "B. weren't",
+          "C. wouldn't be",
+          "D. hasn't been"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้เป็นการสมมติถึงสิ่งที่ตรงข้ามกับความจริง (ความจริงคือเขากลัวการเสี่ยง) Main clause คือ 'He would be...' ดังนั้น If-clause ต้องใช้ Past Simple ในรูปปฏิเสธ สำหรับประธาน 'he' เราใช้ 'were' ใน Second Conditional ดังนั้นรูปปฏิเสธคือ 'weren't'"
+      },
+      {
+        "question": "If you ___ any superpower, what would it be?",
+        "options": [
+          "A. can have",
+          "B. could have",
+          "C. will have",
+          "D. have"
+        ],
+        "answer": "B",
+        "explanation": "นี่คือการถามถึงเรื่องสมมติ Main clause คือ 'what would it be?' ซึ่งเป็นโครงสร้างของ Second Conditional ใน If-clause เราต้องใช้ Past Simple ของ 'can' ซึ่งก็คือ 'could' ในบริบทนี้ 'could' ทำหน้าที่เป็น Past Simple ของ 'can' ไม่ใช่ modal verb ที่แปลว่า 'สามารถจะ'"
+      },
+      {
+        "question": "I'm sure they ___ us if they had the resources to do so.",
+        "options": [
+          "A. helped",
+          "B. will help",
+          "C. would help",
+          "D. help"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้สลับที่กัน โดยมี If-clause อยู่ด้านหลัง ('if they had the resources...') ซึ่งใช้ Past Simple (had) ดังนั้น Main clause ที่อยู่ข้างหน้าจะต้องใช้โครงสร้าง would + Verb infinitive (V.1) คำตอบคือ 'would help'"
+      },
+      {
+        "question": "If the government invested more in public transportation, traffic congestion ___ significantly.",
+        "options": [
+          "A. would decrease",
+          "B. will decrease",
+          "C. decreased",
+          "D. decreases"
+        ],
+        "answer": "A",
+        "explanation": "If-clause 'If the government invested...' ใช้ Past Simple (invested) แสดงว่าเป็น Second Conditional ดังนั้น Main clause ต้องตามด้วย would + Verb infinitive (V.1) คำตอบที่ถูกต้องคือ 'would decrease'"
+      },
+      {
+        "question": "Life on Earth would be impossible if the sun ___ to exist.",
+        "options": [
+          "A. ceases",
+          "B. would cease",
+          "C. were",
+          "D. ceased"
+        ],
+        "answer": "D",
+        "explanation": "นี่คือการสมมติถึงเหตุการณ์ที่เป็นไปไม่ได้ Main clause 'Life on Earth would be impossible...' บ่งชี้ว่าเป็น Second Conditional ดังนั้นใน If-clause เราต้องใช้กริยาช่อง 2 (Past Simple) ของคำว่า 'cease' ซึ่งก็คือ 'ceased' (หมายถึง หยุด, สิ้นสุด)"
+      },
+      {
+        "question": "If I ___ you, I would consult a financial advisor before making such a large investment.",
+        "options": [
+          "A. am",
+          "B. were",
+          "C. had been",
+          "D. would be"
+        ],
+        "answer": "B",
+        "explanation": "ประโยค 'If I ___ you' เป็นสำนวนมาตรฐานสำหรับการให้คำแนะนำใน Second Conditional เราจะใช้ 'were' กับประธาน 'I' เสมอในโครงสร้างนี้เพื่อแสดงถึงการสมมติที่ไม่เป็นจริง (Subjunctive Mood) ดังนั้น 'were' คือคำตอบที่ถูกต้องที่สุด"
+      }
+    ]
+  },
+  {
+    "id": "18_4",
+    "title": "18.4 Third Conditional (Unreal past)",
+    "explanation": "Third Conditional หรือ If-clause แบบที่ 3 ใช้พูดถึงเหตุการณ์ใน 'อดีต' ที่ 'ไม่เป็นจริง' หรือ 'ตรงข้ามกับความจริง' ที่เกิดขึ้นไปแล้ว มันคือการจินตนาการว่า 'ถ้าหาก' อดีตเป็นอีกแบบหนึ่ง ผลลัพธ์ในอดีตก็ 'คงจะ' เป็นอีกแบบหนึ่งเช่นกัน\n\nโครงสร้างหลัก:\nIf-Clause (เงื่อนไข): If + Past Perfect (had + V.3)\nMain-Clause (ผลลัพธ์): would have + V.3\n\nหัวใจสำคัญของ Third Conditional คือการแสดงความ 'เสียใจ' (regret) หรือ 'วิพากษ์วิจารณ์' (criticism) เกี่ยวกับสิ่งที่เกิดขึ้นหรือไม่เกิดขึ้นในอดีต และผลของมัน\n\nนอกจาก 'would have' เรายังสามารถใช้ 'could have' หรือ 'might have' ใน Main-Clause ได้เพื่อเปลี่ยนความหมายเล็กน้อย:\n- could have + V.3: แสดงว่าผลลัพธ์นั้น 'มีความสามารถที่จะเกิดขึ้นได้' แต่ก็ไม่ได้เกิดขึ้น\n- might have + V.3: แสดงว่าผลลัพธ์นั้น 'อาจจะเกิดขึ้น' (มีความเป็นไปได้) แต่เราไม่แน่ใจ 100%",
+    "examples": [
+      {
+        "eng": "If I had studied harder for the exam, I would have passed it.",
+        "thai": "ถ้าตอนนั้นฉันตั้งใจเรียนให้หนักกว่านี้ ฉันก็คงจะสอบผ่านไปแล้ว (ความจริงคือ: ไม่ได้ตั้งใจเรียน และสอบตก)"
+      },
+      {
+        "eng": "They could have won the competition if they had practiced more.",
+        "thai": "พวกเขาอาจจะชนะการแข่งขันนั้นได้นะ ถ้าพวกเขาซ้อมกันให้มากกว่านี้ (ความจริงคือ: ซ้อมไม่พอ และก็แพ้ไป)"
+      },
+      {
+        "eng": "If you had told me you were coming, I might have saved you some cake.",
+        "thai": "ถ้าเธอ บอกฉันก่อนว่าจะมา ฉันก็อาจจะเก็บเค้กไว้ให้เธอบ้าง (ความจริงคือ: เธอไม่ได้บอก และฉันก็อาจจะไม่ได้เก็บเค้กไว้ให้)"
+      },
+      {
+        "eng": "Had we known about the traffic jam, we would have taken a different route.",
+        "thai": "ถ้าเรารู้เรื่องรถติดก่อนหน้านี้ เราก็คงจะไปอีกเส้นทางหนึ่งแล้ว (ประโยคนี้ใช้การสลับที่ 'Had' มาไว้ข้างหน้าแทน 'If' เพื่อให้ดูเป็นทางการมากขึ้น ความหมายเหมือนเดิม)"
+      }
+    ],
+    "common_mistakes": "1. ใช้ Tense ผิดในแต่ละ Clause: นี่คือข้อผิดพลาดที่พบบ่อยที่สุด คนไทยมักจะสับสนและใช้ Simple Past ใน If-clause (เช่น If I studied...) หรือใช้ would + V.1 ใน Main-clause (เช่น I would pass...) ซึ่งผิดโครงสร้าง\n   - ผิด: If I knew the answer, I would have told you.\n   - ถูก: If I had known the answer, I would have told you.\n\n2. สับสนระหว่าง Second กับ Third Conditional: ต้องจำให้แม่นว่า Second Conditional พูดถึงเรื่องสมมติใน 'ปัจจุบัน/อนาคต' ที่ไม่จริง (If I were rich now...) แต่ Third Conditional พูดถึงเรื่องสมมติใน 'อดีต' ที่ไม่จริง (If I had been rich last year...)\n\n3. ลืมคำว่า 'have' ใน Main-Clause: เป็นเรื่องเล็กน้อยแต่ผิดไวยากรณ์อย่างชัดเจน หลายคนมักจะพูดหรือเขียนว่า I would passed... ซึ่งผิด ต้องมี have คั่นกลางเสมอ เป็น I would have passed...\n\n4. ใช้ 'will have' แทน 'would have': อาจเกิดจากการแปลตรงตัวจากความคิดภาษาไทยว่า \"ฉันจะ...\" แต่ในประโยคเงื่อนไขที่เป็นไปไม่ได้ในอดีต เราต้องใช้ 'would have' เพื่อแสดงผลลัพธ์ที่เป็นการคาดคะเนเท่านั้น",
+    "practice_questions": [
+      {
+        "question": "If the company ______ its staff better, the lead programmer wouldn't have resigned.",
+        "options": [
+          "A. treated",
+          "B. has treated",
+          "C. had treated",
+          "D. would have treated"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้เป็น Third Conditional สังเกตจาก main clause 'wouldn't have resigned' ดังนั้น If-clause ต้องใช้โครงสร้าง Past Perfect (had + V.3) คำตอบที่ถูกต้องคือ C. 'had treated'"
+      },
+      {
+        "question": "We ______ the match if our best player hadn't been injured.",
+        "options": [
+          "A. could win",
+          "B. might have won",
+          "C. had won",
+          "D. will win"
+        ],
+        "answer": "B",
+        "explanation": "If-clause 'hadn't been injured' เป็น Past Perfect ดังนั้น main clause ต้องใช้ would/could/might have + V.3 ในตัวเลือก B. 'might have won' (อาจจะชนะ) เป็นโครงสร้างที่ถูกต้องและสมเหตุสมผล"
+      },
+      {
+        "question": "If you had informed me about the schedule change, I ______ all the way to the office.",
+        "options": [
+          "A. wouldn't drive",
+          "B. wouldn't have driven",
+          "C. didn't drive",
+          "D. hadn't driven"
+        ],
+        "answer": "B",
+        "explanation": "นี่คือประโยค Third Conditional แบบสมบูรณ์ If-clause คือ 'had informed' (Past Perfect) ดังนั้น Main-clause ต้องเป็น 'would have + V.3' ในรูปปฏิเสธคือ B. 'wouldn't have driven'"
+      },
+      {
+        "question": "The catastrophic launch failure ______ if the engineers had performed one final check.",
+        "options": [
+          "A. could have been prevented",
+          "B. could be prevented",
+          "C. can be prevented",
+          "D. had been prevented"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้ main clause อยู่ข้างหน้า If-clause ('had performed') เป็น Past Perfect ดังนั้น main clause ต้องเป็น would/could/might have + V.3 ในที่นี้เป็นโครงสร้างแบบ Passive Voice (ถูกป้องกัน) จึงเป็น A. 'could have been prevented'"
+      },
+      {
+        "question": "Had they considered all the variables, the experiment ______ a greater success.",
+        "options": [
+          "A. was",
+          "B. would be",
+          "C. would have been",
+          "D. has been"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้ขึ้นต้นด้วย 'Had they considered...' ซึ่งเป็นรูปแบบสลับที่ของ 'If they had considered...' ดังนั้น main clause ต้องใช้โครงสร้าง Third Conditional คือ C. 'would have been'"
+      },
+      {
+        "question": "I might not have recognized him if he ______ so much weight.",
+        "options": [
+          "A. didn't lose",
+          "B. wouldn't lose",
+          "C. hasn't lost",
+          "D. hadn't lost"
+        ],
+        "answer": "D",
+        "explanation": "Main-clause 'might not have recognized' บ่งบอกว่าเป็น Third Conditional ดังนั้น If-clause ต้องใช้ Past Perfect ในรูปปฏิเสธคือ D. 'hadn't lost'"
+      },
+      {
+        "question": "If the rescue team had arrived ten minutes sooner, they ______ more survivors.",
+        "options": [
+          "A. found",
+          "B. have found",
+          "C. could have found",
+          "D. can find"
+        ],
+        "answer": "C",
+        "explanation": "If-clause 'had arrived' เป็น Past Perfect ดังนั้น Main-clause ต้องใช้ would/could/might have + V.3 ตัวเลือก C. 'could have found' (สามารถที่จะหาเจอ) เหมาะสมกับบริบทที่สุด"
+      },
+      {
+        "question": "The negotiations would have collapsed if both sides ______ willing to compromise.",
+        "options": [
+          "A. weren't",
+          "B. hadn't been",
+          "C. haven't been",
+          "D. wouldn't be"
+        ],
+        "answer": "B",
+        "explanation": "Main clause 'would have collapsed' เป็นโครงสร้างของ Third Conditional ดังนั้น If-clause ต้องใช้ Past Perfect คือ B. 'hadn't been'"
+      },
+      {
+        "question": "If I had known about your financial difficulties, I ______ you some money.",
+        "options": [
+          "A. would lend",
+          "B. will lend",
+          "C. would have lent",
+          "D. had lent"
+        ],
+        "answer": "C",
+        "explanation": "If-clause 'had known' เป็น Past Perfect ซึ่งเป็นเงื่อนไขในอดีต ผลลัพธ์ในอดีตจึงต้องใช้โครงสร้าง 'would have + V.3' ดังนั้นคำตอบคือ C. 'would have lent'"
+      },
+      {
+        "question": "He wouldn't have missed his flight ______ an important call just before leaving for the airport.",
+        "options": [
+          "A. if he didn't receive",
+          "B. unless he would receive",
+          "C. if he received",
+          "D. if he hadn't received"
+        ],
+        "answer": "D",
+        "explanation": "Main-clause 'wouldn't have missed' เป็นโครงสร้าง Third Conditional ดังนั้น If-clause ต้องใช้ Past Perfect (had + V.3) ตัวเลือก D. 'if he hadn't received' เป็นโครงสร้างที่ถูกต้องตามหลักไวยากรณ์"
+      }
+    ]
+  },
+  {
+    "id": "18_5",
+    "title": "18.5 Summary: Conditionals (สรุปประโยคเงื่อนไข + 50 Exercises)",
+    "explanation": "Conditionals หรือ If-Clauses คือประโยคที่แสดงเงื่อนไขและการคาดการณ์ผลลัพธ์ที่จะตามมา เป็นหัวใจสำคัญในการสื่อสารที่ซับซ้อนในภาษาอังกฤษ การทำความเข้าใจโครงสร้างและหน้าที่ของแต่ละประเภทจะช่วยให้คุณสื่อสารได้อย่างแม่นยำและเป็นธรรมชาติมากขึ้น\n\n**สรุปโครงสร้างหลัก 4 ประเภท:**\n\n**1. Zero Conditional (Type 0):** ใช้พูดถึงความจริงทั่วไป, กฎธรรมชาติ, หรือสิ่งที่เกิดขึ้นเป็นประจำ\n*   **โครงสร้าง:** `If + Present Simple, ... Present Simple`\n*   **ตัวอย่าง:** If you heat ice, it melts. (ถ้าคุณให้ความร้อนกับน้ำแข็ง มันจะละลาย)\n\n**2. First Conditional (Type 1):** ใช้พูดถึงเหตุการณ์ที่ *เป็นไปได้จริง* ในอนาคต เป็นการคาดการณ์ตามเงื่อนไขที่เป็นไปได้\n*   **โครงสร้าง:** `If + Present Simple, ... S + will + Verb 1`\n*   **ตัวอย่าง:** If we finish work early, we will go to the cinema. (ถ้าเราทำงานเสร็จเร็ว เราจะไปดูหนังกัน)\n\n**3. Second Conditional (Type 2):** ใช้พูดถึงเรื่อง *สมมติ* ที่ไม่เป็นจริงในปัจจุบัน หรือเป็นไปได้น้อยมากในอนาคต มักใช้เพื่อจินตนาการหรือให้คำแนะนำ\n*   **โครงสร้าง:** `If + Past Simple, ... S + would + Verb 1`\n*   **ข้อสังเกต:** ใน if-clause จะใช้ `were` กับประธานทุกตัว (I, you, we, they, he, she, it) ในภาษาที่เป็นทางการ เช่น If I were you...\n*   **ตัวอย่าง:** If I had a superpower, I would fly. (ถ้าฉันมีพลังพิเศษ ฉันจะบิน - ซึ่งในความเป็นจริงฉันไม่มี)\n\n**4. Third Conditional (Type 3):** ใช้พูดถึงเรื่อง *สมมติ* ใน *อดีต* ที่ตรงข้ามกับความจริงที่เกิดขึ้นไปแล้ว มักใช้เพื่อแสดงความเสียดายหรือวิจารณ์สิ่งที่เกิดขึ้น\n*   **โครงสร้าง:** `If + Past Perfect (had + V3), ... S + would have + Verb 3`\n*   **ตัวอย่าง:** If you had told me about the problem, I would have helped you. (ถ้าคุณบอกฉันเรื่องปัญหานั้น (ในอดีต) ฉันก็คงช่วยคุณไปแล้ว - แต่ความจริงคือคุณไม่ได้บอก และฉันก็ไม่ได้ช่วย)\n\n**Mixed Conditionals:** คือการผสมระหว่าง Type 2 และ 3 เพื่อเชื่อมโยงเงื่อนไขในอดีตกับผลลัพธ์ในปัจจุบัน หรือเงื่อนไขในปัจจุบันกับผลลัพธ์ในอดีต\n*   **(อดีต -> ปัจจุบัน):** `If + Past Perfect, ... S + would + Verb 1`\n    *   **ตัวอย่าง:** If she had taken the job, she would be rich now. (ถ้าเธอรับงานนั้น (ในอดีต) ตอนนี้เธอก็คงรวยไปแล้ว)\n*   **(ปัจจุบัน -> อดีต):** `If + Past Simple, ... S + would have + Verb 3` (พบน้อยกว่า)\n    *   **ตัวอย่าง:** If I were a better planner, I would have saved more money last year. (ถ้าฉันเป็นคนวางแผนเก่งกว่านี้ (ตอนนี้) ฉันก็คงเก็บเงินได้เยอะกว่านี้ไปแล้วเมื่อปีที่แล้ว)",
+    "examples": [
+      {
+        "eng": "Zero: If the temperature drops below zero, water turns into ice.",
+        "thai": "แปล: ถ้าอุณหภูมิลดต่ำกว่าศูนย์องศา น้ำจะกลายเป็นน้ำแข็ง (เป็นความจริงทางวิทยาศาสตร์)"
+      },
+      {
+        "eng": "First: If you don't book the hotel soon, there won't be any rooms left.",
+        "thai": "แปล: ถ้าคุณไม่รีบจองโรงแรม จะไม่มีห้องว่างเหลือนะ (เป็นไปได้จริงในอนาคตอันใกล้)"
+      },
+      {
+        "eng": "Second: If I spoke fluent Japanese, I would apply for that job in Tokyo.",
+        "thai": "แปล: ถ้าฉันพูดภาษาญี่ปุ่นได้คล่อง ฉันจะสมัครงานนั้นที่โตเกียว (สมมติเรื่องในปัจจุบัน เพราะตอนนี้พูดไม่คล่อง)"
+      },
+      {
+        "eng": "Third: They wouldn't have missed the flight if they had left home earlier.",
+        "thai": "แปล: พวกเขาคงไม่ตกเครื่องบินหรอก ถ้าพวกเขาออกจากบ้านเร็วกว่านี้ (สมมติเรื่องในอดีตที่เกิดขึ้นไปแล้ว คือพวกเขาออกช้าและตกเครื่อง)"
+      },
+      {
+        "eng": "Mixed: If I hadn't spent so much money last month, I wouldn't be so broke now.",
+        "thai": "แปล: ถ้าฉันไม่ได้ใช้เงินเยอะขนาดนั้นเมื่อเดือนที่แล้ว (อดีต), ตอนนี้ฉันก็คงไม่ถังแตกแบบนี้ (ปัจจุบัน)"
+      }
+    ],
+    "common_mistakes": "**1. ใช้ 'will' หรือ 'would' ใน If-Clause:** นี่คือข้อผิดพลาดที่พบบ่อยที่สุด คนไทยมักจะแปลตรงตัวจาก 'ถ้าฉันจะไป...' เป็น 'If I will go...' ซึ่งผิดหลักไวยากรณ์\n*   **ผิด:** If I `will have` enough time, I will call you.\n*   **ถูก:** If I `have` enough time, I will call you. (ใช้ Present Simple ใน if-clause สำหรับ First Conditional)\n\n**2. สับสนระหว่าง Second และ Third Conditional:** เมื่อต้องการพูดถึงเรื่องสมมติในอดีต แต่นำโครงสร้างของ Second Conditional มาใช้\n*   **ผิด:** If I `studied` harder for yesterday's exam, I `would pass` it. (ใช้โครงสร้าง Type 2 กับเรื่องอดีต)\n*   **ถูก:** If I `had studied` harder for yesterday's exam, I `would have passed` it. (ต้องใช้โครงสร้าง Type 3)\n\n**3. ใช้ 'was' แทน 'were' ใน Second Conditional:** แม้ในภาษาพูดจะยอมรับการใช้ 'was' มากขึ้น แต่ในภาษาเขียนหรือการสอบที่เป็นทางการ การใช้ 'were' กับประธานทุกตัวใน if-clause ของ Type 2 ถือว่าถูกต้องกว่า\n*   **ยอมรับได้ (ไม่เป็นทางการ):** If he `was` taller, he could be a basketball player.\n*   **ถูกต้อง (เป็นทางการ):** If he `were` taller, he could be a basketball player.\n\n**4. ลืมส่วนประกอบในโครงสร้าง Third Conditional:** โครงสร้าง `had + V3` และ `would have + V3` ค่อนข้างซับซ้อน ทำให้ผู้เรียนมักลืม 'had' หรือ 'have' หรือใช้รูป V3 ไม่ถูกต้อง\n*   **ผิด:** If she `had knew` the truth, she `would told` us.\n*   **ถูก:** If she `had known` the truth, she `would have told` us.",
+    "practice_questions": [
+      {
+        "question": "If you heat ice, it ______.",
+        "options": [
+          "A. melted",
+          "B. will melt",
+          "C. melts",
+          "D. would melt"
+        ],
+        "answer": "C",
+        "explanation": "นี่คือ Zero Conditional ใช้พูดถึงความจริงทางวิทยาศาสตร์ โครงสร้างคือ If + Present Simple, ... Present Simple ดังนั้นหลัง it ต้องใช้ melts (กริยาเติม s เพราะประธานเป็นเอกพจน์)"
+      },
+      {
+        "question": "If the weather is nice tomorrow, we ______ for a hike.",
+        "options": [
+          "A. will go",
+          "B. go",
+          "C. went",
+          "D. would go"
+        ],
+        "answer": "A",
+        "explanation": "นี่คือ First Conditional พูดถึงเงื่อนไขที่เป็นไปได้ในอนาคต (อากาศดีพรุ่งนี้) โครงสร้างคือ If + Present Simple, ... will + V1"
+      },
+      {
+        "question": "I would travel around the world if I ______ a lottery.",
+        "options": [
+          "A. win",
+          "B. won",
+          "C. had won",
+          "D. will win"
+        ],
+        "answer": "B",
+        "explanation": "นี่คือ Second Conditional สังเกตจาก Main Clause ที่ใช้ 'would travel' (would + V1) ดังนั้น If-clause ต้องใช้ Past Simple (V2) คือ 'won'"
+      },
+      {
+        "question": "She wouldn't have been so upset if you ______ her the truth.",
+        "options": [
+          "A. told",
+          "B. tell",
+          "C. would tell",
+          "D. had told"
+        ],
+        "answer": "D",
+        "explanation": "นี่คือ Third Conditional สังเกตจาก Main Clause ที่ใช้ 'wouldn't have been' (would have + V3) ดังนั้น If-clause ต้องใช้ Past Perfect (had + V3) คือ 'had told'"
+      },
+      {
+        "question": "If I were you, I ______ that job offer.",
+        "options": [
+          "A. would accept",
+          "B. will accept",
+          "C. accepted",
+          "D. would have accepted"
+        ],
+        "answer": "A",
+        "explanation": "ประโยค 'If I were you' เป็นการให้คำแนะนำ ซึ่งเป็นหน้าที่หนึ่งของ Second Conditional โครงสร้างคือ If + Past Simple, ... would + V1"
+      },
+      {
+        "question": "Plants die if they ______ enough water.",
+        "options": [
+          "A. won't get",
+          "B. don't get",
+          "C. didn't get",
+          "D. wouldn't get"
+        ],
+        "answer": "B",
+        "explanation": "นี่คือ Zero Conditional พูดถึงความจริงทั่วไป (พืชต้องการน้ำ) โครงสร้างคือ If + Present Simple, ... Present Simple ในที่นี้เป็นประโยคปฏิเสธจึงใช้ 'don't get'"
+      },
+      {
+        "question": "We will miss the beginning of the movie unless we ______ now.",
+        "options": [
+          "A. leave",
+          "B. will leave",
+          "C. left",
+          "D. are leaving"
+        ],
+        "answer": "A",
+        "explanation": "'Unless' มีความหมายว่า 'if...not' (ถ้า...ไม่) ใช้ในโครงสร้าง Conditional ได้เหมือน if ประโยคนี้เป็น First Conditional (will miss) ดังนั้นหลัง unless ต้องใช้ Present Simple คือ 'leave'"
+      },
+      {
+        "question": "If he ______ harder, he would have been promoted last year.",
+        "options": [
+          "A. worked",
+          "B. had worked",
+          "C. works",
+          "D. would work"
+        ],
+        "answer": "B",
+        "explanation": "นี่คือ Third Conditional พูดถึงเรื่องสมมติในอดีต (last year) สังเกตจาก Main Clause 'would have been promoted' ดังนั้น If-clause ต้องใช้ Past Perfect (had + V3)"
+      },
+      {
+        "question": "What would you do if you ______ a celebrity for a day?",
+        "options": [
+          "A. are",
+          "B. have been",
+          "C. were",
+          "D. will be"
+        ],
+        "answer": "C",
+        "explanation": "เป็นคำถามแบบ Second Conditional (What would you do...?) เพื่อถามถึงจินตนาการ/เรื่องสมมติในปัจจุบัน ดังนั้น If-clause ต้องใช้ Past Simple และนิยมใช้ 'were' กับประธานทุกตัว"
+      },
+      {
+        "question": "If I had known you were coming, I ______ a cake.",
+        "options": [
+          "A. would bake",
+          "B. baked",
+          "C. will bake",
+          "D. would have baked"
+        ],
+        "answer": "D",
+        "explanation": "นี่คือ Third Conditional พูดถึงสิ่งที่ไม่ได้ทำในอดีต เพราะไม่รู้เงื่อนไขบางอย่าง If-clause ใช้ Past Perfect (had known) ดังนั้น Main Clause ต้องเป็น 'would have + V3'"
+      },
+      {
+        "question": "If I ______ more time now, I would help you with your project.",
+        "options": [
+          "A. have",
+          "B. had had",
+          "C. have had",
+          "D. had"
+        ],
+        "answer": "D",
+        "explanation": "นี่คือ Second Conditional พูดถึงเรื่องสมมติในปัจจุบัน (now) สังเกตจาก Main Clause 'I would help' ดังนั้น If-clause ต้องใช้ Past Simple (V2 ของ have คือ had)"
+      },
+      {
+        "question": "The company would have collapsed if the government ______ it.",
+        "options": [
+          "A. didn't rescue",
+          "B. hadn't rescued",
+          "C. doesn't rescue",
+          "D. wouldn't rescue"
+        ],
+        "answer": "B",
+        "explanation": "นี่คือ Third Conditional สังเกตจาก 'would have collapsed' เป็นการพูดถึงเรื่องสมมติในอดีต ดังนั้น If-clause ต้องใช้ Past Perfect ในรูปปฏิเสธ คือ 'hadn't rescued'"
+      },
+      {
+        "question": "You won't pass the exam ______ you study systematically.",
+        "options": [
+          "A. if",
+          "B. when",
+          "C. unless",
+          "D. provided that"
+        ],
+        "answer": "C",
+        "explanation": "'Unless' แปลว่า 'ถ้า...ไม่' (if...not) ทำให้ประโยคสมบูรณ์ว่า 'คุณจะสอบไม่ผ่าน ถ้าคุณไม่อ่านหนังสืออย่างเป็นระบบ' ซึ่งสมเหตุสมผลกว่าตัวเลือกอื่น"
+      },
+      {
+        "question": "If the fire alarm ______, everyone must evacuate the building immediately.",
+        "options": [
+          "A. will ring",
+          "B. rang",
+          "C. rings",
+          "D. would ring"
+        ],
+        "answer": "C",
+        "explanation": "นี่คือ First Conditional ที่ใช้ในเชิงคำสั่ง (imperative) ใน Main Clause แทนที่จะเป็น will + V1 เราใช้คำสั่งได้เลย แต่ If-clause ยังคงเป็น Present Simple เหมือนเดิม"
+      },
+      {
+        "question": "He ______ so tired now if he had gone to bed earlier last night.",
+        "options": [
+          "A. wouldn't be",
+          "B. wouldn't have been",
+          "C. isn't",
+          "D. weren't"
+        ],
+        "answer": "A",
+        "explanation": "นี่คือ Mixed Conditional เงื่อนไขอยู่ในอดีต (had gone to bed earlier last night - Type 3) แต่ผลลัพธ์อยู่ในปัจจุบัน (so tired now - Type 2) ดังนั้น Main Clause ต้องใช้โครงสร้างของ Type 2 คือ 'wouldn't be'"
+      },
+      {
+        "question": "If you mix blue and yellow, you ______ green.",
+        "options": [
+          "A. get",
+          "B. will get",
+          "C. got",
+          "D. would get"
+        ],
+        "answer": "A",
+        "explanation": "นี่คือ Zero Conditional พูดถึงความจริงเรื่องการผสมสี เป็นข้อเท็จจริงเสมอ โครงสร้างคือ If + Present Simple, ... Present Simple"
+      },
+      {
+        "question": "I could have bought that house if I ______ more money at that time.",
+        "options": [
+          "A. had",
+          "B. would have",
+          "C. had had",
+          "D. have"
+        ],
+        "answer": "C",
+        "explanation": "นี่คือ Third Conditional สังเกตจาก Main Clause 'could have bought' (could/would/might have + V3) ดังนั้น If-clause ต้องใช้ Past Perfect (had + V3 ของ have คือ had) จึงเป็น 'had had'"
+      },
+      {
+        "question": "If the client agrees to our terms, we ______ the contract tomorrow.",
+        "options": [
+          "A. signed",
+          "B. would sign",
+          "C. will sign",
+          "D. sign"
+        ],
+        "answer": "C",
+        "explanation": "นี่คือ First Conditional พูดถึงความเป็นไปได้ในอนาคต (tomorrow) If-clause ใช้ Present Simple (agrees) ดังนั้น Main Clause ใช้ 'will + V1'"
+      },
+      {
+        "question": "______ you, I would think twice before investing in that company.",
+        "options": [
+          "A. If I am",
+          "B. If I were",
+          "C. Had I been",
+          "D. If I was"
+        ],
+        "answer": "B",
+        "explanation": "นี่เป็นสำนวนการให้คำแนะนำแบบ Second Conditional ที่ถูกต้องตามหลักไวยากรณ์คือ 'If I were you...' ตามด้วย '...would + V1'"
+      },
+      {
+        "question": "If they ______ the train, they would have arrived on time.",
+        "options": [
+          "A. didn't miss",
+          "B. hadn't missed",
+          "C. wouldn't miss",
+          "D. don't miss"
+        ],
+        "answer": "B",
+        "explanation": "นี่คือ Third Conditional สังเกตจาก Main Clause 'would have arrived' พูดถึงเหตุการณ์ในอดีต ดังนั้น If-clause ต้องใช้ Past Perfect คือ 'hadn't missed'"
+      },
+      {
+        "question": "My phone battery lasts longer if I ______ the brightness.",
+        "options": [
+          "A. reduce",
+          "B. will reduce",
+          "C. reduced",
+          "D. had reduced"
+        ],
+        "answer": "A",
+        "explanation": "นี่คือ Zero Conditional พูดถึงข้อเท็จจริงหรือสิ่งที่เกิดขึ้นเป็นประจำ โครงสร้างคือ If + Present Simple, ... Present Simple"
+      },
+      {
+        "question": "If I ______ the CEO of this company, I would increase everyone's salary.",
+        "options": [
+          "A. am",
+          "B. will be",
+          "C. were",
+          "D. had been"
+        ],
+        "answer": "C",
+        "explanation": "นี่คือ Second Conditional พูดถึงเรื่องสมมติในปัจจุบัน (ความเป็นจริงคือฉันไม่ใช่ CEO) Main Clause คือ 'would increase' ดังนั้น If-clause ต้องใช้ Past Simple และ 'were' คือรูปที่ถูกต้อง"
+      },
+      {
+        "question": "We would be enjoying the beach now if we ______ the earlier flight.",
+        "options": [
+          "A. caught",
+          "B. had caught",
+          "C. catch",
+          "D. would have caught"
+        ],
+        "answer": "B",
+        "explanation": "นี่คือ Mixed Conditional ผลลัพธ์อยู่ในปัจจุบัน (would be enjoying now - Type 2) แต่เงื่อนไขอยู่ในอดีต (การขึ้นเครื่องบิน) ดังนั้น If-clause ต้องใช้ Past Perfect (had caught - Type 3)"
+      },
+      {
+        "question": "Provided that you ______ all the requirements, you will get the scholarship.",
+        "options": [
+          "A. meet",
+          "B. met",
+          "C. will meet",
+          "D. have met"
+        ],
+        "answer": "A",
+        "explanation": "'Provided that' มีความหมายเหมือน 'if' และใช้ในโครงสร้าง First Conditional ได้ ประโยคนี้มี Main Clause เป็น 'you will get' ดังนั้นส่วนเงื่อนไขต้องใช้ Present Simple คือ 'meet'"
+      },
+      {
+        "question": "He would have answered your call if he ______ it.",
+        "options": [
+          "A. heard",
+          "B. would hear",
+          "C. has heard",
+          "D. had heard"
+        ],
+        "answer": "D",
+        "explanation": "นี่คือ Third Conditional (would have answered) ดังนั้น If-clause ต้องใช้ Past Perfect (had + V3) คือ 'had heard'"
+      },
+      {
+        "question": "If the presentation ______ successful, we will secure the deal.",
+        "options": [
+          "A. will be",
+          "B. were",
+          "C. is",
+          "D. has been"
+        ],
+        "answer": "C",
+        "explanation": "นี่คือ First Conditional (we will secure) ดังนั้น If-clause ต้องใช้ Present Simple ของ verb to be ซึ่งก็คือ 'is' (ประธาน the presentation เป็นเอกพจน์)"
+      },
+      {
+        "question": "If she wasn't so stubborn, she ______ her mistake long ago.",
+        "options": [
+          "A. would have admitted",
+          "B. would admit",
+          "C. will admit",
+          "D. admitted"
+        ],
+        "answer": "A",
+        "explanation": "นี่คือ Mixed Conditional เงื่อนไขเป็นนิสัยในปัจจุบัน (wasn't so stubborn - Type 2) แต่ผลลัพธ์อยู่ในอดีต (long ago - Type 3) ดังนั้น Main Clause ต้องใช้โครงสร้าง Type 3 คือ 'would have admitted'"
+      },
+      {
+        "question": "You can borrow my car as long as you ______ it back by 6 PM.",
+        "options": [
+          "A. will bring",
+          "B. bring",
+          "C. brought",
+          "D. have brought"
+        ],
+        "answer": "B",
+        "explanation": "'As long as' มีความหมายเหมือน 'if' หรือ 'on the condition that' ใช้ในโครงสร้าง First Conditional ได้ Main Clause คือ 'You can borrow' (can + V1 ใช้แทน will + V1 ได้) ดังนั้นส่วนเงื่อนไขต้องใช้ Present Simple คือ 'bring'"
+      },
+      {
+        "question": "What would have happened if the dinosaurs ______ extinct?",
+        "options": [
+          "A. didn't become",
+          "B. hadn't become",
+          "C. wouldn't become",
+          "D. don't become"
+        ],
+        "answer": "B",
+        "explanation": "คำถามนี้ถามถึงเรื่องสมมติในอดีตที่ไกลมาก สังเกตจาก 'What would have happened' ดังนั้น If-clause ต้องใช้ Past Perfect คือ 'hadn't become'"
+      },
+      {
+        "question": "If I had a choice, I ______ to work from home every day.",
+        "options": [
+          "A. would prefer",
+          "B. will prefer",
+          "C. preferred",
+          "D. would have preferred"
+        ],
+        "answer": "A",
+        "explanation": "นี่คือ Second Conditional พูดถึงเรื่องสมมติในปัจจุบัน (If I had a choice... หมายความว่าตอนนี้ไม่มีทางเลือก) ดังนั้น Main Clause ต้องใช้ 'would + V1'"
+      },
+      {
+        "question": "If you ______ this button, the machine starts.",
+        "options": [
+          "A. will press",
+          "B. press",
+          "C. pressed",
+          "D. would press"
+        ],
+        "answer": "B",
+        "explanation": "นี่คือ Zero Conditional ใช้อธิบายการทำงานของเครื่องจักร ซึ่งเป็นข้อเท็จจริงเสมอ โครงสร้างคือ If + Present Simple, ... Present Simple"
+      },
+      {
+        "question": "The world ______ a better place if everyone were more compassionate.",
+        "options": [
+          "A. will be",
+          "B. would be",
+          "C. would have been",
+          "D. is"
+        ],
+        "answer": "B",
+        "explanation": "นี่คือ Second Conditional สังเกตจาก If-clause 'if everyone were...' ซึ่งเป็นโครงสร้างสมมติในปัจจุบัน ดังนั้น Main Clause ต้องใช้ 'would + V1'"
+      },
+      {
+        "question": "If I ______ I was wrong, I would have apologized.",
+        "options": [
+          "A. had realized",
+          "B. realized",
+          "C. would realize",
+          "D. realize"
+        ],
+        "answer": "A",
+        "explanation": "นี่คือ Third Conditional สังเกตจาก Main Clause 'I would have apologized' พูดถึงเรื่องในอดีต ดังนั้น If-clause ต้องใช้ Past Perfect คือ 'had realized'"
+      },
+      {
+        "question": "He will be late for the flight if he ______ a taxi soon.",
+        "options": [
+          "A. doesn't take",
+          "B. won't take",
+          "C. didn't take",
+          "D. hadn't take"
+        ],
+        "answer": "A",
+        "explanation": "นี่คือ First Conditional (He will be late) พูดถึงอนาคตที่เป็นไปได้ ดังนั้น If-clause ต้องใช้ Present Simple ในรูปปฏิเสธ คือ 'doesn't take'"
+      },
+      {
+        "question": "If the company hadn't invested in new technology, it ______ to compete now.",
+        "options": [
+          "A. wouldn't have been able",
+          "B. weren't able",
+          "C. wouldn't be able",
+          "D. isn't able"
+        ],
+        "answer": "C",
+        "explanation": "นี่คือ Mixed Conditional เงื่อนไขอยู่ในอดีต (hadn't invested - Type 3) แต่ผลลัพธ์อยู่ในปัจจุบัน (to compete now - Type 2) ดังนั้น Main Clause ต้องใช้โครงสร้างของ Type 2 คือ 'wouldn't be able'"
+      },
+      {
+        "question": "Don't call me ______ it's an emergency.",
+        "options": [
+          "A. if",
+          "B. unless",
+          "C. when",
+          "D. in case"
+        ],
+        "answer": "B",
+        "explanation": "'Unless' แปลว่า 'if not' (ถ้าไม่ใช่) ทำให้ประโยคมีความหมายว่า 'อย่าโทรหาฉันนะ ถ้ามันไม่ใช่เรื่องฉุกเฉิน' ซึ่งเป็นความหมายที่ถูกต้องที่สุด"
+      },
+      {
+        "question": "If you found a wallet full of money on the street, what ______ you do?",
+        "options": [
+          "A. will",
+          "B. would",
+          "C. did",
+          "D. do"
+        ],
+        "answer": "B",
+        "explanation": "นี่คือคำถามแบบ Second Conditional สังเกตจาก If-clause ที่ใช้ Past Simple (found) ดังนั้น Main Clause ที่เป็นคำถามต้องใช้ 'would' + S + V1?"
+      },
+      {
+        "question": "They would have won the match if their star player ______ injured.",
+        "options": [
+          "A. wasn't",
+          "B. isn't",
+          "C. hadn't been",
+          "D. wouldn't be"
+        ],
+        "answer": "C",
+        "explanation": "นี่คือ Third Conditional (would have won) พูดถึงเรื่องสมมติในอดีต ดังนั้น If-clause ต้องใช้ Past Perfect คือ 'hadn't been'"
+      },
+      {
+        "question": "If water ______ 0°C, it freezes.",
+        "options": [
+          "A. reach",
+          "B. reaches",
+          "C. will reach",
+          "D. reached"
+        ],
+        "answer": "B",
+        "explanation": "นี่คือ Zero Conditional พูดถึงความจริงทางวิทยาศาสตร์ โครงสร้างคือ If + Present Simple, ... Present Simple ประธาน (water) เป็นเอกพจน์นับไม่ได้ กริยาจึงต้องเติม s"
+      },
+      {
+        "question": "If you ______ me earlier, I could have given you a ride.",
+        "options": [
+          "A. called",
+          "B. would call",
+          "C. had called",
+          "D. call"
+        ],
+        "answer": "C",
+        "explanation": "นี่คือ Third Conditional สังเกตจาก Main Clause 'could have given' (modal have + V3) ดังนั้น If-clause ต้องใช้ Past Perfect คือ 'had called'"
+      },
+      {
+        "question": "I ______ that if I were in your position.",
+        "options": [
+          "A. won't do",
+          "B. didn't do",
+          "C. wouldn't do",
+          "D. wouldn't have done"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้มี If-clause แฝงอยู่ คือ 'if I were in your position' ซึ่งเป็น Second Conditional ดังนั้น Main Clause ต้องใช้ 'would + V1' ในรูปปฏิเสธ คือ 'wouldn't do'"
+      },
+      {
+        "question": "We can have a barbecue this weekend ______ it doesn't rain.",
+        "options": [
+          "A. unless",
+          "B. if",
+          "C. provided",
+          "D. All of the above"
+        ],
+        "answer": "D",
+        "explanation": "ในบริบทนี้ ทั้ง if, unless (ถ้าฝนไม่ตก), และ provided (that) (หากว่า/ถ้า) สามารถใช้ได้ทั้งหมดและให้ความหมายที่คล้ายคลึงกันในการตั้งเงื่อนไข 'Provided' มักจะมีความหมายที่หนักแน่นกว่า if เล็กน้อย"
+      },
+      {
+        "question": "If he ______ more ambitious, he would have applied for the manager position.",
+        "options": [
+          "A. were",
+          "B. had been",
+          "C. is",
+          "D. was"
+        ],
+        "answer": "B",
+        "explanation": "นี่คือ Third Conditional สังเกตจาก Main Clause 'would have applied' ซึ่งพูดถึงโอกาสในอดีตที่ไม่ได้ทำ ดังนั้น If-clause ต้องใช้ Past Perfect คือ 'had been' เพื่ออธิบายถึงคุณลักษณะในอดีต"
+      },
+      {
+        "question": "______ for your help, I would have failed the exam.",
+        "options": [
+          "A. If it hadn't been",
+          "B. If it weren't",
+          "C. Had it not",
+          "D. Unless it was"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้คือ Third Conditional พูดถึงเรื่องในอดีต (would have failed) สำนวน 'If it hadn't been for...' แปลว่า 'ถ้าไม่ใช่เพราะว่า...' ใช้เพื่อขอบคุณหรืออ้างถึงสาเหตุในอดีต"
+      },
+      {
+        "question": "You will gain weight if you ______ eating so much junk food.",
+        "options": [
+          "A. will continue",
+          "B. continued",
+          "C. had continued",
+          "D. continue"
+        ],
+        "answer": "D",
+        "explanation": "นี่คือ First Conditional (You will gain) ดังนั้น If-clause ต้องใช้ Present Simple คือ 'continue'"
+      },
+      {
+        "question": "If only I ______ the consequences before I acted.",
+        "options": [
+          "A. understood",
+          "B. have understood",
+          "C. had understood",
+          "D. understand"
+        ],
+        "answer": "C",
+        "explanation": "'If only' ใช้แสดงความปรารถนาหรือความเสียใจ คล้ายกับ I wish. เมื่อใช้กับเรื่องในอดีต (before I acted) จะต้องตามด้วย Past Perfect (had + V3) เหมือนใน Third Conditional"
+      },
+      {
+        "question": "If you had watered the plants, they ______ now.",
+        "options": [
+          "A. wouldn't have died",
+          "B. wouldn't be dying",
+          "C. didn't die",
+          "D. wouldn't die"
+        ],
+        "answer": "B",
+        "explanation": "นี่คือ Mixed Conditional เงื่อนไขอยู่ในอดีต (had watered - Type 3) แต่ผลลัพธ์กำลังเกิดขึ้นในปัจจุบัน (now) จึงใช้โครงสร้าง 'wouldn't be + V-ing' เพื่อเน้นความต่อเนื่องในปัจจุบัน"
+      },
+      {
+        "question": "I might go to the party tonight if I ______ my work on time.",
+        "options": [
+          "A. finish",
+          "B. finished",
+          "C. will finish",
+          "D. would finish"
+        ],
+        "answer": "A",
+        "explanation": "นี่คือ First Conditional ใน Main Clause สามารถใช้ modal verb อื่นๆ เช่น might, may, can, could แทน will ได้เพื่อลดความแน่นอนลง แต่ If-clause ยังคงใช้ Present Simple"
+      },
+      {
+        "question": "If you press that button, an alarm ______.",
+        "options": [
+          "A. would go off",
+          "B. went off",
+          "C. will go off",
+          "D. goes off"
+        ],
+        "answer": "D",
+        "explanation": "นี่คือ Zero Conditional อธิบายผลลัพธ์ที่เกิดขึ้นแน่นอนเมื่อทำสิ่งใดสิ่งหนึ่ง (กฎ, การทำงานของอุปกรณ์) โครงสร้างคือ If + Present Simple, ... Present Simple"
+      },
+      {
+        "question": "The project ______ on time if the team had collaborated more effectively.",
+        "options": [
+          "A. would finish",
+          "B. would have been finished",
+          "C. will be finished",
+          "D. would be finished"
+        ],
+        "answer": "B",
+        "explanation": "นี่คือ Third Conditional (if...had collaborated) พูดถึงเรื่องในอดีต และประธานของ Main Clause (The project) เป็นผู้ถูกกระทำ (ถูกทำให้เสร็จ) ดังนั้นจึงต้องใช้โครงสร้าง Passive Voice คือ 'would have been + V3'"
+      }
+    ]
+  }
+]

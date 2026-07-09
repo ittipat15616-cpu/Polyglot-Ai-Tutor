@@ -1,0 +1,986 @@
+[
+  {
+    "id": "31_1",
+    "title": "31.1 Used to (อดีตเคยทำ) vs. Would (ความทรงจำในอดีต)",
+    "explanation": "Used to และ Would ทั้งสองคำใช้เพื่อพูดถึงสิ่งที่เคยเกิดขึ้นหรือเคยทำเป็นประจำในอดีต แต่ปัจจุบันไม่ได้เป็นเช่นนั้นแล้ว อย่างไรก็ตาม ทั้งสองคำมีวิธีการใช้และข้อจำกัดที่แตกต่างกันอย่างชัดเจน ซึ่งเป็นสิ่งที่ผู้เรียนระดับ Intermediate ต้องทำความเข้าใจให้ถ่องแท้\n\n**Used to + Infinitive (V.1)**\nใช้ได้ทั้งกับ 'การกระทำ' และ 'สภาวะ' ในอดีต\n1.  **Past Habits/Repeated Actions (นิสัยหรือการกระทำซ้ำๆ ในอดีต):** ใช้อธิบายสิ่งที่เราเคยทำเป็นประจำ แต่ตอนนี้เลิกทำแล้ว\n    *   *She used to work as a journalist before she became a novelist.*\n2.  **Past States (สภาวะในอดีต):** ใช้อธิบายสภาวะ, ความจริง, หรือความรู้สึกที่เคยเป็นในอดีต แต่ปัจจุบันเปลี่ยนแปลงไปแล้ว **(สำคัญมาก: Would ใช้ในความหมายนี้ไม่ได้เด็ดขาด!)**\n    *   *I used to live in the countryside.* (ฉันเคยอาศัยอยู่... - เป็นสภาวะ)\n    *   *This building used to be a library.* (ตึกนี้เคยเป็น... - เป็นสภาวะ)\n\n**Would + Infinitive (V.1)**\nใช้ได้กับ 'การกระทำ' ในอดีตเท่านั้น\n1.  **Past Repeated Actions ONLY (การกระทำซ้ำๆ ในอดีตเท่านั้น):** มักใช้ในการเล่าเรื่องราวความทรงจำในอดีต (reminiscing/nostalgia) ให้ภาพที่ชัดเจนและมีชีวิตชีวาเหมือนการเล่านิทานหรือเรื่องราวในความทรงจำ\n    *   *Every summer, my family and I would go camping by the river.*\n2.  **ห้ามใช้กับ State Verbs:** Would ไม่สามารถใช้กับกริยาที่แสดงสภาวะ (State Verbs) เช่น be, have (ครอบครอง), live, know, believe, understand, like, seem, appear เป็นต้น\n\n**ตารางสรุปความแตกต่าง:**\n| ประเภท | Used to | Would | ตัวอย่าง |\n|---|---|---|---|\n| **การกระทำซ้ำๆ** | ✓ | ✓ | *When I was young, I used to/would play outside until dark.* |\n| **สภาวะ/ความจริง** | ✓ | ✗ | *I used to have a dog.* (ห้ามใช้ 'I would have a dog.') |",
+    "examples": [
+      {
+        "eng": "This entire area used to be undeveloped forest land before the urban expansion project began.",
+        "thai": "พื้นที่ทั้งหมดนี้เคยเป็นที่ดินป่าที่ยังไม่ถูกพัฒนามาก่อน ก่อนที่โครงการขยายเมืองจะเริ่มต้นขึ้น (ใช้ 'used to be' เพราะ 'be' เป็น State Verb บอกถึงสภาวะในอดีตที่ไม่เป็นจริงแล้ว ไม่สามารถใช้ 'would be' ได้)"
+      },
+      {
+        "eng": "I remember my grandfather vividly. He would always sit on that porch, carving small wooden animals for us.",
+        "thai": "ฉันจำคุณปู่ของฉันได้ติดตา ท่านมักจะนั่งที่ระเบียงนั้นเสมอ พร้อมกับแกะสลักสัตว์ไม้ตัวเล็กๆ ให้พวกเรา (ใช้ 'would' เพื่อเล่าถึงการกระทำที่เป็นภาพความทรงจำที่เกิดขึ้นซ้ำๆ ในอดีต ให้ความรู้สึกเหมือนกำลังเล่าเรื่องราว)"
+      },
+      {
+        "eng": "She used to find classical music quite dull, but now she appreciates its complexity and emotional depth.",
+        "thai": "เธอเคยรู้สึกว่าดนตรีคลาสสิกน่าเบื่อมาก แต่ตอนนี้เธอชื่นชมในความซับซ้อนและความลึกซึ้งทางอารมณ์ของมัน (ใช้ 'used to find' เพราะ 'find' ในที่นี้หมายถึง 'มีความเห็นว่า/รู้สึกว่า' ซึ่งเป็นสภาวะทางความคิด (mental state) จึงใช้ 'would' ไม่ได้)"
+      },
+      {
+        "eng": "Our professor used to have very strict rules. For instance, he would deduct marks for any assignment submitted even a minute late.",
+        "thai": "ศาสตราจารย์ของเราเคยมีกฎที่เข้มงวดมาก ตัวอย่างเช่น ท่านจะหักคะแนนสำหรับงานที่ส่งช้าแม้เพียงนาทีเดียว (ประโยคแรกใช้ 'used to have' เพราะ 'have' คือสภาวะการครอบครองกฎ ประโยคที่สองใช้ 'would deduct' เพื่ออธิบายการกระทำที่เป็นผลตามมาซึ่งเกิดขึ้นซ้ำๆ)"
+      }
+    ],
+    "common_mistakes": "**1. ใช้ 'would' กับ State Verbs (กริยาแสดงสภาวะ):**\nนี่คือข้อผิดพลาดที่ร้ายแรงและพบบ่อยที่สุด คนไทยมักเผลอใช้ 'would' กับการบอกเล่าสภาวะ เช่น การอยู่อาศัย ความเป็นเจ้าของ หรือความเชื่อ ซึ่งผิดหลักไวยากรณ์\n*   **ผิด:** When I was a child, I *would be* very shy.\n*   **ถูก:** When I was a child, I *used to be* very shy.\n\n**2. สับสนเรื่องรูปของ 'use to' ในประโยคปฏิเสธและคำถาม:**\nเมื่อมี 'did' หรือ 'didn't' เข้ามาช่วยในประโยค เราต้องใช้ 'use to' (ไม่มี d) เพราะ 'did' แสดงความเป็นอดีตไปแล้ว\n*   **ผิด:** I *didn't used to* like spicy food.\n*   **ถูก:** I *didn't use to* like spicy food.\n*   **ผิด:** *Did you used to* live here?\n*   **ถูก:** *Did you use to* live here?\n\n**3. คิดว่า 'would' ใช้เริ่มบทสนทนาได้เสมอ:**\n'Used to' สามารถใช้เพื่อแนะนำหัวข้อใหม่เกี่ยวกับอดีตได้เลย แต่ 'Would' มักจะใช้หลังจากที่ได้กำหนดช่วงเวลาในอดีตที่ชัดเจนแล้ว (setting the scene) มักจะไม่ใช้ 'would' ลอยๆ เพื่อเริ่มประโยคแรก\n*   **พอใช้ได้แต่ไม่เป็นธรรมชาติ:** I *would play* football a lot.\n*   **ดีกว่า:** I *used to play* football a lot. When I was on the team, we *would practice* every day.",
+    "practice_questions": [
+      {
+        "question": "It's strange to see a skyscraper here. This whole neighborhood ______ be just fields and farms.",
+        "options": [
+          "A. would",
+          "B. used to",
+          "C. was used to",
+          "D. got used to"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้กำลังพูดถึงสภาวะ (state) ในอดีตของย่านนี้ ('เคยเป็นทุ่งนาและฟาร์ม') ซึ่งตอนนี้ไม่ใช่แล้ว ดังนั้นจึงต้องใช้ 'used to' + V.1 (be) เท่านั้น 'Would' ไม่สามารถใช้กับกริยาที่แสดงสภาวะอย่าง 'be' ได้"
+      },
+      {
+        "question": "I reminisce about my college days when my friends and I ______ stay up late debating philosophy and politics.",
+        "options": [
+          "A. used to",
+          "B. would",
+          "C. had to",
+          "D. were used to"
+        ],
+        "answer": "B",
+        "explanation": "บริบทของประโยคนี้ ('I reminisce about...') เป็นการเล่าเรื่องราวความทรงจำในอดีตที่เกิดขึ้นซ้ำๆ (การโต้รุ่งถกเถียงกัน) การใช้ 'would' จะให้ความรู้สึกหวนรำลึกถึงอดีต (nostalgic) ซึ่งเหมาะสมกับบริบทนี้มากกว่า 'used to' แม้ว่า 'used to' จะถูกไวยากรณ์ก็ตาม"
+      },
+      {
+        "question": "Before she became a successful entrepreneur, she ______ work multiple part-time jobs to make ends meet.",
+        "options": [
+          "A. would",
+          "B. has to",
+          "C. used to",
+          "D. could"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้เป็นการบอกเล่าข้อเท็จจริงเกี่ยวกับนิสัยหรือการกระทำในอดีตที่จบไปแล้ว (เคยทำงานพาร์ทไทม์หลายงาน) ไม่ได้เน้นการเล่าเรื่องราวความทรงจำ 'Used to' จึงเป็นตัวเลือกที่เหมาะสมและเป็นธรรมชาติที่สุดในการนำเสนอข้อเท็จจริงนี้"
+      },
+      {
+        "question": "My father ______ believe that technology was a distraction, but now he can't live without his smartphone.",
+        "options": [
+          "A. would",
+          "B. didn't use to",
+          "C. was used to",
+          "D. used to"
+        ],
+        "answer": "D",
+        "explanation": "กริยา 'believe' (เชื่อ) เป็น State Verb ที่แสดงสภาวะทางความคิด ดังนั้นจึงไม่สามารถใช้ 'would' ได้ ต้องใช้ 'used to' เท่านั้นเพื่อบอกว่าเขา 'เคยเชื่อ' อย่างนั้นในอดีต"
+      },
+      {
+        "question": "______ you ______ such a pessimistic view of the world before you started following the news so closely?",
+        "options": [
+          "A. Did...used to have",
+          "B. Would...have",
+          "C. Were...used to having",
+          "D. Did...use to have"
+        ],
+        "answer": "D",
+        "explanation": "นี่คือประโยคคำถามในอดีตเกี่ยวกับสภาวะ ('have a pessimistic view') จึงต้องขึ้นต้นด้วย 'Did' และเมื่อใช้ 'Did' แล้ว กริยาหลักต้องกลับไปเป็นรูป V.1 คือ 'use to' (ไม่มี d) ดังนั้น 'Did you use to have...?' จึงเป็นโครงสร้างที่ถูกต้อง"
+      },
+      {
+        "question": "During the long power outages, our family ______ gather in the living room and play board games by candlelight.",
+        "options": [
+          "A. would",
+          "B. used to",
+          "C. must",
+          "D. should have"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้เป็นการอธิบายการกระทำที่เกิดขึ้นซ้ำๆ ในช่วงเวลาที่เฉพาะเจาะจงในอดีต ('During the long power outages') และมีลักษณะเป็นการเล่าความทรงจำที่อบอุ่น การใช้ 'would' จึงเหมาะสมที่สุดในการสร้างภาพความทรงจำนี้"
+      },
+      {
+        "question": "I ______ like horror movies at all, but a friend convinced me to watch one and now I'm a huge fan.",
+        "options": [
+          "A. didn't used to",
+          "B. wouldn't",
+          "C. didn't use to",
+          "D. am not used to"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้พูดถึงความชอบ (like) ซึ่งเป็น State Verb ในรูปปฏิเสธ ต้องใช้ 'didn't' เข้ามาช่วย และตามกฎ เมื่อมี 'didn't' แล้ว ต้องตามด้วย 'use to' (ไม่มี d) ทำให้ 'didn't use to like' เป็นคำตอบที่ถูกต้อง"
+      },
+      {
+        "question": "The old lighthouse keeper ______ spend his evenings watching the ships. He ______ say he knew each one by its lights.",
+        "options": [
+          "A. used to / used to",
+          "B. would / would",
+          "C. would / used to",
+          "D. used to / would"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคแรกเป็นการแนะนำนิสัยในอดีต ใช้ 'used to spend' จะเป็นธรรมชาติที่สุด ในขณะที่ประโยคที่สองเป็นการเล่าถึงการกระทำซ้ำๆ (การพูด) ที่ต่อเนื่องมาจากเรื่องราวแรก การใช้ 'would say' จะทำให้เรื่องเล่าลื่นไหลและหลีกเลี่ยงการใช้ 'used to' ซ้ำซ้อนกัน"
+      },
+      {
+        "question": "It's hard to imagine that these two nations ______ be bitter enemies, considering their strong alliance today.",
+        "options": [
+          "A. would",
+          "B. could",
+          "C. got used to",
+          "D. used to"
+        ],
+        "answer": "D",
+        "explanation": "กริยา 'be' ในที่นี้หมายถึง 'เป็น' ศัตรูกัน ซึ่งเป็นสภาวะ (state) ในอดีตอย่างชัดเจน ดังนั้นจึงต้องใช้ 'used to be' เท่านั้น 'Would' ไม่สามารถใช้กับสภาวะได้"
+      },
+      {
+        "question": "Whenever we visited our cousins in the countryside, we ______ wake up early and go exploring in the woods all day.",
+        "options": [
+          "A. had used to",
+          "B. were used to",
+          "C. would",
+          "D. must"
+        ],
+        "answer": "C",
+        "explanation": "วลี 'Whenever we visited...' เป็นการกำหนดฉากหลังในอดีตที่ชัดเจน การกระทำที่ตามมา ('wake up', 'go exploring') คือกิจกรรมที่เกิดขึ้นซ้ำๆ ในช่วงเวลานั้น การใช้ 'would' เหมาะสมอย่างยิ่งในการเล่าถึงกิจวัตรในความทรงจำเช่นนี้"
+      }
+    ]
+  },
+  {
+    "id": "31_2",
+    "title": "31.2 Be used to (ชินแล้ว)",
+    "explanation": "โครงสร้าง 'Be used to' ใช้เพื่อพูดถึงสิ่งที่เรา 'คุ้นเคย' หรือ 'เคยชิน' กับมันแล้ว ซึ่งเป็นผลมาจากการทำสิ่งนั้นซ้ำๆ หรือมีประสบการณ์กับมันมาเป็นเวลานานจนกลายเป็นเรื่องปกติธรรมดา\n\n**โครงสร้างหลัก:**\nSubject + be (is, am, are, was, were) + used to + Noun / Pronoun / Gerund (V-ing)\n\n**หัวใจสำคัญ:**\n1.  **ความหมายคือ 'ชิน'**: ไม่ใช่ 'เคยทำ' ในอดีตแบบ 'used to' (ที่ไม่มี Verb to be ข้างหน้า)\n2.  **ต้องมี Verb to be**: (is, am, are, was, were) อยู่ข้างหน้า 'used to' เสมอ เพื่อบอกว่าเป็นสภาวะความคุ้นชิน\n3.  **ตามด้วยคำนาม (Noun) หรือ Gerund (V-ing)**: สิ่งที่ตามหลัง 'be used to' จะต้องเป็นคำนาม, สรรพนาม (it, this, them), หรือกริยาที่เติม -ing เท่านั้น ห้ามตามด้วย Verb infinitive (V.1) เด็ดขาด\n\n**การใช้ใน Tense ต่างๆ:**\n*   **Present (is/am/are used to):** บอกความคุ้นชินในปัจจุบัน\n    *   `I am used to the noise.` (ฉันชินกับเสียงดังแล้ว)\n*   **Past (was/were used to):** บอกความคุ้นชิน ณ จุดเวลาในอดีต\n    *   `He was used to the pressure.` (ตอนนั้นเขาชินกับความกดดันแล้ว)\n\nนอกจากนี้ยังสามารถทำเป็นประโยคคำถามและปฏิเสธได้เหมือนการใช้ Verb to be ทั่วไป:\n*   **Negative:** `I'm not used to waking up so early.` (ฉันไม่ชินกับการตื่นเช้าขนาดนี้)\n*   **Question:** `Are you used to the food here?` (คุณชินกับอาหารที่นี่หรือยัง?)",
+    "examples": [
+      {
+        "eng": "As a journalist who has covered conflicts for over a decade, she is used to working in high-stress, unpredictable environments.",
+        "thai": "ในฐานะนักข่าวที่ทำข่าวความขัดแย้งมากว่าทศวรรษ เธอจึงคุ้นชินกับการทำงานในสภาพแวดล้อมที่กดดันสูงและคาดเดาไม่ได้ (is used to + working (V-ing))"
+      },
+      {
+        "eng": "When I first started this job, I wasn't used to the corporate culture, but after a year, it feels completely normal to me.",
+        "thai": "ตอนที่ฉันเริ่มทำงานนี้ใหม่ๆ ฉันไม่ชินกับวัฒนธรรมองค์กรเลย แต่หลังจากผ่านไปหนึ่งปี มันก็กลายเป็นเรื่องปกติสำหรับฉันไปแล้ว (wasn't used to + noun phrase)"
+      },
+      {
+        "eng": "Are you used to the responsibility that comes with being a team leader?",
+        "thai": "คุณคุ้นเคยกับความรับผิดชอบที่มาพร้อมกับการเป็นหัวหน้าทีมแล้วหรือยัง? (Are you used to + noun phrase)"
+      },
+      {
+        "eng": "Even after living in Norway for three years, he confesses that he is still not completely used to the long, dark winters.",
+        "thai": "แม้จะอาศัยอยู่ในนอร์เวย์มาสามปีแล้ว เขายอมรับว่าเขายังไม่ชินกับฤดูหนาวที่ยาวนานและมืดมิดอย่างสมบูรณ์ (is not used to + noun phrase)"
+      }
+    ],
+    "common_mistakes": "**1. สับสนกับ 'used to' (เคยทำในอดีต)**\nคนไทยมักจะจำสลับกันระหว่าง 'เคยทำ' กับ 'ชิน' ทำให้ใช้โครงสร้างผิด\n*   **ผิด:** `I am used to live in Bangkok.` (ความหมายเพี้ยน)\n*   **ถูก:** `I am used to living in Bangkok.` (ฉันชินกับการอยู่ในกรุงเทพฯ)\n*   **ถูก:** `I used to live in Bangkok.` (ฉันเคยอยู่ในกรุงเทพฯ)\n\n**2. ลืมใส่ Verb 'to be' (is, am, are)**\nเมื่อต้องการจะบอกว่า 'ชิน' แต่ลืมใส่ Verb to be ความหมายจะกลายเป็น 'เคย' ทันที\n*   **ผิด:** `She used to the spicy food.`\n*   **ถูก:** `She is used to the spicy food.` (เธอชินกับอาหารรสเผ็ด)\n\n**3. ตามหลังด้วย Verb Infinitive (V.1) แทน Gerund (V-ing)**\nนี่คือข้อผิดพลาดที่พบบ่อยที่สุด เพราะคุ้นเคยกับ 'to' ที่มักจะตามด้วย V.1 แต่ในสำนวนนี้ 'to' เป็น preposition จึงต้องตามด้วยคำนามหรือ V-ing\n*   **ผิด:** `He is used to wake up early for his training.`\n*   **ถูก:** `He is used to waking up early for his training.` (เขาชินกับการตื่นเช้าเพื่อไปฝึกซ้อม)",
+    "practice_questions": [
+      {
+        "question": "Mark is a professional chef, so he _______ long hours in a hot kitchen.",
+        "options": [
+          "A. is used to work",
+          "B. used to working",
+          "C. is used to working",
+          "D. used to work"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้ต้องการสื่อว่ามาร์ค 'ชินกับ' การทำงานหนักในปัจจุบัน โครงสร้างที่ถูกต้องคือ Subject + be + used to + V-ing ดังนั้น 'is used to working' จึงเป็นคำตอบที่ถูกต้อง"
+      },
+      {
+        "question": "When I first moved to the countryside, I _______ the silence at night. It was quite unnerving.",
+        "options": [
+          "A. wasn't used to",
+          "B. didn't use to",
+          "C. am not used to",
+          "D. haven't used to"
+        ],
+        "answer": "A",
+        "explanation": "บริบทของประโยคเป็นอดีต ('When I first moved...') และต้องการสื่อว่า 'ไม่เคยชินกับ' ความเงียบ จึงต้องใช้รูปอดีตของ be used to ในเชิงปฏิเสธ คือ 'wasn't used to' ตามด้วยคำนาม 'the silence'"
+      },
+      {
+        "question": "The new employees _______ the company's unique software yet, so they require additional training.",
+        "options": [
+          "A. haven't used to",
+          "B. didn't use to",
+          "C. weren't used to",
+          "D. aren't used to"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคนี้พูดถึงสถานการณ์ปัจจุบัน ('require additional training') จึงต้องใช้ Present Tense ในรูปปฏิเสธ คือ 'are not used to' หรือ 'aren't used to' เพื่อบอกว่าพนักงานใหม่ 'ยังไม่ชินกับ' ซอฟต์แวร์"
+      },
+      {
+        "question": "A: 'Does the noise from the construction site bother you?' B: 'Not anymore. I _______ it.'",
+        "options": [
+          "A. used to",
+          "B. am used to",
+          "C. get used to",
+          "D. was used to"
+        ],
+        "answer": "B",
+        "explanation": "คำตอบ 'Not anymore' (ไม่แล้ว) บอกให้รู้ว่าผู้พูดกำลังพูดถึงสภาวะในปัจจุบันว่าตอนนี้ 'ชินแล้ว' จึงต้องใช้ 'am used to' ตามด้วยสรรพนาม 'it' ซึ่งแทน 'the noise'"
+      },
+      {
+        "question": "My manager _______ giving presentations to large audiences; she does it almost every week.",
+        "options": [
+          "A. used to",
+          "B. is used to",
+          "C. was used to",
+          "D. used to be"
+        ],
+        "answer": "B",
+        "explanation": "ประโยค 'she does it almost every week' บอกว่าเป็นเรื่องที่ทำเป็นประจำในปัจจุบัน แสดงว่าเธอ 'คุ้นชิน' กับการนำเสนอแล้ว ดังนั้นจึงใช้ 'is used to' ตามด้วย V-ing 'giving'"
+      },
+      {
+        "question": "Before his promotion, he _______ such a heavy workload, but he's managing it well now.",
+        "options": [
+          "A. has never used to",
+          "B. wasn't used to",
+          "C. isn't used to",
+          "D. didn't use to have"
+        ],
+        "answer": "B",
+        "explanation": "คำว่า 'Before his promotion' เป็นการระบุช่วงเวลาในอดีต ประโยคต้องการสื่อว่าในอดีตนั้นเขา 'ไม่ชินกับ' ปริมาณงานที่หนักขนาดนั้น จึงต้องใช้ 'wasn't used to' ตามด้วยคำนาม 'a heavy workload'"
+      },
+      {
+        "question": "After years of living a minimalist lifestyle, she _______ having very few possessions.",
+        "options": [
+          "A. used to",
+          "B. has used to",
+          "C. is used to",
+          "D. is used to have"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้กล่าวถึงผลลัพธ์ในปัจจุบันที่เกิดจากการใช้ชีวิตแบบมินิมอลมาหลายปี เธอจึง 'ชินกับการ' มีของน้อยชิ้น โครงสร้างที่ถูกต้องคือ 'is used to' ตามด้วย Gerund (V-ing) คือ 'having'"
+      },
+      {
+        "question": "As a frequent flyer, I _______ sleeping on long-haul flights to combat jet lag.",
+        "options": [
+          "A. am used to",
+          "B. used to",
+          "C. was used to sleep",
+          "D. am used to sleep"
+        ],
+        "answer": "A",
+        "explanation": "ผู้พูดบอกว่าเป็นคนที่เดินทางบ่อย (frequent flyer) ซึ่งเป็นสถานะปัจจุบัน ดังนั้นจึง 'คุ้นชินกับการนอน' บนเครื่องบิน โครงสร้างที่ถูกต้องคือ 'am used to' + V-ing (sleeping). ข้อ D ผิดเพราะตามด้วย V.1"
+      },
+      {
+        "question": "He was born and raised in a bustling city, so when he first moved to the village, he _______ the profound quietness.",
+        "options": [
+          "A. used to",
+          "B. wasn't used to",
+          "C. isn't used to",
+          "D. didn't use to"
+        ],
+        "answer": "B",
+        "explanation": "บริบทของเรื่อง ('when he first moved') เกิดขึ้นในอดีต และการที่เขามาจากเมืองที่วุ่นวายย่อมหมายความว่าเขา 'ไม่ชินกับ' ความเงียบสงบในตอนแรก จึงต้องใช้ Past Tense ในรูปปฏิเสธ 'wasn't used to'"
+      },
+      {
+        "question": "After working here for a year, I can confidently say I _______ all the complex procedures.",
+        "options": [
+          "A. used to",
+          "B. am used to",
+          "C. was used to",
+          "D. would be used to"
+        ],
+        "answer": "B",
+        "explanation": "ผู้พูดกำลังสรุปสภาวะของตัวเองในปัจจุบัน ('I can confidently say I...') ว่าตอนนี้ 'ชิน' กับขั้นตอนที่ซับซ้อนแล้ว ดังนั้นคำตอบที่ถูกต้องคือ 'am used to' ซึ่งเป็น Present Tense"
+      }
+    ]
+  },
+  {
+    "id": "31_3",
+    "title": "31.3 Get used to (กำลังจะชิน)",
+    "explanation": "โครงสร้าง 'Get used to' ใช้เพื่ออธิบาย 'กระบวนการ' ที่เรากำลังปรับตัวหรือเริ่มคุ้นเคยกับสิ่งใหม่ๆ ที่ในตอนแรกอาจจะรู้สึกแปลกหรือไม่คุ้นชิน\n\n**ความหมายหลัก:**\n'Get used to' สื่อถึงการเปลี่ยนแปลงจากความไม่คุ้นเคยไปสู่ความคุ้นเคย มันคือ 'process' หรือ 'กระบวนการ' ไม่ใช่ 'state' หรือ 'สภาวะ' ที่คุ้นเคยแล้ว (ซึ่งจะใช้ be used to)\n\n**โครงสร้าง:**\nSubject + get/gets/got/is getting + used to + Noun / Pronoun / Gerund (V-ing)\n\n**จุดสำคัญ:**\n1.  **ตามด้วย V-ing หรือคำนามเสมอ:** หลัง 'to' ในโครงสร้างนี้ ต้องเป็นคำนาม (the noise, the weather) หรือ Gerund (V-ing) เช่น working, driving, living ห้ามใช้ Verb ช่อง 1 เด็ดขาด\n2.  **ใช้ได้กับทุก Tense:** คำว่า 'get' สามารถเปลี่ยนรูปไปตาม Tense ต่างๆ เพื่อบอกว่ากระบวนการปรับตัวนั้นเกิดขึ้นเมื่อไหร่\n    *   **Present Continuous:** `I am getting used to the new system.` (ฉันกำลังเริ่มชินกับระบบใหม่ - กระบวนการกำลังเกิดขึ้นอยู่ตอนนี้)\n    *   **Past Simple:** `He quickly got used to living alone.` (เขาเริ่มชินกับการอยู่คนเดียวอย่างรวดเร็ว - กระบวนการปรับตัวเกิดขึ้นและจบลงในอดีต)\n    *   **Future Simple:** `You will get used to the workload soon.` (เดี๋ยวคุณก็จะชินกับปริมาณงานเองแหละ - กระบวนการจะเกิดขึ้นในอนาคต)\n\n**สรุปความแตกต่าง:**\n*   **Used to + V.1:** เคยทำในอดีต แต่ตอนนี้ไม่ทำแล้ว (e.g., I used to smoke.)\n*   **Be used to + V-ing/Noun:** ชินแล้ว (เป็นสภาวะที่คุ้นเคยแล้ว) (e.g., I am used to waking up early.)\n*   **Get used to + V-ing/Noun:** กำลัง/เริ่มจะชิน (เป็นกระบวนการปรับตัว) (e.g., I am getting used to waking up early.)",
+    "examples": [
+      {
+        "eng": "It took me a few months, but I finally got used to the spicy food in Thailand.",
+        "thai": "ฉันใช้เวลาสองสามเดือน แต่ในที่สุดฉันก็ชินกับอาหารรสเผ็ดในประเทศไทย (แสดงถึงกระบวนการที่เกิดขึ้นและเสร็จสิ้นในอดีต)"
+      },
+      {
+        "eng": "As an introvert, she is still getting used to speaking in front of a large audience.",
+        "thai": "ในฐานะคนเก็บตัว เธอยังคงกำลังปรับตัวให้ชินกับการพูดต่อหน้าผู้คนจำนวนมาก (กระบวนการกำลังดำเนินอยู่ในปัจจุบัน)"
+      },
+      {
+        "eng": "If you move to Norway, you'll have to get used to the long, dark winters.",
+        "thai": "ถ้าคุณย้ายไปนอร์เวย์ คุณจะต้องทำความคุ้นเคยกับฤดูหนาวที่ยาวนานและมืดมิด (กระบวนการที่จำเป็นต้องเกิดขึ้นในอนาคต)"
+      },
+      {
+        "eng": "He never quite got used to the corporate culture, which is why he decided to start his own business.",
+        "thai": "เขาไม่เคยปรับตัวให้ชินกับวัฒนธรรมองค์กรได้เลย ซึ่งนั่นคือเหตุผลที่เขาตัดสินใจเริ่มธุรกิจของตัวเอง (แสดงถึงกระบวนการที่ไม่เคยสำเร็จในอดีต)"
+      },
+      {
+        "eng": "After the merger, the employees had to get used to collaborating with a completely new team.",
+        "thai": "หลังจากการควบรวมกิจการ พนักงานต้องปรับตัวให้คุ้นเคยกับการทำงานร่วมกับทีมใหม่ทั้งหมด"
+      }
+    ],
+    "common_mistakes": "1.  **ใช้ Verb ช่อง 1 (Infinitive) แทน Gerund (V-ing):** นี่คือข้อผิดพลาดที่พบบ่อยที่สุด คนไทยมักจะจำว่าหลัง 'to' ต้องเป็น V.1 แต่ในสำนวน 'get used to' นี้ 'to' เป็น preposition ดังนั้นต้องตามด้วยคำนามหรือ V-ing เสมอ\n    *   **ผิด:** `I am getting used to work here.`\n    *   **ถูก:** `I am getting used to working here.`\n\n2.  **สับสนกับ 'Used to' (เคยทำในอดีต):** ทั้งสองโครงสร้างดูคล้ายกัน แต่ความหมายต่างกันโดยสิ้นเชิง 'Get used to' คือการปรับตัว แต่ 'Used to' คือนิสัยในอดีต\n    *   **ผิด:** `When I was a child, I got used to play outside.` (หมายถึงตอนเด็กๆ ฉันเริ่มจะชินกับการเล่นข้างนอก)\n    *   **ถูก:** `When I was a child, I used to play outside.` (หมายถึงตอนเด็กๆ ฉันเคยเล่นข้างนอกเป็นประจำ)\n\n3.  **สับสนระหว่าง 'Get used to' (กำลังชิน) กับ 'Be used to' (ชินแล้ว):** ต้องดูบริบทว่ากำลังพูดถึง 'กระบวนการปรับตัว' หรือ 'สภาวะที่ชินแล้ว'\n    *   `I'm getting used to my new glasses.` (ฉันกำลังปรับตัวให้ชินกับแว่นตาอันใหม่ - อาจจะยังรู้สึกแปลกๆ อยู่)\n    *   `I'm used to my new glasses.` (ฉันชินกับแว่นตาอันใหม่แล้ว - ไม่รู้สึกแปลกแล้ว)",
+    "practice_questions": [
+      {
+        "question": "When I first moved to the city, it took me a while to ______ the constant noise.",
+        "options": [
+          "A. used to",
+          "B. get used to",
+          "C. am used to",
+          "D. getting used to"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคบอกว่า 'it took me a while' (มันใช้เวลาสักพัก) ซึ่งบ่งบอกถึงกระบวนการปรับตัวที่เกิดขึ้นในอดีต จึงต้องใช้ 'get used to' ในรูป infinitive เพราะตามหลัง 'to' ใน 'to get used to...'"
+      },
+      {
+        "question": "She is from a small town, so she is still ______ in a big metropolis like New York.",
+        "options": [
+          "A. get used to live",
+          "B. getting used to living",
+          "C. used to live",
+          "D. got used to live"
+        ],
+        "answer": "B",
+        "explanation": "คำว่า 'is still' (ยังคง...) บอกให้รู้ว่ากระบวนการปรับตัวกำลังดำเนินอยู่ในปัจจุบัน ดังนั้นจึงต้องใช้ Present Continuous (is getting) และตามด้วย Gerund (living) ซึ่งเป็นโครงสร้างที่ถูกต้องของ 'get used to'."
+      },
+      {
+        "question": "Don't worry about the new responsibilities. I'm sure you ______ them in no time.",
+        "options": [
+          "A. are used to",
+          "B. used to",
+          "C. will get used to",
+          "D. got used to"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้เป็นการพูดถึงอนาคต ('in no time' - ในไม่ช้า) และเป็นการให้กำลังใจว่ากระบวนการปรับตัวจะเกิดขึ้นและสำเร็จในอนาคต ดังนั้น 'will get used to' จึงเป็นคำตอบที่เหมาะสมที่สุด"
+      },
+      {
+        "question": "Even after six months, he still hasn't ______ waking up at 5 a.m. for his new job.",
+        "options": [
+          "A. get used to",
+          "B. got used to",
+          "C. been used to",
+          "D. used to"
+        ],
+        "answer": "B",
+        "explanation": "โครงสร้าง Present Perfect Tense (hasn't + V.3) ในที่นี้คือ 'hasn't got used to' (UK English) หรือ 'hasn't gotten used to' (US English) เพื่อบอกว่ากระบวนการปรับตัวยังไม่สำเร็จลุล่วงมาจนถึงปัจจุบัน 'got' ในที่นี้คือ Past Participle (V.3) ของ get"
+      },
+      {
+        "question": "As a chef, you have to ______ working under immense pressure during peak hours.",
+        "options": [
+          "A. get used to",
+          "B. used to",
+          "C. getting used to",
+          "D. got used to"
+        ],
+        "answer": "A",
+        "explanation": "ประโยค 'you have to...' แสดงถึงความจำเป็นหรือกฎเกณฑ์ทั่วไปที่ต้องทำ คือจำเป็นต้องปรับตัวให้ชิน ดังนั้นจึงใช้ 'get used to' ในรูป infinitive ตามหลัง 'have to'"
+      },
+      {
+        "question": "How long did it take for you to ______ the local dialect when you moved to the south?",
+        "options": [
+          "A. getting used to understand",
+          "B. be used to understanding",
+          "C. get used to understanding",
+          "D. get used to"
+        ],
+        "answer": "D",
+        "explanation": "ในประโยคคำถามนี้ 'to' ตัวแรกเป็นส่วนหนึ่งของ 'to get used to...' แต่ 'to' ตัวที่สองตามด้วยคำนาม 'the local dialect' อยู่แล้ว จึงไม่จำเป็นต้องมี verb ตามมาอีก คำตอบที่สมบูรณ์และถูกต้องตามไวยากรณ์ที่สุดคือ 'get used to' เฉยๆ"
+      },
+      {
+        "question": "My grandfather finds it difficult to ______ all this new technology.",
+        "options": [
+          "A. get use to",
+          "B. getting used to",
+          "C. get used to",
+          "D. used to"
+        ],
+        "answer": "C",
+        "explanation": "โครงสร้างคือ 'finds it difficult to do something' ในที่นี้ 'do something' คือ 'get used to... ' ซึ่งเป็นรูป infinitive ที่ถูกต้องตามหลัง 'to' คำว่า 'get use to' (ไม่มี d) เป็นตัวเลือกที่ผิดไวยากรณ์"
+      },
+      {
+        "question": "I thought I would hate the cold, but I'm surprised how quickly I ______ it.",
+        "options": [
+          "A. am used to",
+          "B. got used to",
+          "C. used to",
+          "D. get used to"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้เล่าถึงเรื่องในอดีต (I thought...) และการเปลี่ยนแปลงที่เกิดขึ้นอย่างรวดเร็ว ('how quickly I...') ดังนั้นจึงต้องใช้ Past Simple Tense 'got used to' เพื่ออธิบายกระบวนการปรับตัวที่เกิดขึ้นและเสร็จสิ้นไปแล้ว"
+      },
+      {
+        "question": "The children will have to ______ sharing a room until we can afford a bigger house.",
+        "options": [
+          "A. gets used to",
+          "B. getting used to",
+          "C. got used to",
+          "D. get used to"
+        ],
+        "answer": "D",
+        "explanation": "โครงสร้าง 'will have to + V.1' ดังนั้น Verb ที่ตามมาต้องเป็นรูป Infinitive คือ 'get used to' เพื่อบอกถึงความจำเป็นที่จะต้องปรับตัวในอนาคต"
+      },
+      {
+        "question": "Having worked night shifts for a year, she finally ______ sleeping during the day.",
+        "options": [
+          "A. used to",
+          "B. is getting used to",
+          "C. got used to",
+          "D. gets used to"
+        ],
+        "answer": "C",
+        "explanation": "บริบท 'Having worked...for a year' และคำว่า 'finally' (ในที่สุด) บ่งบอกว่าเหตุการณ์นี้เกิดขึ้นและจบลงแล้วในอดีต เป็นการเล่าเรื่องว่ากระบวนการปรับตัวได้เสร็จสิ้นลงแล้ว จึงต้องใช้ Past Simple 'got used to'"
+      }
+    ]
+  },
+  {
+    "id": "31_4",
+    "title": "31.4 Summary: Used to (สรุป Used to + 50 Exercises)",
+    "explanation": "สรุปรวบยอดการใช้ Used to, Be used to, และ Get used to\nโครงสร้างทั้งสามนี้มักสร้างความสับสน แต่มีความหมายและวิธีใช้ที่แตกต่างกันอย่างชัดเจน:\n\n1. **Used to + Verb ช่อง 1 (infinitive)**\n   - **ความหมาย:** ใช้พูดถึง \"นิสัยหรือสถานะในอดีต\" ที่เคยทำหรือเคยเป็นเป็นประจำ แต่ปัจจุบัน \"ไม่ได้ทำหรือไม่ได้เป็นแล้ว\"\n   - **โครงสร้าง:**\n     - บอกเล่า: Subject + used to + V.1 (e.g., I used to live in London.)\n     - ปฏิเสธ: Subject + didn't use to + V.1 (e.g., He didn't use to like coffee.)\n     - คำถาม: Did + Subject + use to + V.1? (e.g., Did you use to play the piano?)\n   - **Key point:** เน้นการเปลี่ยนแปลงระหว่างอดีตกับปัจจุบัน\n\n2. **Be used to + Verb-ing / Noun (คำนาม)**\n   - **ความหมาย:** ใช้พูดถึง \"ความคุ้นเคย\" กับบางสิ่งบางอย่าง หมายความว่าสิ่งนั้นไม่ใช่เรื่องแปลกใหม่สำหรับเราอีกต่อไป\n   - **โครงสร้าง:**\n     - Subject + be (is, am, are, was, were) + used to + V.ing / Noun.\n     - (e.g., I am used to waking up early. / She is used to the cold weather.)\n   - **Key point:** 'be' สามารถเปลี่ยน Tense ได้ ทำให้สามารถพูดถึงความคุ้นเคยในอดีต (was/were used to) หรืออนาคต (will be used to) ได้ด้วย\n\n3. **Get used to + Verb-ing / Noun (คำนาม)**\n   - **ความหมาย:** ใช้พูดถึง \"กระบวนการปรับตัว\" ให้คุ้นเคยกับสิ่งใหม่ๆ ซึ่งอาจจะยังไม่คุ้นเคยดีในตอนนี้ แต่กำลังอยู่ในช่วงปรับตัว\n   - **โครงสร้าง:**\n     - Subject + get (get, gets, got, is getting) + used to + V.ing / Noun.\n     - (e.g., I am getting used to my new job. / It took me a while to get used to the noise.)\n   - **Key point:** เน้น 'process' หรือ 'การเปลี่ยนแปลง' ไปสู่ความคุ้นเคย 'get' สามารถเปลี่ยน Tense ได้เช่นกัน",
+    "examples": [
+      {
+        "eng": "I used to ride my bike to school every day, but now I take the bus.",
+        "thai": "ฉันเคยขี่จักรยานไปโรงเรียนทุกวัน แต่ตอนนี้ฉันขึ้นรถบัส (นิสัยในอดีตที่ตอนนี้ไม่ทำแล้ว)"
+      },
+      {
+        "eng": "As a chef, he is used to the pressure of a busy kitchen.",
+        "thai": "ในฐานะเชฟ เขาคุ้นเคยกับความกดดันในครัวที่วุ่นวาย (ความคุ้นเคยในปัจจุบัน)"
+      },
+      {
+        "eng": "It was challenging at first, but she quickly got used to living in a big city.",
+        "thai": "ตอนแรกมันก็ท้าทาย แต่เธอปรับตัวให้คุ้นเคยกับการอยู่ในเมืองใหญ่ได้อย่างรวดเร็ว (กระบวนการปรับตัวในอดีต)"
+      }
+    ],
+    "common_mistakes": "1. **สับสนระหว่าง V.1 กับ V.ing:** ข้อผิดพลาดที่พบบ่อยที่สุดคือการใช้ V.1 ตามหลัง 'be/get used to' ซึ่งผิดหลักไวยากรณ์\n   - **ผิด:** I am used to `wake` up early.\n   - **ถูก:** I am used to `waking` up early. (ต้องเป็น V.ing หรือ Noun)\n\n2. **ลืมตัด -d ในประโยคปฏิเสธและคำถามของ 'used to':** เมื่อมี 'did' หรือ 'didn't' มาช่วยแล้ว 'used to' จะต้องกลับไปเป็นรูป 'use to' (ไม่มี d)\n   - **ผิด:** I didn't `used` to like spicy food.\n   - **ถูก:** I didn't `use` to like spicy food.\n\n3. **แปล 'be used to' ว่า 'เคย' เหมือน 'used to':** ทั้งสองโครงสร้างมีความหมายต่างกัน 'Used to' คือสิ่งที่จบไปแล้วในอดีต ส่วน 'Be used to' คือความคุ้นเคยในปัจจุบัน (หรือตาม Tense ของ Verb to be)",
+    "practice_questions": [
+      {
+        "question": "When I was a child, I ___ spend hours reading books in the library.",
+        "options": [
+          "A. used to",
+          "B. am used to",
+          "C. get used to",
+          "D. was used to"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้พูดถึงนิสัยในอดีต ('When I was a child') ที่ปัจจุบันอาจไม่ได้ทำแล้ว จึงใช้โครงสร้าง used to + V.1 (spend)"
+      },
+      {
+        "question": "It's taking me some time to ___ the new software at work.",
+        "options": [
+          "A. used to using",
+          "B. be used to use",
+          "C. get used to using",
+          "D. use to use"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้พูดถึงกระบวนการกำลังปรับตัวให้คุ้นเคยกับสิ่งใหม่ ('new software') จึงใช้ get used to + V.ing (using)"
+      },
+      {
+        "question": "After living in London for ten years, I ___ the rain.",
+        "options": [
+          "A. am used to",
+          "B. used to",
+          "C. get used to",
+          "D. used"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้พูดถึงความคุ้นเคยในปัจจุบันกับสภาพอากาศ ('the rain' เป็นคำนาม) จึงใช้ be used to + Noun"
+      },
+      {
+        "question": "My grandfather ___ tell us stories about the war.",
+        "options": [
+          "A. is used to",
+          "B. used to",
+          "C. gets used to",
+          "D. got used to"
+        ],
+        "answer": "B",
+        "explanation": "นี่คือกิจกรรมที่เคยทำซ้ำๆ ในอดีตแต่ปัจจุบันอาจไม่ได้ทำแล้ว ใช้ used to + V.1 (tell)"
+      },
+      {
+        "question": "I ___ spicy food, but now I love it.",
+        "options": [
+          "A. didn't use to like",
+          "B. wasn't used to like",
+          "C. didn't used to like",
+          "D. am not used to liking"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้พูดถึงสิ่งที่เคยไม่ชอบในอดีต แต่ตอนนี้ชอบแล้ว ('but now...') รูปปฏิเสธของ used to คือ didn't use to + V.1"
+      },
+      {
+        "question": "As an emergency room doctor, she ___ dealing with critical situations.",
+        "options": [
+          "A. used to",
+          "B. is used to",
+          "C. got used to",
+          "D. gets used to"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้บรรยายถึงความคุ้นเคยในปัจจุบันอันเป็นผลมาจากอาชีพของเธอ จึงใช้ is used to + V.ing (dealing)"
+      },
+      {
+        "question": "You will have to ___ working longer hours if you accept this promotion.",
+        "options": [
+          "A. get used to",
+          "B. be used to",
+          "C. used to",
+          "D. use to"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้พูดถึงกระบวนการปรับตัวที่จะเกิดขึ้นในอนาคต ('You will have to...') จึงต้องใช้ get used to + V.ing (working)"
+      },
+      {
+        "question": "___ you ___ play a musical instrument when you were younger?",
+        "options": [
+          "A. Were... used to",
+          "B. Did... use to",
+          "C. Did... used to",
+          "D. Are... used to"
+        ],
+        "answer": "B",
+        "explanation": "นี่เป็นประโยคคำถามเกี่ยวกับนิสัยในอดีต โครงสร้างที่ถูกต้องคือ Did + subject + use to + V.1"
+      },
+      {
+        "question": "He found it hard at first, but he eventually ___ the local customs.",
+        "options": [
+          "A. used to",
+          "B. was used to",
+          "C. got used to",
+          "D. is used to"
+        ],
+        "answer": "C",
+        "explanation": "คำว่า 'eventually' (ในที่สุด) ชี้ให้เห็นถึงกระบวนการปรับตัวที่เสร็จสิ้นในอดีต จึงใช้ got used to + Noun (the local customs)"
+      },
+      {
+        "question": "I'm not from a big city, so I ___ the constant noise.",
+        "options": [
+          "A. am not used to",
+          "B. don't use to",
+          "C. didn't use to",
+          "D. am not getting used to"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้บอกถึงการไม่คุ้นเคยกับบางสิ่งในปัจจุบัน (the constant noise) จึงใช้รูปปฏิเสธของ be used to คือ am not used to + Noun"
+      },
+      {
+        "question": "Before the internet, people ___ write letters to each other much more often.",
+        "options": [
+          "A. were used to",
+          "B. got used to",
+          "C. used to",
+          "D. use to"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคพูดถึงนิสัยในอดีต ('Before the internet') ที่ตอนนี้เปลี่ยนไปแล้ว จึงใช้ used to + V.1 (write)"
+      },
+      {
+        "question": "Don't worry about the baby crying at night. You'll ___ it soon.",
+        "options": [
+          "A. get used to",
+          "B. used to",
+          "C. be used to",
+          "D. uses to"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้เป็นการปลอบใจและบอกถึงกระบวนการปรับตัวที่จะเกิดขึ้นในอนาคตอันใกล้ ('soon') จึงใช้ get used to + it (Noun)"
+      },
+      {
+        "question": "She ___ being the center of attention; she's been a performer all her life.",
+        "options": [
+          "A. used to",
+          "B. is used to",
+          "C. got used to",
+          "D. gets used to"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้อธิบายถึงความคุ้นเคยในปัจจุบันที่เป็นผลจากประสบการณ์ในอดีต ('all her life') จึงใช้ is used to + V.ing (being)"
+      },
+      {
+        "question": "I ___ have a dog, but he passed away a few years ago.",
+        "options": [
+          "A. was used to",
+          "B. get used to",
+          "C. used to",
+          "D. am used to"
+        ],
+        "answer": "C",
+        "explanation": "เป็นการพูดถึงสถานะในอดีต (เคยมีสุนัข) ที่ปัจจุบันไม่เป็นเช่นนั้นแล้ว จึงใช้ used to + V.1 (have)"
+      },
+      {
+        "question": "How long did it take you to ___ driving on the left side of the road?",
+        "options": [
+          "A. get used to",
+          "B. used to",
+          "C. be used to",
+          "D. use to"
+        ],
+        "answer": "A",
+        "explanation": "คำถามนี้ถามเกี่ยวกับระยะเวลาของ 'กระบวนการปรับตัว' ในอดีต จึงใช้ get used to + V.ing (driving)"
+      },
+      {
+        "question": "My eyes are still ___ the bright sunlight after being in the dark cinema.",
+        "options": [
+          "A. used to",
+          "B. getting used to",
+          "C. been used to",
+          "D. use to"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้กำลังบรรยายถึงกระบวนการปรับตัวที่กำลังเกิดขึ้นในขณะนี้ ('are still...') จึงใช้ Present Continuous form คือ are getting used to + Noun"
+      },
+      {
+        "question": "He moved from a tropical country, so he ___ the cold winters here.",
+        "options": [
+          "A. didn't use to",
+          "B. isn't used to",
+          "C. doesn't use to",
+          "D. wasn't used to"
+        ],
+        "answer": "B",
+        "explanation": "เป็นการบอกว่าเขา 'ไม่คุ้นเคย' กับอากาศหนาวในปัจจุบัน จึงใช้ is not used to + Noun"
+      },
+      {
+        "question": "This building ___ be a factory, but now it's an art gallery.",
+        "options": [
+          "A. is used to",
+          "B. was used to",
+          "C. get used to",
+          "D. used to"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคพูดถึงสถานะในอดีตของตึก ('but now...') ซึ่งตอนนี้เปลี่ยนไปแล้ว จึงใช้ used to + V.1 (be)"
+      },
+      {
+        "question": "After his retirement, he couldn't ___ having so much free time.",
+        "options": [
+          "A. get used to",
+          "B. used to",
+          "C. was used to",
+          "D. uses to"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้หมายถึงเขา 'ไม่สามารถปรับตัวให้ชิน' กับการมีเวลาว่างได้ 'couldn't' ตามด้วย V.1 (get) จึงต้องเป็น get used to + V.ing (having)"
+      },
+      {
+        "question": "I ___ think that contemporary art was strange, but I've grown to appreciate it.",
+        "options": [
+          "A. was used to",
+          "B. used to",
+          "C. got used to",
+          "D. am used to"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคพูดถึงความคิดในอดีตที่ตอนนี้เปลี่ยนไปแล้ว ('but I've grown to appreciate it') จึงใช้ used to + V.1 (think)"
+      },
+      {
+        "question": "By the time I left the company, I ___ all the complicated procedures.",
+        "options": [
+          "A. was used to",
+          "B. used to know",
+          "C. have got used to",
+          "D. had gotten used to"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้เล่าถึงความคุ้นเคย ณ จุดเวลาหนึ่งในอดีต ('By the time I left') จึงใช้ Past Simple ของ be used to คือ was used to + Noun"
+      },
+      {
+        "question": "It's difficult for children to ___ moving to a new school.",
+        "options": [
+          "A. used to",
+          "B. be used to",
+          "C. get used to",
+          "D. use to"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้พูดถึงความยากลำบากใน 'กระบวนการปรับตัว' ของเด็กๆ โดยทั่วไป จึงใช้ get used to + V.ing (moving)"
+      },
+      {
+        "question": "He ___ a vegetarian, but he started eating meat for health reasons.",
+        "options": [
+          "A. got used to be",
+          "B. was used to being",
+          "C. used to be",
+          "D. get used to being"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้พูดถึงสถานะในอดีต (เคยเป็นมังสวิรัติ) ที่ปัจจุบันเปลี่ยนแปลงไปแล้ว จึงใช้ used to + V.1 (be)"
+      },
+      {
+        "question": "Are you ___ the hectic pace of city life yet?",
+        "options": [
+          "A. getting used to",
+          "B. use to",
+          "C. used to",
+          "D. used to"
+        ],
+        "answer": "D",
+        "explanation": "คำถามนี้ถามว่า 'คุ้นเคยหรือยัง' ในปัจจุบัน จึงใช้ Are you used to + Noun (the hectic pace). คำตอบที่ให้มาผิด ที่ถูกคือ 'Are you used to the hectic pace...?' แต่ในตัวเลือกที่ให้มา ไม่มีข้อที่ถูกต้องสมบูรณ์ ถ้าจะให้เลือกข้อที่ใกล้เคียงที่สุดคือ D (Are you used to). แต่ถ้าจะแก้ไขให้ถูกต้องตามหลัก ควรเป็น 'Are you used to the hectic pace...?' อย่างไรก็ตาม ตามโครงสร้าง Are you + ... ต้องตามด้วย used to ไม่ใช่ use to หรือ getting used to (ถ้าไม่มี yet)"
+      },
+      {
+        "question": "By next month, I hope I'll ___ my new colleagues.",
+        "options": [
+          "A. get used to",
+          "B. have gotten used to",
+          "C. be used to",
+          "D. used to"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้คาดการณ์ว่ากระบวนการปรับตัวให้คุ้นเคยจะเสร็จสิ้นสมบูรณ์ ณ จุดเวลาในอนาคต ('By next month') จึงใช้ Future Perfect Tense กับ get used to คือ will have gotten used to + Noun. แต่ในตัวเลือก B คือ Present Perfect ซึ่งก็สามารถใช้ในบริบทนี้ได้เพื่อแสดงความคาดหวัง"
+      },
+      {
+        "question": "We ___ have a landline phone, but now everyone just has a mobile.",
+        "options": [
+          "A. are used to",
+          "B. used to",
+          "C. get used to",
+          "D. have used to"
+        ],
+        "answer": "B",
+        "explanation": "นี่คือนิสัยหรือสถานะในอดีตที่ตอนนี้ไม่มีแล้ว ('but now...') จึงใช้ used to + V.1 (have)"
+      },
+      {
+        "question": "Although he has lived here for a year, he still can't ___ the spicy cuisine.",
+        "options": [
+          "A. get used to",
+          "B. be used to",
+          "C. used to",
+          "D. use to"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้เน้นว่า 'ยังคง' ปรับตัวไม่ได้ (still can't) ซึ่งพูดถึงกระบวนการปรับตัว จึงใช้ get used to + Noun"
+      },
+      {
+        "question": "She ___ be very shy, but now she is a confident public speaker.",
+        "options": [
+          "A. gets used to",
+          "B. used to",
+          "C. is used to",
+          "D. was used to"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้เปรียบเทียบอดีตกับปัจจุบัน ('but now...') อย่างชัดเจน พูดถึงลักษณะนิสัยในอดีตที่เปลี่ยนไปแล้ว จึงใช้ used to + V.1 (be)"
+      },
+      {
+        "question": "I don't think I'll ever ___ waking up at 5 a.m. for work.",
+        "options": [
+          "A. used to",
+          "B. am used to",
+          "C. get used to",
+          "D. got used to"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้แสดงความคิดเห็นเกี่ยวกับความสามารถในการปรับตัวในอนาคต ('I'll ever...') จึงใช้ get used to + V.ing (waking up)"
+      },
+      {
+        "question": "The manager ___ giving constructive feedback to her team.",
+        "options": [
+          "A. used to",
+          "B. is used to",
+          "C. got used to",
+          "D. will get used to"
+        ],
+        "answer": "B",
+        "explanation": "นี่คือความคุ้นเคยในปัจจุบันซึ่งเป็นส่วนหนึ่งของหน้าที่การงานของผู้จัดการ จึงใช้ is used to + V.ing (giving)"
+      },
+      {
+        "question": "This city ___ have a tram system, but it was dismantled in the 1960s.",
+        "options": [
+          "A. used to",
+          "B. was used to",
+          "C. got used to",
+          "D. is used to"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้พูดถึงสิ่งที่มีอยู่ในอดีตแต่ปัจจุบันไม่มีแล้ว จึงใช้ used to + V.1 (have)"
+      },
+      {
+        "question": "He had to ___ a completely different culture when he became an expatriate.",
+        "options": [
+          "A. use to",
+          "B. be used to",
+          "C. getting used to",
+          "D. get used to"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคนี้อธิบายถึงความจำเป็นในการปรับตัวในอดีต ('had to...') จึงใช้ get used to + Noun (a completely different culture)"
+      },
+      {
+        "question": "Most athletes ___ training rigorously every day.",
+        "options": [
+          "A. used to",
+          "B. are used to",
+          "C. get used to",
+          "D. will be used to"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้พูดถึงความคุ้นเคยที่เป็นเรื่องปกติสำหรับกลุ่มคน (นักกีฬา) ในปัจจุบัน จึงใช้ are used to + V.ing (training)"
+      },
+      {
+        "question": "I can't ___ this new diet; I miss eating carbs!",
+        "options": [
+          "A. get used to",
+          "B. be used to",
+          "C. used to",
+          "D. have used to"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้แสดงความไม่สามารถในการปรับตัว ('I can't...') กับสิ่งใหม่ จึงใช้ get used to + Noun (this new diet)"
+      },
+      {
+        "question": "When she was a student, she ___ on a very tight budget.",
+        "options": [
+          "A. used to living",
+          "B. was used to living",
+          "C. used to live",
+          "D. got used to live"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้สามารถตีความได้สองแบบ แต่ B เหมาะสมที่สุด เพราะ 'was used to' หมายถึง ณ เวลานั้นในอดีต เธอคุ้นเคยกับการใช้ชีวิตแบบนั้นแล้ว ส่วน C ก็เป็นไปได้ แต่ B สื่อถึงความคุ้นเคยได้ดีกว่า"
+      },
+      {
+        "question": "It might seem strange now, but you ___ the quiet countryside life.",
+        "options": [
+          "A. will get used to",
+          "B. used to",
+          "C. are used to",
+          "D. are getting used to"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้เป็นการปลอบใจและคาดการณ์ถึงกระบวนการปรับตัวที่จะเกิดขึ้นในอนาคต จึงใช้ will get used to + Noun"
+      },
+      {
+        "question": "They ___ complain about the management, but things have improved now.",
+        "options": [
+          "A. are used to",
+          "B. were used to",
+          "C. used to",
+          "D. got used to"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคบอกถึงนิสัยในอดีตที่ตอนนี้เปลี่ยนไปแล้ว ('but things have improved now') จึงใช้ used to + V.1 (complain)"
+      },
+      {
+        "question": "I've only had this smartphone for a day, so I'm still ___ its features.",
+        "options": [
+          "A. getting used to",
+          "B. used to",
+          "C. being used to",
+          "D. used to"
+        ],
+        "answer": "A",
+        "explanation": "คำว่า 'still' บ่งบอกถึงกระบวนการปรับตัวที่กำลังดำเนินอยู่ในปัจจุบัน จึงใช้ Present Continuous form คือ am getting used to + Noun"
+      },
+      {
+        "question": "He ___ work in finance before he decided to become a chef.",
+        "options": [
+          "A. was used to",
+          "B. got used to",
+          "C. used to",
+          "D. is used to"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคเล่าถึงอาชีพในอดีต ('before he decided...') ที่ตอนนี้ไม่ได้ทำแล้ว จึงใช้ used to + V.1 (work)"
+      },
+      {
+        "question": "As a fisherman, he ___ the smell of the sea.",
+        "options": [
+          "A. used to",
+          "B. get used to",
+          "C. is used to",
+          "D. uses to"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้พูดถึงความคุ้นเคยในปัจจุบันที่เป็นผลมาจากอาชีพ จึงใช้ is used to + Noun (the smell)"
+      },
+      {
+        "question": "___ you ___ so much media attention when you first became famous?",
+        "options": [
+          "A. Did... use to",
+          "B. Were... used to",
+          "C. Have... gotten used to",
+          "D. Did... get used to"
+        ],
+        "answer": "B",
+        "explanation": "คำถามนี้ถามถึง 'ความคุ้นเคย' ณ จุดเริ่มต้นในอดีต ('when you first became famous') ไม่ใช่นิสัย จึงต้องใช้ Were you used to + Noun"
+      },
+      {
+        "question": "Moving to a new country means you have to ___ a lot of new things at once.",
+        "options": [
+          "A. used to",
+          "B. be used to",
+          "C. get used to",
+          "D. getting used"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้พูดถึงความจำเป็นในการปรับตัว ('have to...') ซึ่งเป็นกระบวนการ จึงใช้ get used to + V.ing หรือ Noun"
+      },
+      {
+        "question": "She ___ long black hair, but she cut it short last year.",
+        "options": [
+          "A. was used to having",
+          "B. used to have",
+          "C. got used to have",
+          "D. is used to having"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคเปรียบเทียบสภาพในอดีตกับปัจจุบัน ('but she cut it...') อย่างชัดเจน จึงใช้ used to + V.1 (have)"
+      },
+      {
+        "question": "Once you live in the tropics, you ___ the humidity very quickly.",
+        "options": [
+          "A. use to",
+          "B. are used to",
+          "C. get used to",
+          "D. used to"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้พูดถึงกระบวนการปรับตัวที่มักจะเกิดขึ้นอย่างรวดเร็วเมื่อไปอยู่ในที่ใหม่ๆ จึงใช้ get used to + Noun"
+      },
+      {
+        "question": "My parents ___ travel a lot, but they prefer to stay home now.",
+        "options": [
+          "A. didn't use to",
+          "B. used to",
+          "C. were used to",
+          "D. got used to"
+        ],
+        "answer": "B",
+        "explanation": "เป็นการเล่าถึงนิสัยในอดีตที่ขัดแย้งกับปัจจุบัน ('but they prefer... now') จึงใช้ used to + V.1 (travel)"
+      },
+      {
+        "question": "I'm a teacher, so I ___ speaking in front of large groups of people.",
+        "options": [
+          "A. get used to",
+          "B. used to",
+          "C. am used to",
+          "D. got used to"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้พูดถึงความคุ้นเคยในปัจจุบันที่เป็นส่วนหนึ่งของอาชีพ จึงใช้ am used to + V.ing (speaking)"
+      },
+      {
+        "question": "The hardest part of the job was ___ the strict deadlines.",
+        "options": [
+          "A. get used to",
+          "B. being used to",
+          "C. getting used to",
+          "D. used to"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้พูดถึง 'การปรับตัว' ให้คุ้นเคยว่าเป็นส่วนที่ยากที่สุด โครงสร้าง 'The hardest part was...' ต้องการคำนามหรือ Gerund (V.ing) ตามหลัง จึงต้องเป็น getting used to"
+      },
+      {
+        "question": "He ___ that there was no Wi-Fi in the remote village.",
+        "options": [
+          "A. used to find",
+          "B. wasn't used to finding",
+          "C. didn't use to find",
+          "D. wasn't used to the fact"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคนี้หมายถึงเขา 'ไม่คุ้นเคยกับความจริงที่ว่า' ไม่มี Wi-Fi จึงใช้ was not used to + Noun Phrase (the fact that...)"
+      },
+      {
+        "question": "What did you ___ do for fun before smartphones were invented?",
+        "options": [
+          "A. use to",
+          "B. used to",
+          "C. be used to",
+          "D. get used to"
+        ],
+        "answer": "A",
+        "explanation": "เป็นประโยคคำถามเกี่ยวกับนิสัยในอดีต เมื่อมี 'did' มาช่วยแล้ว ต้องใช้ 'use to' (ไม่มี d)"
+      },
+      {
+        "question": "I'll never ___ how cold it gets here in January.",
+        "options": [
+          "A. be used to",
+          "B. get used to",
+          "C. used to",
+          "D. have used to"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้แสดงการคาดการณ์ว่าจะไม่สามารถปรับตัวให้คุ้นเคยได้ในอนาคต ('I'll never...') จึงใช้ get used to + Noun Phrase (how cold it gets)"
+      }
+    ]
+  }
+]

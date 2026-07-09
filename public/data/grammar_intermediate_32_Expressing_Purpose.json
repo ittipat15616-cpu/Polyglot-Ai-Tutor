@@ -1,0 +1,862 @@
+[
+  {
+    "id": "32_1",
+    "title": "32.1 To, In order to, So as to (+ V.1)",
+    "explanation": "ในภาษาอังกฤษ เมื่อเราต้องการจะบอกถึง 'วัตถุประสงค์' หรือ 'เหตุผล' ของการกระทำ เราสามารถใช้วลี (phrases) เหล่านี้เพื่อเชื่อมโยงการกระทำหลัก (main action) เข้ากับวัตถุประสงค์ (purpose) ได้ครับ\n\nโครงสร้างพื้นฐานคือ: Main Clause + Purpose Phrase + Verb Infinitive (V.1)\n\n1. **To + V.1**: เป็นวิธีที่ 'พบบ่อยที่สุด' และมีความเป็นกลาง ไม่เป็นทางการจนเกินไป ใช้ได้ในสถานการณ์ทั่วไปแทบทุกกรณี\n   - I went to the supermarket **to buy** some milk. (ฉันไปซูเปอร์มาร์เก็ตเพื่อซื้อนม)\n\n2. **In order to + V.1**: มีความ 'เป็นทางการ' มากกว่า 'to' และมักใช้ในภาษาเขียน หรือเมื่อต้องการเน้นย้ำวัตถุประสงค์ให้ชัดเจนขึ้น มีความหมายเหมือนกันคือ 'เพื่อที่จะ'\n   - The company downsized **in order to remain** profitable. (บริษัทลดขนาดลงเพื่อที่จะยังคงมีกำไรอยู่)\n\n3. **So as to + V.1**: มีระดับความเป็นทางการ 'ใกล้เคียงกับ' In order to และใช้เพื่อเน้นย้ำวัตถุประสงค์เช่นกัน\n   - We took a taxi **so as to arrive** on time. (เราขึ้นแท็กซี่เพื่อที่จะไปถึงตรงเวลา)\n\n**การใช้ในรูปปฏิเสธ (Negative Form)**\nเมื่อต้องการบอกวัตถุประสงค์ว่า 'เพื่อที่จะไม่...' เราจะใช้รูปปฏิเสธของ In order to และ So as to เท่านั้น\n- **In order not to + V.1**\n- **So as not to + V.1**\n\n**สำคัญมาก**: เราจะไม่ใช้ 'not to + V.1' ในการบอกวัตถุประสงค์โดยตรง เพราะจะฟังดูไม่เป็นธรรมชาติและผิดหลักไวยากรณ์ในบริบทนี้\n   - **ถูก**: He whispered **in order not to** wake the baby. (เขากระซิบเพื่อที่จะไม่ปลุกเด็กทารก)\n   - **ผิด**: He whispered ~~not to~~ wake the baby.\n\n**การวางไว้หน้าประโยค**: เราสามารถนำ 'In order to' และ 'So as to' มาวางไว้ต้นประโยคเพื่อเน้นย้ำวัตถุประสงค์ได้ โดยต้องมีเครื่องหมาย comma (,) คั่นกลาง\n   - **In order to pass** the exam, you need to study diligently. (เพื่อที่จะสอบผ่าน คุณต้องขยันเรียน)",
+    "examples": [
+      {
+        "eng": "He's taking advanced programming courses to enhance his career prospects.",
+        "thai": "เขากำลังลงเรียนคอร์สเขียนโปรแกรมขั้นสูงเพื่อเพิ่มโอกาสในสายอาชีพของเขา (ใช้ 'to' ในบริบททั่วไป)"
+      },
+      {
+        "eng": "The government has implemented stricter regulations in order to curb pollution.",
+        "thai": "รัฐบาลได้บังคับใช้กฎระเบียบที่เข้มงวดขึ้นเพื่อที่จะควบคุมมลพิษ (ใช้ 'in order to' ในบริบทที่เป็นทางการ เช่น ข่าว หรือเอกสารราชการ)"
+      },
+      {
+        "eng": "She spoke very clearly so as not to be misunderstood during the international conference.",
+        "thai": "เธอพูดอย่างชัดเจนมากเพื่อที่จะไม่ให้เกิดการเข้าใจผิดในระหว่างการประชุมนานาชาติ (ใช้ 'so as not to' เพื่อบอกวัตถุประสงค์เชิงปฏิเสธ)"
+      },
+      {
+        "eng": "In order to secure the sensitive data, the IT department installed a new firewall.",
+        "thai": "เพื่อที่จะรักษาความปลอดภัยของข้อมูลที่ละเอียดอ่อน แผนกไอทีได้ติดตั้งไฟร์วอลล์ใหม่ (นำ 'In order to' ขึ้นต้นประโยคเพื่อเน้นย้ำ)"
+      },
+      {
+        "eng": "Athletes follow a strict diet so as to maintain peak physical condition.",
+        "thai": "นักกีฬาทำตามแผนโภชนาการที่เข้มงวดเพื่อที่จะรักษาสภาพร่างกายให้สมบูรณ์สูงสุด (ใช้ 'so as to' เพื่อเน้นย้ำเป้าหมาย)"
+      }
+    ],
+    "common_mistakes": "**1. สับสนระหว่าง 'to' กับ 'for'**: คนไทยมักใช้ 'for + V.1' เพื่อบอกวัตถุประสงค์ ซึ่งผิดหลักไวยากรณ์ ต้องจำไว้ว่า 'to + V.1' เสมอ\n   - **ผิด**: I'm saving money ~~for buy~~ a new car.\n   - **ถูก**: I'm saving money **to buy** a new car.\n   - (เราจะใช้ 'for' ตามด้วยคำนาม (noun) หรือ Gerund (V-ing) เช่น I'm saving money **for** a new car.)\n\n**2. ใช้รูปปฏิเสธผิด**: การใช้ 'not to' หรือ 'to not' เพื่อบอกวัตถุประสงค์เชิงปฏิเสธ ('เพื่อที่จะไม่...') เป็นข้อผิดพลาดที่พบบ่อยมากและฟังดูไม่เป็นธรรมชาติ\n   - **ผิด**: Drive carefully ~~not to~~ have an accident.\n   - **ถูก**: Drive carefully **in order not to / so as not to** have an accident.\n\n**3. ใช้โครงสร้างซ้ำซ้อน**: นำโครงสร้างอื่นมาปนกัน เช่น ใช้ 'so as to' แล้วตามด้วยประโยค (Subject + Verb) อีกท่อนหนึ่ง\n   - **ผิด**: He studied hard ~~so as to he could~~ pass the exam.\n   - **ถูก**: He studied hard **so as to pass** the exam. (ตามด้วย V.1)\n   - **ถูก**: He studied hard **so that he could** pass the exam. (ใช้ so that + clause จะเรียนในหัวข้อถัดไป)",
+    "practice_questions": [
+      {
+        "question": "The company is investing heavily in new technology ______ its market leadership.",
+        "options": [
+          "A. for maintaining",
+          "B. so that can maintain",
+          "C. in order to maintain",
+          "D. for to maintain"
+        ],
+        "answer": "C",
+        "explanation": "คำตอบที่ถูกต้องคือ 'in order to maintain' เพราะตามหลังด้วย V.1 (maintain) เพื่อบอกวัตถุประสงค์ที่ค่อนข้างเป็นทางการ (การลงทุนของบริษัท) ข้อ A ผิดโครงสร้าง (for + V-ing ใช้ในบริบทอื่น) ข้อ B และ D ผิดหลักไวยากรณ์"
+      },
+      {
+        "question": "He tiptoed out of the room ______ wake the sleeping baby.",
+        "options": [
+          "A. to not",
+          "B. for not to",
+          "C. so as not to",
+          "D. in order not wake"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้ต้องการบอกวัตถุประสงค์เชิงปฏิเสธ ('เพื่อที่จะไม่') จึงต้องใช้ 'so as not to' หรือ 'in order not to' ตามด้วย V.1 (wake) ข้อ C จึงถูกต้อง ข้อ A และ B เป็นโครงสร้างที่ผิด และข้อ D ขาด to"
+      },
+      {
+        "question": "______ for the advanced course, all candidates must pass a preliminary assessment.",
+        "options": [
+          "A. For to qualify",
+          "B. So that qualify",
+          "C. To qualifying",
+          "D. In order to qualify"
+        ],
+        "answer": "D",
+        "explanation": "เมื่อนำส่วนบอกวัตถุประสงค์ขึ้นต้นประโยค เราจะใช้ 'In order to + V.1' หรือ 'To + V.1' ในที่นี้ 'In order to qualify' (เพื่อที่จะมีคุณสมบัติ) เป็นตัวเลือกที่ถูกต้องและเหมาะสมที่สุดตามโครงสร้าง"
+      },
+      {
+        "question": "Many professionals attend workshops and seminars ______ their skills and knowledge.",
+        "options": [
+          "A. to update",
+          "B. for update",
+          "C. so as for updating",
+          "D. in order that update"
+        ],
+        "answer": "A",
+        "explanation": "นี่เป็นสถานการณ์ทั่วไปที่ใช้ 'to + V.1' เพื่อบอกวัตถุประสงค์ได้เลย 'to update' (เพื่ออัปเดต) เป็นคำตอบที่กระชับและถูกต้องที่สุด ข้อ B เป็นข้อผิดพลาดที่พบบ่อย (Common Mistake) ส่วนข้อ C และ D ผิดโครงสร้าง"
+      },
+      {
+        "question": "The witness changed his appearance ______ be recognized by the criminals.",
+        "options": [
+          "A. to not",
+          "B. in order to not",
+          "C. for not to",
+          "D. in order not to"
+        ],
+        "answer": "D",
+        "explanation": "การบอกวัตถุประสงค์เชิงปฏิเสธ ('เพื่อที่จะไม่ถูกจดจำ') ต้องใช้โครงสร้างที่ถูกต้องคือ 'in order not to + V.1' (be recognized) ข้อ A และ C ผิดหลักไวยากรณ์ ส่วนข้อ B เรียงคำผิด ต้องเป็น not to"
+      },
+      {
+        "question": "______ waste any food, she carefully planned all her meals for the week.",
+        "options": [
+          "A. So as not to",
+          "B. Not to",
+          "C. For not",
+          "D. So that not"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคขึ้นต้นด้วยวัตถุประสงค์เชิงปฏิเสธ 'So as not to' เป็นโครงสร้างที่ถูกต้อง ('So as not to waste' - เพื่อที่จะไม่ทำให้สิ้นเปลือง) และตามด้วย V.1 (waste)"
+      },
+      {
+        "question": "We have digitalized all our records ______ reduce paper consumption and our carbon footprint.",
+        "options": [
+          "A. so as to",
+          "B. for reduce",
+          "C. that to",
+          "D. with a view to"
+        ],
+        "answer": "A",
+        "explanation": "'so as to' เป็นตัวเลือกที่ถูกต้องเพื่อบอกวัตถุประสงค์ ('so as to reduce' - เพื่อที่จะลด) มีความเป็นทางการเล็กน้อย เหมาะกับบริบทขององค์กร ข้อ B ผิดหลักไวยากรณ์ ข้อ C ผิดโครงสร้าง และข้อ D (with a view to) ต้องตามด้วย V-ing"
+      },
+      {
+        "question": "You should write down your long-term goals ______ lose sight of what you want to achieve.",
+        "options": [
+          "A. for not losing",
+          "B. so as not to",
+          "C. to not",
+          "D. in order to not"
+        ],
+        "answer": "B",
+        "explanation": "อีกครั้งกับการบอกวัตถุประสงค์เชิงปฏิเสธ 'so as not to + V.1' ('so as not to lose sight' - เพื่อที่จะไม่ลืมเป้าหมาย) เป็นคำตอบที่ถูกต้อง ตัวเลือกอื่น ๆ เป็นการใช้รูปปฏิเสธที่ผิด"
+      },
+      {
+        "question": "The rescue team worked tirelessly through the night ______ find any survivors.",
+        "options": [
+          "A. for finding",
+          "B. so that they can find",
+          "C. to find",
+          "D. in order finding"
+        ],
+        "answer": "C",
+        "explanation": "'to find' เป็นวิธีบอกวัตถุประสงค์ที่ตรงไปตรงมาและถูกต้องที่สุดในบริบทนี้ ข้อ A ผิดโครงสร้าง ข้อ B ต้องใช้ so that they 'could' find (เรื่อง Tense) และ D ผิดไวยากรณ์"
+      },
+      {
+        "question": "______ a clear understanding, the manager repeated the instructions twice.",
+        "options": [
+          "A. To ensure",
+          "B. For ensuring",
+          "C. So that ensure",
+          "D. For to ensure"
+        ],
+        "answer": "A",
+        "explanation": "เมื่อขึ้นต้นประโยคเพื่อบอกวัตถุประสงค์ เราสามารถใช้ 'To + V.1' ได้เลย 'To ensure' (เพื่อให้แน่ใจ) เป็นการเริ่มต้นประโยคที่กระชับและถูกต้อง ข้อ B, C, และ D เป็นโครงสร้างที่ผิดทั้งหมด"
+      }
+    ]
+  },
+  {
+    "id": "32_2",
+    "title": "32.2 So that, In order that (+ Clause)",
+    "explanation": "‘So that’ และ ‘In order that’ เป็นคำเชื่อม (conjunctions) ที่ใช้เพื่อบอก ‘วัตถุประสงค์’ หรือ ‘เป้าหมาย’ ของการกระทำในประโยคหลัก แปลเป็นไทยได้ว่า ‘เพื่อที่ว่า...’\n\n**โครงสร้างที่สำคัญ:**\n`Main Clause + so that / in order that + Clause (Subject + modal verb + Verb)`\n\n**จุดเด่นที่ต้องจำ:**\n1.  **ต้องตามด้วย Clause เสมอ:** หลัง so that / in order that จะต้องเป็นประโยคที่สมบูรณ์ ซึ่งประกอบด้วย ประธาน (Subject) และ กริยา (Verb)\n2.  **มักมี Modal Verbs:** ประโยคที่ตามหลัง (Purpose Clause) มักจะมี Modal Verbs เช่น can, could, will, would, may, might เพื่อบอกความสามารถหรือความเป็นไปได้ที่จะทำให้วัตถุประสงค์นั้นสำเร็จ\n3.  **ความสอดคล้องของ Tense (Tense Agreement):**\n    *   ถ้าประโยคหลักเป็น Present/Future Tense, Clause ที่ตามมาจะใช้ `can`, `will`, `may`.\n    *   ถ้าประโยคหลักเป็น Past Tense, Clause ที่ตามมาจะต้องเปลี่ยน Modal Verb เป็นรูปอดีตไปด้วย คือ `could`, `would`, `might`.\n4.  **ความเป็นทางการ:** `In order that` มีความเป็นทางการมากกว่า `so that` และมักใช้ในภาษาเขียนหรือการพูดที่เป็นทางการ",
+    "examples": [
+      {
+        "eng": "She is saving money diligently so that she can afford to travel the world next year.",
+        "thai": "เธอเก็บเงินอย่างขยันขันแข็ง 'เพื่อที่ว่า' เธอจะสามารถเดินทางท่องเที่ยวรอบโลกได้ในปีหน้า (Main clause: is saving (Present) -> Purpose clause: can afford)"
+      },
+      {
+        "eng": "The company invested in new technology so that it could improve its production efficiency.",
+        "thai": "บริษัทลงทุนในเทคโนโลยีใหม่ 'เพื่อที่ว่า' จะสามารถปรับปรุงประสิทธิภาพการผลิตได้ (Main clause: invested (Past) -> Purpose clause: could improve)"
+      },
+      {
+        "eng": "The project manager created a detailed timeline in order that the team would not miss any deadlines.",
+        "thai": "ผู้จัดการโครงการได้สร้างไทม์ไลน์อย่างละเอียด 'เพื่อที่ว่า' ทีมงานจะได้ไม่พลาดกำหนดส่งงานใดๆ (Main clause: created (Past) -> Purpose clause: would not miss)"
+      },
+      {
+        "eng": "Please provide your contact information so that we may notify you of any updates.",
+        "thai": "กรุณาให้ข้อมูลติดต่อของคุณไว้ 'เพื่อที่ว่า' เราจะสามารถแจ้งให้คุณทราบถึงการอัปเดตต่างๆ ได้ (มีความเป็นทางการสูง ใช้ may)"
+      },
+      {
+        "eng": "He lowered his voice so that he wouldn't disturb the students who were taking an exam.",
+        "thai": "เขาลดเสียงลง 'เพื่อที่ว่า' เขาจะได้ไม่รบกวนนักเรียนที่กำลังทำข้อสอบอยู่ (แสดงวัตถุประสงค์เชิงปฏิเสธ)"
+      }
+    ],
+    "common_mistakes": "**1. ใช้ Verb ตามหลัง so that โดยไม่มีประธาน (Subject):**\nคนไทยมักจะสับสนกับ `in order to` ที่ตามด้วย Verb infinitive แต่สำหรับ `so that` ต้องตามด้วยประโยค (S+V) เสมอ\n*   ผิด: I exercise regularly so that `to be` healthy.\n*   ถูก: I exercise regularly so that `I can be` healthy.\n\n**2. ใช้ Tense ใน Purpose Clause ไม่สอดคล้องกับ Main Clause:**\nลืมเปลี่ยน modal verb เป็นรูปอดีตเมื่อ main clause เป็นอดีต\n*   ผิด: He studied hard so that he `can` pass the test.\n*   ถูก: He studied hard so that he `could` pass the test.\n\n**3. สับสนระหว่าง 'so that' (บอกวัตถุประสงค์) กับ 'so...that' (บอกผลลัพธ์):**\nโครงสร้างสองอันนี้ให้ความหมายต่างกันอย่างสิ้นเชิง\n*   **Purpose (วัตถุประสงค์):** I woke up early `so that` I could catch the first bus. (ฉันตื่นเช้า `เพื่อที่ว่า` ฉันจะได้ขึ้นรถบัสคันแรกทัน)\n*   **Result (ผลลัพธ์):** I was `so` tired `that` I fell asleep immediately. (ฉันเหนื่อย`มากจนกระทั่ง`ฉันเผลอหลับไปทันที)",
+    "practice_questions": [
+      {
+        "question": "The government has implemented stricter regulations ______ companies will reduce their carbon emissions.",
+        "options": [
+          "A. in order to",
+          "B. so that",
+          "C. so as to",
+          "D. for"
+        ],
+        "answer": "B",
+        "explanation": "คำถามต้องการคำเชื่อมที่ตามด้วย Clause (companies will reduce...). 'so that' เป็นคำตอบที่ถูกต้องเพราะใช้เชื่อมเพื่อบอกวัตถุประสงค์และตามด้วยประโยค (Subject + Verb) ส่วน in order to และ so as to ต้องตามด้วย Verb infinitive"
+      },
+      {
+        "question": "She spoke clearly and slowly ______ everyone in the audience could understand her message.",
+        "options": [
+          "A. so that",
+          "B. so as to",
+          "C. in order to",
+          "D. because"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคหลัก 'She spoke' เป็น Past Tense และส่วนที่ตามมา 'everyone...could understand' เป็น Clause ที่มี Modal Verb รูปอดีต (could) ดังนั้น 'so that' จึงเป็นตัวเลือกที่ถูกต้องเพื่อบอกวัตถุประสงค์ของการพูดช้าและชัดเจน"
+      },
+      {
+        "question": "We left for the airport early ______ we wouldn't get stuck in rush hour traffic.",
+        "options": [
+          "A. because",
+          "B. in order that",
+          "C. so",
+          "D. due to"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้แสดงวัตถุประสงค์ของการออกจากบ้านเร็ว คือ 'เพื่อที่ว่าจะได้ไม่ติดการจราจร' 'In order that' (หรือ so that) เป็นคำตอบที่ถูกต้อง โครงสร้างเป็น Past Tense (left) คู่กับ wouldn't + Verb."
+      },
+      {
+        "question": "You should write down the instructions ______ you don't forget them.",
+        "options": [
+          "A. in order to",
+          "B. for",
+          "C. so that",
+          "D. to"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคหลักใช้ Modal Verb 'should write' (present/future meaning) เพื่อให้คำแนะนำ และตามด้วย Clause 'you don't forget' เพื่อบอกวัตถุประสงค์ ดังนั้น 'so that' จึงเหมาะสมที่สุด"
+      },
+      {
+        "question": "The company established a new customer service hotline ______ clients could receive immediate assistance.",
+        "options": [
+          "A. so that",
+          "B. in order to",
+          "C. for",
+          "D. because of"
+        ],
+        "answer": "A",
+        "explanation": "Main clause 'established' เป็น Past Tense วัตถุประสงค์คือเพื่อให้ลูกค้าได้รับความช่วยเหลือทันที ซึ่งแสดงด้วย Clause 'clients could receive...' ดังนั้น 'so that' จึงถูกต้องตามหลักไวยากรณ์และความหมาย"
+      },
+      {
+        "question": "The researcher conducted numerous experiments ______ he might find a cure for the disease.",
+        "options": [
+          "A. to",
+          "B. in order that",
+          "C. so",
+          "D. for"
+        ],
+        "answer": "B",
+        "explanation": "'in order that' เป็นตัวเลือกที่ถูกต้องและมีความเป็นทางการ เหมาะสมกับบริบทของการวิจัย ตามหลังด้วย Clause 'he might find...' ซึ่งสอดคล้องกับ Main clause ที่เป็น Past tense (conducted)"
+      },
+      {
+        "question": "Please turn down the music ______ the neighbors won't complain.",
+        "options": [
+          "A. due to",
+          "B. so as not to",
+          "C. in order to",
+          "D. so that"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคคำสั่ง 'Please turn down' (present) ตามด้วย Clause บอกวัตถุประสงค์ 'the neighbors won't complain' (Subject + Verb) ดังนั้น 'so that' จึงเป็นคำตอบที่ถูกต้อง"
+      },
+      {
+        "question": "The organization provides scholarships ______ students from low-income families can have access to higher education.",
+        "options": [
+          "A. for",
+          "B. so that",
+          "C. to",
+          "D. because"
+        ],
+        "answer": "B",
+        "explanation": "Main clause 'provides' เป็น Present Tense และตามด้วย Clause 'students...can have...' ซึ่งบอกวัตถุประสงค์ของการให้ทุนการศึกษา 'so that' จึงเชื่อมสองประโยคนี้ได้อย่างถูกต้อง"
+      },
+      {
+        "question": "He booked the tickets well in advance ______ he would be sure to get a good seat.",
+        "options": [
+          "A. so",
+          "B. because",
+          "C. in order that",
+          "D. in order to"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคหลัก 'booked' เป็น Past Tense และตามด้วย Clause 'he would be sure...' เพื่อบอกเหตุผลของการจองตั๋วล่วงหน้า 'in order that' (หรือ so that) เป็นคำเชื่อมที่ถูกต้องตามโครงสร้างนี้"
+      },
+      {
+        "question": "A firewall was installed on the network ______ unauthorized access could be prevented.",
+        "options": [
+          "A. so that",
+          "B. for",
+          "C. so as to",
+          "D. because"
+        ],
+        "answer": "A",
+        "explanation": "Main clause 'was installed' เป็น Past Passive Voice และ Purpose clause 'unauthorized access could be prevented' ก็เป็น Past Passive Voice เช่นกัน 'so that' ทำหน้าที่เชื่อมสองส่วนนี้เพื่อบอกวัตถุประสงค์ของการติดตั้งไฟร์วอลล์ได้อย่างสมบูรณ์"
+      }
+    ]
+  },
+  {
+    "id": "32_3",
+    "title": "32.3 Summary: Expressing Purpose (สรุปการบอกจุดประสงค์ + 50 Exercises)",
+    "explanation": "การบอกจุดประสงค์ (Expressing Purpose) ในภาษาอังกฤษมีหลายวิธี แต่ละวิธีมีความแตกต่างกันเล็กน้อยในเรื่องความเป็นทางการและการใช้งาน สรุปได้ดังนี้:\n\n1. **to + Infinitive (V.1 ไม่ผัน)**\n- เป็นวิธีที่ใช้บ่อยที่สุดและไม่เป็นทางการมาก\n- ใช้เมื่อประธานของประโยคหลักและประโยคบอกจุดประสงค์เป็นคนเดียวกัน\n- โครงสร้าง: Main Clause + to + verb 1\n\n2. **in order to / so as to + Infinitive**\n- มีความเป็นทางการมากกว่า 'to' แต่ความหมายเหมือนกัน\n- ใช้เพื่อเน้นย้ำถึงจุดประสงค์ให้ชัดเจนขึ้น\n- รูปปฏิเสธคือ 'in order not to' และ 'so as not to'\n- โครงสร้าง: Main Clause + in order to/so as to + verb 1\n\n3. **so that + Clause (Subject + Modal Verb)**\n- ใช้ได้ในทุกสถานการณ์ ทั้งเป็นทางการและไม่เป็นทางการ\n- มีประโยชน์มากเมื่อประธานของประโยคหลักและประโยคบอกจุดประสงค์เป็นคนละคนกัน\n- Clause ที่ตามมามักจะมี Modal Verbs เช่น can, could, will, would, may\n- โครงสร้าง: Main Clause + so that + subject + modal verb + verb 1\n\n4. **for + Noun / Gerund (-ing)**\n- **For + Noun**: บอกว่าบางสิ่งมีไว้สำหรับอะไร หรือเพื่อใคร เช่น 'This gift is for you.'\n- **For + Gerund (-ing)**: ใช้อธิบายหน้าที่หรือการใช้งานของสิ่งของ เช่น 'A key is for locking doors.'",
+    "examples": [
+      {
+        "eng": "She is studying hard to get a scholarship.",
+        "thai": "เธอเรียนอย่างหนักเพื่อที่จะได้รับทุนการศึกษา (ใช้ 'to' แบบทั่วไป)"
+      },
+      {
+        "eng": "The company implemented new policies in order to improve efficiency.",
+        "thai": "บริษัทนำนโยบายใหม่มาใช้เพื่อที่จะปรับปรุงประสิทธิภาพ (ใช้ 'in order to' เพื่อเน้นจุดประสงค์และมีความเป็นทางการ)"
+      },
+      {
+        "eng": "He turned down the music so that he wouldn't disturb the neighbors.",
+        "thai": "เขาหรี่เสียงเพลงลงเพื่อที่จะได้ไม่รบกวนเพื่อนบ้าน (ใช้ 'so that' ตามด้วย clause และเป็นรูปปฏิเสธ)"
+      },
+      {
+        "eng": "I bought this book for my brother.",
+        "thai": "ฉันซื้อหนังสือเล่มนี้สำหรับน้องชายของฉัน (ใช้ 'for + noun' บอกว่าสิ่งนี้เพื่อใคร)"
+      },
+      {
+        "eng": "This machine is used for mixing ingredients.",
+        "thai": "เครื่องจักรนี้ใช้สำหรับการผสมส่วนผสม (ใช้ 'for + gerund' บอกหน้าที่ของสิ่งของ)"
+      }
+    ],
+    "common_mistakes": "จุดที่คนไทยระดับกลาง (B1-B2) มักทำผิด:\n\n1. **ใช้ 'for to + verb'**: นี่เป็นโครงสร้างที่ผิดและเจอบ่อยมาก เช่น *'I went to the store for to buy bread.'* ที่ถูกต้องคือ 'I went to the store to buy bread.' หรือ '...for some bread.'\n\n2. **สับสนระหว่าง 'so' (ดังนั้น) กับ 'so that' (เพื่อที่ว่า)**: 'So' บอกผลลัพธ์ (Result) แต่ 'so that' บอกจุดประสงค์ (Purpose) เช่น *'He was tired, so he went to bed.'* (เขาเหนื่อย ดังนั้นเขาจึงไปนอน - ผลลัพธ์) เทียบกับ *'He went to bed early so that he could wake up fresh.'* (เขาไปนอนเร็วเพื่อที่เขาจะได้ตื่นมาสดชื่น - จุดประสงค์)\n\n3. **ลืมใช้ Modal Verb หลัง 'so that'**: แม้จะไม่ผิดไวยากรณ์เสมอไป แต่การใช้ Modal Verb (can, could, will, would) หลัง 'so that' ทำให้ประโยคเป็นธรรมชาติและชัดเจนกว่า เช่น *'I'll write it down so that I won't forget.'* ดีกว่า *'I'll write it down so that I don't forget.'*\n\n4. **ใช้ประโยค (Clause) ตามหลัง 'in order to'**: 'in order to' ต้องตามด้วย Verb รูป Infinitive เท่านั้น ไม่ใช่ประโยคเต็ม เช่น *'She studied hard in order to she could pass.'* ที่ถูกต้องคือ 'She studied hard in order to pass.' หรือ 'She studied hard so that she could pass.'",
+    "practice_questions": [
+      {
+        "question": "He's learning Spanish __________ communicate with his clients from Madrid.",
+        "options": [
+          "A. for to",
+          "B. to",
+          "C. so that he will to",
+          "D. in order for"
+        ],
+        "answer": "B",
+        "explanation": "'to' ตามด้วย infinitive (communicate) เป็นวิธีที่ง่ายและถูกต้องที่สุดในการบอกจุดประสงค์ในบริบทนี้ A และ D ผิดโครงสร้าง C มี 'to' เกินมา"
+      },
+      {
+        "question": "The government has launched a new campaign __________ promote public health.",
+        "options": [
+          "A. so that to",
+          "B. in order to",
+          "C. for promoting",
+          "D. that it will"
+        ],
+        "answer": "B",
+        "explanation": "'in order to' ตามด้วย infinitive (promote) เป็นวิธีที่เหมาะสมและเป็นทางการในการบอกจุดประสงค์ของโครงการ C ก็เป็นไปได้ แต่ B เป็นตัวเลือกที่นิยมใช้มากกว่าสำหรับบอกจุดประสงค์ของการกระทำ"
+      },
+      {
+        "question": "Could you please close the door quietly __________ you don't wake the baby?",
+        "options": [
+          "A. in order to",
+          "B. for",
+          "C. so that",
+          "D. to"
+        ],
+        "answer": "C",
+        "explanation": "ส่วนที่ตามหลังช่องว่างเป็น clause (you don't wake the baby) ดังนั้นจึงต้องใช้ 'so that' เพื่อเชื่อมประโยค"
+      },
+      {
+        "question": "This special knife is designed __________ cutting bread.",
+        "options": [
+          "A. to",
+          "B. so that",
+          "C. for",
+          "D. in order to"
+        ],
+        "answer": "C",
+        "explanation": "'for' + gerund (-ing) ใช้เพื่ออธิบายหน้าที่หรือการใช้งานของสิ่งของ (the special knife)"
+      },
+      {
+        "question": "She works a second job __________ she can pay off her student loans faster.",
+        "options": [
+          "A. for",
+          "B. to",
+          "C. in order that",
+          "D. so that"
+        ],
+        "answer": "D",
+        "explanation": "เมื่อส่วนที่บอกจุดประสงค์เป็น clause (she can pay off...), เราใช้ 'so that' หรือ 'in order that' (ซึ่ง 'so that' เป็นที่นิยมกว่า)"
+      },
+      {
+        "question": "We must arrive at the airport early __________ miss our flight.",
+        "options": [
+          "A. so as not to",
+          "B. for not",
+          "C. so that not",
+          "D. to not"
+        ],
+        "answer": "A",
+        "explanation": "'so as not to' และ 'in order not to' เป็นโครงสร้างที่ถูกต้องสำหรับการบอกจุดประสงค์เชิงปฏิเสธ ตามด้วย infinitive (miss)"
+      },
+      {
+        "question": "The manager held a meeting __________ discuss the new strategy.",
+        "options": [
+          "A. for discussing",
+          "B. in order to",
+          "C. so that to discuss",
+          "D. for to"
+        ],
+        "answer": "B",
+        "explanation": "'in order to' ตามด้วย infinitive (discuss) เป็นวิธีที่ถูกต้องและชัดเจนในการบอกจุดประสงค์ของการประชุม"
+      },
+      {
+        "question": "I've put the food in the fridge __________ it stays fresh.",
+        "options": [
+          "A. to",
+          "B. for",
+          "C. so that",
+          "D. in order to"
+        ],
+        "answer": "C",
+        "explanation": "ส่วนที่ตามมาคือ clause (it stays fresh) ซึ่งมีประธาน (it) ของตัวเอง ดังนั้น 'so that' จึงเป็นตัวเลือกที่ถูกต้อง"
+      },
+      {
+        "question": "This button is __________ emergency use only.",
+        "options": [
+          "A. to",
+          "B. for",
+          "C. in order to",
+          "D. so that"
+        ],
+        "answer": "B",
+        "explanation": "'for' + noun (emergency use) ใช้เพื่อบอกวัตถุประสงค์ของสิ่งของ"
+      },
+      {
+        "question": "He took a detour __________ avoid the traffic jam.",
+        "options": [
+          "A. so that he",
+          "B. for",
+          "C. so as to",
+          "D. so that to"
+        ],
+        "answer": "C",
+        "explanation": "'so as to' เป็นอีกวิธีที่เป็นทางการในการบอกจุดประสงค์ที่ตามด้วย infinitive (avoid)"
+      },
+      {
+        "question": "They are saving money __________ a down payment on a house.",
+        "options": [
+          "A. to",
+          "B. in order to",
+          "C. for",
+          "D. so that"
+        ],
+        "answer": "C",
+        "explanation": "ในที่นี้ 'a down payment' เป็นคำนาม (noun) ดังนั้นเราจึงใช้ 'for' เพื่อบอกว่าพวกเขากำลังเก็บเงินเพื่ออะไร"
+      },
+      {
+        "question": "The company provides training __________ its employees can acquire new skills.",
+        "options": [
+          "A. for",
+          "B. so that",
+          "C. in order to",
+          "D. to"
+        ],
+        "answer": "B",
+        "explanation": "ส่วนที่ตามหลังเป็น clause ที่สมบูรณ์ (its employees can acquire...) ดังนั้นต้องใช้ 'so that'"
+      },
+      {
+        "question": "I'll give you a map __________ you won't get lost.",
+        "options": [
+          "A. in order not to",
+          "B. for",
+          "C. so that",
+          "D. to"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคตามหลัง (you won't get lost) เป็น clause ที่บอกจุดประสงค์เชิงปฏิเสธ จึงต้องใช้ 'so that'"
+      },
+      {
+        "question": "Many people exercise regularly __________ maintain good health.",
+        "options": [
+          "A. so that",
+          "B. for",
+          "C. to",
+          "D. so"
+        ],
+        "answer": "C",
+        "explanation": "'to' + infinitive (maintain) เป็นวิธีที่ธรรมดาและถูกต้องที่สุดในการบอกเหตุผลหรือจุดประสงค์ของการออกกำลังกาย"
+      },
+      {
+        "question": "The presentation was simplified __________ everyone could understand it.",
+        "options": [
+          "A. to",
+          "B. in order to",
+          "C. for",
+          "D. so that"
+        ],
+        "answer": "D",
+        "explanation": "ประธานของประโยคหลัก (The presentation) และประโยคย่อย (everyone) เป็นคนละกลุ่มกัน และส่วนที่ตามมาเป็น clause (everyone could understand...) จึงต้องใช้ 'so that'"
+      },
+      {
+        "question": "She wore sunglasses __________ protect her eyes from the sun.",
+        "options": [
+          "A. so that to",
+          "B. for to",
+          "C. in order to",
+          "D. so that she will"
+        ],
+        "answer": "C",
+        "explanation": "'in order to' ตามด้วย infinitive (protect) เป็นการบอกจุดประสงค์ที่ชัดเจน D ก็เป็นไปได้ แต่ประโยคจะยาวกว่าและไม่จำเป็นในบริบทนี้"
+      },
+      {
+        "question": "He woke up early __________ he wouldn't be late for the interview.",
+        "options": [
+          "A. to",
+          "B. so that",
+          "C. in order not to",
+          "D. for"
+        ],
+        "answer": "B",
+        "explanation": "ส่วนที่ตามมาเป็น clause (he wouldn't be late...) ต้องใช้ 'so that' เพื่อเชื่อม อีกทางเลือกคือ 'He woke up early in order not to be late...'"
+      },
+      {
+        "question": "A thermometer is an instrument __________ measuring temperature.",
+        "options": [
+          "A. to",
+          "B. for",
+          "C. so that",
+          "D. in order"
+        ],
+        "answer": "B",
+        "explanation": "เราใช้ 'for' + gerund (-ing) เพื่ออธิบายหน้าที่ของเครื่องมือหรือสิ่งของ"
+      },
+      {
+        "question": "He is on a diet __________ lose weight before the wedding.",
+        "options": [
+          "A. to",
+          "B. for",
+          "C. so that he",
+          "D. so"
+        ],
+        "answer": "A",
+        "explanation": "'to' + infinitive (lose) เป็นวิธีที่ตรงไปตรงมาที่สุดในการบอกจุดประสงค์ของการไดเอท"
+      },
+      {
+        "question": "Leave the key with the neighbor __________ they can water the plants while you're away.",
+        "options": [
+          "A. in order to",
+          "B. so that",
+          "C. for",
+          "D. to"
+        ],
+        "answer": "B",
+        "explanation": "ประธานของ 2 ประโยคต่างกัน (You/The neighbor) และส่วนที่สองเป็น clause (they can water...) ดังนั้น 'so that' จึงเหมาะสมที่สุด"
+      },
+      {
+        "question": "We whispered __________ disturb the people sleeping in the next room.",
+        "options": [
+          "A. so that not",
+          "B. for not to",
+          "C. in order not to",
+          "D. to not"
+        ],
+        "answer": "C",
+        "explanation": "'in order not to' เป็นโครงสร้างที่ถูกต้องสำหรับจุดประสงค์เชิงปฏิเสธ และตามด้วย infinitive (disturb)"
+      },
+      {
+        "question": "The artist uses bright colors __________ create a cheerful atmosphere.",
+        "options": [
+          "A. to",
+          "B. so he",
+          "C. for",
+          "D. in order for"
+        ],
+        "answer": "A",
+        "explanation": "'to' + infinitive (create) เป็นวิธีที่ง่ายและเป็นธรรมชาติที่สุดในการบอกจุดประสงค์ของการกระทำ"
+      },
+      {
+        "question": "You should write down your password __________ you forget it.",
+        "options": [
+          "A. for not",
+          "B. in case",
+          "C. so as not to",
+          "D. in order to"
+        ],
+        "answer": "B",
+        "explanation": "ข้อนี้เป็นข้อหลอก 'in case' (เผื่อว่า) ใช้เพื่อพูดถึงการเตรียมการป้องกันบางอย่างที่อาจเกิดขึ้น ซึ่งต่างจาก 'so that' ที่บอกจุดประสงค์โดยตรง ในบริบทนี้ 'in case' เหมาะสมกว่า 'เผื่อว่าคุณจะลืม'"
+      },
+      {
+        "question": "They are installing security cameras __________ deter criminals.",
+        "options": [
+          "A. for deterring",
+          "B. so that deter",
+          "C. in order to",
+          "D. for to deter"
+        ],
+        "answer": "C",
+        "explanation": "'in order to' + infinitive (deter) เป็นวิธีที่เหมาะสมในการบอกจุดประสงค์ของการติดตั้งกล้อง A ก็เป็นไปได้ แต่ C เป็นที่นิยมกว่า"
+      },
+      {
+        "question": "A firewall is used __________ unauthorized access to a network.",
+        "options": [
+          "A. for prevent",
+          "B. to preventing",
+          "C. to prevent",
+          "D. so that prevent"
+        ],
+        "answer": "C",
+        "explanation": "โครงสร้าง 'is used to + verb 1' เป็นวิธีทั่วไปในการบอกหน้าที่ของสิ่งของ อีกโครงสร้างคือ 'is used for + verb-ing' ซึ่งไม่มีในตัวเลือก"
+      },
+      {
+        "question": "I sent her a reminder __________ she wouldn't miss the deadline.",
+        "options": [
+          "A. to",
+          "B. in order to",
+          "C. so that",
+          "D. for"
+        ],
+        "answer": "C",
+        "explanation": "ส่วนที่ตามหลังเป็น clause (she wouldn't miss...) ที่มีประธานและกริยาของตัวเอง จึงต้องใช้ 'so that' ในการเชื่อม"
+      },
+      {
+        "question": "She's wearing high-visibility clothing __________ drivers can see her easily at night.",
+        "options": [
+          "A. for",
+          "B. so that",
+          "C. in order to",
+          "D. to"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคบอกจุดประสงค์มีประธานใหม่ (drivers) และเป็น clause (drivers can see her...) ดังนั้น 'so that' จึงเป็นคำตอบที่ถูกต้อง"
+      },
+      {
+        "question": "He joined a gym __________ get in shape.",
+        "options": [
+          "A. for to",
+          "B. so that",
+          "C. to",
+          "D. for getting"
+        ],
+        "answer": "C",
+        "explanation": "'to' + infinitive (get) เป็นวิธีที่ตรงไปตรงมาและใช้บ่อยที่สุดในการบอกจุดประสงค์"
+      },
+      {
+        "question": "The conference was postponed __________ more people could attend.",
+        "options": [
+          "A. in order that",
+          "B. to",
+          "C. for",
+          "D. in order to"
+        ],
+        "answer": "A",
+        "explanation": "'in order that' ก็เหมือนกับ 'so that' คือตามด้วย clause (more people could attend) และใช้เพื่อบอกจุดประสงค์"
+      },
+      {
+        "question": "Please take off your shoes __________ damage the new carpet.",
+        "options": [
+          "A. so that not",
+          "B. so as not to",
+          "C. for not",
+          "D. to not"
+        ],
+        "answer": "B",
+        "explanation": "'so as not to' เป็นโครงสร้างปฏิเสธที่ถูกต้องเพื่อบอกจุดประสงค์ และตามด้วย infinitive (damage)"
+      },
+      {
+        "question": "We need to hire more staff __________ handle the increased workload.",
+        "options": [
+          "A. for handling",
+          "B. so that can",
+          "C. in order to",
+          "D. for to"
+        ],
+        "answer": "C",
+        "explanation": "'in order to' ตามด้วย infinitive (handle) เพื่อบอกจุดประสงค์ของการจ้างพนักงานเพิ่ม"
+      },
+      {
+        "question": "A dictionary is a useful tool __________ looking up new words.",
+        "options": [
+          "A. to",
+          "B. so that",
+          "C. for",
+          "D. in order"
+        ],
+        "answer": "C",
+        "explanation": "'for' + gerund (-ing) ใช้อธิบายประโยชน์หรือหน้าที่ของสิ่งของ"
+      },
+      {
+        "question": "I'll call you later tonight __________ we can discuss the plan in detail.",
+        "options": [
+          "A. to",
+          "B. in order to",
+          "C. for",
+          "D. so that"
+        ],
+        "answer": "D",
+        "explanation": "ส่วนที่ตามหลังเป็น clause (we can discuss...) จึงต้องใช้ 'so that' เพื่อเชื่อมประโยค"
+      },
+      {
+        "question": "The company offers flexible working hours __________ employees can achieve a better work-life balance.",
+        "options": [
+          "A. for",
+          "B. in order to",
+          "C. to",
+          "D. so that"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคบอกจุดประสงค์มีประธานของตัวเอง (employees) และเป็น clause ดังนั้น 'so that' จึงเป็นตัวเชื่อมที่ถูกต้อง"
+      },
+      {
+        "question": "She set three alarms __________ she wouldn't oversleep.",
+        "options": [
+          "A. for not",
+          "B. in order not to",
+          "C. so that",
+          "D. to not"
+        ],
+        "answer": "C",
+        "explanation": "ส่วนที่ตามมาเป็น clause ปฏิเสธ (she wouldn't oversleep) ดังนั้นต้องใช้ 'so that' ในขณะที่ 'in order not to' จะต้องตามด้วย verb เช่น 'in order not to oversleep'"
+      },
+      {
+        "question": "He's taking a cooking class __________ how to make Italian food.",
+        "options": [
+          "A. for learning",
+          "B. so that to learn",
+          "C. in order to learn",
+          "D. for to learn"
+        ],
+        "answer": "C",
+        "explanation": "'in order to' ตามด้วย infinitive (learn) เป็นวิธีที่ถูกต้องและชัดเจนในการบอกจุดประสงค์ของการเรียน"
+      },
+      {
+        "question": "They moved to a bigger house __________ they would have more space for their children.",
+        "options": [
+          "A. to",
+          "B. in order to",
+          "C. so that",
+          "D. for"
+        ],
+        "answer": "C",
+        "explanation": "ส่วนที่ตามหลังช่องว่างเป็น clause (they would have more space) จึงต้องใช้ 'so that' เพื่อบอกจุดประสงค์"
+      },
+      {
+        "question": "The teacher explained the concept again __________ any confusion.",
+        "options": [
+          "A. to avoid",
+          "B. for avoiding",
+          "C. so that avoiding",
+          "D. so as to not"
+        ],
+        "answer": "A",
+        "explanation": "'to' + infinitive (avoid) เป็นวิธีที่กระชับและถูกต้องที่สุดในการบอกจุดประสงค์ของการอธิบายซ้ำ"
+      },
+      {
+        "question": "You need a password __________ access this secure website.",
+        "options": [
+          "A. for",
+          "B. in order to",
+          "C. so that",
+          "D. for to"
+        ],
+        "answer": "B",
+        "explanation": "'in order to' ตามด้วย infinitive (access) เป็นวิธีที่ถูกต้องในการบอกความจำเป็นหรือจุดประสงค์"
+      },
+      {
+        "question": "The city is building more bike lanes __________ encourage cycling.",
+        "options": [
+          "A. for encouraging",
+          "B. to",
+          "C. so that",
+          "D. for to"
+        ],
+        "answer": "B",
+        "explanation": "'to' + infinitive (encourage) เป็นวิธีที่ง่ายและเป็นธรรมชาติที่สุดเพื่อบอกจุดประสงค์ของการสร้างเลนจักรยาน"
+      },
+      {
+        "question": "We bought some extra food __________ our guests arrived hungry.",
+        "options": [
+          "A. in case",
+          "B. so that",
+          "C. in order to",
+          "D. to"
+        ],
+        "answer": "A",
+        "explanation": "'in case' (เผื่อว่า) ใช้เพื่อบอกการเตรียมการสำหรับความเป็นไปได้ในอนาคต ซึ่งเหมาะสมกับบริบทนี้มากกว่า 'so that' (เพื่อที่ว่า)"
+      },
+      {
+        "question": "He lowered his voice __________ no one else could hear their conversation.",
+        "options": [
+          "A. in order to",
+          "B. to",
+          "C. for",
+          "D. so that"
+        ],
+        "answer": "D",
+        "explanation": "ส่วนที่ตามหลังเป็น clause (no one else could hear...) ที่มีประธานของตัวเอง ดังนั้นจึงต้องใช้ 'so that'"
+      },
+      {
+        "question": "I always keep a fire extinguisher in my kitchen __________ emergencies.",
+        "options": [
+          "A. to",
+          "B. for",
+          "C. in order to",
+          "D. so that"
+        ],
+        "answer": "B",
+        "explanation": "'for' + noun (emergencies) ใช้เพื่อบอกวัตถุประสงค์หรือสถานการณ์ที่สิ่งของนั้นมีไว้สำหรับ"
+      },
+      {
+        "question": "She practiced her speech several times __________ feel more confident.",
+        "options": [
+          "A. so that to",
+          "B. for",
+          "C. in order to",
+          "D. so that she"
+        ],
+        "answer": "C",
+        "explanation": "'in order to' ตามด้วย infinitive (feel) เป็นวิธีที่ถูกต้องและชัดเจนในการบอกจุดประสงค์ของการฝึกซ้อม"
+      },
+      {
+        "question": "The company invested in new technology __________ it could stay competitive.",
+        "options": [
+          "A. to",
+          "B. so that",
+          "C. for",
+          "D. in order"
+        ],
+        "answer": "B",
+        "explanation": "ส่วนที่ตามหลังเป็น clause (it could stay competitive) ดังนั้นจึงต้องใช้ 'so that'"
+      },
+      {
+        "question": "Check your work carefully __________ make any silly mistakes.",
+        "options": [
+          "A. so that not",
+          "B. in order not to",
+          "C. for not to",
+          "D. to don't"
+        ],
+        "answer": "B",
+        "explanation": "'in order not to' เป็นโครงสร้างที่ถูกต้องสำหรับจุดประสงค์เชิงปฏิเสธ และตามด้วย infinitive (make)"
+      },
+      {
+        "question": "He's saving up __________ he can travel around Europe next summer.",
+        "options": [
+          "A. for",
+          "B. to",
+          "C. so that",
+          "D. because"
+        ],
+        "answer": "C",
+        "explanation": "ส่วนที่ตามมาคือ clause (he can travel...) ซึ่งบอกจุดประสงค์ของการเก็บเงิน จึงต้องใช้ 'so that'"
+      },
+      {
+        "question": "This software has a feature __________ organizing your files automatically.",
+        "options": [
+          "A. to",
+          "B. so that",
+          "C. for",
+          "D. in order"
+        ],
+        "answer": "C",
+        "explanation": "'for' + gerund (-ing) ใช้เพื่ออธิบายหน้าที่หรือคุณสมบัติของสิ่งของ (the feature)"
+      },
+      {
+        "question": "She double-checked the address __________ she wouldn't send the package to the wrong place.",
+        "options": [
+          "A. to",
+          "B. for",
+          "C. in order that",
+          "D. in order to"
+        ],
+        "answer": "C",
+        "explanation": "'in order that' หรือ 'so that' ใช้เชื่อมกับ clause (she wouldn't send...) เพื่อบอกจุดประสงค์"
+      },
+      {
+        "question": "The team collaborated closely __________ ensure the project's success.",
+        "options": [
+          "A. for ensure",
+          "B. so that to ensure",
+          "C. to",
+          "D. for ensuring"
+        ],
+        "answer": "C",
+        "explanation": "'to' + infinitive (ensure) เป็นวิธีที่กระชับและเป็นธรรมชาติที่สุดในบริบทนี้"
+      }
+    ]
+  }
+]

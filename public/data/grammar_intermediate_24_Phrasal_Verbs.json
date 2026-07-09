@@ -1,0 +1,1014 @@
+[
+  {
+    "id": "24_1",
+    "title": "24.1 Separable Phrasal Verbs (แยกกริยากับบุพบทได้)",
+    "explanation": "Separable Phrasal Verbs คือ กริยาวลีที่ประกอบด้วย 'กริยา (Verb) + บุพบท/คำวิเศษณ์ (Particle)' ซึ่งเราสามารถนำกรรม (Object) ไปวางคั่นกลางระหว่าง Verb กับ Particle ได้\n\nโครงสร้างที่เป็นไปได้มี 2 รูปแบบ:\n1. Verb + Particle + Object (ไม่แยก)\n   - He turned down the job offer. (เขาปฏิเสธข้อเสนองาน)\n2. Verb + Object + Particle (แยก)\n   - He turned the job offer down. (เขาปฏิเสธข้อเสนองาน)\n\nทั้งสองประโยคนี้มีความหมายเหมือนกันและถูกต้องทั้งคู่\n\n**กฎเหล็กที่สำคัญที่สุด (CRITICAL RULE):**\nถ้่ากรรม (Object) เป็นคำสรรพนาม (Pronoun) เช่น me, you, him, her, it, us, them เรา **ต้อง** นำกรรมนั้นไปวางคั่นกลางเสมอ จะวางไว้ข้างหลังสุดไม่ได้เด็ดขาด\n\nตัวอย่าง:\n- ถูกต้อง: He turned it down. (เขาปฏิเสธมัน)\n- ผิด: He turned down it. (ประโยคนี้ผิดหลักไวยากรณ์อย่างรุนแรง)\n\n**ข้อควรพิจารณาเพิ่มเติม:**\nโดยทั่วไป หากกรรม (Object) เป็นคำนามที่ยาวหรือมีส่วนขยายเยอะๆ ผู้พูดมักจะเลือกใช้โครงสร้างแบบ 'ไม่แยก' (Verb + Particle + Object) เพื่อให้ประโยคฟังดูเป็นธรรมชาติและเข้าใจง่ายกว่า\n- เช่น 'She picked up the beautiful, antique vase from the floor.' ฟังดูดีกว่า 'She picked the beautiful, antique vase up from the floor.'",
+    "examples": [
+      {
+        "eng": "Could you please fill out this application form?",
+        "thai": "คุณช่วยกรอกแบบฟอร์มใบสมัครนี้ได้ไหม? (ไม่แยก: Object คือ 'this application form')"
+      },
+      {
+        "eng": "Could you please fill this application form out?",
+        "thai": "คุณช่วยกรอกแบบฟอร์มใบสมัครนี้ได้ไหม? (แยก: Object คือ 'this application form' มาอยู่ตรงกลาง)"
+      },
+      {
+        "eng": "It's just a form. Can you fill it out quickly?",
+        "thai": "มันก็แค่ฟอร์มเอง คุณช่วยกรอกมันเร็วๆ ได้ไหม? (ต้องแยก: เพราะ Object คือ 'it' ซึ่งเป็น Pronoun)"
+      },
+      {
+        "eng": "I need to drop my sister off at the airport.",
+        "thai": "ฉันต้องไปส่งน้องสาวที่สนามบิน (แยก: 'my sister' เป็นกรรม)"
+      },
+      {
+        "eng": "Before you enter the house, please take your shoes off.",
+        "thai": "ก่อนเข้าบ้าน กรุณาถอดรองเท้าของคุณออกด้วย (แยก: 'your shoes' เป็นกรรม)"
+      },
+      {
+        "eng": "The noise was distracting, so I had to shut it out to concentrate.",
+        "thai": "เสียงนั้นรบกวนสมาธิมาก ฉันจึงต้องตัดมันออกไปเพื่อที่จะมีสมาธิ (ต้องแยก: 'it' เป็น Pronoun)"
+      }
+    ],
+    "common_mistakes": "ข้อผิดพลาดที่คนไทยทำบ่อยที่สุดและเป็นข้อผิดพลาดที่ร้ายแรงคือ **การวาง Pronoun (it, them, him, her, etc.) ไว้หลัง Particle**\n\nคนไทยมักจะคุ้นเคยกับโครงสร้าง 'กริยา + กรรม' แบบตรงตัว จึงอาจเผลอพูดหรือเขียนว่า:\n- \"I will pick up you at 7 PM.\" (ผิด)\n- ที่ถูกต้องคือ: \"I will pick you up at 7 PM.\" (ฉันจะไปรับคุณตอน 1 ทุ่ม)\n\n- \"Please throw away it.\" (ผิด)\n- ที่ถูกต้องคือ: \"Please throw it away.\" (กรุณาทิ้งมันไป)\n\nจำไว้เสมอว่า 'Verb + Pronoun + Particle' เป็นโครงสร้างที่ตายตัวและบังคับใช้เสมอสำหรับ Separable Phrasal Verbs ครับ",
+    "practice_questions": [
+      {
+        "question": "The negotiations were difficult, but we finally managed to ______.",
+        "options": [
+          "A. sort them out",
+          "B. sort out them",
+          "C. out sort them",
+          "D. sort out"
+        ],
+        "answer": "A",
+        "explanation": "คำตอบที่ถูกต้องคือ A. sort them out เพราะกรรม (Object) ในที่นี้คือ 'the negotiations' ซึ่งถูกแทนด้วย Pronoun 'them' ตามกฎ จะต้องวาง Pronoun ไว้ระหว่าง Verb (sort) และ Particle (out) เสมอ ข้อ B. 'sort out them' ผิดหลักไวยากรณ์"
+      },
+      {
+        "question": "Your room is a mess! Please ______ before your grandparents arrive.",
+        "options": [
+          "A. tidy up it",
+          "B. it tidy up",
+          "C. tidy it up",
+          "D. up tidy it"
+        ],
+        "answer": "C",
+        "explanation": "คำตอบที่ถูกต้องคือ C. tidy it up เนื่องจาก 'it' เป็น Pronoun ที่ใช้แทน 'Your room' จึงต้องวางไว้ตรงกลางระหว่างกริยา 'tidy' และ Particle 'up' เท่านั้น"
+      },
+      {
+        "question": "I don't understand this legal document. Could you ______ for me?",
+        "options": [
+          "A. break down it",
+          "B. break it down",
+          "C. down break it",
+          "D. break down"
+        ],
+        "answer": "B",
+        "explanation": "Phrasal verb 'break down' ในบริบทนี้แปลว่า 'อธิบายเป็นส่วนๆ ให้เข้าใจง่าย' กรรมคือ 'this legal document' ซึ่งแทนด้วย Pronoun 'it' ดังนั้นจึงต้องใช้โครงสร้าง Verb + Pronoun + Particle เป็น 'break it down'"
+      },
+      {
+        "question": "They offered him a promotion, but he ______ because he didn't want to relocate.",
+        "options": [
+          "A. turned down it",
+          "B. turned it down",
+          "C. it turned down",
+          "D. down turned it"
+        ],
+        "answer": "B",
+        "explanation": "คำตอบที่ถูกต้องคือ B. turned it down เพราะ 'it' ซึ่งแทน 'a promotion' เป็น Pronoun และต้องวางไว้คั่นกลางระหว่าง 'turned' และ 'down' เท่านั้น ข้อ A. 'turned down it' เป็นข้อผิดพลาดที่พบบ่อย"
+      },
+      {
+        "question": "Which of the following sentences is grammatically INCORRECT?",
+        "options": [
+          "A. She decided to call the wedding off.",
+          "B. She decided to call off the wedding.",
+          "C. She decided to call it off.",
+          "D. She decided to call off it."
+        ],
+        "answer": "D",
+        "explanation": "ประโยคที่ผิดหลักไวยากรณ์คือ D. She decided to call off it. เพราะเมื่อใช้ Pronoun 'it' แทน 'the wedding' จะต้องวางไว้ตรงกลางเท่านั้น (call it off) ส่วนข้อ A และ B ถูกต้องทั้งคู่เพราะกรรมเป็นคำนาม (the wedding) จึงวางไว้ตรงกลางหรือข้างหลังก็ได้"
+      },
+      {
+        "question": "He kept mentioning his new car, but I didn't want to ______ in front of everyone.",
+        "options": [
+          "A. bring up it",
+          "B. bring it up",
+          "C. bring up the topic",
+          "D. Both B and C are correct"
+        ],
+        "answer": "D",
+        "explanation": "คำตอบที่ถูกต้องคือ D เพราะทั้ง B และ C สามารถใช้ได้และถูกต้องตามหลักไวยากรณ์ B. 'bring it up' ใช้ Pronoun 'it' แทน 'his new car' หรือ 'the topic' ซึ่งต้องวางไว้ตรงกลาง C. 'bring up the topic' ใช้คำนาม 'the topic' เป็นกรรม ซึ่งสามารถวางไว้หลัง Particle ได้"
+      },
+      {
+        "question": "Don't just discard that report. I need you to ______ and find the key statistics.",
+        "options": [
+          "A. look it over",
+          "B. look over it",
+          "C. over look it",
+          "D. it look over"
+        ],
+        "answer": "A",
+        "explanation": "Phrasal verb 'look over' หมายถึง 'ตรวจสอบหรือดูคร่าวๆ' กรรมในที่นี้คือ 'that report' ซึ่งถูกแทนด้วย 'it' ดังนั้นจึงต้องอยู่ในรูป 'look it over' เท่านั้น"
+      },
+      {
+        "question": "I'm counting on you to complete this project. Please don't ______.",
+        "options": [
+          "A. let down me",
+          "B. me let down",
+          "C. let me down",
+          "D. down let me"
+        ],
+        "answer": "C",
+        "explanation": "คำตอบที่ถูกต้องคือ C. let me down เพราะ 'me' เป็น Object Pronoun จึงต้องวางไว้ระหว่าง Verb 'let' และ Particle 'down' เสมอ"
+      },
+      {
+        "question": "I can't believe he ______ such a fantastic business opportunity.",
+        "options": [
+          "A. passed up",
+          "B. passed it up",
+          "C. passed up it",
+          "D. up passed it"
+        ],
+        "answer": "B",
+        "explanation": "กรรมคือ 'such a fantastic business opportunity' ซึ่งแทนด้วย Pronoun 'it' กริยาวลี 'pass up' แปลว่า 'ปล่อยโอกาสให้หลุดลอยไป' จึงต้องใช้ในรูป 'passed it up'"
+      },
+      {
+        "question": "If you have any old clothes you don't wear, you should ______ to charity.",
+        "options": [
+          "A. give them away",
+          "B. give away them",
+          "C. away give them",
+          "D. give away"
+        ],
+        "answer": "A",
+        "explanation": "กรรมคือ 'any old clothes' ซึ่งเป็นพหูพจน์ จึงใช้ Pronoun 'them' แทน ตามกฎ จะต้องวาง 'them' ไว้ระหว่าง Verb 'give' และ Particle 'away' เป็น 'give them away'"
+      }
+    ]
+  },
+  {
+    "id": "24_2",
+    "title": "24.2 Inseparable Phrasal Verbs (ห้ามแยกกริยากับบุพบท)",
+    "explanation": "Inseparable Phrasal Verbs คือ กริยาวลีที่ Verb (คำกริยา) และ Particle (คำบุพบท/คำกริยาวิเศษณ์) จะต้องอยู่ติดกันเสมอ 'ห้ามแยกออกจากกัน' โดยเด็ดขาด ไม่ว่ากรรม (Object) ของประโยคจะเป็นคำนามทั่วไปหรือคำสรรพนาม (pronoun) ก็ตาม\n\nโครงสร้างที่ถูกต้องคือ:\nSubject + Phrasal Verb (ติดกัน) + Object\n\nตัวอย่าง:\n- I will **look after** *the children*. (ถูกต้อง)\n- I will **look** *the children* **after**. (ผิด)\n\nข้อแตกต่างสำคัญจาก Separable Phrasal Verbs คือ แม้กรรมจะเป็น Pronoun (him, her, it, them) ก็ต้องวางไว้ 'ข้างหลัง' Phrasal Verb เท่านั้น\n- She will **look after** *him*. (ถูกต้อง)\n- She will **look** *him* **after**. (ผิดอย่างร้ายแรง)\n\nสรุปง่ายๆ คือ ไม่ว่าอะไรจะเกิดขึ้น Verb กับ Particle ของ Phrasal Verb กลุ่มนี้ จะต้องอยู่เคียงข้างกันเสมอเหมือนเป็นคำคำเดียวกันครับ",
+    "examples": [
+      {
+        "eng": "It took her several months to **get over** the breakup with her long-term partner.",
+        "thai": "เธอใช้เวลาหลายเดือนกว่าจะทำใจ/ฟื้นตัวจากการเลิกรากับแฟนที่คบกันมานาน (get over = ฟื้นตัวจาก, ทำใจเรื่อง... ต้องอยู่ติดกันเสมอ จะพูดว่า 'get the breakup over' ไม่ได้)"
+      },
+      {
+        "eng": "While exploring the antique shop, I **came across** a first-edition copy of my favorite novel.",
+        "thai": "ขณะที่กำลังเดินดูของในร้านขายของเก่า ผมบังเอิญไปเจอหนังสือเล่มโปรดฉบับพิมพ์ครั้งแรก (come across = เจอโดยบังเอิญ จะไม่พูดว่า 'came a copy across')"
+      },
+      {
+        "eng": "As the project manager, you must **deal with** unexpected challenges and demanding clients.",
+        "thai": "ในฐานะผู้จัดการโครงการ คุณต้องรับมือกับความท้าทายที่ไม่คาดคิดและลูกค้าที่เรียกร้องเยอะ (deal with = รับมือ, จัดการกับ... สองคำนี้ต้องมาคู่กันเสมอ)"
+      },
+      {
+        "eng": "I **ran into** my former boss at a conference in Singapore; it was quite a surprise.",
+        "thai": "ฉันบังเอิญเจอเจ้านายเก่าที่งานประชุมที่สิงคโปร์ มันน่าประหลาดใจมาก (run into = เจอโดยบังเอิญ ไม่สามารถพูดว่า 'ran my former boss into' ได้)"
+      },
+      {
+        "eng": "I don't know who will win the election; it will all **depend on** the turnout of young voters.",
+        "thai": "ฉันไม่รู้ว่าใครจะชนะการเลือกตั้ง ทุกอย่างมันขึ้นอยู่กับจำนวนผู้ออกมาใช้สิทธิ์ของกลุ่มผู้มีสิทธิ์เลือกตั้งวัยหนุ่มสาว (depend on = ขึ้นอยู่กับ... ต้องตามด้วยกรรมเสมอ)"
+      }
+    ],
+    "common_mistakes": "ข้อผิดพลาดที่คนไทยเจอบ่อยที่สุดคือการพยายามแยก Verb กับ Particle ออกจากกัน เพราะคุ้นชินกับ Separable Phrasal Verbs โดยเฉพาะอย่างยิ่งเมื่อกรรม (Object) เป็นคำนามยาวๆ หรือเป็นคำสรรพนาม (pronoun)\n\n1.  **พยายามแยกเมื่อกรรมเป็นคำนาม:**\n    - ผิด: The babysitter **looks** *the energetic children* **after**.\n    - ถูก: The babysitter **looks after** *the energetic children*.\n    (ไม่ว่ากรรมจะยาวแค่ไหน look after ก็ต้องอยู่ติดกัน)\n\n2.  **พยายามแยกเมื่อกรรมเป็น Pronoun:**\n    - ผิด: He is sick. We need to **look** *him* **after**.\n    - ถูก: He is sick. We need to **look after** *him*.\n    (นี่คือจุดที่ตรงกันข้ามกับ Separable Phrasal Verbs ซึ่งบังคับให้เอา pronoun ไว้ตรงกลาง แต่สำหรับ Inseparable Phrasal Verbs ต้องเอา pronoun ไว้ข้างหลังเท่านั้น)\n\n3. **สับสนกับ Phrasal verb ที่หน้าตาคล้ายกัน:**\n   - บางครั้งผู้เรียนสับสน เช่น `go over` (ทบทวน) ซึ่งเป็น inseparable กับ `hand over` (ส่งมอบ) ซึ่งเป็น separable ทำให้ใช้ผิดประเภท",
+    "practice_questions": [
+      {
+        "question": "After the initial shock, the community had to find a way to ___ the consequences of the sudden economic downturn.",
+        "options": [
+          "A. deal with",
+          "B. deal the consequences with",
+          "C. with deal",
+          "D. deal for"
+        ],
+        "answer": "A",
+        "explanation": "'deal with' เป็น Inseparable Phrasal Verb แปลว่า 'รับมือกับ' หรือ 'จัดการกับ' ซึ่ง Verb (deal) และ Particle (with) ต้องอยู่ติดกันเสมอ ดังนั้นกรรม 'the consequences...' จึงต้องตามหลัง phrasal verb ทั้งชุด"
+      },
+      {
+        "question": "While sorting through her late grandmother's belongings, she ___ a collection of old, unpublished poems.",
+        "options": [
+          "A. came it across",
+          "B. came across",
+          "C. across came",
+          "D. came a collection across"
+        ],
+        "answer": "B",
+        "explanation": "'come across' เป็น Inseparable Phrasal Verb แปลว่า 'พบโดยบังเอิญ' Verb (came) และ Particle (across) ต้องอยู่ติดกันเสมอ และตามด้วยกรรม ไม่สามารถแยกกรรมไปไว้ตรงกลางได้"
+      },
+      {
+        "question": "I don't think I can attend the meeting tomorrow. Can I ___ you to take notes for me?",
+        "options": [
+          "A. count you on",
+          "B. on count",
+          "C. count on",
+          "D. count with"
+        ],
+        "answer": "C",
+        "explanation": "'count on' เป็น Inseparable Phrasal Verb แปลว่า 'พึ่งพา' หรือ 'ไว้วางใจ' ต้องอยู่ติดกันและตามด้วยกรรม (you) จึงเป็น 'count on you' ที่ถูกต้อง"
+      },
+      {
+        "question": "Despite his initial reservations, he eventually ___ his colleague's well-structured argument.",
+        "options": [
+          "A. agreed with",
+          "B. agreed his colleague's argument with",
+          "C. with agreed",
+          "D. agreed to with"
+        ],
+        "answer": "A",
+        "explanation": "'agree with' แปลว่า 'เห็นด้วยกับ' เป็น Inseparable Phrasal Verb ที่ต้องอยู่ติดกันเสมอ ไม่ว่ากรรม ('his colleague's well-structured argument') จะยาวแค่ไหนก็ตาม"
+      },
+      {
+        "question": "It took the athlete a long time to ___ the disappointment of narrowly missing an Olympic medal.",
+        "options": [
+          "A. get it over",
+          "B. get over it",
+          "C. get the disappointment over",
+          "D. get over"
+        ],
+        "answer": "D",
+        "explanation": "'get over' แปลว่า 'ทำใจ' หรือ 'ฟื้นตัวจาก' เป็น Inseparable Phrasal Verb ที่ต้องอยู่ติดกันและตามด้วยกรรม ในที่นี้กรรมคือ 'the disappointment...' ซึ่งมาต่อท้ายอย่างถูกต้องตามโครงสร้าง 'get over + object'"
+      },
+      {
+        "question": "Could you please ___ my plants while I am away on a business trip for two weeks?",
+        "options": [
+          "A. look them after",
+          "B. look after",
+          "C. look my plants after",
+          "D. after look"
+        ],
+        "answer": "B",
+        "explanation": "'look after' (ดูแล) เป็น Inseparable Phrasal Verb ซึ่งต้องอยู่ติดกันเสมอ ไม่สามารถแยกเอา 'my plants' ไปไว้ตรงกลางได้ รูปประโยคที่ถูกต้องคือ 'look after my plants'"
+      },
+      {
+        "question": "I was just walking down the street when I ___ my elementary school teacher whom I hadn't seen in twenty years.",
+        "options": [
+          "A. ran my teacher into",
+          "B. into ran",
+          "C. ran into",
+          "D. ran over"
+        ],
+        "answer": "C",
+        "explanation": "'run into' แปลว่า 'พบโดยบังเอิญ' เป็น Inseparable Phrasal Verb ที่ต้องอยู่ติดกันและตามด้วยกรรม ('my elementary school teacher') ไม่สามารถแยกออกจากกันได้ ส่วน 'run over' แปลว่าขับรถทับ ซึ่งผิดความหมาย"
+      },
+      {
+        "question": "The success of this international project will largely ___ the cooperation between the different teams.",
+        "options": [
+          "A. depend the cooperation on",
+          "B. on depend",
+          "C. depend with",
+          "D. depend on"
+        ],
+        "answer": "D",
+        "explanation": "'depend on' (ขึ้นอยู่กับ) เป็น Inseparable Phrasal Verb ที่ต้องใช้คู่กันเสมอและตามด้วยกรรม ดังนั้น 'depend on the cooperation...' จึงเป็นโครงสร้างที่ถูกต้อง"
+      },
+      {
+        "question": "He does not ___ any kind of injustice and always speaks up for what he believes is right.",
+        "options": [
+          "A. stand it for",
+          "B. stand for",
+          "C. for stand",
+          "D. stand with"
+        ],
+        "answer": "B",
+        "explanation": "ในบริบทนี้ 'stand for' หมายถึง 'ทนต่อ' หรือ 'ยอมรับ' (มักใช้ในประโยคปฏิเสธ) เป็น Inseparable Phrasal Verb ที่ต้องอยู่ติดกันเสมอ ไม่สามารถแยกเอา 'any kind of injustice' มาคั่นกลางได้"
+      },
+      {
+        "question": "Before submitting the final report, we should ___ it one last time to check for any errors.",
+        "options": [
+          "A. go over",
+          "B. go it over",
+          "C. over go",
+          "D. go through over"
+        ],
+        "answer": "A",
+        "explanation": "'go over' แปลว่า 'ทบทวน' หรือ 'ตรวจสอบอย่างละเอียด' เป็น Inseparable Phrasal Verb ที่ต้องอยู่ติดกันและตามด้วยกรรม ('it') เสมอ ดังนั้นโครงสร้างที่ถูกต้องคือ 'go over it' ไม่ใช่ 'go it over'"
+      }
+    ]
+  },
+  {
+    "id": "24_3",
+    "title": "24.3 Three-word Phrasal Verbs (look forward to, put up with)",
+    "explanation": "Three-word Phrasal Verbs หรือ 'กริยาวลีสามคำ' คือกริยาวลีที่ประกอบด้วยส่วนประกอบ 3 ส่วน คือ Verb + Particle 1 + Particle 2 (โดย Particle มักจะเป็น Adverb หรือ Preposition) ทำหน้าที่ร่วมกันเป็นหน่วยความหมายเดียว ซึ่งความหมายมักจะแตกต่างจากความหมายเดิมของคำกริยานั้นๆ\n\n**โครงสร้างหลัก:**\nVerb + Adverb/Preposition + Preposition\nตัวอย่างเช่น:\n- put (Verb) + up (Particle) + with (Particle)\n- look (Verb) + forward (Particle) + to (Particle)\n\n**ลักษณะสำคัญ:**\n1.  **Inseparable (แยกไม่ได้):** ส่วนใหญ่แล้ว กริยาวลีสามคำจะไม่สามารถแยกส่วนประกอบเพื่อนำกรรม (Object) มาแทรกตรงกลางได้ กรรมจะต้องตามหลังวลีทั้งสามคำเสมอ\n    - ถูกต้อง: I can't **put up with** the noise anymore.\n    - ผิด: I can't put the noise up with.\n\n2.  **Preposition กำหนดคำที่ตามมา:** Preposition ตัวสุดท้ายในวลีมีความสำคัญมาก เพราะมันจะกำหนดว่าคำที่ตามมาต้องอยู่ในรูปแบบใด โดยส่วนใหญ่แล้วจะต้องตามด้วยคำนาม (Noun) หรือ Gerund (V-ing)\n    - He **came up with** a brilliant idea (Noun).\n    - I'm **looking forward to** meeting (Gerund) you.",
+    "examples": [
+      {
+        "eng": "She had to **put up with** her noisy neighbours for years before she finally moved out.",
+        "thai": "เธอต้องทน (put up with) กับเพื่อนบ้านที่เสียงดังของเธอมาหลายปีก่อนที่เธอจะย้ายออกไปในที่สุด"
+      },
+      {
+        "eng": "We are all **looking forward to** collaborating with the new international team on this project.",
+        "thai": "เราทุกคนตั้งตารอคอย (looking forward to) ที่จะได้ร่วมมือกับทีมจากต่างประเทศทีมใหม่ในโปรเจกต์นี้"
+      },
+      {
+        "eng": "The marketing team needs to **come up with** an innovative campaign for the new product launch.",
+        "thai": "ทีมการตลาดต้องคิดค้น (come up with) แคมเปญที่สร้างสรรค์สำหรับการเปิดตัวผลิตภัณฑ์ใหม่"
+      },
+      {
+        "eng": "How do you **get on with** your colleagues in the new department? I hope they're friendly.",
+        "thai": "คุณเข้ากันได้ดี (get on with) กับเพื่อนร่วมงานในแผนกใหม่ของคุณไหม? ฉันหวังว่าพวกเขาจะเป็นมิตรนะ"
+      },
+      {
+        "eng": "It's unacceptable that he thinks he can **get away with** submitting plagiarized work.",
+        "thai": "มันเป็นเรื่องที่ยอมรับไม่ได้ที่เขาคิดว่าเขาสามารถลอยนวล (get away with) จากการส่งงานที่ลอกเลียนมาได้"
+      },
+      {
+        "eng": "If we don't manage our resources carefully, we're going to **run out of** funding before the year ends.",
+        "thai": "ถ้าเราไม่บริหารจัดการทรัพยากรของเราอย่างระมัดระวัง เราจะใช้เงินทุนหมด (run out of) ก่อนสิ้นปี"
+      },
+      {
+        "eng": "You've missed several classes; you'll have to work hard to **catch up with** the rest of the students.",
+        "thai": "เธอขาดเรียนไปหลายคาบ เธอจะต้องพยายามอย่างหนักเพื่อที่จะตาม (catch up with) นักเรียนคนอื่นๆ ให้ทัน"
+      }
+    ],
+    "common_mistakes": "**1. ใช้ Verb รูป infinitive (V.1) ตามหลัง 'to' ใน 'look forward to'**\nนี่คือข้อผิดพลาดที่พบบ่อยที่สุด! คนไทยคุ้นเคยกับ 'to' ที่นำหน้ากริยาช่อง 1 (to go, to eat) แต่ในวลี 'look forward to' คำว่า 'to' ทำหน้าที่เป็น Preposition ไม่ใช่ส่วนหนึ่งของ infinitive ดังนั้นคำที่ตามมาต้องเป็น Gerund (V-ing) หรือคำนามเสมอ\n- **ผิด:** I look forward to *see* you soon.\n- **ถูก:** I look forward to **seeing** you soon.\n- **ถูก:** I look forward to **the meeting** tomorrow.\n\n**2. พยายามแทรกกรรม (Object) ไว้ตรงกลางวลี**\nกริยาวลีสามคำส่วนใหญ่เป็นแบบ Inseparable คือแยกจากกันไม่ได้ ต้องอยู่ติดกันเสมอ\n- **ผิด:** He came a good idea up with.\n- **ถูก:** He **came up with** a good idea.\n\n**3. สับสนความหมายกับ Phrasal Verb ที่คล้ายกัน**\nบางครั้งการเติม preposition แค่ตัวเดียวก็เปลี่ยนความหมายไปเลย\n- **look up to** (someone) = เคารพ, ชื่นชม (I really look up to my mentor.)\n- **look down on** (someone) = ดูถูก (You shouldn't look down on people who are less fortunate.)",
+    "practice_questions": [
+      {
+        "question": "After months of planning, we are finally looking forward to ______ our new business strategy.",
+        "options": [
+          "A. implement",
+          "B. implementing",
+          "C. implemented",
+          "D. implementation"
+        ],
+        "answer": "B",
+        "explanation": "คำว่า 'to' ในวลี 'look forward to' เป็น preposition ดังนั้นต้องตามด้วย Gerund (V-ing) หรือ Noun. ในตัวเลือกนี้ 'implementing' เป็น Gerund ที่ถูกต้องตามหลักไวยากรณ์ ส่วน 'implementation' (Noun) ก็ใช้ได้ แต่ 'implementing' จะให้ความรู้สึกถึงการกระทำมากกว่าซึ่งเข้ากับบริบทนี้"
+      },
+      {
+        "question": "I don't know how you can ______ his rude behaviour every single day; I would have said something by now.",
+        "options": [
+          "A. put up with",
+          "B. get on with",
+          "C. come up with",
+          "D. look down on"
+        ],
+        "answer": "A",
+        "explanation": "'put up with' หมายถึง 'อดทนกับ' ซึ่งเข้ากับบริบทที่พูดถึงพฤติกรรมที่ไม่ดี (rude behaviour) มากที่สุด ส่วน 'get on with' (เข้ากันได้ดี), 'come up with' (คิดค้น), และ 'look down on' (ดูถูก) ไม่ตรงกับความหมายของประโยค"
+      },
+      {
+        "question": "The detective suspected the criminal might try to ______ the country, so he alerted all airports.",
+        "options": [
+          "A. run out of",
+          "B. get away from",
+          "C. get out of",
+          "D. make off with"
+        ],
+        "answer": "C",
+        "explanation": "'get out of' ในบริบทนี้หมายถึง 'หลบหนีออกจาก' (สถานที่) ซึ่งเหมาะสมที่สุด 'run out of' (หมด), 'get away from' (หนีจากบางสิ่ง แต่ get out of a country เป็นสำนวนที่ใช้บ่อยกว่า) 'make off with' (ขโมยบางสิ่งแล้วหนีไป)"
+      },
+      {
+        "question": "We need to ______ a more efficient way to manage our workflow; the current system is too slow.",
+        "options": [
+          "A. catch up with",
+          "B. come up with",
+          "C. look forward to",
+          "D. get away with"
+        ],
+        "answer": "B",
+        "explanation": "'come up with' หมายถึง 'คิดค้น, คิดขึ้นมา' ซึ่งเป็นความหมายที่ต้องการในประโยคนี้ ที่ต้องการหาวิธีการทำงาน (way to manage our workflow) ที่มีประสิทธิภาพมากขึ้น"
+      },
+      {
+        "question": "If you keep spending money so recklessly, you'll soon ______ your savings.",
+        "options": [
+          "A. run out of",
+          "B. cut down on",
+          "C. put up with",
+          "D. come up against"
+        ],
+        "answer": "A",
+        "explanation": "'run out of' หมายถึง 'ใช้...จนหมด' ในที่นี้คือใช้เงินเก็บจนหมด ซึ่งตรงกับบริบทของการใช้จ่ายอย่างไม่ระมัดระวัง (spending recklessly) ที่สุด"
+      },
+      {
+        "question": "It's important to ______ what you believe in, even if it's unpopular.",
+        "options": [
+          "A. stand up for",
+          "B. look up to",
+          "C. get on with",
+          "D. fall back on"
+        ],
+        "answer": "A",
+        "explanation": "'stand up for' หมายถึง 'ยืนหยัดเพื่อ, ปกป้อง' สิ่งที่คุณเชื่อ ซึ่งเข้ากับความหมายของประโยคที่ว่าให้ปกป้องความเชื่อของตนเองแม้จะไม่เป็นที่นิยมก็ตาม"
+      },
+      {
+        "question": "The manager told him that his performance was not good enough and that he needed to ______ his colleagues.",
+        "options": [
+          "A. look down on",
+          "B. catch up with",
+          "C. get away with",
+          "D. put up with"
+        ],
+        "answer": "B",
+        "explanation": "'catch up with' หมายถึง 'ตามให้ทัน' ซึ่งในบริบทนี้หมายถึงการพัฒนาผลงานให้ทัดเทียมกับเพื่อนร่วมงานคนอื่นๆ"
+      },
+      {
+        "question": "My doctor advised me to ______ sugary drinks to improve my health.",
+        "options": [
+          "A. run out of",
+          "B. get rid of",
+          "C. cut down on",
+          "D. go on with"
+        ],
+        "answer": "C",
+        "explanation": "'cut down on' หมายถึง 'ลดปริมาณ' การบริโภคบางสิ่ง ซึ่งเป็นคำแนะนำที่แพทย์มักจะให้เกี่ยวกับการปรับเปลี่ยนอาหารเพื่อสุขภาพ เช่น ลดเครื่องดื่มที่มีน้ำตาล"
+      },
+      {
+        "question": "Despite his privileged background, he never ______ people from less affluent families.",
+        "options": [
+          "A. looked up to",
+          "B. got on with",
+          "C. looked down on",
+          "D. came up with"
+        ],
+        "answer": "C",
+        "explanation": "'look down on' หมายถึง 'ดูถูก' ประโยคนี้มีความหมายว่า 'ถึงแม้เขาจะมีพื้นฐานครอบครัวที่ดี เขาก็ไม่เคยดูถูกคนจากครอบครัวที่ร่ำรวยน้อยกว่า' ซึ่งเป็นความหมายที่สมเหตุสมผลที่สุด"
+      },
+      {
+        "question": "When the project failed, she had no other plan to ______.",
+        "options": [
+          "A. fall back on",
+          "B. get away with",
+          "C. make up for",
+          "D. stand up for"
+        ],
+        "answer": "A",
+        "explanation": "'fall back on' หมายถึง 'มี...เป็นแผนสำรอง' หรือ 'พึ่งพา' ในยามที่แผนหลักล้มเหลว ประโยคนี้หมายความว่าเธอไม่มีแผนสำรองอื่นเลยเมื่อโปรเจกต์ล้มเหลว"
+      }
+    ]
+  },
+  {
+    "id": "24_4",
+    "title": "24.4 Summary: Phrasal Verbs (สรุปกริยาวลี + 50 Exercises)",
+    "explanation": "สรุปหัวใจสำคัญของ Phrasal Verbs (กริยาวลี) สำหรับผู้เรียนระดับกลาง (B1-B2)\n\n1.  **โครงสร้าง**: Verb + Particle(s) (คำกริยา + คำเสริม) โดย Particle อาจเป็น Adverb (กริยาวิเศษณ์) หรือ Preposition (คำบุพบท) เช่น `look up`, `get over`, `put up with`\n\n2.  **ความหมาย**: ส่วนใหญ่มีความหมายเชิงสำนวน (Idiomatic) คือไม่สามารถแปลตรงตัวได้ ต้องเรียนรู้และจำความหมายเฉพาะของมัน เช่น `run into` ไม่ได้แปลว่า 'วิ่งเข้าไปใน' แต่แปลว่า 'บังเอิญเจอ'\n\n3.  **ประเภท (ตามการมีกรรม)**:\n    *   **Transitive (สกรรมกริยา)**: ต้องมีกรรมมารองรับ เช่น `I turned off the light.` (กรรมคือ the light)\n    *   **Intransitive (อกรรมกริยา)**: ไม่ต้องมีกรรม ความหมายสมบูรณ์ในตัวเอง เช่น `My car broke down.`\n\n4.  **การแยกคำ (Separability)** - เฉพาะ Transitive Phrasal Verbs:\n    *   **Separable (แยกได้)**: เราสามารถวางกรรม (Noun) ไว้ระหว่าง Verb กับ Particle ได้ หรือจะวางไว้ข้างหลังก็ได้ แต่ถ้ากรรมเป็น Pronoun (it, them, him, her) **ต้อง**วางไว้ตรงกลางเท่านั้น!\n        *   `She turned down the offer.` (ถูกต้อง)\n        *   `She turned the offer down.` (ถูกต้อง)\n        *   `She turned it down.` (ถูกต้อง)\n        *   `She turned down it.` (ผิด!)\n    *   **Inseparable (แยกไม่ได้)**: ไม่สามารถวางกรรมไว้ตรงกลางได้ ต้องวางไว้ข้างหลังเสมอ\n        *   `I'm looking after my little sister.` (ถูกต้อง)\n        *   `I'm looking my little sister after.` (ผิด!)\n    *   **Three-word Phrasal Verbs**: กริยาวลีที่มี 3 คำ (Verb + Particle + Particle) มักจะแยกไม่ได้เสมอ เช่น `get along with`, `look forward to`, `put up with`",
+    "examples": [
+      {
+        "eng": "They had to put off the meeting until next Friday.",
+        "thai": "พวกเขาต้องเลื่อนการประชุมออกไปจนถึงวันศุกร์หน้า (put off เป็น Separable แต่เมื่อกรรม 'the meeting' ยาว มักจะวางไว้ข้างหลัง)"
+      },
+      {
+        "eng": "Don't forget to look after my plants while I'm away.",
+        "thai": "อย่าลืมดูแลต้นไม้ของฉันตอนที่ฉันไม่อยู่นะ (look after เป็น Inseparable แยกไม่ได้)"
+      },
+      {
+        "eng": "The new headphones I bought last week have already broken down.",
+        "thai": "หูฟังอันใหม่ที่ฉันซื้อเมื่อสัปดาห์ที่แล้วพังซะแล้ว (break down เป็น Intransitive ไม่ต้องการกรรม)"
+      },
+      {
+        "eng": "He turned the job offer down because the salary was too low.",
+        "thai": "เขาปฏิเสธข้อเสนองานเพราะเงินเดือนน้อยเกินไป (turn down เป็น Separable และกรรม 'the job offer' ถูกวางไว้ระหว่างกลางได้)"
+      },
+      {
+        "eng": "I can't believe he said that. I won't put up with his rudeness anymore.",
+        "thai": "ไม่อยากจะเชื่อเลยว่าเขาพูดแบบนั้น ฉันจะไม่ทนกับความหยาบคายของเขาอีกต่อไป (put up with เป็น Three-word Phrasal Verb ซึ่งแยกไม่ได้)"
+      }
+    ],
+    "common_mistakes": "จุดที่คนไทยระดับกลางมักทำผิด:\n\n1.  **สับสนเรื่องตำแหน่งของ Pronoun**: ข้อผิดพลาดที่พบบ่อยที่สุดคือการวาง Pronoun (it, them, him, her) ไว้หลัง Separable Phrasal Verb ซึ่งผิดหลักไวยากรณ์\n    *   ผิด: `Can you pick up me at 8?`\n    *   ถูก: `Can you pick me up at 8?`\n\n2.  **ใช้ Particle ผิดตัว**: การใช้ Particle ผิดเพียงตัวเดียวทำให้ความหมายเปลี่ยนไปอย่างสิ้นเชิง ต้องระวังบริบท\n    *   `look for` (มองหา) vs. `look after` (ดูแล) vs. `look up to` (นับถือ)\n\n3.  **พยายามแยกกริยาที่แยกไม่ได้**: การไม่รู้ว่ากริยาวลีตัวไหนเป็น Inseparable ทำให้เกิดการเรียงประโยคที่ผิด\n    *   ผิด: `I came my old photos across while cleaning.`\n    *   ถูก: `I came across my old photos while cleaning.`\n\n4.  **แปลตรงตัวเกินไป**: การพยายามแปลความหมายของ Verb และ Particle แยกกัน ทำให้ไม่เข้าใจความหมายที่แท้จริงของกริยาวลี\n    *   `Could you put me through to the manager?` ไม่ได้แปลว่า 'ช่วยวางฉันทะลุไปหาผู้จัดการ' แต่แปลว่า 'ช่วยโอนสายไปหาผู้จัดการได้ไหม'",
+    "practice_questions": [
+      {
+        "question": "Due to the storm, we had to ______ the outdoor concert.",
+        "options": [
+          "A. put out",
+          "B. call off",
+          "C. get off",
+          "D. turn out"
+        ],
+        "answer": "B",
+        "explanation": "`call off` หมายถึง 'ยกเลิก' (cancel) ซึ่งเข้ากับบริบทของพายุมากที่สุด ส่วน `put out` คือ 'ดับไฟ', `get off` คือ 'ลงจากยานพาหนะ', และ `turn out` คือ 'ปรากฏว่า' หรือ 'มารวมตัว'"
+      },
+      {
+        "question": "It took him a long time to ______ the death of his beloved pet.",
+        "options": [
+          "A. get over",
+          "B. get on",
+          "C. get through",
+          "D. get away"
+        ],
+        "answer": "A",
+        "explanation": "`get over` หมายถึง 'ทำใจได้, หายจาก (ความเศร้า, ความป่วย)' ซึ่งเหมาะสมกับบริบทของการสูญเสียสัตว์เลี้ยง"
+      },
+      {
+        "question": "Could you please ______ my cat while I am on vacation?",
+        "options": [
+          "A. look for",
+          "B. look at",
+          "C. look after",
+          "D. look into"
+        ],
+        "answer": "C",
+        "explanation": "`look after` หมายถึง 'ดูแล' (take care of) ส่วน `look for` คือ 'มองหา', `look at` คือ 'มองไปที่', และ `look into` คือ 'สืบสวนสอบสวน'"
+      },
+      {
+        "question": "I think we've ______ milk. Could you buy some on your way home?",
+        "options": [
+          "A. run out of",
+          "B. run into",
+          "C. run over",
+          "D. run away from"
+        ],
+        "answer": "A",
+        "explanation": "`run out of` หมายถึง 'ใช้...หมดแล้ว, ไม่มีเหลือ' บริบทนี้คือนมหมดแล้ว"
+      },
+      {
+        "question": "The music is too loud. Can you ______?",
+        "options": [
+          "A. turn it down",
+          "B. turn down it",
+          "C. turn it off",
+          "D. turn off it"
+        ],
+        "answer": "A",
+        "explanation": "`turn down` คือ 'ลดเสียง' เป็น Separable phrasal verb เมื่อกรรมเป็น Pronoun ('it') จะต้องวางไว้ระหว่าง verb และ particle เสมอ ดังนั้น `turn it down` จึงถูกต้อง"
+      },
+      {
+        "question": "Even though the training was difficult, she refused to ______.",
+        "options": [
+          "A. give away",
+          "B. give in",
+          "C. give up",
+          "D. give back"
+        ],
+        "answer": "C",
+        "explanation": "`give up` หมายถึง 'ยอมแพ้, ล้มเลิก' เข้ากับบริบทที่ว่าถึงแม้การฝึกจะยากแต่เธอก็ไม่ยอมแพ้"
+      },
+      {
+        "question": "My car ______ on the highway this morning, and I was late for work.",
+        "options": [
+          "A. broke up",
+          "B. broke into",
+          "C. broke out",
+          "D. broke down"
+        ],
+        "answer": "D",
+        "explanation": "`broke down` หมายถึง '(เครื่องจักร, รถยนต์) เสีย, พัง' ใช้กับยานพาหนะหรือเครื่องจักรที่หยุดทำงาน"
+      },
+      {
+        "question": "While cleaning the attic, I ______ some old family photos.",
+        "options": [
+          "A. came up with",
+          "B. came across",
+          "C. came into",
+          "D. came over"
+        ],
+        "answer": "B",
+        "explanation": "`came across` หมายถึง 'เจอโดยบังเอิญ' (found by chance) เหมาะสมกับสถานการณ์ที่กำลังทำความสะอาดแล้วไปเจอของเก่า"
+      },
+      {
+        "question": "I am really ______ our trip to Japan next month.",
+        "options": [
+          "A. looking up to",
+          "B. looking out for",
+          "C. looking forward to",
+          "D. looking down on"
+        ],
+        "answer": "C",
+        "explanation": "`looking forward to` + Noun/Gerund หมายถึง 'ตั้งตารอคอย' สิ่งที่จะเกิดขึ้นในอนาคตด้วยความตื่นเต้น"
+      },
+      {
+        "question": "The plane is scheduled to ______ at 10:30 PM.",
+        "options": [
+          "A. take up",
+          "B. take over",
+          "C. take off",
+          "D. take on"
+        ],
+        "answer": "C",
+        "explanation": "`take off` ในบริบทนี้หมายถึง '(เครื่องบิน) บินขึ้นจากพื้น'"
+      },
+      {
+        "question": "Don't worry, we will ______ a solution to this problem.",
+        "options": [
+          "A. make out",
+          "B. bring out",
+          "C. work out",
+          "D. let out"
+        ],
+        "answer": "C",
+        "explanation": "`work out` ในความหมายหนึ่งคือ 'หาทางแก้ไขได้สำเร็จ, คิดออก' (find a solution)"
+      },
+      {
+        "question": "They plan to ______ a new company early next year.",
+        "options": [
+          "A. set up",
+          "B. set off",
+          "C. set in",
+          "D. set down"
+        ],
+        "answer": "A",
+        "explanation": "`set up` หมายถึง 'ก่อตั้ง' (establish) เช่น ก่อตั้งบริษัท, องค์กร"
+      },
+      {
+        "question": "I don't know how she can ______ his constant complaining.",
+        "options": [
+          "A. put on with",
+          "B. put up with",
+          "C. put down to",
+          "D. put out for"
+        ],
+        "answer": "B",
+        "explanation": "`put up with` เป็นกริยาวลี 3 คำ หมายถึง 'อดทนกับ' (tolerate) สิ่งที่ไม่น่าพอใจ"
+      },
+      {
+        "question": "The police are trying to ______ who stole the painting.",
+        "options": [
+          "A. find out",
+          "B. look out",
+          "C. get out",
+          "D. take out"
+        ],
+        "answer": "A",
+        "explanation": "`find out` หมายถึง 'ค้นพบความจริง, สืบหาข้อมูล' (discover information)"
+      },
+      {
+        "question": "He promised to meet me here, but he didn't ______.",
+        "options": [
+          "A. turn against",
+          "B. show off",
+          "C. turn in",
+          "D. show up"
+        ],
+        "answer": "D",
+        "explanation": "`show up` หมายถึง 'ปรากฏตัว, มาถึง' (arrive) มักใช้ในความหมายว่ามาตามนัดหรือไม่มา"
+      },
+      {
+        "question": "It's important to ______ with your colleagues to create a positive work environment.",
+        "options": [
+          "A. get away with",
+          "B. get on with",
+          "C. get by with",
+          "D. get down to"
+        ],
+        "answer": "B",
+        "explanation": "`get on with` (หรือ `get along with` ใน American English) หมายถึง 'เข้ากันได้ดี, มีความสัมพันธ์ที่ดีกับ'"
+      },
+      {
+        "question": "His parents ______ him ______ to be a very responsible person.",
+        "options": [
+          "A. brought / up",
+          "B. grew / up",
+          "C. took / up",
+          "D. made / up"
+        ],
+        "answer": "A",
+        "explanation": "`bring someone up` หมายถึง 'เลี้ยงดู' ให้เติบโต ส่วน `grow up` เป็น Intransitive หมายถึง 'เติบโตขึ้น' ด้วยตัวเอง"
+      },
+      {
+        "question": "The new manager will ______ the company next month.",
+        "options": [
+          "A. take after",
+          "B. take out",
+          "C. take over",
+          "D. take apart"
+        ],
+        "answer": "C",
+        "explanation": "`take over` หมายถึง 'เข้ารับตำแหน่ง, เข้าควบคุม' (take control)"
+      },
+      {
+        "question": "Please remember to ______ your assignment by Friday.",
+        "options": [
+          "A. hand out",
+          "B. hand in",
+          "C. hand over",
+          "D. hand back"
+        ],
+        "answer": "B",
+        "explanation": "`hand in` หมายถึง 'ส่ง (งาน, การบ้าน)' ให้กับอาจารย์หรือเจ้านาย"
+      },
+      {
+        "question": "I can't ______ how this machine works. The manual is too complicated.",
+        "options": [
+          "A. think over",
+          "B. make for",
+          "C. figure out",
+          "D. put through"
+        ],
+        "answer": "C",
+        "explanation": "`figure out` หมายถึง 'คิดออก, ทำความเข้าใจ' (understand or solve something)"
+      },
+      {
+        "question": "Her grandfather peacefully ______ in his sleep at the age of 90.",
+        "options": [
+          "A. passed out",
+          "B. passed by",
+          "C. passed away",
+          "D. passed on"
+        ],
+        "answer": "C",
+        "explanation": "`passed away` เป็นคำสุภาพที่หมายถึง 'เสียชีวิต' (died)"
+      },
+      {
+        "question": "Can you ______ me ______ at the airport at 7 PM?",
+        "options": [
+          "A. drop / off",
+          "B. let / down",
+          "C. pick / on",
+          "D. see / through"
+        ],
+        "answer": "A",
+        "explanation": "`drop someone off` หมายถึง 'ไปส่ง (คน) ที่ไหนสักแห่ง' โดยใช้รถ"
+      },
+      {
+        "question": "We need to ______ at the hotel before 3 PM.",
+        "options": [
+          "A. check out",
+          "B. check on",
+          "C. check in",
+          "D. check up"
+        ],
+        "answer": "C",
+        "explanation": "`check in` หมายถึง 'ลงทะเบียนเข้าพัก' ที่โรงแรมหรือสนามบิน"
+      },
+      {
+        "question": "If you don't know the meaning of a word, you should ______ it ______ in a dictionary.",
+        "options": [
+          "A. look / for",
+          "B. look / up",
+          "C. look / at",
+          "D. look / over"
+        ],
+        "answer": "B",
+        "explanation": "`look something up` หมายถึง 'ค้นหาข้อมูล (ในหนังสือ, พจนานุกรม, อินเทอร์เน็ต)'"
+      },
+      {
+        "question": "The creative team needs to ______ a new advertising slogan.",
+        "options": [
+          "A. come into",
+          "B. come about",
+          "C. come up with",
+          "D. come around"
+        ],
+        "answer": "C",
+        "explanation": "`come up with` หมายถึง 'คิด...ขึ้นมาได้' (คิดไอเดีย, แผนการ, หรือทางแก้ปัญหา)"
+      },
+      {
+        "question": "Is that story true, or did you just ______ it ______?",
+        "options": [
+          "A. do / over",
+          "B. get / over",
+          "C. think / up",
+          "D. make / up"
+        ],
+        "answer": "D",
+        "explanation": "`make something up` หมายถึง 'แต่งเรื่องขึ้น, กุเรื่อง' (invent a story)"
+      },
+      {
+        "question": "I ______ an old friend from college at the supermarket yesterday.",
+        "options": [
+          "A. ran into",
+          "B. ran over",
+          "C. ran through",
+          "D. ran away"
+        ],
+        "answer": "A",
+        "explanation": "`ran into` (รูปอดีตของ run into) หมายถึง 'เจอโดยบังเอิญ' เหมือนกับ `came across`"
+      },
+      {
+        "question": "After five years together, they decided to ______.",
+        "options": [
+          "A. break down",
+          "B. break in",
+          "C. break up",
+          "D. break off"
+        ],
+        "answer": "C",
+        "explanation": "`break up` หมายถึง 'เลิกกัน, ยุติความสัมพันธ์'"
+      },
+      {
+        "question": "She decided to ______ all her old clothes to charity.",
+        "options": [
+          "A. give back",
+          "B. give away",
+          "C. give out",
+          "D. give off"
+        ],
+        "answer": "B",
+        "explanation": "`give away` หมายถึง 'ให้เป็นของขวัญ, บริจาค' โดยไม่หวังสิ่งตอบแทน"
+      },
+      {
+        "question": "I feel like I really ______ my parents ______ by failing the exam.",
+        "options": [
+          "A. let / down",
+          "B. put / down",
+          "C. set / down",
+          "D. took / down"
+        ],
+        "answer": "A",
+        "explanation": "`let someone down` หมายถึง 'ทำให้ผิดหวัง'"
+      },
+      {
+        "question": "My flight is at 9 AM tomorrow, so my brother will ______ me ______.",
+        "options": [
+          "A. see / off",
+          "B. look / off",
+          "C. call / off",
+          "D. put / off"
+        ],
+        "answer": "A",
+        "explanation": "`see someone off` หมายถึง 'ไปส่ง (เพื่อกล่าวลา)' ที่สนามบินหรือสถานีรถไฟ"
+      },
+      {
+        "question": "She really ______ her mother; they have the same eyes and smile.",
+        "options": [
+          "A. takes after",
+          "B. looks after",
+          "C. runs after",
+          "D. gets after"
+        ],
+        "answer": "A",
+        "explanation": "`takes after` หมายถึง 'มีลักษณะคล้ายคลึงกับ' ญาติผู้ใหญ่ (resemble)"
+      },
+      {
+        "question": "I waited for an hour, but my friend never ______.",
+        "options": [
+          "A. turned off",
+          "B. turned on",
+          "C. turned over",
+          "D. turned up"
+        ],
+        "answer": "D",
+        "explanation": "`turned up` (รูปอดีตของ turn up) หมายถึง 'ปรากฏตัว, มาถึง' (arrive or appear), มักใช้ในสถานการณ์ที่คาดไม่ถึงหรือไม่คาดคิด"
+      },
+      {
+        "question": "The doctor advised me to ______ sugar and fatty foods.",
+        "options": [
+          "A. cut out of",
+          "B. cut up on",
+          "C. cut down on",
+          "D. cut off from"
+        ],
+        "answer": "C",
+        "explanation": "`cut down on` หมายถึง 'ลดปริมาณ' การบริโภคบางสิ่งบางอย่าง"
+      },
+      {
+        "question": "The government plans to ______ this outdated law.",
+        "options": [
+          "A. do away with",
+          "B. get away with",
+          "C. make up for",
+          "D. run out of"
+        ],
+        "answer": "A",
+        "explanation": "`do away with` หมายถึง 'กำจัด, ยกเลิก' (abolish)"
+      },
+      {
+        "question": "If you don't study regularly, you might ______ in your class.",
+        "options": [
+          "A. fall over",
+          "B. fall through",
+          "C. fall apart",
+          "D. fall behind"
+        ],
+        "answer": "D",
+        "explanation": "`fall behind` หมายถึง 'ล้าหลัง, ตามไม่ทัน' คนอื่น"
+      },
+      {
+        "question": "He thought he could ______ cheating on the test, but the teacher caught him.",
+        "options": [
+          "A. get away with",
+          "B. get on with",
+          "C. get over with",
+          "D. get through with"
+        ],
+        "answer": "A",
+        "explanation": "`get away with` หมายถึง 'ทำผิดแล้วรอดพ้นจากการถูกลงโทษ'"
+      },
+      {
+        "question": "Could you ______ for a moment? I need to find my keys.",
+        "options": [
+          "A. stand by",
+          "B. hold on",
+          "C. keep up",
+          "D. carry on"
+        ],
+        "answer": "B",
+        "explanation": "`hold on` เป็นสำนวนที่หมายถึง 'รอสักครู่' (wait a moment)"
+      },
+      {
+        "question": "It's hard to ______ all the latest technological advancements.",
+        "options": [
+          "A. get up to",
+          "B. catch on to",
+          "C. keep up with",
+          "D. come up with"
+        ],
+        "answer": "C",
+        "explanation": "`keep up with` หมายถึง 'ตามให้ทัน' (ข่าวสาร, เทคโนโลยี, การเปลี่ยนแปลง)"
+      },
+      {
+        "question": "Finally, the boy ______ breaking the window.",
+        "options": [
+          "A. owned up to",
+          "B. looked up to",
+          "C. came down with",
+          "D. got back to"
+        ],
+        "answer": "A",
+        "explanation": "`owned up to` + Gerund หมายถึง 'สารภาพผิด' (confess)"
+      },
+      {
+        "question": "The tour guide will ______ all the important landmarks.",
+        "options": [
+          "A. point out",
+          "B. figure out",
+          "C. find out",
+          "D. work out"
+        ],
+        "answer": "A",
+        "explanation": "`point out` หมายถึง 'ชี้ให้เห็น, บอกให้รู้'"
+      },
+      {
+        "question": "After years of traveling, they decided to ______ in a quiet village.",
+        "options": [
+          "A. settle for",
+          "B. settle up",
+          "C. settle in",
+          "D. settle down"
+        ],
+        "answer": "D",
+        "explanation": "`settle down` หมายถึง 'ลงหลักปักฐาน, ใช้ชีวิตอย่างสงบ'"
+      },
+      {
+        "question": "What does the abbreviation 'UNESCO' ______?",
+        "options": [
+          "A. stand by",
+          "B. stand for",
+          "C. stand out",
+          "D. stand up"
+        ],
+        "answer": "B",
+        "explanation": "`stand for` หมายถึง 'เป็นตัวย่อของ, เป็นสัญลักษณ์ของ'"
+      },
+      {
+        "question": "We need to ______ this issue before making a final decision.",
+        "options": [
+          "A. talk into",
+          "B. talk out",
+          "C. talk over",
+          "D. talk back"
+        ],
+        "answer": "C",
+        "explanation": "`talk something over` หมายถึง 'ปรึกษาหารือ, พูดคุยอย่างละเอียด'"
+      },
+      {
+        "question": "Before buying the car, I want to ______ it ______ for a day.",
+        "options": [
+          "A. try / out",
+          "B. make / out",
+          "C. check / out",
+          "D. wear / out"
+        ],
+        "answer": "A",
+        "explanation": "`try something out` หมายถึง 'ทดลองใช้' เพื่อดูว่าทำงานได้ดีหรือไม่"
+      },
+      {
+        "question": "Walking all day has completely ______ me ______.",
+        "options": [
+          "A. worn / out",
+          "B. taken / out",
+          "C. put / out",
+          "D. run / out"
+        ],
+        "answer": "A",
+        "explanation": "`wear someone out` หมายถึง 'ทำให้เหนื่อยมาก'"
+      },
+      {
+        "question": "Don't forget to ______ your files before you reformat the computer.",
+        "options": [
+          "A. call up",
+          "B. set up",
+          "C. back up",
+          "D. look up"
+        ],
+        "answer": "C",
+        "explanation": "`back up` หมายถึง 'สำรองข้อมูล'"
+      },
+      {
+        "question": "I need you to ______ the information I gave you yesterday.",
+        "options": [
+          "A. go over",
+          "B. go through",
+          "C. go on",
+          "D. go out"
+        ],
+        "answer": "A",
+        "explanation": "`go over` หมายถึง 'ทบทวน, ตรวจสอบ' อย่างละเอียด"
+      },
+      {
+        "question": "Which sentence is grammatically correct?",
+        "options": [
+          "A. I need to pick up them from the station.",
+          "B. She turned down it without a reason.",
+          "C. He is looking his keys for.",
+          "D. Could you fill this form in for me?"
+        ],
+        "answer": "D",
+        "explanation": "`fill in` เป็น Separable phrasal verb เมื่อกรรมเป็น Noun ('this form') สามารถวางไว้ตรงกลางหรือข้างหลังก็ได้ ข้อ D ถูกต้อง ส่วนข้อ A และ B ผิดเพราะวาง Pronoun (them, it) ไว้ข้างหลัง และข้อ C ผิดโครงสร้างของ `look for` ซึ่งเป็น Inseparable"
+      },
+      {
+        "question": "After the argument, they refused to speak to each other, but they finally ______ last night.",
+        "options": [
+          "A. made up",
+          "B. took up",
+          "C. gave up",
+          "D. broke up"
+        ],
+        "answer": "A",
+        "explanation": "`made up` (รูปอดีตของ make up) ในบริบทนี้หมายถึง 'คืนดีกัน' หลังจากทะเลาะกัน"
+      }
+    ]
+  }
+]

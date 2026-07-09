@@ -1,0 +1,994 @@
+[
+  {
+    "id": "20_1",
+    "title": "20.1 Defining Relative Clauses (who, which, that, where)",
+    "explanation": "Defining Relative Clauses คือ อนุประโยค (clause) ที่ทำหน้าที่ขยายคำนาม (noun) ที่อยู่ข้างหน้า เพื่อให้ข้อมูลที่ 'จำเป็น' และ 'เฉพาะเจาะจง' ว่าเรากำลังพูดถึงคน สัตว์ สิ่งของ หรือสถานที่อันไหนอยู่\n\nหัวใจสำคัญของมันคือ: **ถ้าตัด Clause นี้ออกไป ความหมายของประโยคจะเปลี่ยนไปหรือไม่สมบูรณ์** ทำให้คนฟัง/อ่านไม่เข้าใจว่าหมายถึงใครหรืออะไรกันแน่\n\nเราจะใช้ Relative Pronouns (คำสรรพนามเชื่อมความ) ต่างๆ เพื่อนำหน้า Clause เหล่านี้:\n1.  **who**: ใช้กับ 'คน' (People) ทำหน้าที่เป็นได้ทั้งประธาน (subject) และกรรม (object) ของ Clause\n2.  **which**: ใช้กับ 'สัตว์' หรือ 'สิ่งของ' (Animals/Things) ทำหน้าที่เป็นได้ทั้งประธานและกรรมของ Clause\n3.  **that**: เป็นคำที่ยืดหยุ่นที่สุด ใช้แทนได้ทั้ง `who` และ `which` (ทั้งคนและสิ่งของ) มักใช้ในภาษาพูดที่ไม่เป็นทางการมากนัก\n4.  **where**: ใช้กับ 'สถานที่' (Places)\n\n**ข้อสังเกตสำคัญ:**\n*   Defining Relative Clauses **จะไม่มีเครื่องหมายจุลภาค (comma)** คั่นระหว่างคำนามกับ Clause\n*   เราสามารถ **ละ (omit)** `who`, `which`, `that` ได้ ถ้ามันทำหน้าที่เป็น 'กรรม' (object) ของ Clause นั้นๆ แต่จะละไม่ได้ถ้ามันเป็น 'ประธาน' (subject)",
+    "examples": [
+      {
+        "eng": "The software engineer who developed this application has just been promoted.",
+        "thai": "วิศวกรซอฟต์แวร์ 'คนที่พัฒนาแอปพลิเคชันนี้' เพิ่งได้รับการเลื่อนตำแหน่ง (ใช้ 'who' เพราะขยาย 'software engineer' ซึ่งเป็นคน และทำหน้าที่เป็นประธานของกริยา 'developed')"
+      },
+      {
+        "eng": "She finally bought the vintage camera which she had wanted for years.",
+        "thai": "ในที่สุดเธอก็ซื้อกล้องวินเทจ 'อันที่เธออยากได้มาหลายปี' (ใช้ 'which' เพราะขยาย 'camera' ซึ่งเป็นสิ่งของ และทำหน้าที่เป็นกรรมของกริยา 'had wanted')"
+      },
+      {
+        "eng": "The feedback that we received from the clients was overwhelmingly positive.",
+        "thai": "ฟีดแบ็ก 'ที่เราได้รับจากลูกค้า' นั้นเป็นไปในเชิงบวกอย่างท่วมท้น (ใช้ 'that' แทน 'which' เพื่อขยาย 'feedback' ซึ่งเป็นสิ่งของ)"
+      },
+      {
+        "eng": "That's the café where we first met.",
+        "thai": "นั่นคือคาเฟ่ 'ที่เราเจอกันครั้งแรก' (ใช้ 'where' เพราะขยาย 'café' ซึ่งเป็นสถานที่)"
+      },
+      {
+        "eng": "The report (that/which) you submitted is missing a few key details.",
+        "thai": "รายงาน 'ที่คุณส่งมา' ขาดรายละเอียดสำคัญไปสองสามอย่าง (ในที่นี้ 'that/which' ทำหน้าที่เป็นกรรมของกริยา 'submitted' เพราะประธานคือ 'you' ดังนั้นเราจึงสามารถละ 'that/which' ได้ เป็น 'The report you submitted...')"
+      }
+    ],
+    "common_mistakes": "**1. ใส่ Comma โดยไม่จำเป็น:** คนไทยมักสับสนกับ Non-defining Relative Clause แล้วใส่ comma คั่น เช่น 'The woman, who works in marketing, is very creative.' (ผิด) ประโยคที่ถูกต้องคือ 'The woman who works in marketing is very creative.' เพื่อระบุว่าเป็นผู้หญิงคนไหน\n\n**2. ใช้ 'what' แทน 'which' หรือ 'that':** นี่เป็นข้อผิดพลาดที่พบบ่อยมาก 'what' ไม่ใช่ Relative Pronoun ในลักษณะนี้ 'what' แปลว่า 'the thing that' เช่น 'What you said is true.' (สิ่งที่เธอพูดเป็นเรื่องจริง) ไม่ควรใช้ว่า 'The book what I read...' (ผิด) ต้องเป็น 'The book that/which I read...'\n\n**3. สับสนระหว่าง 'where' กับ 'which':** 'where' ต้องใช้กับสถานที่และใน clause นั้นต้องมีประธาน+กริยาตามมา (where + S + V) แต่ถ้าคำนามนั้นเป็นสถานที่แต่ทำหน้าที่เป็นประธานใน clause จะต้องใช้ 'which/that'\n   *   ผิด: 'This is the city where is famous for its food.'\n   *   ถูก: 'This is the city which/that is famous for its food.' (city เป็นประธานของ is famous)\n   *   ถูก: 'This is the city where I grew up.' (I เป็นประธานของ grew up)\n\n**4. ละ Relative Pronoun ที่เป็นประธาน:** เราสามารถละ Relative Pronoun ได้เมื่อมันเป็น 'กรรม' เท่านั้น แต่ถ้ามันเป็น 'ประธาน' จะละไม่ได้เด็ดขาด\n   *   ผิด: 'The person called you left a message.'\n   *   ถูก: 'The person who/that called you left a message.'",
+    "practice_questions": [
+      {
+        "question": "The scientist ____ discovered the new element was awarded the Nobel Prize.",
+        "options": [
+          "A. which",
+          "B. who",
+          "C. where",
+          "D. what"
+        ],
+        "answer": "B",
+        "explanation": "คำนามที่ต้องการขยายคือ 'The scientist' ซึ่งเป็น 'คน' ดังนั้นจึงต้องใช้ 'who' หรือ 'that' ในที่นี้ 'who' ทำหน้าที่เป็นประธานของกริยา 'discovered' จึงถูกต้องที่สุด"
+      },
+      {
+        "question": "I can't find the USB drive ____ contains my final presentation.",
+        "options": [
+          "A. which",
+          "B. who",
+          "C. where",
+          "D. whom"
+        ],
+        "answer": "A",
+        "explanation": "คำนามที่ต้องการขยายคือ 'the USB drive' ซึ่งเป็น 'สิ่งของ' ดังนั้นจึงต้องใช้ 'which' หรือ 'that' ในที่นี้ 'which' ทำหน้าที่เป็นประธานของกริยา 'contains' จึงถูกต้อง"
+      },
+      {
+        "question": "This is the historical site ____ the ancient treaty was signed.",
+        "options": [
+          "A. which",
+          "B. that",
+          "C. where",
+          "D. who"
+        ],
+        "answer": "C",
+        "explanation": "คำนามที่ต้องการขยายคือ 'the historical site' ซึ่งเป็น 'สถานที่' และใน Relative Clause (the ancient treaty was signed) ก็มีประธาน (the ancient treaty) และกริยา (was signed) ครบถ้วน ดังนั้นจึงต้องใช้ 'where' เพื่อบอกว่าเหตุการณ์เกิดขึ้นที่ไหน"
+      },
+      {
+        "question": "The candidate ____ the company hired seems highly competent.",
+        "options": [
+          "A. which",
+          "B. what",
+          "C. who",
+          "D. whose"
+        ],
+        "answer": "C",
+        "explanation": "คำนามที่ต้องการขยายคือ 'The candidate' (คน) ใน Relative Clause นี้ 'the company' เป็นประธาน และ 'hired' เป็นกริยา ดังนั้นสรรพนามที่หายไปคือ 'กรรม' (company hired the candidate) จึงใช้ 'who' หรือ 'that' (หรือละไปเลยก็ได้) ในตัวเลือกนี้ 'who' ถูกต้องที่สุด"
+      },
+      {
+        "question": "Could you please pass me the document ____ is on the top shelf?",
+        "options": [
+          "A. where",
+          "B. that",
+          "C. what",
+          "D. who"
+        ],
+        "answer": "B",
+        "explanation": "คำนามที่ต้องการขยายคือ 'the document' (สิ่งของ) ดังนั้นจึงต้องใช้ 'which' หรือ 'that' และเนื่องจากมันทำหน้าที่เป็นประธานของกริยา 'is' จึงไม่สามารถละได้ ในตัวเลือกมี 'that' ซึ่งถูกต้อง"
+      },
+      {
+        "question": "The hotel ____ we stayed during our trip to Kyoto had a beautiful garden.",
+        "options": [
+          "A. which",
+          "B. that",
+          "C. where",
+          "D. what"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้ขยายคำว่า 'The hotel' ซึ่งเป็นสถานที่ และใน Clause ที่ตามมามีประธาน 'we' และกริยา 'stayed' อยู่แล้ว ดังนั้นเราจึงต้องการคำที่บอกสถานที่ ซึ่งก็คือ 'where'"
+      },
+      {
+        "question": "I was not impressed by the strategy ____ the consultant proposed.",
+        "options": [
+          "A. what",
+          "B. where",
+          "C. who",
+          "D. that"
+        ],
+        "answer": "D",
+        "explanation": "คำนามที่ต้องการขยายคือ 'the strategy' (สิ่งของ) ส่วนใน Clause ที่ตามมา ประธานคือ 'the consultant' กริยาคือ 'proposed' ดังนั้น Relative Pronoun ที่ต้องการคือ 'กรรม' จึงใช้ 'that' หรือ 'which' (หรือละไปเลย) 'that' คือคำตอบที่ถูกต้องในตัวเลือก"
+      },
+      {
+        "question": "The police have arrested the man ____ was responsible for the robbery.",
+        "options": [
+          "A. which",
+          "B. who",
+          "C. whom",
+          "D. where"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้ขยาย 'the man' (คน) และ Relative Pronoun ทำหน้าที่เป็น 'ประธาน' ของกริยา 'was responsible' ดังนั้นจึงต้องใช้ 'who' หรือ 'that'"
+      },
+      {
+        "question": "We visited the small village ____ my grandparents were born.",
+        "options": [
+          "A. that",
+          "B. which",
+          "C. where",
+          "D. who"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้ขยาย 'the small village' (สถานที่) และใน Clause ที่ตามมามีประธาน ('my grandparents') และกริยา ('were born') ครบถ้วน เราจึงต้องใช้ 'where' เพื่อบอกว่าการกระทำนั้นเกิดขึ้นที่ไหน"
+      },
+      {
+        "question": "Is that the new smartphone ____ everyone is talking about?",
+        "options": [
+          "A. which",
+          "B. who",
+          "C. what",
+          "D. where"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้ขยาย 'the new smartphone' (สิ่งของ) ดังนั้นจึงต้องใช้ 'which' หรือ 'that' ใน Clause นี้ 'everyone' เป็นประธาน และ 'is talking about' เป็นกริยา ดังนั้น Relative Pronoun ที่ต้องการคือ 'กรรม' ของ preposition 'about' จึงใช้ 'which' หรือ 'that' ได้"
+      }
+    ]
+  },
+  {
+    "id": "20_2",
+    "title": "20.2 Non-defining Relative Clauses (การใช้เครื่องหมายคอมม่า)",
+    "explanation": "Non-defining Relative Clauses คือ อนุประโยคที่ทำหน้าที่ให้ 'ข้อมูลเพิ่มเติม' (extra information) เกี่ยวกับคำนามที่มันขยาย แต่เป็นข้อมูลที่ 'ไม่จำเป็น' ในการระบุว่าเรากำลังพูดถึงใครหรือสิ่งไหน\n\nพูดง่ายๆ คือ ต่อให้ตัดส่วนนี้ออกไป ประโยคหลักก็ยังคงสมบูรณ์และมีความหมายชัดเจนอยู่แล้ว เพราะผู้ฟัง/ผู้อ่านรู้อยู่แล้วว่าเรากำลังพูดถึงใครหรืออะไร\n\n**ลักษณะสำคัญ:**\n1.  **ต้องมีเครื่องหมายคอมม่า (Comma) คั่นเสมอ:** จะมีคอมม่าคร่อมหน้าและหลัง Non-defining clause เสมอ (ยกเว้นกรณีที่ clause อยู่ท้ายประโยค จะมีคอมม่าแค่ข้างหน้าและจบด้วยจุด full stop)\n2.  **ห้ามใช้ 'that' เด็ดขาด:** ใน Non-defining clause เราจะใช้ 'that' แทน 'who' หรือ 'which' ไม่ได้เด็ดขาด\n3.  **ห้ามละ Relative Pronoun:** ไม่สามารถละคำสรรพนาม (who, which, whose, etc.) ได้ ต้องใส่ไว้เสมอ\n\n**ความแตกต่างกับ Defining Relative Clauses (ทบทวนจากบทที่แล้ว):**\n*   **Defining:** ให้ข้อมูล 'จำเป็น' เพื่อระบุว่าพูดถึงใคร/สิ่งไหน, 'ไม่มี' คอมม่า, 'ใช้ that ได้', 'ละ pronoun ได้' ในบางกรณี\n*   **Non-defining:** ให้ข้อมูล 'เพิ่มเติม', 'มี' คอมม่าเสมอ, 'ห้ามใช้ that', 'ห้ามละ pronoun'\n\n**ตัวอย่างเปรียบเทียบ:**\n*   **Defining:** My sister who lives in London is a doctor. (ฉันมีพี่สาว/น้องสาวหลายคน และกำลังพูดถึง 'คนที่' อยู่ลอนดอนโดยเฉพาะ)\n*   **Non-defining:** My sister, who lives in London, is a doctor. (ฉันมีพี่สาว/น้องสาวคนเดียว และแค่ให้ข้อมูลเพิ่มเติมว่าเธออาศัยอยู่ที่ลอนดอน)",
+    "examples": [
+      {
+        "eng": "Mr. Harrison, who has been teaching history for over 20 years, is retiring at the end of this semester.",
+        "thai": "คุณแฮร์ริสัน ซึ่งสอนวิชาประวัติศาสตร์มานานกว่า 20 ปี กำลังจะเกษียณในสิ้นเทอมนี้ (เรารู้อยู่แล้วว่า Mr. Harrison คือใคร ส่วนที่ว่าเขาสอนมา 20 ปีเป็นเพียงข้อมูลเพิ่มเติม)"
+      },
+      {
+        "eng": "The Amazon rainforest, which produces 20% of the world's oxygen, is facing severe threats from deforestation.",
+        "thai": "ป่าฝนแอมะซอน ซึ่งผลิตออกซิเจน 20% ของโลก กำลังเผชิญกับภัยคุกคามรุนแรงจากการตัดไม้ทำลายป่า (เรารู้จักป่าแอมะซอนอยู่แล้ว ประโยคนี้เพียงให้ข้อมูลเสริมเกี่ยวกับความสำคัญของมัน)"
+      },
+      {
+        "eng": "The CEO, whose innovative strategies tripled the company's revenue, announced her resignation.",
+        "thai": "ประธานเจ้าหน้าที่บริหาร ซึ่งกลยุทธ์อันสร้างสรรค์ของเธอทำให้รายได้ของบริษัทเพิ่มขึ้นสามเท่า ได้ประกาศลาออก (เรารู้ว่าหมายถึง CEO คนไหน ส่วนเรื่องกลยุทธ์เป็นข้อมูลเพิ่มเติมที่น่าสนใจ)"
+      },
+      {
+        "eng": "We are moving to Edinburgh, where my husband has been offered a new job.",
+        "thai": "เรากำลังจะย้ายไปที่เอดินบะระ ที่ซึ่งสามีของฉันได้รับการเสนอตำแหน่งงานใหม่ (เรารู้ว่าเมืองนั้นคือเอดินบะระ ส่วนเหตุผลที่ย้ายไปเป็นข้อมูลเพิ่มเติม)"
+      }
+    ],
+    "common_mistakes": "- **ลืมใส่คอมม่า (Forgetting Commas):** นี่คือข้อผิดพลาดที่พบบ่อยที่สุด การไม่ใส่คอมม่าจะเปลี่ยนความหมายของประโยคทันที จากการให้ข้อมูลเพิ่มเติม (Non-defining) กลายเป็นการชี้เฉพาะเจาะจง (Defining)\n  - ผิด: My mother who is a fantastic cook is visiting me this weekend.\n  - ถูก: My mother, who is a fantastic cook, is visiting me this weekend. (ฉันมีแม่คนเดียว และแค่เสริมว่าเธอทำอาหารเก่ง)\n\n- **ใช้ 'that' ใน Non-defining Clause:** คนไทยมักติดใช้ 'that' เพราะมันใช้ได้หลากหลายใน Defining clause แต่ใน Non-defining clause นั้น 'ห้ามใช้เด็ดขาด'\n  - ผิด: The new city library, that was opened last month, is very impressive.\n  - ถูก: The new city library, which was opened last month, is very impressive.\n\n- **ละ Relative Pronoun:** ใน Defining clause บางครั้งเราละ who/which/that ได้ แต่ใน Non-defining clause จะละไม่ได้เลย\n  - ผิด: Dr. Evans, I spoke to earlier, will be in charge of the project.\n  - ถูก: Dr. Evans, who(m) I spoke to earlier, will be in charge of the project.",
+    "practice_questions": [
+      {
+        "question": "The Shard, ___ is the tallest building in London, offers breathtaking views of the city.",
+        "options": [
+          "A. that",
+          "B. which",
+          "C. what",
+          "D. it"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้ให้ข้อมูลเพิ่มเติมเกี่ยวกับ The Shard ซึ่งเป็นชื่อเฉพาะ ดังนั้นจึงต้องใช้ Non-defining Relative Clause เราต้องใช้ 'which' สำหรับสิ่งของ และมีเครื่องหมายคอมม่าอยู่แล้ว 'that' ไม่สามารถใช้ใน Non-defining clause ได้"
+      },
+      {
+        "question": "Our new manager, ___ previous experience is in international marketing, seems very competent.",
+        "options": [
+          "A. who",
+          "B. which",
+          "C. whose",
+          "D. whom"
+        ],
+        "answer": "C",
+        "explanation": "เราต้องการ Relative Pronoun ที่แสดงความเป็นเจ้าของ (ประสบการณ์'ของ'ผู้จัดการ) ดังนั้น 'whose' จึงเป็นคำตอบที่ถูกต้อง 'whose' สามารถใช้ได้กับทั้งคนและสิ่งของเพื่อแสดงความเป็นเจ้าของ"
+      },
+      {
+        "question": "The local council has decided to close the old swimming pool, ___ has been a great disappointment for many residents.",
+        "options": [
+          "A. that",
+          "B. which",
+          "C. what",
+          "D. this"
+        ],
+        "answer": "B",
+        "explanation": "'which' ในที่นี้ไม่ได้ขยายแค่คำว่า pool แต่ขยายความทั้งประโยคก่อนหน้า (The local council has decided to close the old swimming pool) ซึ่งการกระทำนี้เป็นสิ่งที่น่าผิดหวัง นี่คือการใช้ 'which' ในขั้นสูงของ Non-defining clause และ 'that' ใช้ไม่ได้"
+      },
+      {
+        "question": "I'll be staying at The Grand Hotel, ___ I believe is located near the central station.",
+        "options": [
+          "A. that",
+          "B. where",
+          "C. it",
+          "D. which"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคนี้อาจทำให้สับสนระหว่าง where และ which แม้จะพูดถึงโรงแรม (สถานที่) แต่ส่วนที่ตามมาคือ 'I believe is located...' ซึ่งต้องการประธานของกริยา 'is' ดังนั้นต้องใช้ 'which' (which is located...) ไม่ใช่ 'where' (where it is located...)"
+      },
+      {
+        "question": "The politician, ___ was involved in a recent scandal, refused to comment.",
+        "options": [
+          "A. , who",
+          "B. who",
+          "C. that",
+          "D. , which"
+        ],
+        "answer": "B",
+        "explanation": "คำถามนี้ทดสอบการใช้คอมม่า มีคอมม่าอยู่ข้างหน้าแล้ว (The politician,) และหลัง clause (scandal,) ดังนั้นเราแค่ต้องเติม Relative Pronoun ที่เหมาะสมสำหรับคน คือ 'who' ตัวเลือก A. มีคอมม่าซ้ำซ้อน"
+      },
+      {
+        "question": "We visited the coastal town of Whitby, ___ Bram Stoker was inspired to write 'Dracula'.",
+        "options": [
+          "A. which",
+          "B. that",
+          "C. where",
+          "D. when"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้ให้ข้อมูลเพิ่มเติมเกี่ยวกับสถานที่ (the coastal town of Whitby) และส่วนที่ตามมาอธิบายถึงสิ่งที่เกิดขึ้น 'ณ ที่นั่น' ดังนั้น 'where' จึงเป็นคำตอบที่เหมาะสมที่สุด"
+      },
+      {
+        "question": "The final exam, for ___ I had studied tirelessly, was surprisingly straightforward.",
+        "options": [
+          "A. that",
+          "B. which",
+          "C. what",
+          "D. whose"
+        ],
+        "answer": "B",
+        "explanation": "นี่คือโครงสร้างแบบเป็นทางการที่ใช้ preposition + relative pronoun (for which) ซึ่งมีความหมายว่า 'I had studied tirelessly for the final exam.' เราใช้ 'for which' กับสิ่งของ และเนื่องจากเป็น Non-defining clause จึงใช้ 'that' ไม่ได้"
+      },
+      {
+        "question": "My uncle, ___ you met at the wedding last summer, has invited us to his villa in Spain.",
+        "options": [
+          "A. which",
+          "B. who",
+          "C. whose",
+          "D. that"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้ให้ข้อมูลเพิ่มเติมเกี่ยวกับ 'my uncle' ซึ่งเป็นบุคคล ดังนั้นจึงใช้ 'who' หรือ 'whom' ในที่นี้ 'who' เป็นคำตอบที่ถูกต้องและใช้กันทั่วไป 'that' ใช้ใน Non-defining clause ไม่ได้"
+      },
+      {
+        "question": "The company is launching a new initiative, ___ aims to improve employee well-being.",
+        "options": [
+          "A. that",
+          "B. which",
+          "C. what",
+          "D. it"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้ให้ข้อมูลเพิ่มเติมเกี่ยวกับ 'a new initiative' ซึ่งเป็นสิ่งของ/แนวคิด ดังนั้นจึงต้องใช้ 'which' ใน Non-defining clause และห้ามใช้ 'that' โดยเด็ดขาด"
+      },
+      {
+        "question": "He told me about his new job, ___ he's enjoying very much.",
+        "options": [
+          "A. that",
+          "B. where",
+          "C. which",
+          "D. who"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้ต้องการ Relative Pronoun ที่จะมาทำหน้าที่เป็นกรรมของกริยา 'enjoying' (enjoying the job) ดังนั้น 'which' จึงเหมาะสมที่สุดในการใช้แทน 'his new job' 'that' ใช้ไม่ได้เพราะมีคอมม่า"
+      }
+    ]
+  },
+  {
+    "id": "20_3",
+    "title": "20.3 Omission of Relative Pronouns (การละคำเชื่อมเมื่อเป็นกรรม)",
+    "explanation": "ใน Relative Clauses, เราสามารถละคำเชื่อม (Relative Pronoun) เช่น who, whom, which, that ได้ในกรณีที่คำเชื่อมนั้นทำหน้าที่เป็น 'กรรม' (Object) ของประโยคย่อย (Relative Clause) เท่านั้น\n\n**วิธีสังเกตง่ายๆ:**\n1. **เมื่อ Relative Pronoun เป็นกรรม (Object):** สังเกตว่าหลังคำเชื่อม (who, whom, which, that) จะตามด้วยประธานตัวใหม่ (Subject) + กริยา (Verb) ของประโยคย่อยนั้น\n   - โครงสร้าง: ... Noun + (Relative Pronoun) + Subject + Verb ...\n   - ตัวอย่าง: The man (whom) *I met* was my new boss. (หลัง whom ตามด้วย Subject 'I' และ Verb 'met')\n   - ในกรณีนี้ เราสามารถละ `whom` ได้เลย -> The man I met was my new boss.\n\n2. **เมื่อ Relative Pronoun เป็นประธาน (Subject):** สังเกตว่าหลังคำเชื่อมจะตามด้วยกริยา (Verb) ทันที ไม่มีประธานตัวใหม่มาคั่น\n   - โครงสร้าง: ... Noun + Relative Pronoun + Verb ...\n   - ตัวอย่าง: The man *who lives* next door is a doctor. (หลัง who ตามด้วย Verb 'lives' ทันที)\n   - ในกรณีนี้ เรา **ห้าม** ละ `who` เด็ดขาด!\n\n**สรุป:** กฎทองคือ 'ถ้าหลังคำเชื่อมมีประธานตัวใหม่ตามมา ละได้เลย! ถ้าหลังคำเชื่อมเป็นกริยา ห้ามละเด็ดขาด'",
+    "examples": [
+      {
+        "eng": "The feedback (which) we received from the clients was extremely valuable.",
+        "thai": "ฟีดแบ็กที่เราได้รับจากลูกค้ามีค่าอย่างยิ่ง ในที่นี้ 'which' เป็นกรรมของกริยา 'received' (we received which/the feedback) และตามหลังด้วยประธาน 'we' จึงสามารถละ 'which' ได้"
+      },
+      {
+        "eng": "Have you seen the smartphone model (that) the company launched last month?",
+        "thai": "คุณเห็นสมาร์ทโฟนรุ่นที่บริษัทเปิดตัวไปเมื่อเดือนที่แล้วหรือยัง? 'that' เป็นกรรมของ 'launched' (the company launched that/the model) และตามหลังด้วยประธาน 'the company' จึงละได้"
+      },
+      {
+        "eng": "The candidate (whom) we interviewed yesterday has all the qualifications we are looking for.",
+        "thai": "ผู้สมัครที่เราสัมภาษณ์ไปเมื่อวานนี้มีคุณสมบัติครบถ้วนตามที่เรามองหา 'whom' เป็นกรรมของ 'interviewed' (we interviewed whom/the candidate) จึงละได้ กลายเป็น 'The candidate we interviewed...'"
+      },
+      {
+        "eng": "The manager who approved the budget is currently on vacation. (Cannot be omitted)",
+        "thai": "ผู้จัดการที่อนุมัติงบประมาณตอนนี้กำลังลาพักร้อนอยู่ ในประโยคนี้ 'who' ทำหน้าที่เป็นประธานของกริยา 'approved' (who approved the budget) จึงไม่สามารถละทิ้งได้เด็ดขาด"
+      }
+    ],
+    "common_mistakes": "1. **ละคำเชื่อมที่เป็นประธาน (Subject):** นี่คือข้อผิดพลาดที่พบบ่อยที่สุด คนไทยมักสับสนและเผลอละคำเชื่อมที่ทำหน้าที่เป็นประธานของประโยคย่อย ซึ่งทำให้ประโยคผิดหลักไวยากรณ์ทันที\n   - **ผิด:** The woman ~~who~~ works in marketing is very creative. -> The woman works in marketing is very creative. (ผิด! เพราะ who เป็นประธานของ works)\n   - **ถูก:** The woman who works in marketing is very creative.\n\n2. **ไม่กล้าละคำเชื่อมที่เป็นกรรม (Object):** ในการสนทนาหรือการเขียนที่ไม่เป็นทางการ การใช้ประโยคเต็มๆ เช่น 'The movie which I watched last night was boring.' จะฟังดูแข็งและเป็นทางการเกินไป การละคำเชื่อมที่เป็นกรรม ('The movie I watched last night was boring.') จะทำให้ภาษาดูเป็นธรรมชาติและเหมือนเจ้าของภาษามากขึ้น",
+    "practice_questions": [
+      {
+        "question": "The information _______ you provided was insufficient for the report.",
+        "options": [
+          "A. which",
+          "B. who",
+          "C. that",
+          "D. A and C are correct, and can be omitted."
+        ],
+        "answer": "D",
+        "explanation": "คำว่า 'information' เป็นสิ่งของจึงใช้ 'which' หรือ 'that' ได้ แต่เนื่องจากหลังช่องว่างเป็นประธาน 'you' + กริยา 'provided' ดังนั้น relative pronoun ในที่นี้จึงทำหน้าที่เป็นกรรม (object) และสามารถละทิ้งได้ ทำให้ประโยค The information you provided... ถูกต้องเช่นกัน"
+      },
+      {
+        "question": "I was impressed by the presentation _______ was given by the new intern.",
+        "options": [
+          "A. which",
+          "B. whom",
+          "C. (no pronoun needed)",
+          "D. who"
+        ],
+        "answer": "A",
+        "explanation": "หลังช่องว่างเป็นกริยา 'was given' ทันที แสดงว่าคำเชื่อมที่หายไปทำหน้าที่เป็นประธาน (subject) ของประโยคย่อย ดังนั้นจึง **ห้ามละ** และเนื่องจาก 'presentation' เป็นสิ่งของ จึงต้องใช้ 'which' (หรือ that)"
+      },
+      {
+        "question": "The person _______ I was speaking to is the head of the department.",
+        "options": [
+          "A. who",
+          "B. which",
+          "C. (no pronoun needed)",
+          "D. Both A and C are correct."
+        ],
+        "answer": "D",
+        "explanation": "คำว่า 'person' เป็นบุคคล จึงใช้ 'who' หรือ 'whom' ได้ และหลังช่องว่างมีประธาน 'I' + กริยา 'was speaking' แสดงว่าคำเชื่อมเป็นกรรม (object) จึงสามารถละได้ ดังนั้นการใช้ 'who' หรือไม่ใส่คำเชื่อมเลยจึงถูกต้องทั้งคู่"
+      },
+      {
+        "question": "Choose the sentence where the relative pronoun CANNOT be omitted.",
+        "options": [
+          "A. The car I bought last year has broken down again.",
+          "B. The employee that the company promoted is very competent.",
+          "C. The scientist who discovered the new element received a Nobel Prize.",
+          "D. This is the hotel we stayed at during our vacation."
+        ],
+        "answer": "C",
+        "explanation": "ในข้อ C, 'who' เป็นประธานของกริยา 'discovered' (who discovered...) จึงไม่สามารถละได้ ส่วนข้อ A, B, และ D คำเชื่อมเป็นกรรมทั้งหมด (I bought [the car], the company promoted [the employee], we stayed at [the hotel]) จึงสามารถละได้"
+      },
+      {
+        "question": "The ambitious project _______ the team has been developing requires significant investment.",
+        "options": [
+          "A. who",
+          "B. which",
+          "C. (no pronoun needed)",
+          "D. Both B and C are correct."
+        ],
+        "answer": "D",
+        "explanation": "คำว่า 'project' เป็นสิ่งของ จึงใช้ 'which' และเนื่องจากตามหลังด้วยประธาน 'the team' + กริยา 'has been developing' แสดงว่า 'which' ทำหน้าที่เป็นกรรม จึงสามารถละทิ้งได้ ดังนั้นข้อ B และ C จึงถูกต้องทั้งคู่"
+      },
+      {
+        "question": "Which sentence is grammatically INCORRECT?",
+        "options": [
+          "A. I finally read the book you recommended to me.",
+          "B. The architect designed our new office is famous.",
+          "C. Do you know the reason he was late?",
+          "D. The meal we had last night was delicious."
+        ],
+        "answer": "B",
+        "explanation": "ประโยคที่ถูกคือ 'The architect *who* designed our new office is famous.' ในที่นี้ 'architect' เป็นผู้กระทำกริยา 'designed' ดังนั้น 'who' จึงเป็นประธานและห้ามละเด็ดขาด การละไปทำให้ประโยคผิดไวยากรณ์"
+      },
+      {
+        "question": "The innovative strategy _______ the marketing team implemented led to a 20% increase in sales.",
+        "options": [
+          "A. that",
+          "B. whom",
+          "C. (no pronoun needed)",
+          "D. Both A and C are correct."
+        ],
+        "answer": "D",
+        "explanation": "คำว่า 'strategy' เป็นสิ่งของ จึงใช้ 'that' ได้ และเนื่องจากหลังช่องว่างคือประธาน 'the marketing team' + กริยา 'implemented' ดังนั้น 'that' เป็นกรรมและสามารถละได้ ทำให้การไม่ใส่คำเชื่อมก็ถูกต้องเช่นกัน"
+      },
+      {
+        "question": "The software _______ is crashing frequently needs to be updated immediately.",
+        "options": [
+          "A. that",
+          "B. what",
+          "C. (no pronoun needed)",
+          "D. whose"
+        ],
+        "answer": "A",
+        "explanation": "หลังช่องว่างเป็นกริยา 'is crashing' ทันที แสดงว่าคำเชื่อมนี้เป็นประธานของประโยคย่อย จึง **ห้ามละ** และ 'software' เป็นสิ่งของ จึงต้องใช้ 'that' (หรือ which) เท่านั้น"
+      },
+      {
+        "question": "This is the evidence the police were looking for. The omitted relative pronoun in this sentence refers to _______.",
+        "options": [
+          "A. the subject of 'were looking for'",
+          "B. the object of 'were looking for'",
+          "C. the subject of 'is'",
+          "D. an adverb of place"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคเต็มคือ 'This is the evidence *which/that* the police were looking for.' คำว่า 'evidence' เป็นกรรมของวลี 'were looking for' (the police were looking for the evidence) ดังนั้นคำเชื่อมที่ถูกละไปจึงทำหน้าที่เป็นกรรม (object)"
+      },
+      {
+        "question": "The negotiation techniques _______ he demonstrated were highly effective.",
+        "options": [
+          "A. whom",
+          "B. which",
+          "C. (no pronoun needed)",
+          "D. Both B and C are correct."
+        ],
+        "answer": "D",
+        "explanation": "คำว่า 'techniques' เป็นสิ่งของ จึงใช้ 'which' และเนื่องจากหลังช่องว่างคือประธาน 'he' + กริยา 'demonstrated' แสดงว่า 'which' ทำหน้าที่เป็นกรรม (he demonstrated which/the techniques) ดังนั้นจึงสามารถละได้"
+      }
+    ]
+  },
+  {
+    "id": "20_4",
+    "title": "20.4 Summary: Relative Clauses (สรุปอนุประโยคขยายความ + 50 Exercises)",
+    "explanation": "Relative Clauses (อนุประโยคขยายความ) คือประโยคย่อยที่ทำหน้าที่เหมือน Adjective เพื่อขยายคำนาม (noun) หรือสรรพนาม (pronoun) ที่อยู่ข้างหน้า ทำให้เรารู้ว่ากำลังพูดถึงคน สัตว์ หรือสิ่งของอันไหน\n\n**Relative Pronouns & Adverbs (คำเชื่อม):**\n*   **who:** ใช้กับ 'คน' (เป็นประธานใน relative clause)\n*   **whom:** ใช้กับ 'คน' (เป็นกรรม) - ในภาษาพูดปัจจุบันนิยมใช้ 'who' แทน\n*   **whose:** ใช้แสดง 'ความเป็นเจ้าของ' (ของใคร) ใช้ได้ทั้งคนและสิ่งของ\n*   **which:** ใช้กับ 'สัตว์' หรือ 'สิ่งของ'\n*   **that:** ใช้แทน who/which ได้ใน 'Defining Clause' เท่านั้น (ดูด้านล่าง)\n*   **where:** ใช้กับ 'สถานที่' (in/at which)\n*   **when:** ใช้กับ 'เวลา' (on/in which)\n*   **why:** ใช้กับ 'เหตุผล' (for which) มักมากับคำว่า the reason\n\n**ประเภทของ Relative Clauses:**\n1.  **Defining Relative Clause (ชนิดชี้เฉพาะ):**\n    *   ให้ข้อมูลที่ 'จำเป็น' เพื่อระบุว่าหมายถึงใครหรืออะไร ถ้าตัดออก ประโยคจะความหมายไม่สมบูรณ์\n    *   **ไม่มีเครื่องหมาย comma ( , ) คั่น**\n    *   ใช้ that แทน who/which ได้\n    *   สามารถละ Relative Pronoun ได้ถ้ามันทำหน้าที่เป็น 'กรรม' (Object)\n    *   ตัวอย่าง: The woman *who lives next door* is a doctor. (ถ้าไม่มี 'who lives next door' เราจะไม่รู้ว่าพูดถึงผู้หญิงคนไหน)\n\n2.  **Non-Defining Relative Clause (ชนิดให้ข้อมูลเพิ่มเติม):**\n    *   ให้ข้อมูล 'เพิ่มเติม' ที่ไม่จำเป็นต่อใจความหลักของประโยค ถึงตัดออกไป ประโยคก็ยังสมบูรณ์ เพราะเรารู้อยู่แล้วว่าพูดถึงใคร/อะไร\n    *   **ต้องมีเครื่องหมาย comma ( , ) คั่นเสมอ**\n    *   **ห้ามใช้ that**\n    *   **ห้ามละ Relative Pronoun**\n    *   ตัวอย่าง: Mr. Smith, *who is an excellent teacher*, is retiring next year. (เรารู้จัก Mr. Smith อยู่แล้ว ส่วนที่ขยายเป็นแค่ข้อมูลเสริม)\n\n**การละ Relative Pronoun (Omission):**\nเราสามารถละ Relative Pronoun (who, whom, which, that) ได้ก็ต่อเมื่อ:\n1.  เป็น Defining Relative Clause\n2.  Relative Pronoun นั้นทำหน้าที่เป็น 'กรรม' (Object) ของประโยคย่อย (มีประธาน + กริยา ตามหลัง)\n    *   ตัวอย่าง: The movie *(which/that)* we watched last night was fantastic. (ละได้ เพราะ 'we' เป็นประธาน, 'watched' เป็นกริยา)",
+    "examples": [
+      {
+        "eng": "The engineer who designed this bridge is brilliant.",
+        "thai": "วิศวกรผู้ออกแบบสะพานนี้เก่งมาก (Defining clause ใช้ 'who' ขยาย 'engineer' ทำหน้าที่เป็นประธาน)"
+      },
+      {
+        "eng": "The car (that/which) I rented broke down.",
+        "thai": "รถยนต์คันที่ฉันเช่ามาเสีย (Defining clause ใช้ 'that' หรือ 'which' ขยาย 'car' ทำหน้าที่เป็นกรรม สามารถละได้)"
+      },
+      {
+        "eng": "She is the writer whose novels have won many awards.",
+        "thai": "เธอคือนักเขียนซึ่งนวนิยายของเธอได้รับรางวัลมากมาย (ใช้ 'whose' แสดงความเป็นเจ้าของ)"
+      },
+      {
+        "eng": "This is the park where we used to play as children.",
+        "thai": "นี่คือสวนสาธารณะที่เราเคยเล่นกันตอนเด็กๆ (ใช้ 'where' ขยายสถานที่ 'park')"
+      },
+      {
+        "eng": "My boss, who is from Canada, is very supportive.",
+        "thai": "เจ้านายของฉันซึ่งมาจากแคนาดาให้การสนับสนุนดีมาก (Non-defining clause มี comma คั่น ให้ข้อมูลเพิ่มเติมเกี่ยวกับเจ้านาย)"
+      }
+    ],
+    "common_mistakes": "1. **ใช้ 'that' ใน Non-Defining Clause:** คนไทยมักเผลอใช้ 'that' หลัง comma ซึ่งผิดไวยากรณ์\n   *   ผิด: My favorite city, that is Bangkok, is very crowded.\n   *   ถูก: My favorite city, which is Bangkok, is very crowded.\n\n2. **ลืมใส่ Comma ใน Non-Defining Clause:** การลืม comma จะเปลี่ยนความหมายของประโยคทันที ทำให้กลายเป็น Defining Clause\n   *   My sister who lives in Japan is a designer. (ความหมาย: ฉันมีพี่สาว/น้องสาวหลายคน และกำลังพูดถึงคนที่อยู่ญี่ปุ่น)\n   *   My sister, who lives in Japan, is a designer. (ความหมาย: ฉันมีพี่สาว/น้องสาวคนเดียว และเธอคนนั้นแหละที่อยู่ญี่ปุ่น)\n\n3. **ใส่สรรพนามซ้ำซ้อน (Redundant Pronoun):** เป็นข้อผิดพลาดที่พบบ่อยมาก เพราะติดการแปลตรงตัวจากภาษาไทย\n   *   ผิด: The report which I submitted it yesterday had some errors.\n   *   ถูก: The report which I submitted yesterday had some errors. (ไม่ต้องมี it มาซ้ำอีก เพราะ which ทำหน้าที่เป็นกรรมของ submitted แล้ว)\n\n4. **สับสนระหว่าง whose กับ who's:**\n   *   whose = แสดงความเป็นเจ้าของ (ของใคร)\n   *   who's = ย่อมาจาก who is หรือ who has\n   *   ผิด: The student who's bag was stolen is crying. \n   *   ถูก: The student whose bag was stolen is crying. \n\n5. **ละ Relative Pronoun เมื่อมันเป็นประธาน:** จะละได้ก็ต่อเมื่อมันเป็นกรรมเท่านั้น\n   *   ผิด: The man lives next door is very friendly.\n   *   ถูก: The man who lives next door is very friendly.",
+    "practice_questions": [
+      {
+        "question": "The person ___ called you earlier is my manager.",
+        "options": [
+          "A. which",
+          "B. who",
+          "C. whose",
+          "D. whom"
+        ],
+        "answer": "B",
+        "explanation": "คำนามข้างหน้าคือ 'The person' (คน) และในอนุประโยค (relative clause) คำที่หายไปทำหน้าที่เป็นประธานของกริยา 'called' จึงต้องใช้ 'who'"
+      },
+      {
+        "question": "This is the hospital ___ I was born.",
+        "options": [
+          "A. which",
+          "B. when",
+          "C. where",
+          "D. that"
+        ],
+        "answer": "C",
+        "explanation": "คำนามข้างหน้าคือ 'hospital' (โรงพยาบาล) เป็นสถานที่ และอนุประโยคขยายความเกี่ยวเนื่องกับสถานที่ (I was born in the hospital) จึงต้องใช้ 'where'"
+      },
+      {
+        "question": "I can't find the email ___ you sent me last week.",
+        "options": [
+          "A. who",
+          "B. which",
+          "C. where",
+          "D. whose"
+        ],
+        "answer": "B",
+        "explanation": "คำนามข้างหน้าคือ 'email' (สิ่งของ) จึงใช้ 'which' หรือ 'that' (ซึ่งในตัวเลือกมี 'which') คำนี้ทำหน้าที่เป็นกรรมของกริยา 'sent' จึงสามารถละได้ด้วย (I can't find the email you sent me...)"
+      },
+      {
+        "question": "The man ___ car was towed is waiting outside.",
+        "options": [
+          "A. who",
+          "B. whom",
+          "C. who's",
+          "D. whose"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคต้องการแสดงความเป็นเจ้าของ (รถยนต์ของชายคนนั้น) จึงต้องใช้ 'whose' อย่าสับสนกับ 'who's' ที่ย่อมาจาก 'who is'"
+      },
+      {
+        "question": "I'll never forget the day ___ we first met.",
+        "options": [
+          "A. where",
+          "B. when",
+          "C. which",
+          "D. who"
+        ],
+        "answer": "B",
+        "explanation": "คำนามข้างหน้าคือ 'the day' (วัน) ซึ่งเป็นเวลา จึงต้องใช้ 'when' เพื่อขยายความ"
+      },
+      {
+        "question": "That's the reason ___ he decided to resign.",
+        "options": [
+          "A. which",
+          "B. what",
+          "C. why",
+          "D. when"
+        ],
+        "answer": "C",
+        "explanation": "เมื่อขยายคำนาม 'the reason' (เหตุผล) เราจะใช้ 'why' เพื่อบอกเหตุผลนั้น"
+      },
+      {
+        "question": "My brother, ___ is a talented musician, lives in New York.",
+        "options": [
+          "A. that",
+          "B. which",
+          "C. who",
+          "D. whose"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้เป็น Non-defining clause (สังเกตจาก comma) ซึ่งให้ข้อมูลเพิ่มเติมเกี่ยวกับ 'My brother' (คน) จึงใช้ 'who' และห้ามใช้ 'that' ใน Non-defining clause"
+      },
+      {
+        "question": "The restaurant, ___ we had dinner last night, was excellent.",
+        "options": [
+          "A. where",
+          "B. that",
+          "C. which",
+          "D. when"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้เป็น Non-defining clause (มี comma) ขยาย 'The restaurant' ซึ่งเป็นสถานที่ จึงใช้ 'where' (เราทานอาหารเย็นที่ร้านอาหารนั้น)"
+      },
+      {
+        "question": "Do you know the woman ___ is talking to our boss?",
+        "options": [
+          "A. whom",
+          "B. which",
+          "C. whose",
+          "D. who"
+        ],
+        "answer": "D",
+        "explanation": "ขยาย 'the woman' (คน) และทำหน้าที่เป็นประธานของกริยา 'is talking' จึงใช้ 'who' หรือ 'that' ก็ได้"
+      },
+      {
+        "question": "The phone ___ I bought last month has already broken.",
+        "options": [
+          "A. who",
+          "B. where",
+          "C. which",
+          "D. whose"
+        ],
+        "answer": "C",
+        "explanation": "ขยาย 'The phone' (สิ่งของ) จึงใช้ 'which' หรือ 'that' และเนื่องจากมันทำหน้าที่เป็นกรรมของ 'bought' (ประธานคือ I) เราจึงสามารถละคำนี้ได้เช่นกัน"
+      },
+      {
+        "question": "This is Dr. Evans, ___ research has changed the world.",
+        "options": [
+          "A. who's",
+          "B. whom",
+          "C. whose",
+          "D. that"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้ต้องการแสดงความเป็นเจ้าของ (งานวิจัยของ Dr. Evans) จึงต้องใช้ 'whose' เป็น Non-defining clause ที่มี comma"
+      },
+      {
+        "question": "The package ___ was delivered this morning is for you.",
+        "options": [
+          "A. who",
+          "B. that",
+          "C. where",
+          "D. when"
+        ],
+        "answer": "B",
+        "explanation": "ขยาย 'The package' (สิ่งของ) และทำหน้าที่เป็นประธานของ 'was delivered' จึงใช้ 'which' หรือ 'that' ก็ได้"
+      },
+      {
+        "question": "We visited the town ___ my grandparents grew up.",
+        "options": [
+          "A. which",
+          "B. where",
+          "C. when",
+          "D. whose"
+        ],
+        "answer": "B",
+        "explanation": "ขยาย 'the town' ซึ่งเป็นสถานที่ (my grandparents grew up in the town) จึงใช้ 'where'"
+      },
+      {
+        "question": "I really enjoyed the book ___ you recommended.",
+        "options": [
+          "A. who",
+          "B. whose",
+          "C. what",
+          "D. that"
+        ],
+        "answer": "D",
+        "explanation": "ขยาย 'the book' (สิ่งของ) จึงใช้ 'that' หรือ 'which' ก็ได้ ในที่นี้ 'that' เป็นกรรม (you recommended the book) จึงสามารถละได้"
+      },
+      {
+        "question": "The colleague with ___ I share an office is on vacation.",
+        "options": [
+          "A. who",
+          "B. that",
+          "C. whom",
+          "D. which"
+        ],
+        "answer": "C",
+        "explanation": "เป็นการใช้แบบทางการ เมื่อ Relative pronoun ตามหลัง preposition (with) และหมายถึงคน เราจะใช้ 'whom'"
+      },
+      {
+        "question": "I don't like people ___ are constantly negative.",
+        "options": [
+          "A. which",
+          "B. whose",
+          "C. who",
+          "D. whom"
+        ],
+        "answer": "C",
+        "explanation": "ขยาย 'people' (คน) และทำหน้าที่เป็นประธานของ 'are' จึงต้องใช้ 'who' หรือ 'that'"
+      },
+      {
+        "question": "The Eiffel Tower, ___ is in Paris, is a famous landmark.",
+        "options": [
+          "A. that",
+          "B. which",
+          "C. where",
+          "D. it"
+        ],
+        "answer": "B",
+        "explanation": "เป็น Non-defining clause (มี comma) ขยาย 'The Eiffel Tower' (สิ่งของ/สถานที่) จึงใช้ 'which' และไม่สามารถใช้ 'that' ได้"
+      },
+      {
+        "question": "Is there a time ___ we can discuss this project?",
+        "options": [
+          "A. when",
+          "B. where",
+          "C. that",
+          "D. which"
+        ],
+        "answer": "A",
+        "explanation": "ขยาย 'a time' (เวลา) จึงต้องใช้ 'when' เพื่อบอกช่วงเวลาที่จะเกิดเหตุการณ์"
+      },
+      {
+        "question": "He's the actor ___ latest film was a huge success.",
+        "options": [
+          "A. who's",
+          "B. whose",
+          "C. whom",
+          "D. that"
+        ],
+        "answer": "B",
+        "explanation": "แสดงความเป็นเจ้าของ (ภาพยนตร์เรื่องล่าสุดของนักแสดงคนนั้น) จึงใช้ 'whose'"
+      },
+      {
+        "question": "The subject ___ I find most difficult is physics.",
+        "options": [
+          "A. who",
+          "B. what",
+          "C. which",
+          "D. where"
+        ],
+        "answer": "C",
+        "explanation": "ขยาย 'The subject' (สิ่งของ) จึงใช้ 'which' หรือ 'that' ในที่นี้ 'which' ทำหน้าที่เป็นกรรม (I find the subject difficult) จึงสามารถละได้"
+      },
+      {
+        "question": "The company ___ he works for is expanding globally.",
+        "options": [
+          "A. who",
+          "B. where",
+          "C. whose",
+          "D. which"
+        ],
+        "answer": "D",
+        "explanation": "ขยาย 'The company' (สิ่งของ/องค์กร) จึงใช้ 'which' หรือ 'that' ประโยคเต็มคือ He works for the company. เราสามารถเขียนแบบทางการได้ว่า The company for which he works...'"
+      },
+      {
+        "question": "Do you remember the name of the hotel ___ we stayed last summer?",
+        "options": [
+          "A. which",
+          "B. when",
+          "C. where",
+          "D. that"
+        ],
+        "answer": "C",
+        "explanation": "ขยาย 'the hotel' ซึ่งเป็นสถานที่ (we stayed at the hotel) จึงต้องใช้ 'where'"
+      },
+      {
+        "question": "I'm looking for a person ___ can speak fluent Japanese.",
+        "options": [
+          "A. who",
+          "B. which",
+          "C. whose",
+          "D. whom"
+        ],
+        "answer": "A",
+        "explanation": "ขยาย 'a person' (คน) และทำหน้าที่เป็นประธานของกริยา 'can speak' จึงต้องใช้ 'who'"
+      },
+      {
+        "question": "The university, ___ was founded in 1950, has an excellent reputation.",
+        "options": [
+          "A. that",
+          "B. it",
+          "C. where",
+          "D. which"
+        ],
+        "answer": "D",
+        "explanation": "เป็น Non-defining clause (มี comma) ขยาย 'The university' (สิ่งของ/สถานที่) จึงใช้ 'which' ห้ามใช้ 'that'"
+      },
+      {
+        "question": "She's the artist ___ paintings are displayed in the gallery.",
+        "options": [
+          "A. who's",
+          "B. whom",
+          "C. whose",
+          "D. which"
+        ],
+        "answer": "C",
+        "explanation": "แสดงความเป็นเจ้าของ (ภาพวาดของศิลปินคนนั้น) จึงต้องใช้ 'whose'"
+      },
+      {
+        "question": "This is the problem ___ we need to solve immediately.",
+        "options": [
+          "A. who",
+          "B. that",
+          "C. what",
+          "D. where"
+        ],
+        "answer": "B",
+        "explanation": "ขยาย 'the problem' (สิ่งของ) จึงใช้ 'that' หรือ 'which' ก็ได้ ทำหน้าที่เป็นกรรมของ 'solve' จึงละได้เช่นกัน"
+      },
+      {
+        "question": "The manager ___ I spoke to was very helpful.",
+        "options": [
+          "A. which",
+          "B. whose",
+          "C. who",
+          "D. what"
+        ],
+        "answer": "C",
+        "explanation": "ขยาย 'The manager' (คน) ในที่นี้เป็นกรรมของ 'spoke to' สามารถใช้ได้ทั้ง who, whom, that หรือละไปเลย ในภาษาพูดปัจจุบันนิยมใช้ 'who' มากกว่า 'whom'"
+      },
+      {
+        "question": "London, ___ has a population of over 8 million, is the capital of the UK.",
+        "options": [
+          "A. that",
+          "B. which",
+          "C. where",
+          "D. it"
+        ],
+        "answer": "B",
+        "explanation": "เป็น Non-defining clause (มี comma) ขยาย 'London' (สถานที่/สิ่งของ) จึงใช้ 'which' ห้ามใช้ 'that'"
+      },
+      {
+        "question": "He didn't give a reason ___ he was late.",
+        "options": [
+          "A. when",
+          "B. which",
+          "C. where",
+          "D. why"
+        ],
+        "answer": "D",
+        "explanation": "ขยายคำนาม 'a reason' (เหตุผล) จึงต้องใช้ 'why'"
+      },
+      {
+        "question": "The student ___ you were talking about just won a scholarship.",
+        "options": [
+          "A. whose",
+          "B. which",
+          "C. whom",
+          "D. what"
+        ],
+        "answer": "C",
+        "explanation": "ขยาย 'The student' (คน) และทำหน้าที่เป็นกรรมของ 'about' (you were talking about the student) จึงใช้ 'whom' หรือ 'who', 'that' หรือละไปเลยก็ได้"
+      },
+      {
+        "question": "The laptop, ___ screen is cracked, needs to be repaired.",
+        "options": [
+          "A. which",
+          "B. that",
+          "C. whose",
+          "D. who's"
+        ],
+        "answer": "C",
+        "explanation": "เป็น Non-defining clause ที่ต้องการแสดงความเป็นเจ้าของ (หน้าจอของแล็ปท็อป) ใช้ 'whose' ได้กับทั้งคนและสิ่งของ"
+      },
+      {
+        "question": "I met someone ___ knows you.",
+        "options": [
+          "A. whom",
+          "B. which",
+          "C. that",
+          "D. whose"
+        ],
+        "answer": "C",
+        "explanation": "ขยาย 'someone' (คน) และทำหน้าที่เป็นประธานของ 'knows' จึงใช้ 'who' หรือ 'that' ก็ได้"
+      },
+      {
+        "question": "The old building, ___ used to be a library, is now a museum.",
+        "options": [
+          "A. where",
+          "B. that",
+          "C. which",
+          "D. it"
+        ],
+        "answer": "C",
+        "explanation": "เป็น Non-defining clause (มี comma) ขยาย 'The old building' (สิ่งของ) จึงใช้ 'which' ห้ามใช้ 'that'"
+      },
+      {
+        "question": "That's the cafe ___ serves the best coffee in town.",
+        "options": [
+          "A. which",
+          "B. where",
+          "C. when",
+          "D. who"
+        ],
+        "answer": "A",
+        "explanation": "ขยาย 'the cafe' (สิ่งของ) และทำหน้าที่เป็นประธานของ 'serves' จึงใช้ 'which' หรือ 'that' ถึงแม้ cafe จะเป็นสถานที่ แต่ในที่นี้เราไม่ได้หมายถึง 'ที่ไหน' แต่หมายถึง 'ร้านไหน' ที่เสิร์ฟกาแฟ"
+      },
+      {
+        "question": "The woman to ___ he is married is a famous scientist.",
+        "options": [
+          "A. who",
+          "B. whom",
+          "C. which",
+          "D. that"
+        ],
+        "answer": "B",
+        "explanation": "เป็นโครงสร้างแบบทางการ เมื่อมี preposition (to) นำหน้า Relative Pronoun ที่หมายถึงคน เราต้องใช้ 'whom'"
+      },
+      {
+        "question": "The festival, ___ takes place every August, attracts thousands of tourists.",
+        "options": [
+          "A. that",
+          "B. when",
+          "C. which",
+          "D. where"
+        ],
+        "answer": "C",
+        "explanation": "เป็น Non-defining clause (มี comma) ขยาย 'The festival' (สิ่งของ/เหตุการณ์) และทำหน้าที่เป็นประธานของ 'takes place' จึงใช้ 'which'"
+      },
+      {
+        "question": "Can you tell me the reason ___ the flight was cancelled?",
+        "options": [
+          "A. what",
+          "B. when",
+          "C. which",
+          "D. why"
+        ],
+        "answer": "D",
+        "explanation": "เมื่อต้องการขยายคำว่า 'the reason' (เหตุผล) เราจะใช้ Relative adverb 'why'"
+      },
+      {
+        "question": "The house ___ they bought is over 100 years old.",
+        "options": [
+          "A. whose",
+          "B. which",
+          "C. where",
+          "D. who"
+        ],
+        "answer": "B",
+        "explanation": "ขยาย 'The house' (สิ่งของ) จึงใช้ 'which' หรือ 'that' ทำหน้าที่เป็นกรรมของ 'bought' (they bought the house) จึงละได้ด้วย"
+      },
+      {
+        "question": "I have a friend ___ father is a pilot.",
+        "options": [
+          "A. who",
+          "B. who's",
+          "C. whose",
+          "D. that"
+        ],
+        "answer": "C",
+        "explanation": "แสดงความเป็นเจ้าของ (พ่อของเพื่อน) จึงต้องใช้ 'whose'"
+      },
+      {
+        "question": "The ideas ___ were presented in the meeting were innovative.",
+        "options": [
+          "A. what",
+          "B. that",
+          "C. where",
+          "D. when"
+        ],
+        "answer": "B",
+        "explanation": "ขยาย 'The ideas' (สิ่งของ) และทำหน้าที่เป็นประธานของ 'were presented' จึงใช้ 'that' หรือ 'which' ก็ได้"
+      },
+      {
+        "question": "Mount Everest, ___ is the highest mountain in the world, is in the Himalayas.",
+        "options": [
+          "A. that",
+          "B. which",
+          "C. what",
+          "D. it"
+        ],
+        "answer": "B",
+        "explanation": "เป็น Non-defining clause (มี comma) ขยาย 'Mount Everest' (สิ่งของ/สถานที่) จึงต้องใช้ 'which' เท่านั้น"
+      },
+      {
+        "question": "That was the year ___ I graduated from university.",
+        "options": [
+          "A. where",
+          "B. which",
+          "C. when",
+          "D. why"
+        ],
+        "answer": "C",
+        "explanation": "ขยาย 'the year' (เวลา) จึงต้องใช้ 'when'"
+      },
+      {
+        "question": "The employees ___ completed the training received a certificate.",
+        "options": [
+          "A. who",
+          "B. which",
+          "C. whom",
+          "D. whose"
+        ],
+        "answer": "A",
+        "explanation": "ขยาย 'The employees' (คน) และทำหน้าที่เป็นประธานของ 'completed' จึงต้องใช้ 'who' หรือ 'that'"
+      },
+      {
+        "question": "I returned the dress ___ was too small for me.",
+        "options": [
+          "A. who",
+          "B. where",
+          "C. when",
+          "D. which"
+        ],
+        "answer": "D",
+        "explanation": "ขยาย 'the dress' (สิ่งของ) และทำหน้าที่เป็นประธานของ 'was' จึงต้องใช้ 'which' หรือ 'that'"
+      },
+      {
+        "question": "The city ___ I'd most like to visit is Kyoto.",
+        "options": [
+          "A. who",
+          "B. what",
+          "C. that",
+          "D. where"
+        ],
+        "answer": "C",
+        "explanation": "ขยาย 'The city' (สิ่งของ) จึงใช้ 'that' หรือ 'which' ก็ได้ ในที่นี้ 'that' เป็นกรรม (I'd like to visit the city) จึงสามารถละได้"
+      },
+      {
+        "question": "He is the only person ___ understood my situation.",
+        "options": [
+          "A. which",
+          "B. whom",
+          "C. that",
+          "D. what"
+        ],
+        "answer": "C",
+        "explanation": "ขยาย 'person' (คน) และทำหน้าที่เป็นประธานของ 'understood' โดยปกติหลังคำคุณศัพท์ขั้นสูงสุด (superlatives) หรือคำว่า the only, the first, the last เรามักจะนิยมใช้ 'that'"
+      },
+      {
+        "question": "My new car, ___ I bought last week, is very fuel-efficient.",
+        "options": [
+          "A. that",
+          "B. which",
+          "C. it",
+          "D. where"
+        ],
+        "answer": "B",
+        "explanation": "เป็น Non-defining clause (มี comma) ขยาย 'My new car' (สิ่งของ) จึงต้องใช้ 'which' เท่านั้น และ 'which' เป็นกรรมของ 'bought' (I bought the car last week)"
+      },
+      {
+        "question": "She showed me the photos ___ she had taken on holiday.",
+        "options": [
+          "A. who",
+          "B. where",
+          "C. whose",
+          "D. which"
+        ],
+        "answer": "D",
+        "explanation": "ขยาย 'the photos' (สิ่งของ) จึงใช้ 'which' หรือ 'that' ทำหน้าที่เป็นกรรมของ 'had taken' (she had taken the photos) จึงละได้"
+      },
+      {
+        "question": "The consultant ___ advice we followed was very experienced.",
+        "options": [
+          "A. who",
+          "B. whose",
+          "C. whom",
+          "D. which"
+        ],
+        "answer": "B",
+        "explanation": "แสดงความเป็นเจ้าของ (คำแนะนำของที่ปรึกษา) จึงต้องใช้ 'whose' (we followed the consultant's advice)"
+      },
+      {
+        "question": "We went to see the film 'Oppenheimer', ___ I found fascinating.",
+        "options": [
+          "A. that",
+          "B. who",
+          "C. which",
+          "D. what"
+        ],
+        "answer": "C",
+        "explanation": "เป็น Non-defining clause (มี comma) ในกรณีนี้ 'which' ไม่ได้ขยายแค่คำนาม 'Oppenheimer' แต่ขยายความหมายของทั้งประโยคก่อนหน้า (การที่ได้ไปดูหนังเรื่องนี้) ว่าเป็นสิ่งที่น่าทึ่ง"
+      }
+    ]
+  }
+]

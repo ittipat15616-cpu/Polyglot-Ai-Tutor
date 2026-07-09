@@ -1,0 +1,1010 @@
+[
+  {
+    "id": "29_1",
+    "title": "29.1 Basic Tag Questions (Positive -> Negative, Negative -> Positive)",
+    "explanation": "Tag Question คือ คำถามสั้นๆ ที่ต่อท้ายประโยคบอกเล่า (Statement) เพื่อต้องการการยืนยัน (Confirmation) หรือขอความเห็นด้วย (Agreement) จากผู้ฟัง มีความหมายคล้ายๆ กับ \"...ใช่ไหม?\", \"...หรือเปล่า?\" ในภาษาไทย\n\nหลักการพื้นฐานที่สำคัญที่สุดมี 2 ข้อ:\n1.  **ประโยคบอกเล่าเป็น Positive (บอกเล่า) → Tag จะเป็น Negative (ปฏิเสธ)**\n    โครงสร้าง: Statement (+), + Auxiliary Verb + n't + Pronoun?\n    ตัวอย่าง: You are a student, are**n't** you?\n\n2.  **ประโยคบอกเล่าเป็น Negative (ปฏิเสธ) → Tag จะเป็น Positive (บอกเล่า)**\n    โครงสร้าง: Statement (-), + Auxiliary Verb + Pronoun?\n    ตัวอย่าง: You are**n't** a student, **are** you?\n\n**วิธีการสร้าง Tag:**\n1.  **หา Verb ช่วย (Auxiliary Verb):** ดูว่าในประโยคบอกเล่ามี Verb ช่วย (เช่น is, am, are, was, were, have, has, had, do, does, did, will, can, should, etc.) หรือไม่\n    *   ถ้า **มี**, ให้ดึง Verb ช่วยตัวนั้นมาสร้าง Tag ได้เลย\n    *   ถ้า **ไม่มี** (ประโยคเป็น Present Simple หรือ Past Simple ที่ใช้ Verb แท้), ให้ใช้ **do/does** (สำหรับปัจจุบัน) หรือ **did** (สำหรับอดีต) มาช่วยแทน\n2.  **เปลี่ยนเป็นขั้วตรงข้าม:** ถ้าประโยคเป็นบอกเล่า (+) Tag ต้องเป็นปฏิเสธ (-), ถ้าประโยคเป็นปฏิเสธ (-) Tag ต้องเป็นบอกเล่า (+)\n3.  **ใช้สรรพนาม (Pronoun):** คำสรรพนาม (I, you, we, they, he, she, it) ใน Tag ต้องสอดคล้องกับประธาน (Subject) ของประโยคหลักเสมอ",
+    "examples": [
+      {
+        "eng": "The team has been practicing relentlessly for the tournament, hasn't it?",
+        "thai": "ทีมซ้อมกันอย่างไม่หยุดหย่อนเพื่อการแข่งขันใช่ไหม? (ประโยคเป็น Present Perfect Continuous (+) ใช้ has เป็น Verb ช่วย ดังนั้น Tag จึงเป็น hasn't + it ซึ่งแทน The team)"
+      },
+      {
+        "eng": "She didn't seem particularly interested in the proposal, did she?",
+        "thai": "ดูเหมือนเธอจะไม่ได้สนใจข้อเสนอนั้นเป็นพิเศษเลยใช่ไหม? (ประโยคเป็น Past Simple (-) ใช้ didn't เป็น Verb ช่วย ดังนั้น Tag จึงเป็น did + she)"
+      },
+      {
+        "eng": "You would have accepted the offer if the conditions were better, wouldn't you?",
+        "thai": "คุณคงจะตอบรับข้อเสนอนั้นไปแล้วถ้าเงื่อนไขมันดีกว่านี้ ใช่ไหมล่ะ? (ประโยคเป็น Conditional (+) ใช้ would เป็น Verb ช่วย ดังนั้น Tag จึงเป็น wouldn't + you)"
+      },
+      {
+        "eng": "He hardly ever complains about the workload, does he?",
+        "thai": "เขาแทบจะไม่เคยบ่นเรื่องภาระงานเลยใช่ไหม? (ข้อควรระวัง: คำว่า hardly, rarely, seldom, never, barely มีความหมายเชิงปฏิเสธ ทำให้ประโยคหลักถือว่าเป็น Negative (-) ดังนั้น Tag ต้องเป็น Positive (+) ใช้ does he)"
+      },
+      {
+        "eng": "The regulations won't be implemented until next quarter, will they?",
+        "thai": "กฎระเบียบต่างๆ จะยังไม่ถูกบังคับใช้จนกว่าจะถึงไตรมาสหน้า ใช่หรือไม่? (ประโยคเป็น Future Simple (-) ใช้ won't (will not) เป็น Verb ช่วย ดังนั้น Tag จึงเป็น will + they ซึ่งแทน The regulations)"
+      }
+    ],
+    "common_mistakes": "1.  **ใช้ Verb ช่วยผิดตัว:** คนไทยมักสับสนและนำ Verb to be มาใช้กับประโยคที่ไม่มี Verb to be อยู่ เช่น\n    *   ผิด: He finished his assignment, **isn't he?**\n    *   ถูก: He finished his assignment, **didn't he?** (ประโยคเป็น Past Simple ต้องใช้ did)\n\n2.  **ใช้ Polarity (ขั้ว +/-) ไม่ตรงข้าม:** เผลอใช้ Tag ที่เป็นขั้วเดียวกับประโยคหลัก\n    *   ผิด: You're coming to the party, **are you?**\n    *   ถูก: You're coming to the party, **aren't you?** (ประโยคเป็น + Tag ต้องเป็น -)\n\n3.  **สับสนกับการตอบ Yes/No:** ในภาษาไทย การตอบ \"ใช่\" อาจหมายถึงการเห็นด้วยกับประโยคปฏิเสธ แต่ในภาษาอังกฤษ Yes/No จะยึดตามความจริงของเหตุการณ์นั้นๆ\n    *   คำถาม: You didn't submit the report, **did you?** (คุณยังไม่ได้ส่งรายงานใช่ไหม?)\n    *   ถ้าคุณ **ส่งแล้ว** ต้องตอบ: **Yes, I did.** (ไม่ใช่ตอบ No เพื่อปฏิเสธคำถาม)\n    *   ถ้าคุณ **ยังไม่ส่ง** ต้องตอบ: **No, I didn't.** (ไม่ใช่ตอบ Yes เพื่อยืนยันว่ายังไม่ได้ส่ง)\n    จุดนี้คือสิ่งที่สร้างความสับสนมากที่สุด เพราะโครงสร้างการตอบไม่เหมือนกับภาษาไทย\n\n4.  **ใช้สรรพนาม (Pronoun) ไม่ถูกต้อง:** ลืมเปลี่ยนประธานที่เป็นคำนามให้เป็นสรรพนาม\n    *   ผิด: The project was successful, **wasn't the project?**\n    *   ถูก: The project was successful, **wasn't it?** (The project ใช้ it แทน)",
+    "practice_questions": [
+      {
+        "question": "The marketing team has developed a new strategy to increase sales, __________?",
+        "options": [
+          "A. has it",
+          "B. hasn't it",
+          "C. did they",
+          "D. didn't they"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคหลัก (The marketing team has developed...) เป็น Positive และใช้ Present Perfect (has developed) โดยมี 'has' เป็น Verb ช่วย ดังนั้น Tag Question ต้องเป็น Negative คือ hasn't และใช้สรรพนาม 'it' แทน 'The marketing team' (มองเป็นหน่วยงานเดียว)"
+      },
+      {
+        "question": "You weren't informed about the sudden change of schedule, __________?",
+        "options": [
+          "A. were you",
+          "B. weren't you",
+          "C. did you",
+          "D. didn't you"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคหลัก (You weren't informed...) เป็น Negative และใช้ Past Simple ของ Verb to be ('were not') ดังนั้น Tag Question ต้องเป็น Positive คือ were you?"
+      },
+      {
+        "question": "He hardly ever takes a day off, even when he's feeling unwell, __________?",
+        "options": [
+          "A. isn't he",
+          "B. hasn't he",
+          "C. doesn't he",
+          "D. does he"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคนี้มีคำว่า 'hardly ever' ซึ่งมีความหมายเชิงปฏิเสธ (Negative) ทำให้ประโยคหลักถือว่าเป็น Negative และเป็น Present Simple (takes) ดังนั้น Tag Question จึงต้องเป็น Positive และใช้ 'does' มาช่วย กลายเป็น does he?"
+      },
+      {
+        "question": "This complicated issue will require further investigation, __________?",
+        "options": [
+          "A. will it",
+          "B. will not it",
+          "C. won't it",
+          "D. does it"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคหลัก (This complicated issue will require...) เป็น Positive และใช้ Future Simple ('will require') ดังนั้น Tag Question ต้องเป็น Negative คือ won't it? (won't คือรูปย่อของ will not และ 'it' แทน 'This complicated issue')"
+      },
+      {
+        "question": "The employees hadn't received the memo by the time the meeting started, __________?",
+        "options": [
+          "A. had they",
+          "B. hadn't they",
+          "C. did they",
+          "D. didn't they"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคหลัก (The employees hadn't received...) เป็น Negative และใช้ Past Perfect ('had not received') ดังนั้น Tag Question ต้องเป็น Positive คือ had they? โดย 'they' แทน 'The employees'"
+      },
+      {
+        "question": "She managed to negotiate a much better contract for the company, __________?",
+        "options": [
+          "A. did she",
+          "B. didn't she",
+          "C. has she",
+          "D. wasn't she"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคหลัก (She managed...) เป็น Positive และเป็น Past Simple Tense ในประโยคไม่มี Verb ช่วย จึงต้องใช้ 'did' มาช่วยสร้าง Tag และเนื่องจากประโยคเป็น Positive Tag จึงต้องเป็น Negative คือ didn't she?"
+      },
+      {
+        "question": "Nobody seems to know the exact location of the ancient artifact, __________?",
+        "options": [
+          "A. do they",
+          "B. does he",
+          "C. don't they",
+          "D. doesn't it"
+        ],
+        "answer": "A",
+        "explanation": "เป็นข้อที่ซับซ้อนขึ้น ประธาน 'Nobody' มีความหมายเชิงปฏิเสธ (Negative) และถึงแม้จะเป็นเอกพจน์ (ใช้กับ verb 'seems') แต่ใน Tag Question เราจะใช้สรรพนาม 'they' แทน ดังนั้น Tag จึงต้องเป็น Positive คือ do they?"
+      },
+      {
+        "question": "You shouldn't have spent so much money on that gadget, __________?",
+        "options": [
+          "A. should you",
+          "B. shouldn't you",
+          "C. have you",
+          "D. haven't you"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคหลัก (You shouldn't have spent...) เป็น Negative โดยมี Verb ช่วยคือ 'shouldn't' ดังนั้น Tag Question ต้องเป็น Positive โดยใช้ Verb ช่วยตัวเดียวกัน คือ should you?"
+      },
+      {
+        "question": "The quality of these products has improved significantly, __________?",
+        "options": [
+          "A. has it",
+          "B. have they",
+          "C. hasn't it",
+          "D. haven't they"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคหลัก (The quality... has improved) เป็น Positive และใช้ Present Perfect ('has improved') ประธานของประโยคคือ 'The quality' ซึ่งเป็นเอกพจน์ ไม่ใช่ 'products' ดังนั้น Tag Question ต้องเป็น Negative คือ hasn't it?"
+      },
+      {
+        "question": "It's been a rather challenging year for the entire industry, __________?",
+        "options": [
+          "A. is it",
+          "B. isn't it",
+          "C. has it",
+          "D. hasn't it"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคหลัก 'It's been...' ย่อมาจาก 'It has been...' ซึ่งเป็น Present Perfect และเป็น Positive ดังนั้น Tag Question จึงต้องเป็น Negative คือ hasn't it?"
+      }
+    ]
+  },
+  {
+    "id": "29_2",
+    "title": "29.2 Exceptions in Tag Questions (I am -> aren't I?, Let's -> shall we?)",
+    "explanation": "โดยทั่วไปแล้ว Tag Questions จะสร้างตามกฎ 'ประโยคบอกเล่า + Tag ปฏิเสธ' และ 'ประโยคปฏิเสธ + Tag บอกเล่า' แต่มีหลายกรณีที่เป็นข้อยกเว้นและไม่เป็นไปตามกฎนี้ ซึ่งเป็นสิ่งที่ผู้เรียนระดับกลางต้องรู้เพื่อใช้ภาษาได้อย่างเป็นธรรมชาติ\n\n1.  **I am... → aren't I?**\n    เมื่อประโยคหลักขึ้นต้นด้วย `I am...` (บอกเล่า) Tag Question ที่ถูกต้องและเป็นที่ยอมรับในภาษาอังกฤษปัจจุบันคือ `aren't I?` ไม่ใช่ `am't I?` (ซึ่งไม่มีใช้) หรือ `am I not?` (ซึ่งเป็นทางการมากและไม่นิยมใช้ในการสนทนา)\n    *ข้อควรจำ:* แต่ถ้าประโยคหลักเป็นปฏิเสธ `I am not...` Tag จะกลับไปใช้ `am I?` ตามกฎเดิม\n\n2.  **Let's... → shall we?**\n    ประโยคที่ขึ้นต้นด้วย `Let's` (มาจาก Let us) เป็นการเสนอแนะหรือชักชวนให้ทำอะไรบางอย่างร่วมกัน Tag Question ที่ใช้จะเป็น `shall we?` เสมอ เพื่อถามความเห็นหรือขอความเห็นชอบจากผู้ฟัง\n\n3.  **Imperatives (ประโยคคำสั่ง/ขอร้อง)... → will you? / won't you?**\n    สำหรับประโยคคำสั่งหรือขอร้องทั่วไป เราจะใช้ `will you?` หรือ `won't you?` เพื่อทำให้ประโยคฟังดูสุภาพขึ้น หรือเป็นการเน้นย้ำ\n    *   `will you?` เป็นกลางๆ\n    *   `won't you?` ใช้ในเชิงชักชวน คาดหวังให้ตอบรับ\n\n4.  **Negative Imperatives (ประโยคคำสั่งห้าม)... → will you?**\n    สำหรับประโยคคำสั่งห้ามที่ขึ้นต้นด้วย `Don't...` Tag Question ที่ใช้จะเป็น `will you?` เสมอ (เป็น Tag บอกเล่า)\n\n5.  **ประโยคที่มีคำที่มีความหมายเชิงปฏิเสธ → Positive Tag**\n    คำศัพท์บางคำมีความหมายเป็นปฏิเสธในตัวเอง เช่น `never` (ไม่เคย), `seldom`/`rarely` (แทบจะไม่), `hardly`/`barely`/`scarcely` (แทบจะไม่), `nobody`/`no one` (ไม่มีใคร), `nothing` (ไม่มีอะไร), `little` (แทบจะไม่มี) เมื่อคำเหล่านี้อยู่ในประโยค ประโยคนั้นจะถือว่าเป็นประโยคปฏิเสธ ดังนั้น Tag Question จะต้องเป็นรูปบอกเล่า\n\n6.  **สรรพนามไม่ชี้เฉพาะ (Indefinite Pronouns) → ...they?**\n    เมื่อประธานของประโยคเป็นสรรพนามไม่ชี้เฉพาะที่หมายถึงบุคคล เช่น `everyone`, `somebody`, `anyone`, `nobody`, `no one` เราจะใช้สรรพนาม `they` ใน Tag Question ถึงแม้กริยาในประโยคหลักจะเป็นรูปเอกพจน์ก็ตาม",
+    "examples": [
+      {
+        "eng": "I'm your best option for this position, aren't I?",
+        "thai": "ฉันเป็นตัวเลือกที่ดีที่สุดสำหรับตำแหน่งนี้ใช่ไหม? (ประโยค I am... ใช้ Tag เป็น aren't I?)"
+      },
+      {
+        "eng": "I'm not interrupting anything important, am I?",
+        "thai": "ฉันไม่ได้กำลังขัดจังหวะอะไรที่สำคัญอยู่ใช่ไหม? (ประโยค I am not... ใช้ Tag เป็น am I?)"
+      },
+      {
+        "eng": "Let's review the quarterly report before the meeting, shall we?",
+        "thai": "เรามาทบทวนรายงานประจำไตรมาสก่อนเข้าประชุมกันเถอะ ดีไหม? (ประโยค Let's... ใช้ Tag เป็น shall we?)"
+      },
+      {
+        "eng": "Submit your proposal by the end of the day, will you?",
+        "thai": "ส่งข้อเสนอของคุณภายในสิ้นวันนี้นะ ได้ไหม? (ประโยคคำสั่ง ใช้ will you? เพื่อให้สุภาพขึ้น)"
+      },
+      {
+        "eng": "He hardly ever makes any contribution to the team, does he?",
+        "thai": "เขาแทบจะไม่เคยทำประโยชน์อะไรให้ทีมเลยใช่ไหม? (hardly ever ทำให้ประโยคเป็นปฏิเสธ จึงต้องใช้ Tag บอกเล่า)"
+      },
+      {
+        "eng": "Nobody has claimed the lost property, have they?",
+        "thai": "ยังไม่มีใครมาแสดงตัวเป็นเจ้าของทรัพย์สินที่หายไปเลยใช่ไหม? (Nobody เป็นปฏิเสธ และใช้สรรพนาม they ใน Tag)"
+      },
+      {
+        "eng": "Everyone seems satisfied with the arrangement, don't they?",
+        "thai": "ดูเหมือนทุกคนจะพอใจกับการจัดการนี้ใช่ไหม? (Everyone ใช้สรรพนาม they ใน Tag ทำให้ต้องใช้ don't ไม่ใช่ doesn't)"
+      },
+      {
+        "eng": "There's little evidence to support his theory, is there?",
+        "thai": "มีหลักฐานน้อยมากที่จะสนับสนุนทฤษฎีของเขาใช่ไหม? (little ทำให้ประโยคเป็นปฏิเสธ จึงใช้ is there?)"
+      }
+    ],
+    "common_mistakes": "1.  **I am → am't I?:** คนไทยมักจะพยายามผันตามกฎปกติ เลยใช้ 'am't I?' หรือ 'amn't I?' ซึ่งผิดไวยากรณ์มาตรฐานในบทสนทนา ต้องจำเสมอว่า `I am...` ใช้คู่กับ `aren't I?`\n2.  **Let's → don't we?:** เป็นข้อผิดพลาดที่พบบ่อยมาก เพราะเห็น 'us' (ใน Let's) ก็เลยนึกถึง 'we' แล้วใช้ Tag เป็น `don't we?` ซึ่งผิด ที่ถูกต้องคือประโยคชักชวน `Let's...` ต้องใช้ `shall we?` เท่านั้น\n3.  **มองข้ามคำปฏิเสธแฝง (Hidden Negatives):** ไม่ทันสังเกตว่าคำอย่าง `seldom`, `hardly`, `rarely`, `barely` ทำให้ประโยคเป็นปฏิเสธไปแล้ว และยังคงใช้ Tag ที่เป็นปฏิเสธซ้ำเข้าไปอีก เช่น `She rarely travels, doesn't she?` (ผิด) ที่ถูกคือ `She rarely travels, does she?`\n4.  **ใช้ he/she กับ Everyone/Someone:** เมื่อเจอประธานอย่าง `Everyone` หรือ `Somebody` มักจะสับสนว่าจะใช้สรรพนามอะไรใน Tag แล้วเลือกใช้ `he` หรือ `she` เช่น `Someone forgot their umbrella, didn't he?` (ผิด) ที่ถูกต้องคือต้องใช้ `they` เพื่อความครอบคลุม: `Someone forgot their umbrella, didn't they?`",
+    "practice_questions": [
+      {
+        "question": "I'm in charge of coordinating with the new vendors, ________?",
+        "options": [
+          "A. am I not",
+          "B. don't I",
+          "C. aren't I",
+          "D. am I"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคบอกเล่าที่ขึ้นต้นด้วย 'I am...' หรือ 'I'm...' จะมี Tag Question ที่เป็นข้อยกเว้นคือ 'aren't I?'"
+      },
+      {
+        "question": "Let's postpone the final decision until we have more data, ________?",
+        "options": [
+          "A. will we",
+          "B. do we",
+          "C. aren't we",
+          "D. shall we"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคที่ขึ้นต้นด้วย 'Let's...' เพื่อเสนอแนะหรือชักชวน จะใช้ Tag Question ว่า 'shall we?' เสมอ"
+      },
+      {
+        "question": "Nobody seemed to recognize the technical issue, ________?",
+        "options": [
+          "A. did they",
+          "B. didn't they",
+          "C. did he",
+          "D. were they"
+        ],
+        "answer": "A",
+        "explanation": "คำว่า 'Nobody' ทำให้ประโยคเป็นปฏิเสธ ดังนั้น Tag ต้องเป็นบอกเล่า และใช้สรรพนาม 'they' แทน Nobody ทำให้ต้องใช้ 'did they'"
+      },
+      {
+        "question": "She seldom voices her opinion during meetings, ________?",
+        "options": [
+          "A. isn't she",
+          "B. does she",
+          "C. doesn't she",
+          "D. is she"
+        ],
+        "answer": "B",
+        "explanation": "คำว่า 'seldom' (แทบจะไม่) มีความหมายเป็นปฏิเสธ ทำให้ Tag Question ต้องอยู่ในรูปบอกเล่า และกริยาหลักคือ voices (Present Simple) จึงต้องใช้ 'does she'"
+      },
+      {
+        "question": "Don't mention our new strategy to the competitors, ________?",
+        "options": [
+          "A. do you",
+          "B. will you",
+          "C. should you",
+          "D. don't you"
+        ],
+        "answer": "B",
+        "explanation": "นี่คือประโยคคำสั่งห้าม (Negative Imperative) ซึ่งจะใช้ Tag Question ว่า 'will you?' เสมอ"
+      },
+      {
+        "question": "There is little justification for such a drastic change, ________?",
+        "options": [
+          "A. isn't it",
+          "B. isn't there",
+          "C. is it",
+          "D. is there"
+        ],
+        "answer": "D",
+        "explanation": "คำว่า 'little' (แทบจะไม่มี) ทำให้ประโยคเป็นปฏิเสธ Tag จึงต้องเป็นบอกเล่า และประโยคที่ขึ้นต้นด้วย 'There is' จะใช้ 'there' เป็นประธานใน Tag ด้วย"
+      },
+      {
+        "question": "Everyone on the committee has agreed to the terms, ________?",
+        "options": [
+          "A. has he",
+          "B. haven't they",
+          "C. doesn't he",
+          "D. have they"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้เป็นบอกเล่า Tag จึงต้องเป็นปฏิเสธ ประธานคือ 'Everyone' ซึ่งใน Tag Question จะใช้สรรพนาม 'they' เมื่อใช้กับ 'they' กริยาช่วย 'has' ต้องเปลี่ยนเป็น 'have' ดังนั้น Tag ที่ถูกต้องคือ 'haven't they?'"
+      },
+      {
+        "question": "Pass me the quarterly financial report, ________?",
+        "options": [
+          "A. shall I",
+          "B. don't you",
+          "C. will you",
+          "D. do you"
+        ],
+        "answer": "C",
+        "explanation": "นี่คือประโยคขอร้อง (Imperative) เราใช้ 'will you?' เพื่อทำให้การขอร้องสุภาพและเป็นกันเองมากขึ้น"
+      },
+      {
+        "question": "I'm not qualified for that advanced role yet, ________?",
+        "options": [
+          "A. aren't I",
+          "B. am I not",
+          "C. am I",
+          "D. do I"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคหลักเป็นปฏิเสธ 'I am not...' ดังนั้น Tag Question จะกลับไปใช้กฎปกติ คือเป็นรูปบอกเล่า 'am I?'"
+      },
+      {
+        "question": "He has barely made any progress on the assignment, ________?",
+        "options": [
+          "A. hasn't he",
+          "B. has he",
+          "C. does he",
+          "D. doesn't he"
+        ],
+        "answer": "B",
+        "explanation": "คำว่า 'barely' (แทบจะไม่) เป็นคำปฏิเสธแฝง ทำให้ประโยคเป็นปฏิเสธ Tag จึงต้องเป็นบอกเล่า กริยาช่วยในประโยคคือ 'has' ดังนั้น Tag ที่ถูกต้องคือ 'has he'"
+      }
+    ]
+  },
+  {
+    "id": "29_3",
+    "title": "29.3 Reply Questions (So do I, Neither do I, I do too)",
+    "explanation": "Reply Questions คือประโยคตอบรับสั้นๆ เพื่อแสดงความเห็นด้วยกับผู้พูด ใช้เมื่อเรามีความรู้สึก, ประสบการณ์, หรือความคิดเห็นเหมือนกันกับประโยคที่เพิ่งได้ยินมา แบ่งเป็น 2 กรณีหลักๆ คือ การเห็นด้วยกับประโยคบอกเล่า และการเห็นด้วยกับประโยคปฏิเสธ\n\n**1. การเห็นด้วยกับประโยคบอกเล่า (Positive Statements)**\nเราสามารถใช้ได้ 2 โครงสร้าง:\n\n*   **So + Auxiliary Verb + Subject**\n    โครงสร้างนี้มีความเป็นทางการมากกว่าเล็กน้อย และต้องมีการสลับตำแหน่งระหว่างกริยาช่วย (Auxiliary Verb) และประธาน (Subject)\n    *   กริยาช่วยที่ใช้ต้องสอดคล้องกับ Tense ของประโยคแรก\n    *   เช่น: So do I, So am I, So can I, So did I, So have I.\n\n*   **Subject + Auxiliary Verb, too**\n    โครงสร้างนี้มีความเป็นกันเองมากกว่า และเรียงประโยคตามปกติ\n    *   เช่น: I do too, I am too, I can too, I did too, I have too.\n\n**2. การเห็นด้วยกับประโยคปฏิเสธ (Negative Statements)**\nเราสามารถใช้ได้ 2 โครงสร้างเช่นกัน:\n\n*   **Neither / Nor + Auxiliary Verb + Subject**\n    *   Neither และ Nor มีความหมายเหมือนกัน (แปลว่า 'ไม่...เช่นกัน') และสามารถใช้สลับกันได้ โครงสร้างนี้ต้องสลับที่กริยาช่วยกับประธานเหมือน 'So'\n    *   **สำคัญมาก:** เนื่องจาก Neither/Nor มีความหมายเป็นปฏิเสธในตัวอยู่แล้ว กริยาช่วยที่ตามมาจึงต้องอยู่ในรูปบอกเล่าเสมอ (ห้ามใช้ can't, don't, wasn't)\n    *   เช่น: Neither do I, Neither am I, Neither can I, Neither did I.\n\n*   **Subject + Auxiliary Verb (negative) + either**\n    *   โครงสร้างนี้จะใช้กริยาช่วยในรูปปฏิเสธ และปิดท้ายด้วยคำว่า 'either'\n    *   เช่น: I don't either, I'm not either, I can't either, I didn't either.\n\n**การเลือกใช้ Auxiliary Verb:**\n- ถ้าประโยคแรกใช้ Verb to be (is, am, are, was, were) -> เราก็ใช้ Verb to be\n- ถ้าประโยคแรกใช้ Modal Verb (can, will, should, must) -> เราก็ใช้ Modal Verb นั้นๆ\n- ถ้าประโยคแรกเป็น Present Simple (v.1) -> เราใช้ do/does\n- ถ้าประโยคแรกเป็น Past Simple (v.2) -> เราใช้ did\n- ถ้าประโยคแรกเป็น Perfect Tense (have/has/had + v.3) -> เราใช้ have/has/had",
+    "examples": [
+      {
+        "eng": "A: I've been feeling quite overwhelmed with work lately.\nB: So have I. It's been a challenging month.",
+        "thai": "A: ช่วงนี้ฉันรู้สึกว่างานท่วมท้นมากเลย\nB: ฉันก็เหมือนกัน เดือนนี้เป็นเดือนที่ท้าทายจริงๆ (ใช้ have เพราะประโยคแรกเป็น Present Perfect Continuous)"
+      },
+      {
+        "eng": "A: He probably won't approve the new budget proposal.\nB: Neither will I, unless they provide more details.",
+        "thai": "A: เขาคงจะไม่อนุมัติข้อเสนองบประมาณใหม่\nB: ฉันก็คงไม่เหมือนกัน ถ้าพวกเขาไม่ให้รายละเอียดมากกว่านี้ (ใช้ will เพราะประโยคแรกเป็น Future Simple ปฏิเสธ และ Neither ต้องตามด้วยกริยาช่วยรูปบอกเล่า)"
+      },
+      {
+        "eng": "A: The management team decided to postpone the project deadline.\nB: So did our department. It was a necessary decision.",
+        "thai": "A: ทีมผู้บริหารตัดสินใจเลื่อนเดดไลน์ของโปรเจกต์ออกไป\nB: แผนกเราก็เหมือนกัน มันเป็นการตัดสินใจที่จำเป็น (ใช้ did เพราะประโยคแรกเป็น Past Simple)"
+      },
+      {
+        "eng": "A: I can't stand it when people are late for important meetings.\nB: I can't either. It shows a lack of respect.",
+        "thai": "A: ฉันทนไม่ได้เลยเวลาคนมาประชุมสำคัญสาย\nB: ฉันก็ทนไม่ได้เหมือนกัน มันแสดงถึงการไม่ให้เกียรติ (ใช้โครงสร้าง ...not either เพื่อเห็นด้วยกับประโยคปฏิเสธ)"
+      },
+      {
+        "eng": "A: You should have invested in that startup when you had the chance.\nB: So should you! We both missed a great opportunity.",
+        "thai": "A: คุณน่าจะลงทุนในสตาร์ทอัพนั้นตอนที่มีโอกาสนะ\nB: คุณก็เหมือนกันนั่นแหละ! เราทั้งคู่พลาดโอกาสดีๆ ไปเลย (ใช้ should เพราะประโยคแรกเป็น Modal Perfect)"
+      }
+    ],
+    "common_mistakes": "- **ใช้ 'Me too' กับประโยคปฏิเสธ:** คนไทยมักติดใช้ 'Me too' ในทุกสถานการณ์ แต่จริงๆ แล้ว 'Me too' ใช้เห็นด้วยกับประโยคบอกเล่าเท่านั้น ถ้าจะเห็นด้วยกับประโยคปฏิเสธแบบสั้นๆ ต้องใช้ 'Me neither'\n  *   A: \"I don't like horror films.\" -> ผิด: \"Me too.\" -> ถูก: \"Me neither.\"\n\n- **ใช้ปฏิเสธซ้อน (Double Negative):** เนื่องจาก Neither/Nor มีความหมายเชิงลบอยู่แล้ว กริยาช่วยที่ตามมาต้องเป็นรูปบอกเล่าเสมอ ห้ามเป็นรูปปฏิเสธเด็ดขาด\n  *   A: \"I haven't finished my report.\" -> ผิด: \"Neither haven't I.\" -> ถูก: \"Neither have I.\"\n\n- **ใช้กริยาช่วย (Auxiliary Verb) ผิด Tense:** กริยาช่วยที่ใช้ใน Reply Question ต้องสอดคล้องกับ Tense ของประโยคต้นทางเสมอ\n  *   A: \"She traveled to Japan last year.\" (Past Simple) -> ผิด: \"So do I.\" -> ถูก: \"So did I.\"\n\n- **สลับตำแหน่งผิดในโครงสร้าง 'So':** ในโครงสร้าง 'So...' ต้องสลับกริยาช่วยกับประธานเสมอ (Inversion) เป็น 'So + aux + S' หากพูดว่า 'So I do.' จะเป็นการเน้นย้ำ ไม่ใช่การแสดงความเห็นด้วย\n  *   A: \"I love this song.\" -> ผิด: \"So I do.\" -> ถูก: \"So do I.\"",
+    "practice_questions": [
+      {
+        "question": "A: I wasn't aware that the deadline had been moved forward.\nB: ______. This is quite a surprise.",
+        "options": [
+          "A. So was I",
+          "B. Neither I was",
+          "C. I wasn't too",
+          "D. Neither was I"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคแรกเป็นปฏิเสธในรูป Past Simple ('wasn't aware') ดังนั้นการตอบรับเพื่อเห็นด้วยต้องใช้โครงสร้างสำหรับประโยคปฏิเสธ คือ 'Neither + aux + S' หรือ 'S + aux (negative) + either' ข้อ D 'Neither was I' ถูกต้องตามโครงสร้างและใช้กริยาช่วย 'was' สอดคล้องกับประโยคแรก ส่วนข้อ B สลับตำแหน่งผิด และข้อ C ต้องใช้ 'either' ไม่ใช่ 'too'"
+      },
+      {
+        "question": "A: My manager insists on reviewing every single email I send.\nB: ______! It feels like micromanagement, doesn't it?",
+        "options": [
+          "A. So my manager does",
+          "B. So does mine",
+          "C. Mine does so",
+          "D. So insists mine"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคแรกเป็นบอกเล่า Present Simple ('insists') ดังนั้นการตอบรับต้องใช้ 'So + do/does + S' ประธานของประโยค B คือ 'my manager' ซึ่งใช้คำว่า 'mine' แทนได้ ดังนั้น 'So does mine' จึงถูกต้องที่สุด ข้อ A สลับตำแหน่งผิด ข้อ D ใช้กริยาแท้แทนกริยาช่วย"
+      },
+      {
+        "question": "A: We should have prepared a backup plan for this situation.\nB: I agree. And ______, to be honest.",
+        "options": [
+          "A. so should have they",
+          "B. so they should have",
+          "C. neither should they",
+          "D. so should they"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคแรกใช้ Modal Perfect ('should have prepared') ซึ่งเป็นประโยคบอกเล่า การตอบรับต้องใช้ 'So + modal + S' ในที่นี้คือ 'So should they' ข้อ A มี 'have' ที่ไม่จำเป็นต้องใส่ซ้ำ เพราะ 'should' เป็นตัวแทนของ Modal Phrase ทั้งหมดแล้ว ข้อ B สลับตำแหน่งผิด"
+      },
+      {
+        "question": "A: I can barely hear the presenter from the back of the room.\nB: ______. I wish they would use a microphone.",
+        "options": [
+          "A. So can I",
+          "B. I can't too",
+          "C. Neither can I",
+          "D. So I can't"
+        ],
+        "answer": "C",
+        "explanation": "คำว่า 'barely' (แทบจะไม่) ทำให้ประโยคแรกมีความหมายเชิงปฏิเสธ ('I can barely hear' = I almost can't hear) ดังนั้นการตอบรับเห็นด้วยจึงควรใช้โครงสร้างสำหรับประโยคปฏิเสธ 'Neither + aux + S' ซึ่งก็คือ 'Neither can I' จึงเป็นคำตอบที่เหมาะสมที่สุด"
+      },
+      {
+        "question": "A: Apparently, the new software isn't compatible with our operating system.\nB: ______, which is causing a lot of trouble for our team.",
+        "options": [
+          "A. So isn't ours",
+          "B. Ours isn't either",
+          "C. Neither is ours",
+          "D. B and C are correct"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคแรกเป็นปฏิเสธ ('isn't compatible') เราสามารถตอบรับได้ 2 แบบคือ 'S + aux (negative) + either' (ข้อ B: Ours isn't either) และ 'Neither + aux + S' (ข้อ C: Neither is ours) ทั้งสองประโยคถูกต้องตามไวยากรณ์และมีความหมายเหมือนกัน ดังนั้นข้อ D จึงเป็นคำตอบที่ถูกต้อง"
+      },
+      {
+        "question": "A: He has to commute for two hours every day.\nB: Wow, that's tough. ______, and I already find it tiring.",
+        "options": [
+          "A. So do I",
+          "B. So have I",
+          "C. I must too",
+          "D. So must I"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคแรก 'has to' ทำหน้าที่เหมือนกริยาใน Present Simple ไม่ใช่ Present Perfect (ไม่มี V.3 ตามมา) ดังนั้น กริยาช่วยที่ต้องใช้ในการตอบรับคือ 'do' ไม่ใช่ 'have' คำตอบที่ถูกต้องคือ 'So do I'"
+      },
+      {
+        "question": "A: They would never have guessed the truth if you hadn't told them.\nB: I suppose not. And honestly, ______.",
+        "options": [
+          "A. neither I would have",
+          "B. so would I",
+          "C. neither would I have",
+          "D. I wouldn't have neither"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคแรกมีความหมายปฏิเสธ ('would never have guessed') การตอบรับต้องใช้โครงสร้างปฏิเสธ กริยาช่วยคือ 'would have' ดังนั้นคำตอบที่ถูกต้องตามโครงสร้าง 'Neither + aux + S' คือ 'neither would I have' (ในบริบทนี้ สามารถพูดเต็มๆ ว่า 'Neither would I have guessed' ได้) ข้อ A สลับตำแหน่งผิด ข้อ D ใช้ Double Negative"
+      },
+      {
+        "question": "A: By the end of this year, I will have finished my postgraduate studies.\nB: That's impressive! Hopefully, ______.",
+        "options": [
+          "A. so will I",
+          "B. so I will have",
+          "C. so will have I",
+          "D. I will too have"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคแรกเป็น Future Perfect ('will have finished') และเป็นบอกเล่า การตอบรับจะใช้ 'So + aux + S' โดยกริยาช่วยตัวแรกสุดคือ 'will' ดังนั้น 'So will I' จึงเป็นคำตอบที่ถูกต้องและเป็นธรรมชาติที่สุด เราไม่จำเป็นต้องใส่ 'have' เข้ามาในประโยคตอบรับ"
+      },
+      {
+        "question": "A: It seems like they don't appreciate all the extra work you've been putting in.\nB: ______. It's quite discouraging.",
+        "options": [
+          "A. Neither they do",
+          "B. It does too",
+          "C. No, they don't either",
+          "D. So they don't"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคของ A เป็นการแสดงความเห็นเกี่ยวกับ 'they' ('they don't appreciate') ส่วน B กำลังพูดตอบรับโดยเห็นด้วยกับ A ว่า 'they' ไม่เห็นคุณค่าจริงๆ ประโยค 'No, they don't either' เป็นการตอบรับที่สมบูรณ์ที่สุด เป็นการยืนยันประโยคปฏิเสธของ A และเสริมด้วย 'either' เพื่อแสดงความเห็นพ้อง (ในกรณีนี้ไม่ใช่การพูดว่า 'ฉันก็ไม่เหมือนกัน' แต่เป็นการยืนยันว่า 'พวกเขาก็ไม่เหมือนกันจริงๆ') ข้ออื่นๆ ผิดโครงสร้าง"
+      },
+      {
+        "question": "A: I used to think learning a new language was easy.\nB: ______, until I actually tried it!",
+        "options": [
+          "A. I did too",
+          "B. So did I",
+          "C. So I used to",
+          "D. Both A and B"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคแรกใช้ 'used to' ซึ่งเป็นโครงสร้างในอดีต (Past Simple) ดังนั้นกริยาช่วยที่ใช้คือ 'did' การตอบรับเห็นด้วยกับประโยคบอกเล่าสามารถทำได้สองแบบคือ 'S + aux, too' (I did too) และ 'So + aux + S' (So did I) ทั้งสองข้อถูกต้องและมีความหมายเหมือนกัน"
+      }
+    ]
+  },
+  {
+    "id": "29_4",
+    "title": "29.4 Summary: Tag & Reply Questions (สรุป Tag Questions + 50 Exercises)",
+    "explanation": "Tag Questions และ Reply Questions เป็นส่วนสำคัญในการสนทนาภาษาอังกฤษที่ทำให้การพูดคุยเป็นธรรมชาติและลื่นไหลมากขึ้น\n\n**Tag Questions (คำถามท้ายประโยค)**\nใช้เพื่อยืนยันข้อมูลที่ผู้พูดคิดว่าเป็นจริง หรือเพื่อขอความเห็นจากผู้ฟัง\n\n**โครงสร้างหลัก:**\n1.  **ประโยคบอกเล่า (+)  -->  Tag ปฏิเสธ (-)**\n    *   He is a doctor, **isn't he?**\n    *   You have finished the report, **haven't you?**\n2.  **ประโยคปฏิเสธ (-)  -->  Tag บอกเล่า (+)**\n    *   She isn't coming, **is she?**\n    *   They didn't see the movie, **did they?**\n\n**กฎพิเศษที่ต้องจำ (B1-B2 Level):**\n*   **I am**  -->  Tag คือ **aren't I?** (ไม่ใช่ am't I?)\n    *   I'm right, **aren't I?**\n*   **Let's** (Let us)  -->  Tag คือ **shall we?**\n    *   Let's go to the beach, **shall we?**\n*   **ประโยคคำสั่ง/ขอร้อง (Imperative)**  -->  Tag คือ **will you? / won't you?**\n    *   Open the window, **will you?**\n*   **There is/There are**  -->  Tag คือ **isn't there? / aren't there?**\n    *   There's a problem, **isn't there?**\n*   **ประธานเป็นสรรพนามไม่ชี้เฉพาะ** (Everyone, Someone, Nobody, etc.)  -->  ใช้ Pronoun **they** ใน Tag\n    *   Everybody enjoyed the party, **didn't they?**\n    *   Nobody called, **did they?** (สังเกต Nobody เป็นปฏิเสธ ทำให้ Tag เป็นบอกเล่า)\n*   **ประโยคที่มีคำกึ่งปฏิเสธ** (hardly, seldom, rarely, never, barely)  -->  ถือว่าเป็นประโยคปฏิเสธ Tag ต้องเป็นบอกเล่า\n    *   He hardly ever speaks, **does he?**\n\n**Reply Questions (คำถามตอบกลับ)**\nใช้เพื่อแสดงความสนใจ ความประหลาดใจ หรือเพื่อให้บทสนทนาดำเนินต่อไป มีลักษณะคล้ายการอุทานสั้นๆ\n\n**โครงสร้าง:** Auxiliary Verb + Subject? (ใช้กริยาช่วยและประธานให้สอดคล้องกับประโยคที่ได้ยิน และมี Polarity (บวก/ลบ) เหมือนกัน)\n*   A: I've just seen a ghost.\n    B: **Have you?** (แสดงความประหลาดใจ)\n*   A: I don't like chocolate.\n    B: **Don't you?** (แสดงความแปลกใจ)\n\nความแตกต่างคือ Tag Question จะมี Polarity ตรงข้ามกับประโยคหลัก แต่ Reply Question จะมี Polarity เหมือนกัน",
+    "examples": [
+      {
+        "eng": "The team has been practicing hard for the tournament, haven't they?",
+        "thai": "Tag Question: ประโยคหลักเป็น Present Perfect บอกเล่า (has been practicing) จึงใช้ Tag ปฏิเสธ (haven't they?) และใช้ 'they' แทน 'the team'"
+      },
+      {
+        "eng": "You'd rather stay home tonight, wouldn't you?",
+        "thai": "Tag Question: ประโยคหลักมี 'd rather (would rather) จึงใช้ Tag เป็น wouldn't you?"
+      },
+      {
+        "eng": "Nobody has complained about the new policy, have they?",
+        "thai": "Tag Question พิเศษ: 'Nobody' เป็นคำปฏิเสธ ทำให้ประโยคเป็นปฏิเสธ Tag จึงต้องเป็นบอกเล่า (have they?) และใช้ pronoun 'they'"
+      },
+      {
+        "eng": "A: We're flying to Singapore tomorrow. B: Oh, are you? For business or pleasure?",
+        "thai": "Reply Question: B ใช้ 'are you?' เพื่อแสดงความสนใจในสิ่งที่ A พูดและถามคำถามต่อ"
+      }
+    ],
+    "common_mistakes": "1.  **สับสนเรื่องการตอบคำถาม Tag ปฏิเสธ:** คนไทยมักตอบตามรูปแบบประโยคคำถาม แต่หลักการคือให้ตอบตามความเป็นจริงเสมอ\n    *   Q: You aren't tired, **are you?** (คุณไม่เหนื่อยใช่ไหม?)\n    *   ถ้า *เหนื่อย* (ความจริงคือเหนื่อย) --> ตอบ **Yes, I am.**\n    *   ถ้า *ไม่เหนื่อย* (ความจริงคือไม่เหนื่อย) --> ตอบ **No, I'm not.**\n\n2.  **ใช้กริยาช่วยผิด:** โดยเฉพาะเมื่อประโยคหลักไม่มีกริยาช่วยแสดงอยู่ คนไทยมักจะสับสนว่าจะใช้ do/does/did หรือ is/am/are\n    *   ผิด: She likes coffee, isn't she?\n    *   ถูก: She likes coffee, **don't she?** (ผิด Pronoun อีก)\n    *   ถูกที่สุด: She likes coffee, **doesn't she?** (ใช้ does เพราะประธานคือ she และ likes เป็น V.1)\n\n3.  **ใช้ Polarity (บวก/ลบ) ผิด:** ใช้ Tag บวกกับประโยคบวก หรือ Tag ลบกับประโยคลบ ซึ่งจะเปลี่ยนความหมายไปเป็นการแสดงความประหลาดใจหรือเสียดสี ไม่ใช่การยืนยันข้อมูล\n    *   So, you think you're clever, **do you?** (นี่นายคิดว่าตัวเองฉลาดเหรอเนี่ย?) - ความหมายเปลี่ยนไป\n\n4.  **สับสนระหว่าง Tag Question กับ Reply Question:** จำง่ายๆ ว่า Tag Question อยู่ท้ายประโยคของตัวเอง Polarity ตรงข้าม แต่ Reply Question เป็นการตอบกลับประโยคคนอื่น Polarity เหมือนกัน",
+    "practice_questions": [
+      {
+        "question": "The presentation was quite informative, _______?",
+        "options": [
+          "was it",
+          "wasn't it",
+          "did it",
+          "didn't it"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคหลักใช้ Verb to be ในรูปอดีต 'was' ซึ่งเป็นบอกเล่า ดังนั้น Tag Question ต้องเป็นรูปปฏิเสธคือ 'wasn't it?'"
+      },
+      {
+        "question": "You haven't submitted the assignment yet, _______?",
+        "options": [
+          "have you",
+          "haven't you",
+          "did you",
+          "do you"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคหลักเป็น Present Perfect ปฏิเสธ ('haven't submitted') ดังนั้น Tag Question ต้องเป็นรูปบอกเล่าคือ 'have you?'"
+      },
+      {
+        "question": "Daniel works in the marketing department, _______?",
+        "options": [
+          "does he",
+          "is he",
+          "isn't he",
+          "doesn't he"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคหลักเป็น Present Simple บอกเล่า ('works') ไม่มีกริยาช่วย จึงต้องใช้ do/does มาสร้าง Tag และประธานคือ Daniel (he) จึงใช้ 'doesn't he?'"
+      },
+      {
+        "question": "Let's postpone the meeting until tomorrow, _______?",
+        "options": [
+          "will we",
+          "shall we",
+          "don't we",
+          "are we"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคที่ขึ้นต้นด้วย 'Let's' (Let us) เป็นการชักชวน Tag Question ที่ใช้คู่กันเสมอคือ 'shall we?'"
+      },
+      {
+        "question": "There are plenty of opportunities for advancement, _______?",
+        "options": [
+          "are there",
+          "isn't there",
+          "aren't there",
+          "is there"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคที่ขึ้นต้นด้วย 'There are' เป็นบอกเล่า Tag Question ที่ถูกต้องคือ 'aren't there?'"
+      },
+      {
+        "question": "She'd never seen such a beautiful sunset before, _______?",
+        "options": [
+          "wouldn't she",
+          "had she",
+          "hadn't she",
+          "did she"
+        ],
+        "answer": "B",
+        "explanation": "ในที่นี้ 'She'd' ย่อมาจาก 'She had' (Past Perfect) และมีคำว่า 'never' ซึ่งเป็นคำกึ่งปฏิเสธ ทำให้ประโยคมีความหมายเป็นปฏิเสธ ดังนั้น Tag ต้องเป็นบอกเล่า 'had she?'"
+      },
+      {
+        "question": "I'm supposed to lead the team on this project, _______?",
+        "options": [
+          "amn't I",
+          "am I",
+          "aren't I",
+          "don't I"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคที่ประธานเป็น 'I' และกริยาคือ 'am' มีกฎพิเศษคือ Tag Question ที่เป็นปฏิเสธจะใช้ 'aren't I?'"
+      },
+      {
+        "question": "Everyone seemed to enjoy the conference, _______?",
+        "options": [
+          "didn't they",
+          "did they",
+          "didn't he",
+          "wasn't it"
+        ],
+        "answer": "A",
+        "explanation": "ประธาน 'Everyone' เป็นสรรพนามไม่ชี้เฉพาะ เมื่อใช้ใน Tag Question จะต้องใช้ pronoun 'they' และกริยา 'seemed' เป็น Past Simple บอกเล่า จึงใช้ 'didn't they?'"
+      },
+      {
+        "question": "Stop making that noise, _______?",
+        "options": [
+          "do you",
+          "don't you",
+          "will you",
+          "shall you"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้เป็นประโยคคำสั่ง (Imperative) Tag Question ที่ใช้ได้คือ 'will you?' หรือ 'won't you?' เพื่อขอร้องให้ทำตาม"
+      },
+      {
+        "question": "He hardly ever complains about his workload, _______?",
+        "options": [
+          "doesn't he",
+          "does he",
+          "is he",
+          "isn't he"
+        ],
+        "answer": "B",
+        "explanation": "คำว่า 'hardly ever' เป็นคำกึ่งปฏิเสธ ทำให้ประโยคมีความหมายเป็นปฏิเสธ ดังนั้น Tag Question ต้องเป็นบอกเล่าคือ 'does he?'"
+      },
+      {
+        "question": "This complex algorithm will require a lot of processing power, _______?",
+        "options": [
+          "will it",
+          "won't it",
+          "does it",
+          "doesn't it"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคหลักใช้ modal verb 'will' ในรูปบอกเล่า ดังนั้น Tag ต้องเป็นรูปปฏิเสธคือ 'won't it?'"
+      },
+      {
+        "question": "The clients weren't satisfied with the outcome, _______?",
+        "options": [
+          "weren't they",
+          "were they",
+          "did they",
+          "didn't they"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคหลักใช้ 'were' ในรูปปฏิเสธ ('weren't') ดังนั้น Tag ต้องเป็นรูปบอกเล่าคือ 'were they?'"
+      },
+      {
+        "question": "Something needs to be done about this situation, _______?",
+        "options": [
+          "isn't it",
+          "doesn't it",
+          "is it",
+          "does it"
+        ],
+        "answer": "B",
+        "explanation": "ประธานคือ 'Something' (it) และกริยาคือ 'needs' (Present Simple) ดังนั้น Tag ที่เป็นปฏิเสธคือ 'doesn't it?'"
+      },
+      {
+        "question": "You ought to double-check those figures, _______?",
+        "options": [
+          "should you",
+          "ought you",
+          "shouldn't you",
+          "don't you"
+        ],
+        "answer": "C",
+        "explanation": "Modal verb 'ought to' มีความหมายคล้าย 'should' ดังนั้น Tag Question ที่นิยมใช้คือ 'shouldn't you?'"
+      },
+      {
+        "question": "Nobody has volunteered to help, _______?",
+        "options": [
+          "has they",
+          "haven't they",
+          "have they",
+          "hasn't he"
+        ],
+        "answer": "C",
+        "explanation": "ประธาน 'Nobody' ทำให้ประโยคเป็นปฏิเสธและต้องใช้ pronoun 'they' ใน Tag ดังนั้น Tag ต้องเป็นบอกเล่าคือ 'have they?' (ใช้ have ให้สอดคล้องกับ they)"
+      },
+      {
+        "question": "A: 'I've decided to take a gap year.' B: 'Oh, _______? That sounds adventurous.'",
+        "options": [
+          "did you",
+          "haven't you",
+          "do you",
+          "have you"
+        ],
+        "answer": "D",
+        "explanation": "นี่คือ Reply Question เพื่อแสดงความสนใจในสิ่งที่ A พูด A ใช้ Present Perfect ('I've decided') ดังนั้น B ต้องตอบกลับด้วยกริยาช่วยตัวเดียวกันในรูปบอกเล่า 'have you?'"
+      },
+      {
+        "question": "The flight to London departs at 9 AM, _______?",
+        "options": [
+          "does it",
+          "is it",
+          "doesn't it",
+          "isn't it"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคหลักใช้กริยา 'departs' (Present Simple) ประธานคือ 'The flight' (it) ดังนั้น Tag ที่เป็นปฏิเสธคือ 'doesn't it?'"
+      },
+      {
+        "question": "You can't operate this machinery without proper training, _______?",
+        "options": [
+          "can't you",
+          "do you",
+          "can you",
+          "don't you"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคหลักใช้ modal verb 'can't' (ปฏิเสธ) ดังนั้น Tag Question ต้องเป็นรูปบอกเล่าคือ 'can you?'"
+      },
+      {
+        "question": "The research team had already analyzed the data, _______?",
+        "options": [
+          "did they",
+          "had they",
+          "hadn't they",
+          "didn't they"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคหลักเป็น Past Perfect บอกเล่า ('had analyzed') ดังนั้น Tag Question ต้องเป็นรูปปฏิเสธคือ 'hadn't they?'"
+      },
+      {
+        "question": "That was a rather unnecessary comment, _______?",
+        "options": [
+          "was it",
+          "isn't it",
+          "wasn't it",
+          "is it"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคหลักใช้ 'was' ในรูปบอกเล่า ดังนั้น Tag Question ต้องเป็นรูปปฏิเสธคือ 'wasn't it?'"
+      },
+      {
+        "question": "Few people understood the complexity of the issue, _______?",
+        "options": [
+          "did they",
+          "didn't they",
+          "were they",
+          "weren't they"
+        ],
+        "answer": "A",
+        "explanation": "คำว่า 'Few' มีความหมายเชิงปฏิเสธ (น้อยมากจนแทบไม่มี) ทำให้ประโยคมีความหมายเป็นปฏิเสธ ดังนั้น Tag Question ต้องเป็นบอกเล่า 'did they?'"
+      },
+      {
+        "question": "You used to work in the finance sector, _______?",
+        "options": [
+          "did you",
+          "used you",
+          "weren't you",
+          "didn't you"
+        ],
+        "answer": "D",
+        "explanation": "โครงสร้าง 'used to' บอกถึงสิ่งที่เคยทำในอดีต ถือเป็น Past Simple ดังนั้น Tag Question ที่ถูกต้องคือ 'didn't you?'"
+      },
+      {
+        "question": "The shareholders must be informed immediately, _______?",
+        "options": [
+          "must they",
+          "mustn't they",
+          "are they",
+          "aren't they"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคหลักใช้ modal verb 'must' ในรูปบอกเล่า ดังนั้น Tag Question ต้องเป็นรูปปฏิเสธคือ 'mustn't they?'"
+      },
+      {
+        "question": "Don't forget to lock the door, _______?",
+        "options": [
+          "do you",
+          "don't you",
+          "will you",
+          "won't you"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้เป็นคำสั่งเชิงปฏิเสธ (Negative Imperative) Tag Question ที่ใช้ได้คือ 'will you?'"
+      },
+      {
+        "question": "A: 'I don't think I can make it to the party.' B: 'Oh, _______? That's a shame.'",
+        "options": [
+          "do you",
+          "don't you",
+          "can you",
+          "can't you"
+        ],
+        "answer": "D",
+        "explanation": "นี่คือ Reply Question แสดงความเสียดาย A พูดว่า 'I don't think I can...' ซึ่งเน้นที่ความสามารถ (can) ดังนั้น B จึงตอบกลับด้วยกริยาช่วยตัวเดียวกันคือ 'can't you?'"
+      },
+      {
+        "question": "We should have reviewed the contract more carefully, _______?",
+        "options": [
+          "should we",
+          "shouldn't we",
+          "had we",
+          "hadn't we"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคหลักใช้ modal perfect 'should have' ในรูปบอกเล่า ดังนั้น Tag ต้องเป็นปฏิเสธคือ 'shouldn't we?'"
+      },
+      {
+        "question": "It's been a while since we last met, _______?",
+        "options": [
+          "is it",
+          "wasn't it",
+          "hasn't it",
+          "isn't it"
+        ],
+        "answer": "C",
+        "explanation": "ประโยค 'It's been' ย่อมาจาก 'It has been' (Present Perfect) ดังนั้น Tag ที่เป็นปฏิเสธคือ 'hasn't it?'"
+      },
+      {
+        "question": "Q: You won't be late for the interview, will you? A: _______, I've already left home.",
+        "options": [
+          "Yes, I will.",
+          "No, I won't.",
+          "Yes, I won't.",
+          "No, I will."
+        ],
+        "answer": "B",
+        "explanation": "คำถามคือ 'คุณจะไม่สายใช่ไหม?' คำตอบคือ 'ไม่ ผมจะไม่สาย' เพราะเขาออกจากบ้านแล้ว ดังนั้นตอบตามความเป็นจริงคือ 'No, I won't.'"
+      },
+      {
+        "question": "These regulations don't apply to international students, _______?",
+        "options": [
+          "do they",
+          "don't they",
+          "are they",
+          "aren't they"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคหลักเป็น Present Simple ปฏิเสธ ('don't apply') ประธานคือ 'These regulations' (they) ดังนั้น Tag ต้องเป็นบอกเล่า 'do they?'"
+      },
+      {
+        "question": "You'd better hurry up if you want to catch the train, _______?",
+        "options": [
+          "did you",
+          "wouldn't you",
+          "hadn't you",
+          "don't you"
+        ],
+        "answer": "C",
+        "explanation": "โครงสร้าง 'had better' ('d better) ใช้เพื่อให้คำแนะนำอย่างหนักแน่น Tag Question ที่ถูกต้องคือ 'hadn't you?'"
+      },
+      {
+        "question": "One can't be too careful in these situations, _______?",
+        "options": [
+          "can one",
+          "can't one",
+          "can they",
+          "can't they"
+        ],
+        "answer": "A",
+        "explanation": "เมื่อประธานคือ 'one' ที่หมายถึงคนทั่วไป Tag Question จะใช้ 'one' เช่นกัน ประโยคเป็นปฏิเสธ (can't) ดังนั้น Tag จึงเป็นบอกเล่า 'can one?'"
+      },
+      {
+        "question": "What a fantastic performance, _______?",
+        "options": [
+          "was it",
+          "wasn't it",
+          "is it",
+          "isn't it"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคอุทาน (Exclamatory sentence) เช่นนี้ เมื่อทำเป็น Tag Question จะใช้ verb to be ตามความเหมาะสม ในที่นี้หมายถึงการแสดงที่จบไปแล้ว (past) จึงใช้ 'wasn't it?'"
+      },
+      {
+        "question": "The manager seems to be in a good mood today, _______?",
+        "options": [
+          "is he",
+          "isn't he",
+          "does he",
+          "doesn't he"
+        ],
+        "answer": "D",
+        "explanation": "กริยาหลักของประโยคคือ 'seems' (Present Simple) ไม่ใช่ 'to be' ดังนั้น Tag จะใช้ 'do/does' ประธานคือ 'The manager' (he) จึงใช้ 'doesn't he?'"
+      },
+      {
+        "question": "Let's not make any hasty decisions, _______?",
+        "options": [
+          "shall we",
+          "will we",
+          "don't we",
+          "do we"
+        ],
+        "answer": "A",
+        "explanation": "ถึงแม้จะเป็น 'Let's not' (ปฏิเสธ) แต่ประโยคที่ขึ้นต้นด้วย 'Let's' จะใช้ Tag Question คือ 'shall we?' เสมอ"
+      },
+      {
+        "question": "This is the first time you've visited this country, _______?",
+        "options": [
+          "is it",
+          "isn't it",
+          "hasn't it",
+          "haven't you"
+        ],
+        "answer": "B",
+        "explanation": "แม้ว่าประโยคจะมีส่วนที่เป็น Present Perfect ('you've visited') แต่ประโยคหลักจริงๆ คือ 'This is the first time' ดังนั้น Tag จะอิงตามกริยาหลัก 'is' จึงเป็น 'isn't it?'"
+      },
+      {
+        "question": "He has his car serviced regularly, _______?",
+        "options": [
+          "hasn't he",
+          "has he",
+          "doesn't he",
+          "does he"
+        ],
+        "answer": "C",
+        "explanation": "ในประโยคนี้ 'has' เป็นกริยาแท้ (แปลว่า มี) ไม่ใช่กริยาช่วยของ Perfect Tense ดังนั้นจึงต้องใช้ do/does มาสร้าง Tag เป็น 'doesn't he?'"
+      },
+      {
+        "question": "A: 'We couldn't solve the puzzle.' B: '_______? I thought you were experts.'",
+        "options": [
+          "Could you",
+          "Did you",
+          "Couldn't you",
+          "Didn't you"
+        ],
+        "answer": "C",
+        "explanation": "Reply Question เพื่อแสดงความประหลาดใจ A ใช้ 'couldn't' ดังนั้น B จึงต้องใช้กริยาช่วยเดียวกันในรูปเดียวกันคือ 'Couldn't you?'"
+      },
+      {
+        "question": "Seldom do we see such a clear sky in this city, _______?",
+        "options": [
+          "don't we",
+          "do we",
+          "are we",
+          "aren't we"
+        ],
+        "answer": "B",
+        "explanation": "คำว่า 'Seldom' (แทบจะไม่) ทำให้ประโยคมีความหมายเป็นปฏิเสธ ดังนั้น Tag Question ต้องเป็นบอกเล่า 'do we?'"
+      },
+      {
+        "question": "The board of directors is meeting now, _______?",
+        "options": [
+          "isn't it",
+          "aren't they",
+          "is it",
+          "are they"
+        ],
+        "answer": "A",
+        "explanation": "คำว่า 'The board of directors' เป็นนามกลุ่ม (collective noun) เมื่อมองเป็นหน่วยงานเดียวจะใช้ 'it' ดังนั้น Tag คือ 'isn't it?' (หากมองว่าหมายถึงสมาชิกแต่ละคน อาจใช้ aren't they ได้ แต่ isn't it เป็นที่ยอมรับมากกว่าในบริบทนี้)"
+      },
+      {
+        "question": "Q: You didn't break the vase, did you? A: _______, it was an accident.",
+        "options": [
+          "No, I didn't.",
+          "Yes, I did.",
+          "No, I did.",
+          "Yes, I didn't."
+        ],
+        "answer": "B",
+        "explanation": "คำถามคือ 'คุณไม่ได้ทำแจกันแตกใช่ไหม?' แต่จากคำตอบ 'มันเป็นอุบัติเหตุ' แสดงว่าผู้ตอบเป็นคนทำแตก ดังนั้นต้องตอบตามความเป็นจริงว่า 'Yes, I did.' (ใช่ ฉันทำ)"
+      },
+      {
+        "question": "It's no use complaining about it now, _______?",
+        "options": [
+          "is it",
+          "isn't it",
+          "does it",
+          "doesn't it"
+        ],
+        "answer": "A",
+        "explanation": "สำนวน 'It's no use' มีความหมายเชิงปฏิเสธ ดังนั้น Tag Question ต้องเป็นบอกเล่า 'is it?'"
+      },
+      {
+        "question": "You must have been exhausted after that long flight, _______?",
+        "options": [
+          "mustn't you",
+          "weren't you",
+          "haven't you",
+          "didn't you"
+        ],
+        "answer": "B",
+        "explanation": "'Must have been' ในที่นี้เป็นการคาดเดาเรื่องในอดีต (deduction) ไม่ใช่การบังคับ Tag Question ที่ใช้จะไม่ใช่ mustn't you แต่จะใช้ verb to be ในอดีต 'weren't you?' หรือ 'didn't you?' ขึ้นอยู่กับบริบท แต่ 'weren't you?' เหมาะสมกว่าเมื่อพูดถึงความเหนื่อย"
+      },
+      {
+        "question": "The kids have to finish their homework before they can play, _______?",
+        "options": [
+          "haven't they",
+          "don't they",
+          "do they",
+          "have they"
+        ],
+        "answer": "B",
+        "explanation": "ในประโยคนี้ 'have to' ทำหน้าที่เหมือนกริยาแท้ ไม่ใช่กริยาช่วยของ Perfect tense ดังนั้นจึงต้องใช้ do/does มาสร้าง Tag เป็น 'don't they?'"
+      },
+      {
+        "question": "Neither of the candidates was qualified for the position, _______?",
+        "options": [
+          "was he",
+          "wasn't he",
+          "were they",
+          "weren't they"
+        ],
+        "answer": "C",
+        "explanation": "คำว่า 'Neither' ทำให้ประโยคมีความหมายปฏิเสธ และแม้กริยาจะเป็น 'was' (เอกพจน์) แต่เมื่อทำเป็น Tag จะใช้ 'they' เพื่ออ้างถึง candidates ทั้งสองคน ดังนั้น Tag คือ 'were they?'"
+      },
+      {
+        "question": "That's the man who helped me yesterday, _______?",
+        "options": [
+          "is that",
+          "isn't that",
+          "is it",
+          "isn't it"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคหลักคือ 'That is the man' ประธานคือ 'That' ซึ่งจะใช้ 'it' แทนใน Tag Question ดังนั้น Tag คือ 'isn't it?'"
+      },
+      {
+        "question": "A: 'I will be resigning at the end of the month.' B: '_______? We'll be sad to see you go.'",
+        "options": [
+          "Won't you",
+          "Don't you",
+          "Will you",
+          "Are you"
+        ],
+        "answer": "C",
+        "explanation": "Reply Question เพื่อแสดงความประหลาดใจ A ใช้ 'will be resigning' กริยาช่วยคือ 'will' ดังนั้น B ต้องใช้ 'Will you?' ในการถามกลับ"
+      },
+      {
+        "question": "He's reading a book, _______? The cover looks interesting.",
+        "options": [
+          "hasn't he",
+          "doesn't he",
+          "isn't he",
+          "is he"
+        ],
+        "answer": "C",
+        "explanation": "ในประโยคนี้ 'He's' ย่อมาจาก 'He is' (Present Continuous) ไม่ใช่ 'He has' ดังนั้น Tag Question คือ 'isn't he?'"
+      },
+      {
+        "question": "They were supposed to arrive an hour ago, _______?",
+        "options": [
+          "were they",
+          "did they",
+          "didn't they",
+          "weren't they"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคหลักใช้ 'were' ในรูปบอกเล่า ดังนั้น Tag Question ต้องเป็นรูปปฏิเสธคือ 'weren't they?'"
+      },
+      {
+        "question": "Q: This isn't your first time here, is it? A: _______, I've been here many times before.",
+        "options": [
+          "Yes, it is.",
+          "No, it isn't.",
+          "Yes, it isn't.",
+          "No, it is."
+        ],
+        "answer": "B",
+        "explanation": "คำถามคือ 'นี่ไม่ใช่ครั้งแรกของคุณที่นี่ใช่ไหม?' คำตอบบอกว่า 'เคยมาหลายครั้งแล้ว' ซึ่งหมายความว่า 'ไม่ใช่ครั้งแรก' ดังนั้นต้องตอบว่า 'No, it isn't.'"
+      },
+      {
+        "question": "Give me a hand with these boxes, _______? They're quite heavy.",
+        "options": [
+          "do you",
+          "don't you",
+          "will you",
+          "shall you"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้เป็นประโยคขอร้อง (Imperative) Tag Question ที่ใช้คือ 'will you?' หรือ 'won't you?' ก็ได้"
+      }
+    ]
+  }
+]

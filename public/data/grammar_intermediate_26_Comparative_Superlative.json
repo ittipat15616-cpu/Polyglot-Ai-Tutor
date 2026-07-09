@@ -1,0 +1,1134 @@
+[
+  {
+    "id": "26_1",
+    "title": "26.1 Comparative Adjectives & Adverbs (ขั้นกว่า)",
+    "explanation": "Comparative Adjectives & Adverbs ใช้เพื่อเปรียบเทียบสิ่งของ คน หรือการกระทำสองสิ่ง ว่ามีคุณสมบัติหรือลักษณะ 'มากกว่า' หรือ 'น้อยกว่า' กันอย่างไร โดยมีหัวใจสำคัญคือการเปรียบเทียบของ **สองสิ่ง** เท่านั้น\n\n**หลักการสร้าง Comparative Adjectives (คำคุณศัพท์ขั้นกว่า)**\n1.  **พยางค์เดียว:** ส่วนใหญ่เติม -er ต่อท้าย เช่น `fast` -> `faster`, `strong` -> `stronger`\n    -   ถ้าลงท้ายด้วย e อยู่แล้ว เติม r ได้เลย: `large` -> `larger`\n    -   ถ้าเป็น สระเสียงสั้น + พยัญชนะตัวเดียว ให้เบิ้ลพยัญชนะท้าย: `big` -> `bigger`, `hot` -> `hotter`\n2.  **สองพยางค์:** เป็นกลุ่มที่ต้องสังเกตเป็นพิเศษ\n    -   ลงท้ายด้วย -y: เปลี่ยน y เป็น i แล้วเติม -er: `happy` -> `happier`, `busy` -> `busier`\n    -   ลงท้ายด้วย -er, -le, -ow: มักจะเติม -er ได้ เช่น `clever` -> `cleverer`, `simple` -> `simpler`, `narrow` -> `narrower` (แต่การใช้ 'more' กับคำเหล่านี้ก็เป็นที่ยอมรับมากขึ้นในภาษาปัจจุบัน)\n    -   คำอื่นๆ ที่ไม่ได้อยู่ในกฎข้างต้น ส่วนใหญ่ใช้ `more` นำหน้า: `more modern`, `more useful`, `more famous`\n3.  **สามพยางค์ขึ้นไป:** ใช้ `more` นำหน้าเสมอ: `more expensive`, `more important`, `more sophisticated`\n\n**หลักการสร้าง Comparative Adverbs (คำวิเศษณ์ขั้นกว่า)**\n1.  **Adverbs ส่วนใหญ่ที่ลงท้ายด้วย -ly:** ใช้ `more` นำหน้า: `more slowly`, `more carefully`, `more efficiently`\n2.  **Adverbs ที่มีรูปเดียวกับ Adjective พยางค์เดียว:** เติม -er เช่น `hard` -> `harder`, `fast` -> `faster`, `late` -> `later`\n\n**รูปพิเศษ (Irregular Comparatives) - ต้องจำ!**\n- `good` (adj) / `well` (adv) -> `better`\n- `bad` (adj) / `badly` (adv) -> `worse`\n- `far` (adj/adv) -> `farther` (ระยะทางกายภาพ) / `further` (ระยะทาง หรือ 'เพิ่มเติม' ในเชิงนามธรรม)\n- `little` (adj/adv) -> `less`\n- `many` / `much` (adj/adv) -> `more`\n\n**โครงสร้างประโยคที่ซับซ้อนขึ้น (B1-B2)**\n- **ใช้คำขยาย (Modifiers):** เพื่อบอกระดับความแตกต่างให้ชัดเจนขึ้น เช่น `much`, `far`, `a lot`, `considerably` (มากกว่าเยอะ), `a little`, `a bit`, `slightly` (มากกว่าเล็กน้อย) วางไว้หน้าคำ comparative\n  - `This laptop is **far more powerful than** the older model.`\n- **การใช้ Less:** เปรียบเทียบว่า 'น้อยกว่า' ใช้โครงสร้าง `less ... than`\n  - `This method is **less effective than** we hoped.`\n- **โครงสร้าง The..., the...:** 'ยิ่ง... ก็ยิ่ง...' ใช้แสดงความสัมพันธ์ที่สิ่งหนึ่งส่งผลต่ออีกสิ่งหนึ่ง\n  - `**The more** you practice, **the more confident** you become.`",
+    "examples": [
+      {
+        "eng": "His new proposal is considerably more persuasive than the previous one.",
+        "thai": "ข้อเสนอใหม่ของเขาน่าโน้มน้าวใจมากกว่าข้อเสนออันก่อนหน้าอย่างเห็นได้ชัด (ใช้ 'considerably' ซึ่งเป็น modifier ขยาย 'more persuasive' เพื่อบอกว่ามากกว่าอย่างมาก)"
+      },
+      {
+        "eng": "She can articulate her ideas much more clearly now that she has more experience.",
+        "thai": "เธอสามารถอธิบายความคิดของเธอได้ชัดเจนขึ้นมากในตอนนี้ เพราะเธอมีประสบการณ์มากขึ้น (more clearly เป็น comparative adverb ขยาย verb 'articulate' และมี much มาขยายเพื่อเน้นย้ำ)"
+      },
+      {
+        "eng": "The political situation is far worse than the media is reporting.",
+        "thai": "สถานการณ์ทางการเมืองนั้นเลวร้ายกว่าที่สื่อรายงานอยู่มาก (ใช้ irregular form 'worse' จาก 'bad' และมี modifier 'far' ขยายเพื่อบอกระดับ)"
+      },
+      {
+        "eng": "The harder the challenge, the more satisfying the achievement is.",
+        "thai": "ยิ่งความท้าทายยากขึ้นเท่าไหร่ ความสำเร็จที่ได้มาก็ยิ่งน่าพึงพอใจมากขึ้นเท่านั้น (ใช้โครงสร้าง 'The + comparative, the + comparative' เพื่อแสดงความสัมพันธ์ที่เป็นเหตุเป็นผลต่อกัน)"
+      },
+      {
+        "eng": "This documentary is less biased than the one we watched yesterday.",
+        "thai": "สารคดีเรื่องนี้มีความลำเอียงน้อยกว่าเรื่องที่เราดูเมื่อวาน (ใช้ 'less...than' เพื่อเปรียบเทียบในเชิง 'น้อยกว่า')"
+      }
+    ],
+    "common_mistakes": "- **ใช้ More ซ้ำกับ -er (Double Comparative):** ผิด: `She is more smarter than her sister.` ถูก: `She is smarter than her sister.`\n- **ใช้ Adjective แทน Adverb:** เมื่อต้องการขยายกริยา (verb) ต้องใช้ adverb ผิด: `He works more quick than me.` ถูก: `He works more quickly than me.`\n- **ใช้รูป Irregular ผิด:** ผิด: `My cooking is gooder than yours.` หรือ `The traffic is badder today.` ถูก: `My cooking is better than yours.` / `The traffic is worse today.`\n- **สับสนระหว่าง than กับ then:** `than` (ธæn) เป็นคำที่ใช้ในการเปรียบเทียบ ส่วน `then` (เธ็น) เป็นคำวิเศษณ์บอกเวลา แปลว่า 'จากนั้น' หรือ 'ตอนนั้น' คนไทยมักออกเสียงคล้ายกันจึงใช้สลับกันบ่อย\n- **ลืมใช้ than ในประโยคเปรียบเทียบ:** ผิด: `This car is more expensive the other one.` ถูก: `This car is more expensive than the other one.`",
+    "practice_questions": [
+      {
+        "question": "The new manager handles crises ______ than her predecessor did.",
+        "options": [
+          "A. calmly",
+          "B. more calmly",
+          "C. calm",
+          "D. more calmer"
+        ],
+        "answer": "B",
+        "explanation": "คำถามนี้ต้องการ adverb มาขยาย verb 'handles' (จัดการ) ดังนั้นต้องใช้ 'calmly' ในรูปขั้นกว่าคือ 'more calmly' เพื่อเปรียบเทียบวิธีการจัดการของคนสองคน"
+      },
+      {
+        "question": "Of the two investment strategies, this one is considered ______ risky, but potentially more profitable.",
+        "options": [
+          "A. the more",
+          "B. much",
+          "C. more",
+          "D. most"
+        ],
+        "answer": "C",
+        "explanation": "เมื่อเปรียบเทียบของสองสิ่ง เราใช้ comparative form คือ 'more risky' (มีความเสี่ยงมากกว่า) ไม่จำเป็นต้องมี a, the นำหน้า ยกเว้นในโครงสร้างเฉพาะ"
+      },
+      {
+        "question": "The journey took ______ longer than we had anticipated due to unexpected road closures.",
+        "options": [
+          "A. considerably",
+          "B. very",
+          "C. too",
+          "D. so"
+        ],
+        "answer": "A",
+        "explanation": "เราใช้ modifier เช่น 'considerably', 'much', 'far', 'a lot' เพื่อขยาย comparative adjective/adverb (longer) ส่วน 'very' ใช้ขยาย adjective/adverb ทั่วไป แต่ไม่ใช่ขั้นกว่า"
+      },
+      {
+        "question": "Her understanding of quantum physics is ______ than anyone else's in the class.",
+        "options": [
+          "A. far profound",
+          "B. more profounder",
+          "C. far more profound",
+          "D. the most profound"
+        ],
+        "answer": "C",
+        "explanation": "'profound' เป็นคำคุณศัพท์ยาว (2 พยางค์ ไม่เข้าข้อยกเว้น) จึงต้องใช้ 'more' และสามารถใช้ 'far' มาขยายเพื่อเน้นว่า 'ลึกซึ้งกว่ามาก' ข้อ B ผิดเพราะเป็น double comparative"
+      },
+      {
+        "question": "______ you study the details of the contract, ______ potential issues you will find.",
+        "options": [
+          "A. The closely / the more",
+          "B. Closer / more",
+          "C. The more closely / the more",
+          "D. The more close / the more"
+        ],
+        "answer": "C",
+        "explanation": "นี่คือโครงสร้าง 'The + comparative, the + comparative' (ยิ่ง...ก็ยิ่ง...) เราต้องการ adverb 'closely' มาขยาย verb 'study' ดังนั้นขั้นกว่าคือ 'more closely' จึงต้องตอบ 'The more closely / the more'"
+      },
+      {
+        "question": "After the negotiation, the terms of the agreement were ______ favorable to our company.",
+        "options": [
+          "A. slightly more",
+          "B. slightly",
+          "C. more slightly",
+          "D. as slightly as"
+        ],
+        "answer": "A",
+        "explanation": "'favorable' เป็น adjective ยาว (3 พยางค์) ขั้นกว่าคือ 'more favorable' และเราสามารถใช้ 'slightly' (เล็กน้อย) มาเป็น modifier วางไว้ข้างหน้าได้"
+      },
+      {
+        "question": "The public's reaction to the policy was far ______ than the government had predicted.",
+        "options": [
+          "A. worse",
+          "B. badder",
+          "C. more bad",
+          "D. worst"
+        ],
+        "answer": "A",
+        "explanation": "'bad' เป็น irregular adjective ซึ่งมีรูปขั้นกว่าคือ 'worse' ไม่ใช่ 'badder' หรือ 'more bad'"
+      },
+      {
+        "question": "This digital painting looks ______ realistic ______ the one created with traditional oil paints.",
+        "options": [
+          "A. as / as",
+          "B. more / that",
+          "C. much / than",
+          "D. more / than"
+        ],
+        "answer": "D",
+        "explanation": "โครงสร้างประโยคเปรียบเทียบขั้นกว่าที่สมบูรณ์คือ 'comparative + than' ในที่นี้คือ 'more realistic than' เพื่อเปรียบเทียบภาพวาดสองชิ้น"
+      },
+      {
+        "question": "To discuss the project in more detail, we should move to a ______ room.",
+        "options": [
+          "A. more quieter",
+          "B. quiet",
+          "C. quieter",
+          "D. quietly"
+        ],
+        "answer": "C",
+        "explanation": "'quiet' เป็น adjective หนึ่งพยางค์ รูปขั้นกว่าคือ 'quieter' หมายถึงห้องที่ 'เงียบกว่า' (เปรียบเทียบกับห้องปัจจุบัน) ข้อ A เป็น Double Comparative ซึ่งผิดหลักไวยากรณ์"
+      },
+      {
+        "question": "I find working from home to be ______ stressful ______ commuting to the office every day.",
+        "options": [
+          "A. less / than",
+          "B. lesser / as",
+          "C. little / than",
+          "D. less / then"
+        ],
+        "answer": "A",
+        "explanation": "เมื่อต้องการเปรียบเทียบว่า 'น้อยกว่า' เราใช้โครงสร้าง 'less + adjective + than' ข้อ D ผิดเพราะใช้ 'then' ซึ่งแปลว่า 'จากนั้น' แทน 'than' ที่ใช้ในการเปรียบเทียบ"
+      }
+    ]
+  },
+  {
+    "id": "26_2",
+    "title": "26.2 Superlative Adjectives & Adverbs (ขั้นสุด)",
+    "explanation": "Superlatives (การเปรียบเทียบขั้นสุด) ใช้เพื่อเปรียบเทียบสิ่งของ, คน, หรือการกระทำตั้งแต่ 3 สิ่งขึ้นไป เพื่อบอกว่าสิ่งไหน 'ที่สุด' ในกลุ่มนั้นๆ เช่น สูงที่สุด, ดีที่สุด, เร็วที่สุด\n\n**โครงสร้างและหลักการใช้:**\n\n1.  **The + Superlative Adjective:**\n    *   **คำคุณศัพท์พยางค์เดียว:** เติม -est ต่อท้าย (e.g., fast -> the fastest, tall -> the tallest)\n    *   ถ้าลงท้ายด้วย e ให้เติม -st (e.g., large -> the largest)\n    *   ถ้าเป็น 'สระเสียงสั้น + พยัญชนะตัวเดียว' ให้เบิ้ลพยัญชนะตัวท้ายก่อนเติม -est (e.g., big -> the biggest, hot -> the hottest)\n    *   **คำคุณศัพท์ 2 พยางค์ที่ลงท้ายด้วย -y:** เปลี่ยน y เป็น i แล้วเติม -est (e.g., busy -> the busiest, happy -> the happiest)\n    *   **คำคุณศัพท์ 2 พยางค์ขึ้นไป:** ใช้ the most นำหน้า (e.g., expensive -> the most expensive, beautiful -> the most beautiful)\n    *   **ข้อยกเว้น:** คำคุณศัพท์ 2 พยางค์บางคำที่ลงท้ายด้วย -er, -le, -ow สามารถใช้ -est ได้ เช่น clever -> the cleverest, simple -> the simplest, narrow -> the narrowest\n\n2.  **The + Superlative Adverb:**\n    *   **คำวิเศษณ์พยางค์เดียว:** เติม -est (e.g., fast -> the fastest, hard -> the hardest). 'The' มักจะถูกละไว้ได้ในภาษาพูด แต่ในภาษาเขียนที่เป็นทางการควรมีไว้\n    *   **คำวิเศษณ์ 2 พยางค์ขึ้นไป (ส่วนใหญ่ลงท้ายด้วย -ly):** ใช้ the most นำหน้า (e.g., quickly -> the most quickly, carefully -> the most carefully)\n\n3.  **Irregular Forms (รูปพิเศษที่ต้องจำ):**\n    *   Good (adj.) / Well (adv.) -> **the best**\n    *   Bad (adj.) / Badly (adv.) -> **the worst**\n    *   Far (adj./adv.) -> **the farthest** (ระยะทาง) / **the furthest** (ระยะทาง หรือ ในเชิงเปรียบเทียบ เช่น ไกลที่สุด, มากที่สุด)\n    *   Little (adj./adv.) -> **the least** (น้อยที่สุด)\n    *   Many/Much -> **the most** (มากที่สุด)\n\n4.  **การระบุกลุ่มที่เปรียบเทียบ:**\n    *   มักจะตามด้วยบุพบทวลี (prepositional phrase) เพื่อบอกว่า 'ที่สุดในกลุ่มไหน'\n    *   **in + สถานที่/กลุ่ม:** `the tallest building in the city`, `the best student in the class`\n    *   **of + กลุ่มคน/สิ่งของ (พหูพจน์):** `the oldest of the three brothers`\n    *   **that/which + clause:** `This is the best movie that I have ever seen.`",
+    "examples": [
+      {
+        "eng": "Of all the historical figures we've studied, Napoleon is arguably the most brilliant military strategist.",
+        "thai": "ในบรรดาบุคคลในประวัติศาสตร์ทั้งหมดที่เราได้เรียนมา นโปเลียนอาจจะเรียกได้ว่าเป็นนักยุทธศาสตร์การทหารที่เก่งกาจที่สุด (ใช้ of all เพื่อระบุกลุ่ม และ arguably เพื่อแสดงความเห็นที่อาจมีคนโต้แย้งได้)"
+      },
+      {
+        "eng": "This documentary presents the most comprehensive analysis of climate change I have ever encountered.",
+        "thai": "สารคดีนี้นำเสนอการวิเคราะห์การเปลี่ยนแปลงสภาพภูมิอากาศที่ครอบคลุมที่สุดเท่าที่ฉันเคยเจอมา (ใช้ present perfect 'I have ever encountered' เพื่อเน้นว่าเป็นที่สุดจากประสบการณ์ทั้งหมด)"
+      },
+      {
+        "eng": "She completed the marathon the fastest, but he ran the most consistently throughout the race.",
+        "thai": "เธอวิ่งจบมาราธอนได้เร็วที่สุด แต่เขาวิ่งได้สม่ำเสมอที่สุดตลอดการแข่งขัน (เปรียบเทียบ superlative adverb สองตัวในประโยคเดียว 'the fastest' และ 'the most consistently')"
+      },
+      {
+        "eng": "Choosing the least invasive surgical procedure is often the wisest decision for the patient's recovery.",
+        "thai": "การเลือกขั้นตอนการผ่าตัดที่รุกล้ำน้อยที่สุดมักจะเป็นการตัดสินใจที่ฉลาดที่สุดเพื่อการฟื้นตัวของผู้ป่วย (ใช้ the least เป็นขั้นสุดของ 'น้อย' และ the wisest ในประโยคเดียวกัน)"
+      },
+      {
+        "eng": "That was by far the worst performance the team has given this entire season.",
+        "thai": "นั่นเป็นการเล่นที่แย่ที่สุดอย่างเห็นได้ชัดของทีมในฤดูกาลนี้ทั้งหมด (ใช้ by far เพื่อเน้นย้ำความเป็นที่สุด)"
+      }
+    ],
+    "common_mistakes": "- **ลืมใช้ 'the'**: ข้อผิดพลาดที่เจอบ่อยที่สุด คนไทยมักจะพูดว่า 'She is smartest girl in class.' ที่ถูกต้องคือ 'She is **the** smartest girl in class.'\n- **ใช้ซ้ำซ้อน (Double Superlative)**: การใช้ cả a 'most' และ '-est' ในคำเดียวกัน เช่น '*the most biggest*' หรือ '*the most tallest*' ซึ่งผิดหลักไวยากรณ์ ที่ถูกต้องคือ 'the biggest' หรือ 'the tallest'\n- **สับสนระหว่าง Adjective กับ Adverb**: ใช้ superlative adjective แทน adverb เช่น 'He drives *the most careful*.' ที่ถูกต้องคือ 'He drives **the most carefully**.' เพราะ 'carefully' ขยายกริยา 'drives'\n- **ใช้รูป Irregular forms ผิด**: สับสนระหว่างขั้นกว่า (comparative) กับขั้นสุด (superlative) เช่น ใช้ 'the worse' แทน 'the worst' หรือ 'the better' แทน 'the best' เมื่อต้องการพูดถึงสิ่งที่ 'แย่ที่สุด' หรือ 'ดีที่สุด'\n- **ใช้บุพบท (Preposition) ผิด**: ในการระบุกลุ่ม มักสับสนระหว่าง in กับ of เช่น 'He is the fastest runner of the world.' ที่ถูกต้องคือ '...**in** the world.' แต่ถ้าเป็น '...**of** all the runners.' จะถูกต้อง",
+    "practice_questions": [
+      {
+        "question": "Among all the proposed solutions, yours seems to be ______ and practical for our current situation.",
+        "options": [
+          "A. the most logical",
+          "B. most logical",
+          "C. the more logical",
+          "D. logicest"
+        ],
+        "answer": "A",
+        "explanation": "คำว่า 'logical' เป็นคุณศัพท์ (adjective) ที่มี 2 พยางค์ขึ้นไป ดังนั้นการทำเป็นขั้นสุด (superlative) จึงต้องใช้ 'the most' นำหน้า และเนื่องจากเป็นการเปรียบเทียบในกลุ่ม 'all the proposed solutions' จึงต้องใช้ขั้นสุด และต้องมี 'the' นำหน้าเสมอ"
+      },
+      {
+        "question": "I've had many difficult exams, but yesterday's physics test was by far ______ I've ever taken.",
+        "options": [
+          "A. the worse",
+          "B. the baddest",
+          "C. the worst",
+          "D. most bad"
+        ],
+        "answer": "C",
+        "explanation": "ขั้นสุดของ 'bad' คือ 'the worst' (แย่ที่สุด) เป็นรูปแบบ Irregular ที่ต้องจำ ส่วน 'the worse' เป็นขั้นกว่า (แย่กว่า) 'the baddest' และ 'most bad' เป็นรูปที่ไม่ถูกต้องตามหลักไวยากรณ์"
+      },
+      {
+        "question": "Of the three receptionists, Maria is always ______ and handles inquiries with great patience.",
+        "options": [
+          "A. the busyest",
+          "B. the most busy",
+          "C. busiest",
+          "D. the busiest"
+        ],
+        "answer": "D",
+        "explanation": "คำว่า 'busy' เป็นคุณศัพท์ 2 พยางค์ที่ลงท้ายด้วย -y ดังนั้นจึงต้องเปลี่ยน y เป็น i แล้วเติม -est เป็น 'busiest' และต้องมี 'the' นำหน้าเสมอเมื่อเป็นขั้นสุด"
+      },
+      {
+        "question": "To maximize productivity, we need to identify which process works ______.",
+        "options": [
+          "A. most efficient",
+          "B. the most efficiently",
+          "C. the more efficiently",
+          "D. most efficiently"
+        ],
+        "answer": "B",
+        "explanation": "ในที่นี้ เราต้องการคำวิเศษณ์ (adverb) มาขยายกริยา 'works' ซึ่งก็คือ 'efficiently' การทำให้เป็นขั้นสุดจึงต้องใช้ 'the most efficiently' แม้ในบางครั้ง 'the' อาจละได้ แต่ในตัวเลือกนี้ ข้อ B เป็นข้อที่ถูกต้องและสมบูรณ์ที่สุด"
+      },
+      {
+        "question": "While this option is the cheapest, it offers ______ long-term benefits.",
+        "options": [
+          "A. the least",
+          "B. the less",
+          "C. the littlest",
+          "D. the fewer"
+        ],
+        "answer": "A",
+        "explanation": "ขั้นสุดของ 'little' (น้อย) คือ 'the least' (น้อยที่สุด) เพื่อเปรียบเทียบว่าตัวเลือกนี้ให้ผลประโยชน์ในระยะยาว 'น้อยที่สุด' ในบรรดาตัวเลือกอื่นๆ 'the less' เป็นขั้นกว่า, 'the littlest' มักใช้กับขนาด, และ 'the fewer' ใช้กับคำนามนับได้"
+      },
+      {
+        "question": "Professor Albright is considered ______ historian on ancient civilizations in our department.",
+        "options": [
+          "A. a most influential",
+          "B. the more influential",
+          "C. the most influential",
+          "D. most influential"
+        ],
+        "answer": "C",
+        "explanation": "เมื่อต้องการยกย่องใครคนหนึ่งว่าเป็น 'ที่สุด' ในกลุ่ม (in our department) จะต้องใช้ superlative form ซึ่งก็คือ 'the most influential' เพราะ 'influential' เป็นคำคุณศัพท์ยาว"
+      },
+      {
+        "question": "We drove to the ______ point of the island to watch the sunset.",
+        "options": [
+          "A. farrest",
+          "B. most far",
+          "C. furthest",
+          "D. further"
+        ],
+        "answer": "C",
+        "explanation": "ขั้นสุดของ 'far' คือ 'farthest' หรือ 'furthest' ซึ่งในตัวเลือกมี 'furthest' (ไกลที่สุด) ที่ใช้กับระยะทางได้ 'farrest' และ 'most far' เป็นรูปที่ผิด ส่วน 'further' เป็นขั้นกว่า"
+      },
+      {
+        "question": "Despite its modern appearance, this is actually ______ building in the entire city, dating back to the 17th century.",
+        "options": [
+          "A. the most old",
+          "B. an older",
+          "C. the oldest",
+          "D. oldest"
+        ],
+        "answer": "C",
+        "explanation": "คำว่า 'old' เป็นคุณศัพท์พยางค์เดียว ขั้นสุดจึงต้องเติม -est เป็น 'oldest' และต้องมี 'the' นำหน้าเสมอเพื่อชี้เฉพาะว่าเป็นตึกที่เก่า 'ที่สุด' ในเมือง"
+      },
+      {
+        "question": "Among all the team members, he articulated his concerns ______ during the meeting.",
+        "options": [
+          "A. the most thoughtfully",
+          "B. most thoughtful",
+          "C. the thoughtfulest",
+          "D. more thoughtfully"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้ต้องการ adverb มาขยายกริยา 'articulated' (พูด/อธิบายอย่างชัดเจน) ดังนั้นต้องใช้ 'thoughtfully' (อย่างไตร่ตรอง) ขั้นสุดของ adverb ที่ลงท้ายด้วย -ly คือ 'the most thoughtfully'"
+      },
+      {
+        "question": "This is undoubtedly ______ pizza I have ever had in Italy.",
+        "options": [
+          "A. a better",
+          "B. the best",
+          "C. the goodest",
+          "D. a best"
+        ],
+        "answer": "B",
+        "explanation": "วลี 'I have ever had' เป็นสัญญาณชัดเจนว่าต้องการการเปรียบเทียบขั้นสุด ขั้นสุดของ 'good' คือ 'best' และต้องใช้ 'the' นำหน้าเสมอ เป็น 'the best' (ดีที่สุด) 'the goodest' เป็นรูปที่ผิด"
+      }
+    ]
+  },
+  {
+    "id": "26_3",
+    "title": "26.3 As...As & Not as...As (การเปรียบเทียบเท่ากัน/ไม่เท่ากัน)",
+    "explanation": "โครงสร้าง 'As...As' และ 'Not as...As' ใช้เพื่อเปรียบเทียบสิ่งสองสิ่งที่ 'เท่ากัน' หรือ 'ไม่เท่ากัน' ในคุณสมบัติบางอย่าง เป็นโครงสร้างพื้นฐานแต่มีความซับซ้อนขึ้นในระดับ B1-B2\n\n**1. การเปรียบเทียบความเท่ากัน (Positive Comparison): `as + adjective/adverb + as`**\n- ใช้เมื่อต้องการบอกว่าสองสิ่งมีคุณสมบัติหรือลักษณะเหมือนกัน/เท่ากัน\n- **Adjective (คำคุณศัพท์):** ใช้อธิบาย Noun (คำนาม) หรือตามหลัง Linking Verbs (เช่น is, am, are, feel, seem)\n  - `My new laptop is as powerful as my old desktop computer.` (แล็ปท็อปเครื่องใหม่ของฉันมีประสิทธิภาพเท่ากับคอมพิวเตอร์ตั้งโต๊ะเครื่องเก่า)\n- **Adverb (คำวิเศษณ์):** ใช้อธิบาย Verb (คำกริยา)\n  - `She can explain complex topics as clearly as her professor.` (เธอสามารถอธิบายหัวข้อที่ซับซ้อนได้ชัดเจนเท่ากับศาสตราจารย์ของเธอ)\n\n**2. การเปรียบเทียบความไม่เท่ากัน (Negative Comparison): `not as...as` หรือ `not so...as`**\n- ใช้เมื่อต้องการบอกว่าสิ่งแรกมีคุณสมบัตินั้น 'น้อยกว่า' สิ่งที่สอง\n- `so` สามารถใช้แทน `as` ตัวแรกได้ในประโยคปฏิเสธ (มีความเป็นทางการมากกว่าเล็กน้อย)\n  - `The sequel to the movie was not as captivating as the original.` (ภาคต่อของหนังไม่น่าดึงดูดใจเท่าภาคแรก)\n  - `Working from home is not so straightforward as some people believe.` (การทำงานจากที่บ้านไม่ได้ตรงไปตรงมาอย่างที่บางคนเชื่อ)\n\n**3. การใช้กับ Nouns (คำนาม): `as much/many...as`**\n- **as much as:** ใช้กับคำนามนับไม่ได้ (Uncountable Nouns) เช่น information, time, money, experience\n  - `He doesn't have as much practical experience as the other candidates.` (เขามีประสบการณ์ภาคปฏิบัติไม่มากเท่าผู้สมัครคนอื่นๆ)\n- **as many as:** ใช้กับคำนามนับได้ (Countable Nouns) เช่น books, people, mistakes, opportunities\n  - `Our new system can process as many transactions per minute as the leading competitor's.` (ระบบใหม่ของเราสามารถประมวลผลธุรกรรมต่อนาทีได้มากเท่ากับของคู่แข่งชั้นนำ)\n\n**4. การใช้คำขยาย (Modifiers)**\n- เราสามารถเพิ่มคำขยายหน้า `as` ตัวแรกเพื่อบอกระดับความใกล้เคียงได้ เช่น `nearly`, `almost` (เกือบจะ), `just` (พอๆ กัน), `quite` (ค่อนข้าง), `(not) nearly` (ไม่ใกล้เคียงเลย)\n  - `This report is just as important as the one you submitted last week.` (รายงานนี้สำคัญพอๆ กันกับฉบับที่คุณส่งเมื่อสัปดาห์ที่แล้ว)\n  - `My internet connection is not nearly as fast as yours.` (เน็ตของฉันเร็วไม่เท่าของคุณเลยสักนิด / เร็วน้อยกว่ามาก)",
+    "examples": [
+      {
+        "eng": "The project's outcome was not as successful as we had initially anticipated.",
+        "thai": "ผลลัพธ์ของโครงการไม่ประสบความสำเร็จเท่าที่เราคาดการณ์ไว้ในตอนแรก (ใช้ not as + adjective + as)"
+      },
+      {
+        "eng": "He analyzes data as meticulously as a seasoned professional.",
+        "thai": "เขาวิเคราะห์ข้อมูลอย่างพิถีพิถันราวกับมืออาชีพที่ช่ำชอง (ใช้ as + adverb + as เพื่อขยายกริยา analyzes)"
+      },
+      {
+        "eng": "She invested almost as much effort into this hobby as she does in her full-time job.",
+        "thai": "เธอทุ่มเทความพยายามให้กับงานอดิเรกนี้เกือบจะมากเท่ากับที่เธอทำในงานประจำของเธอ (ใช้ modifier 'almost' และ 'as much effort as')"
+      },
+      {
+        "eng": "Modern smartphones don't require as much technical knowledge to operate as the early computers did.",
+        "thai": "สมาร์ทโฟนสมัยใหม่ไม่ต้องการความรู้ทางเทคนิคในการใช้งานมากเท่ากับคอมพิวเตอร์ยุคแรก (ใช้ 'as much knowledge as' กับนามนับไม่ได้)"
+      },
+      {
+        "eng": "Surprisingly, the intern presented her findings as confidently as the senior manager.",
+        "thai": "น่าประหลาดใจที่นักศึกษาฝึกงานนำเสนอผลการค้นพบของเธออย่างมั่นใจพอๆ กับผู้จัดการอาวุโส (ใช้ as + adverb + as)"
+      }
+    ],
+    "common_mistakes": "- **ใช้รูป Comparative แทนรูปปกติ:** ห้ามใช้ Adjective/Adverb ขั้นกว่า (เช่น better, more quickly) ระหว่าง `as...as` เด็ดขาด\n  - **ผิด:** `He is as taller as his father.`\n  - **ผิด:** `This coffee is as better as the one from that cafe.`\n  - **ถูก:** `He is as tall as his father.`\n  - **ถูก:** `This coffee is as good as the one from that cafe.`\n\n- **สับสนระหว่าง Adjective กับ Adverb:** ต้องเลือกใช้ให้ถูกตามหน้าที่ในประโยค ถ้าขยายคำนามใช้ Adjective ถ้าขยายคำกริยาใช้ Adverb\n  - **ผิด:** `She doesn't sing as beautiful as her sister.` (beautiful เป็น adj. ขยาย verb 'sing' ไม่ได้)\n  - **ถูก:** `She doesn't sing as beautifully as her sister.` (beautifully เป็น adv. ขยาย verb 'sing' ได้อย่างถูกต้อง)\n\n- **ละเลย `as` ตัวที่สอง:** โครงสร้างนี้ต้องมี `as` สองตัวเสมอเพื่อสร้างการเปรียบเทียบที่สมบูรณ์\n  - **ผิด:** `This meeting is not as productive the last one.`\n  - **ถูก:** `This meeting is not as productive as the last one.`\n\n- **ใช้ `than` แทน `as`:** `than` ใช้กับการเปรียบเทียบขั้นกว่า (comparative: more...than / -er than) เท่านั้น ไม่ใช้กับโครงสร้างนี้\n  - **ผิด:** `Your car is as fast than mine.`\n  - **ถูก:** `Your car is as fast as mine.`",
+    "practice_questions": [
+      {
+        "question": "The new software isn't ______ user-friendly as the previous version, causing some frustration among employees.",
+        "options": [
+          "A. so much",
+          "B. as much",
+          "C. as",
+          "D. more"
+        ],
+        "answer": "C. as",
+        "explanation": "โครงสร้างการเปรียบเทียบที่ไม่เท่ากันคือ `not as + adjective + as` หรือ `not so + adjective + as` ในที่นี้ `user-friendly` คือ Adjective ดังนั้นช่องว่างจึงต้องการ `as` เพื่อทำให้โครงสร้างสมบูรณ์"
+      },
+      {
+        "question": "Despite his age, he can still perform the task ______ as a younger employee.",
+        "options": [
+          "A. efficient",
+          "B. as efficient",
+          "C. efficiently",
+          "D. more efficiently"
+        ],
+        "answer": "C. efficiently",
+        "explanation": "คำที่ต้องการคือ Adverb (คำวิเศษณ์) เพื่อขยายกริยา 'perform' (ปฏิบัติงาน) คำว่า `efficiently` (อย่างมีประสิทธิภาพ) เป็น Adverb ที่ถูกต้อง ทำให้ประโยคสมบูรณ์เป็น `as efficiently as`"
+      },
+      {
+        "question": "We didn't sell ______ tickets for the concert this year as we did last year.",
+        "options": [
+          "A. as much",
+          "B. as many",
+          "C. so much",
+          "D. so more"
+        ],
+        "answer": "B. as many",
+        "explanation": "คำว่า `tickets` (ตั๋ว) เป็นคำนามนับได้ (Countable Noun) ในรูปพหูพจน์ ดังนั้นจึงต้องใช้โครงสร้าง `as many...as` ในการเปรียบเทียบจำนวน"
+      },
+      {
+        "question": "This proposal isn't ______ well-thought-out as the one submitted by the other team.",
+        "options": [
+          "A. nearly as",
+          "B. nearly",
+          "C. as near",
+          "D. much nearly"
+        ],
+        "answer": "A. nearly as",
+        "explanation": "คำว่า `nearly` (เกือบจะ) เป็น Modifier ที่ใช้วางหน้าโครงสร้าง `as...as` ในประโยคปฏิเสธ `not nearly as...as` จะแปลว่า 'ไม่ดีเท่าเลยสักนิด' หรือ 'ด้อยกว่ามาก' ซึ่งเป็นสำนวนที่ใช้บ่อยในระดับ B1-B2"
+      },
+      {
+        "question": "I was surprised that the final exam was just ______ the practice tests we had.",
+        "options": [
+          "A. as challenging as",
+          "B. more challenging",
+          "C. as challenging than",
+          "D. challenging as"
+        ],
+        "answer": "A. as challenging as",
+        "explanation": "คำว่า `just` เป็น Modifier ที่ใช้เน้นว่า 'เท่ากันพอดี' หรือ 'เหมือนกันเป๊ะ' โครงสร้างที่ถูกต้องคือ `just as + adjective + as` ในที่นี้ `challenging` (ท้าทาย) คือ Adjective"
+      },
+      {
+        "question": "She wants to find a job that offers ______ flexibility as her current one.",
+        "options": [
+          "A. as many",
+          "B. so much",
+          "C. as much",
+          "D. more"
+        ],
+        "answer": "C. as much",
+        "explanation": "คำว่า `flexibility` (ความยืดหยุ่น) เป็นคำนามนับไม่ได้ (Uncountable Noun) ดังนั้นต้องใช้โครงสร้าง `as much...as` ในการเปรียบเทียบปริมาณ"
+      },
+      {
+        "question": "He speaks English ______ now as he did before moving to London, which is disappointing.",
+        "options": [
+          "A. as fluent",
+          "B. so fluently",
+          "C. as fluently",
+          "D. more fluent"
+        ],
+        "answer": "C. as fluently",
+        "explanation": "เราต้องการ Adverb เพื่อขยายกริยา 'speaks' (พูด) คำว่า `fluently` (อย่างคล่องแคล่ว) เป็น Adverb ที่ถูกต้อง ทำให้โครงสร้างสมบูรณ์เป็น `as fluently as`"
+      },
+      {
+        "question": "The company's profits this quarter are not ______ high as analysts had predicted.",
+        "options": [
+          "A. so",
+          "B. as so",
+          "C. so more",
+          "D. as very"
+        ],
+        "answer": "A. so",
+        "explanation": "ในประโยคปฏิเสธ เราสามารถใช้ `not so + adjective + as` แทน `not as + adjective + as` ได้ โดย `so` มักจะให้ความรู้สึกที่เป็นทางการกว่าเล็กน้อย"
+      },
+      {
+        "question": "It's remarkable how this generic brand of coffee tastes ______ good as the expensive, well-known one.",
+        "options": [
+          "A. as",
+          "B. quite",
+          "C. just as",
+          "D. more"
+        ],
+        "answer": "C. just as",
+        "explanation": "ในที่นี้ต้องการเน้นว่ารสชาติ 'ดีเท่ากันพอดี' `just as` เป็นตัวเลือกที่ดีที่สุดในการสื่อความหมายนี้ `tastes` เป็น Linking Verb ตามด้วย Adjective 'good' ดังนั้นโครงสร้าง `tastes just as good as` จึงถูกต้องและสมบูรณ์"
+      },
+      {
+        "question": "To complete the marathon, you need ______ mental strength as physical endurance.",
+        "options": [
+          "A. as many",
+          "B. as much",
+          "C. so many",
+          "D. more much"
+        ],
+        "answer": "B. as much",
+        "explanation": "คำว่า `mental strength` (ความแข็งแกร่งทางจิตใจ) เป็นคำนามนับไม่ได้ (Uncountable Noun) ดังนั้นจึงต้องใช้โครงสร้าง `as much...as` เพื่อเปรียบเทียบ"
+      }
+    ]
+  },
+  {
+    "id": "26_4",
+    "title": "26.4 Double Comparatives (The more... the more...)",
+    "explanation": "Double Comparatives คือโครงสร้างไวยากรณ์ที่ใช้แสดงความสัมพันธ์แบบ 'เหตุและผล' หรือ 'สิ่งหนึ่งเปลี่ยนแปลงตามอีกสิ่งหนึ่ง' ในภาษาไทยเรามักจะแปลว่า 'ยิ่ง... ก็ยิ่ง...' เป็นโครงสร้างที่ใช้บ่อยมากในการสนทนาและการเขียนเพื่อแสดงความเชื่อมโยงของสองเหตุการณ์\n\n**โครงสร้างหลัก:**\nThe + Comparative Adjective/Adverb (+ Subject + Verb), the + Comparative Adjective/Adverb (+ Subject + Verb)\n\n**วิธีการสร้างประโยค:**\n1.  **Clause ที่ 1 (เหตุ):** เริ่มด้วย 'The' ตามด้วยขั้นกว่า (Comparative Form) ของ Adjective หรือ Adverb อาจจะมีประธาน (Subject) และกริยา (Verb) ตามมาหรือไม่ก็ได้ ขึ้นอยู่กับบริบท\n2.  **Clause ที่ 2 (ผล):** เริ่มด้วย 'The' ตามด้วยขั้นกว่า (Comparative Form) เช่นกัน และตามด้วยประธานและกริยา\n\n**ตัวอย่างการใช้:**\n*   **Adjective สั้น (-er):** The **harder** you work, the **luckier** you get. (ยิ่งคุณทำงานหนักเท่าไหร่ คุณก็ยิ่งโชคดีมากขึ้นเท่านั้น)\n*   **Adjective ยาว (more/less):** The **more challenging** the task is, the **more satisfying** the result will be. (ยิ่งงานท้าทายมากเท่าไหร่ ผลลัพธ์ก็จะยิ่งน่าพอใจมากขึ้นเท่านั้น)\n*   **Adverb:** The **more carefully** you drive, the **safer** you will be. (ยิ่งคุณขับรถอย่างระมัดระวังมากเท่าไหร่ คุณก็จะยิ่งปลอดภัยมากขึ้นเท่านั้น)\n*   **เปรียบเทียบคำนาม (more/less/fewer):** The **more money** he makes, the **less time** he has for his family. (ยิ่งเขาหาเงินได้มากเท่าไหร่ เขาก็ยิ่งมีเวลาให้ครอบครัวน้อยลงเท่านั้น)\n\nโครงสร้างนี้มีประโยชน์อย่างมากในการแสดงความสัมพันธ์ที่ซับซ้อน ทำให้การสื่อสารดูเป็นธรรมชาติและมีความลึกซึ้งยิ่งขึ้น",
+    "examples": [
+      {
+        "eng": "The more sophisticated the technology becomes, the more vulnerable our privacy is.",
+        "thai": "ยิ่งเทคโนโลยีมีความซับซ้อนมากขึ้นเท่าไหร่ ความเป็นส่วนตัวของเราก็ยิ่งเปราะบางมากขึ้นเท่านั้น (sophisticated = ซับซ้อน, vulnerable = เปราะบาง, อ่อนแอ)"
+      },
+      {
+        "eng": "The less you rely on others for validation, the more confident you will become in your own abilities.",
+        "thai": "ยิ่งคุณพึ่งพาการยอมรับจากคนอื่นน้อยลงเท่าไหร่ คุณก็จะยิ่งมั่นใจในความสามารถของตัวเองมากขึ้นเท่านั้น (rely on = พึ่งพา, validation = การยอมรับ, การยืนยัน)"
+      },
+      {
+        "eng": "The sooner we address the environmental issues, the better chance we have of preserving our planet.",
+        "thai": "ยิ่งเราจัดการกับปัญหาสิ่งแวดล้อมเร็วเท่าไหร่ เราก็ยิ่งมีโอกาสที่จะรักษ์โลกของเราได้ดีขึ้นเท่านั้น (address = จัดการ, รับมือกับ, preserving = การอนุรักษ์)"
+      },
+      {
+        "eng": "The more diverse a team is, the more innovative its solutions tend to be.",
+        "thai": "ยิ่งทีมมีความหลากหลายมากเท่าไหร่ แนวทางการแก้ปัญหาก็มักจะยิ่งมีนวัตกรรมมากขึ้นเท่านั้น (diverse = หลากหลาย, innovative = ที่มีนวัตกรรม)"
+      }
+    ],
+    "common_mistakes": "**1. ลืมใช้ 'The' นำหน้า Comparative ทั้งสองส่วน:**\n*   ผิด: *More you study, harder it gets.*\n*   ถูก: **The** more you study, **the** harder it gets.\n(คนไทยมักจะลืม 'The' เพราะในภาษาไทยไม่มีคำนำหน้าลักษณะนี้)\n\n**2. ใช้รูปประโยคผิดลำดับ:**\n*   ผิด: *The older I get, I become the wiser.*\n*   ถูก: **The** older I get, **the** wiser I become.\n(Comparative Adjective/Adverb ต้องอยู่หลัง 'The' ทันที)\n\n**3. ใช้ขั้นสุด (Superlative) แทนขั้นกว่า (Comparative):**\n*   ผิด: *The most you read, the most you know.*\n*   ถูก: **The** more you read, **the** more you know.\n(โครงสร้างนี้บังคับใช้เฉพาะขั้นกว่า เช่น more, less, -er เท่านั้น)\n\n**4. สับสนเรื่องการใช้ more กับคำนาม:**\n*   ผิด: *The more I have money, the more I want to travel.*\n*   ถูก: **The more money** I have, **the more** I want to travel.\n(เมื่อ more ขยายคำนาม ให้เอาคำนามนั้นมาวางตามหลัง more เลย)",
+    "practice_questions": [
+      {
+        "question": "___ you practice speaking English, ___ fluent you will become.",
+        "options": [
+          "A. More / more",
+          "B. The more / the more",
+          "C. The most / the most",
+          "D. As much / as"
+        ],
+        "answer": "B",
+        "explanation": "โครงสร้าง Double Comparatives ต้องใช้ 'The + comparative, the + comparative' เพื่อแสดงความสัมพันธ์ว่า 'ยิ่ง... ก็ยิ่ง...' ดังนั้น The more... the more... จึงเป็นคำตอบที่ถูกต้อง"
+      },
+      {
+        "question": "The higher the risk, ___ the potential reward.",
+        "options": [
+          "A. great",
+          "B. greatest",
+          "C. the greater",
+          "D. the great"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้อยู่ในโครงสร้าง Double Comparatives ส่วนแรกคือ 'The higher the risk' ดังนั้นส่วนที่สองต้องขึ้นต้นด้วย 'the' ตามด้วยขั้นกว่าของ 'great' ซึ่งก็คือ 'greater' เป็น 'the greater'"
+      },
+      {
+        "question": "___ information we gather, ___ our decision will be.",
+        "options": [
+          "A. The more accurate / the better informed",
+          "B. More accurate / better informed",
+          "C. The most accurate / the best informed",
+          "D. Accurate the more / informed the better"
+        ],
+        "answer": "A",
+        "explanation": "เราต้องการโครงสร้าง 'The + comparative..., the + comparative...' ในที่นี้ 'more accurate' เป็นขั้นกว่าของ 'accurate' และ 'better informed' เป็นขั้นกว่าของ 'well-informed' ซึ่งต้องมี 'The' นำหน้าทั้งคู่"
+      },
+      {
+        "question": "The less time you waste on social media, ___ you can accomplish during the day.",
+        "options": [
+          "A. the much",
+          "B. the more",
+          "C. most",
+          "D. more"
+        ],
+        "answer": "B",
+        "explanation": "ส่วนแรกของประโยคคือ 'The less time you waste...' ดังนั้นส่วนที่สองต้องตามโครงสร้างเดียวกัน คือ 'the' ตามด้วยขั้นกว่า ในที่นี้คือ 'the more' เพื่อแสดงว่า 'ยิ่ง... ก็ยิ่ง...'"
+      },
+      {
+        "question": "The sooner we start the project, ___ we can finish it.",
+        "options": [
+          "A. so early",
+          "B. the earliest",
+          "C. the earlier",
+          "D. earlier"
+        ],
+        "answer": "C",
+        "explanation": "นี่คือ Double Comparative ที่ใช้ adverb ขั้นกว่า (sooner, earlier) ประโยคส่วนแรกคือ 'The sooner' ดังนั้นส่วนที่สองต้องเป็น 'the' ตามด้วยขั้นกว่าของ 'early' ซึ่งคือ 'the earlier'"
+      },
+      {
+        "question": "___ you are to your goals, ___ it becomes to stay motivated.",
+        "options": [
+          "A. The close / the hard",
+          "B. Closer / harder",
+          "C. The closer / the harder",
+          "D. The closest / the hardest"
+        ],
+        "answer": "C",
+        "explanation": "โครงสร้างที่ถูกต้องคือ 'The + comparative..., the + comparative...' ขั้นกว่าของ 'close' คือ 'closer' และขั้นกว่าของ 'hard' คือ 'harder' จึงต้องเป็น 'The closer..., the harder...'"
+      },
+      {
+        "question": "___ employees feel, the more productive they are likely to be.",
+        "options": [
+          "A. The more valued",
+          "B. The most valued",
+          "C. More valued",
+          "D. As valued as"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคส่วนที่สองคือ 'the more productive they are' ซึ่งเป็น Double Comparative ดังนั้นส่วนแรกต้องขึ้นต้นด้วย 'The' ตามด้วยขั้นกว่า ในที่นี้ 'valued' เป็น adjective ยาว จึงใช้ 'more' เป็น 'The more valued'"
+      },
+      {
+        "question": "The more intricate the design, ___ it is to manufacture.",
+        "options": [
+          "A. the expensive",
+          "B. most expensive",
+          "C. the more expensive",
+          "D. more expensive"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้เปรียบเทียบความซับซ้อน (intricate) กับราคา (expensive) ส่วนแรกคือ 'The more intricate...' ดังนั้นส่วนที่สองต้องเป็น 'the' ตามด้วยขั้นกว่าของ 'expensive' ซึ่งคือ 'the more expensive'"
+      },
+      {
+        "question": "___ you think about the problem, ___ it seems.",
+        "options": [
+          "A. The less / the less complicated",
+          "B. Less / less complicated",
+          "C. The least / the least complicated",
+          "D. The less / less complicated"
+        ],
+        "answer": "A",
+        "explanation": "เพื่อรักษาโครงสร้าง Double Comparative ให้สมบูรณ์ ทั้งสองส่วนของประโยคต้องขึ้นต้นด้วย 'The' ตามด้วยขั้นกว่า (less, less complicated) ดังนั้น 'The less..., the less complicated...' จึงถูกต้องที่สุด"
+      },
+      {
+        "question": "___ a diet is, the more difficult it is to stick to it long-term.",
+        "options": [
+          "A. More restrictive",
+          "B. The more restrictive",
+          "C. Most restrictive",
+          "D. The most restrictive"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคส่วนที่สองคือ 'the more difficult it is...' ซึ่งเป็นส่วนหนึ่งของ Double Comparative ดังนั้นส่วนแรกที่ว่างไว้ต้องใช้โครงสร้างเดียวกัน คือ 'The' ตามด้วยขั้นกว่าของ 'restrictive' ซึ่งก็คือ 'The more restrictive'"
+      }
+    ]
+  },
+  {
+    "id": "26_5",
+    "title": "26.5 Summary: Comparative & Superlative (สรุปการเปรียบเทียบ + 50 Exercises)",
+    "explanation": "นี่คือการสรุปรวบยอดเนื้อหาทั้งหมดเกี่ยวกับการใช้ Comparative และ Superlative ในระดับ B1-B2 เพื่อให้คุณทบทวนและเข้าใจภาพรวมทั้งหมด\n\n**1. Comparative Adjectives/Adverbs (ขั้นกว่า)**\nใช้เปรียบเทียบคน สัตว์ สิ่งของ หรือการกระทำ **2 สิ่ง** ว่ามีคุณสมบัติ 'มากกว่า' หรือ 'น้อยกว่า' กันอย่างไร มักจะตามด้วยคำว่า 'than'\n*   **คำพยางค์เดียว:** เติม `-er` (e.g., fast -> faster)\n*   **คำ 2 พยางค์ที่ลงท้ายด้วย -y:** เปลี่ยน y เป็น i แล้วเติม `-er` (e.g., busy -> busier)\n*   **คำ 2 พยางค์ขึ้นไป:** ใช้ `more` นำหน้า (e.g., beautiful -> more beautiful)\n*   **เปรียบว่า 'น้อยกว่า':** ใช้ `less` นำหน้าได้กับทุกคำ (e.g., less expensive)\n\n**2. Superlative Adjectives/Adverbs (ขั้นสุด)**\nใช้เปรียบเทียบของ **3 สิ่งขึ้นไป** เพื่อบอกว่าสิ่งใดมีคุณสมบัตินั้น 'มากที่สุด' หรือ 'น้อยที่สุด' ในกลุ่ม จะต้องมี `the` นำหน้าเสมอ\n*   **คำพยางค์เดียว:** เติม `-est` (e.g., fast -> the fastest)\n*   **คำ 2 พยางค์ที่ลงท้ายด้วย -y:** เปลี่ยน y เป็น i แล้วเติม `-est` (e.g., busy -> the busiest)\n*   **คำ 2 พยางค์ขึ้นไป:** ใช้ `the most` นำหน้า (e.g., beautiful -> the most beautiful)\n*   **เปรียบว่า 'น้อยที่สุด':** ใช้ `the least` นำหน้า (e.g., the least expensive)\n\n**3. Irregular Forms (รูปแบบพิเศษที่ต้องจำ)**\nคำคุณศัพท์และกริยาวิเศษณ์บางคำมีการเปลี่ยนรูปไปเลย\n*   good / well -> better -> the best\n*   bad / badly -> worse -> the worst\n*   far -> farther / further -> the farthest / the furthest\n*   little -> less -> the least\n*   much / many -> more -> the most\n\n**4. Other Structures (โครงสร้างอื่นๆ)**\n*   **การเปรียบเทียบที่เท่ากัน:** `as + adjective/adverb + as` (e.g., He is as tall as his father.)\n*   **การเปรียบเทียบที่ไม่เท่ากัน:** `not as/so + adjective/adverb + as` (e.g., This movie is not as exciting as the book.)\n*   **การใช้ตัวขยาย (Modifiers):** ใช้วางหน้า comparative เพื่อบอกระดับ เช่น `much, far, a lot` (มาก) หรือ `a bit, slightly, a little` (เล็กน้อย) (e.g., She is a lot more confident now.)\n*   **โครงสร้าง 'ยิ่ง...ยิ่ง...':** `The + comparative, the + comparative` (e.g., The harder you study, the better your grades will be.)",
+    "examples": [
+      {
+        "eng": "This project is significantly more challenging than the previous one.",
+        "thai": "โปรเจกต์นี้ท้าทายกว่าโปรเจกต์ที่แล้วอย่างมีนัยสำคัญ (ใช้ 'more challenging' เพราะ 'challenging' เป็นคำยาว และใช้ 'significantly' เป็นตัวขยาย)"
+      },
+      {
+        "eng": "Of all the candidates, she answered the questions the most thoughtfully.",
+        "thai": "ในบรรดาผู้สมัครทั้งหมด เธอเป็นคนที่ตอบคำถามได้อย่างไตร่ตรองมากที่สุด (ใช้ 'the most thoughtfully' เพราะ 'thoughtfully' เป็น adverb ยาว และเป็นการเปรียบเทียบขั้นสุด)"
+      },
+      {
+        "eng": "The further we walked, the more mysterious the forest became.",
+        "thai": "ยิ่งเราเดินเข้าไปไกลเท่าไหร่ ป่าก็ยิ่งดูลึกลับมากขึ้นเท่านั้น (ใช้โครงสร้าง The + comparative, the + comparative)"
+      },
+      {
+        "eng": "My new apartment is not nearly as spacious as my old one.",
+        "thai": "อพาร์ตเมนต์ใหม่ของฉันไม่ได้กว้างขวางเท่าที่เก่าเลยสักนิด (ใช้ 'not as...as' เพื่อเปรียบเทียบสิ่งที่ไม่เท่ากัน และใช้ 'nearly' เพื่อเน้นย้ำ)"
+      }
+    ],
+    "common_mistakes": "1. **การใช้ Comparative ซ้ำซ้อน (Double Comparatives):**\n   - **ผิด:** This route is `more shorter` than the highway.\n   - **ถูก:** This route is `shorter` than the highway.\n   (ห้ามใช้ more กับคำที่เติม -er แล้ว)\n\n2. **ลืม 'the' หน้า Superlative:**\n   - **ผิด:** Mount Everest is `highest` mountain in the world.\n   - **ถูก:** Mount Everest is `the highest` mountain in the world.\n   (ขั้นสุดต้องมี the เสมอ ยกเว้นตามหลัง possessive adjective เช่น 'my best friend')\n\n3. **ใช้ Adjective แทน Adverb ในการเปรียบเทียบการกระทำ:**\n   - **ผิด:** He runs `more quick` than I do.\n   - **ถูก:** He runs `more quickly` than I do.\n   (Quickly เป็น adverb ขยาย verb 'runs' จึงต้องใช้รูป adverb มาเปรียบเทียบ)\n\n4. **เปรียบเทียบผิดสิ่ง (Faulty Comparison):**\n   - **ผิด:** The population of China is larger than `England`.\n   - **ถูก:** The population of China is larger than `that of England` (or `England's`).\n   (ต้องเปรียบเทียบ 'ประชากร' กับ 'ประชากร' ไม่ใช่ 'ประชากร' กับ 'ประเทศ')\n\n5. **สับสนรูป Irregular:**\n   - **ผิด:** The situation is getting `more bad`.\n   - **ถูก:** The situation is getting `worse`.\n   ('Bad' มีรูป comparative คือ 'worse' ไม่ใช้ 'more bad')",
+    "practice_questions": [
+      {
+        "question": "This new software is ______ more efficient than the old version.",
+        "options": [
+          "A. far",
+          "B. very",
+          "C. so",
+          "D. too"
+        ],
+        "answer": "A",
+        "explanation": "ใช้ตัวขยาย (modifier) เช่น far, much, a lot, significantly เพื่อเน้นย้ำการเปรียบเทียบขั้นกว่า (more efficient) 'very' ไม่สามารถใช้ขยาย comparative form ได้โดยตรง"
+      },
+      {
+        "question": "Of all the desserts, the chocolate lava cake was ______.",
+        "options": [
+          "A. more popular",
+          "B. most popular",
+          "C. the most popular",
+          "D. the popular"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้เปรียบเทียบของ 3 สิ่งขึ้นไป (Of all the desserts) จึงต้องใช้ขั้นสุด (Superlative) ซึ่งต้องมี 'the' นำหน้าเสมอ เป็น 'the most popular'"
+      },
+      {
+        "question": "She speaks English ______ than she writes it.",
+        "options": [
+          "A. more fluent",
+          "B. more fluently",
+          "C. fluenter",
+          "D. most fluently"
+        ],
+        "answer": "B",
+        "explanation": "คำที่ต้องการขยายคือ verb 'speaks' จึงต้องใช้ adverb คือ 'fluently' และเมื่อเปรียบเทียบขั้นกว่าของ adverb ที่มี 2 พยางค์ขึ้นไป จะใช้ 'more' นำหน้า"
+      },
+      {
+        "question": "I've never met anyone ______ as my grandmother.",
+        "options": [
+          "A. so patient",
+          "B. more patient",
+          "C. as patient",
+          "D. patienter"
+        ],
+        "answer": "A",
+        "explanation": "ในประโยคปฏิเสธ (I've never...) เราสามารถใช้โครงสร้าง 'not so...as' หรือ 'not as...as' เพื่อเปรียบเทียบว่าไม่เท่ากัน ในที่นี้ 'so patient' เหมาะสมที่สุดในโครงสร้าง as...as"
+      },
+      {
+        "question": "The ______ you procrastinate, the ______ work you'll have to do later.",
+        "options": [
+          "A. more / more",
+          "B. most / most",
+          "C. more / most",
+          "D. most / more"
+        ],
+        "answer": "A",
+        "explanation": "นี่คือโครงสร้าง 'The + comparative, the + comparative' ที่แปลว่า 'ยิ่ง...ก็ยิ่ง...' จึงต้องใช้ขั้นกว่าทั้งสองส่วน เป็น 'The more you procrastinate, the more work...'"
+      },
+      {
+        "question": "This is by far ______ film I have ever seen.",
+        "options": [
+          "A. the worse",
+          "B. bad",
+          "C. the worst",
+          "D. baddest"
+        ],
+        "answer": "C",
+        "explanation": "วลี '... I have ever seen' เป็นตัวบ่งชี้ว่าเป็นการเปรียบเทียบขั้นสุด และรูปขั้นสุดของ 'bad' คือ 'the worst'"
+      },
+      {
+        "question": "The journey took ______ than we had anticipated.",
+        "options": [
+          "A. long",
+          "B. longer",
+          "C. longest",
+          "D. more long"
+        ],
+        "answer": "B",
+        "explanation": "มีคำว่า 'than' แสดงว่าเป็นการเปรียบเทียบขั้นกว่า และ 'long' เป็นคำพยางค์เดียว จึงต้องเติม -er เป็น 'longer'"
+      },
+      {
+        "question": "His performance was good, but it wasn't nearly ______ as hers.",
+        "options": [
+          "A. as impressive",
+          "B. more impressive",
+          "C. so impressive",
+          "D. impressively"
+        ],
+        "answer": "A",
+        "explanation": "โครงสร้าง 'not nearly as ... as' ใช้เปรียบเทียบว่าไม่เท่ากันอย่างมาก คำที่มาอยู่ระหว่าง as...as คือ adjective 'impressive'"
+      },
+      {
+        "question": "Could you please explain this concept a bit ______?",
+        "options": [
+          "A. more simply",
+          "B. simpler",
+          "C. more simple",
+          "D. simply"
+        ],
+        "answer": "A",
+        "explanation": "เราต้องการ adverb เพื่อขยาย verb 'explain' ซึ่งคือ 'simply' และ adverb สองพยางค์ที่ไม่ลงท้ายด้วย -ly มักใช้ 'more' นำหน้า จึงเป็น 'more simply'"
+      },
+      {
+        "question": "The economic situation is ______ than many experts predicted.",
+        "options": [
+          "A. slightly bad",
+          "B. a little worse",
+          "C. much worst",
+          "D. more worse"
+        ],
+        "answer": "B",
+        "explanation": "ขั้นกว่าของ 'bad' คือ 'worse' และเราสามารถใช้ 'a little' เป็นตัวขยายเพื่อบอกว่า 'แย่ลงเล็กน้อย' ตัวเลือกอื่นใช้ไวยากรณ์ผิด"
+      },
+      {
+        "question": "This is the ______ expensive restaurant in the entire city.",
+        "options": [
+          "A. least",
+          "B. less",
+          "C. little",
+          "D. lesser"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคเปรียบเทียบขั้นสุด (in the entire city) ในเชิง 'น้อยที่สุด' จึงต้องใช้ 'the least' นำหน้า adjective"
+      },
+      {
+        "question": "The ______ you exercise, the ______ you will feel.",
+        "options": [
+          "A. regular / better",
+          "B. more regularly / better",
+          "C. most regular / best",
+          "D. more regular / good"
+        ],
+        "answer": "B",
+        "explanation": "เป็นโครงสร้าง 'The + comparative, the + comparative' ส่วนแรกต้องใช้ adverb 'regularly' ขยาย 'exercise' จึงเป็น 'more regularly' และส่วนที่สองขั้นกว่าของ 'good' คือ 'better'"
+      },
+      {
+        "question": "Of the two proposals, the board considered the first one to be ______.",
+        "options": [
+          "A. the better",
+          "B. the best",
+          "C. better",
+          "D. good"
+        ],
+        "answer": "A",
+        "explanation": "เมื่อเปรียบเทียบของ 2 สิ่ง (Of the two proposals) และต้องการระบุเจาะจงว่าอันไหนดีกว่า เราสามารถใช้ 'the + comparative' ได้ เป็น 'the better' one"
+      },
+      {
+        "question": "Your explanation was ______ than the one in the textbook.",
+        "options": [
+          "A. clearer",
+          "B. more clear",
+          "C. clearest",
+          "D. Both A and B are correct"
+        ],
+        "answer": "D",
+        "explanation": "Adjective บางคำที่มี 1-2 พยางค์เช่น clear, simple, quiet สามารถใช้ได้ทั้ง -er และ more... ในภาษาอังกฤษปัจจุบัน ทั้ง clearer และ more clear เป็นที่ยอมรับ"
+      },
+      {
+        "question": "The population of Tokyo is much ______ than that of London.",
+        "options": [
+          "A. larger",
+          "B. more large",
+          "C. largest",
+          "D. large"
+        ],
+        "answer": "A",
+        "explanation": "มี 'than' เป็นการเปรียบเทียบขั้นกว่า 'Large' เป็นคำพยางค์เดียว จึงเติม -er เป็น 'larger' และมี 'much' เป็นตัวขยาย"
+      },
+      {
+        "question": "She is ______ person I know; she never gets angry.",
+        "options": [
+          "A. the calmer",
+          "B. the calmest",
+          "C. calmest",
+          "D. a more calm"
+        ],
+        "answer": "B",
+        "explanation": "เป็นการบอกว่าเธอเป็นคนที่สงบ 'ที่สุด' เท่าที่ฉันรู้จัก ซึ่งเป็นขั้นสุด จึงต้องใช้ 'the calmest'"
+      },
+      {
+        "question": "Please try to work ______ next time; you made too many mistakes.",
+        "options": [
+          "A. more careful",
+          "B. carefuller",
+          "C. more carefully",
+          "D. most carefully"
+        ],
+        "answer": "C",
+        "explanation": "เราต้องการ adverb ขยาย verb 'work' ซึ่งคือ 'carefully' และเมื่อเปรียบเทียบขั้นกว่าจึงใช้ 'more carefully'"
+      },
+      {
+        "question": "The temperature today is not ______ as it was yesterday.",
+        "options": [
+          "A. so high",
+          "B. higher",
+          "C. as high",
+          "D. Both A and C are correct"
+        ],
+        "answer": "D",
+        "explanation": "ในประโยคปฏิเสธของการเปรียบเทียบเท่ากัน สามารถใช้ได้ทั้ง 'not as...as' และ 'not so...as' ดังนั้น 'not so high as' และ 'not as high as' จึงถูกต้องทั้งคู่"
+      },
+      {
+        "question": "We need to investigate this matter ______ before making a decision.",
+        "options": [
+          "A. far",
+          "B. further",
+          "C. farther",
+          "D. furthest"
+        ],
+        "answer": "B",
+        "explanation": "ในบริบทนี้ 'further' หมายถึง 'เพิ่มเติม' หรือ 'ลึกลงไปอีก' ไม่ได้หมายถึงระยะทางที่วัดได้ จึงเหมาะสมกว่า 'farther'"
+      },
+      {
+        "question": "The marketing campaign was ______ successful than everyone had hoped.",
+        "options": [
+          "A. least",
+          "B. less",
+          "C. little",
+          "D. lesser"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้ต้องการสื่อว่า 'ประสบความสำเร็จน้อยกว่า' ที่คาดหวังไว้ มี 'than' จึงต้องใช้ขั้นกว่า คือ 'less'"
+      },
+      {
+        "question": "He is considered to be one of ______ influential architects of his generation.",
+        "options": [
+          "A. most",
+          "B. the most",
+          "C. more",
+          "D. the more"
+        ],
+        "answer": "B",
+        "explanation": "โครงสร้าง 'one of the + superlative + plural noun' (หนึ่งใน...ที่สุด) เป็นโครงสร้างที่ใช้บ่อย และต้องใช้ขั้นสุด 'the most influential'"
+      },
+      {
+        "question": "The solution to this problem is far ______ than it appears.",
+        "options": [
+          "A. more complicated",
+          "B. most complicated",
+          "C. complicated",
+          "D. complicateder"
+        ],
+        "answer": "A",
+        "explanation": "มี 'than' เป็นการเปรียบเทียบขั้นกว่า และ 'complicated' เป็นคำยาว จึงใช้ 'more' นำหน้า"
+      },
+      {
+        "question": "The company's profits this year are ______ lower than last year's.",
+        "options": [
+          "A. considerable",
+          "B. considerately",
+          "C. considerably",
+          "D. consideration"
+        ],
+        "answer": "C",
+        "explanation": "เราต้องการ adverb (considerably) มาขยาย adjective ขั้นกว่า (lower) เพื่อบอกว่า 'ต่ำกว่าอย่างมาก'"
+      },
+      {
+        "question": "I find studying in the library to be ______ more productive than studying at home.",
+        "options": [
+          "A. a lot",
+          "B. many",
+          "C. very",
+          "D. too"
+        ],
+        "answer": "A",
+        "explanation": "ใช้ 'a lot' เป็นตัวขยาย (modifier) เพื่อเน้นย้ำการเปรียบเทียบขั้นกว่า (more productive) 'very' ไม่สามารถใช้ในตำแหน่งนี้ได้"
+      },
+      {
+        "question": "This is ______ news I've heard all week!",
+        "options": [
+          "A. better",
+          "B. good",
+          "C. a good",
+          "D. the best"
+        ],
+        "answer": "D",
+        "explanation": "วลี '... I've heard all week' บ่งบอกว่าเป็นการเปรียบเทียบกับข่าวอื่นๆ ทั้งหมดในสัปดาห์ จึงเป็นขั้นสุด รูปขั้นสุดของ 'good' คือ 'the best'"
+      },
+      {
+        "question": "Your car is almost identical to mine, but mine is ______ newer.",
+        "options": [
+          "A. slightly",
+          "B. slight",
+          "C. more slightly",
+          "D. much slight"
+        ],
+        "answer": "A",
+        "explanation": "เราใช้ adverb 'slightly' (เล็กน้อย) มาขยาย adjective ขั้นกว่า 'newer' เพื่อบอกระดับความแตกต่าง"
+      },
+      {
+        "question": "The Pacific Ocean is ______ than any other ocean in the world.",
+        "options": [
+          "A. deeper",
+          "B. more deep",
+          "C. deepest",
+          "D. the deepest"
+        ],
+        "answer": "A",
+        "explanation": "เมื่อใช้โครงสร้าง '...than any other...' เราจะใช้รูป comparative (-er) ไม่ใช่ superlative (-est) เพื่อเปรียบเทียบสิ่งหนึ่งกับสมาชิกอื่นๆ ทั้งหมดในกลุ่ม"
+      },
+      {
+        "question": "He solved the puzzle ______ than anyone else in the room.",
+        "options": [
+          "A. more quick",
+          "B. quicklier",
+          "C. more quickly",
+          "D. most quickly"
+        ],
+        "answer": "C",
+        "explanation": "ต้องการ adverb ขยาย verb 'solved' จึงใช้ 'quickly' และเมื่อเปรียบเทียบขั้นกว่าจึงเป็น 'more quickly'"
+      },
+      {
+        "question": "It's becoming ______ to find affordable housing in the city center.",
+        "options": [
+          "A. more and more difficult",
+          "B. difficult and difficult",
+          "C. most and most difficult",
+          "D. more difficult and more"
+        ],
+        "answer": "A",
+        "explanation": "โครงสร้าง 'comparative + and + comparative' (เช่น hotter and hotter, more and more difficult) ใช้เพื่อแสดงถึงการเปลี่ยนแปลงที่เกิดขึ้นอย่างต่อเนื่อง"
+      },
+      {
+        "question": "This brand of coffee is ______ as the one we usually buy, but it tastes much better.",
+        "options": [
+          "A. not as expensive",
+          "B. less expensive",
+          "C. cheaper",
+          "D. least expensive"
+        ],
+        "answer": "A",
+        "explanation": "โครงสร้าง as...as ต้องการคำคุณศัพท์รูปปกติระหว่างกลาง และจากบริบทของประโยค 'not as expensive as' (ไม่ได้แพงเท่า) เหมาะสมที่สุด"
+      },
+      {
+        "question": "She is just ______ her sister when it comes to playing the piano.",
+        "options": [
+          "A. as talented as",
+          "B. so talented as",
+          "C. more talented than",
+          "D. the most talented"
+        ],
+        "answer": "A",
+        "explanation": "คำว่า 'just' ในที่นี้เน้นย้ำความเท่าเทียมกัน จึงต้องใช้โครงสร้าง 'as...as' เพื่อบอกว่ามีความสามารถเท่ากันพอดี"
+      },
+      {
+        "question": "The documentary was ______ I had expected it to be.",
+        "options": [
+          "A. far more interesting than",
+          "B. much interesting than",
+          "C. very more interesting than",
+          "D. so interesting as"
+        ],
+        "answer": "A",
+        "explanation": "ใช้ 'far' หรือ 'much' ขยายขั้นกว่า 'more interesting' เพื่อเน้นว่าน่าสนใจ 'กว่ามาก' และตามด้วย 'than' เพื่อเปรียบเทียบกับสิ่งที่คาดหวังไว้"
+      },
+      {
+        "question": "Traveling by train is often ______ and ______ than flying.",
+        "options": [
+          "A. cheaper / more relaxing",
+          "B. cheap / relaxing",
+          "C. cheapest / most relaxing",
+          "D. more cheap / relaxinger"
+        ],
+        "answer": "A",
+        "explanation": "เป็นการเปรียบเทียบคุณสมบัติ 2 อย่างในขั้นกว่า ต้องทำให้เป็นขั้นกว่าทั้งคู่ 'cheap' เป็น 'cheaper' และ 'relaxing' เป็น 'more relaxing'"
+      },
+      {
+        "question": "This is one of ______ challenges our company has ever faced.",
+        "options": [
+          "A. the tough",
+          "B. the tougher",
+          "C. toughest",
+          "D. the toughest"
+        ],
+        "answer": "D",
+        "explanation": "โครงสร้าง 'one of the + superlative + plural noun' ต้องใช้ขั้นสุด ซึ่ง 'tough' ขั้นสุดคือ 'the toughest'"
+      },
+      {
+        "question": "The presentation would have been ______ if you had included more data.",
+        "options": [
+          "A. persuasive",
+          "B. more persuasive",
+          "C. most persuasive",
+          "D. persuasively"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้เป็นการเปรียบเทียบแบบสมมติ (implied comparison) ว่าจะ 'น่าเชื่อถือกว่านี้' ถ้ามีข้อมูลมากกว่านี้ จึงใช้ขั้นกว่า 'more persuasive'"
+      },
+      {
+        "question": "My brother is not ______ at sports as I am.",
+        "options": [
+          "A. nearly so good",
+          "B. better",
+          "C. well",
+          "D. the best"
+        ],
+        "answer": "A",
+        "explanation": "โครงสร้าง 'not so...as' หรือ 'not as...as' ใช้ในการเปรียบเทียบที่ไม่เท่ากัน ในที่นี้ 'nearly so good' มีความหมายว่า 'ไม่เก่งเท่าเลยสักนิด' รูป adjective 'good' ถูกต้องในโครงสร้างนี้"
+      },
+      {
+        "question": "Of all the employees, he works ______.",
+        "options": [
+          "A. the more diligent",
+          "B. most diligently",
+          "C. more diligently",
+          "D. the most diligently"
+        ],
+        "answer": "D",
+        "explanation": "เปรียบเทียบพนักงานทุกคน (Of all the employees) เป็นขั้นสุด และต้องการ adverb 'diligently' มาขยาย verb 'works' รูปขั้นสุดจึงเป็น 'the most diligently'"
+      },
+      {
+        "question": "The final exam was ______ easier than the midterm.",
+        "options": [
+          "A. very",
+          "B. a lot",
+          "C. too",
+          "D. so"
+        ],
+        "answer": "B",
+        "explanation": "ใช้ตัวขยาย 'a lot', 'much', 'far' เพื่อเน้นย้ำขั้นกว่า 'easier' ไม่สามารถใช้ 'very' ในตำแหน่งนี้ได้"
+      },
+      {
+        "question": "I feel ______ today than I did yesterday.",
+        "options": [
+          "A. more optimistic",
+          "B. optimisticer",
+          "C. most optimistic",
+          "D. optimistic"
+        ],
+        "answer": "A",
+        "explanation": "มี 'than' เป็นการเปรียบเทียบขั้นกว่า 'Optimistic' เป็นคำยาว จึงต้องใช้ 'more' นำหน้า"
+      },
+      {
+        "question": "The ______ the risk, the ______ the potential reward.",
+        "options": [
+          "A. High / high",
+          "B. Higher / higher",
+          "C. Highest / highest",
+          "D. More high / more high"
+        ],
+        "answer": "B",
+        "explanation": "เป็นโครงสร้าง 'The + comparative, the + comparative' (ยิ่ง...ก็ยิ่ง...) ขั้นกว่าของ 'high' คือ 'higher'"
+      },
+      {
+        "question": "This laptop has a ______ processor than that one.",
+        "options": [
+          "A. more powerful",
+          "B. powerfuller",
+          "C. most powerful",
+          "D. powerfully"
+        ],
+        "answer": "A",
+        "explanation": "มี 'than' เป็นการเปรียบเทียบขั้นกว่า 'Powerful' เป็นคำยาว จึงต้องใช้ 'more' นำหน้า"
+      },
+      {
+        "question": "That was probably ______ decision he ever made.",
+        "options": [
+          "A. the stupider",
+          "B. the most stupid",
+          "C. a more stupid",
+          "D. stupidest"
+        ],
+        "answer": "B",
+        "explanation": "วลี 'he ever made' บ่งบอกถึงขั้นสุด Adjective สองพยางค์อย่าง stupid สามารถใช้ได้ทั้ง -est และ the most... แต่ 'the most stupid' เป็นที่นิยมและเป็นทางการกว่าในกรณีนี้ และต้องมี 'the'"
+      },
+      {
+        "question": "You need to manage your time ______ if you want to meet the deadline.",
+        "options": [
+          "A. effectiver",
+          "B. more effectively",
+          "C. most effective",
+          "D. more effective"
+        ],
+        "answer": "B",
+        "explanation": "ต้องการ adverb 'effectively' มาขยาย verb 'manage' และเป็นการเปรียบเทียบแบบสมมติ (implied comparison) ว่าต้องจัดการ 'อย่างมีประสิทธิภาพกว่านี้' จึงใช้ 'more effectively'"
+      },
+      {
+        "question": "The red dress is nice, but I think the blue one is ______.",
+        "options": [
+          "A. more nice",
+          "B. nicer",
+          "C. nicest",
+          "D. the nicer"
+        ],
+        "answer": "B",
+        "explanation": "เป็นการเปรียบเทียบของ 2 สิ่ง (เดรสสีแดงกับสีน้ำเงิน) จึงใช้ขั้นกว่า 'nicer' การใช้ the nicer จะใช้เมื่อต้องการเน้นย้ำว่าเป็นตัวเลือกที่ดีกว่าจากสองตัวเลือก"
+      },
+      {
+        "question": "He is ______ ambitious than his brother.",
+        "options": [
+          "A. far less",
+          "B. little",
+          "C. least",
+          "D. a few"
+        ],
+        "answer": "A",
+        "explanation": "ใช้ 'far less' เพื่อบอกว่า 'มีความทะเยอทะยานน้อยกว่ามาก' 'far' เป็นตัวขยาย 'less' ซึ่งเป็นขั้นกว่าของ 'little'"
+      },
+      {
+        "question": "This coffee tastes ______ bitter for my liking.",
+        "options": [
+          "A. too",
+          "B. much",
+          "C. more",
+          "D. so"
+        ],
+        "answer": "A",
+        "explanation": "คำว่า 'too' หมายถึง 'มากเกินไป' และใช้วางหน้า adjective หรือ adverb รูปปกติ ไม่ใช่ขั้นกว่า ในที่นี้หมายถึง 'ขมเกินไปสำหรับฉัน' ซึ่งไม่ใช่การเปรียบเทียบ แต่เป็นการบอกระดับ"
+      },
+      {
+        "question": "It's the second ______ building in the world.",
+        "options": [
+          "A. tall",
+          "B. taller",
+          "C. tallest",
+          "D. more tall"
+        ],
+        "answer": "C",
+        "explanation": "เมื่อมีการจัดลำดับ เช่น the second, the third เราจะตามด้วย superlative form (ขั้นสุด) เสมอ จึงเป็น 'the second tallest building'"
+      },
+      {
+        "question": "The new manager is ______ than the previous one.",
+        "options": [
+          "A. approachabler",
+          "B. more approachable",
+          "C. most approachable",
+          "D. approachable"
+        ],
+        "answer": "B",
+        "explanation": "มี 'than' เป็นการเปรียบเทียบขั้นกว่า 'Approachable' เป็นคำยาว จึงต้องใช้ 'more' นำหน้า"
+      },
+      {
+        "question": "The ______ I think about it, the ______ convinced I am that we made the right choice.",
+        "options": [
+          "A. more / more",
+          "B. most / most",
+          "C. more / most",
+          "D. long / more"
+        ],
+        "answer": "A",
+        "explanation": "เป็นโครงสร้าง 'The + comparative, the + comparative' ที่แปลว่า 'ยิ่งฉันคิดเกี่ยวกับมันมากเท่าไหร่ ฉันก็ยิ่งมั่นใจมากขึ้นเท่านั้น'"
+      },
+      {
+        "question": "This is ______ of all the paintings in the gallery.",
+        "options": [
+          "A. the valuable",
+          "B. the most valuable",
+          "C. more valuable",
+          "D. a valuable"
+        ],
+        "answer": "B",
+        "explanation": "วลี 'of all the paintings' บ่งบอกว่าเป็นการเปรียบเทียบขั้นสุด จึงต้องใช้ 'the most valuable'"
+      }
+    ]
+  }
+]

@@ -1,0 +1,850 @@
+[
+  {
+    "id": "53_1",
+    "title": "53.1 Agreement in Number and Gender",
+    "explanation": "หลักการพื้นฐานของ Pronoun-Antecedent Agreement คือ สรรพนาม (pronoun) ต้องสอดคล้องกับคำนามที่มันอ้างถึง (antecedent) ทั้งในด้าน 'พจน์' (Number: เอกพจน์/พหูพจน์) และ 'เพศ' (Gender: ชาย/หญิง/ไม่มีเพศ) ในระดับ C1-C2 เราจะเจาะลึกในกฎที่ซับซ้อนและข้อยกเว้นต่างๆ ที่มักสร้างความสับสน\n\n**1. Indefinite Pronouns (สรรพนามไม่ชี้เฉพาะ)**\nนี่คือจุดที่ซับซ้อนที่สุด หลายคนมักจะพลาด\n\n*   **กลุ่มที่เป็นเอกพจน์เสมอ (Always Singular):** คำเหล่านี้แม้ความหมายจะดูกว้างๆ เหมือนหลายคน แต่ในทางไวยากรณ์ถือเป็นเอกพจน์เสมอ: *each, every, everyone, everybody, everything, anyone, anybody, anything, no one, nobody, nothing, someone, somebody, something, either, neither* \n    *   ในอดีต: จะใช้สรรพนาม 'he or she' หรือ 'his or her' เพื่อความถูกต้องทางเพศ เช่น 'Everyone should bring his or her book.'\n    *   **ปัจจุบัน (Modern Usage - C1/C2 Level):** การใช้ 'Singular they' ได้รับการยอมรับอย่างกว้างขวางแล้วในภาษาอังกฤษทุกระดับ แม้แต่ในงานเขียนเชิงวิชาการ เพื่อหลีกเลี่ยงการระบุเพศและทำให้ประโยคกระชับขึ้น เช่น '**Everyone** should bring **their** book.' ในที่นี้ 'their' ทำหน้าที่เป็นสรรพนามเอกพจน์ที่ไม่อิงเพศ (singular, gender-neutral pronoun) เพื่ออ้างถึง 'Everyone'\n\n*   **กลุ่มที่เป็นพหูพจน์เสมอ (Always Plural):** *both, few, many, several*\n    *   กลุ่มนี้ตรงไปตรงมา: '**Several** of the candidates have submitted **their** applications.'\n\n*   **กลุ่มที่ผันตาม Noun (SANAM Pronouns):** *some, any, none, all, most* คำเหล่านี้จะเป็นเอกพจน์หรือพหูพจน์ขึ้นอยู่กับคำนามที่ตามมาในวลีบุพบท (prepositional phrase)\n    *   ถ้าตามด้วย Noun นับไม่ได้ (non-count) หรือ Noun เอกพจน์ -> ใช้ Pronoun เอกพจน์: '**Most of the information** was so complex that **it** overwhelmed the analysts.' (information เป็น non-count noun)\n    *   ถ้าตามด้วย Noun พหูพจน์ (plural) -> ใช้ Pronoun พหูพจน์: '**Most of the documents** were so complex that **they** overwhelmed the analysts.' (documents เป็น plural noun)\n    *   **ข้อควรระวัง 'None':** แม้ 'None' จะแปลว่า 'ไม่มีเลย' แต่ก็ใช้กฎเดียวกัน ในอดีตจะเคร่งว่าต้องเป็นเอกพจน์เสมอ แต่ปัจจุบันยอมรับการใช้แบบพหูพจน์เมื่ออ้างถึง Noun พหูพจน์: '**None of the students** have finished **their** exams.' (ยอมรับได้และเป็นธรรมชาติกว่า 'his or her exam')\n\n**2. Collective Nouns (สมุหนาม)**\nคำนามที่หมายถึงกลุ่ม เช่น *team, committee, faculty, audience, company* สามารถเป็นได้ทั้งเอกพจน์และพหูพจน์\n\n*   **เป็นเอกพจน์ (Singular):** เมื่อกลุ่มนั้นทำสิ่งต่างๆ 'เป็นหน่วยเดียวกัน' (acting as a single unit) -> ใช้ Pronoun เอกพจน์ ('it', 'its')\n    *   'The **committee** has reached **its** decision.' (คณะกรรมการทั้งกลุ่มตัดสินใจร่วมกันเป็นหนึ่งเดียว)\n*   **เป็นพหูพจน์ (Plural):** เมื่อสมาชิกในกลุ่ม 'ทำสิ่งต่างๆ แยกกัน' หรือมีความเห็นต่างกัน (acting as individuals) -> ใช้ Pronoun พหูพจน์ ('they', 'their')\n    *   'The **committee** are debating among **themselves**.' (สมาชิกแต่ละคนในคณะกรรมการกำลังถกเถียงกันเอง)\n    *   (หมายเหตุ: British English มักจะใช้ Collective Noun เป็นพหูพจน์บ่อยกว่า American English)\n\n**3. Compound Antecedents (คำนามเชื่อม)**\n\n*   **เชื่อมด้วย 'and':** โดยทั่วไปถือเป็นพหูพจน์ -> ใช้ Pronoun พหูพจน์\n    *   '**The CEO and the CTO** presented **their** joint proposal.'\n    *   **ข้อยกเว้น:** ถ้าคำนามสองตัวที่เชื่อมด้วย 'and' หมายถึงบุคคลคนเดียวกันหรือสิ่งเดียวกัน -> ใช้ Pronoun เอกพจน์: 'My **friend and mentor** gave me **his** invaluable advice.' (เพื่อนและที่ปรึกษาคือคนเดียวกัน)\n\n*   **เชื่อมด้วย 'or' / 'nor' (either...or / neither...nor):** กฎคือ Pronoun จะต้องสอดคล้องกับ Antecedent ที่อยู่ 'ใกล้ที่สุด' (Proximity Rule)\n    *   'Neither the **manager** nor the **employees** wanted to voice **their** concerns.' ('employees' อยู่ใกล้กว่าและเป็นพหูพจน์)\n    *   'Neither the **employees** nor the **manager** wanted to voice **his** concerns.' ('manager' อยู่ใกล้กว่าและเป็นเอกพจน์)\n",
+    "examples": [
+      {
+        "eng": "Each of the eminent scientists, irrespective of their field of expertise, must submit an abstract of their prospective research before they are considered for the prestigious grant.",
+        "thai": "นักวิทยาศาสตร์ผู้มีชื่อเสียงแต่ละคน โดยไม่คำนึงถึงสาขาความเชี่ยวชาญของตน จะต้องส่งบทคัดย่อของงานวิจัยที่คาดว่าจะทำ ก่อนที่พวกเขาจะได้รับการพิจารณาให้ได้รับทุนอันทรงเกียรติ \nคำอธิบาย: Antecedent คือ 'Each' ซึ่งเป็นเอกพจน์ แต่ในประโยคนี้ใช้ 'their' และ 'they' (Singular they) เป็นสรรพนามที่สอดคล้องกัน เพื่อหลีกเลี่ยงการระบุเพศและทำให้ภาษาสมัยใหม่และเป็นธรรมชาติ นี่คือการใช้งานระดับสูงที่พบบ่อย"
+      },
+      {
+        "eng": "The formidable legal team, after weeks of internecine squabbling, have finally presented their disparate closing arguments to the bewildered jury.",
+        "thai": "ทีมกฎหมายที่น่าเกรงขาม หลังจากทะเลาะเบาะแว้งกันภายในเป็นเวลาหลายสัปดาห์ ในที่สุดก็ได้นำเสนอข้อโต้แย้งปิดคดีที่แตกต่างกันของแต่ละคนต่อหน้าคณะลูกขุนที่สับสนงุนงง\nคำอธิบาย: 'legal team' เป็น Collective Noun ในที่นี้ใช้เป็นพหูพจน์ (สังเกตจากกริยา 'have' และสรรพนาม 'their') เพราะสมาชิกในทีมมีความเห็นไม่ตรงกันและนำเสนอข้อโต้แย้งที่ 'แตกต่างกัน' (disparate) แสดงถึงการกระทำแบบปัจเจกบุคคล"
+      },
+      {
+        "eng": "Neither the outdated legacy system nor the newly implemented servers could fully integrate their data protocols, creating a cascade of failures.",
+        "thai": "ทั้งระบบดั้งเดิมที่ล้าสมัยและเซิร์ฟเวอร์ที่ติดตั้งใหม่ต่างก็ไม่สามารถผสานรวมโปรโตคอลข้อมูลของพวกมันได้อย่างสมบูรณ์ ซึ่งก่อให้เกิดความล้มเหลวต่อเนื่องเป็นทอดๆ\nคำอธิบาย: Antecedent ถูกเชื่อมด้วย 'neither...nor' เราจะยึดตัวที่อยู่ใกล้สรรพนามที่สุด ซึ่งก็คือ 'servers' (พหูพจน์) ดังนั้น สรรพนามที่ถูกต้องจึงเป็น 'their'"
+      },
+      {
+        "eng": "All of the theoretical research, however groundbreaking it seemed, had to prove its practical applicability before the board would allocate funding.",
+        "thai": "งานวิจัยเชิงทฤษฎีทั้งหมด ไม่ว่าจะดูเป็นการค้นพบที่ยิ่งใหญ่เพียงใด ก็ต้องพิสูจน์ความสามารถในการนำไปใช้ได้จริงก่อนที่คณะกรรมการจะจัดสรรเงินทุนให้\nคำอธิบาย: 'All' เป็น SANAM pronoun ที่ผันตามคำนามที่ตามมา ในที่นี้คือ 'research' ซึ่งเป็นคำนามนับไม่ได้ (uncountable) ดังนั้นจึงถือเป็นเอกพจน์ และต้องใช้สรรพนาม 'its' เพื่ออ้างถึง"
+      }
+    ],
+    "common_mistakes": "1. **สับสนกับ Indefinite Pronouns:** คนไทยมักจะแปลความหมายของ 'everyone', 'everybody' ว่าหมายถึง 'ทุกคน' (หลายคน) จึงเผลอใช้สรรพนามพหูพจน์ตามความรู้สึก ทั้งที่ตามหลักไวยากรณ์ (ดั้งเดิม) มันคือเอกพจน์ การไม่เข้าใจและไม่คุ้นเคยกับการใช้ 'Singular they' ทำให้เลือกใช้ 'his or her' ที่ยาวเยิ่นเย้อ หรือเลือกใช้ 'their' แต่ไม่มั่นใจ\n\n2. **มองข้าม Antecedent ที่แท้จริง:** ในประโยคซับซ้อนที่มีวลีมาขยายเยอะๆ เช่น 'One of the brilliant female scientists who won accolades for their discoveries...' คนไทยมักจะถูกคำว่า 'scientists' หรือ 'discoveries' (พหูพจน์) ที่อยู่ใกล้กว่าดึงความสนใจไป ทำให้เผลอใช้สรรพนาม 'their' ทั้งที่ Antecedent ที่แท้จริงคือ 'One' ซึ่งเป็นเอกพจน์ (ที่ถูกต้องควรเป็น '...her discoveries')\n\n3. **ใช้กฎ 'or/nor' ผิด:** แทนที่จะยึดคำนามตัวที่อยู่ใกล้ที่สุด (Proximity Rule) หลายคนมักจะเผลอยึดคำนามตัวแรกเป็นหลัก หรือทำให้เป็นพหูพจน์ไปเลยเมื่อเห็นว่ามีคำนามสองตัว\n\n4. **ใช้ Collective Noun เป็นเอกพจน์เสมอ:** เนื่องจากถูกสอนมาว่า Collective Noun มักเป็นเอกพจน์ จึงใช้สรรพนาม 'it/its' ตลอดเวลา โดยไม่ได้พิจารณาบริบทว่าสมาชิกในกลุ่มกำลังทำกิจกรรมร่วมกันเป็นหนึ่งเดียว หรือทำแยกกันเป็นปัจเจก",
+    "practice_questions": [
+      {
+        "question": "The clandestine organization, known for its inscrutable motives, insists that every new recruit surrender ______ personal allegiances before being initiated.",
+        "options": [
+          "A. his or her",
+          "B. their",
+          "C. its",
+          "D. ones"
+        ],
+        "answer": "B",
+        "explanation": "Antecedent คือ 'every new recruit' ซึ่งเป็น Indefinite Pronoun ที่ถือเป็นเอกพจน์ ในภาษาอังกฤษสมัยใหม่ระดับสูง การใช้ 'Singular they/their' เป็นวิธีที่ยอมรับและเป็นธรรมชาติที่สุดในการอ้างถึง Antecedent ที่เป็นเอกพจน์โดยไม่ระบุเพศ ข้อ A 'his or her' ถูกไวยากรณ์แต่ยืดยาวและไม่นิยมเท่า B ข้อ C 'its' ใช้กับสิ่งของหรือสัตว์ และข้อ D 'ones' ไม่ถูกต้องตามบริบทนี้"
+      },
+      {
+        "question": "Neither the antiquated logistical framework nor the myriad of new regulations could justify ______ inherent inefficiencies to the auditors.",
+        "options": [
+          "A. its",
+          "B. their",
+          "C. its'",
+          "D. theirs"
+        ],
+        "answer": "A",
+        "explanation": "ตามกฎ Proximity Rule ของ 'neither...nor' สรรพนามจะสอดคล้องกับ Antecedent ที่อยู่ใกล้ที่สุด ในที่นี้ 'the myriad of new regulations' อาจดูเหมือนพหูพจน์ แต่คำนามหลัก (head noun) ของวลีนี้คือ 'framework' (the antiquated logistical framework) ซึ่งเป็นเอกพจน์ และเป็นตัวที่อยู่ใกล้สรรพนามมากกว่า 'regulations' ในโครงสร้างประโยคคู่ขนานนี้ เราต้องดูที่ 'framework' และ 'myriad' คำว่า 'myriad' ในที่นี้ทำหน้าที่เป็นคำนามเอกพจน์ (a myriad of...) ที่หมายถึง 'จำนวนมาก' แต่ตัวโครงสร้างประโยคคือ Neither X nor Y could justify... ในประโยคที่ซับซ้อนนี้ ผู้ออกข้อสอบตั้งใจให้สับสนระหว่าง 'framework' และ 'regulations' แต่เมื่อดูโครงสร้างคู่ขนาน (parallel structure) ที่ถูกต้องที่สุด สรรพนามจะอ้างถึง 'logistical framework' ซึ่งเป็นคำนามเอกพจน์ที่ไม่มีเพศ ดังนั้น 'its' จึงถูกต้องที่สุด"
+      },
+      {
+        "question": "The board of directors, deeply divided over the contentious merger, have publicly aired ______ disparate opinions in the financial press.",
+        "options": [
+          "A. its",
+          "B. his or her",
+          "C. their",
+          "D. it's"
+        ],
+        "answer": "C",
+        "explanation": "'The board of directors' เป็น Collective Noun บริบทของประโยคบอกว่าพวกเขา 'deeply divided' (แตกแยกอย่างหนัก) และแสดงความคิดเห็นที่ 'disparate' (แตกต่างกัน) แสดงให้เห็นว่าสมาชิกแต่ละคนกำลังกระทำในฐานะปัจเจกบุคคล ไม่ใช่ในฐานะหน่วยเดียว ดังนั้นจึงต้องใช้สรรพนามพหูพจน์ 'their'"
+      },
+      {
+        "question": "Most of the evidence, which had been meticulously gathered over a decade, lost ______ credibility after a key witness recanted their testimony.",
+        "options": [
+          "A. their",
+          "B. its",
+          "C. it's",
+          "D. whose"
+        ],
+        "answer": "B",
+        "explanation": "Antecedent คือ 'Most of the evidence' คำว่า 'Most' เป็น SANAM pronoun ซึ่งพจน์ของมันจะขึ้นอยู่กับคำนามที่ตามมา ในที่นี้คือ 'evidence' ซึ่งเป็นคำนามนับไม่ได้ (uncountable noun) จึงถือเป็นเอกพจน์ ดังนั้นสรรพนามที่ถูกต้องคือ 'its'"
+      },
+      {
+        "question": "Any employee who demonstrates exceptional acumen and dedication will find ______ efforts recognized and rewarded by the senior management.",
+        "options": [
+          "A. their",
+          "B. one's",
+          "C. its",
+          "D. his"
+        ],
+        "answer": "A",
+        "explanation": "Antecedent คือ 'Any employee' ซึ่งเป็นเอกพจน์และไม่ระบุเพศ เช่นเดียวกับ 'everyone' หรือ 'each' การใช้ 'Singular their' เป็นวิธีที่เหมาะสมและทันสมัยที่สุดในบริบทนี้ เพื่อให้ครอบคลุมทุกเพศและเป็นธรรมชาติ"
+      },
+      {
+        "question": "The magnate's collection of impressionist paintings, despite ______ immense value, was bequeathed entirely to a little-known provincial museum.",
+        "options": [
+          "A. their",
+          "B. its",
+          "C. whose",
+          "D. his"
+        ],
+        "answer": "B",
+        "explanation": "ต้องระวังวลีที่มาขยาย ในประโยคนี้ Antecedent ที่แท้จริงไม่ใช่ 'paintings' (พหูพจน์) แต่เป็น 'collection' (เอกพจน์) ซึ่งเป็นคำนามหลักของประโยค ดังนั้นสรรพนามที่ถูกต้องต้องเป็นเอกพจน์และไม่มีเพศ คือ 'its'"
+      },
+      {
+        "question": "Either the chief systems architect or her subordinate engineers must take responsibility for ______ catastrophic failure to back up the data.",
+        "options": [
+          "A. her",
+          "B. his",
+          "C. their",
+          "D. its"
+        ],
+        "answer": "C",
+        "explanation": "สำหรับโครงสร้าง 'either...or' สรรพนามจะยึดตาม Antecedent ที่อยู่ใกล้ที่สุด ในกรณีนี้คือ 'her subordinate engineers' ซึ่งเป็นพหูพจน์ ดังนั้นสรรพนามที่ถูกต้องจึงเป็น 'their'"
+      },
+      {
+        "question": "The renowned philosopher and polemicist, whose works have stirred controversy for decades, has announced ______ retirement from public life.",
+        "options": [
+          "A. their",
+          "B. one's",
+          "C. its",
+          "D. his"
+        ],
+        "answer": "D",
+        "explanation": "แม้จะมีคำนามสองคำ ('philosopher' และ 'polemicist') เชื่อมด้วย 'and' แต่บริบทของประโยค (เช่น กริยา 'has announced') ชี้ให้เห็นว่าคำนามทั้งสองหมายถึงบุคคลคนเดียวกัน ดังนั้น Antecedent จึงเป็นเอกพจน์ เราใช้ 'his' ในกรณีนี้ (หรือ 'her' หากทราบเพศ) เพราะเป็นสรรพนามที่สอดคล้องกับบุคคลเอกพจน์ ในตัวเลือกนี้มีแค่ 'his' ที่ถูกต้อง"
+      },
+      {
+        "question": "None of the sophisticated cryptographic software could protect ______ users from the zero-day exploit that emerged.",
+        "options": [
+          "A. their",
+          "B. its",
+          "C. it's",
+          "D. whose"
+        ],
+        "answer": "B",
+        "explanation": "'None' เป็น SANAM pronoun ซึ่งพจน์จะขึ้นอยู่กับคำนามในวลีบุพบทที่ตามมา ในที่นี้คือ 'software' ซึ่งเป็นคำนามนับไม่ได้ (uncountable) และถือเป็นเอกพจน์ ดังนั้นสรรพนามที่ถูกต้องคือ 'its' (It could not protect its users)"
+      },
+      {
+        "question": "Each of the polymaths attending the symposium was asked to present a summary of ______ most recent interdisciplinary findings.",
+        "options": [
+          "A. their",
+          "B. his",
+          "C. one's",
+          "D. theirs"
+        ],
+        "answer": "A",
+        "explanation": "Antecedent คือ 'Each' ซึ่งเป็นเอกพจน์ แม้ว่าจะตามด้วย 'of the polymaths' (พหูพจน์) ก็ตาม หลักการคือต้องยึดที่ 'Each' การใช้ 'Singular their' เป็นวิธีที่ถูกต้องและนิยมที่สุดในปัจจุบันเพื่ออ้างถึง 'Each' โดยไม่จำเป็นต้องระบุเพศ ทำให้ประโยคมีความครอบคลุมและเป็นธรรมชาติ"
+      }
+    ]
+  },
+  {
+    "id": "53_2",
+    "title": "53.2 Singular \"They\" and Indefinite Antecedents",
+    "explanation": "หัวข้อนี้เจาะลึกการใช้ 'Singular They' ซึ่งเป็นปรากฏการณ์ทางไวยากรณ์ที่สำคัญมากในภาษาอังกฤษยุคใหม่ โดยเฉพาะเมื่อใช้กับคำสรรพนามที่ไม่ชี้เฉพาะ (Indefinite Antecedents) เช่น everyone, someone, anyone, no one, somebody, everybody เป็นต้น\n\n**แก่นแท้ของเรื่อง (The Core Concept):**\nตามหลักไวยากรณ์ดั้งเดิม (Prescriptive Grammar) Indefinite Pronouns เหล่านี้ถือว่าเป็น 'เอกพจน์' เสมอ ดังนั้นจึงต้องใช้กริยาเอกพจน์ เช่น 'Everyone *is* here.' (ไม่ใช่ are) และในอดีต ก็จะตามด้วยสรรพนามเอกพจน์ 'he' หรือ 'he or she' เช่น 'Everyone must do *his* homework.'\n\n**การปฏิวัติทางภาษา (The Modern Shift):**\nปัจจุบัน การใช้ 'he' เพียงอย่างเดียวถือว่าลำเอียงทางเพศ (gender-biased) และการใช้ 'he or she' ก็ยืดยาวและฟังดูไม่เป็นธรรมชาติในการสนทนา ด้วยเหตุนี้ 'Singular They' จึงได้รับการยอมรับอย่างกว้างขวาง แม้กระทั่งในงานเขียนเชิงวิชาการและทางการ เพื่อใช้เป็นสรรพนามเอกพจน์ที่ไม่ระบุเพศ\n\n**ทำไมถึงใช้ได้? (The Logic):**\nแม้ว่า Indefinite Pronouns จะเป็น 'เอกพจน์ทางไวยากรณ์' (Grammatically Singular) คือใช้กับกริยาเอกพจน์ แต่มันกลับมีความหมายเป็น 'พหูพจน์เชิงความหมาย' (Semantically Plural) เพราะมันอ้างถึงคนกลุ่มหนึ่ง ความขัดแย้งนี้เองที่ทำให้การใช้ 'they/them/their' ซึ่งเป็นสรรพนามพหูพจน์มาแทนนั้นสมเหตุสมผลและเป็นธรรมชาติที่สุด\n\n**กฎเหล็กที่ต้องจำ:**\n1.  **กริยาต้องเป็นเอกพจน์:** Indefinite pronoun (antecedent) ต้องใช้กับกริยาช่องเอกพจน์เสมอ\n    *   `Everyone *has* to submit the report.` (ถูก)\n    *   `Everyone *have* to submit the report.` (ผิด)\n2.  **สรรพนามสามารถเป็น 'they':** สรรพนามที่ตามมา (pronoun) สามารถใช้ `they`, `them`, `their`, `themselves` เพื่อความเป็นกลางทางเพศ\n    *   `Everyone has to submit *their* report.` (ถูกและนิยมใช้ในปัจจุบัน)\n    *   `Everyone has to submit *his or her* report.` (ถูกแต่ยืดยาว)\n\n**กรณีพิเศษกับ 'Each' และ 'Every':**\nคำว่า 'Each' และ 'Every' ทำหน้าที่เน้นย้ำความเป็น 'แต่ละหน่วย' อย่างชัดเจน ทำให้ต้องตามด้วยนามเอกพจน์และกริยาเอกพจน์เสมอ เช่น `Every student *is* required...` แต่ในยุคปัจจุบัน ก็เป็นที่ยอมรับเช่นกันที่จะใช้ 'their' ตามหลัง เพื่อหลีกเลี่ยงการระบุเพศ\n*   `Each candidate must meticulously prepare *their* portfolio for the final interview.`\n\n**สรุปสำหรับระดับ C1-C2:** การใช้ Singular 'they' ไม่ใช่เรื่องผิดไวยากรณ์อีกต่อไป แต่เป็นสัญญาณของความเข้าใจภาษาอังกฤษที่ทันสมัยและละเอียดอ่อน การยึดติดกับ 'he or she' ในทุกสถานการณ์อาจทำให้งานเขียนของคุณดูแข็งทื่อและล้าสมัยได้ สิ่งสำคัญคือต้องรักษาความสอดคล้องระหว่างประธาน (Indefinite Pronoun) กับกริยาให้เป็นเอกพจน์เสมอ",
+    "examples": [
+      {
+        "eng": "Should any discerning client express misgivings about the new policy, it is imperative that they be offered a comprehensive explanation immediately.",
+        "thai": "หากลูกค้าผู้มีวิจารณญาณคนใดแสดงความกังขาเกี่ยวกับนโยบายใหม่นี้ เป็นเรื่องสำคัญอย่างยิ่งที่พวกเขาจะต้องได้รับคำอธิบายอย่างละเอียดถี่ถ้วนในทันที - ในที่นี้ 'any discerning client' (นามนับได้เอกพจน์) ทำหน้าที่คล้าย Indefinite Antecedent คือไม่ระบุตัวตนและเพศ การใช้ 'they' จึงเหมาะสมที่สุดในบริบทที่เป็นทางการนี้ และสังเกตการใช้ Subjunctive mood ('they be offered') ซึ่งเป็นไวยากรณ์ระดับสูง"
+      },
+      {
+        "eng": "No one, irrespective of their seniority or perceived influence within the conglomerate, is exempt from the impending forensic audit; they must all comply.",
+        "thai": "ไม่มีใครเลย, ไม่ว่าจะอาวุโสหรือมีอิทธิพลเพียงใดในกลุ่มบริษัท, ที่จะได้รับการยกเว้นจากการตรวจสอบทางนิติวิทยาศาสตร์ที่กำลังจะเกิดขึ้น; พวกเขาทุกคนต้องปฏิบัติตาม - 'No one' เป็นประธานเอกพจน์ (ใช้กับกริยา 'is') แต่สรรพนามที่อ้างถึงคือ 'their' และ 'they' เพื่อความเป็นกลางทางเพศและครอบคลุมทุกคน"
+      },
+      {
+        "eng": "The quintessential 21st-century learner must be adaptable; they are expected to continuously update their skill set to remain relevant.",
+        "thai": "ผู้เรียนในศตวรรษที่ 21 ที่เป็นต้นแบบจะต้องปรับตัวได้ พวกเขาถูกคาดหวังให้พัฒนาชุดทักษะของตนเองอย่างต่อเนื่องเพื่อที่จะยังคงเป็นที่ต้องการ - ในที่นี้ Antecedent คือ 'The quintessential 21st-century learner' ซึ่งเป็นนามเอกพจน์ที่ไม่ระบุเพศ (generic noun) การใช้ 'they' และ 'their' เป็นวิธีที่เป็นธรรมชาติและทันสมัยที่สุดในการอ้างถึง"
+      },
+      {
+        "eng": "Somebody has inadvertently left their confidential files on the communal desk; we need to ascertain their identity without delay.",
+        "thai": "มีใครบางคนเผลอทิ้งไฟล์ที่เป็นความลับของพวกเขาไว้บนโต๊ะส่วนกลาง เราจำเป็นต้องตรวจสอบตัวตนของพวกเขาโดยไม่ชักช้า - ประโยคนี้แสดงกฎสำคัญอย่างชัดเจน: ประธาน 'Somebody' เป็นเอกพจน์ จึงใช้กริยา 'has' แต่สรรพนามที่เป็นเจ้าของใช้ 'their' เพื่อความเป็นกลางทางเพศ"
+      }
+    ],
+    "common_mistakes": "1. **ยึดติดกับ 'he/she' มากเกินไป (Over-reliance on 'he/she'):** ผู้เรียนระดับสูงที่เคยถูกสอนไวยากรณ์แบบดั้งเดิมมักจะพยายามใช้ 'he or she' หรือ 'his or her' เสมอ ซึ่งแม้จะไม่ผิด แต่ทำให้การเขียนดูซ้ำซากและไม่เป็นธรรมชาติในภาษาอังกฤษปัจจุบัน โดยเฉพาะในประโยคที่ซับซ้อนและยาว\n\n2. **สับสนระหว่างกริยากับสรรพนาม (Verb vs. Pronoun Confusion):** นี่คือจุดที่พลาดกันมากที่สุด คือการคิดว่าเมื่อใช้สรรพนาม 'their' (ซึ่งเป็นพหูพจน์) แล้ว กริยาของประธานก็ต้องเป็นพหูพจน์ตามไปด้วย เช่น เขียนว่า '*Everyone are responsible for their own actions.*' ซึ่งผิดมหันต์! ต้องจำให้ขึ้นใจว่า Indefinite Pronoun ใช้ **กริยาเอกพจน์** แต่สามารถใช้ **สรรพนามพหูพจน์** (they/their) ได้\n   *   ถูกต้อง: `Somebody *has* left *their* umbrella.`\n   *   ผิด: `*Somebody have* left *their* umbrella.`\n\n3. **ใช้ 'it' กับคน (Using 'it' for people):** ในความพยายามที่จะหาสรรพนามเอกพจน์ที่เป็นกลางทางเพศ บางคนอาจเลือกใช้ 'it' ซึ่งเป็นการลดทอนความเป็นมนุษย์และผิดไวยากรณ์อย่างร้ายแรงเมื่ออ้างถึงคน เช่น '*If a student needs help, it should ask the teacher.*' ต้องใช้ 'they' เท่านั้น\n\n4. **เลือกใช้สรรพนามผิดรูป (Incorrect Pronoun Form):** แม้จะยอมรับการใช้ Singular 'they' แล้ว แต่ก็ยังอาจสับสนระหว่างรูปประธาน (they), กรรม (them), เจ้าของ (their), และ reflexive (themselves/themself) ได้ เช่น '*Everyone should be proud of *they* achievements.*' ที่ถูกต้องคือ '...of *their* achievements.'",
+    "practice_questions": [
+      {
+        "question": "Every burgeoning entrepreneur, despite the myriad obstacles ______ face, must remain tenacious in their pursuit of innovation.",
+        "options": [
+          "A. it faces",
+          "B. they faces",
+          "C. they face",
+          "D. he or she face"
+        ],
+        "answer": "C",
+        "explanation": "ประธาน (Antecedent) คือ 'Every burgeoning entrepreneur' ซึ่งเป็นเอกพจน์ทางไวยากรณ์ สรรพนามที่ใช้แทนในยุคปัจจุบันคือ 'they' เพื่อความเป็นกลางทางเพศ เมื่อใช้ 'they' เป็นประธานของ subordinate clause กริยาต้องสอดคล้องกับ 'they' จึงต้องเป็น 'face' (รูปพื้นฐาน) ไม่ใช่ 'faces' ดังนั้น 'they face' จึงถูกต้องที่สุด"
+      },
+      {
+        "question": "No one among the distinguished delegates was willing to concede ______ point, leading to an intractable impasse in the negotiations.",
+        "options": [
+          "A. his or her",
+          "B. their",
+          "C. its",
+          "D. theirs"
+        ],
+        "answer": "B",
+        "explanation": "ประธานคือ 'No one' ซึ่งเป็น Indefinite Pronoun ที่เป็นเอกพจน์ สรรพนามแสดงความเป็นเจ้าของ (possessive pronoun) ที่เหมาะสมและเป็นธรรมชาติที่สุดในภาษาอังกฤษปัจจุบันคือ 'their' แม้ว่า 'his or her' จะถูกไวยากรณ์ แต่ 'their' เป็นที่นิยมมากกว่าเพราะกระชับและไม่ระบุเพศ ส่วน 'its' ใช้กับสิ่งของ และ 'theirs' เป็นสรรพนามที่ใช้เดี่ยวๆ โดยไม่มีนามตามหลัง"
+      },
+      {
+        "question": "If a prospective applicant demonstrates exceptional prowess, ______ will be fast-tracked to the final interview stage, regardless of their prior experience.",
+        "options": [
+          "A. they",
+          "B. he",
+          "C. it",
+          "D. one"
+        ],
+        "answer": "A",
+        "explanation": "Antecedent คือ 'a prospective applicant' ซึ่งเป็นนามเอกพจน์ที่ไม่ระบุเพศ (generic noun) สรรพนาม 'they' ทำหน้าที่เป็นประธานของประโยคหลักได้อย่างเหมาะสม เพื่อความเป็นกลางทางเพศ 'he' เป็นการเจาะจงเพศชาย 'it' ใช้กับสิ่งของ และ 'one' จะเปลี่ยนโครงสร้างและความหมายของประโยค"
+      },
+      {
+        "question": "Somebody in the clandestine meeting must have divulged the information, but ______ identity remains a closely guarded secret.",
+        "options": [
+          "A. his",
+          "B. their",
+          "C. her",
+          "D. its"
+        ],
+        "answer": "B",
+        "explanation": "ประธานคือ 'Somebody' ซึ่งเป็น indefinite pronoun ที่ไม่ระบุเพศ สรรพนามแสดงความเป็นเจ้าของที่เหมาะสมที่สุดคือ 'their' เพื่อความเป็นกลางทางเพศและครอบคลุมทุกความเป็นไปได้ การใช้ 'his' หรือ 'her' เป็นการคาดเดาเพศซึ่งไม่ถูกต้อง"
+      },
+      {
+        "question": "Each legislator is expected to cast ______ vote based on conscience, not partisan pressure, as ______ are accountable to the electorate.",
+        "options": [
+          "A. their / they",
+          "B. his / he",
+          "C. its / it",
+          "D. their / he or she"
+        ],
+        "answer": "A",
+        "explanation": "ข้อนี้ทดสอบความสอดคล้องกัน ประธานคือ 'Each legislator' (เอกพจน์) สรรพนามแสดงความเป็นเจ้าของที่เหมาะสมคือ 'their' และเมื่ออ้างถึงประธานคนเดิมในอนุประโยคถัดมา ก็ต้องใช้สรรพนามประธานที่สอดคล้องกันคือ 'they' ดังนั้น 'their / they' จึงเป็นคู่ที่ถูกต้องและสอดคล้องกันที่สุด"
+      },
+      {
+        "question": "Neither the renowned physicist nor the aspiring chemist could explain the anomalous result, but each was confident in ______ own hypothesis.",
+        "options": [
+          "A. their",
+          "B. his",
+          "C. his or her",
+          "D. theirs"
+        ],
+        "answer": "A",
+        "explanation": "Antecedent ในที่นี้คือ 'each' ซึ่งทำหน้าที่เน้นย้ำสมาชิกแต่ละคนในกลุ่ม (physicist และ chemist) ถึงแม้ 'each' จะเป็นเอกพจน์ทางไวยากรณ์ (ใช้กับกริยา was) แต่สรรพนามที่ใช้แทนคือ 'their' ซึ่งเป็นที่ยอมรับและใช้กันทั่วไปเพื่อความเป็นกลางทางเพศ 'his or her' ก็ถูกแต่ยาวกว่า"
+      },
+      {
+        "question": "Anyone who thinks ______ can circumvent the stringent security protocols will inevitably find ______ a subject of a formal inquiry.",
+        "options": [
+          "A. he / him",
+          "B. they / themself",
+          "C. they / themselves",
+          "D. one / oneself"
+        ],
+        "answer": "C",
+        "explanation": "ประธานคือ 'Anyone' ซึ่งเป็นเอกพจน์ สรรพนามประธานที่ถูกต้องคือ 'they' และสรรพนามกรรมที่เป็น reflexive pronoun ที่สอดคล้องกับ singular 'they' ตามมาตรฐานไวยากรณ์คือ 'themselves' (แม้ว่า 'themself' จะเริ่มมีการใช้งานมากขึ้น แต่ 'themselves' ยังคงเป็นรูปมาตรฐานที่ยอมรับกันในวงกว้าง)"
+      },
+      {
+        "question": "The company's policy stipulates that every employee ______ responsible for safeguarding ______ own proprietary data access credentials.",
+        "options": [
+          "A. are / their",
+          "B. is / its",
+          "C. are / his or her",
+          "D. is / their"
+        ],
+        "answer": "D",
+        "explanation": "ข้อนี้ทดสอบกฎสำคัญที่สุด! ประธาน 'every employee' เป็นเอกพจน์ทางไวยากรณ์ ดังนั้นกริยาต้องเป็น 'is' (ตัดข้อ A และ C) สรรพนามที่ใช้แทน 'every employee' คือ 'their' เพื่อความเป็นกลางทางเพศ (ตัดข้อ B ที่ใช้ 'its' ซึ่งผิด) ดังนั้น 'is / their' คือคำตอบที่ถูกต้อง"
+      },
+      {
+        "question": "The venerable professor remarked that whichever student excels in the capstone project will find ______ lauded for ______ ingenuity.",
+        "options": [
+          "A. themselves / their",
+          "B. him or herself / his or her",
+          "C. oneself / one's",
+          "D. them / theirs"
+        ],
+        "answer": "A",
+        "explanation": "Antecedent คือ 'whichever student' ซึ่งเป็นนามวลีเอกพจน์ที่ไม่ระบุเพศ การใช้สรรพนาม 'they' (ในรูปของ reflexive และ possessive) จึงเหมาะสมที่สุด 'find themselves lauded' หมายถึง 'พบว่าตัวเองได้รับการยกย่อง' และ 'for their ingenuity' หมายถึง 'สำหรับความฉลาดหลักแหลมของพวกเขา' ซึ่งสอดคล้องกันอย่างสมบูรณ์"
+      },
+      {
+        "question": "It is a universally acknowledged tenet of modern jurisprudence that a defendant is innocent until proven guilty, and ______ has the inviolable right to mount a robust defense.",
+        "options": [
+          "A. it",
+          "B. they",
+          "C. he",
+          "D. one"
+        ],
+        "answer": "B",
+        "explanation": "ประธานคือ 'a defendant' (จำเลย) ซึ่งเป็นนามเอกพจน์ที่ไม่ระบุเพศ ในบริบททางกฎหมายและทางการ การใช้ 'they' เป็นสรรพนามแทนถือเป็นมาตรฐานเพื่อหลีกเลี่ยงการระบุเพศและรักษาความเป็นกลาง 'he' ถือว่าลำเอียงและล้าสมัย 'it' ผิดอย่างร้ายแรงเพราะใช้กับคนไม่ได้ และ 'one' จะเปลี่ยนน้ำเสียงของประโยค"
+      }
+    ]
+  },
+  {
+    "id": "53_3",
+    "title": "53.3 Summary: Pronoun Agreement (สรุปความสอดคล้องของสรรพนาม + 50 Exercises)",
+    "explanation": "ยินดีต้อนรับสู่บทสรุปรวบยอดของ Pronoun-Antecedent Agreement ครับ ในระดับ C1-C2 นี้ เราจะก้าวข้ามกฎพื้นฐานและเจาะลึกไปยังความซับซ้อนที่มักสร้างความสับสนแม้แต่กับผู้เรียนระดับสูง หัวใจสำคัญยังคงเดิม: 'สรรพนาม (Pronoun) ต้องสอดคล้องกับคำนามที่มันอ้างถึง (Antecedent) ทั้งในเรื่องพจน์ (Number) และเพศ (Gender)' แต่ความท้าทายอยู่ที่การระบุ Antecedent ที่แท้จริงในประโยคที่ซับซ้อน\n\n**ประเด็นสำคัญที่ต้องทบทวนในระดับสูง:**\n\n1.  **Indefinite Pronouns (สรรพนามไม่ชี้เฉพาะ):**\n    *   **Singular เสมอ:** `each`, `every`, `either`, `neither`, `one`, `anyone`, `anybody`, `anything`, `someone`, `somebody`, `something`, `everyone`, `everybody`, `everything`, `no one`, `nobody`, `nothing`. แม้ความหมายจะดูเหมือนหลายคน แต่ในทางไวยากรณ์ถือเป็นเอกพจน์ -> `Each of the scientists presented *his or her* findings.`\n    *   **Plural เสมอ:** `both`, `few`, `many`, `several` -> `Several of the candidates have submitted *their* portfolios.`\n    *   **เป็นได้ทั้ง Singular และ Plural (SAMAN Rule):** `Some`, `Any`, `Most`, `All`, `None`. พจน์ของสรรพนามเหล่านี้ขึ้นอยู่กับคำนามที่ตามหลังในวลีบุพบท (prepositional phrase) -> `Some of the *information* was outdated, so *it* was disregarded.` (information เป็นนามนับไม่ได้ -> singular) vs. `Some of the *delegates* left early; *they* had other commitments.` (delegates เป็นนามพหูพจน์ -> plural).\n\n2.  **Collective Nouns (สมุหนาม):**\n    คำนาม เช่น `team`, `committee`, `jury`, `audience`, `family`, `corporation` สามารถเป็นได้ทั้งเอกพจน์และพหูพจน์ ขึ้นอยู่กับบริบท\n    *   **Singular:** เมื่อมองเป็นหน่วยเดียวกัน ทำสิ่งเดียวกัน -> `The committee submits *its* final report tomorrow.` (คณะกรรมการทั้งชุดส่งรายงาน 1 ฉบับ)\n    *   **Plural:** เมื่อสมาชิกในกลุ่มทำกิจกรรมต่างกัน หรือเน้นความเป็นปัจเจกบุคคล -> `The committee are debating among *themselves* about the final wording.` (สมาชิกแต่ละคนกำลังถกเถียงกัน)\n\n3.  **Compound Antecedents (คำนามเชื่อมกัน):**\n    *   **เชื่อมด้วย 'and':** โดยทั่วไปเป็นพหูพจน์ -> `The CEO and the CFO value *their* privacy.`\n    *   **เชื่อมด้วย 'or', 'nor', 'either...or', 'neither...nor':** สรรพนามจะสอดคล้องกับ Antecedent ที่อยู่ 'ใกล้ที่สุด' (Proximity Rule) -> `Neither the project managers nor the chief engineer could find *his* misplaced blueprints.` (สรรพนาม `his` สอดคล้องกับ `chief engineer` ซึ่งเป็นเอกพจน์และอยู่ใกล้กว่า)\n\n4.  **The 'One of those who...' Trap (กับดักโครงสร้าง 'หนึ่งใน...ผู้ซึ่ง'):**\n    นี่คือจุดที่ผิดบ่อยที่สุดในระดับสูง! ในโครงสร้าง 'one of the [plural noun] that/who...' Antecedent ของ `who/that` คือคำนามพหูพจน์ที่อยู่ข้างหน้า ไม่ใช่ `one` ดังนั้นกริยาและสรรพนามที่ตามมาต้องเป็นพหูพจน์ -> `Dr. Evans is one of those researchers who consistently challenge *their* own assumptions.` (Antecedent ของ `who` คือ `researchers` (พหูพจน์) ไม่ใช่ `one` ดังนั้นจึงใช้ `their`)\n\n5.  **Gender-Neutral Language (ภาษาที่ไม่ระบุเพศ):**\n    ในงานเขียนเชิงวิชาการหรือทางการ เมื่อ Antecedent เป็นเอกพจน์ที่ไม่ระบุเพศ (เช่น `a student`, `an applicant`), มี 3 ทางเลือก:\n    *   `he or she` / `his or her` (เป็นทางการที่สุด): `Each applicant must submit *his or her* resume.`\n    *   ทำให้ Antecedent เป็นพหูพจน์: `All applicants must submit *their* resumes.`\n    *   ใช้ 'Singular They' (ยอมรับมากขึ้นเรื่อยๆ): `Each applicant must submit *their* resume.` การใช้ Singular 'they' เป็นที่ยอมรับในสถานการณ์ส่วนใหญ่แล้ว แต่ควรตรวจสอบตามข้อกำหนดของสถาบันหรือองค์กรนั้นๆ\n\nการเข้าใจกฎเกณฑ์ที่ซับซ้อนเหล่านี้จะยกระดับการเขียนและการใช้ภาษาอังกฤษของคุณให้แม่นยำและเป็นธรรมชาติเหมือนเจ้าของภาษาอย่างแท้จริงครับ",
+    "examples": [
+      {
+        "eng": "The faculty, profoundly divided on the new curriculum, have voiced their disparate opinions in the latest departmental memo, indicating that a consensus is far from being reached.",
+        "thai": "คณะคณาจารย์ ซึ่งมีความคิดเห็นแตกแยกอย่างลึกซึ้งเกี่ยวกับหลักสูตรใหม่ ได้แสดงความคิดเห็นที่แตกต่างกันของพวกเขาในบันทึกของภาควิชาฉบับล่าสุด ซึ่งบ่งชี้ว่ายังอีกไกลกว่าจะหาข้อสรุปร่วมกันได้\n**คำอธิบาย:** ในที่นี้ 'faculty' (คณะคณาจารย์) ซึ่งเป็น Collective Noun ถูกใช้ในความหมายพหูพจน์ เพราะประโยคเน้นความแตกแยกและความคิดเห็นที่ 'แตกต่างกัน' (disparate opinions) ของสมาชิกแต่ละคน จึงใช้สรรพนาม 'their' เพื่อสะท้อนความเป็นปัจเจกบุคคล"
+      },
+      {
+        "eng": "Neither the maverick CEO nor the board of directors, despite their protracted negotiations, could align their visions for the company's future.",
+        "thai": "ทั้ง CEO ผู้มีความคิดอิสระและคณะกรรมการบริษัท แม้จะมีการเจรจาที่ยืดเยื้อ ก็ไม่สามารถปรับวิสัยทัศน์ของพวกเขาสำหรับอนาคตของบริษัทให้ตรงกันได้\n**คำอธิบาย:** นี่คือตัวอย่างกฎ Proximity Rule ของ 'neither...nor'. Antecedent ที่อยู่ใกล้สรรพนามที่สุดคือ 'the board of directors' ซึ่งเป็นคำนามพหูพจน์ (เมื่อพิจารณาในฐานะกลุ่มบุคคล) ดังนั้นสรรพนามที่ถูกต้องคือ 'their'"
+      },
+      {
+        "eng": "This corporation is one of those behemoths that prioritize shareholder profits above all else, often at the expense of their employees' well-being.",
+        "thai": "บริษัทนี้เป็นหนึ่งในบรรดาบริษัทยักษ์ใหญ่ที่ให้ความสำคัญกับผลกำไรของผู้ถือหุ้นเหนือสิ่งอื่นใด ซึ่งมักจะต้องแลกมาด้วยสวัสดิภาพของพนักงานของพวกเขา\n**คำอธิบาย:** ตัวอย่างคลาสสิกของ 'one of those who/that...' trap. Antecedent ของ 'that' คือ 'behemoths' (บริษัทยักษ์ใหญ่) ซึ่งเป็นพหูพจน์ ไม่ใช่ 'one' ดังนั้น สรรพนามที่อ้างถึงบริษัทยักษ์ใหญ่เหล่านั้นในส่วนท้ายของประโยคจึงต้องเป็นพหูพจน์ คือ 'their'"
+      },
+      {
+        "eng": "None of the classified intelligence, meticulously gathered over decades, had its veracity questioned until the recent security breach.",
+        "thai": "ไม่มีข้อมูลข่าวกรองลับใดๆ ที่ถูกรวบรวมอย่างพิถีพิถันมานานหลายทศวรรษ เคยถูกตั้งคำถามถึงความถูกต้องของมัน จนกระทั่งเกิดเหตุการณ์การละเมิดความปลอดภัยเมื่อไม่นานมานี้\n**คำอธิบาย:** 'None' เป็นสรรพนามที่พจน์ขึ้นอยู่กับนามที่ตามมา ในที่นี้ 'intelligence' เป็นนามนับไม่ได้ (uncountable noun) จึงถือเป็นเอกพจน์ ดังนั้นสรรพนามที่ใช้อ้างถึงจึงต้องเป็นเอกพจน์ 'its'"
+      }
+    ],
+    "common_mistakes": "**1. The 'One of those who...' Trap:** ผิดพลาดบ่อยที่สุดในระดับสูง คือการใช้สรรพนามเอกพจน์ตามโครงสร้างนี้ เพราะถูกดึงความสนใจไปที่คำว่า 'one' ลืมไปว่า Antecedent ที่แท้จริงของ relative pronoun คือคำนามพหูพจน์ที่อยู่ติดกัน\n*ผิด:* `She is one of the managers who always puts *her* team first.`\n*ถูก:* `She is one of the managers who always put *their* teams first.` (who ในที่นี้หมายถึง the managers)\n\n**2. Misinterpreting Collective Nouns:** ใช้สรรพนามเอกพจน์กับ Collective Noun เสมอ โดยไม่พิจารณาบริบทว่ากลุ่มนั้นกำลังทำสิ่งเดียวกันเป็นหนึ่งเดียว (singular) หรือสมาชิกแต่ละคนกำลังทำสิ่งต่างๆ แยกกัน (plural)\n*ผิด (ถ้าเน้นความขัดแย้ง):* `The jury argued for hours before reaching *its* verdict.`\n*ถูก (เมื่อเน้นการกระทำของแต่ละคน):* `The jury argued for hours before reaching *their* verdict.` (ถ้าจะให้เคลียร์กว่านี้ อาจจะพูดว่า The jury members argued...)\n\n**3. Proximity Rule with 'Or/Nor':** สับสนกับกฎ 'คำนามที่อยู่ใกล้ที่สุด' โดยเฉพาะในประโยคยาวๆ ที่มีวลีแทรก ทำให้ระบุ Antecedent ที่ใกล้ที่สุดผิดพลาด และเลือกใช้สรรพนามตามคำนามตัวแรกแทน\n*ผิด:* `Neither the interns nor the senior analyst submitted *their* reports on time.` (ถ้า analyst มีคนเดียว)\n*ถูก:* `Neither the interns nor the senior analyst submitted *his* (or *her*) report on time.`\n\n**4. Indefinite Pronouns + Prepositional Phrases:** สับสนกับกลุ่ม SAMAN (`Some, Any, Most, All, None`) โดยมักจะเผลอใช้สรรพนามพหูพจน์ตามหลัง `None of the...` แม้ว่าคำนามที่ตามมาจะเป็นเอกพจน์หรือนับไม่ได้ก็ตาม\n*ผิด:* `None of the equipment has had *their* maintenance checks.`\n*ถูก:* `None of the equipment has had *its* maintenance checks.` (equipment เป็นนามนับไม่ได้)",
+    "practice_questions": [
+      {
+        "question": "The board of directors, after a contentious six-hour meeting, finally reached a consensus on ______ new strategic direction.",
+        "options": [
+          "A. their",
+          "B. its",
+          "C. it's",
+          "D. theirs"
+        ],
+        "answer": "B",
+        "explanation": "The antecedent is 'The board of directors'. Although it consists of multiple people, the sentence emphasizes that they acted as a single unit ('reached a consensus'). Therefore, a singular pronoun 'its' is required. 'Their' would be used if the members were acting individually. 'It's' is a contraction for 'it is'. 'Theirs' is a possessive pronoun used to replace 'its direction'."
+      },
+      {
+        "question": "Each of the researchers, despite facing innumerable setbacks, was resolute in ______ pursuit of a breakthrough.",
+        "options": [
+          "A. their",
+          "B. his or her",
+          "C. its",
+          "D. theirs"
+        ],
+        "answer": "B",
+        "explanation": "The antecedent is 'Each', which is a singular indefinite pronoun. Therefore, a singular possessive pronoun is needed. 'His or her' is the grammatically correct and gender-inclusive singular form. While singular 'their' is gaining acceptance, 'his or her' is often preferred in formal C1-C2 level writing. 'Its' is for non-persons. 'Theirs' is the wrong form."
+      },
+      {
+        "question": "Dr. Alistair is one of those formidable academics who never shy away from challenging ______ own established theories.",
+        "options": [
+          "A. his",
+          "B. their",
+          "C. his or her",
+          "D. ones"
+        ],
+        "answer": "B",
+        "explanation": "This is a classic 'one of those who...' structure. The antecedent of 'who' is not 'Dr. Alistair' (one), but 'those formidable academics' (plural). Therefore, the pronoun must be plural: 'their'."
+      },
+      {
+        "question": "Neither the sprawling metropolis nor the quaint surrounding villages could retain ______ historical character in the face of rapid modernization.",
+        "options": [
+          "A. its",
+          "B. their",
+          "C. their own",
+          "D. its own"
+        ],
+        "answer": "B",
+        "explanation": "This sentence uses the 'neither...nor' construction. According to the proximity rule, the pronoun must agree with the antecedent closer to it, which is 'the quaint surrounding villages' (plural). Therefore, the plural pronoun 'their' is correct."
+      },
+      {
+        "question": "A number of esoteric documents, long thought to be lost, have had ______ authenticity verified by a team of leading historians.",
+        "options": [
+          "A. its",
+          "B. it's",
+          "C. they're",
+          "D. their"
+        ],
+        "answer": "D",
+        "explanation": "The phrase 'A number of' is treated as plural, referring to multiple items. The antecedent is 'documents' (plural). Thus, the plural possessive pronoun 'their' is required. In contrast, 'The number of' would be treated as singular."
+      },
+      {
+        "question": "The jury delivered ______ verdict unanimously, finding the defendant not guilty on all counts.",
+        "options": [
+          "A. their",
+          "B. its",
+          "C. his or her",
+          "D. theirs"
+        ],
+        "answer": "B",
+        "explanation": "'The jury' is a collective noun. In this context, the jury is acting as a single, unified body ('unanimously'), so the singular pronoun 'its' is the most appropriate choice."
+      },
+      {
+        "question": "Everybody who has ever grappled with existential philosophy must, at some point, confront ______ own mortality.",
+        "options": [
+          "A. their",
+          "B. his",
+          "C. his or her",
+          "D. ones"
+        ],
+        "answer": "C",
+        "explanation": "'Everybody' is a singular indefinite pronoun. In formal writing, the corresponding singular possessive pronoun 'his or her' is the most precise choice. Singular 'their' is also widely used but 'his or her' is often considered more formal and is a better fit for this sentence's tone."
+      },
+      {
+        "question": "The phenomenon of quantum entanglement, as well as its perplexing implications, has ______ roots in the early 20th century.",
+        "options": [
+          "A. its",
+          "B. their",
+          "C. it's",
+          "D. his"
+        ],
+        "answer": "A",
+        "explanation": "The subject of the sentence is 'The phenomenon of quantum entanglement' (singular). The phrase 'as well as its perplexing implications' is an intervening phrase that does not change the number of the subject. Therefore, the singular pronoun 'its' is correct."
+      },
+      {
+        "question": "Some of the antiquated software is so unreliable that ______ continued use poses a significant security risk.",
+        "options": [
+          "A. its",
+          "B. their",
+          "C. it",
+          "D. they"
+        ],
+        "answer": "A",
+        "explanation": "The pronoun 'some' takes its number from the object of the preposition that follows. Here, 'software' is an uncountable noun, so it is treated as singular. Thus, the singular possessive pronoun 'its' is correct."
+      },
+      {
+        "question": "It is not the politicians but the electorate that must ultimately bear the responsibility for ______ choices.",
+        "options": [
+          "A. its",
+          "B. his or her",
+          "C. their",
+          "D. your"
+        ],
+        "answer": "C",
+        "explanation": "In the 'not...but...' construction, the verb and subsequent pronouns agree with the subject that is not negated. Here, the antecedent is 'the electorate'. 'Electorate' is a collective noun that, in this context, refers to the individual voters making choices, so the plural pronoun 'their' is appropriate."
+      },
+      {
+        "question": "Neither of the proposed solutions seems to offer ______ proponents a clear path to success.",
+        "options": [
+          "A. its",
+          "B. their",
+          "C. it's",
+          "D. theirs"
+        ],
+        "answer": "A",
+        "explanation": "The word 'Neither' as the subject is always singular. Therefore, it requires a singular possessive pronoun. 'Its' is the correct choice, referring to 'Neither of the proposed solutions'."
+      },
+      {
+        "question": "The alumni of the university, who now hold influential positions globally, often credit ______ alma mater for their success.",
+        "options": [
+          "A. its",
+          "B. his or her",
+          "C. their",
+          "D. their's"
+        ],
+        "answer": "C",
+        "explanation": "The antecedent is 'The alumni', which is the plural form of alumnus. Therefore, a plural pronoun, 'their', is required to refer to the group of graduates."
+      },
+      {
+        "question": "Every cog and wheel in the intricate mechanism has ______ own specific function.",
+        "options": [
+          "A. its",
+          "B. their",
+          "C. his or her",
+          "D. our"
+        ],
+        "answer": "A",
+        "explanation": "When a compound subject is preceded by 'every' (or 'each'), it is treated as singular. 'Every cog and wheel' refers to each individual part, making the subject singular. Thus, 'its' is the correct pronoun."
+      },
+      {
+        "question": "All of the information disseminated by the agency had ______ sources carefully redacted.",
+        "options": [
+          "A. their",
+          "B. its",
+          "C. it's",
+          "D. they're"
+        ],
+        "answer": "B",
+        "explanation": "The pronoun 'All' depends on the noun that follows. 'Information' is an uncountable noun and therefore singular. The correct possessive pronoun is the singular 'its'."
+      },
+      {
+        "question": "The committee members are currently embroiled in a debate among ______ about the allocation of funds.",
+        "options": [
+          "A. itself",
+          "B. himself",
+          "C. themselves",
+          "D. theirselves"
+        ],
+        "answer": "C",
+        "explanation": "The antecedent is 'The committee members' (plural). The context of a debate among them indicates they are acting as individuals, not a single unit. Therefore, the plural reflexive pronoun 'themselves' is correct. 'Theirselves' is non-standard English."
+      },
+      {
+        "question": "He is the only one of the programmers who understands how to debug the legacy system on ______ own.",
+        "options": [
+          "A. his",
+          "B. their",
+          "C. its",
+          "D. ones"
+        ],
+        "answer": "A",
+        "explanation": "This is a tricky exception to the 'one of those who' rule. The phrase 'the only one' singles out one specific person from the group. Therefore, the antecedent of 'who' becomes the singular 'one', and the pronoun must be singular: 'his'."
+      },
+      {
+        "question": "Mathematics, along with theoretical physics, has ______ own set of immutable laws.",
+        "options": [
+          "A. their",
+          "B. it's",
+          "C. its",
+          "D. theirs"
+        ],
+        "answer": "C",
+        "explanation": "The subject of the sentence is 'Mathematics' (singular, as a field of study). The phrase 'along with theoretical physics' is an intervening phrase and does not affect the subject's number. Thus, the singular possessive 'its' is correct."
+      },
+      {
+        "question": "Many a political pundit has had to retract ______ predictions after an unexpected election result.",
+        "options": [
+          "A. their",
+          "B. his or her",
+          "C. ones",
+          "D. its"
+        ],
+        "answer": "B",
+        "explanation": "The expression 'many a' is a formal and somewhat archaic structure that is always followed by a singular noun ('pundit') and is treated as singular. Therefore, the singular pronoun 'his or her' is the correct choice."
+      },
+      {
+        "question": "Either the regional managers or the vice president will have to present ______ revised proposal at the summit.",
+        "options": [
+          "A. their",
+          "B. his",
+          "C. her",
+          "D. his or her"
+        ],
+        "answer": "D",
+        "explanation": "Following the proximity rule for 'either...or', the pronoun agrees with the closer antecedent, which is 'the vice president' (singular). To be gender-inclusive and formal, 'his or her' is the best answer."
+      },
+      {
+        "question": "The United States, despite its diverse population, holds ______ elections every four years.",
+        "options": [
+          "A. their",
+          "B. it's",
+          "C. its",
+          "D. our"
+        ],
+        "answer": "C",
+        "explanation": "Countries, even those with plural-sounding names like 'The United States' or 'The Philippines', are generally treated as singular entities. Therefore, the singular possessive pronoun 'its' is correct."
+      },
+      {
+        "question": "The flock of migratory birds makes ______ arduous journey south every autumn.",
+        "options": [
+          "A. its",
+          "B. their",
+          "C. it's",
+          "D. theirs"
+        ],
+        "answer": "A",
+        "explanation": "'The flock' is a collective noun. Here, the flock is acting as a single unit, making one journey together. Therefore, the singular pronoun 'its' is the correct choice."
+      },
+      {
+        "question": "None of the delegates were willing to compromise on ______ core principles.",
+        "options": [
+          "A. his or her",
+          "B. its",
+          "C. they're",
+          "D. their"
+        ],
+        "answer": "D",
+        "explanation": "The pronoun 'None' takes its number from the object of the preposition. Here, 'delegates' is plural. Therefore, the plural possessive pronoun 'their' is correct. Note that while 'none' can sometimes be singular, with a plural noun like 'delegates' and a context of individual principles, plural is strongly preferred."
+      },
+      {
+        "question": "The plethora of data available has overwhelmed the analysts, making ______ task of finding a clear trend nearly impossible.",
+        "options": [
+          "A. their",
+          "B. its",
+          "C. his or her",
+          "D. the"
+        ],
+        "answer": "A",
+        "explanation": "The antecedent for the pronoun is 'the analysts' (plural), not 'plethora' or 'data'. The pronoun must refer to the people whose task it is. Therefore, the plural pronoun 'their' is correct."
+      },
+      {
+        "question": "A person who is perpetually indecisive often finds ______ caught between equally unappealing options.",
+        "options": [
+          "A. themselves",
+          "B. themself",
+          "C. himself or herself",
+          "D. itself"
+        ],
+        "answer": "C",
+        "explanation": "The antecedent is 'A person' (singular, non-gender-specific). The correct singular reflexive pronoun is 'himself or herself'. 'Themselves' is plural. 'Themself' is a non-standard but increasingly common singular reflexive form, but 'himself or herself' is the standard for formal writing."
+      },
+      {
+        "question": "It was the CEO, not her subordinates, who had to stake ______ entire reputation on the risky venture.",
+        "options": [
+          "A. their",
+          "B. her",
+          "C. his",
+          "D. its"
+        ],
+        "answer": "B",
+        "explanation": "The antecedent is clearly 'the CEO', who is identified as female by the pronoun 'her' earlier in the sentence ('her subordinates'). Therefore, the correct possessive pronoun must be 'her'."
+      },
+      {
+        "question": "The company's new AI, an amalgam of various complex algorithms, constantly updates ______ own programming.",
+        "options": [
+          "A. their",
+          "B. its",
+          "C. it's",
+          "D. his or her"
+        ],
+        "answer": "B",
+        "explanation": "The antecedent is 'The company's new AI' (singular, neuter). Therefore, the singular possessive pronoun 'its' is the correct choice."
+      },
+      {
+        "question": "Each member of the expedition was required to carry ______ own provisions for a week.",
+        "options": [
+          "A. their",
+          "B. his or her",
+          "C. its",
+          "D. themselves"
+        ],
+        "answer": "B",
+        "explanation": "'Each member' is singular. The most formally correct pronoun is the singular 'his or her'. While singular 'their' is common, 'his or her' fits the formal tone of the sentence better."
+      },
+      {
+        "question": "Both the plaintiff and the defendant in the landmark case presented ______ arguments with compelling conviction.",
+        "options": [
+          "A. his or her",
+          "B. its",
+          "C. their",
+          "D. his"
+        ],
+        "answer": "C",
+        "explanation": "A compound antecedent joined by 'and' ('the plaintiff and the defendant') is plural. Therefore, the plural possessive pronoun 'their' is required."
+      },
+      {
+        "question": "Physics is one of the sciences that has seen ______ fundamental principles challenged in the last century.",
+        "options": [
+          "A. its",
+          "B. their",
+          "C. his",
+          "D. her"
+        ],
+        "answer": "A",
+        "explanation": "This question tests whether you misapply the 'one of those who' rule. The antecedent of 'that' is 'sciences' (plural), so the verb is 'have' (which is missing, but implied). However, the second part of the sentence refers back to the main subject, 'Physics' (singular). 'Physics...has seen its principles challenged.' Therefore, 'its' is correct."
+      },
+      {
+        "question": "The number of applicants has exceeded all expectations, but the quality of ______ submissions varies greatly.",
+        "options": [
+          "A. its",
+          "B. their",
+          "C. his or her",
+          "D. their's"
+        ],
+        "answer": "B",
+        "explanation": "The pronoun refers to the 'applicants' (plural), not 'the number' (singular). It is the applicants' submissions that vary. Therefore, the plural pronoun 'their' is correct."
+      },
+      {
+        "question": "My mentor and trusted advisor, who has guided me for years, is finally retiring and selling ______ consultancy firm.",
+        "options": [
+          "A. their",
+          "B. his",
+          "C. its",
+          "D. our"
+        ],
+        "answer": "B",
+        "explanation": "The compound subject 'My mentor and trusted advisor' refers to a single person. This is a compound predicate describing one individual. Therefore, a singular pronoun ('his' or 'her' - 'his' is provided) is correct."
+      },
+      {
+        "question": "The media, in their relentless pursuit of a story, often disregard the privacy of the individuals involved.",
+        "options": [
+          "A. their",
+          "B. its",
+          "C. his or her",
+          "D. it's"
+        ],
+        "answer": "A",
+        "explanation": "'The media' is a collective noun. In this context, it refers to the various journalists, reporters, and news organizations acting as separate entities in pursuit of a story. This individual action makes the plural 'their' appropriate."
+      },
+      {
+        "question": "Every one of the shareholders has cast ______ vote.",
+        "options": [
+          "A. their",
+          "B. his or her",
+          "C. their's",
+          "D. its"
+        ],
+        "answer": "B",
+        "explanation": "The phrase 'Every one' is definitively singular. It singles out each individual. Therefore, the formally correct singular possessive pronoun is 'his or her'."
+      },
+      {
+        "question": "What the team needs now is not more resources, but a leader who can unite ______ disparate talents.",
+        "options": [
+          "A. their",
+          "B. its",
+          "C. his",
+          "D. it's"
+        ],
+        "answer": "B",
+        "explanation": "The pronoun refers to 'the team'. The goal is to 'unite' the talents, suggesting a focus on the team as a single entity. The talents belong to the team (singular unit). Therefore, 'its' is the best choice."
+      },
+      {
+        "question": "Either the schematics are incorrect, or the lead engineer has made a mistake in ______ calculations.",
+        "options": [
+          "A. their",
+          "B. his or her",
+          "C. its",
+          "D. theirs"
+        ],
+        "answer": "B",
+        "explanation": "Using the proximity rule for 'either...or', the pronoun must agree with the closer antecedent, 'the lead engineer' (singular). 'His or her' is the correct singular, gender-neutral pronoun."
+      },
+      {
+        "question": "The archipelago, a chain of volcanic islands, has ______ unique ecosystem threatened by climate change.",
+        "options": [
+          "A. their",
+          "B. they're",
+          "C. its",
+          "D. it's"
+        ],
+        "answer": "C",
+        "explanation": "The subject is 'The archipelago' (singular), which refers to a single chain of islands. The appositive 'a chain of volcanic islands' confirms its singular nature. Therefore, the singular possessive 'its' is correct."
+      },
+      {
+        "question": "No one in the senior management team was willing to put ______ name to the controversial proposal.",
+        "options": [
+          "A. their",
+          "B. his or her",
+          "C. there",
+          "D. its"
+        ],
+        "answer": "B",
+        "explanation": "'No one' is a singular indefinite pronoun. In formal English, it requires a singular possessive pronoun, 'his or her'."
+      },
+      {
+        "question": "The public is growing increasingly skeptical of political promises and the politicians who make ______.",
+        "options": [
+          "A. it",
+          "B. them",
+          "C. their",
+          "D. its"
+        ],
+        "answer": "B",
+        "explanation": "The pronoun here refers to the antecedent 'political promises' (plural). Therefore, the plural object pronoun 'them' is correct."
+      },
+      {
+        "question": "Mumps is one of those diseases that, despite being preventable, still has ______ occasional outbreaks.",
+        "options": [
+          "A. its",
+          "B. their",
+          "C. his",
+          "D. her"
+        ],
+        "answer": "A",
+        "explanation": "This is a complex case. The relative clause 'that... has its occasional outbreaks' refers back to 'Mumps', not 'diseases'. 'Mumps' is the specific disease being discussed that has outbreaks. Since 'Mumps' (the disease) is singular, the pronoun 'its' is correct."
+      },
+      {
+        "question": "The crux of the matter, encompassing all the peripheral issues, is that the organization has lost ______ moral compass.",
+        "options": [
+          "A. their",
+          "B. his or her",
+          "C. its",
+          "D. it's"
+        ],
+        "answer": "C",
+        "explanation": "The subject of the sentence is 'The crux' (singular). However, the pronoun refers to 'the organization' (a singular collective noun). Therefore, the singular possessive pronoun 'its' is the correct choice."
+      },
+      {
+        "question": "Each of the defendants maintained ______ innocence throughout the prolonged trial.",
+        "options": [
+          "A. their",
+          "B. his",
+          "C. her",
+          "D. his or her"
+        ],
+        "answer": "D",
+        "explanation": "The subject is 'Each', which is always singular. It refers to 'defendants' of unknown gender. The most grammatically precise option in formal writing is 'his or her'."
+      },
+      {
+        "question": "The company, as well as its main competitors, has announced ______ third-quarter earnings.",
+        "options": [
+          "A. its",
+          "B. their",
+          "C. their's",
+          "D. it's"
+        ],
+        "answer": "A",
+        "explanation": "The subject of the sentence is 'The company' (singular). The phrase 'as well as its main competitors' is an intervening phrase that does not alter the number of the subject. The pronoun must agree with 'The company', so 'its' is correct."
+      },
+      {
+        "question": "Anybody wishing to participate in the symposium must register ______ interest by Friday.",
+        "options": [
+          "A. their",
+          "B. his or her",
+          "C. its",
+          "D. themselves"
+        ],
+        "answer": "B",
+        "explanation": "'Anybody' is a singular indefinite pronoun. The correct formal pronoun is the singular 'his or her'. While singular 'their' is widely accepted, 'his or her' is often considered the standard for formal instructions like this."
+      },
+      {
+        "question": "The government is considering new legislation, but ______ efficacy is a subject of intense debate.",
+        "options": [
+          "A. it's",
+          "B. their",
+          "C. his or her",
+          "D. its"
+        ],
+        "answer": "D",
+        "explanation": "The pronoun refers to 'new legislation' (singular, uncountable). 'Government' can be singular or plural, but the thing whose efficacy is being debated is the legislation. Therefore, the singular pronoun 'its' is correct."
+      },
+      {
+        "question": "It is I who ______ responsible for ensuring the team submits its report on time.",
+        "options": [
+          "A. is",
+          "B. are",
+          "C. am",
+          "D. be"
+        ],
+        "answer": "C",
+        "explanation": "While this is a verb agreement question, it follows the same principle. The relative pronoun 'who' refers to the antecedent 'I'. Therefore, the verb must agree with 'I', which is 'am'. This illustrates how relative pronoun agreement works."
+      },
+      {
+        "question": "The pair of peregrine falcons has built ______ nest atop the skyscraper.",
+        "options": [
+          "A. their",
+          "B. its",
+          "C. they're",
+          "D. his and her"
+        ],
+        "answer": "B",
+        "explanation": "The subject is 'The pair' (singular), not 'falcons'. 'Pair' is a singular noun referring to a single unit. Therefore, the singular pronoun 'its' is correct. If the sentence was 'The two falcons have built...', 'their' would be correct."
+      },
+      {
+        "question": "Not only the employees but also the CEO had to admit ______ culpability in the financial scandal.",
+        "options": [
+          "A. their",
+          "B. his or her",
+          "C. its",
+          "D. theirs"
+        ],
+        "answer": "B",
+        "explanation": "In a 'not only...but also' construction, the pronoun agrees with the antecedent closer to it. Here, that is 'the CEO' (singular). Therefore, 'his or her' is the correct choice."
+      },
+      {
+        "question": "The audience showed ______ appreciation with a standing ovation.",
+        "options": [
+          "A. their",
+          "B. its",
+          "C. it's",
+          "D. his or her"
+        ],
+        "answer": "B",
+        "explanation": "'The audience' is a collective noun. Here, the audience is acting in unison as a single entity ('a standing ovation'). Therefore, the singular possessive pronoun 'its' is appropriate."
+      },
+      {
+        "question": "Several of the ancient manuscripts had ______ pages damaged by moisture.",
+        "options": [
+          "A. its",
+          "B. their",
+          "C. his or her",
+          "D. theirs"
+        ],
+        "answer": "B",
+        "explanation": "The antecedent is 'Several', which is a plural indefinite pronoun. It refers to the 'manuscripts' (plural). Therefore, the plural pronoun 'their' is the correct choice."
+      },
+      {
+        "question": "This is the very species of orchid that has ______ habitat threatened by deforestation.",
+        "options": [
+          "A. their",
+          "B. whose",
+          "C. its",
+          "D. which"
+        ],
+        "answer": "C",
+        "explanation": "The antecedent is 'species' (singular in this context, referring to one type). Therefore, the singular possessive pronoun 'its' is required. 'Whose' could also fit grammatically, but 'its' is a more direct possessive pronoun in this structure."
+      }
+    ]
+  }
+]

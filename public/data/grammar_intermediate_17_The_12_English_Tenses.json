@@ -1,0 +1,1558 @@
+[
+  {
+    "id": "17_1",
+    "title": "17.1 Present Simple vs. Present Continuous (ความแตกต่างปัจจุบัน)",
+    "explanation": "หัวข้อนี้จะเจาะลึกความแตกต่างระหว่าง Present Simple และ Present Continuous ซึ่งเป็น Tense พื้นฐานที่ผู้เรียนระดับ B1-B2 ต้องใช้ให้คล่องและแม่นยำ เพราะมีความหมายที่ต่างกันอย่างชัดเจน\n\n**Present Simple Tense (S + V.1)**\nใช้กับเหตุการณ์ที่เป็นจริงเสมอ เป็นกิจวัตร หรือเป็นสถานการณ์ที่ถาวร\n1.  **General Truths & Facts (ความจริงทั่วไป/ข้อเท็จจริงทางวิทยาศาสตร์):** สิ่งที่เป็นจริงเสมอไม่เปลี่ยนแปลง\n    *   `The Earth revolves around the Sun.` (โลกโคจรรอบดวงอาทิตย์)\n2.  **Habits & Routines (กิจวัตรและนิสัย):** สิ่งที่ทำเป็นประจำ สังเกตจาก Adverbs of Frequency เช่น `always`, `usually`, `often`, `sometimes`, `never`, `every day`\n    *   `He commutes to the city for work every morning.` (เขาเดินทางเข้าเมืองเพื่อไปทำงานทุกเช้า)\n3.  **Permanent Situations (สถานการณ์ที่ถาวร):** สถานะหรือความเป็นจริงที่ค่อนข้างคงที่\n    *   `She works for an international law firm.` (เธอทำงานให้กับบริษัทกฎหมายระหว่างประเทศ)\n4.  **Schedules & Timetables (ตารางเวลา):** การบอกตารางเวลาที่กำหนดไว้แล้ว เช่น ตารางรถไฟ, ตารางเรียน\n    *   `The conference begins at 9:00 AM tomorrow.` (การประชุมเริ่มเวลา 9 โมงเช้าพรุ่งนี้)\n5.  **State Verbs (กริยาแสดงสภาวะ):** กริยาที่ไม่แสดงการกระทำ แต่แสดงสภาวะของจิตใจ, ความรู้สึก, ความเป็นเจ้าของ หรือการรับรู้ เช่น `know`, `believe`, `understand`, `love`, `hate`, `want`, `need`, `seem`, `own`, `possess` กริยาเหล่านี้ **จะไม่ใช้ในรูป Continuous**\n    *   `I believe your analysis is correct.` (ฉันเชื่อว่าการวิเคราะห์ของคุณถูกต้อง)\n\n**Present Continuous Tense (S + is/am/are + V-ing)**\nใช้กับเหตุการณ์ที่กำลังเกิดขึ้น หรือเกิดขึ้นเพียงชั่วคราว\n1.  **Actions Happening Now (การกระทำที่กำลังเกิดขึ้น):** สิ่งที่กำลังดำเนินอยู่ ณ ขณะที่พูด\n    *   `Please be quiet, I am trying to concentrate.` (กรุณาเงียบๆ หน่อย ฉันกำลังพยายามใช้สมาธิ)\n2.  **Temporary Situations (สถานการณ์ชั่วคราว):** เหตุการณ์ที่เกิดขึ้นเพียงช่วงเวลาหนึ่ง ไม่ได้ถาวร\n    *   `He normally lives in London, but he's staying in Paris for a few months for a project.` (ปกติเขาอาศัยอยู่ที่ลอนดอน แต่ตอนนี้เขากำลังพักอยู่ที่ปารีสสองสามเดือนเพื่อทำโปรเจกต์)\n3.  **Changing Situations & Trends (การเปลี่ยนแปลงและแนวโน้ม):** สิ่งที่กำลังพัฒนาหรือเปลี่ยนแปลงไป\n    *   `The cost of living is increasing rapidly.` (ค่าครองชีพกำลังเพิ่มสูงขึ้นอย่างรวดเร็ว)\n4.  **Annoying Habits (with 'always', 'constantly'):** ใช้วิจารณ์นิสัยที่น่ารำคาญหรือเกิดขึ้นบ่อยเกินไป\n    *   `You are always interrupting me when I'm speaking!` (เธอขัดจังหวะฉันตลอดเวลาที่ฉันกำลังพูดเลยนะ!)\n5.  **Definite Future Plans (แผนในอนาคตที่แน่นอน):** แผนการในอนาคตที่ได้เตรียมการและนัดหมายไว้แล้ว\n    *   `We are meeting the new clients tomorrow afternoon.` (เราจะพบกับลูกค้ารายใหม่ในบ่ายวันพรุ่งนี้)",
+    "examples": [
+      {
+        "eng": "She works as a financial analyst, but this week she is attending a conference in Singapore.",
+        "thai": "เธอทำงานเป็นนักวิเคราะห์ทางการเงิน (อาชีพถาวร - Present Simple) แต่สัปดาห์นี้เธอกำลังเข้าร่วมการประชุมที่สิงคโปร์ (สถานการณ์ชั่วคราว - Present Continuous)"
+      },
+      {
+        "eng": "I think you should reconsider the offer. vs. What are you thinking about? You seem distracted.",
+        "thai": "ฉันคิดว่าคุณควรพิจารณาข้อเสนอนั้นใหม่ ('think' ในที่นี้คือ 'believe' เป็น State Verb) vs. คุณกำลังคิดอะไรอยู่ ดูไม่มีสมาธิเลย ('think' ในที่นี้คือกระบวนการคิดที่กำลังเกิดขึ้น เป็น Action Verb)"
+      },
+      {
+        "eng": "The chef usually creates his own recipes, but today he is following a traditional French recipe for a special guest.",
+        "thai": "ปกติเชฟจะสร้างสรรค์สูตรอาหารของเขาเอง (กิจวัตร - Present Simple) แต่สำหรับวันนี้ เขากำลังทำตามสูตรอาหารฝรั่งเศสแบบดั้งเดิมเพื่อแขกคนพิเศษ (การกระทำชั่วคราว - Present Continuous)"
+      },
+      {
+        "eng": "The climate changes slowly over centuries, but scientists agree that it is changing much faster now due to human activity.",
+        "thai": "สภาพอากาศเปลี่ยนแปลงอย่างช้าๆ ในช่วงหลายศตวรรษ (ความจริงทั่วไป - Present Simple) แต่นักวิทยาศาสตร์เห็นพ้องว่าตอนนี้มันกำลังเปลี่ยนแปลงเร็วขึ้นมากจากกิจกรรมของมนุษย์ (แนวโน้มปัจจุบัน - Present Continuous)"
+      }
+    ],
+    "common_mistakes": "1.  **การใช้ Present Continuous กับ State Verbs:** นี่คือข้อผิดพลาดที่พบบ่อยที่สุด คนไทยมักจะติดพูดว่า 'I am understanding now.' หรือ 'She is wanting a new car.' ที่ถูกต้องคือต้องใช้ Present Simple -> 'I understand now.' / 'She wants a new car.' เพราะกริยาเหล่านี้ (understand, want, know, believe, need, etc.) แสดงสภาวะ ไม่ใช่การกระทำที่ดำเนินอยู่\n\n2.  **สับสนระหว่างสถานการณ์ถาวรกับชั่วคราว:** การใช้ Tense ผิดสามารถทำให้ความหมายเปลี่ยนได้ เช่น\n    *   `I live in Chiang Mai.` (ฉันอาศัยอยู่ที่เชียงใหม่ - เป็นที่อยู่ถาวร)\n    *   `I'm living in Chiang Mai.` (ฉันกำลังอาศัยอยู่ที่เชียงใหม่ - เป็นการอยู่ชั่วคราว อาจจะมาทำงานหรือเรียนแค่ช่วงหนึ่ง)\n\n3.  **การใช้ 'always' ผิดบริบท:** คนไทยมักจะใช้ 'I always go...' สำหรับกิจวัตร ซึ่งถูกต้อง แต่ลืมว่า 'I am always doing...' ก็ใช้ได้เช่นกัน แต่ในความหมายที่แตกต่างออกไป คือการบ่นหรือแสดงความรำคาญ\n    *   `He always helps others.` (เขาช่วยเหลือคนอื่นเสมอ - เป็นนิสัยที่ดี)\n    *   `He is always asking for money.` (เขามาขอเงินตลอดเลย - แสดงความรำคาญ)",
+    "practice_questions": [
+      {
+        "question": "The marketing team usually ______ on new strategies on Fridays, but today they ______ an urgent client issue.",
+        "options": [
+          "A. brainstorms / are handling",
+          "B. are brainstorming / handle",
+          "C. brainstorm / are handling",
+          "D. brainstorms / handle"
+        ],
+        "answer": "A",
+        "explanation": "ส่วนแรก 'usually' (ปกติ) บอกถึงกิจวัตร จึงใช้ Present Simple (The marketing team [it] brainstorms). ส่วนที่สอง 'today' บอกถึงเหตุการณ์เฉพาะหน้าที่กำลังเกิดขึ้น จึงใช้ Present Continuous (they are handling)."
+      },
+      {
+        "question": "I'm sorry, I can't talk right now. I ______ for my final exam, which is tomorrow morning.",
+        "options": [
+          "A. prepare",
+          "B. am preparing",
+          "C. prepares",
+          "D. was preparing"
+        ],
+        "answer": "B",
+        "explanation": "ประโยค 'I can't talk right now' เป็นตัวบ่งชี้ว่าผู้พูดกำลังทำบางสิ่งบางอย่างอยู่ ณ ขณะนั้น จึงต้องใช้ Present Continuous 'am preparing' เพื่ออธิบายการกระทำที่กำลังดำเนินอยู่"
+      },
+      {
+        "question": "According to the latest economic report, the unemployment rate in this country ______ steadily.",
+        "options": [
+          "A. decreases",
+          "B. is decreasing",
+          "C. decrease",
+          "D. has decreased"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้กล่าวถึงแนวโน้ม (trend) หรือสถานการณ์ที่กำลังเปลี่ยนแปลงไป ('steadily' - อย่างต่อเนื่อง) จึงเหมาะสมที่สุดที่จะใช้ Present Continuous 'is decreasing'."
+      },
+      {
+        "question": "My manager is so frustrating! He ______ his mind about the project requirements.",
+        "options": [
+          "A. always changes",
+          "B. is always changing",
+          "C. changes always",
+          "D. is changing always"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคขึ้นต้นด้วย 'My manager is so frustrating!' (ผู้จัดการของฉันน่าหงุดหงิดมาก!) แสดงถึงอารมณ์รำคาญ การใช้ Present Continuous กับ 'always' ('is always changing') จึงถูกต้องที่สุดเพื่อเน้นย้ำถึงนิสัยที่น่ารำคาญ"
+      },
+      {
+        "question": "This particular artist ______ vibrant colors in her paintings to express emotion, a technique she ______ from her mentor.",
+        "options": [
+          "A. uses / learns",
+          "B. is using / is learning",
+          "C. uses / learned",
+          "D. is using / learns"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคแรกกล่าวถึงสไตล์หรือลักษณะงานศิลปะที่เป็นปกติของศิลปิน (a fact about her work) จึงใช้ Present Simple 'uses'. ประโยคที่สองกล่าวถึงที่มาของเทคนิค ซึ่งเป็นข้อเท็จจริงเกี่ยวกับตัวเธอ จึงใช้ 'learns' ในความหมายว่าเป็นสิ่งที่เธอเรียนรู้และใช้เป็นประจำ (It's a fact about her skills). หากใช้ learned จะหมายถึงเรียนรู้ในอดีตและจบไปแล้ว แต่บริบทนี้หมายถึงเป็นสิ่งที่เธอรู้และนำมาใช้ในปัจจุบัน"
+      },
+      {
+        "question": "Could you lower the volume? The baby ______, and we ______ to wake him up.",
+        "options": [
+          "A. sleeps / are not wanting",
+          "B. is sleeping / don't want",
+          "C. sleeps / don't want",
+          "D. is sleeping / aren't wanting"
+        ],
+        "answer": "B",
+        "explanation": "ส่วนแรก 'The baby...' เป็นการกระทำที่กำลังเกิดขึ้น ณ ขณะที่พูด จึงใช้ Present Continuous 'is sleeping'. ส่วนที่สอง 'want' เป็น State Verb (กริยาแสดงสภาวะ) ซึ่งไม่ใช้ในรูป V-ing ดังนั้นจึงต้องใช้ Present Simple 'don't want'."
+      },
+      {
+        "question": "The new express train to the airport ______ every 30 minutes from Platform 5.",
+        "options": [
+          "A. is departing",
+          "B. depart",
+          "C. departs",
+          "D. are departing"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้กล่าวถึงตารางเวลา (timetable) ที่แน่นอนและทำเป็นประจำ จึงต้องใช้ Present Simple 'departs' (ประธาน The new express train เป็นเอกพจน์ กริยาต้องเติม s)."
+      },
+      {
+        "question": "While my sister ______ a degree in astrophysics, I ______ as a freelance software developer to support my studies.",
+        "options": [
+          "A. pursues / am working",
+          "B. is pursuing / work",
+          "C. pursues / work",
+          "D. is pursuing / am working"
+        ],
+        "answer": "D",
+        "explanation": "ทั้งสองประโยคย่อยกล่าวถึงสถานการณ์ชั่วคราว (temporary situations) ที่เกิดขึ้นในช่วงเวลาปัจจุบัน การเรียนปริญญา (is pursuing) และการทำงานเสริมระหว่างเรียน (am working) ล้วนเป็นกิจกรรมที่ดำเนินอยู่ในช่วงชีวิตตอนนี้ จึงใช้ Present Continuous ทั้งคู่"
+      },
+      {
+        "question": "A: Why are you tasting the soup? B: I ______ it needs more seasoning.",
+        "options": [
+          "A. am tasting / think",
+          "B. taste / am thinking",
+          "C. am tasting / am thinking",
+          "D. taste / think"
+        ],
+        "answer": "A",
+        "explanation": "A ถามถึงการกระทำที่กำลังทำอยู่ (Why are you tasting...?) B ตอบโดยอธิบายการกระทำนั้น (I am tasting...) และให้ความเห็น (I think...) ซึ่ง 'think' ในที่นี้หมายถึง 'believe' เป็น State Verb จึงต้องใช้ Present Simple"
+      },
+      {
+        "question": "It ______ to me that the new policy isn't as effective as the management ______.",
+        "options": [
+          "A. is seeming / hopes",
+          "B. seems / is hoping",
+          "C. is seeming / is hoping",
+          "D. seems / hopes"
+        ],
+        "answer": "D",
+        "explanation": "กริยา 'seem' (ดูเหมือนว่า) เป็น State Verb จึงไม่ใช้ในรูป Continuous ต้องใช้ 'seems'. กริยา 'hope' (หวังว่า) ก็เป็น State Verb เช่นกัน แสดงถึงสภาวะทางความคิดและความรู้สึก จึงใช้ 'hopes' (ประธาน management เป็นเอกพจน์)"
+      }
+    ]
+  },
+  {
+    "id": "17_2",
+    "title": "17.2 Past Simple vs. Past Continuous (ความแตกต่างอดีต)",
+    "explanation": "หัวข้อนี้เราจะเจาะลึกความแตกต่างระหว่างสอง Tenses ที่ใช้บ่อยที่สุดในการเล่าเรื่องในอดีต คือ Past Simple และ Past Continuous เพื่อให้คุณสามารถเล่าเรื่องราวในอดีตได้อย่างมีมิติและเป็นธรรมชาติเหมือนเจ้าของภาษา\n\n**1. Past Simple Tense (Subject + V.2)**\n*   **หน้าที่หลัก:** ใช้พูดถึงเหตุการณ์ที่เกิดขึ้นและ 'จบลงแล้ว' ในอดีตอย่างสมบูรณ์ มักจะระบุเวลาที่ชัดเจน หรือเป็นการเล่าลำดับเหตุการณ์ที่เกิดขึ้นทีละอย่าง\n*   **คีย์เวิร์ด:** yesterday, last night, last week, ago, in 1999, then, next, after that\n*   **ภาพในหัว:** เหมือนการ 'จุด' หรือ 'snapshot' ของเหตุการณ์ที่จบไปแล้ว เช่น 'I finished my project yesterday.' (ฉันทำโปรเจกต์เสร็จเมื่อวานนี้) -> การทำโปรเจกต์สิ้นสุดลงแล้ว\n\n**2. Past Continuous Tense (Subject + was/were + V.ing)**\n*   **หน้าที่หลัก:** ใช้พูดถึงเหตุการณ์ที่ 'กำลังดำเนินอยู่' ณ ช่วงเวลาใดเวลาหนึ่งในอดีต เน้นความต่อเนื่องของการกระทำ หรือใช้เป็นฉากหลัง (background action) ของเรื่องราว\n*   **คีย์เวิร์ด:** while, as, at 8 PM last night, all day yesterday\n*   **ภาพในหัว:** เหมือน 'วิดีโอ' ที่กำลังเล่นอยู่ในช่วงเวลาหนึ่งในอดีต เช่น 'At 8 PM last night, I was watching a movie.' (ตอนสองทุ่มเมื่อคืนนี้ ฉันกำลังดูหนังอยู่) -> การดูหนังยังไม่จบ ณ เวลาสองทุ่ม\n\n**3. การใช้ร่วมกัน (The Interaction): จุดที่สำคัญที่สุด!**\nนี่คือหัวใจของการเรียนรู้เรื่องนี้ เรามักใช้สอง Tenses นี้ร่วมกันเพื่อสร้างเรื่องราวที่น่าสนใจ\n*   **โครงสร้าง:** Past Continuous (เหตุการณ์ที่กำลังดำเนินอยู่ - ยาวกว่า) + Past Simple (เหตุการณ์ที่เข้ามาขัดจังหวะ - สั้นกว่า)\n*   **หลักการ:** ให้จินตนาการว่า Past Continuous คือ 'ฉากหลัง' (background) ที่กำลังดำเนินไปเรื่อยๆ แล้วจู่ๆ ก็มี Past Simple เข้ามาเป็น 'จุดแทรก' (interruption)\n*   **ตัวอย่าง:** 'While I **was walking** home, I **saw** an accident.' (ขณะที่ฉันกำลังเดินกลับบ้าน ฉันก็เห็นอุบัติเหตุ)\n    *   เหตุการณ์ยาว (ฉากหลัง): I **was walking** home (การเดินกลับบ้านกำลังดำเนินอยู่)\n    *   เหตุการณ์สั้น (เข้ามาแทรก): I **saw** an accident (การเห็นเกิดขึ้นและจบลงทันที ขัดจังหวะการเดิน)\n\n**4. การกระทำสองอย่างที่เกิดขึ้นพร้อมกันในอดีต**\n*   หากทั้งสองเหตุการณ์กำลัง 'ดำเนินไปพร้อมๆ กัน' โดยไม่ขัดจังหวะกัน ให้ใช้ Past Continuous ทั้งสองประโยค\n*   **ตัวอย่าง:** 'He **was cooking** dinner while she **was setting** the table.' (เขากำลังทำอาหารเย็นในขณะที่เธอกำลังจัดโต๊ะ) -> ทั้งสองคนกำลังทำกิจกรรมของตัวเองไปพร้อมกัน",
+    "examples": [
+      {
+        "eng": "The detective was examining the evidence when he suddenly noticed a crucial clue.",
+        "thai": "นักสืบกำลังตรวจสอบหลักฐานอยู่ ตอนนั้นเองเขาก็สังเกตเห็นเบาะแสชิ้นสำคัญขึ้นมาทันที (การตรวจสอบหลักฐาน [Past Cont.] เป็นฉากหลังที่ดำเนินอยู่ แล้วการสังเกตเห็น [Past Simple] ก็เข้ามาแทรก)"
+      },
+      {
+        "eng": "While the orchestra was performing a beautiful symphony, a mobile phone rang loudly.",
+        "thai": "ในขณะที่วงออเคสตร้ากำลังบรรเลงซิมโฟนีอันไพเราะ ก็มีเสียงโทรศัพท์มือถือดังขึ้นมาอย่างแรง (การบรรเลง [Past Cont.] กำลังดำเนินอยู่ แล้วเสียงโทรศัพท์ [Past Simple] ก็เข้ามาขัด)"
+      },
+      {
+        "eng": "I didn't hear you knock because I was listening to music with my headphones on.",
+        "thai": "ฉันไม่ได้ยินเสียงคุณเคาะประตูเพราะฉันกำลังฟังเพลงโดยใส่หูฟังอยู่ (อธิบายเหตุผลว่าทำไมถึงไม่ได้ยิน การฟังเพลง [Past Cont.] เป็นกิจกรรมที่กำลังเกิดขึ้นในช่วงเวลานั้น)"
+      },
+      {
+        "eng": "Last year, he traveled to three different countries, experienced diverse cultures, and learned a new language.",
+        "thai": "ปีที่แล้ว เขาเดินทางไปสามประเทศ สัมผัสวัฒนธรรมที่หลากหลาย และเรียนรู้ภาษาใหม่ (ใช้ Past Simple ทั้งหมดเพื่อเล่าลำดับเหตุการณ์ที่เกิดขึ้นและจบลงทีละอย่าง)"
+      },
+      {
+        "eng": "At midnight, most people were sleeping, but a few dedicated astronomers were observing the meteor shower.",
+        "thai": "ตอนเที่ยงคืน คนส่วนใหญ่กำลังนอนหลับ แต่มีนักดาราศาสตร์ผู้ทุ่มเทไม่กี่คนกำลังเฝ้าสังเกตการณ์ฝนดาวตก (แสดงภาพเหตุการณ์สองอย่างที่กำลังดำเนินไปพร้อมกัน [Past Cont. ทั้งคู่] ณ เวลาที่เจาะจงในอดีต)"
+      }
+    ],
+    "common_mistakes": "**1. ใช้ Past Simple แทน Past Continuous สำหรับฉากหลัง (Background Action):**\n*   **ผิด:** When I arrived at the party, everyone danced.\n*   **ถูก:** When I arrived at the party, everyone **was dancing**.\n*   **คำอธิบาย:** การเต้นรำเป็นกิจกรรมที่กำลังดำเนินอยู่แล้วตอนที่เราไปถึง ไม่ใช่ทุกคนเริ่มเต้นพร้อมกันตอนที่เรามาถึง การใช้ Past Continuous ให้ภาพที่ถูกต้องกว่า\n\n**2. ใช้ Past Continuous กับ Stative Verbs:**\n*   Stative Verbs คือกริยาที่แสดงสภาวะ ความรู้สึก ความคิด (เช่น know, believe, understand, love, hate, want, need, seem) เราจะไม่ใช้กริยาเหล่านี้ในรูป Continuous\n*   **ผิด:** I was needing help with my project yesterday.\n*   **ถูก:** I **needed** help with my project yesterday.\n*   **คำอธิบาย:** 'need' เป็นสภาวะความต้องการ ไม่ใช่การกระทำที่กำลังดำเนินอยู่ จึงต้องใช้ Past Simple\n\n**3. สับสนระหว่าง 'while' และ 'when':**\n*   'while' (ขณะที่) มักจะตามด้วย Past Continuous เพื่อเน้นช่วงเวลาที่การกระทำกำลังดำเนินอยู่ (While I was driving...)\n*   'when' (เมื่อ) สามารถตามด้วยได้ทั้ง Past Simple และ Past Continuous ขึ้นอยู่กับว่าเราต้องการเน้นอะไร ถ้าเป็นเหตุการณ์สั้นๆ ที่เข้ามาแทรก จะตามด้วย Past Simple (..., when the phone rang.) ถ้าเป็นการบอกช่วงเวลา จะตามด้วย Past Continuous (When I was young, ...)",
+    "practice_questions": [
+      {
+        "question": "While the chef ______ the main course, the waiter dropped a tray of glasses.",
+        "options": [
+          "A. prepared",
+          "B. was preparing",
+          "C. prepares",
+          "D. had prepared"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้มี 'while' ซึ่งบ่งบอกถึงเหตุการณ์ที่กำลังดำเนินอยู่ (การเตรียมอาหาร) และมีอีกเหตุการณ์หนึ่งเข้ามาแทรก (ทำถาดแก้วตก) ดังนั้น เหตุการณ์ที่เป็นฉากหลังต้องใช้ Past Continuous (was preparing)."
+      },
+      {
+        "question": "The company's CEO ______ a critical decision when the stock market suddenly ______.",
+        "options": [
+          "A. was making / crashed",
+          "B. made / was crashing",
+          "C. was making / was crashing",
+          "D. made / crashed"
+        ],
+        "answer": "A",
+        "explanation": "CEO 'กำลังทำการตัดสินใจ' (was making) ซึ่งเป็นกระบวนการที่ใช้เวลา เป็นฉากหลัง แล้ว 'ตลาดหุ้นก็พังทลายลง' (crashed) ซึ่งเป็นเหตุการณ์สั้นๆ ที่เข้ามาขัดจังหวะพอดี จึงต้องใช้ Past Continuous + Past Simple"
+      },
+      {
+        "question": "At 10 p.m. last night, I ______ to finish my report because the deadline was this morning.",
+        "options": [
+          "A. struggled",
+          "B. struggle",
+          "C. had struggled",
+          "D. was struggling"
+        ],
+        "answer": "D",
+        "explanation": "คำถามระบุเวลาที่เจาะจงในอดีต (At 10 p.m. last night) และถามว่า ณ เวลานั้นกำลังทำอะไรอยู่ ซึ่งเป็นการกระทำที่ต่อเนื่อง จึงต้องใช้ Past Continuous (was struggling)."
+      },
+      {
+        "question": "She ______ down the street, ______ to her favorite podcast, and then ______ a friend she hadn't seen in years.",
+        "options": [
+          "A. was walking / listened / saw",
+          "B. walked / listened / saw",
+          "C. walked / was listening / saw",
+          "D. was walking / was listening / saw"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้เป็นการเล่าลำดับเหตุการณ์ที่เกิดขึ้นทีละอย่างและจบลงไปแล้ว (เดิน -> ฟัง -> เห็น) ดังนั้นจึงควรใช้ Past Simple (walked, listened, saw) ทั้งหมดเพื่อแสดงลำดับของการกระทำ"
+      },
+      {
+        "question": "The children ______ quietly in the backyard while their parents ______ a conversation indoors.",
+        "options": [
+          "A. played / had",
+          "B. were playing / were having",
+          "C. played / were having",
+          "D. were playing / had"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้ใช้ 'while' เพื่อเชื่อมสองเหตุการณ์ที่กำลังดำเนินไปพร้อมๆ กันในอดีตโดยไม่มีอันไหนขัดจังหวะอันไหน (เด็กๆ กำลังเล่น, พ่อแม่กำลังคุย) จึงต้องใช้ Past Continuous ทั้งสองส่วน"
+      },
+      {
+        "question": "I didn't recognize him at first because he ______ a hat and sunglasses.",
+        "options": [
+          "A. wore",
+          "B. wears",
+          "C. was wearing",
+          "D. had worn"
+        ],
+        "answer": "C",
+        "explanation": "การสวมหมวกและแว่นตาเป็นสภาวะที่กำลังดำเนินอยู่ ณ ตอนที่เจอเขา ซึ่งเป็นเหตุผลว่าทำไมถึงจำไม่ได้ (background state) จึงใช้ Past Continuous (was wearing) เพื่ออธิบายสภาพการแต่งกายในขณะนั้น"
+      },
+      {
+        "question": "The power ______ out while the surgeon ______ a delicate operation.",
+        "options": [
+          "A. went / performed",
+          "B. was going / performed",
+          "C. went / was performing",
+          "D. was going / was performing"
+        ],
+        "answer": "C",
+        "explanation": "ศัลยแพทย์ 'กำลังทำการผ่าตัด' (was performing) ซึ่งเป็นเหตุการณ์ที่ดำเนินอยู่เป็นฉากหลัง แล้ว 'ไฟก็ดับ' (went out) ซึ่งเป็นเหตุการณ์สั้นๆ ที่เข้ามาแทรก จึงเป็น Past Simple + Past Continuous"
+      },
+      {
+        "question": "He ______ the car and ______ into the building, but he forgot that he ______ the keys inside.",
+        "options": [
+          "A. was stopping / was running / left",
+          "B. stopped / ran / had left",
+          "C. stopped / ran / left",
+          "D. was stopping / ran / was leaving"
+        ],
+        "answer": "C",
+        "explanation": "เป็นการเล่าลำดับเหตุการณ์ 3 อย่างที่เกิดขึ้นต่อเนื่องกันในอดีต: เขา 'หยุดรถ' (stopped) แล้วก็ 'วิ่งเข้าไป' (ran) แต่เขาก็ 'ลืมกุญแจไว้' (left) ทั้งหมดเป็นเหตุการณ์ที่จบลงแล้ว จึงใช้ Past Simple ทั้งหมด"
+      },
+      {
+        "question": "What ______ at this exact time yesterday? You didn't answer my calls.",
+        "options": [
+          "A. did you do",
+          "B. were you doing",
+          "C. have you done",
+          "D. you did"
+        ],
+        "answer": "B",
+        "explanation": "คำถามต้องการทราบว่า ณ เวลาที่เจาะจงในอดีต (this exact time yesterday) กำลังทำอะไรอยู่ ซึ่งเป็นการถามถึงกิจกรรมที่กำลังดำเนินอยู่ จึงต้องใช้ Past Continuous (were you doing)."
+      },
+      {
+        "question": "They ______ about moving to a new city, but they never actually ______ it.",
+        "options": [
+          "A. were always talking / did",
+          "B. always talked / were doing",
+          "C. were always talking / were doing",
+          "D. always talked / did"
+        ],
+        "answer": "A",
+        "explanation": "'were always talking' ใช้เพื่อแสดงการกระทำที่เกิดขึ้นซ้ำๆ ในอดีตที่น่ารำคาญหรือเป็นนิสัย (พวกเขามักจะพูดเรื่องย้ายเมืองอยู่เรื่อยๆ) เป็นการเน้นความต่อเนื่อง ส่วนการกระทำจริง ('did it') เป็นเหตุการณ์ที่จบลง (ในที่นี้คือไม่เคยทำ) จึงใช้ Past Simple"
+      }
+    ]
+  },
+  {
+    "id": "17_3",
+    "title": "17.3 Present Perfect (ประสบการณ์/อดีตถึงปัจจุบัน)",
+    "explanation": "Present Perfect Tense (Subject + have/has + V.3) คือ Tense ที่ใช้เชื่อมโยงระหว่าง 'อดีต' กับ 'ปัจจุบัน' ทำให้มันมีความซับซ้อนกว่า Past Simple ที่จบไปแล้วในอดีต หัวใจของมันคือ 'ผลลัพธ์' หรือ 'ความต่อเนื่อง' ที่ส่งมาถึงตอนนี้\n\nเราสามารถแบ่งการใช้งานหลักๆ ได้ 3 รูปแบบ:\n\n1. **เล่าประสบการณ์ (Life Experiences):**\n   - ใช้เมื่อพูดถึงสิ่งที่ 'เคย' หรือ 'ไม่เคย' ทำในชีวิต โดยไม่ระบุเวลาที่ชัดเจน เพราะเวลาไม่ใช่ประเด็นสำคัญเท่ากับตัวประสบการณ์เอง\n   - มักใช้กับคำว่า ever (เคย), never (ไม่เคย), before (มาก่อน), once/twice/many times (จำนวนครั้ง)\n   - ตัวอย่าง: \"I have traveled to more than 20 countries.\" (ฉันเคยเดินทางมาแล้วกว่า 20 ประเทศ - ไม่ได้บอกว่าเมื่อไหร่ แต่บอกว่ามีประสบการณ์นี้)\n\n2. **การกระทำที่ยังไม่สิ้นสุด (Unfinished Actions / Duration from Past until Now):**\n   - ใช้อธิบายเหตุการณ์หรือการกระทำที่เริ่มต้นในอดีต และยังคงดำเนินต่อเนื่องมาจนถึงปัจจุบัน\n   - มักใช้กับ for (เป็นเวลา...) และ since (ตั้งแต่...)\n   - **For + ระยะเวลา (a period of time):** for three years, for a long time, for two weeks\n   - **Since + จุดเริ่มต้นของเวลา (a point in time):** since 2010, since I was a child, since yesterday\n   - ตัวอย่าง: \"She has worked as a project manager since she graduated.\" (เธอทำงานเป็นผู้จัดการโครงการมาตลอดตั้งแต่เรียนจบ และตอนนี้ก็ยังทำอยู่)\n\n3. **การกระทำในอดีตที่ส่งผลถึงปัจจุบัน (Past Actions with Present Results):**\n   - ใช้พูดถึงเหตุการณ์ที่เพิ่งจบไปไม่นาน หรือเหตุการณ์ในอดีตที่ผลของมันยังคงสำคัญอยู่ในขณะที่พูด\n   - มักใช้กับ just (เพิ่งจะ), already (เรียบร้อยแล้ว), yet (ยัง - ในประโยคคำถาม/ปฏิเสธ)\n   - ตัวอย่าง: \"I've lost my wallet.\" (ฉันทำกระเป๋าเงินหาย - และผลคือตอนนี้ฉันไม่มีเงินและหาไม่เจอ) เทียบกับ \"I lost my wallet last week.\" (Past Simple - เล่าเรื่องที่จบไปแล้ว อาจจะเจอแล้วก็ได้)",
+    "examples": [
+      {
+        "eng": "The company has invested heavily in renewable energy sources over the last decade.",
+        "thai": "บริษัทได้ลงทุนอย่างหนักในแหล่งพลังงานหมุนเวียนตลอดทศวรรษที่ผ่านมา (การกระทำที่เริ่มในอดีตและดำเนินต่อเนื่องมาถึงปัจจุบัน และยังคงเป็นเช่นนั้น)"
+      },
+      {
+        "eng": "I've read all the books by that author, so I'm really excited about his new release.",
+        "thai": "ฉันอ่านหนังสือทุกเล่มของนักเขียนคนนั้นแล้ว ดังนั้นฉันจึงตื่นเต้นกับเล่มใหม่ของเขามาก (ประสบการณ์ในอดีตที่ส่งผลต่อความรู้สึกในปัจจุบัน)"
+      },
+      {
+        "eng": "Have you ever negotiated a salary increase for yourself?",
+        "thai": "คุณเคยเจรจาต่อรองขอขึ้นเงินเดือนให้ตัวเองไหม? (ถามถึงประสบการณ์ชีวิต โดยไม่เจาะจงเวลา)"
+      },
+      {
+        "eng": "The government has just announced new environmental regulations.",
+        "thai": "รัฐบาลเพิ่งจะประกาศกฎระเบียบด้านสิ่งแวดล้อมใหม่ (เหตุการณ์เพิ่งจบ แต่ผลของมันกำลังจะเริ่มขึ้นและสำคัญในปัจจุบัน)"
+      },
+      {
+        "eng": "He hasn't finished the financial report yet; he needs more time.",
+        "thai": "เขายังทำรายงานการเงินไม่เสร็จเลย เขายังต้องการเวลาเพิ่ม (การกระทำที่ยังไม่เสร็จสิ้น และส่งผลต่อปัจจุบันว่างานยังไม่พร้อมส่ง)"
+      }
+    ],
+    "common_mistakes": "จุดที่คนไทยมักพลาดในการใช้ Present Perfect:\n\n1. **สับสนกับ Past Simple:** นี่คือข้อผิดพลาดที่พบบ่อยที่สุด คนไทยมักใช้ Present Perfect กับเหตุการณ์ที่จบไปแล้วในอดีตและมี 'คำบอกเวลาที่เจาะจง' ซึ่งผิดหลักไวยากรณ์\n   - **ผิด:** I have seen that movie yesterday.\n   - **ถูก:** I saw that movie yesterday. (เมื่อมี yesterday, last week, in 2020, ...ago ต้องใช้ Past Simple เสมอ)\n   - **ถูก:** I have seen that movie. (ฉันเคยดูหนังเรื่องนั้นแล้ว - บอกเล่าประสบการณ์ ไม่ระบุเวลา)\n\n2. **ใช้ 'for' และ 'since' สลับกัน:**\n   - **ผิด:** We have known each other since five years.\n   - **ถูก:** We have known each other for five years. (for + ระยะเวลา)\n   - **ถูก:** We have known each other since 2019. (since + จุดเริ่มต้นของเวลา)\n\n3. **ลืมเปลี่ยนกริยาเป็นช่องที่ 3 (V.3):** เนื่องจากโครงสร้างคือ have/has + V.3 บางครั้งอาจเผลอใช้ V.2 หรือ V.1 แทน\n   - **ผิด:** She has wrote three emails this morning.\n   - **ถูก:** She has written three emails this morning.\n\n4. **สับสนระหว่าง 'gone' กับ 'been':**\n   - 'has/have gone to...' หมายถึง ไปแล้วและ 'ยังไม่กลับมา' (He has gone to the bank.)\n   - 'has/have been to...' หมายถึง 'เคยไป' ที่นั่นมาแล้ว (ตอนนี้กลับมาแล้ว) (He has been to the bank.)",
+    "practice_questions": [
+      {
+        "question": "The team ______ any significant progress on the project since the last meeting.",
+        "options": [
+          "A. didn't make",
+          "B. hasn't made",
+          "C. wasn't making",
+          "D. don't make"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้มีคำว่า 'since' ซึ่งเป็นตัวบ่งชี้ของ Present Perfect ที่ใช้กับการกระทำที่เริ่มในอดีตและดำเนินมาถึงปัจจุบัน ดังนั้นโครงสร้างที่ถูกต้องคือ has/hasn't + V.3"
+      },
+      {
+        "question": "I can't log in to my account. I think I ______ my password.",
+        "options": [
+          "A. forgot",
+          "B. have forgotten",
+          "C. was forgetting",
+          "D. forget"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคแรก ('I can't log in') คือผลลัพธ์ในปัจจุบันที่เกิดจากการกระทำในอดีต (ลืมรหัสผ่าน) จึงต้องใช้ Present Perfect (have forgotten) เพื่อเชื่อมโยงเหตุและผลเข้าด้วยกัน"
+      },
+      {
+        "question": "______ you ever considered a career change? The tech industry is booming.",
+        "options": [
+          "A. Did",
+          "B. Were",
+          "C. Have",
+          "D. Do"
+        ],
+        "answer": "C",
+        "explanation": "คำว่า 'ever' ใช้เพื่อถามเกี่ยวกับประสบการณ์ชีวิตโดยไม่เจาะจงเวลา ซึ่งเป็นลักษณะเด่นของการใช้ Present Perfect ในประโยคคำถาม จึงต้องขึ้นต้นด้วย 'Have'"
+      },
+      {
+        "question": "Our company ______ its workforce by 20% over the past two years.",
+        "options": [
+          "A. has expanded",
+          "B. expanded",
+          "C. expands",
+          "D. was expanding"
+        ],
+        "answer": "A",
+        "explanation": "วลี 'over the past two years' หมายถึงช่วงเวลาที่เริ่มในอดีตและดำเนินมาจนถึงปัจจุบัน ซึ่งเป็นเงื่อนไขที่ต้องใช้ Present Perfect Tense"
+      },
+      {
+        "question": "She can speak German fluently because she ______ in Berlin for five years.",
+        "options": [
+          "A. has lived",
+          "B. lived",
+          "C. was living",
+          "D. lives"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้มีสองทางเลือกที่อาจเป็นไปได้คือ 'lived' (Past Simple) และ 'has lived' (Present Perfect) แต่เนื่องจากผลลัพธ์ (การพูดเยอรมันได้คล่อง) ยังคงอยู่ถึงปัจจุบัน การใช้ Present Perfect จึงสื่อความหมายได้ดีที่สุดว่าประสบการณ์การอยู่ที่เบอร์ลินยังคงส่งผลอยู่"
+      },
+      {
+        "question": "This is the first time I ______ an authentic Italian carbonara.",
+        "options": [
+          "A. am eating",
+          "B. ate",
+          "C. eat",
+          "D. have ever eaten"
+        ],
+        "answer": "D",
+        "explanation": "สำนวน 'This is the first/second/best time...' มักจะตามด้วย Present Perfect เพื่ออธิบายประสบการณ์ครั้งแรก/ครั้งที่สอง/ที่ดีที่สุด ดังนั้น 'have ever eaten' จึงเป็นคำตอบที่ถูกต้องที่สุด"
+      },
+      {
+        "question": "Scientists ______ a potential cure for the disease, but it hasn't been approved for public use yet.",
+        "options": [
+          "A. discovered",
+          "B. have discovered",
+          "C. were discovering",
+          "D. discover"
+        ],
+        "answer": "B",
+        "explanation": "การค้นพบเกิดขึ้นในอดีต แต่ผลของมันยังคงสำคัญอย่างยิ่งในปัจจุบัน และประโยคหลังที่ใช้ 'hasn't been approved yet' ก็เป็น Present Perfect เช่นกัน การใช้ Tense เดียวกันทำให้ประโยคมีความสอดคล้องกัน"
+      },
+      {
+        "question": "My manager is not here. She ______ to a conference in Singapore.",
+        "options": [
+          "A. has been",
+          "B. went",
+          "C. has gone",
+          "D. was going"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคบอกว่าผู้จัดการไม่อยู่ที่นี่ 'ตอนนี้' หมายความว่าเธอไปแล้วและยังไม่กลับมา ซึ่งตรงกับความหมายของ 'has gone' ส่วน 'has been' หมายถึงเคยไปมาแล้ว (และกลับมาแล้ว)"
+      },
+      {
+        "question": "We ______ for a response from the headquarters for over a week now.",
+        "options": [
+          "A. are waiting",
+          "B. waited",
+          "C. wait",
+          "D. have been waiting"
+        ],
+        "answer": "D",
+        "explanation": "แม้ว่าหัวข้อนี้จะเน้น Present Perfect Simple แต่ Present Perfect Continuous (have been + V.ing) ก็ใช้ในบริบทคล้ายกันคือเหตุการณ์ที่เริ่มในอดีตและดำเนินต่อเนื่องมาถึงปัจจุบัน แต่เน้น 'ความต่อเนื่อง' ของการกระทำมากกว่า ในตัวเลือกนี้ 'have been waiting' เหมาะสมที่สุดเพราะเน้นว่าการรอยังคงดำเนินอยู่"
+      },
+      {
+        "question": "Although he ______ many challenges in his life, he has never given up hope.",
+        "options": [
+          "A. has faced",
+          "B. faced",
+          "C. was facing",
+          "D. faces"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้พูดถึงประสบการณ์ตลอดชีวิตของเขา (challenges in his life) ซึ่งเป็นภาพรวม ไม่ได้เจาะจงเหตุการณ์ใดเหตุการณ์หนึ่งในอดีต ดังนั้น Present Perfect (has faced) จึงเหมาะสมที่สุด"
+      }
+    ]
+  },
+  {
+    "id": "17_4",
+    "title": "17.4 Present Perfect Continuous (เน้นความต่อเนื่อง)",
+    "explanation": "Present Perfect Continuous Tense (Subject + have/has + been + V-ing) คือ Tense ที่เป็นการผสมผสานระหว่าง Present Perfect (เหตุการณ์ในอดีตที่ส่งผลถึงปัจจุบัน) และ Continuous (ความต่อเนื่อง) หัวใจสำคัญของมันคือการ 'เน้นย้ำความต่อเนื่องของการกระทำ' ครับ\n\n**โครงสร้าง:**\n- ประโยคบอกเล่า: Subject + have/has + been + V-ing\n- ประโยคปฏิเสธ: Subject + haven't/hasn't + been + V-ing\n- ประโยคคำถาม: Have/Has + Subject + been + V-ing?\n\n**การใช้งานหลักมี 2 กรณี:**\n\n**1. เหตุการณ์ที่เริ่มในอดีต, ดำเนินต่อเนื่องมาจนถึงปัจจุบัน และ 'ยังทำอยู่' ในขณะที่พูด**\n   - มักจะมาพร้อมกับคำบอกเวลา เช่น for (เป็นเวลา), since (ตั้งแต่), all day/morning/week, lately, recently\n   - จุดประสงค์คือการเน้นที่ 'ระยะเวลา' (duration) ว่าทำสิ่งนั้นมานานแค่ไหนแล้ว\n   - ตัวอย่าง: `I have been studying for three hours.` (ฉันเรียนหนังสือมา 3 ชั่วโมงแล้ว และตอนนี้ก็ยังเรียนอยู่)\n\n**2. เหตุการณ์ที่เพิ่งจะ 'จบลง' ไปไม่นาน แต่ยังทิ้ง 'ผลลัพธ์' หรือ 'ร่องรอย' ให้เห็นอย่างชัดเจนในปัจจุบัน**\n   - การกระทำได้สิ้นสุดลงแล้ว แต่ผลของมันยังคงอยู่\n   - ตัวอย่าง: `The ground is wet because it has been raining.` (พื้นเปียก เพราะฝนมันเพิ่งจะหยุดตกไป)\n   - ตัวอย่าง: `Why are you out of breath?` `Because I have been running.` (ทำไมคุณหอบ? เพราะฉันเพิ่งไปวิ่งมา)\n\n**ข้อแตกต่างสำคัญกับ Present Perfect Simple (S + have/has + V.3):**\n- **Present Perfect Continuous (เน้นการกระทำ, ระยะเวลา):** `I have been writing my report.` (ฉันกำลังเขียนรายงานอยู่เลย เน้น 'กิจกรรม' การเขียน อาจจะยังไม่เสร็จสิ้น)\n- **Present Perfect Simple (เน้นผลลัพธ์, ความสมบูรณ์):** `I have written my report.` (ฉันเขียนรายงาน 'เสร็จเรียบร้อยแล้ว' ผลคือตอนนี้มีรายงาน 1 ฉบับพร้อมส่ง)",
+    "examples": [
+      {
+        "eng": "He has been trying to fix the sophisticated software bug all morning, but he hasn't found a solution yet.",
+        "thai": "เขาพยายามแก้ไขข้อบกพร่องของซอฟต์แวร์ที่ซับซ้อนมาตลอดทั้งเช้า แต่ก็ยังหาวิธีแก้ไม่ได้ (เน้นการกระทำที่ต่อเนื่องและยังไม่เสร็จสิ้น)"
+      },
+      {
+        "eng": "Look at the mess in the kitchen! Who has been cooking in here?",
+        "thai": "ดูครัวที่เละสิ! ใครมาทำอาหารในนี้เนี่ย? (การทำอาหารอาจจะจบไปแล้ว แต่ผลลัพธ์คือความเละยังคงอยู่ให้เห็น)"
+      },
+      {
+        "eng": "We have been discussing the potential merger for weeks, but the board of directors is still undecided.",
+        "thai": "เราได้หารือเกี่ยวกับการควบรวมกิจการที่เป็นไปได้มาหลายสัปดาห์แล้ว แต่คณะกรรมการบริหารก็ยังคงตัดสินใจไม่ได้ (เน้นระยะเวลาของการหารือที่ยังดำเนินอยู่)"
+      },
+      {
+        "eng": "She hasn't been feeling motivated lately, which is affecting her performance at work.",
+        "thai": "ช่วงนี้เธอรู้สึกไม่ค่อยมีแรงบันดาลใจ ซึ่งมันส่งผลกระทบต่อประสิทธิภาพการทำงานของเธอ (เน้นสภาวะที่ต่อเนื่องมาสักพักในช่วงหลังๆ)"
+      },
+      {
+        "eng": "How long have you been waiting for the visa approval? It must be frustrating.",
+        "thai": "คุณรอการอนุมัติวีซ่ามานานแค่ไหนแล้ว? มันคงจะน่าหงุดหงิดน่าดู (ถามถึงระยะเวลาของการรอคอยที่ยังไม่สิ้นสุด)"
+      }
+    ],
+    "common_mistakes": "1. **สับสนกับ Present Continuous:** เมื่อมีคำบอกเวลาที่บ่งบอกความต่อเนื่องจากอดีตถึงปัจจุบัน เช่น 'for' หรือ 'since' ต้องใช้ Present Perfect Continuous เท่านั้น\n   - **ผิด:** `I am working here for 5 years.`\n   - **ถูก:** `I have been working here for 5 years.`\n\n2. **ใช้กับ Stative Verbs (กริยาแสดงสภาวะ):** Tense นี้เน้น 'การกระทำ' (Action) จึงไม่สามารถใช้กับกริยาที่ไม่ใช่การกระทำ เช่น know, believe, understand, love, own, seem, want ได้ ในกรณีนี้ให้กลับไปใช้ Present Perfect Simple (have/has + V.3) แทน\n   - **ผิด:** `I have been knowing him for a long time.`\n   - **ถูก:** `I have known him for a long time.`\n   - **ผิด:** `They have been owning this company since 1990.`\n   - **ถูก:** `They have owned this company since 1990.`\n\n3. **แยกไม่ออกจาก Present Perfect Simple:** ไม่เข้าใจ 'จุดเน้น' ที่แตกต่างกัน\n   - `She has been painting the fence.` (เธอกำลังทาสีรั้วอยู่ เน้น 'กิจกรรม' และระยะเวลา อาจจะยังไม่เสร็จ หรือเพิ่งเสร็จและยังเหนื่อยอยู่)\n   - `She has painted the fence.` (เธอทาสีรั้ว 'เสร็จแล้ว' เน้น 'ผลลัพธ์' คือตอนนี้รั้วมีสีใหม่แล้ว)",
+    "practice_questions": [
+      {
+        "question": "The team ______ on this complex project for over six months, and they are finally nearing completion.",
+        "options": [
+          "A. works",
+          "B. is working",
+          "C. has been working",
+          "D. has worked"
+        ],
+        "answer": "C",
+        "explanation": "คำว่า 'for over six months' บอกถึงระยะเวลาที่ต่อเนื่องจากอดีตถึงปัจจุบันอย่างชัดเจน และการทำงานในโครงการยังคงดำเนินอยู่ จึงต้องใช้ Present Perfect Continuous เพื่อเน้นความต่อเนื่องของการทำงาน"
+      },
+      {
+        "question": "Your hands are covered in paint. ______ the spare bedroom all afternoon?",
+        "options": [
+          "A. Have you been painting",
+          "B. Did you paint",
+          "C. Are you painting",
+          "D. Do you paint"
+        ],
+        "answer": "A",
+        "explanation": "คำถามนี้เกิดจากผลลัพธ์ที่เห็นในปัจจุบัน ('Your hands are covered in paint') เพื่อถามถึงกิจกรรมที่ดำเนินมาตลอดช่วงบ่าย ('all afternoon') ซึ่งเป็นสาเหตุของผลลัพธ์นั้น จึงใช้ Present Perfect Continuous"
+      },
+      {
+        "question": "He looks exhausted because he ______ enough sleep lately.",
+        "options": [
+          "A. isn't getting",
+          "B. hasn't been getting",
+          "C. didn't get",
+          "D. doesn't get"
+        ],
+        "answer": "B",
+        "explanation": "คำว่า 'lately' (ช่วงนี้, หมู่นี้) เป็นคำบอกเวลาที่ใช้บ่อยกับ Present Perfect Tenses ประโยคนี้เน้นสภาวะที่ต่อเนื่องมาสักพัก (การนอนไม่พอ) ซึ่งส่งผลให้เขาดูเหนื่อยล้าในปัจจุบัน จึงใช้รูปปฏิเสธของ Present Perfect Continuous"
+      },
+      {
+        "question": "How long ______ for the results of the interview to be announced?",
+        "options": [
+          "A. you have been waiting",
+          "B. have you been waiting",
+          "C. are you waiting",
+          "D. did you wait"
+        ],
+        "answer": "B",
+        "explanation": "เป็นประโยคคำถามที่ใช้ 'How long' เพื่อถามถึงระยะเวลาที่การกระทำ (การรอ) ดำเนินมาอย่างต่อเนื่อง โครงสร้างคำถามที่ถูกต้องคือ 'Have/Has + subject + been + V-ing?'"
+      },
+      {
+        "question": "The company's profits ______ steadily for the last two quarters due to the new marketing strategy.",
+        "options": [
+          "A. increase",
+          "B. are increasing",
+          "C. have been increasing",
+          "D. have increased"
+        ],
+        "answer": "C",
+        "explanation": "'for the last two quarters' เป็นการระบุช่วงเวลาที่ต่อเนื่องจากอดีตถึงปัจจุบัน การที่กำไรเพิ่มขึ้นอย่างต่อเนื่อง (steadily) ตลอดช่วงเวลานี้ เหมาะสมที่สุดที่จะใช้ Present Perfect Continuous เพื่อเน้นย้ำถึงแนวโน้มที่ดำเนินมาตลอด"
+      },
+      {
+        "question": "I ______ this author's books for years, but this is the first time I've met him in person.",
+        "options": [
+          "A. have been admiring",
+          "B. am admiring",
+          "C. admire",
+          "D. have admired"
+        ],
+        "answer": "D",
+        "explanation": "นี่คือข้อยกเว้นที่สำคัญ! คำว่า 'admire' (ชื่นชม) จัดเป็น Stative Verb (กริยาแสดงสภาวะความรู้สึก) ซึ่งโดยทั่วไปไม่สามารถใช้ในรูป Continuous Tense ได้ ดังนั้น แม้จะมี 'for years' ที่บ่งบอกระยะเวลา เราต้องเปลี่ยนไปใช้ Present Perfect Simple แทน"
+      },
+      {
+        "question": "It ______ non-stop since yesterday, and the meteorologist predicts it will continue until tomorrow.",
+        "options": [
+          "A. rains",
+          "B. is raining",
+          "C. has rained",
+          "D. has been raining"
+        ],
+        "answer": "D",
+        "explanation": "คำว่า 'since yesterday' บอกจุดเริ่มต้นในอดีต และประโยคบอกว่าฝนยังคงตกต่อเนื่องมาจนถึงปัจจุบัน (และจะตกต่อไป) การใช้ Present Perfect Continuous จึงเหมาะสมที่สุดเพื่อเน้นความต่อเนื่องที่ไม่ขาดสาย (non-stop)"
+      },
+      {
+        "question": "She ______ to the gym very often recently, which explains why she feels less energetic.",
+        "options": [
+          "A. hasn't been going",
+          "B. isn't going",
+          "C. doesn't go",
+          "D. didn't go"
+        ],
+        "answer": "A",
+        "explanation": "'recently' (ช่วงหลังๆ นี้) เป็นคำบอกใบ้ของ Present Perfect Tenses ประโยคนี้ต้องการสื่อว่า 'การไม่ไปยิม' เป็นสิ่งที่เกิดขึ้นต่อเนื่องในช่วงเวลาหนึ่งซึ่งส่งผลถึงปัจจุบัน จึงใช้รูปปฏิเสธของ Present Perfect Continuous"
+      },
+      {
+        "question": "The archaeologists ______ the ancient ruins for a decade, hoping to uncover more secrets.",
+        "options": [
+          "A. have been excavating",
+          "B. are excavating",
+          "C. excavate",
+          "D. were excavating"
+        ],
+        "answer": "A",
+        "explanation": "'for a decade' (เป็นเวลาหนึ่งทศวรรษ) บ่งบอกระยะเวลาที่ยาวนานและต่อเนื่องจากอดีตถึงปัจจุบัน การขุดค้น (excavating) ยังคงดำเนินต่อไปเพื่อค้นหาความลับเพิ่มเติม จึงต้องใช้ Present Perfect Continuous"
+      },
+      {
+        "question": "Why is the manager so upset? Because he ______ with an unreliable supplier all morning.",
+        "options": [
+          "A. dealt",
+          "B. has been dealing",
+          "C. is dealing",
+          "D. has dealt"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้อธิบายสาเหตุของอารมณ์ในปัจจุบัน ('Why is the manager so upset?') ด้วยกิจกรรมที่ดำเนินมาตลอดช่วงเช้า ('all morning') และอาจจะเพิ่งจบลง การใช้ Present Perfect Continuous เหมาะสมที่สุดเพื่อเชื่อมโยงกิจกรรมที่ต่อเนื่องกับผลลัพธ์ในปัจจุบัน"
+      }
+    ]
+  },
+  {
+    "id": "17_5",
+    "title": "17.5 Past Perfect & Past Perfect Continuous (อดีตซ้อนอดีต)",
+    "explanation": "Past Perfect และ Past Perfect Continuous เป็น Tense ที่ใช้พูดถึง 'อดีตซ้อนอดีต' หมายความว่า เราจะใช้ Tense สองตัวนี้เพื่อเล่าถึงเหตุการณ์ที่เกิดขึ้นและจบลง *ก่อน* อีกเหตุการณ์หนึ่งในอดีต ซึ่งเหตุการณ์ที่เกิดทีหลังมักจะใช้ Past Simple (V.2) ครับ\n\n**1. Past Perfect (S + had + V.3)**\n*   **หัวใจหลัก:** ใช้เน้นว่าการกระทำหนึ่ง *เสร็จสิ้นสมบูรณ์แล้ว* ก่อนที่อีกการกระทำในอดีตจะเกิดขึ้น\n*   **โครงสร้าง:** Subject + had + Verb 3\n*   **การใช้งาน:** เพื่อบอกลำดับเหตุการณ์ในอดีตอย่างชัดเจนว่าอะไรเกิดก่อน (Past Perfect) อะไรเกิดหลัง (Past Simple) เปรียบเสมือนการเล่าเรื่องย้อนหลังไปอีกชั้นหนึ่ง\n*   **คำบอกใบ้:** by the time, before, after, when, already, just, until\n\n**2. Past Perfect Continuous (S + had + been + V.ing)**\n*   **หัวใจหลัก:** ใช้เน้น *ความต่อเนื่อง* และ *ระยะเวลา* ของการกระทำที่ดำเนินมาเรื่อยๆ ก่อนที่อีกการกระทำในอดีตจะเข้ามาแทรกหรือเกิดขึ้นตามมา\n*   **โครงสร้าง:** Subject + had + been + Verb-ing\n*   **การใช้งาน:** ต้องการแสดงให้เห็นว่าการกระทำแรกนั้นทำมานานแค่ไหน (duration) และส่งผลให้เกิดอะไรตามมาในอดีต (เช่น เหนื่อย, เปียก, ห้องรก)\n*   **คำบอกใบ้:** for (a duration), since (a point in time), all day/morning/night\n\n**ข้อแตกต่างที่สำคัญ:**\n*   **Past Perfect (had done):** เน้น 'ผล' หรือ 'ความสำเร็จ' ของการกระทำที่จบไปแล้ว เช่น `When I arrived, he had painted the fence.` (ตอนฉันมาถึง เขา *ทาสีรั้วเสร็จแล้ว*)\n*   **Past Perfect Continuous (had been doing):** เน้น 'กระบวนการ' หรือ 'ระยะเวลา' ของการกระทำ เช่น `When I arrived, his clothes were covered in paint because he had been painting the fence.` (ตอนฉันมาถึง เสื้อผ้าเขาเลอะสีไปหมด เพราะเขา *กำลังทาสีรั้วอยู่* มาสักพักแล้ว)",
+    "examples": [
+      {
+        "eng": "By the time the investigators arrived at the crime scene, the culprit had already concealed all the evidence.",
+        "thai": "กว่าที่เจ้าหน้าที่สืบสวนจะมาถึงที่เกิดเหตุ คนร้ายก็ได้ซ่อนหลักฐานทั้งหมดไปเรียบร้อยแล้ว (การซ่อนหลักฐาน (Past Perfect) เกิดขึ้นและเสร็จสิ้นก่อน การมาถึงของเจ้าหน้าที่ (Past Simple))"
+      },
+      {
+        "eng": "She was disappointed because the special edition book she wanted to buy had sold out just minutes before she got to the store.",
+        "thai": "เธอผิดหวังมาก เพราะหนังสือฉบับพิเศษที่เธออยากซื้อได้ขายหมดไปก่อนหน้าที่เธอจะไปถึงร้านเพียงไม่กี่นาที (หนังสือขายหมด (Past Perfect) เกิดก่อน เธอไปถึงร้าน (Past Simple))"
+      },
+      {
+        "eng": "He was exhausted on Monday morning because he had been renovating his apartment all weekend without a break.",
+        "thai": "เช้าวันจันทร์เขารู้สึกเหนื่อยล้ามาก เพราะเขาต่อเติมอพาร์ตเมนต์มาตลอดสุดสัปดาห์โดยไม่ได้พักเลย (การต่อเติม (Past Perfect Continuous) ดำเนินมาตลอด และส่งผลให้เขาเหนื่อย (Past Simple))"
+      },
+      {
+        "eng": "The negotiation team felt confident because they had been preparing their counter-offers for weeks before the final meeting.",
+        "thai": "ทีมเจรจารู้สึกมั่นใจมาก เพราะพวกเขาได้เตรียมข้อเสนอโต้กลับมาเป็นเวลาหลายสัปดาห์ก่อนการประชุมรอบสุดท้าย (การเตรียมตัว (Past Perfect Continuous) เน้นระยะเวลาที่ทำมาอย่างต่อเนื่อง ก่อนที่จะมีการประชุม (Past Simple))"
+      },
+      {
+        "eng": "I didn't recognize my hometown. They had built so many new skyscrapers since I had last visited.",
+        "thai": "ฉันจำบ้านเกิดตัวเองไม่ได้เลย พวกเขาสร้างตึกระฟ้าใหม่ๆ ขึ้นมามากมายตั้งแต่ครั้งล่าสุดที่ฉันมาเยี่ยม (การสร้างตึก (Past Perfect) เกิดขึ้นในช่วงเวลาระหว่างอดีต (การเยี่ยมครั้งล่าสุด) กับอดีตอีกครั้ง (การกลับมาปัจจุบัน))"
+      }
+    ],
+    "common_mistakes": "1. **ใช้ Past Simple แทน Past Perfect ทั้งสองเหตุการณ์:** คนไทยมักจะเล่าเรื่องในอดีตโดยใช้ Past Simple ทั้งหมด เช่น `When I arrived, he left.` ซึ่งจะแปลว่า 'พอฉันมาถึง เขาก็ออกไป' (เกิดขึ้นแทบจะพร้อมกัน) แต่ถ้าต้องการจะสื่อว่าเขาไปก่อนแล้ว ต้องใช้ `When I arrived, he had already left.`\n\n2. **สับสนกับ Present Perfect:** Past Perfect เชื่อมโยงอดีตกับอดีตเท่านั้น ไม่เกี่ยวกับปัจจุบันเลย หากมีแค่เหตุการณ์เดียวในอดีตและไม่มีจุดอ้างอิงอื่น ให้ใช้ Past Simple เช่น `I finished my work yesterday.` (ผิด: I had finished my work yesterday.)\n\n3. **ใช้ Past Perfect แทน Past Perfect Continuous:** เมื่อต้องการเน้น 'ระยะเวลา' ที่ทำสิ่งนั้นมานาน ควรใช้ Past Perfect Continuous เพื่อให้ความหมายชัดเจนขึ้น เช่น `He was tired because he had been driving for 10 hours.` (เขาเหนื่อยเพราะขับรถมา 10 ชั่วโมง) จะสื่อถึงความต่อเนื่องได้ดีกว่า `He had driven for 10 hours.`\n\n4. **ใช้ Past Perfect Continuous กับ Stative Verbs:** กริยาที่แสดงสภาวะ (Stative Verbs) เช่น know, believe, understand, own, seem, love จะไม่ใช้ในรูป Continuous Tense\n    *   ผิด: `I had been knowing him for five years before he moved away.`\n    *   ถูก: `I had known him for five years before he moved away.`",
+    "practice_questions": [
+      {
+        "question": "By the time the paramedics arrived, the victim ______ consciousness.",
+        "options": [
+          "A. already regained",
+          "B. had already regained",
+          "C. had already been regaining",
+          "D. was already regaining"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้มี 'by the time' ซึ่งเป็นสัญญาณว่ามี 2 เหตุการณ์ในอดีต เหตุการณ์ที่เกิดก่อน (ฟื้นคืนสติ) ต้องใช้ Past Perfect (had + V.3) ส่วนเหตุการณ์ที่เกิดทีหลัง (หน่วยกู้ชีพมาถึง) ใช้ Past Simple (arrived) ดังนั้น 'had already regained' จึงถูกต้องที่สุด"
+      },
+      {
+        "question": "Her phone's screen was cracked because she ______ it just moments before.",
+        "options": [
+          "A. was dropping",
+          "B. has dropped",
+          "C. had dropped",
+          "D. had been dropping"
+        ],
+        "answer": "C",
+        "explanation": "หน้าจอโทรศัพท์แตก (was cracked) เป็นผลลัพธ์ในอดีตที่เกิดจากสาเหตุที่เกิดขึ้นก่อนหน้า คือการทำโทรศัพท์ตก (had dropped) เราใช้ Past Perfect เพื่อแสดงเหตุการณ์ที่เกิดขึ้นและจบลงก่อนอีกเหตุการณ์หนึ่งในอดีต"
+      },
+      {
+        "question": "The ground was wet and muddy. It ______ heavily all night.",
+        "options": [
+          "A. rained",
+          "B. has been raining",
+          "C. had rained",
+          "D. had been raining"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคนี้เน้นผลลัพธ์ในอดีต (พื้นเปียก) ที่เกิดจากการกระทำที่ดำเนินมาอย่างต่อเนื่องเป็นระยะเวลานาน ('all night') ดังนั้น Past Perfect Continuous (had been raining) จึงเหมาะสมที่สุดเพื่อเน้นความต่อเนื่องของฝนที่ตกมาตลอดคืน"
+      },
+      {
+        "question": "The manager asked why I ______ the weekly report by the deadline.",
+        "options": [
+          "A. hadn't submitted",
+          "B. didn't submit",
+          "C. haven't submitted",
+          "D. wasn't submitting"
+        ],
+        "answer": "A",
+        "explanation": "ผู้จัดการถาม (asked - Past Simple) เป็นเหตุการณ์ที่สอง การส่งรายงานเป็นสิ่งที่ควรจะเกิดขึ้น 'ก่อน' ที่ผู้จัดการจะถาม ดังนั้นจึงต้องใช้ Past Perfect และเนื่องจากเป็นประโยคปฏิเสธ จึงเป็น 'hadn't submitted'"
+      },
+      {
+        "question": "Before the company launched the new product, they ______ extensive market research for months.",
+        "options": [
+          "A. conducted",
+          "B. had been conducting",
+          "C. were conducting",
+          "D. have conducted"
+        ],
+        "answer": "B",
+        "explanation": "มีคำว่า 'for months' ที่บ่งบอกถึงระยะเวลาที่ยาวนาน และการทำวิจัยตลาดก็เกิดขึ้นอย่างต่อเนื่องก่อนที่จะเปิดตัวสินค้า (launched) ดังนั้น Past Perfect Continuous (had been conducting) จึงถูกต้องเพื่อเน้นย้ำถึงกระบวนการที่ยาวนานนี้"
+      },
+      {
+        "question": "He ______ as an architect for twenty years before he decided to change his career and become a chef.",
+        "options": [
+          "A. worked",
+          "B. has worked",
+          "C. had been working",
+          "D. had worked"
+        ],
+        "answer": "D",
+        "explanation": "แม้จะมี 'for twenty years' แต่ 'work' สามารถใช้ได้ทั้งสองแบบ ในบริบทนี้ การใช้ Past Perfect (had worked) ก็ถูกต้องและเป็นที่นิยมเพื่อบอกว่าเขาทำงานนั้นเสร็จสิ้นไปแล้วเป็นเวลา 20 ปีก่อนจะเปลี่ยนอาชีพ ถ้าใช้ 'had been working' ก็ไม่ผิด แต่ 'had worked' จะเน้นว่าช่วงเวลา 20 ปีนั้นจบลงแล้วจริงๆ"
+      },
+      {
+        "question": "I didn't know who she was. I ______ her before.",
+        "options": [
+          "A. had never seen",
+          "B. never saw",
+          "C. have never seen",
+          "D. was never seeing"
+        ],
+        "answer": "A",
+        "explanation": "การที่ไม่รู้จักเธอในอดีต (didn't know) เป็นเพราะว่า 'ก่อนหน้านั้น' ไม่เคยเจอเธอมาก่อน การ 'ไม่เคยเจอ' คือเหตุการณ์ที่เกิดก่อน จึงต้องใช้ Past Perfect (had never seen)"
+      },
+      {
+        "question": "The children's clothes were covered in mud because they ______ in the garden all afternoon.",
+        "options": [
+          "A. played",
+          "B. had played",
+          "C. had been playing",
+          "D. were playing"
+        ],
+        "answer": "C",
+        "explanation": "ผลลัพธ์คือเสื้อผ้าเปื้อนโคลน (were covered) สาเหตุมาจากการกระทำที่ดำเนินมาอย่างต่อเนื่อง ('all afternoon') คือการเล่นในสวน จึงต้องใช้ Past Perfect Continuous (had been playing) เพื่อเน้นระยะเวลาและความต่อเนื่องของการเล่น"
+      },
+      {
+        "question": "After the detective ______ all the witnesses, he found a crucial inconsistency in their stories.",
+        "options": [
+          "A. was interviewing",
+          "B. interviewed",
+          "C. had been interviewing",
+          "D. had interviewed"
+        ],
+        "answer": "D",
+        "explanation": "คำว่า 'After' บอกลำดับเหตุการณ์ชัดเจน เหตุการณ์แรกคือการสัมภาษณ์พยานทั้งหมด (ต้องเสร็จก่อน) และเหตุการณ์ที่สองคือการพบความไม่สอดคล้องกัน ดังนั้นเหตุการณ์แรกจึงใช้ Past Perfect (had interviewed)"
+      },
+      {
+        "question": "We ______ for about an hour when we realized we were completely lost.",
+        "options": [
+          "A. drove",
+          "B. were driving",
+          "C. had been driving",
+          "D. have driven"
+        ],
+        "answer": "C",
+        "explanation": "การขับรถเกิดขึ้นอย่างต่อเนื่องเป็นระยะเวลาหนึ่ง ('for about an hour') ก่อนที่จะมารู้ตัวว่าหลงทาง (realized - Past Simple) จึงต้องใช้ Past Perfect Continuous (had been driving) เพื่อบรรยายการกระทำที่ดำเนินมาก่อนหน้านั้น"
+      }
+    ]
+  },
+  {
+    "id": "17_6",
+    "title": "17.6 Future Forms (will, going to, Present Cont. for Future)",
+    "explanation": "การพูดถึงอนาคตในภาษาอังกฤษมีหลายรูปแบบ แต่ 3 รูปแบบที่ใช้บ่อยที่สุดในระดับ B1-B2 คือ will, be going to, และ Present Continuous for Future ซึ่งแต่ละแบบมีความหมายและบริบทการใช้งานที่แตกต่างกันอย่างชัดเจน\n\n1. **WILL (Future Simple)**\nใช้สำหรับ:\n   - **การตัดสินใจที่เกิดขึ้น ณ ขณะที่พูด (Spontaneous Decisions):** ไม่ได้วางแผนไว้ล่วงหน้า เพิ่งคิดได้ตอนนั้นเลย\n   - **การคาดการณ์/ทำนายอนาคต (Predictions):** เป็นการคาดเดาจากความคิดเห็น ความเชื่อ หรือประสบการณ์ส่วนตัว มักมาพร้อมกับคำว่า I think, I believe, probably, perhaps\n   - **การให้สัญญา, การเสนอความช่วยเหลือ, การข่มขู่ (Promises, Offers, Threats):** แสดงความตั้งใจที่จะทำบางอย่าง\n\n2. **BE GOING TO**\nใช้สำหรับ:\n   - **แผนการหรือความตั้งใจ (Plans and Intentions):** เป็นสิ่งที่ผู้พูดได้ตัดสินใจไว้ *ก่อน* ที่จะพูดออกมาแล้ว เป็นแผนในใจ\n   - **การคาดการณ์/ทำนายอนาคตโดยมีหลักฐาน (Predictions with Evidence):** เมื่อมีสัญญาณหรือหลักฐานบางอย่างปรากฏให้เห็นในปัจจุบัน ทำให้คาดเดาได้ว่าอะไรจะเกิดขึ้น\n\n3. **PRESENT CONTINUOUS for Future**\nใช้สำหรับ:\n   - **แผนการที่แน่นอนและมีการเตรียมการแล้ว (Fixed Arrangements/Appointments):** ไม่ใช่แค่แผนในใจ แต่เป็นสิ่งที่ถูกจัดแจงไว้แล้ว 100% มีการนัดหมาย ระบุเวลา/สถานที่ที่ชัดเจน หรือเกี่ยวข้องกับบุคคลอื่นที่รับรู้ร่วมกันแล้ว (เหมือนการจดลงในปฏิทิน)\n\n**สรุปความแตกต่างที่สำคัญ:**\n- **will:** ความคิดที่เพิ่งผุดขึ้นมา, คาดการณ์ลอยๆ\n- **be going to:** แผนที่คิดไว้แล้ว, คาดการณ์แบบมีหลักฐาน\n- **Present Continuous:** นัดหมายที่ล็อคไว้แล้ว, จัดเตรียมเรียบร้อย",
+    "examples": [
+      {
+        "eng": "A: The project proposal is due tomorrow and I haven't started. B: Don't panic. I'll help you draft the main points.",
+        "thai": "A: ข้อเสนอโครงการต้องส่งพรุ่งนี้แล้ว ฉันยังไม่ได้เริ่มเลย B: อย่าเพิ่งตกใจ เดี๋ยวฉันจะช่วยร่างประเด็นหลักๆ ให้เอง (ใช้ 'will' เพราะเป็นการเสนอความช่วยเหลือที่ตัดสินใจ ณ ตอนที่ได้ยินปัญหา)"
+      },
+      {
+        "eng": "Based on the recent quarterly report, the company's profits are going to decline significantly.",
+        "thai": "จากรายงานผลประกอบการรายไตรมาสล่าสุด กำไรของบริษัทกำลังจะลดลงอย่างมาก (ใช้ 'be going to' เพราะเป็นการทำนายอนาคตโดยมีหลักฐานคือ 'quarterly report')"
+      },
+      {
+        "eng": "I can't attend the workshop on Friday afternoon. I'm meeting with our international partners to finalize the contract.",
+        "thai": "ฉันเข้าร่วมเวิร์คช็อปบ่ายวันศุกร์ไม่ได้ ฉันมีนัดประชุมกับพาร์ทเนอร์ต่างชาติเพื่อสรุปสัญญา (ใช้ 'Present Continuous' เพราะเป็นการนัดหมายที่ถูกกำหนดไว้แน่นอนแล้ว มีการเตรียมการและทุกคนรับทราบ)"
+      },
+      {
+        "eng": "I think the new government policy will eventually stabilize the economy, but it might take some time.",
+        "thai": "ฉันคิดว่านโยบายใหม่ของรัฐบาลจะช่วยให้เศรษฐกิจมีเสถียรภาพในที่สุด แต่อาจจะต้องใช้เวลาสักหน่อย (ใช้ 'will' เพราะเป็นการคาดการณ์จากความคิดเห็นส่วนตัวของผู้พูด สังเกตจากคำว่า 'I think')"
+      },
+      {
+        "eng": "We've saved enough money, so we are going to buy a new car next month.",
+        "thai": "เราเก็บเงินได้พอแล้ว ดังนั้นเรากำลังจะซื้อรถคันใหม่เดือนหน้า (ใช้ 'be going to' เพื่อบอกถึงแผนและความตั้งใจที่ตัดสินใจไว้ล่วงหน้าแล้ว)"
+      }
+    ],
+    "common_mistakes": "1. **ใช้ 'will' กับทุกเรื่องในอนาคต:** คนไทยมักติดใช้ 'will' สำหรับทุกอย่าง แต่ถ้าเป็นแผนที่นัดหมายไว้แล้ว เช่น \"พรุ่งนี้ฉันมีประชุม\" ควรใช้ \"I'm having a meeting tomorrow.\" หรือ \"I'm going to have a meeting tomorrow.\" จะเป็นธรรมชาติกว่า \"I will have a meeting tomorrow.\"\n\n2. **ลืมกริยา 'to be' หน้า 'going to':** เป็นข้อผิดพลาดพื้นฐานที่พบบ่อยมาก เช่น พูดว่า \"I going to call him.\" ที่ถูกต้องคือ \"I am going to call him.\"\n\n3. **สับสนระหว่าง 'be going to' กับ 'Present Continuous':** ทั้งคู่ใช้กับแผนการได้ แต่ Present Continuous จะเน้นความเป็น 'นัดหมาย' ที่แน่นอนกว่า มีการเตรียมการแล้ว (เช่น จองตั๋ว, นัดคนอื่น) ส่วน 'be going to' อาจเป็นแค่ความตั้งใจในใจของผู้พูดคนเดียวก็ได้\n   - `I'm going to travel to Japan.` (ฉันตั้งใจจะไปเที่ยวญี่ปุ่น - อาจจะยังไม่ได้จองอะไรเลย)\n   - `I'm travelling to Japan next week.` (ฉันจะเดินทางไปญี่ปุ่นสัปดาห์หน้า - ฟังดูเหมือนจองตั๋ว จองโรงแรมเรียบร้อยแล้ว)\n\n4. **สับสนในการทำนาย:** ถ้าเห็นหลักฐานตรงหน้า (เช่น เมฆดำทะมึน) ควรใช้ \"It's going to rain.\" แต่ถ้าเป็นการคาดการณ์ทั่วๆ ไปตามความเห็น (เช่น \"ฉันว่าพรุ่งนี้ฝนน่าจะตก\") จะใช้ \"I think it will rain tomorrow.\" ได้",
+    "practice_questions": [
+      {
+        "question": "A: 'The phone is ringing!' B: 'Okay, I _______ it.'",
+        "options": [
+          "A. am going to get",
+          "B. am getting",
+          "C. will get",
+          "D. get"
+        ],
+        "answer": "C",
+        "explanation": "คำตอบที่ถูกต้องคือ 'will get' เพราะนี่คือการตัดสินใจที่เกิดขึ้น ณ ขณะที่พูด (Spontaneous Decision) เมื่อได้ยินเสียงโทรศัพท์ดัง ผู้พูดจึงเสนอตัวที่จะรับโทรศัพท์ทันทีโดยไม่ได้วางแผนไว้ล่วงหน้า"
+      },
+      {
+        "question": "Look at those dark clouds accumulating in the sky! It _______ heavily soon.",
+        "options": [
+          "A. will rain",
+          "B. is going to rain",
+          "C. is raining",
+          "D. rains"
+        ],
+        "answer": "B",
+        "explanation": "คำตอบที่ถูกต้องคือ 'is going to rain' เพราะเป็นการคาดการณ์อนาคตโดยมีหลักฐานปรากฏให้เห็นในปัจจุบัน (Prediction with Evidence) ซึ่งหลักฐานในที่นี้คือ 'dark clouds' (เมฆดำทะมึน)"
+      },
+      {
+        "question": "I can't join you for dinner on Saturday because my team and I _______ on an important project all weekend.",
+        "options": [
+          "A. will work",
+          "B. work",
+          "C. are going to working",
+          "D. are working"
+        ],
+        "answer": "D",
+        "explanation": "คำตอบที่ถูกต้องคือ 'are working' (Present Continuous) เพราะเป็นการบอกถึงแผนการที่ถูกกำหนดไว้แน่นอนแล้ว (Fixed Arrangement) การทำงานในช่วงสุดสัปดาห์นี้เป็นสิ่งที่ถูกจัดตารางไว้แล้ว ไม่ใช่ความตั้งใจที่เพิ่งคิด"
+      },
+      {
+        "question": "My brother has been studying architecture for five years. He _______ from university next spring.",
+        "options": [
+          "A. is going to graduate",
+          "B. will graduate",
+          "C. graduates",
+          "D. is graduating"
+        ],
+        "answer": "A",
+        "explanation": "ใช้ 'is going to graduate' หรือ 'is graduating' ก็ได้ในบริบทนี้ แต่ 'is going to graduate' จะเน้นถึงผลลัพธ์ที่คาดว่าจะเกิดขึ้นตามลำดับเหตุการณ์ (เรียนมา 5 ปี ก็ต้องจบ) ส่วน 'will graduate' จะฟังดูเป็นการคาดการณ์ที่ห่างไกลกว่า ในตัวเลือกนี้ 'is going to graduate' เหมาะสมที่สุดเพื่อแสดงถึงความตั้งใจและผลลัพธ์ที่ตามมาจากการเรียน"
+      },
+      {
+        "question": "Don't worry about the presentation. I promise I _______ you rehearse beforehand.",
+        "options": [
+          "A. am helping",
+          "B. am going to help",
+          "C. will help",
+          "D. help"
+        ],
+        "answer": "C",
+        "explanation": "คำตอบที่ถูกต้องคือ 'will help' เนื่องจากประโยคนี้เป็นการให้สัญญา (Promise) ซึ่งโครงสร้าง 'will' ถูกใช้เพื่อแสดงการให้คำมั่นสัญญา การเสนอความช่วยเหลือ หรือการข่มขู่"
+      },
+      {
+        "question": "A: 'Have you made any vacation plans?' B: 'Yes, we have! We _______ to the Maldives for two weeks.'",
+        "options": [
+          "A. will fly",
+          "B. fly",
+          "C. are going to fly",
+          "D. are flying"
+        ],
+        "answer": "D",
+        "explanation": "คำตอบที่ถูกต้องคือ 'are flying' เพราะ B ตอบว่า 'Yes, we have!' แสดงว่าได้ตัดสินใจและวางแผนเรียบร้อยแล้ว การใช้ Present Continuous ในที่นี้สื่อว่ามันเป็นแผนการที่แน่นอน (Fixed Arrangement) อาจจะจองตั๋วเครื่องบินแล้วด้วยซ้ำ 'are going to fly' ก็ใช้ได้ แต่ 'are flying' จะเน้นความแน่นอนมากกว่า"
+      },
+      {
+        "question": "Based on the current rate of technological advancement, experts predict that robots _______ a significant role in our daily lives within the next decade.",
+        "options": [
+          "A. are going to play",
+          "B. are playing",
+          "C. will play",
+          "D. play"
+        ],
+        "answer": "C",
+        "explanation": "คำตอบที่ถูกต้องคือ 'will play' เพราะเป็นการคาดการณ์อนาคตในระยะยาว (the next decade) ที่อ้างอิงจากความคิดเห็นของผู้เชี่ยวชาญ (experts predict) ซึ่งมักจะใช้กับ 'will' มากกว่า 'be going to'"
+      },
+      {
+        "question": "The company has lost its biggest client. I suspect they _______ to lay off some employees.",
+        "options": [
+          "A. will have",
+          "B. are going to have",
+          "C. are having",
+          "D. have"
+        ],
+        "answer": "B",
+        "explanation": "คำตอบที่ถูกต้องคือ 'are going to have' เพราะเป็นการคาดการณ์โดยมีหลักฐานชัดเจน (Prediction with Evidence) หลักฐานคือ 'The company has lost its biggest client' ซึ่งนำไปสู่ผลลัพธ์ที่คาดเดาได้ว่าจะต้องมีการเลิกจ้างพนักงาน"
+      },
+      {
+        "question": "I've decided on my New Year's resolution. I _______ the gym three times a week, starting from January 1st.",
+        "options": [
+          "A. am joining",
+          "B. will join",
+          "C. am going to join",
+          "D. join"
+        ],
+        "answer": "C",
+        "explanation": "คำตอบที่ถูกต้องคือ 'am going to join' เพราะผู้พูดได้กล่าวว่า 'I've decided' ซึ่งแสดงว่านี่คือแผนการและความตั้งใจ (Plan/Intention) ที่ได้ตัดสินใจไว้แล้วก่อนที่จะพูดออกมา"
+      },
+      {
+        "question": "Please be quiet after 10 PM. My baby _______, and I don't want him to wake up.",
+        "options": [
+          "A. is sleeping",
+          "B. will be sleeping",
+          "C. is going to be sleeping",
+          "D. sleeps"
+        ],
+        "answer": "B",
+        "explanation": "ข้อนี้ท้าทายขึ้นมาเล็กน้อย คำตอบที่ดีที่สุดคือ 'will be sleeping' (Future Continuous) ซึ่งหมายถึงการกระทำที่จะกำลังดำเนินอยู่ในช่วงเวลาหนึ่งในอนาคต (ณ เวลาหลัง 4 ทุ่ม ลูกของฉันจะกำลังหลับอยู่) เป็นการคาดการณ์สิ่งที่น่าจะกำลังเกิดขึ้น ณ จุดนั้นในอนาคต"
+      }
+    ]
+  },
+  {
+    "id": "17_7",
+    "title": "17.7 Future Continuous & Future Perfect (อนาคตที่กำลังเกิดและเสร็จสิ้น)",
+    "explanation": "ในบทนี้ เราจะเจาะลึก 2 Tenses ที่ใช้พูดถึงอนาคตในมิติที่ซับซ้อนขึ้น คือ Future Continuous และ Future Perfect ซึ่งช่วยให้เราบอกเล่าเหตุการณ์ในอนาคตได้อย่างแม่นยำและเป็นธรรมชาติมากขึ้น\n\n**1. Future Continuous (will be + V-ing)**\n*   **โครงสร้าง:** Subject + will be + V-ing\n*   **ใช้เมื่อไหร่?:** ใช้เพื่ออธิบายเหตุการณ์หรือการกระทำที่ 'จะกำลังดำเนินอยู่' ณ จุดเวลาใดเวลาหนึ่งที่เจาะจงในอนาคต\n*   **หัวใจสำคัญ:** ให้ลองนึกภาพว่าถ้าเราเดินทางไป ณ เวลานั้นในอนาคต เราจะเห็นคนๆ นั้น 'กำลังทำ' สิ่งนั้นอยู่พอดี\n*   **ตัวอย่าง Keyword:** at this time tomorrow, at 8 PM tonight, when you arrive, this time next year\n\n**2. Future Perfect (will have + V3)**\n*   **โครงสร้าง:** Subject + will have + Past Participle (V3)\n*   **ใช้เมื่อไหร่?:** ใช้เพื่ออธิบายเหตุการณ์หรือการกระทำที่ 'จะเสร็จสิ้นสมบูรณ์แล้ว' ก่อนจะถึงจุดเวลาหนึ่งในอนาคต หรือก่อนที่จะมีอีกเหตุการณ์หนึ่งเกิดขึ้น\n*   **หัวใจสำคัญ:** เป็นการมองจากปัจจุบันไปยังอนาคต และบอกว่า 'พอถึงตอนนั้น... สิ่งนี้ก็ได้ทำเสร็จไปเรียบร้อยแล้ว'\n*   **ตัวอย่าง Keyword:** by the time..., by Friday, by the end of this year, before you leave\n\n**สรุปความแตกต่าง:**\n*   **Future Continuous:** เน้นความต่อเนื่อง ณ จุดเวลาในอนาคต (At 9 PM, I **will be watching** the movie.)\n*   **Future Perfect:** เน้นการเสร็จสิ้นก่อนจุดเวลาในอนาคต (By 11 PM, I **will have finished** the movie.)",
+    "examples": [
+      {
+        "eng": "This time next month, we will be celebrating our company's 10th anniversary in Bali.",
+        "thai": "เวลาเดียวกับตอนนี้ในเดือนหน้า พวกเราจะกำลังฉลองครบรอบ 10 ปีของบริษัทอยู่ที่บาหลี (เน้นว่า ณ เวลานั้นในอนาคต การฉลองจะกำลังดำเนินอยู่)"
+      },
+      {
+        "eng": "Don't phone me at 9 PM because I will be putting my children to bed.",
+        "thai": "อย่าโทรหาฉันตอนสามทุ่มนะ เพราะตอนนั้นฉันจะกำลังพาลูกๆ เข้านอนอยู่ (เป็นการกระทำที่กำลังดำเนินอยู่ ณ เวลาที่ระบุชัดเจน)"
+      },
+      {
+        "eng": "By the time the new CEO arrives, the management team will have prepared a comprehensive report.",
+        "thai": "กว่าที่ CEO คนใหม่จะมาถึง ทีมผู้บริหารก็จะเตรียมรายงานฉบับสมบูรณ์เสร็จเรียบร้อยแล้ว (การเตรียมรายงานจะเสร็จสิ้น 'ก่อน' ที่ CEO จะมาถึง)"
+      },
+      {
+        "eng": "By 2030, scientists predict that they will have discovered a cure for several currently incurable diseases.",
+        "thai": "ภายในปี 2030 นักวิทยาศาสตร์คาดการณ์ว่าพวกเขาจะค้นพบวิธีรักษาโรคที่ปัจจุบันยังรักษาไม่ได้อีกหลายโรคไปแล้ว (การค้นพบจะสำเร็จลุล่วง 'ก่อน' หรือ 'ภายใน' ปี 2030)"
+      },
+      {
+        "eng": "When you get off the plane, I'll be waiting for you at the arrival gate. By then, I will have already bought some coffee for us.",
+        "thai": "ตอนที่คุณลงจากเครื่องบิน ฉันจะกำลังรอคุณอยู่ที่ประตูผู้โดยสารขาเข้า (Future Continuous: กำลังรอ) และถึงตอนนั้น ฉันก็คงจะซื้อกาแฟให้เราเสร็จเรียบร้อยแล้ว (Future Perfect: ซื้อเสร็จแล้ว)"
+      }
+    ],
+    "common_mistakes": "**1. สับสนกับ Future Simple:**\n*   คนไทยมักใช้ Future Simple (will + V1) ในสถานการณ์ที่ควรใช้ Future Continuous เพื่อเน้นความต่อเนื่อง\n*   **ผิด:** At 10 AM tomorrow, I will meet the client.\n*   **ถูก:** At 10 AM tomorrow, I **will be meeting** the client. (ณ เวลา 10 โมง จะกำลังอยู่ในระหว่างการประชุม ไม่ใช่เพิ่งจะเริ่ม)\n\n**2. ใช้ 'by' กับ 'at/in/on' สลับกัน:**\n*   'by' (ภายใน, ก่อน) เป็นสัญญาณของ Future Perfect ที่เน้นการเสร็จสิ้น\n*   'at', 'in', 'on' + เวลาในอนาคต เป็นสัญญาณของ Future Continuous ที่เน้นการกำลังกระทำ\n*   **ผิด:** I will have finished my project at Friday.\n*   **ถูก:** I **will have finished** my project **by** Friday. (ฉันจะทำงานเสร็จภายในวันศุกร์)\n*   **ถูก:** I **will be working** on my project **on** Friday. (ฉันจะกำลังทำงานของฉันอยู่ในวันศุกร์)\n\n**3. ลืมใช้ V3 ใน Future Perfect:**\n*   เป็นข้อผิดพลาดพื้นฐานแต่เจอบ่อย คือการใช้ V1 หรือ V2 ตามหลัง will have แทนที่จะเป็น V3\n*   **ผิด:** By next year, I will have save enough money for a new car.\n*   **ถูก:** By next year, I **will have saved** enough money for a new car.",
+    "practice_questions": [
+      {
+        "question": "By the time you finish your course, you ______ all the essential skills for the job.",
+        "options": [
+          "A. will be acquiring",
+          "B. will acquire",
+          "C. will have acquired",
+          "D. are acquiring"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้มี 'By the time...' เป็นคำใบ้ ซึ่งหมายถึง 'กว่าจะถึงเวลาที่...' ใช้กับเหตุการณ์ที่จะเสร็จสิ้นสมบูรณ์แล้วก่อนอีกเหตุการณ์หนึ่งในอนาคต จึงต้องใช้ Future Perfect (will have + V3) ดังนั้น will have acquired (ได้เรียนรู้ทักษะ...เสร็จเรียบร้อยแล้ว) จึงเป็นคำตอบที่ถูกต้อง"
+      },
+      {
+        "question": "This time next Friday, I _______ on a tropical beach instead of sitting in this office.",
+        "options": [
+          "A. will have relaxed",
+          "B. will relax",
+          "C. am relaxing",
+          "D. will be relaxing"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคนี้ระบุช่วงเวลาที่เจาะจงในอนาคตคือ 'This time next Friday' (เวลาเดียวกับตอนนี้ในวันศุกร์หน้า) เป็นการบอกว่า ณ เวลานั้น จะกำลังทำอะไรอยู่ จึงต้องใช้ Future Continuous (will be + V-ing) คำตอบคือ will be relaxing (จะกำลังพักผ่อน)"
+      },
+      {
+        "question": "I'm sorry, I can't attend the meeting at 3 PM tomorrow. I _______ a major client from overseas.",
+        "options": [
+          "A. will be meeting",
+          "B. will have met",
+          "C. will meet",
+          "D. meet"
+        ],
+        "answer": "A",
+        "explanation": "ผู้พูดไม่สามารถเข้าประชุมตอนบ่าย 3 ได้ เพราะ 'ณ เวลานั้น' เขามีกิจกรรมอื่นที่กำลังดำเนินอยู่ นั่นคือการพบปะกับลูกค้า การใช้ Future Continuous (will be meeting) เหมาะสมที่สุดเพื่อสื่อว่ากิจกรรมนั้นจะกำลังเกิดขึ้นในช่วงเวลา 15.00 น."
+      },
+      {
+        "question": "In three years' time, the construction of the new skyscraper ______.",
+        "options": [
+          "A. will be completing",
+          "B. will have completed",
+          "C. completes",
+          "D. will complete"
+        ],
+        "answer": "B",
+        "explanation": "วลี 'In three years' time' (ในอีก 3 ปีข้างหน้า) ในบริบทนี้ทำหน้าที่คล้ายกับ 'by then' คือบอกว่าเมื่อถึงจุดเวลานั้น การกระทำจะเสร็จสิ้นแล้ว การก่อสร้างตึกจะ 'เสร็จสมบูรณ์' จึงต้องใช้ Future Perfect (will have + V3) แต่ในที่นี้ควรเป็นรูป Passive Voice คือ will have been completed อย่างไรก็ตาม ในตัวเลือกที่ให้มา B. will have completed (ในรูป Active) เป็นตัวเลือกที่ดีที่สุดและสื่อความหมายว่าการก่อสร้างจะสำเร็จลุล่วงไปแล้ว"
+      },
+      {
+        "question": "Before the end of their tour, the band ______ in over 20 countries.",
+        "options": [
+          "A. will perform",
+          "B. performs",
+          "C. will be performing",
+          "D. will have performed"
+        ],
+        "answer": "D",
+        "explanation": "วลี 'Before the end of their tour' (ก่อนที่ทัวร์คอนเสิร์ตจะสิ้นสุดลง) เป็นการกำหนดเส้นตายในอนาคต และการกระทำ (การแสดงคอนเสิร์ตใน 20 ประเทศ) จะเสร็จสิ้นสมบูรณ์ก่อนถึงเวลานั้น จึงต้องใช้ Future Perfect (will have + V3) คือ will have performed"
+      },
+      {
+        "question": "What do you think you ______ ten years from now?",
+        "options": [
+          "A. will be doing",
+          "B. will have done",
+          "C. will do",
+          "D. have done"
+        ],
+        "answer": "A",
+        "explanation": "คำถามนี้ต้องการถามว่า 'ในอีก 10 ปีข้างหน้า คุณคิดว่าตัวเองจะกำลังทำอะไรอยู่' เป็นการถามถึงกิจกรรมที่กำลังดำเนินไปในชีวิต ณ จุดนั้นในอนาคต ไม่ได้ถามว่าทำอะไรเสร็จไปแล้วบ้าง ดังนั้น Future Continuous (will be doing) จึงเหมาะสมที่สุด"
+      },
+      {
+        "question": "By the time the guests arrive, we ______ the house from top to bottom.",
+        "options": [
+          "A. will be cleaning",
+          "B. will have cleaned",
+          "C. are cleaning",
+          "D. clean"
+        ],
+        "answer": "B",
+        "explanation": "'By the time the guests arrive' (กว่าแขกจะมาถึง) เป็นสัญญาณชัดเจนของ Future Perfect เพราะการทำความสะอาดบ้านจะต้องเสร็จสิ้น 'ก่อน' ที่แขกจะมาถึง ดังนั้น will have cleaned จึงเป็นคำตอบที่ถูกต้อง"
+      },
+      {
+        "question": "Next month is my final exam. I _______ for it every evening until it's over.",
+        "options": [
+          "A. will be studying",
+          "B. will have studied",
+          "C. will study",
+          "D. study"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้เน้นถึงการกระทำที่จะเกิดขึ้นอย่างต่อเนื่องซ้ำๆ ในช่วงเวลาหนึ่งในอนาคต (every evening until it's over) การใช้ Future Continuous (will be studying) จะช่วยเน้นย้ำถึงความต่อเนื่องของกิจกรรม (การอ่านหนังสือ) ที่จะดำเนินไปตลอดช่วงเย็นของทุกวัน"
+      },
+      {
+        "question": "Scientists are confident that by 2050, they ______ a sustainable energy source to replace fossil fuels.",
+        "options": [
+          "A. will be finding",
+          "B. are finding",
+          "C. find",
+          "D. will have found"
+        ],
+        "answer": "D",
+        "explanation": "การระบุปีในอนาคตด้วย 'By 2050' (ภายในปี 2050) เป็นการบอกว่าการกระทำนั้นจะเสร็จสมบูรณ์ก่อนหรือภายในปีดังกล่าว การค้นพบแหล่งพลังงานที่ยั่งยืนเป็นสิ่งที่คาดว่าจะสำเร็จลุล่วงไปแล้วเมื่อถึงเวลานั้น จึงต้องใช้ Future Perfect (will have found)"
+      },
+      {
+        "question": "Don't worry about the presentation. By tomorrow morning, I ______ all the necessary slides.",
+        "options": [
+          "A. will prepare",
+          "B. am preparing",
+          "C. will have prepared",
+          "D. will be preparing"
+        ],
+        "answer": "C",
+        "explanation": "คำว่า 'By tomorrow morning' (ภายในเช้าวันพรุ่งนี้) เป็นการกำหนดเส้นตายในอนาคต ผู้พูดกำลังให้ความมั่นใจว่าการเตรียมสไลด์จะ 'เสร็จเรียบร้อย' ก่อนถึงเช้าวันพรุ่งนี้ จึงต้องใช้ Future Perfect (will have prepared)"
+      }
+    ]
+  },
+  {
+    "id": "17_8",
+    "title": "17.8 Summary: The 12 English Tenses (สรุป Tense ทั้ง 12 แบบ + 50 Exercises)",
+    "explanation": "การสรุป Tense ทั้ง 12 แบบ คือการมองภาพรวมของ 'เวลา' (Time: Present, Past, Future) และ 'ลักษณะของเหตุการณ์' (Aspect: Simple, Continuous, Perfect, Perfect Continuous) เพื่อให้เข้าใจความสัมพันธ์และเลือกใช้ได้อย่างถูกต้อง\n\nหัวใจสำคัญคือการตอบคำถาม 2 ข้อนี้เมื่อจะสร้างประโยค:\n1. **เหตุการณ์เกิดขึ้นเมื่อไหร่?** (Time) - ปัจจุบัน, อดีต, หรือ อนาคต?\n2. **เหตุการณ์มีลักษณะอย่างไร?** (Aspect) - เป็นเรื่องจริงทั่วไป? กำลังเกิดขึ้น? เกิดขึ้นแล้วแต่ส่งผลถึงปัจจุบัน? หรือเน้นระยะเวลา?\n\n**ภาพรวมของ 4 Aspects:**\n*   **Simple:** ใช้กับความจริง, กิจวัตร, หรือเหตุการณ์ที่เกิดขึ้นและจบลงแบบจุดเดียว ไม่เน้นความต่อเนื่อง\n*   **Continuous (Progressive):** ใช้กับเหตุการณ์ที่กำลังดำเนินอยู่ ณ เวลาใดเวลาหนึ่ง เน้นว่าเหตุการณ์ยังไม่จบ\n*   **Perfect:** ใช้เชื่อมโยง 2 เหตุการณ์ในเวลาที่ต่างกัน เน้นผลลัพธ์ของการกระทำ หรือการบอกว่าเหตุการณ์หนึ่งเกิดก่อนอีกเหตุการณ์หนึ่ง (เช่น Past Perfect เกิดก่อน Past Simple)\n*   **Perfect Continuous:** เหมือน Perfect แต่เน้น 'ระยะเวลา' (duration) ที่เหตุการณ์นั้นดำเนินมาอย่างต่อเนื่อง\n\n**การจับคู่ Time + Aspect:**\n*   **Present:** Simple (นิสัย), Continuous (ตอนนี้), Perfect (อดีตถึงปัจจุบัน), Perfect Continuous (ทำมานานแค่ไหนถึงตอนนี้)\n*   **Past:** Simple (จบไปแล้ว), Continuous (กำลังทำในอดีต), Perfect (เกิดก่อนอีกเหตุการณ์ในอดีต), Perfect Continuous (ทำมานานแค่ไหนก่อนอีกเหตุการณ์ในอดีต)\n*   **Future:** Simple (คาดการณ์), Continuous (กำลังทำในอนาคต), Perfect (จะทำเสร็จก่อนเวลาในอนาคต), Perfect Continuous (จะทำมานานแค่ไหนเมื่อถึงเวลาในอนาคต)\n\nการเข้าใจความสัมพันธ์เหล่านี้จะช่วยให้คุณเลือกใช้ Tense ได้อย่างเป็นธรรมชาติและแม่นยำมากขึ้นในระดับ B1-B2",
+    "examples": [
+      {
+        "eng": "I lived in London for 5 years. (Past Simple)",
+        "thai": "ฉันเคยอาศัยอยู่ในลอนดอน 5 ปี (ตอนนี้ไม่ได้อยู่แล้ว เป็นอดีตที่จบไปแล้ว)"
+      },
+      {
+        "eng": "I have lived in London for 5 years. (Present Perfect)",
+        "thai": "ฉันอาศัยอยู่ในลอนดอนมา 5 ปีแล้ว (ตอนนี้ก็ยังอยู่ การกระทำเชื่อมโยงถึงปัจจุบัน)"
+      },
+      {
+        "eng": "When she called, I was watching a movie. (Past Continuous + Past Simple)",
+        "thai": "ตอนที่เธอโทรมา ฉันกำลังดูหนังอยู่ (การดูหนังเป็นเหตุการณ์ที่กำลังดำเนินอยู่ (พื้นหลัง) และการโทรมาเป็นเหตุการณ์ที่เข้ามาแทรก)"
+      },
+      {
+        "eng": "When she called, I had already watched the movie. (Past Perfect + Past Simple)",
+        "thai": "ตอนที่เธอโทรมา ฉันดูหนังจบไปแล้ว (การดูหนังจบเกิดก่อนการโทรมา)"
+      },
+      {
+        "eng": "By this time next year, I will have graduated from university. (Future Perfect)",
+        "thai": "ถึงเวลานี้ปีหน้า ฉันคงจะเรียนจบมหาวิทยาลัยแล้ว (การเรียนจบจะเสร็จสิ้นสมบูรณ์ก่อนถึงเวลานี้ในปีหน้า)"
+      }
+    ],
+    "common_mistakes": "**1. สับสนระหว่าง Past Simple กับ Present Perfect:** นี่คือข้อผิดพลาดที่พบบ่อยที่สุด คนไทยมักใช้ Past Simple กับเหตุการณ์ที่เพิ่งจบแต่ยังส่งผลถึงปัจจุบัน หรือใช้ Present Perfect กับเหตุการณ์ในอดีตที่มีการระบุเวลาชัดเจน (เช่น yesterday, last week)\n   *   ผิด: I have seen him yesterday. (มี yesterday ต้องใช้ Past Simple)\n   *   ถูก: I saw him yesterday.\n   *   ผิด: I lost my keys. Did you see them? (ควรใช้ Present Perfect เพราะกุญแจยังหาไม่เจอ ส่งผลถึงปัจจุบัน)\n   *   ถูก: I have lost my keys. Have you seen them?\n\n**2. ไม่ใช้ Past Perfect เมื่อเล่าลำดับเหตุการณ์ในอดีต:** เมื่อมี 2 เหตุการณ์ในอดีต คนไทยมักใช้ Past Simple ทั้งสองประโยค ทำให้ไม่ชัดเจนว่าอะไรเกิดก่อนหลัง\n   *   ไม่ชัดเจน: When I arrived at the station, the train left.\n   *   ชัดเจน: When I arrived at the station, the train had already left. (รถไฟออกไปก่อนที่ฉันจะมาถึง)\n\n**3. ใช้ 'will' กับทุกเรื่องในอนาคต:** ระดับ B1-B2 ต้องแยกแยะการใช้ 'will' (การตัดสินใจฉับพลัน, คาดการณ์), 'be going to' (แผนที่วางไว้), และ Present Continuous (นัดหมายที่แน่นอน)\n   *   ผิด: I will go to the dentist tomorrow at 9 AM. (เป็นการนัดหมาย ควรใช้ Present Continuous)\n   *   ถูก: I am going to the dentist tomorrow at 9 AM.\n\n**4. ใช้ State Verbs ในรูป Continuous:** กริยาแสดงสภาวะ (State Verbs) เช่น know, believe, understand, love, own, seem โดยปกติจะไม่ใช้ในรูป Continuous Tense\n   *   ผิด: I am knowing the answer.\n   *   ถูก: I know the answer.",
+    "practice_questions": [
+      {
+        "question": "By the time my parents get home, I _______ all of my homework.",
+        "options": [
+          "A. will finish",
+          "B. am finishing",
+          "C. will have finished",
+          "D. finish"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคมี 'By the time...' ซึ่งบอกถึงจุดเวลาในอนาคต เหตุการณ์ทำการบ้านจะเสร็จสิ้นสมบูรณ์ 'ก่อน' ที่พ่อแม่จะกลับมาถึง ดังนั้นจึงต้องใช้ Future Perfect (will have + V.3)"
+      },
+      {
+        "question": "She _______ about her trip to Italy for weeks, so I'm glad she's finally going.",
+        "options": [
+          "A. was talking",
+          "B. has been talking",
+          "C. is talking",
+          "D. had talked"
+        ],
+        "answer": "B",
+        "explanation": "เหตุการณ์นี้เริ่มในอดีต (for weeks) และดำเนินต่อเนื่องมาจนถึงปัจจุบันที่พูด และยังคงรู้สึกถึงความตื่นเต้นนั้นอยู่ จึงใช้ Present Perfect Continuous เพื่อเน้นระยะเวลา"
+      },
+      {
+        "question": "I couldn't answer the phone because I _______ a shower when you called.",
+        "options": [
+          "A. had",
+          "B. was having",
+          "C. have had",
+          "D. had had"
+        ],
+        "answer": "B",
+        "explanation": "มีสองเหตุการณ์ในอดีตคือ 'โทรมา' (called) และ 'กำลังอาบน้ำ' การอาบน้ำเป็นเหตุการณ์ที่กำลังดำเนินอยู่ (background action) เมื่ออีกเหตุการณ์ (calling) เข้ามาแทรก จึงใช้ Past Continuous"
+      },
+      {
+        "question": "This time next month, we _______ on a beach in Phuket.",
+        "options": [
+          "A. will be relaxing",
+          "B. will relax",
+          "C. are relaxing",
+          "D. will have relaxed"
+        ],
+        "answer": "A",
+        "explanation": "'This time next month' เป็นการระบุจุดเวลาที่เจาะจงในอนาคต เราใช้ Future Continuous เพื่อบอกถึงเหตุการณ์ที่จะกำลังดำเนินอยู่ ณ เวลานั้น"
+      },
+      {
+        "question": "He _______ for that company for ten years before he decided to start his own business.",
+        "options": [
+          "A. has worked",
+          "B. worked",
+          "C. was working",
+          "D. had been working"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคนี้มีสองเหตุการณ์ในอดีต (ทำงาน กับ ตัดสินใจ) การทำงานเกิดขึ้นก่อนและดำเนินมาเป็นระยะเวลา 'for ten years' ก่อนที่จะตัดสินใจลาออก จึงใช้ Past Perfect Continuous เพื่อเน้นระยะเวลาของการกระทำแรก"
+      },
+      {
+        "question": "I _______ you have been promoted. Congratulations!",
+        "options": [
+          "A. just hear",
+          "B. was just hearing",
+          "C. have just heard",
+          "D. am just hearing"
+        ],
+        "answer": "C",
+        "explanation": "การได้ยินข่าวเป็นเหตุการณ์ที่เพิ่งเกิดขึ้นในอดีตอันใกล้และส่งผลต่อปัจจุบัน (คือการมาแสดงความยินดี) จึงใช้ Present Perfect"
+      },
+      {
+        "question": "How long _______ English before you moved to the UK?",
+        "options": [
+          "A. did you study",
+          "B. have you been studying",
+          "C. had you been studying",
+          "D. were you studying"
+        ],
+        "answer": "C",
+        "explanation": "เป็นการถามถึงระยะเวลาของการกระทำ (เรียนภาษาอังกฤษ) ที่เกิดขึ้นและดำเนินต่อเนื่องมา 'ก่อน' อีกเหตุการณ์ในอดีต (ย้ายไป UK) ดังนั้นจึงใช้ Past Perfect Continuous"
+      },
+      {
+        "question": "Look at those dark clouds! It _______ soon.",
+        "options": [
+          "A. will rain",
+          "B. is going to rain",
+          "C. rains",
+          "D. is raining"
+        ],
+        "answer": "B",
+        "explanation": "เราใช้ 'be going to' เพื่อคาดการณ์อนาคตโดยมีหลักฐานหรือสัญญาณให้เห็นในปัจจุบัน (เมฆดำทะมึน) ซึ่งต่างจาก 'will' ที่เป็นการคาดการณ์ลอยๆ"
+      },
+      {
+        "question": "Shakespeare _______ many famous plays that are still performed today.",
+        "options": [
+          "A. has written",
+          "B. wrote",
+          "C. had written",
+          "D. was writing"
+        ],
+        "answer": "B",
+        "explanation": "แม้ว่าผลงานของเขาจะยังคงอยู่ แต่ตัวเชกสเปียร์เสียชีวิตไปนานแล้ว การกระทำ (การเขียน) จึงเป็นเหตุการณ์ในอดีตที่จบไปอย่างสมบูรณ์ ต้องใช้ Past Simple"
+      },
+      {
+        "question": "Don't phone me between 7 and 8 PM. I _______ dinner with my family then.",
+        "options": [
+          "A. will have",
+          "B. will be having",
+          "C. am having",
+          "D. will have had"
+        ],
+        "answer": "B",
+        "explanation": "เป็นการบอกว่า ณ ช่วงเวลาที่ระบุในอนาคต (7-8 PM) จะมีเหตุการณ์หนึ่ง 'กำลังดำเนินอยู่' เราจึงใช้ Future Continuous"
+      },
+      {
+        "question": "We _______ the project by the end of the week. The manager is expecting it.",
+        "options": [
+          "A. have to complete",
+          "B. will complete",
+          "C. are completing",
+          "D. will have completed"
+        ],
+        "answer": "D",
+        "explanation": "'By the end of the week' เป็น deadline ในอนาคต การกระทำจะเสร็จสิ้นสมบูรณ์ก่อนถึงเวลานั้น จึงใช้ Future Perfect"
+      },
+      {
+        "question": "My brother _______ three languages fluently.",
+        "options": [
+          "A. speaks",
+          "B. is speaking",
+          "C. has spoken",
+          "D. speak"
+        ],
+        "answer": "A",
+        "explanation": "การพูดได้สามภาษาเป็นความจริงทั่วไปเกี่ยวกับตัวเขา เป็นความสามารถติดตัว จึงใช้ Present Simple"
+      },
+      {
+        "question": "While I was browsing the internet, the power suddenly _______ out.",
+        "options": [
+          "A. went",
+          "B. was going",
+          "C. had gone",
+          "D. has gone"
+        ],
+        "answer": "A",
+        "explanation": "การเล่นอินเทอร์เน็ต (was browsing) เป็นเหตุการณ์ที่กำลังดำเนินอยู่ และไฟดับ (went out) เป็นเหตุการณ์สั้นๆ ที่เข้ามาแทรก จึงใช้ Past Simple สำหรับเหตุการณ์ที่แทรก"
+      },
+      {
+        "question": "Sorry I'm late. _______ for a long time?",
+        "options": [
+          "A. Did you wait",
+          "B. Were you waiting",
+          "C. Have you been waiting",
+          "D. Do you wait"
+        ],
+        "answer": "C",
+        "explanation": "เป็นการถามถึงระยะเวลาที่การรอคอยได้ดำเนินมาตั้งแต่ในอดีตจนถึงปัจจุบันที่ผู้พูดมาถึง จึงใช้ Present Perfect Continuous"
+      },
+      {
+        "question": "The concert _______ at 8 PM, so we should leave soon.",
+        "options": [
+          "A. is starting",
+          "B. will start",
+          "C. starts",
+          "D. has started"
+        ],
+        "answer": "C",
+        "explanation": "เราใช้ Present Simple เพื่อพูดถึงตารางเวลา (timetable/schedule) ที่กำหนดไว้แน่นอนแล้ว เช่น ตารางรถไฟ ตารางคอนเสิร์ต"
+      },
+      {
+        "question": "I _______ that movie before, so I didn't want to see it again.",
+        "options": [
+          "A. saw",
+          "B. have seen",
+          "C. was seeing",
+          "D. had seen"
+        ],
+        "answer": "D",
+        "explanation": "การดูหนังเกิดขึ้น 'ก่อน' การตัดสินใจไม่อยากดูอีกครั้งในอดีต (didn't want) ดังนั้นการกระทำที่เกิดก่อนในอดีตจึงใช้ Past Perfect"
+      },
+      {
+        "question": "The population of the world _______ rapidly.",
+        "options": [
+          "A. increases",
+          "B. has increased",
+          "C. is increasing",
+          "D. increase"
+        ],
+        "answer": "C",
+        "explanation": "เป็นการพูดถึงแนวโน้มหรือการเปลี่ยนแปลงที่กำลังเกิดขึ้นในช่วงเวลาปัจจุบัน (trend happening now) เราจึงใช้ Present Continuous"
+      },
+      {
+        "question": "By the time he retires, he _______ for this company for over 30 years.",
+        "options": [
+          "A. will be working",
+          "B. will have been working",
+          "C. is going to work",
+          "D. works"
+        ],
+        "answer": "B",
+        "explanation": "'By the time he retires' บอกจุดเวลาในอนาคต และ 'for over 30 years' เน้นระยะเวลาที่ดำเนินมาจนถึงจุดนั้น จึงต้องใช้ Future Perfect Continuous"
+      },
+      {
+        "question": "I _______ my old school friend while I was shopping in the city center yesterday.",
+        "options": [
+          "A. was meeting",
+          "B. met",
+          "C. had met",
+          "D. have met"
+        ],
+        "answer": "B",
+        "explanation": "การเจอเพื่อน (met) เป็นเหตุการณ์สั้นๆ ที่เกิดขึ้นแทรกระหว่างที่กำลังชอปปิงอยู่ (was shopping) จึงใช้ Past Simple"
+      },
+      {
+        "question": "This is the best pizza I _______. You have to try it!",
+        "options": [
+          "A. ever had",
+          "B. have ever had",
+          "C. was ever having",
+          "D. had ever had"
+        ],
+        "answer": "B",
+        "explanation": "เมื่อใช้โครงสร้าง The + superlative (best, most expensive, etc.) เรามักจะตามด้วย Present Perfect เพื่อบอกเล่าประสบการณ์จนถึงปัจจุบัน"
+      },
+      {
+        "question": "The train _______ when we arrived at the platform, so we had to run.",
+        "options": [
+          "A. just left",
+          "B. was just leaving",
+          "C. had just left",
+          "D. has just left"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้หมายถึงรถไฟกำลังจะออกจากชานชาลา ณ ตอนที่เราไปถึงพอดี ทำให้เราต้องรีบวิ่ง เหตุการณ์เกิดขึ้นพร้อมๆ กัน จึงใช้ Past Continuous"
+      },
+      {
+        "question": "He seems tired. He _______ all night for his exam.",
+        "options": [
+          "A. has studied",
+          "B. studied",
+          "C. has been studying",
+          "D. studies"
+        ],
+        "answer": "C",
+        "explanation": "ผลลัพธ์ที่เห็นในปัจจุบัน (ดูเหนื่อย) เกิดจากการกระทำที่ดำเนินมาอย่างต่อเนื่อง (อ่านหนังสือ) เราจึงใช้ Present Perfect Continuous เพื่อเน้นความต่อเนื่องของการกระทำ"
+      },
+      {
+        "question": "My sister _______ in Berlin since 2018.",
+        "options": [
+          "A. lives",
+          "B. is living",
+          "C. has been living",
+          "D. lived"
+        ],
+        "answer": "C",
+        "explanation": "การใช้ 'since' + จุดเวลาในอดีต เป็นสัญญาณของการใช้ Perfect Tense และการอาศัยอยู่เป็นกริยาที่ต่อเนื่อง จึงใช้ Present Perfect Continuous เพื่อเน้นว่าเธอยังคงอาศัยอยู่ที่นั่น"
+      },
+      {
+        "question": "Before she became a writer, she _______ as a journalist for several years.",
+        "options": [
+          "A. had worked",
+          "B. was working",
+          "C. has worked",
+          "D. worked"
+        ],
+        "answer": "A",
+        "explanation": "การทำงานเป็นนักข่าว (had worked) เป็นเหตุการณ์ที่เกิดขึ้นและจบลง 'ก่อน' ที่เธอจะมาเป็นนักเขียน (became a writer) ในอดีต จึงใช้ Past Perfect"
+      },
+      {
+        "question": "I promise I _______ you with your project tomorrow.",
+        "options": [
+          "A. am helping",
+          "B. am going to help",
+          "C. will help",
+          "D. help"
+        ],
+        "answer": "C",
+        "explanation": "เราใช้ 'will' สำหรับการให้คำสัญญา (promises), การเสนอความช่วยเหลือ (offers), และการตัดสินใจที่เกิดขึ้น ณ ขณะที่พูด"
+      },
+      {
+        "question": "It _______ for three days now. I hope it stops soon.",
+        "options": [
+          "A. rains",
+          "B. is raining",
+          "C. has been raining",
+          "D. rained"
+        ],
+        "answer": "C",
+        "explanation": "เหตุการณ์ฝนตกเริ่มในอดีต (three days ago) และดำเนินต่อเนื่องมาจนถึงปัจจุบันที่พูด และยังไม่จบ จึงใช้ Present Perfect Continuous"
+      },
+      {
+        "question": "What _______ at 10 PM last night? I called you but there was no answer.",
+        "options": [
+          "A. did you do",
+          "B. were you doing",
+          "C. had you done",
+          "D. have you done"
+        ],
+        "answer": "B",
+        "explanation": "เป็นการถามถึงสิ่งที่กำลังดำเนินอยู่ ณ จุดเวลาที่เจาะจงในอดีต (at 10 PM last night) จึงใช้ Past Continuous"
+      },
+      {
+        "question": "They _______ their new car for only a week when it broke down.",
+        "options": [
+          "A. had",
+          "B. were having",
+          "C. have had",
+          "D. had had"
+        ],
+        "answer": "D",
+        "explanation": "การมีรถ (had) เป็นเหตุการณ์ที่เกิดขึ้นก่อนที่รถจะเสีย (broke down) จึงต้องใช้ Past Perfect. รูป Past Perfect ของ have คือ had had."
+      },
+      {
+        "question": "This time tomorrow, I _______ my final exam.",
+        "options": [
+          "A. will take",
+          "B. am taking",
+          "C. will be taking",
+          "D. will have taken"
+        ],
+        "answer": "C",
+        "explanation": "'This time tomorrow' ระบุเวลาเจาะจงในอนาคต เราใช้ Future Continuous เพื่อพูดถึงการกระทำที่จะกำลังดำเนินอยู่ในเวลานั้น"
+      },
+      {
+        "question": "He wasn't at home when I called. He _______ out.",
+        "options": [
+          "A. has already gone",
+          "B. had already gone",
+          "C. already went",
+          "D. was already going"
+        ],
+        "answer": "B",
+        "explanation": "การออกไปข้างนอก (gone out) เกิดขึ้น 'ก่อน' ที่ฉันจะโทรไป (called) ในอดีต จึงต้องใช้ Past Perfect"
+      },
+      {
+        "question": "The film _______ by the time we get to the cinema.",
+        "options": [
+          "A. will start",
+          "B. is starting",
+          "C. will have started",
+          "D. starts"
+        ],
+        "answer": "C",
+        "explanation": "เหตุการณ์หนังเริ่มจะเกิดขึ้นและเสร็จสิ้น (ในที่นี้คือการ 'เริ่ม' ได้เสร็จสิ้นไปแล้ว) 'ก่อน' ที่เราจะไปถึงในอนาคต จึงใช้ Future Perfect"
+      },
+      {
+        "question": "I _______ you're busy right now, so I'll call back later.",
+        "options": [
+          "A. see",
+          "B. am seeing",
+          "C. have seen",
+          "D. saw"
+        ],
+        "answer": "A",
+        "explanation": "'See' ในความหมายว่า 'understand' หรือ 'realize' เป็น State Verb ซึ่งจะไม่ใช้ในรูป Continuous Tense"
+      },
+      {
+        "question": "She _______ much healthier since she quit smoking.",
+        "options": [
+          "A. looks",
+          "B. is looking",
+          "C. has been looking",
+          "D. looked"
+        ],
+        "answer": "A",
+        "explanation": "แม้ว่าเหตุการณ์จะเริ่มตั้งแต่เลิกบุหรี่ แต่ 'look' ในความหมายว่า 'seem' หรือ 'appear' เป็น State Verb ที่แสดงสภาวะ ณ ปัจจุบัน จึงใช้ Present Simple อย่างไรก็ตาม 'has looked' ก็ยอมรับได้ในบางบริบท แต่ 'looks' เป็นธรรมชาติที่สุด"
+      },
+      {
+        "question": "When _______ the last time you _______ a holiday?",
+        "options": [
+          "A. was / took",
+          "B. is / have taken",
+          "C. was / have taken",
+          "D. has been / took"
+        ],
+        "answer": "A",
+        "explanation": "คำถาม 'When was the last time...?' เป็นสำนวนที่ตายตัว และเหตุการณ์ที่ตามมาจะเป็นอดีตที่จบไปแล้ว จึงใช้ Past Simple ('took')"
+      },
+      {
+        "question": "I can't find my wallet. I think I _______ it on the bus.",
+        "options": [
+          "A. was leaving",
+          "B. have left",
+          "C. had left",
+          "D. left"
+        ],
+        "answer": "D",
+        "explanation": "แม้ว่าผลลัพธ์จะอยู่ถึงปัจจุบัน (หาไม่เจอ) แต่ผู้พูดกำลังสันนิษฐานถึงการกระทำที่จบไปแล้วในอดีต (การลืมไว้บนรถ) โดยไม่ได้เชื่อมโยงกับปัจจุบันโดยตรง จึงใช้ Past Simple (left) ในกรณีนี้ 'have left' ก็เป็นไปได้ แต่ 'left' สื่อถึงการกระทำที่จบไปแล้วมากกว่า"
+      },
+      {
+        "question": "At the end of his trip, Jack _______ over 5,000 kilometers.",
+        "options": [
+          "A. will travel",
+          "B. will be traveling",
+          "C. is going to travel",
+          "D. will have traveled"
+        ],
+        "answer": "D",
+        "explanation": "'At the end of his trip' เป็นจุดเวลาในอนาคต และประโยคต้องการบอกว่าการเดินทางระยะทาง 5,000 กม. จะเสร็จสมบูรณ์เมื่อถึงจุดนั้น จึงใช้ Future Perfect"
+      },
+      {
+        "question": "The children were covered in paint. They _______ the living room.",
+        "options": [
+          "A. painted",
+          "B. have been painting",
+          "C. had been painting",
+          "D. were painting"
+        ],
+        "answer": "C",
+        "explanation": "ผลลัพธ์ในอดีต (ตัวเปื้อนสี) เกิดจากการกระทำที่ดำเนินมาอย่างต่อเนื่องก่อนหน้านั้น (ทาสีห้อง) จึงใช้ Past Perfect Continuous"
+      },
+      {
+        "question": "I _______ to the gym every day this week to prepare for the marathon.",
+        "options": [
+          "A. go",
+          "B. am going",
+          "C. have been going",
+          "D. went"
+        ],
+        "answer": "C",
+        "explanation": "'this week' เป็นช่วงเวลาที่ยังไม่จบ และการไปยิมเป็นการกระทำซ้ำๆ ที่เกิดขึ้นตลอดช่วงเวลานี้จนถึงปัจจุบัน จึงใช้ Present Perfect Continuous"
+      },
+      {
+        "question": "The company hopes it _______ a profit by the end of the fiscal year.",
+        "options": [
+          "A. will make",
+          "B. will have made",
+          "C. is making",
+          "D. makes"
+        ],
+        "answer": "B",
+        "explanation": "'by the end of the fiscal year' เป็น deadline ในอนาคต การกระทำ (ทำกำไร) จะต้องเสร็จสิ้นก่อนถึงเวลานั้น จึงใช้ Future Perfect"
+      },
+      {
+        "question": "He _______ at the report for hours but he still can't find the mistake.",
+        "options": [
+          "A. has been looking",
+          "B. was looking",
+          "C. looked",
+          "D. has looked"
+        ],
+        "answer": "A",
+        "explanation": "การกระทำ (มองหารายงาน) เริ่มในอดีตและดำเนินต่อเนื่องมาจนถึงปัจจุบัน (ยังหาไม่เจอ) และ 'for hours' เน้นระยะเวลา จึงใช้ Present Perfect Continuous"
+      },
+      {
+        "question": "We _______ a reservation, but the restaurant was empty anyway.",
+        "options": [
+          "A. didn't need to make",
+          "B. needn't have made",
+          "C. shouldn't make",
+          "D. mustn't have made"
+        ],
+        "answer": "B",
+        "explanation": "'needn't have + V.3' ใช้พูดถึงสิ่งที่เราได้ทำไปแล้วในอดีตโดยไม่จำเป็น (แต่ก็ได้ทำไปแล้ว) ส่วน 'didn't need to make' หมายถึงไม่จำเป็นต้องทำและเราก็ไม่ได้ทำ"
+      },
+      {
+        "question": "It was the first time I _______ sushi, and I loved it.",
+        "options": [
+          "A. ate",
+          "B. have eaten",
+          "C. had eaten",
+          "D. was eating"
+        ],
+        "answer": "C",
+        "explanation": "สำนวน 'It was the first/second time...' จะตามด้วย Past Perfect เพราะการกระทำนั้น (กินซูชิ) เกิดขึ้นก่อนช่วงเวลาในอดีตที่กำลังพูดถึง"
+      },
+      {
+        "question": "My phone is ringing. I _______ it.",
+        "options": [
+          "A. am answering",
+          "B. am going to answer",
+          "C. will answer",
+          "D. answer"
+        ],
+        "answer": "C",
+        "explanation": "เป็นการตัดสินใจอย่างฉับพลัน ณ ขณะที่พูด (spontaneous decision) เราจึงใช้ 'will' "
+      },
+      {
+        "question": "Once the new regulations _______ into effect, everything will be different.",
+        "options": [
+          "A. come",
+          "B. will come",
+          "C. have come",
+          "D. are coming"
+        ],
+        "answer": "A",
+        "explanation": "ในประโยคย่อย (clause) ที่ขึ้นต้นด้วยคำบอกเวลาในอนาคต เช่น once, when, as soon as, after, before เราจะใช้ Present Simple แม้ว่าจะพูดถึงเรื่องในอนาคตก็ตาม"
+      },
+      {
+        "question": "I _______ of applying for a new job recently.",
+        "options": [
+          "A. think",
+          "B. am thinking",
+          "C. have been thinking",
+          "D. have thought"
+        ],
+        "answer": "C",
+        "explanation": "'recently' และการที่การคิดยังดำเนินอยู่ บ่งชี้ว่าเป็นการกระทำที่เริ่มในอดีตอันใกล้และต่อเนื่องมาถึงปัจจุบัน จึงใช้ Present Perfect Continuous"
+      },
+      {
+        "question": "They were exhausted because they _______ since dawn.",
+        "options": [
+          "A. had been traveling",
+          "B. have been traveling",
+          "C. were traveling",
+          "D. traveled"
+        ],
+        "answer": "A",
+        "explanation": "ผลลัพธ์ในอดีต (เหนื่อย) เกิดจากการกระทำที่ดำเนินมาอย่างต่อเนื่อง (เดินทาง) 'ก่อน' หน้าเวลานั้น จึงใช้ Past Perfect Continuous"
+      },
+      {
+        "question": "By 2030, scientists predict that humans _______ on Mars.",
+        "options": [
+          "A. will land",
+          "B. will have landed",
+          "C. will be landing",
+          "D. are going to land"
+        ],
+        "answer": "B",
+        "explanation": "'By 2030' เป็น deadline ในอนาคต ประโยคนี้คาดการณ์ว่าการลงจอดบนดาวอังคารจะสำเร็จลุล่วง 'ก่อน' หรือภายในปี 2030 จึงใช้ Future Perfect"
+      },
+      {
+        "question": "She suddenly realized that she _______ her wallet at the cafe.",
+        "options": [
+          "A. was leaving",
+          "B. left",
+          "C. has left",
+          "D. had left"
+        ],
+        "answer": "D",
+        "explanation": "การลืมกระเป๋าเงิน (had left) เกิดขึ้น 'ก่อน' ที่เธอจะนึกขึ้นได้ (realized) ในอดีต จึงต้องใช้ Past Perfect"
+      },
+      {
+        "question": "This cheese _______ strange. Do you think it has gone bad?",
+        "options": [
+          "A. is smelling",
+          "B. smells",
+          "C. has smelled",
+          "D. smelled"
+        ],
+        "answer": "B",
+        "explanation": "กริยาที่เกี่ยวกับประสาทสัมผัส (smell, taste, feel, sound) เมื่อใช้เพื่อบรรยายคุณลักษณะ จะเป็น State Verb และใช้ในรูป Simple Tense"
+      },
+      {
+        "question": "Wait here until the rain _______.",
+        "options": [
+          "A. will stop",
+          "B. is stopping",
+          "C. has stopped",
+          "D. stops"
+        ],
+        "answer": "D",
+        "explanation": "ในประโยคย่อยที่ขึ้นต้นด้วยคำเชื่อมบอกเวลาเช่น until, when, before, after เราจะใช้ Present Tense (ในที่นี้คือ Present Simple) เพื่อพูดถึงเหตุการณ์ในอนาคต"
+      }
+    ]
+  }
+]

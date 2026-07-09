@@ -1247,9 +1247,9 @@ export default function ExercisesArea({ activeLang, onAskPDF }: ExercisesAreaPro
             </button>
           </div>
           
-          <div className="absolute top-4 left-4 md:top-6 md:left-8 z-[60]">
+          <div className="absolute top-4 left-4 md:top-6 md:left-8 z-[70] pointer-events-auto">
              {article.audioUrl && (
-                <div className="bg-white/90 backdrop-blur p-2 rounded-2xl shadow-lg border border-gray-200 flex items-center gap-4">
+                <div className="bg-white/95 backdrop-blur p-2 rounded-2xl shadow-xl border border-gray-200 flex items-center gap-4">
                   <div className="w-10 h-10 bg-blue-100 text-blue-600 rounded-full flex items-center justify-center">
                     <Headphones size={20} />
                   </div>
@@ -1400,6 +1400,18 @@ export default function ExercisesArea({ activeLang, onAskPDF }: ExercisesAreaPro
     if (isFullscreen) {
       return (
         <div className="fixed inset-0 z-50 bg-gray-50 flex flex-col">
+          {/* Audio Player in Full Screen */}
+          <div className="absolute top-4 left-4 md:top-6 md:left-8 z-[70] pointer-events-auto">
+             {article.audioUrl && (
+                <div className="bg-white/95 backdrop-blur p-2 rounded-2xl shadow-xl border border-gray-200 flex items-center gap-4">
+                  <div className="w-10 h-10 bg-blue-100 text-blue-600 rounded-full flex items-center justify-center shrink-0">
+                    <Headphones size={20} />
+                  </div>
+                  <audio controls src={article.audioUrl} className="h-10 outline-none" />
+                </div>
+             )}
+          </div>
+          
           <div className="absolute top-28 right-6 z-[60] flex flex-col items-center gap-3">
             <a 
               href={imgUrl}

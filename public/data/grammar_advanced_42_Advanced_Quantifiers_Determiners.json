@@ -1,0 +1,1114 @@
+[
+  {
+    "id": "42_1",
+    "title": "42.1 Few vs. A few / Little vs. A little",
+    "explanation": "ในระดับ C1-C2 ความแตกต่างระหว่าง Few/A few และ Little/A little ไม่ใช่แค่เรื่อง 'นับได้' กับ 'นับไม่ได้' อีกต่อไป แต่คือการเล่นกับ 'น้ำเสียง' (Tone), 'นัยแฝง' (Connotation), และ 'ความเป็นทางการ' (Formality) ซึ่งเปลี่ยนความหมายของประโยคได้อย่างสิ้นเชิง\n\n**แก่นแท้ที่ต้องเข้าใจ:**\nการมี 'a' คือความแตกต่างระหว่าง 'การมีอยู่' กับ 'การขาดแคลน'\n\n**1. Little vs. A little (ใช้กับนามนับไม่ได้ - Uncountable Nouns):**\n   - **Little (เชิงลบ):** แปลว่า 'น้อยมากจนแทบไม่มีเลย' สื่อถึงความขาดแคลน, ไม่เพียงพอ, หรือความผิดหวัง มันมีน้ำเสียงในแง่ลบอย่างชัดเจน\n     - ตัวอย่าง: `There is little evidence to support his wild claims.` (มีหลักฐานน้อยมากจนแทบไม่มีเลยที่จะสนับสนุนคำกล่าวอ้างที่เพ้อเจ้อของเขา) -> ประโยคนี้ตัดสินไปแล้วว่าคำกล่าวอ้างนั้น 'ไร้น้ำหนัก'\n   - **A little (เชิงบวก/กลาง):** แปลว่า 'มีอยู่บ้างเล็กน้อย' แม้จะมีไม่มาก แต่ก็เน้นว่า 'ยังมีอยู่' มันไม่ได้สื่อถึงความขาดแคลน แต่เป็นการบอกปริมาณตามจริง หรือมองในแง่ดีว่าอย่างน้อยก็ยังมี\n     - ตัวอย่าง: `We have a little time left; let's quickly review the main points.` (เรายังพอมีเวลาเหลืออยู่บ้าง งั้นเรามารีบทบทวนประเด็นหลักกันเถอะ) -> เน้นว่า 'ยังมีเวลา' พอให้ทำอะไรบางอย่างได้\n\n**2. Few vs. A few (ใช้กับนามนับได้พหูพจน์ - Plural Countable Nouns):**\n   - **Few (เชิงลบ):** แปลว่า 'น้อยมากจนแทบไม่มีเลย' (ในแง่ของจำนวน) สื่อถึงความน่าผิดหวัง, ความหายาก, หรือการวิพากษ์วิจารณ์\n     - ตัวอย่าง: `Few politicians grasp the long-term ramifications of their policies.` (มีนักการเมืองน้อยคนมากที่จะเข้าใจถึงผลกระทบระยะยาวของนโยบายตนเอง) -> เป็นการวิจารณ์ว่านักการเมืองส่วนใหญ่ขาดวิสัยทัศน์\n   - **A few (เชิงบวก/กลาง):** แปลว่า 'มีอยู่จำนวนหนึ่ง' (ประมาณ 2-3 หรือมากกว่านั้นเล็กน้อย) เป็นการบอกจำนวนตามจริง ไม่ได้ตัดสินว่าดีหรือไม่ดี แค่บอกว่า 'มีอยู่' จำนวนไม่มาก\n     - ตัวอย่าง: `A few members of the board raised pertinent questions about the merger.` (กรรมการบอร์ดสองสามคนได้ตั้งคำถามที่ตรงประเด็นเกี่ยวกับการควบรวมกิจการ) -> เป็นการรายงานข้อเท็จจริงว่ามีคนตั้งคำถาม\n\n**ความลึกซึ้งระดับ C1-C2:**\n- **Formal vs. Informal:** `Few` และ `Little` (ไม่มี 'a') มีความเป็นทางการสูง มักพบในงานเขียนเชิงวิชาการ, รายงาน, หรือการกล่าวสุนทรพจน์ที่ต้องการเน้นย้ำความน้อยนิดอย่างจริงจัง ในบทสนทนาทั่วไป คนมักจะใช้ `not many` หรือ `not much` ซึ่งฟังดูเป็นธรรมชาติกว่า\n- **Emphasis with 'Very':** การใช้ `Very few` และ `Very little` เป็นการขยี้ความหมายเชิงลบให้หนักแน่นยิ่งขึ้นไปอีกขั้น เช่น `Very little is known about the abyssal zone of the ocean.` (มีข้อมูลน้อยนิดมากๆ เกี่ยวกับเขตทะเลลึกสุดของมหาสมุทร)",
+    "examples": [
+      {
+        "eng": "Few contemporary philosophers are willing to engage with metaphysical questions, which has led to a perceptible void in modern discourse.",
+        "thai": "มีนักปรัชญาร่วมสมัยน้อยคนมากที่เต็มใจจะถกเถียงในคำถามเชิงอภิปรัชญา ซึ่งได้นำไปสู่ช่องว่างที่สังเกตเห็นได้ชัดเจนในวาทกรรมสมัยใหม่\nคำอธิบาย: การใช้ 'Few' ที่นี่เป็นการวิจารณ์และแสดงความผิดหวังว่านักปรัชญาส่วนใหญ่หลีกเลี่ยงหัวข้อนี้ ทำให้เกิดผลเสียตามมา"
+      },
+      {
+        "eng": "Despite the initial setback, a few intrepid engineers on the team devised an unorthodox solution that ultimately saved the project.",
+        "thai": "แม้จะพบกับอุปสรรคในตอนแรก แต่วิศวกรผู้กล้าหาญเพียงไม่กี่คนในทีมก็ได้คิดค้นวิธีแก้ปัญหาที่นอกกรอบ ซึ่งท้ายที่สุดก็ช่วยกอบกู้โครงการไว้ได้\nคำอธิบาย: การใช้ 'A few' เน้นว่าถึงแม้จะมีแค่ 'จำนวนไม่มาก' แต่พวกเขาก็สร้างความแตกต่างที่ยิ่งใหญ่ได้ เป็นความหมายในเชิงบวก"
+      },
+      {
+        "eng": "The incumbent regime has shown little tolerance for political dissent, effectively silencing any opposition.",
+        "thai": "รัฐบาลชุดปัจจุบันได้แสดงความอดทนอดกลั้นต่อความเห็นต่างทางการเมืองน้อยมาก ซึ่งเป็นการปิดปากฝ่ายค้านอย่างได้ผล\nคำอธิบาย: การใช้ 'Little' สื่อความหมายเชิงลบอย่างรุนแรงว่า 'แทบไม่มีความอดทนเลย' ไม่ใช่แค่ 'มีความอดทนน้อย'"
+      },
+      {
+        "eng": "With a little perseverance and a dash of luck, you might just be able to secure that highly coveted position.",
+        "thai": "ด้วยความพากเพียรอีกสักหน่อยบวกกับโชคอีกนิดหน่อย คุณอาจจะสามารถคว้าตำแหน่งที่เป็นที่ปรารถนาอย่างสูงนั้นมาได้\nคำอธิบาย: การใช้ 'A little' ในที่นี้ให้ความรู้สึกในแง่ดีว่า ความพยายามเพิ่มเติม 'เพียงเล็กน้อย' ก็อาจจะเพียงพอที่จะสร้างผลลัพธ์ที่ยิ่งใหญ่ได้"
+      }
+    ],
+    "common_mistakes": "- **สลับความหมายเชิงบวก/ลบ:** ข้อผิดพลาดที่อันตรายที่สุดคือการใช้สลับกัน ซึ่งทำให้ความหมายของประโยคพลิกกลับด้าน เช่น ต้องการจะบอกว่า 'ฉันแทบไม่มีปัญหาเลย' (I have few problems) แต่กลับพูดว่า 'I have a few problems' (ฉันมีปัญหาอยู่ 2-3 อย่าง) ซึ่งทำให้คู่สนทนาเข้าใจผิดอย่างมหันต์\n- **พลาดกับนามนับไม่ได้ที่ซับซ้อน:** แม้จะอยู่ระดับสูงแล้ว แต่ก็ยังอาจสับสนกับนามนับไม่ได้เชิงนามธรรม เช่น research, evidence, advice, information, knowledge, progress แล้วเผลอไปใช้กับ few/a few เช่น `He gave me a few good advices.` (ผิด) ที่ถูกคือ `He gave me a little good advice.` หรือ `He gave me a few pieces of good advice.`\n- **ใช้ 'Few/Little' ในบริบทที่ไม่เป็นทางการเกินไป:** การพูดกับเพื่อนว่า `Few people came to my party.` อาจฟังดูจริงจังและแฝงความน้อยใจเกินไป ในขณะที่ `Not many people came.` หรือ `Hardly anyone came.` จะฟังดูเป็นธรรมชาติและเหมาะสมกับบริบทมากกว่า",
+    "practice_questions": [
+      {
+        "question": "The new CEO, known for his laconic style, offered ______ words of encouragement, leaving the team feeling more apprehensive than motivated.",
+        "options": [
+          "A. a few",
+          "B. few",
+          "C. a little",
+          "D. little"
+        ],
+        "answer": "B",
+        "explanation": "คำว่า 'words' เป็นนามนับได้ (countable) จึงต้องใช้ few/a few ตัด C และ D ทิ้ง บริบทของประโยคคือทีมงานรู้สึก 'apprehensive' (วิตกกังวล) มากกว่า 'motivated' (มีกำลังใจ) ซึ่งบ่งบอกถึงผลลัพธ์ในเชิงลบ ดังนั้น 'few' (น้อยมากจนแทบไม่มีเลย) จึงเหมาะสมที่สุด เพราะมันสื่อว่าคำพูดให้กำลังใจที่น้อยนิดนั้นไม่เพียงพอและสร้างผลเสีย"
+      },
+      {
+        "question": "Although the initial data seemed promising, subsequent analysis revealed ______ tangible evidence to support the groundbreaking hypothesis.",
+        "options": [
+          "A. few",
+          "B. a few",
+          "C. little",
+          "D. a little"
+        ],
+        "answer": "C",
+        "explanation": "คำว่า 'evidence' เป็นนามนับไม่ได้ (uncountable) ดังนั้นต้องใช้ little/a little ตัด A และ B ทิ้ง เนื้อความของประโยค 'Although...' แสดงความขัดแย้ง จากที่ตอนแรกดู 'promising' (มีแวว) แต่ผลกลับกลายเป็นว่า 'ไม่สามารถ support a hypothesis' ได้ ซึ่งเป็นความหมายเชิงลบ ดังนั้น 'little' (แทบไม่มีเลย) จึงถูกต้องที่สุด"
+      },
+      {
+        "question": "There is ______ prospect of a diplomatic resolution; the belligerent nations seem intent on escalating the conflict.",
+        "options": [
+          "A. a little",
+          "B. few",
+          "C. little",
+          "D. a few"
+        ],
+        "answer": "C",
+        "explanation": "คำว่า 'prospect' (ความหวัง, โอกาสที่จะเกิดขึ้น) ในบริบทนี้เป็นนามนับไม่ได้ จึงต้องใช้ little/a little ตัด B และ D ทิ้ง ประโยคท่อนหลังกล่าวว่าชาติต่างๆ 'intent on escalating the conflict' (ตั้งใจจะทำให้ความขัดแย้งบานปลาย) ซึ่งบ่งชี้ถึงสถานการณ์ที่สิ้นหวัง ดังนั้น 'little' (ความหวังริบหรี่, แทบไม่มีโอกาสเลย) จึงเป็นคำตอบที่สอดคล้องกับเนื้อหาที่สุด"
+      },
+      {
+        "question": "______ scholars have dared to challenge the quintessential theories of the field, making Dr. Aris's new treatise particularly audacious.",
+        "options": [
+          "A. A few",
+          "B. Few",
+          "C. Little",
+          "D. A little"
+        ],
+        "answer": "B",
+        "explanation": "คำว่า 'scholars' เป็นนามนับได้พหูพจน์ (plural countable) จึงต้องใช้ few/a few ตัด C และ D ทิ้ง ประโยคกล่าวว่างานเขียนของ Dr. Aris นั้น 'audacious' (กล้าบ้าบิ่น) ซึ่งหมายความว่าสิ่งที่เขาทำนั้นเป็นเรื่องที่คนอื่นไม่ค่อยทำกัน ดังนั้นการมีนักวิชาการที่กล้าท้าทายทฤษฎีหลักจึงเป็นเรื่องที่เกิดขึ้น 'น้อยมาก' การใช้ 'Few' จึงเหมาะสมที่สุดเพื่อเน้นย้ำความหายากและยกย่องความกล้าของ Dr. Aris"
+      },
+      {
+        "question": "To ameliorate the situation, we need more than just platitudes; we need ______ concrete action, starting immediately.",
+        "options": [
+          "A. few",
+          "B. little",
+          "C. a few",
+          "D. a little"
+        ],
+        "answer": "D",
+        "explanation": "คำว่า 'action' ในความหมายของการกระทำโดยรวม เป็นนามนับไม่ได้ จึงใช้ little/a little ตัด A และ C ทิ้ง ประโยคกำลังเรียกร้องให้ 'มีการกระทำ' เพื่อแก้ไขสถานการณ์ (ameliorate the situation) ซึ่งเป็นความต้องการในเชิงบวก ดังนั้น 'a little' (มีอยู่บ้าง) จึงเหมาะสมกว่า 'little' (แทบไม่มีเลย) ประโยคนี้หมายความว่า 'เราต้องการการกระทำที่เป็นรูปธรรมบ้างสักหน่อย' ไม่ใช่ต้องการ 'การกระทำที่แทบไม่มีเลย'"
+      },
+      {
+        "question": "The expedition into the uncharted jungle was perilous, and ______ of the original members returned unscathed.",
+        "options": [
+          "A. few",
+          "B. a few",
+          "C. little",
+          "D. a little"
+        ],
+        "answer": "A",
+        "explanation": "คำว่า 'members' เป็นนามนับได้พหูพจน์ (plural countable) จึงต้องใช้ few/a few ตัด C และ D ทิ้ง คำว่า 'perilous' (เต็มไปด้วยอันตราย) สร้างบริบทเชิงลบอย่างยิ่ง ดังนั้นผลลัพธ์ที่คาดหวังคือมีผู้รอดกลับมาโดยไม่บาดเจ็บ 'น้อยมาก' หรือ 'แทบไม่มีเลย' ดังนั้น 'few' จึงเป็นคำตอบที่ถูกต้องที่สุด"
+      },
+      {
+        "question": "Even with ______ financial backing, the grassroots organization managed to make a significant impact on local policy.",
+        "options": [
+          "A. a few",
+          "B. little",
+          "C. a little",
+          "D. few"
+        ],
+        "answer": "B",
+        "explanation": "คำว่า 'backing' (การสนับสนุน) ในที่นี้เป็นนามนับไม่ได้ จึงใช้ little/a little ตัด A และ D ทิ้ง คำว่า 'Even with...' (แม้ว่าจะมี...) สร้างความขัดแย้งกับผลลัพธ์ที่ประสบความสำเร็จ (make a significant impact) ดังนั้น สิ่งที่ขัดแย้งก็คือการมีทรัพยากรที่ 'น้อยมากจนแทบไม่มี' จึงใช้ 'little' เพื่อเน้นความขาดแคลน"
+      },
+      {
+        "question": "The manuscript was replete with errors, suggesting the author had paid ______ attention to the editing process.",
+        "options": [
+          "A. few",
+          "B. a little",
+          "C. little",
+          "D. a few"
+        ],
+        "answer": "C",
+        "explanation": "คำว่า 'attention' เป็นนามนับไม่ได้ จึงใช้ little/a little ตัด A และ D ทิ้ง การที่ต้นฉบับ 'replete with errors' (เต็มไปด้วยข้อผิดพลาด) เป็นผลลัพธ์ในเชิงลบที่บ่งชี้ว่าผู้เขียน 'แทบไม่ได้ให้ความสนใจ' กับกระบวนการตรวจแก้เลย ดังนั้น 'little' จึงเป็นคำตอบที่ถูกต้อง"
+      },
+      {
+        "question": "Of the myriad startups in the burgeoning tech hub, only ______ are projected to become profitable within the next five years, a sobering statistic for aspiring entrepreneurs.",
+        "options": [
+          "A. a few",
+          "B. few",
+          "C. a little",
+          "D. little"
+        ],
+        "answer": "A",
+        "explanation": "คำว่า 'startups' เป็นนามนับได้พหูพจน์ จึงใช้ few/a few ตัด C และ D ทิ้ง ข้อนี้ซับซ้อนมาก การใช้คำว่า 'only' มักจะตามด้วย 'a few' หรือ 'a little' เพื่อหมายถึง 'เพียงแค่จำนวน/ปริมาณเล็กน้อย' ('only a few people', 'only a little time') แม้ว่าผลลัพธ์จะเป็นสถิติที่น่าสลดใจ ('a sobering statistic') แต่โครงสร้าง 'only...' นิยมใช้กับ a few มากกว่า ในขณะที่ 'few' มักจะยืนอยู่เดี่ยวๆ เพื่อสื่อความหมายเชิงลบ ดังนั้น 'only a few' จึงเป็นโครงสร้างที่ถูกต้องและเป็นธรรมชาติที่สุดในบริบทนี้"
+      },
+      {
+        "question": "She retained ______ hope that her estranged brother would attend the reunion, clinging to the slim possibility.",
+        "options": [
+          "A. few",
+          "B. a little",
+          "C. little",
+          "D. a few"
+        ],
+        "answer": "B",
+        "explanation": "คำว่า 'hope' เป็นนามนับไม่ได้ จึงใช้ little/a little ตัด A และ D ทิ้ง ประโยคกล่าวว่าเธอ 'clinging to the slim possibility' (ยึดติดอยู่กับความเป็นไปได้อันริบหรี่) ซึ่งหมายความว่าเธอยัง 'มีความหวังอยู่บ้าง' แม้มันจะน้อยนิดก็ตาม นี่คือความหมายเชิงบวก (ในแง่ของการมีอยู่) ดังนั้น 'a little' จึงเหมาะสมที่สุด 'little hope' จะหมายถึงเธอแทบไม่มีความหวังเลย ซึ่งขัดกับอาการ 'clinging to' ที่แปลว่ายังยึดมั่นอยู่"
+      }
+    ]
+  },
+  {
+    "id": "42_2",
+    "title": "42.2 Both, Either, Neither (การใช้กับ 2 สิ่ง)",
+    "explanation": "ในระดับ Advanced เราจะมาเจาะลึกการใช้ `Both`, `Either`, และ `Neither` ซึ่งเป็น Quantifiers และ Determiners ที่ใช้สำหรับ 'สองสิ่ง' เท่านั้น โดยจะลงลึกในโครงสร้างที่ซับซ้อน, การผันกริยาที่ต้องระวังเป็นพิเศษ, และความแตกต่างระหว่างภาษาพูดกับภาษาเขียนที่เป็นทางการ\n\n**1. หลักการพื้นฐาน (ทบทวน)**\n*   **Both**: หมายถึง 'ทั้งสองอย่าง' (A และ B) ใช้กับคำนามพหูพจน์ และตามด้วยกริยาพหูพจน์เสมอ\n*   **Either**: หมายถึง 'อย่างใดอย่างหนึ่ง' (A หรือ B) ใช้กับคำนามเอกพจน์ และตามด้วยกริยาเอกพจน์\n*   **Neither**: หมายถึง 'ไม่ทั้งสองอย่าง' (ไม่ใช่ A และไม่ใช่ B) เป็นรูปปฏิเสธ ใช้กับคำนามเอกพจน์ และตามด้วยกริยาเอกพจน์ (ตัวมันเองมีความหมายเป็นปฏิเสธอยู่แล้ว จึงไม่ต้องใช้ not ซ้ำ)\n\n**2. การใช้ในฐานะ Determiner และ Pronoun**\n*   **Determiner (คำนำหน้านาม)**: วางหน้านามโดยตรง\n    *   `Both proposals contain viable solutions.` (proposals เป็นพหูพจน์)\n    *   `Either strategy entails a significant risk.` (strategy เป็นเอกพจน์)\n    *   `Neither candidate articulated a clear vision.` (candidate เป็นเอกพจน์)\n*   **Pronoun (คำสรรพนาม)**: ใช้เดี่ยวๆ หรือตามด้วย of\n    *   `I have two options, and both are equally appealing.`\n    *   `'Which one do you want?' 'Either is fine.'`\n    *   `Of the two initial reports, neither was entirely accurate.`\n\n**3. โครงสร้างที่ซับซ้อน: การใช้กับ 'of'**\nนี่คือจุดที่สำคัญมากในระดับ C1-C2 เมื่อใช้โครงสร้าง `... of the/my/these + Noun (Plural)` กฎการใช้กริยาจะเปลี่ยนไปเล็กน้อยและมีความแตกต่างระหว่างภาษาที่เป็นทางการและไม่เป็นทางการ\n*   **Both of the + Noun (Plural) + Verb (Plural)**: โครงสร้างนี้ตรงไปตรงมาเสมอ\n    *   `Both of the lead scientists are attending the symposium.`\n*   **Either of the + Noun (Plural) + Verb (Singular - Formal / Plural - Informal)**: ในภาษาเขียนเชิงวิชาการหรือที่เป็นทางการสูง **ต้องใช้กริยาเอกพจน์** เพราะประธานจริงๆ คือ 'Either' (หนึ่งในสอง) แต่ในภาษาพูดทั่วไป มักจะได้ยินคนใช้กริยาพหูพจน์\n    *   **Formal**: `Either of the two litigants is expected to appeal the verdict.`\n    *   **Informal**: `Either of my brothers are happy to help you move.`\n*   **Neither of the + Noun (Plural) + Verb (Singular - Formal / Plural - Informal)**: เช่นเดียวกับ Either of... **ภาษาทางการบังคับใช้กริยาเอกพจน์**\n    *   **Formal**: `Neither of the stipulations in the contract is negotiable.`\n    *   **Informal**: `Neither of my parents understand what I do for a living.`\n\n**4. Correlative Conjunctions: both...and..., either...or..., neither...nor...**\nโครงสร้างนี้ใช้เชื่อมคำหรือประโยคที่มีน้ำหนักเท่ากัน กฎสำคัญที่สุดคือ 'Proximity Rule' (กฎความใกล้ชิด)\n*   **Both A and B + Verb (Plural)**: โครงสร้างนี้ใช้กริยาพหูพจน์เสมอ ไม่ว่า A หรือ B จะเป็นเอกพจน์หรือพหูพจน์\n    *   `Both the preliminary analysis and the subsequent reports suggest a positive outcome.`\n*   **Either A or B / Neither A nor B + Verb (agrees with B)**: นี่คือ **Proximity Rule** กริยาจะผันตามประธานตัวที่อยู่ 'ใกล้ที่สุด' (คือ B)\n    *   `Neither the supervisor nor the employees *were* aware of the impending audit.` (กริยา `were` ผันตาม `employees`)\n    *   `Neither the employees nor the supervisor *was* aware of the impending audit.` (กริยา `was` ผันตาม `supervisor`)\n    *   `Either the board members or the CEO *is* going to make the final announcement.` (กริยา `is` ผันตาม `CEO`)\n\n**5. การวางตำแหน่งของ 'Both'**\n`Both` สามารถวางในตำแหน่งต่างๆ ในประโยคได้:\n*   **หลัง Verb to be**: `The two defendants were both found guilty.`\n*   **หลัง Modal Verb (can, will, should)**: `They can both articulate their arguments eloquently.`\n*   **หลัง Auxiliary Verb (have, do)**: `We have both substantiated our claims with empirical evidence.`",
+    "examples": [
+      {
+        "eng": "Neither the convoluted legal jargon nor the abstruse technical specifications in the document *were* comprehensible to the layperson.",
+        "thai": "ทั้งศัพท์กฎหมายที่ซับซ้อนและข้อกำหนดทางเทคนิคที่เข้าใจยากในเอกสารนั้น *ก็ไม่เป็นที่*เข้าใจได้สำหรับคนทั่วไปเลยสักอย่าง\nคำอธิบาย: ประโยคนี้ใช้โครงสร้าง 'Neither A nor B' โดยที่ A คือ 'jargon' (เอกพจน์) และ B คือ 'specifications' (พหูพจน์) ตามกฎ Proximity Rule กริยา 'were' จึงต้องผันตาม 'specifications' ซึ่งเป็นประธานที่อยู่ใกล้กว่า"
+      },
+      {
+        "eng": "Both of the preeminent scholars, despite their ideological differences, have conceded that the new discovery fundamentally alters our understanding of astrophysics.",
+        "thai": "นักวิชาการผู้โดดเด่นทั้งสองท่าน แม้จะมีความแตกต่างทางแนวคิด ได้ยอมรับว่าการค้นพบใหม่นี้เปลี่ยนแปลงความเข้าใจของเราเกี่ยวกับดาราศาสตร์ฟิสิกส์โดยพื้นฐาน\nคำอธิบาย: 'Both of the + Noun (Plural)' ตามด้วยกริยาพหูพจน์ 'have conceded' มีการแทรกวลี 'despite their ideological differences' เข้ามาเพื่อเพิ่มความซับซ้อน แต่โครงสร้างหลักยังคงเดิม"
+      },
+      {
+        "eng": "In this ethical dilemma, either of the proposed courses of action is fraught with peril, leaving the committee in a state of profound indecision.",
+        "thai": "ในภาวะที่กลืนไม่เข้าคายไม่ออกทางจริยธรรมนี้ ทางเลือกการดำเนินการที่ถูกเสนอมาไม่ว่าทางใดทางหนึ่งล้วนเต็มไปด้วยภยันตราย ทำให้คณะกรรมการตกอยู่ในสภาวะลังเลอย่างยิ่ง\nคำอธิบาย: ตัวอย่างการใช้ 'Either of the + Noun (Plural)' ในบริบทที่เป็นทางการสูง กริยาที่ใช้คือ 'is' (เอกพจน์) เพื่อให้สอดคล้องกับไวยากรณ์ที่เป็นทางการ แม้ว่านาม 'courses of action' จะเป็นพหูพจน์ก็ตาม"
+      }
+    ],
+    "common_mistakes": "1. **การผันกริยาผิดกับ 'Either of' และ 'Neither of'**: คนไทยมักจะใช้กริยาพหูพจน์ตามคำนามพหูพจน์ที่ตามหลังมา (เช่น 'Neither of the students *are* here.') ซึ่งเป็นเรื่องปกติในภาษาพูด แต่ในภาษาเขียนที่เป็นทางการหรือการสอบระดับสูง ถือว่าผิดหลักไวยากรณ์ ต้องใช้กริยาเอกพจน์ ('Neither of the students *is* here.')\n\n2. **ใช้ 'Both...not' แทน 'Neither'**: การพูดว่า 'Both of them are not coming.' อาจทำให้เกิดความสับสนว่า 'มาคนเดียว' หรือ 'ไม่มาเลยทั้งสองคน' วิธีที่ชัดเจนและถูกต้องทางไวยากรณ์ในการสื่อว่า 'ไม่มาเลยทั้งสองคน' คือ 'Neither of them is coming.'\n\n3. **ลืมใช้ Proximity Rule**: เมื่อเจอโครงสร้าง 'Neither...nor...' ที่ซับซ้อน หลายคนมักจะยึดประธานตัวแรกเป็นหลัก หรือใช้กริยาพหูพจน์เสมอ ซึ่งผิด ต้องจำให้ขึ้นใจว่ากริยาจะผันตามประธานตัวที่อยู่ติดกันเท่านั้น เช่น 'Neither I nor he *is* wrong.' ไม่ใช่ 'am' หรือ 'are'.\n\n4. **ใช้กับของสามสิ่งขึ้นไป**: เป็นข้อผิดพลาดพื้นฐานที่ยังคงเกิดขึ้นได้ในระดับสูงเมื่อเผชิญกับประโยคที่ซับซ้อน ต้องจำไว้เสมอว่า Both, Either, Neither ใช้สำหรับ 2 สิ่งเท่านั้น ถ้ามี 3 สิ่งขึ้นไป ต้องเปลี่ยนไปใช้ 'All', 'Any', 'None' ตามลำดับ",
+    "practice_questions": [
+      {
+        "question": "Neither the Prime Minister herself nor her cabinet ministers ______ prepared for the sheer vehemence of the public backlash.",
+        "options": [
+          "A. was",
+          "B. were",
+          "C. has been",
+          "D. have been"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้ใช้โครงสร้าง 'Neither A nor B' ตามกฎ Proximity Rule กริยาต้องผันตามประธานตัวที่อยู่ใกล้ที่สุด (B) ในที่นี้คือ 'her cabinet ministers' ซึ่งเป็นคำนามพหูพจน์ ดังนั้นจึงต้องใช้กริยาพหูพจน์คือ 'were' ข้อ A 'was' ผิดเพราะเป็นเอกพจน์ ข้อ C และ D เป็น Present Perfect Tense ซึ่งไม่เข้ากับบริบทของเหตุการณ์ที่เกิดขึ้นและจบไปแล้ว"
+      },
+      {
+        "question": "The company presented two restructuring proposals, but ______ of them was deemed financially viable by the board of directors.",
+        "options": [
+          "A. both",
+          "B. either",
+          "C. neither",
+          "D. none"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคบอกว่าข้อเสนอทั้งสอง 'was deemed' (ถูกพิจารณาว่า) ไม่สามารถทำได้จริงทางการเงิน คำสำคัญคือกริยาเอกพจน์ 'was' และความหมายเชิงปฏิเสธ 'Neither of them was deemed...' แปลว่า 'ไม่มีอันไหนเลย (ในสองอัน) ที่ถูกพิจารณาว่า...' ซึ่งถูกต้องตามหลักไวยากรณ์ทางการที่ 'Neither of' ตามด้วยกริยาเอกพจน์ ข้อ A 'both' ต้องใช้กับกริยาพหูพจน์ ข้อ B 'either' จะให้ความหมายว่า 'อันใดอันหนึ่ง' ซึ่งขัดกับเนื้อหา ข้อ D 'none' ใช้สำหรับ 3 สิ่งขึ้นไป"
+      },
+      {
+        "question": "Despite extensive deliberation, the two leading physicists could ______ agree on a unified theory.",
+        "options": [
+          "A. not both",
+          "B. both not",
+          "C. neither",
+          "D. either not"
+        ],
+        "answer": "C",
+        "explanation": "ในประโยคที่มีกริยาช่วย (modal verb 'could') และต้องการสร้างความหมายปฏิเสธสำหรับสองสิ่ง การใช้ 'neither' หลังกริยาช่วยเป็นวิธีที่สละสลวยและถูกต้องที่สุด 'could neither agree' หมายถึง ไม่สามารถตกลงกันได้ทั้งคู่ ข้อ A และ B 'not both' หรือ 'both not' เป็นโครงสร้างที่กำกวมและไม่เป็นธรรมชาติในภาษาเขียนระดับสูง ข้อ D 'either not' ผิดไวยากรณ์ ต้องเป็น 'not agree on either theory' ซึ่งเป็นโครงสร้างที่ต่างออกไป"
+      },
+      {
+        "question": "It is imperative that either the plaintiff or the defendants ______ their testimony before the court adjourns.",
+        "options": [
+          "A. provides",
+          "B. provide",
+          "C. are providing",
+          "D. has provided"
+        ],
+        "answer": "B",
+        "explanation": "ข้อนี้ทดสอบสองเรื่องพร้อมกัน: Proximity Rule และ Subjunctive Mood คำว่า 'It is imperative that...' บ่งชี้ว่าต้องใช้ Subjunctive Mood ซึ่งกริยาจะอยู่ในรูป Base Form (infinitive without 'to') โดยไม่ผันตามประธาน ดังนั้นคำตอบคือ 'provide' นอกจากนี้ หากพิจารณาตาม Proximity Rule ประธานตัวที่ใกล้กริยาคือ 'the defendants' (พหูพจน์) ซึ่งก็เข้ากับ 'provide' เช่นกัน ข้อ A 'provides' ผิดเพราะเป็นรูปเอกพจน์"
+      },
+      {
+        "question": "Both the burgeoning field of bioinformatics ______ the established principles of genetics are integral to modern medical research.",
+        "options": [
+          "A. or",
+          "B. nor",
+          "C. and",
+          "D. with"
+        ],
+        "answer": "C",
+        "explanation": "นี่คือการทดสอบ Correlative Conjunction พื้นฐานแต่ในบริบทที่ซับซ้อน 'Both' ต้องคู่กับ 'and' เสมอในโครงสร้าง 'Both A and B' เพื่อหมายถึง 'ทั้ง A และ B' ดังนั้นคำตอบที่ถูกต้องคือ 'and'"
+      },
+      {
+        "question": "Of the two equally plausible hypotheses, the research team has concluded that ______ is sufficiently supported by the current empirical data.",
+        "options": [
+          "A. both",
+          "B. either",
+          "C. neither",
+          "D. not either"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคต้องการสื่อความหมายว่า 'ไม่มีสมมติฐานไหนเลย (ในสองอัน) ที่มีข้อมูลเชิงประจักษ์สนับสนุนเพียงพอ' 'Neither' ทำหน้าที่เป็นสรรพนาม (pronoun) และตามด้วยกริยาเอกพจน์ 'is' ซึ่งถูกต้องตามหลักไวยากรณ์ที่เป็นทางการ 'Neither is sufficiently supported...' จึงเป็นคำตอบที่สมบูรณ์ที่สุด ข้อ A 'both' ต้องใช้กับกริยาพหูพจน์ ข้อ B 'either is...' จะแปลว่า 'อันใดอันหนึ่งมีข้อมูลสนับสนุน' ซึ่งขัดกับความหมายโดยรวมของประโยค"
+      },
+      {
+        "question": "The two competing corporations have ______ shown any inclination to compromise, prolonging the acrimonious legal battle.",
+        "options": [
+          "A. both",
+          "B. either",
+          "C. neither",
+          "D. each"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้มีความหมายเชิงปฏิเสธ ('...shown *any* inclination...' โดย 'any' มักใช้ในประโยคปฏิเสธหรือคำถาม) เพื่อให้ความหมายสมบูรณ์ เราต้องการคำที่แปลว่า 'ไม่ทั้งสอง' และสามารถวางไว้หน้ากริยาหลัก (shown) ได้ 'Neither' เป็นคำตอบที่ถูกต้องในที่นี้ เพราะ 'have neither shown' เป็นโครงสร้างที่ถูกต้อง หมายถึง 'ทั้งสองบริษัทไม่ได้แสดง...เลย' ข้อ A 'both' จะทำให้ประโยคเป็นบอกเล่าซึ่งขัดแย้งกัน ข้อ B 'either' ไม่ใช้ในโครงสร้างนี้ ข้อ D 'each' ใช้เพื่อเน้นทีละอัน ไม่ใช่ปฏิเสธทั้งคู่"
+      },
+      {
+        "question": "According to the contract's stipulations, ______ the primary contractor nor its subcontractors are liable for damages resulting from 'acts of God'.",
+        "options": [
+          "A. either",
+          "B. both",
+          "C. neither",
+          "D. not only"
+        ],
+        "answer": "C",
+        "explanation": "โครงสร้างประโยคมี 'nor' ซึ่งเป็นคู่ของ 'neither' เท่านั้น (neither...nor...) หมายถึง 'ไม่ทั้ง...และ...' ดังนั้น คำที่ต้องเติมในช่องว่างคือ 'neither' เพื่อให้โครงสร้าง Correlative Conjunction สมบูรณ์"
+      },
+      {
+        "question": "You can take ______ the morning flight via Dubai or the evening one direct to London; ______ route has its own distinct advantages.",
+        "options": [
+          "A. both / neither",
+          "B. either / each",
+          "C. neither / both",
+          "D. either / either"
+        ],
+        "answer": "B",
+        "explanation": "ช่องว่างแรกเป็นการให้เลือก ('or') ระหว่างสองตัวเลือก จึงต้องใช้ 'either' ('either A or B') สำหรับช่องว่างที่สอง ประโยคต้องการจะบอกว่าแต่ละเส้นทาง (ในสองเส้นทางนั้น) มีข้อดีของมันเอง คำว่า 'each' เหมาะสมที่สุดในบริบทนี้ เพราะเน้นว่า 'แต่ละอัน' มีคุณสมบัติของตัวเอง ขณะที่ 'both' จะหมายถึงทั้งสองมีข้อดีร่วมกัน ซึ่งก็เป็นไปได้ แต่ 'each' ให้ความหมายที่เจาะจงและเป็นธรรมชาติกว่าในประโยคนี้"
+      },
+      {
+        "question": "The paradox is that ______ of these ostensibly contradictory statements ______ a kernel of truth, making a definitive judgment intractable.",
+        "options": [
+          "A. both / contains",
+          "B. both / contain",
+          "C. either / contain",
+          "D. neither / contains"
+        ],
+        "answer": "B",
+        "explanation": "ประธานของประโยคคือ 'both of these... statements' ซึ่งเป็นพหูพจน์เสมอ ดังนั้น กริยาที่ตามมาต้องเป็นรูปพหูพจน์เช่นกัน คือ 'contain' โดยไม่มี 's' ดังนั้นข้อ B จึงถูกต้อง ข้อ A ผิดเพราะ 'contains' เป็นกริยาเอกพจน์ ข้อ C และ D ใช้ 'either' และ 'neither' ซึ่งโดยปกติในภาษาเขียนทางการจะตามด้วยกริยาเอกพจน์ จึงผิดทั้งคู่"
+      }
+    ]
+  },
+  {
+    "id": "42_3",
+    "title": "42.3 All, None, Each, Every (การใช้กับ 3 สิ่งขึ้นไป)",
+    "explanation": "ในระดับสูงนี้ เราจะมาเจาะลึกความแตกต่างที่ละเอียดอ่อนของการใช้ Quantifiers กับกลุ่มของ '3 สิ่งขึ้นไป' ซึ่งได้แก่ All, None, Each, และ Every แม้จะดูคล้ายกัน แต่การเลือกใช้แต่ละคำจะสื่อถึงมุมมองและนัยยะที่ต่างกันอย่างสิ้นเชิง\n\n1. **All (ทั้งหมด)**\n   - **แก่น:** มองกลุ่มทั้งหมดเป็น 'หน่วยเดียว' (a single entity) เน้นความเป็นองค์รวม ภาพใหญ่ หรือการกระทำที่เกิดขึ้นพร้อมกันทั้งหมด\n   - **โครงสร้าง:**\n     - `All + Plural Noun + Plural Verb`: All candidates must submit their portfolios.\n     - `All of the + Noun + Verb`: All of the evidence points to one conclusion. (ใช้ 'of the' เมื่อพูดถึงกลุ่มที่เฉพาะเจาะจง)\n   - **จุดเด่น:** เน้นความสมบูรณ์ 100% ของกลุ่ม ไม่มีการแบ่งแยก\n\n2. **None (ไม่มีเลยซักอัน/คน)**\n   - **แก่น:** เป็นรูปปฏิเสธที่สมบูรณ์ของ All หมายถึง 'not one' หรือ 'not any' จากกลุ่มนั้นๆ\n   - **โครงสร้าง:**\n     - `None of the + Plural Noun + Singular/Plural Verb`: นี่คือจุดที่ซับซ้อน!\n       - **Verb เอกพจน์ (Formal):** `None of the applicants was qualified.` (เป็นทางการและถูกต้องตามหลักไวยากรณ์ดั้งเดิม เน้นว่า 'ไม่มีแม้แต่คนเดียวที่...')\n       - **Verb พหูพจน์ (Informal/Common):** `None of the applicants were qualified.` (เป็นที่ยอมรับและใช้กันทั่วไปในปัจจุบัน สื่อความหมายว่า 'พวกเขาเหล่านั้นไม่มีใครเลยที่...')\n   - **จุดเด่น:** เป็นการปฏิเสธที่หนักแน่นที่สุด แข็งแรงกว่า 'not all' มาก\n\n3. **Each (แต่ละอัน/คน)**\n   - **แก่น:** มองสมาชิก 'แต่ละคน' หรือ 'แต่ละสิ่ง' ในกลุ่มแบบ 'แยกจากกัน' (individually and separately) เน้นความเป็นปัจเจกและการกระทำที่เกิดขึ้นทีละหนึ่ง\n   - **โครงสร้าง:**\n     - `Each + Singular Noun + Singular Verb`: Each participant receives a certificate.\n     - `Each of the + Plural Noun + Singular Verb`: Each of the board members was given a chance to speak. (สังเกตว่า Verb ยังคงเป็นเอกพจน์เสมอ เพราะประธานคือ Each)\n   - **จุดเด่น:** เหมาะกับการบรรยายสิ่งที่แจกจ่ายหรือเกิดขึ้นกับสมาชิกทีละคนอย่างทั่วถึง\n\n4. **Every (ทุกๆ อัน/คน)**\n   - **แก่น:** คล้าย Each แต่มีความเป็นนามธรรมมากกว่า มองสมาชิกทุกคนในกลุ่มเป็น 'คอลเลคชั่นของปัจเจก' (a collection of individuals) แต่ไม่ได้เน้นการแยกจากกันเท่า Each มักใช้กับกลุ่มใหญ่ๆ หรือกลุ่มที่ไม่จำกัดจำนวน\n   - **โครงสร้าง:**\n     - `Every + Singular Noun + Singular Verb`: Every employee must undergo a security check.\n   - **ข้อแตกต่างสำคัญจาก Each:** 'Every' ไม่สามารถใช้กับ 'of the' ได้เด็ดขาด (`*Every of the students` คือผิด) และ 'Every' ไม่สามารถใช้กับกลุ่มเล็กๆ ที่มีแค่ 2 สิ่งได้ (ต้องใช้ Each)\n\n**สรุปความแตกต่างเชิงนัยยะ:**\n- `All the students left.` (นักเรียนทุกคนออกไปพร้อมกันเป็นกลุ่มก้อน)\n- `Each of the students left.` (นักเรียนแต่ละคนทยอยออกไปทีละคน จนครบทุกคน)\n- `Every student left.` (นักเรียนทุกคนไม่มีใครเหลืออยู่เลย, เป็นการบอกข้อเท็จจริงโดยรวม)",
+    "examples": [
+      {
+        "eng": "All of the stipulations outlined in the non-disclosure agreement are legally binding and non-negotiable.",
+        "thai": "ข้อกำหนดทั้งหมดที่ระบุไว้ในข้อตกลงไม่เปิดเผยข้อมูลมีผลผูกพันทางกฎหมายและไม่สามารถต่อรองได้ \n(ใช้ 'All' เพื่อเน้นว่าข้อกำหนดทุกข้อรวมกันเป็น 'ทั้งฉบับ' ไม่มีข้อยกเว้น)"
+      },
+      {
+        "eng": "Despite exhaustive forensic analysis, none of the disparate pieces of evidence was conclusively linked to the suspect.",
+        "thai": "แม้จะมีการวิเคราะห์ทางนิติวิทยาศาสตร์อย่างละเอียดถี่ถ้วน แต่ไม่มีหลักฐานชิ้นใดเลยที่กระจัดกระจายอยู่ จะสามารถเชื่อมโยงไปยังผู้ต้องสงสัยได้อย่างแน่ชัด \n(ใช้ 'None' และตามด้วย verb เอกพจน์ 'was' เพื่อเน้นย้ำความเป็นทางการและให้ความหมายว่า 'ไม่มีแม้แต่ชิ้นเดียว' ที่เชื่อมโยงได้)"
+      },
+      {
+        "eng": "Each of the manuscripts submitted for the literary prize was subjected to a rigorous, multi-stage vetting process by a panel of esteemed critics.",
+        "thai": "ต้นฉบับแต่ละฉบับที่ส่งเข้าประกวดรางวัลวรรณกรรมต้องผ่านกระบวนการตรวจสอบที่เข้มงวดและหลายขั้นตอนโดยคณะกรรมการนักวิจารณ์ผู้ทรงคุณวุฒิ \n(ใช้ 'Each of the' เพื่อเน้นว่าต้นฉบับ 'ทีละฉบับ' ถูกตรวจสอบอย่างละเอียดเป็นรายชิ้น ไม่ใช่ตรวจรวมๆ กัน)"
+      },
+      {
+        "eng": "Every conceivable ramification of the policy shift had to be meticulously evaluated before implementation.",
+        "thai": "ผลกระทบที่อาจเกิดขึ้นได้ทุกแง่มุมจากการเปลี่ยนแปลงนโยบายจะต้องได้รับการประเมินอย่างพิถีพิถันก่อนที่จะนำไปบังคับใช้ \n(ใช้ 'Every' เพื่อสื่อถึง 'ทุกๆ' ผลกระทบที่เป็นไปได้ทั้งหมด ในเชิงนามธรรมและครอบคลุม ไม่ได้เจาะจงทีละอัน)"
+      }
+    ],
+    "common_mistakes": "- **ใช้ Verb พหูพจน์กับ Each/Every:** ผิดเสมอ! ประโยคอย่าง `*Each of the managers have a car.` หรือ `*Every applicant need to...` เป็นข้อผิดพลาดที่พบบ่อย ต้องเป็น `has` และ `needs` เพราะประธานคือ Each/Every ซึ่งเป็นเอกพจน์\n- **ใช้ 'Every of the...':** โครงสร้างนี้ไม่มีในภาษาอังกฤษและผิดไวยากรณ์อย่างร้ายแรง ถ้าต้องการพูดถึงกลุ่มที่เฉพาะเจาะจง ให้ใช้ `Each of the...` หรือ `All of the...` แทน\n- **สับสนเรื่อง Verb ของ 'None of the...':** คนไทยมักจะยึดติดว่าต้องใช้ Verb เอกพจน์เท่านั้น ซึ่งถูกต้องในเชิง Formal Writing แต่ในชีวิตจริงและการเขียนที่ไม่เป็นทางการ การใช้ Verb พหูพจน์เป็นเรื่องปกติและยอมรับได้ การเข้าใจความยืดหยุ่นตรงนี้คือระดับ C1-C2\n- **แยกไม่ออกระหว่าง All กับ Every:** เมื่อพูดถึงเรื่องทั่วไป `Every person needs water.` (คนทุกๆ คน) ฟังดูเป็นธรรมชาติกว่า `All people need water.` (คนทั้งหมด) ซึ่งก็ถูกไวยากรณ์แต่เน้นความเป็นกลุ่มก้อนมากกว่า",
+    "practice_questions": [
+      {
+        "question": "Despite the team's exhaustive efforts, ______ of the proposed solutions proved to be financially viable in the long run.",
+        "options": [
+          "A. all",
+          "B. none",
+          "C. every",
+          "D. each"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้มีความหมายเชิงปฏิเสธ (despite...efforts, ...proved not to be viable) ดังนั้น 'none' (ไม่มีเลยซักอัน) จึงเหมาะสมที่สุด 'All' จะทำให้ความหมายขัดแย้ง 'Every' และ 'Each' ใช้ในโครงสร้างนี้ไม่ได้ (`Every/Each of the solutions...`)"
+      },
+      {
+        "question": "______ of the multinational corporation's subsidiaries is required to submit a comprehensive quarterly report.",
+        "options": [
+          "A. All",
+          "B. Every",
+          "C. Each",
+          "D. None"
+        ],
+        "answer": "C",
+        "explanation": "โครงสร้าง `... of the + plural noun + singular verb (is)` ชี้ชัดว่าต้องใช้ 'Each' หรือ 'None' เท่านั้น แต่ความหมายของประโยคเป็นเชิงบอกเล่าว่า 'แต่ละแห่ง' ต้องส่งรายงาน ดังนั้น 'Each' จึงถูกต้อง 'All' ต้องใช้กับ verb พหูพจน์ (are) 'Every' ใช้กับ 'of the' ไม่ได้"
+      },
+      {
+        "question": "The security protocol dictates that ______ person entering the high-security facility, without exception, must undergo a biometric scan.",
+        "options": [
+          "A. all",
+          "B. each of the",
+          "C. every",
+          "D. none of the"
+        ],
+        "answer": "C",
+        "explanation": "คำว่า 'person' เป็นนามเอกพจน์ ทำให้ต้องใช้ 'Every' หรือ 'Each' (แต่ 'Each person' ก็ได้) ในบริบทนี้ 'Every' เหมาะสมที่สุดเพราะเป็นการกล่าวถึงกฎเกณฑ์ทั่วไปที่ใช้กับ 'ทุกๆ คน' ที่เข้ามา 'All' ต้องตามด้วยนามพหูพจน์ 'Each of the' และ 'None of the' ต้องตามด้วยนามพหูพจน์เช่นกัน"
+      },
+      {
+        "question": "The investigation revealed that ______ of the senior executives were aware of the fraudulent activities, which implicates the entire board.",
+        "options": [
+          "A. none",
+          "B. all",
+          "C. every",
+          "D. each"
+        ],
+        "answer": "B",
+        "explanation": "กริยา 'were' เป็นพหูพจน์ และส่วนขยาย `implicates the entire board` (ทำให้คณะกรรมการทั้งคณะพัวพัน) บ่งชี้ว่าผู้บริหารระดับสูง 'ทั้งหมด' รู้เห็น ดังนั้น 'all' จึงเป็นคำตอบที่ถูกต้องที่สุด 'None' ขัดกับความหมาย 'Every/Each' ต้องใช้กับกริยาเอกพจน์"
+      },
+      {
+        "question": "______ prerequisite listed in the university's prospectus must be met before an application can be considered.",
+        "options": [
+          "A. Each of the",
+          "B. All",
+          "C. Every",
+          "D. None of the"
+        ],
+        "answer": "C",
+        "explanation": "นาม 'prerequisite' เป็นเอกพจน์และกริยา 'must be met' ก็ใช้กับประธานเอกพจน์ได้ ดังนั้น ตัวเลือกที่ตามด้วยนามเอกพจน์คือ 'Every' บริบทนี้เป็นการกล่าวถึงข้อกำหนด 'ทุกๆ ข้อ' โดยรวม จึงใช้ 'Every' ได้อย่างเหมาะสมที่สุด"
+      },
+      {
+        "question": "It was astonishing that despite a plethora of warnings, ______ of the residents evacuated the area before the hurricane made landfall.",
+        "options": [
+          "A. none",
+          "B. all",
+          "C. every",
+          "D. each"
+        ],
+        "answer": "A",
+        "explanation": "คำว่า 'astonishing' (น่าประหลาดใจ) และ 'despite a plethora of warnings' (แม้จะมีคำเตือนมากมาย) ชี้ให้เห็นถึงผลลัพธ์ที่ตรงกันข้าม นั่นคือ 'ไม่มีใครเลย' ที่อพยพ ดังนั้น 'none' จึงเป็นคำตอบที่ถูกต้องตามตรรกะ"
+      },
+      {
+        "question": "The final contract had to be perfect; ______ clause was scrutinized by the legal team for potential ambiguities.",
+        "options": [
+          "A. all the",
+          "B. every",
+          "C. none of the",
+          "D. each of the"
+        ],
+        "answer": "B",
+        "explanation": "คำนาม 'clause' เป็นเอกพจน์ จึงต้องใช้ 'Every' (หรือ Each ก็ได้ แต่ไม่มีในตัวเลือก) บริบทนี้เป็นการเน้นว่า 'ทุกๆ' อนุประโยคถูกตรวจสอบอย่างละเอียด เพื่อให้สัญญาสมบูรณ์ 'Every' สื่อถึงความครอบคลุมนี้ได้ดีที่สุด"
+      },
+      {
+        "question": "The inheritance was divided meticulously, with ______ of the beneficiaries receiving a personalized portfolio of assets.",
+        "options": [
+          "A. all",
+          "B. none",
+          "C. every",
+          "D. each"
+        ],
+        "answer": "D",
+        "explanation": "การใช้คำว่า 'personalized portfolio' (แฟ้มสินทรัพย์ที่จัดให้เป็นพิเศษเฉพาะบุคคล) เป็นการบ่งชี้อย่างชัดเจนว่าเป็นการกระทำที่เกิดขึ้นกับผู้รับผลประโยชน์ 'แต่ละคน' แบบแยกกัน ดังนั้น 'each' จึงเป็นคำตอบที่สื่อถึงความเป็นปัจเจกได้ดีที่สุด"
+      },
+      {
+        "question": "Contrary to the initial optimistic projections, ______ of the experimental treatments has yielded a statistically significant result so far.",
+        "options": [
+          "A. all",
+          "B. each",
+          "C. none",
+          "D. every"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคขึ้นต้นด้วย 'Contrary to...' (ตรงกันข้ามกับ...) แสดงถึงความขัดแย้ง และกริยา 'has yielded' เป็นเอกพจน์ โครงสร้าง '... of the + plural noun + singular verb' และความหมายเชิงปฏิเสธ ทำให้ 'none' เป็นคำตอบเดียวที่ถูกต้อง"
+      },
+      {
+        "question": "To ensure absolute fairness, ______ ballot was counted three times by three separate officials.",
+        "options": [
+          "A. all",
+          "B. none",
+          "C. every",
+          "D. each of the"
+        ],
+        "answer": "C",
+        "explanation": "นาม 'ballot' เป็นเอกพจน์ ดังนั้นตัวเลือกที่เป็นไปได้คือ 'every' ในที่นี้ 'every' และ 'each' มีความหมายใกล้เคียงกันมาก แต่ 'every' มักจะถูกเลือกใช้เพื่อเน้นความสมบูรณ์แบบและความไม่มีข้อยกเว้นในภาพรวมของกระบวนการ ('ทุกๆ' บัตรลงคะแนนโดยไม่มีใบไหนตกหล่น) ซึ่งเข้ากับบริบท 'to ensure absolute fairness' ได้อย่างดีเยี่ยม"
+      }
+    ]
+  },
+  {
+    "id": "42_4",
+    "title": "42.4 Fractional & Multiplier Expressions (Half of, Twice as)",
+    "explanation": "ในระดับ C1-C2 การใช้ Quantifiers จะซับซ้อนกว่าแค่ much, many, a lot of. เราจะมาเจาะลึกการใช้ 'เศษส่วน' (Fractional Expressions) และ 'ตัวคูณ' (Multiplier Expressions) ซึ่งเป็นเครื่องมือทางภาษาที่ทรงพลังในการเปรียบเทียบและบอกปริมาณที่แม่นยำ\n\n**1. Fractional Expressions (การแสดงเศษส่วน)**\n\n- **โครงสร้างพื้นฐาน:** `Fraction + of + Determiner (the, my, this) + Noun`\n  - ใช้เมื่อพูดถึงส่วนหนึ่งของ 'กลุ่มที่เฉพาะเจาะจง' เช่น `Half of the employees`, `a quarter of my salary`, `two-thirds of this document`.\n  - **การละ 'of':** สามารถละ 'of' ได้ในบางกรณี แต่ความหมายจะเปลี่ยนไปเล็กน้อยและเป็นทางการน้อยลง `Half the employees` มีความหมายใกล้เคียงกับ `Half of the employees` มากและใช้ได้เหมือนกัน แต่โครงสร้าง `Half of + pronoun` (e.g., `half of them`) จะละ `of` ไม่ได้เด็ดขาด\n  - **Verb Agreement (การผันกริยา):** กริยาจะผันตาม 'คำนาม' ที่ตามหลัง 'of' ไม่ใช่ตัวเศษส่วน\n    - `Half of the apple **is** rotten.` (apple เป็นเอกพจน์นับไม่ได้/นับได้เอกพจน์)\n    - `Half of the apples **are** rotten.` (apples เป็นพหูพจน์)\n    - `One-third of the population **lives** in poverty.` (population เป็นนามกลุ่ม มองเป็นหน่วยเดียว)\n\n- **โครงสร้างกับ Noun ทั่วไป:** `Fraction + Noun` (ไม่มี of)\n  - ใช้กับหน่วยวัด หรือเมื่อพูดถึงสิ่งทั่วๆ ไป `a half-kilo`, `a quarter-hour`. แต่โครงสร้างที่พบบ่อยกว่าคือ `half a kilo`, `a quarter of an hour`.\n\n- **เศษส่วนซับซ้อน:** การอ่านเศษส่วนที่มีตัวเศษมากกว่าหนึ่ง จะเติม 's' ที่ตัวส่วน เช่น `two-thirds`, `three-fifths`, `seven-eighths`.\n\n**2. Multiplier Expressions (การแสดงตัวคูณ)**\n\n- **โครงสร้างพื้นฐาน (การเปรียบเทียบคุณสมบัติ):** `Multiplier + as + much/many/adj/adv + as`\n  - `twice` (สองเท่า), `three times` (สามเท่า), `four times`, etc. (ห้ามใช้ 'two times' ในโครงสร้างนี้ ให้ใช้ 'twice')\n  - `Their new facility is **twice as large as** our old one.` (เปรียบเทียบ Adjective)\n  - `He earns **three times as much as** I do.` (เปรียบเทียบปริมาณ - much กับนามนับไม่ได้)\n  - `We have **ten times as many** applicants this year.` (เปรียบเทียบจำนวน - many กับนามนับได้)\n\n- **โครงสร้างเปรียบเทียบขนาด/จำนวน/มูลค่า:** `Multiplier + the + Noun (size, length, price, amount) + of`\n  - `This park is **twice the size of** Central Park.` (ขนาดเป็นสองเท่าของ)\n  - `The company's debt is now **three times the value of** its assets.` (หนี้สินมีมูลค่าเป็นสามเท่าของสินทรัพย์)\n\n- **ความแตกต่างระหว่าง `twice as much as` และ `double`:**\n  - `double` สามารถเป็นได้ทั้ง verb, adjective, และ determiner.\n  - `My investment has **doubled** in value.` (Verb)\n  - `I paid **double** the usual price.` (Determiner)\n  - `He earns **double my salary**.` (Determiner) vs. `He earns **twice as much as I do**.` (Multiplier Expression) ความหมายเหมือนกัน แต่โครงสร้างต่างกัน\n\n- **Multiplier กับ Comparative Adjectives:**\n  - โครงสร้างนี้ก็ใช้ได้ แต่ต้องระวังความหมายที่อาจกำกวม `This car is **three times more expensive than** that one.` ประโยคนี้อาจหมายถึง 'แพงกว่า 3 เท่า' (รวมเป็น 4 เท่า) หรืออาจหมายถึง 'ราคาเป็น 3 เท่า' ซึ่งเป็นความหมายที่คนส่วนใหญ่เข้าใจ ดังนั้นเพื่อความชัดเจน โครงสร้าง `...as expensive as...` จึงปลอดภัยกว่าในสถานการณ์ที่เป็นทางการ",
+    "examples": [
+      {
+        "eng": "Roughly three-quarters of the conglomerate's considerable revenue stream is derived from its overseas subsidiaries, a dependency that poses a significant geopolitical risk.",
+        "thai": "รายได้มหาศาลของกลุ่มบริษัทนี้ประมาณสามในสี่ส่วนมาจากบริษัทย่อยในต่างประเทศ ซึ่งการพึ่งพานี้ก่อให้เกิดความเสี่ยงทางภูมิรัฐศาสตร์อย่างมีนัยสำคัญ (โครงสร้าง: Fractional Expression 'three-quarters of' + Noun Phrase 'the conglomerate's considerable revenue stream' + Verb 'is' ที่ผันตาม revenue stream ซึ่งเป็นนามนับไม่ได้)"
+      },
+      {
+        "eng": "The quantum algorithm processes the dataset at a speed conservatively estimated to be five hundred times as fast as the most sophisticated conventional supercomputer.",
+        "thai": "อัลกอริทึมควอนตัมประมวลผลชุดข้อมูลด้วยความเร็วที่ประเมินไว้อย่างต่ำๆ ว่าเร็วกว่าซูเปอร์คอมพิวเตอร์แบบดั้งเดิมที่ซับซ้อนที่สุดถึงห้าร้อยเท่า (โครงสร้าง: Multiplier 'five hundred times' + 'as' + Adverb 'fast' + 'as' ใช้เปรียบเทียบความเร็วในการทำงาน)"
+      },
+      {
+        "eng": "Despite its diminutive appearance, the device consumes nearly twice the amount of energy of its predecessor, raising serious concerns about its long-term efficacy and environmental impact.",
+        "thai": "แม้จะมีรูปลักษณ์ที่เล็ก แต่เจ้าอุปกรณ์นี้ใช้พลังงานเกือบสองเท่าของรุ่นก่อนหน้า ทำให้เกิดความกังวลอย่างยิ่งเกี่ยวกับประสิทธิภาพในระยะยาวและผลกระทบต่อสิ่งแวดล้อม (โครงสร้าง: Multiplier 'twice' + 'the' + Noun 'amount' + 'of' เป็นการเปรียบเทียบปริมาณการใช้พลังงาน)"
+      },
+      {
+        "eng": "A staggering nine-tenths of the respondents indicated that they would not support the proposed legislation, leaving the bill with virtually no chance of passing.",
+        "thai": "ผู้ตอบแบบสอบถามจำนวนมหาศาลถึงเก้าในสิบส่วนระบุว่าจะไม่สนับสนุนร่างกฎหมายที่เสนอมา ทำให้ร่างกฎหมายนี้แทบไม่มีโอกาสผ่านเลย (โครงสร้าง: Fractional Expression 'nine-tenths of' + Noun 'the respondents' + Verb 'indicated' ที่เป็นพหูพจน์ตาม respondents)"
+      }
+    ],
+    "common_mistakes": "- **ใช้ Two times แทน Twice:** ในโครงสร้างเปรียบเทียบ `...as...as...` ต้องใช้ `twice` เท่านั้น เช่น `twice as expensive` ไม่ใช่ `two times as expensive` แต่ถ้าเป็นการบอกความถี่ (frequency) สามารถใช้ `two times` ได้ เช่น `I called him two times.`\n\n- **สับสนระหว่าง `...as much as` กับ `...more than`:** การพูดว่า `A is twice more expensive than B` เป็นสิ่งที่กำกวมและไม่เป็นมาตรฐาน วิธีที่ถูกต้องและชัดเจนคือ `A is twice as expensive as B` (A ราคาเป็น 2 เท่าของ B) หรือ `A is three times more expensive than B` (A แพงกว่า B สามเท่า = ราคาเป็น 4 เท่าของ B). เพื่อหลีกเลี่ยงความสับสน ให้ยึดโครงสร้าง `...as...as` ไว้เป็นหลัก\n\n- **ลืม 'of' หรือใช้ผิดที่:** `Half of my friends` (เพื่อนของฉันครึ่งหนึ่ง) ถูกต้อง แต่ถ้าพูดลอยๆ ว่า `Half of friends are...` จะฟังดูไม่เป็นธรรมชาติ ควรจะเป็น `Half of the friends I have...` หรือพูดในบริบทที่เฉพาะเจาะจง การใช้ `half the friends` จะเป็นธรรมชาติกว่าในหลายกรณี\n\n- **ผันกริยาผิด:** ลืมไปว่ากริยาต้องผันตาม 'นาม' ที่อยู่หลัง of ไม่ใช่ตัวเศษส่วน เช่น พูดว่า `Two-thirds of the book is boring.` (ไม่ใช่ are) เพราะพูดถึง a book (เล่มเดียว)",
+    "practice_questions": [
+      {
+        "question": "The newly developed synthetic material is purported to be over ten times ______ its conventional counterpart, revolutionizing several industries simultaneously.",
+        "options": [
+          "A. as strong as",
+          "B. stronger than",
+          "C. the strength of",
+          "D. more strong than"
+        ],
+        "answer": "C",
+        "explanation": "โครงสร้างที่ถูกต้องเมื่อใช้ `Multiplier + Noun Phrase` คือ `ten times the strength of` ซึ่งหมายถึง 'มีความแข็งแรงเป็นสิบเท่าของ' ข้อ A `ten times as strong as` ก็ถูกไวยากรณ์แต่ C เป็นตัวเลือกที่กระชับและสละสลวยกว่าในบริบทนี้ และเป็นโครงสร้างที่นิยมใช้เพื่อเน้นการเปรียบเทียบคุณสมบัติที่เป็นรูปธรรม (strength) ข้อ B `ten times stronger than` อาจกำกวม (อาจหมายถึงแข็งแรงกว่า 10 เท่า รวมเป็น 11 เท่า) ข้อ D ผิดไวยากรณ์"
+      },
+      {
+        "question": "Despite the immense initial expenditure, the project's long-term return on investment is projected to be ______ the initial outlay.",
+        "options": [
+          "A. three times as much as",
+          "B. triple the amount of",
+          "C. three times the amount of",
+          "D. as much as three times"
+        ],
+        "answer": "C",
+        "explanation": "โครงสร้างที่สมบูรณ์และเป็นธรรมชาติที่สุดคือ `three times the amount of the initial outlay` (เป็นจำนวนเงินสามเท่าของค่าใช้จ่ายเริ่มต้น) ข้อ B 'triple' ก็ใช้ได้ในความหมายเดียวกัน แต่ C เป็นโครงสร้างมาตรฐานกว่า ข้อ A ผิด เพราะ `as much as` ต้องตามด้วยคำนามหรือประโยคที่ถูกเปรียบเทียบโดยตรง ไม่ใช่ the initial outlay ในลักษณะนี้ ข้อ D วางตำแหน่งผิด"
+      },
+      {
+        "question": "A meticulous audit revealed that ______ of the company's annual budget was allocated to non-essential administrative overheads.",
+        "options": [
+          "A. as much as one-fifth",
+          "B. a one-fifth",
+          "C. one-fifth as much",
+          "D. almost a fifth"
+        ],
+        "answer": "A",
+        "explanation": "`as much as one-fifth` เป็นสำนวนที่ใช้เน้นว่าปริมาณนั้นสูงอย่างน่าประหลาดใจ ('มากถึงหนึ่งในห้า') มันเหมาะสมกับบริบทของการตรวจสอบบัญชีที่พบค่าใช้จ่ายที่ไม่จำเป็น ข้อ D `almost a fifth` (เกือบหนึ่งในห้า) ก็ถูกไวยากรณ์แต่ A ให้ความหมายเน้นย้ำ (emphasis) ที่ดีกว่าในประโยคนี้ ข้อ B และ C มีโครงสร้างผิด"
+      },
+      {
+        "question": "The incumbent's approval rating has plummeted, with ______ the electorate now expressing profound dissatisfaction with his policies.",
+        "options": [
+          "A. more than half of",
+          "B. half more of",
+          "C. half as much as",
+          "D. the half of"
+        ],
+        "answer": "A",
+        "explanation": "`more than half of the electorate` (มากกว่าครึ่งหนึ่งของผู้มีสิทธิ์เลือกตั้ง) เป็นวิธีพูดที่ถูกต้องและเป็นธรรมชาติที่สุดในการบอกปริมาณที่เกินครึ่ง ข้อ B `half more of` ผิดไวยากรณ์ ข้อ C `half as much as` ใช้เปรียบเทียบปริมาณกับสิ่งอื่น ไม่ใช่บอกส่วนของทั้งหมด ข้อ D `the half of` เป็นการใช้ที่ไม่ถูกต้อง"
+      },
+      {
+        "question": "The processing power of this new microchip is extraordinary; it can perform calculations ______ any of its predecessors.",
+        "options": [
+          "A. twice faster than",
+          "B. twice as fast as",
+          "C. double the speed of",
+          "D. B and C are correct"
+        ],
+        "answer": "D",
+        "explanation": "ทั้งข้อ B และ C ถูกต้องและใช้แทนกันได้ในบริบทนี้ `twice as fast as` (เร็วกว่าเป็นสองเท่า) เป็นโครงสร้าง `Multiplier + as + adv + as` ที่ถูกต้อง `double the speed of` (มีความเร็วเป็นสองเท่าของ) เป็นโครงสร้าง `double + the + noun + of` ที่ถูกต้องเช่นกัน ข้อ A `twice faster than` เป็นโครงสร้างที่ควรหลีกเลี่ยงเพราะอาจกำกวมและไม่เป็นมาตรฐาน"
+      },
+      {
+        "question": "Due to unforeseen logistical impediments, well over ______ of the international aid shipments ______ failed to reach their intended recipients.",
+        "options": [
+          "A. two-third / has",
+          "B. two-thirds / have",
+          "C. two-third / have",
+          "D. two-thirds / has"
+        ],
+        "answer": "B",
+        "explanation": "เศษส่วนที่ตัวเศษมากกว่า 1 ตัวส่วนต้องเติม 's' ดังนั้นต้องเป็น `two-thirds` กริยาที่ตามมาต้องผันตามนามที่อยู่หลัง of ซึ่งในที่นี้คือนามพหูพจน์ `shipments` ดังนั้นจึงต้องใช้กริยาพหูพจน์ `have`"
+      },
+      {
+        "question": "The company’s carbon footprint was reduced by ______ last year, a commendable but insufficient achievement given the climate crisis.",
+        "options": [
+          "A. a quarter",
+          "B. the quarter",
+          "C. one quarters",
+          "D. quarter"
+        ],
+        "answer": "A",
+        "explanation": "เมื่อพูดถึงเศษส่วนหนึ่งส่วนสี่ในลักษณะนี้ จะใช้ `a quarter` หรือ `one quarter` ก็ได้ ในตัวเลือกนี้ `a quarter` ถูกต้องที่สุด ข้อ B `the quarter` จะหมายถึงไตรมาสที่เฉพาะเจาะจง ข้อ C `one quarters` ผิดไวยากรณ์ (quarters ต้องใช้กับตัวเศษที่มากกว่า 1) และข้อ D ขาด determiner 'a'"
+      },
+      {
+        "question": "The final contract stipulated a penalty clause valued at ______ the total projected revenue, a substantial deterrent against any breach.",
+        "options": [
+          "A. half of as much as",
+          "B. half of",
+          "C. one half the",
+          "D. half"
+        ],
+        "answer": "D",
+        "explanation": "โครงสร้างที่ถูกต้องและกระชับที่สุดคือ `half the total projected revenue` สามารถละ 'of' ได้ในกรณีนี้ (มีความหมายเหมือน `half of the total...`) ข้อ A ผิดไวยากรณ์ ข้อ B ก็ใช้ได้แต่ D เป็นที่นิยมและกระชับกว่า ข้อ C `one half the` ก็ใช้ได้ แต่ `half` เฉยๆ เป็นคำตอบที่ดีที่สุดและเป็นธรรมชาติที่สุด"
+      },
+      {
+        "question": "Forensic analysis of the artifact indicated that ______ its molecular structure had been irreversibly altered by radiation.",
+        "options": [
+          "A. as many as three-fifths of",
+          "B. as much as three-fifths of",
+          "C. three-fifth of",
+          "D. three-fifths as much as"
+        ],
+        "answer": "B",
+        "explanation": "`molecular structure` เป็นนามนับไม่ได้ ดังนั้นจึงต้องใช้ `as much as` เพื่อเน้นปริมาณที่น่าประหลาดใจ ไม่ใช่ `as many as` ที่ใช้กับนามนับได้พหูพจน์ ข้อ C `three-fifth` ผิดไวยากรณ์ (ต้องเป็น `three-fifths`) ข้อ D มีโครงสร้างที่ไม่สมบูรณ์"
+      },
+      {
+        "question": "The prolific author published ______ in the last decade, a feat unparalleled in modern literature.",
+        "options": [
+          "A. twice as many books as he had in his entire early career",
+          "B. twice more books than his entire early career",
+          "C. double the books than he had in his entire early career",
+          "D. as many as twice books he had in his entire early career"
+        ],
+        "answer": "A",
+        "explanation": "นี่คือการเปรียบเทียบจำนวน (many) ของนามนับได้ (books) โครงสร้างที่ถูกต้องสมบูรณ์คือ `twice as many books as...` ข้อ B `twice more` เป็นโครงสร้างที่กำกวมและควรหลีกเลี่ยง ข้อ C `double the books than` ผิดไวยากรณ์ (ควรเป็น of หรือ that) ข้อ D `as many as twice books` เรียงลำดับคำผิด"
+      }
+    ]
+  },
+  {
+    "id": "42_5",
+    "title": "42.5 Summary: Advanced Quantifiers (สรุป Quantifiers ขั้นสูง + 50 Exercises)",
+    "explanation": "สรุป Quantifiers ขั้นสูง: ยกระดับความแม่นยำทางภาษา\n\nในระดับ C1-C2 การใช้ Quantifiers ไม่ใช่แค่เรื่องของ 'มาก' หรือ 'น้อย' แต่คือการสื่อสารปริมาณอย่าง 'เฉพาะเจาะจง' 'มีนัย' และ 'สอดคล้องกับบริบทที่เป็นทางการ' เราจะทบทวนและเจาะลึกในประเด็นที่ซับซ้อนขึ้น เพื่อให้คุณใช้ภาษาอังกฤษได้อย่างเฉียบคมและเป็นธรรมชาติเหมือนเจ้าของภาษา\n\n1.  **การเลือกใช้ระหว่าง Each และ Every:**\n    *   `Each`: เน้น 'แต่ละอัน/คน' ในกลุ่มที่ชัดเจนและมีจำนวนไม่มากนัก มองเป็นรายบุคคล/รายชิ้น (individuality) และต้องการเน้นย้ำถึงความเป็นปัจเจก `Each` สามารถตามด้วยคำนามเอกพจน์ (`Each student`) หรือตามด้วย `of the/my/these` + นามพหูพจน์ (`Each of the students`) แต่กริยาที่ตามมาจะต้องเป็นรูปเอกพจน์เสมอ\n    *   `Every`: เน้น 'ทุกอัน/คน' ในกลุ่มใหญ่แบบเหมารวม มองเป็นภาพรวมทั้งหมด (generality) ใช้กับนามเอกพจน์เท่านั้น และไม่สามารถใช้กับ `of the` ได้ (`Every student`, แต่ไม่ใช่ `Every of the students`)\n\n2.  **กลุ่มปฏิเสธและตัวเลือก: Neither, None, Either:**\n    *   `Neither`: 'ไม่ทั้งสอง' ใช้กับตัวเลือก 2 อย่างเท่านั้น ตามด้วยนามเอกพจน์ และกริยาเอกพจน์ (`Neither candidate is qualified.`) หรือ `Neither of the` + นามพหูพจน์ + กริยาเอกพจน์ (`Neither of the candidates is qualified.`)\n    *   `None`: 'ไม่มีเลย' ใช้กับกลุ่มที่มี 3 สิ่งขึ้นไปเท่านั้น โครงสร้างคือ `None of the` + นามพหูพจน์ + กริยา (ในภาษาที่เป็นทางการจะใช้กริยาเอกพจน์ แต่ในภาษาทั่วไปที่ไม่เป็นทางการก็ยอมรับการใช้กริยาพหูพจน์ได้)\n    *   `Either`: 'อันใดอันหนึ่ง' ในสองตัวเลือก (`Either option would be acceptable.`) โครงสร้างคล้าย `Neither`.\n\n3.  **เศษส่วน (Fractions) และเปอร์เซ็นต์ (Percentages):**\n    *   หัวใจสำคัญคือ 'กริยาผันตามคำนามที่อยู่หลัง of' กฎนี้สำคัญมากและเป็นจุดที่วัดความแม่นยำระดับสูง\n    *   `One-third of the *information is* outdated.` (information เป็นนามนับไม่ได้ -> กริยาเป็น is)\n    *   `Three-quarters of the *delegates have* arrived.` (delegates เป็นนามพหูพจน์ -> กริยาเป็น have)\n    *   `Twenty percent of the *workforce feels* undervalued.` (workforce เป็น collective noun ที่มองเป็นหน่วยเดียว -> กริยาเป็น feels)\n\n4.  **Complex Quantifiers & Determiners (คำบอกปริมาณที่ซับซ้อน):**\n    *   **สำหรับนามนับไม่ได้ (Uncountable Nouns):** เพื่อหลีกเลี่ยงการใช้ `much` หรือ `a lot of` ที่ดูพื้นฐานเกินไป ให้ใช้ `a great deal of`, `a considerable amount of`, `a substantial quantity of`. (เช่น `The project required a considerable amount of funding.`)\n    *   **สำหรับนามนับได้ (Countable Nouns):** แทนที่ `many` หรือ `a lot of` ด้วย `a large/considerable/significant number of`, `a plethora of` (แปลว่า มากมาย). (เช่น `There were a significant number of objections to the new policy.`)\n    *   **กลุ่มที่ให้ความรู้สึก 'น้อย' อย่างมีนัย:** `precious little` (น้อยมากจนแทบไม่มีคุณค่า), `scarcely/hardly any` (แทบจะไม่มีเลย), `a mere fraction of` (เป็นเพียงเศษเสี้ยวเล็กน้อย) คำเหล่านี้ช่วยเพิ่มความลึกซึ้งทางอารมณ์และความหมายให้กับประโยค\n\n5.  **All vs. The Whole:**\n    *   `All`: ใช้กับนามพหูพจน์ (`all the documents`) และนามนับไม่ได้ (`all the furniture`). สามารถใช้ในโครงสร้าง `All of the...` ได้\n    *   `The whole`: ใช้กับนามเอกพจน์ที่นับได้ เพื่อหมายถึง 'ทั้งหมดของสิ่งนั้น' (`the whole story`, `the whole team`). ไม่ใช้กับนามพหูพจน์หรือนามนับไม่ได้\n    *   `All day` vs. `The whole day`: ความหมายเหมือนกัน (`ตลอดทั้งวัน`) แต่โครงสร้างต่างกัน",
+    "examples": [
+      {
+        "eng": "A substantial number of grievances were filed, yet precious little has been done to ameliorate the situation.",
+        "thai": "มีการยื่นเรื่องร้องเรียนเป็นจำนวนมาก แต่กลับมีการดำเนินการเพียงน้อยนิดเพื่อปรับปรุงสถานการณ์ให้ดีขึ้น (ประโยคนี้ใช้ 'A substantial number of' กับ grievances ซึ่งเป็นนามนับได้พหูพจน์ และใช้ 'precious little' เพื่อเน้นย้ำว่าสิ่งที่ทำไปนั้น 'น้อยมากจนแทบไม่มีความหมาย' ซึ่งแสดงระดับภาษาที่สูงกว่าการใช้แค่ 'many' กับ 'little')"
+      },
+      {
+        "eng": "Although a plethora of data was presented, a mere fraction of it was deemed relevant by the scrupulous judiciary committee.",
+        "thai": "แม้ว่าข้อมูลจำนวนมหาศาลจะถูกนำเสนอ แต่มีเพียงเศษเสี้ยวเดียวเท่านั้นที่ถูกคณะกรรมการตุลาการผู้พิถีพิถันพิจารณาว่าเกี่ยวข้อง (ใช้ 'a plethora of' กับ data เพื่อบอกว่ามีมาก และ 'a mere fraction of' เพื่อเน้นว่าส่วนที่เกี่ยวข้องนั้นน้อยมาก แสดงการเปรียบเทียบปริมาณที่ซับซ้อน)"
+      },
+      {
+        "eng": "Each of the proposals was meticulously scrutinized, but neither was found to be financially viable in the long term.",
+        "thai": "ข้อเสนอแต่ละฉบับถูกตรวจสอบอย่างพิถีพิถัน แต่ไม่มีข้อเสนอใดเลย (จากสองข้อ) ที่ถูกพบว่ามีความเป็นไปได้ทางการเงินในระยะยาว (ใช้ 'Each of the proposals' + กริยาเอกพจน์ 'was' เพื่อเน้นการพิจารณาเป็นรายอัน และ 'neither' เพื่อปฏิเสธข้อเสนอทั้งสองอย่างชัดเจน)"
+      }
+    ],
+    "common_mistakes": "จุดที่คนไทยมักพลาดในระดับสูง (Common Mistakes):\n\n1.  **Verb Agreement กับเศษส่วนและเปอร์เซ็นต์:** เป็นข้อผิดพลาดที่พบบ่อยที่สุด แม้จะอยู่ในระดับสูงแล้วก็ตาม เพราะมักจะเผลอผันกริยาตามตัวเลขเปอร์เซ็นต์หรือเศษส่วน แทนที่จะผันตามคำนามที่อยู่ข้างหลัง `of`\n    *   ผิด: `Fifty percent of the student body *are* in favor.`\n    *   ถูก: `Fifty percent of the student body *is* in favor.` (body เป็นหน่วยเดียว)\n\n2.  **สับสนระหว่าง `Amount of` กับ `Number of`:** ยังคงเป็นปัญหาเรื้อรัง การใช้ `the amount of people` หรือ `the amount of cars` ในการเขียนเชิงวิชาการถือเป็นข้อผิดพลาดที่ชัดเจน `Amount` ใช้กับนามนับไม่ได้ (e.g., amount of stress) และ `Number` ใช้กับนามนับได้ (e.g., number of students) เท่านั้น\n\n3.  **ใช้ `None` แทน `Neither`:** เมื่อมีตัวเลือกแค่ 2 อย่างและต้องการปฏิเสธทั้งหมด ต้องใช้ `Neither` เท่านั้น การใช้ `None` ในกรณีนี้ถือว่าผิดไวยากรณ์\n    *   ผิด: `None of his two explanations made sense.`\n    *   ถูก: `Neither of his two explanations made sense.`\n\n4.  **ใช้ Quantifier พื้นฐานเกินไป:** ในบริบทที่เป็นทางการ การเขียน Essay หรือการนำเสนอ การใช้ `a lot of` บ่อยครั้งเกินไปจะทำให้ภาษาขาดความน่าเชื่อถือและความลึกซึ้ง ควรฝึกใช้คำศัพท์เช่น `a considerable number/amount of`, `a plethora of`, `a substantial quantity of` เพื่อยกระดับงานเขียน\n\n5.  **โครงสร้าง `Each of` และ `Every`:** จำสับสนว่า `Every` ไม่สามารถตามด้วย `of the` ได้\n    *   ผิด: `Every of the team members contributed.`\n    *   ถูก: `Each of the team members contributed.` หรือ `Every team member contributed.`",
+    "practice_questions": [
+      {
+        "question": "Despite a plethora of applications, the selection committee found that ______ candidates possessed the requisite esoteric knowledge for the position.",
+        "options": [
+          "A. few",
+          "B. a few",
+          "C. little",
+          "D. a little"
+        ],
+        "answer": "A",
+        "explanation": "คำตอบที่ถูกต้องคือ 'few' (น้อยมาก แทบจะไม่มี) เนื่องจากประโยคมีน้ำเสียงเชิงลบ ('despite a plethora of applications' - แม้จะมีใบสมัครมากมาย) แสดงให้เห็นว่าจำนวนผู้สมัครที่มีคุณสมบัตินั้นน้อยอย่างน่าผิดหวัง 'A few' (มีเล็กน้อย แต่เป็นเชิงบวก) จะขัดกับความหมาย 'Little' และ 'a little' ใช้กับนามนับไม่ได้ แต่ 'candidates' เป็นนามนับได้"
+      },
+      {
+        "question": "______ of the two treatises on quantum mechanics offers a completely satisfactory explanation for the phenomenon.",
+        "options": [
+          "A. None",
+          "B. Both",
+          "C. Neither",
+          "D. Either"
+        ],
+        "answer": "C",
+        "explanation": "คำตอบที่ถูกต้องคือ 'Neither' (ไม่ทั้งสอง) เนื่องจากโจทย์ระบุชัดเจนว่ามี 'two treatises' (บทความวิชาการ 2 ฉบับ) และเนื้อหาของประโยคเป็นเชิงปฏิเสธ ('offers a completely satisfactory explanation' ในบริบทนี้แปลว่าไม่มีอันไหนที่ให้คำอธิบายที่น่าพอใจ) 'None' ใช้สำหรับ 3 สิ่งขึ้นไป 'Both' เป็นเชิงบวก และ 'Either' หมายถึงอันใดอันหนึ่ง"
+      },
+      {
+        "question": "The investigation revealed that a considerable ______ of the company's financial resources had been illicitly diverted.",
+        "options": [
+          "A. number",
+          "B. amount",
+          "C. piece",
+          "D. many"
+        ],
+        "answer": "B",
+        "explanation": "คำตอบที่ถูกต้องคือ 'amount' เนื่องจาก 'financial resources' ในบริบทนี้หมายถึงเงินทุน ซึ่งถือเป็นนามนับไม่ได้ (uncountable noun) ดังนั้นจึงต้องใช้ 'amount of' ไม่ใช่ 'number of' ซึ่งใช้กับนามนับได้ 'Piece' และ 'many' ไม่เข้ากับโครงสร้าง 'a considerable...of'"
+      },
+      {
+        "question": "______ employee is expected to complete the mandatory ethics training by the end of the fiscal quarter.",
+        "options": [
+          "A. All",
+          "B. Every",
+          "C. Each of",
+          "D. The whole"
+        ],
+        "answer": "B",
+        "explanation": "คำตอบที่ถูกต้องคือ 'Every' เพราะตามด้วยนามเอกพจน์ ('employee') และพูดถึงกลุ่มคนทั้งหมดในภาพรวม (ทุกคนแบบเหมารวม) 'All' ต้องตามด้วยนามพหูพจน์ ('All employees') 'Each of' ต้องตามด้วย the + นามพหูพจน์ ('Each of the employees') และ 'The whole' ใช้กับนามเอกพจน์แต่มักจะหมายถึงทั้งหมดของสิ่งเดียว ('the whole company') ไม่ใช่แต่ละคน"
+      },
+      {
+        "question": "Approximately seventy percent of the planet's surface ______ covered by water.",
+        "options": [
+          "A. is",
+          "B. are",
+          "C. have been",
+          "D. were"
+        ],
+        "answer": "A",
+        "explanation": "คำตอบที่ถูกต้องคือ 'is' กฎคือเมื่อใช้เปอร์เซ็นต์ กริยาจะผันตามนามที่อยู่หลัง 'of' ในที่นี้คือ 'the planet's surface' ซึ่งเป็นนามเอกพจน์ที่นับไม่ได้ ดังนั้นกริยาจึงต้องเป็นเอกพจน์"
+      },
+      {
+        "question": "The CEO spent ______ day meticulously reviewing the quarterly reports, looking for any discrepancies.",
+        "options": [
+          "A. the all",
+          "B. all of the",
+          "C. the whole",
+          "D. every"
+        ],
+        "answer": "C",
+        "explanation": "คำตอบที่ถูกต้องคือ 'the whole' ซึ่งมีความหมายว่า 'ตลอดทั้ง' และใช้กับนามเอกพจน์นับได้ ('day') 'the all day' เป็นโครงสร้างที่ผิด 'all of the day' ไม่นิยมใช้เท่า 'all day' หรือ 'the whole day' และ 'every day' จะหมายถึง 'ทุกๆ วัน' ซึ่งเปลี่ยนความหมายของประโยค"
+      },
+      {
+        "question": "There is ______ evidence to substantiate his audacious claims; they remain purely speculative.",
+        "options": [
+          "A. a few",
+          "B. few",
+          "C. a little",
+          "D. little"
+        ],
+        "answer": "D",
+        "explanation": "คำตอบที่ถูกต้องคือ 'little' (น้อยมากจนแทบไม่มี) เพราะ 'evidence' เป็นนามนับไม่ได้ และประโยคมีนัยเชิงลบ ('remain purely speculative' - ยังคงเป็นการคาดเดาล้วนๆ) แสดงว่ามีหลักฐานน้อยมากจนไม่น่าเชื่อถือ 'A little' จะให้ความหมายเชิงบวก 'Few' และ 'a few' ใช้กับนามนับได้"
+      },
+      {
+        "question": "______ of the participants in the advanced seminar has to present their research findings.",
+        "options": [
+          "A. All",
+          "B. Every",
+          "C. Many",
+          "D. Each"
+        ],
+        "answer": "D",
+        "explanation": "คำตอบที่ถูกต้องคือ 'Each' เนื่องจากโครงสร้าง 'Each of the + นามพหูพจน์' จะต้องตามด้วยกริยาเอกพจน์ ซึ่งในประโยคนี้คือกริยา 'has' ข้ออื่นผิดเพราะ 'All' และ 'Many' ต้องใช้กับกริยาพหูพจน์ ('have') และ 'Every' ไม่สามารถใช้ในโครงสร้าง 'Every of the...' ได้"
+      },
+      {
+        "question": "A significant ______ of irregularities were discovered during the forensic audit of the subsidiary.",
+        "options": [
+          "A. amount",
+          "B. quantity",
+          "C. number",
+          "D. deal"
+        ],
+        "answer": "C",
+        "explanation": "คำตอบที่ถูกต้องคือ 'number' เพราะ 'irregularities' (ความผิดปกติ) เป็นนามนับได้พหูพจน์ ดังนั้นต้องใช้ 'a significant number of' 'Amount', 'quantity', และ 'deal' (ในสำนวน a great deal of) ใช้กับนามนับไม่ได้"
+      },
+      {
+        "question": "He showed ______ regard for the established protocols, an act of insubordination that could not be overlooked.",
+        "options": [
+          "A. hardly any",
+          "B. a few",
+          "C. many",
+          "D. several"
+        ],
+        "answer": "A",
+        "explanation": "คำตอบที่ถูกต้องคือ 'hardly any' (แทบจะไม่มีเลย) ซึ่งเป็น quantifier เชิงปฏิเสธที่เข้ากับบริบท 'act of insubordination' (การขัดขืนคำสั่ง) 'Regard' ในที่นี้เป็นนามนับไม่ได้ ดังนั้น 'a few', 'many', และ 'several' ซึ่งใช้กับนามนับได้จึงผิดทั้งหมด"
+      },
+      {
+        "question": "Three-fifths of the electorate ______ still undecided just days before the pivotal election.",
+        "options": [
+          "A. remains",
+          "B. remain",
+          "C. has remained",
+          "D. is remaining"
+        ],
+        "answer": "B",
+        "explanation": "คำตอบที่ถูกต้องคือ 'remain' (รูปพหูพจน์) เพราะกริยาผันตามนามที่อยู่หลัง 'of' ซึ่งคือ 'electorate' (ผู้มีสิทธิ์เลือกตั้งทั้งหมด) ในบริบทนี้ 'electorate' ถูกมองเป็นกลุ่มของคนหลายคน (individuals) ไม่ใช่หน่วยเดียว ดังนั้นจึงใช้กริยาพหูพจน์"
+      },
+      {
+        "question": "Of the myriad solutions proposed, ______ seems to address the core conundrum effectively.",
+        "options": [
+          "A. none",
+          "B. neither",
+          "C. not any",
+          "D. some"
+        ],
+        "answer": "A",
+        "explanation": "คำตอบที่ถูกต้องคือ 'none' (ไม่มีเลย) เนื่องจาก 'myriad solutions' (ทางแก้ปัญหาจำนวนนับไม่ถ้วน) หมายถึงมีมากกว่าสองตัวเลือก และประโยคมีใจความเชิงปฏิเสธ 'Neither' ใช้สำหรับสองตัวเลือกเท่านั้น 'Not any' ไม่ใช่โครงสร้างที่ถูกต้องในตำแหน่งนี้ และ 'some' เป็นเชิงบอกเล่า"
+      },
+      {
+        "question": "The company has invested a great ______ of capital into research and development this year.",
+        "options": [
+          "A. number",
+          "B. amount",
+          "C. deal",
+          "D. many"
+        ],
+        "answer": "C",
+        "explanation": "คำตอบที่ถูกต้องคือ 'deal' ในสำนวน 'a great deal of' ซึ่งใช้กับนามนับไม่ได้ ('capital' - เงินทุน) และเป็นสำนวนที่ใช้กันโดยทั่วไป 'Amount' ก็ใช้ได้ แต่ 'a great deal of' เป็นสำนวนที่สมบูรณ์และเป็นที่นิยม 'Number' และ 'many' ใช้กับนามนับได้"
+      },
+      {
+        "question": "We have ______ time to prepare for the presentation; we must utilize every moment efficiently.",
+        "options": [
+          "A. precious little",
+          "B. a few",
+          "C. very many",
+          "D. several"
+        ],
+        "answer": "A",
+        "explanation": "คำตอบที่ถูกต้องคือ 'precious little' (น้อยมากจนมีค่า) ใช้กับนามนับไม่ได้ 'time' และสื่อความหมายว่าเวลาที่มีนั้นน้อยมากและต้องใช้อย่างคุ้มค่าที่สุด 'A few' และ 'several' ใช้กับนามนับได้ และ 'very many' ไม่ใช่โครงสร้างที่ถูกต้อง"
+      },
+      {
+        "question": "______ of the board members is required to sign the confidentiality agreement.",
+        "options": [
+          "A. Every",
+          "B. All",
+          "C. Each",
+          "D. Some"
+        ],
+        "answer": "C",
+        "explanation": "คำตอบที่ถูกต้องคือ 'Each' เพราะตามด้วย 'of the + นามพหูพจน์' และใช้กับกริยาเอกพจน์ 'is' 'Every' ใช้ในโครงสร้าง 'Every of the...' ไม่ได้ 'All' และ 'Some' จะต้องใช้กับกริยาพหูพจน์ 'are'"
+      },
+      {
+        "question": "A staggering ______ of data has to be processed before any conclusions can be drawn.",
+        "options": [
+          "A. volume",
+          "B. number",
+          "C. count",
+          "D. piece"
+        ],
+        "answer": "A",
+        "explanation": "คำตอบที่ถูกต้องคือ 'volume' (ปริมาณ) ซึ่งมักใช้กับนามนับไม่ได้ขนาดใหญ่ เช่น data, information, traffic ในที่นี้ 'a staggering volume of data' หมายถึงข้อมูลปริมาณมหาศาล 'Data' ในทางเทคนิคถือเป็นนามนับไม่ได้ (หรือพหูพจน์ของ datum) และใช้กับกริยาเอกพจน์ 'has' ในประโยคนี้ 'Number' ใช้กับนามนับได้"
+      },
+      {
+        "question": "______ the information provided in the dossier was classified as top secret.",
+        "options": [
+          "A. The whole of",
+          "B. All of",
+          "C. Every",
+          "D. A great deal"
+        ],
+        "answer": "B",
+        "explanation": "คำตอบที่ถูกต้องคือ 'All of' ซึ่งใช้กับนามนับไม่ได้ 'information' 'The whole of' มักใช้กับนามเอกพจน์นับได้ 'Every' ต้องตามด้วยนามเอกพจน์ และ 'A great deal' ต้องตามด้วย 'of' (a great deal of information)"
+      },
+      {
+        "question": "I have two potential strategies, but ______ of them seems entirely foolproof.",
+        "options": [
+          "A. none",
+          "B. some",
+          "C. neither",
+          "D. every"
+        ],
+        "answer": "C",
+        "explanation": "คำตอบที่ถูกต้องคือ 'neither' (ไม่ทั้งสอง) เพราะโจทย์ระบุชัดว่ามี 'two potential strategies' และประโยคเป็นเชิงปฏิเสธ 'None' ใช้สำหรับสามสิ่งขึ้นไป 'Some' เป็นเชิงบวก และ 'every' ใช้ไม่ได้ในโครงสร้างนี้"
+      },
+      {
+        "question": "Only ______ of the city's inhabitants have access to potable water, a dire humanitarian issue.",
+        "options": [
+          "A. a mere fraction",
+          "B. a great deal",
+          "C. the whole",
+          "D. precious little"
+        ],
+        "answer": "A",
+        "explanation": "คำตอบที่ถูกต้องคือ 'a mere fraction' (เป็นเพียงเศษเสี้ยว) ซึ่งใช้กับนามนับได้ 'inhabitants' ผ่านโครงสร้าง 'fraction of [noun]' และเน้นย้ำว่ามีจำนวนน้อยมากเมื่อเทียบกับทั้งหมด 'A great deal' ต้องตามด้วย 'of' และใช้กับนามนับไม่ได้ 'The whole' ใช้กับนามเอกพจน์ และ 'precious little' ใช้กับนามนับไม่ได้"
+      },
+      {
+        "question": "______ the students nor the faculty was aware of the impending curriculum changes.",
+        "options": [
+          "A. Either",
+          "B. Both",
+          "C. Neither",
+          "D. Not only"
+        ],
+        "answer": "C",
+        "explanation": "คำตอบที่ถูกต้องคือ 'Neither' ซึ่งใช้ในโครงสร้างคู่ 'Neither...nor...' เพื่อปฏิเสธทั้งสองส่วน กฎของ proximity rule ระบุว่ากริยาจะผันตามนามตัวที่อยู่ใกล้ที่สุด ซึ่งคือ 'the faculty' (คณะอาจารย์, นามเอกพจน์) ดังนั้นกริยา 'was' จึงถูกต้อง"
+      },
+      {
+        "question": "He has ______ patience for bureaucratic red tape and administrative delays.",
+        "options": [
+          "A. a few",
+          "B. little",
+          "C. few",
+          "D. small"
+        ],
+        "answer": "B",
+        "explanation": "คำตอบที่ถูกต้องคือ 'little' (น้อยมากจนแทบไม่มี) เพราะ 'patience' เป็นนามนับไม่ได้ และบริบทแสดงถึงความรู้สึกเชิงลบ 'A few' และ 'few' ใช้กับนามนับได้ 'Small' เป็น adjective และต้องใช้ในโครงสร้างอื่น"
+      },
+      {
+        "question": "A substantial ______ of the annual budget is allocated to defense spending.",
+        "options": [
+          "A. number",
+          "B. quantity",
+          "C. proportion",
+          "D. amount"
+        ],
+        "answer": "C",
+        "explanation": "คำตอบที่ถูกต้องคือ 'proportion' (สัดส่วน) ซึ่งเป็นคำที่เหมาะสมที่สุดเมื่อพูดถึงการจัดสรรงบประมาณ (budget) ที่เป็นส่วนหนึ่งของทั้งหมด 'Amount' และ 'quantity' ก็ใช้ได้กับนามนับไม่ได้ (budget) แต่ 'proportion' ให้ความหมายที่เฉพาะเจาะจงและเป็นทางการกว่า 'Number' ใช้กับนามนับได้"
+      },
+      {
+        "question": "______ single detail, no matter how trivial it seems, must be meticulously verified.",
+        "options": [
+          "A. Each",
+          "B. Every",
+          "C. All",
+          "D. The whole"
+        ],
+        "answer": "B",
+        "explanation": "คำตอบที่ถูกต้องคือ 'Every' เพราะเน้นย้ำถึง 'ทุกๆ' รายละเอียดโดยไม่มีข้อยกเว้น การใช้ 'Every single' เป็นการเน้นย้ำที่แข็งแกร่งกว่า 'Each' ซึ่งจะเน้นความเป็นรายชิ้นมากกว่า 'All' ต้องตามด้วยนามพหูพจน์ และ 'The whole' จะหมายถึง 'the whole detail' ซึ่งไม่สมเหตุสมผล"
+      },
+      {
+        "question": "Two-thirds of the confiscated merchandise ______ found to be counterfeit.",
+        "options": [
+          "A. was",
+          "B. were",
+          "C. has",
+          "D. have"
+        ],
+        "answer": "A",
+        "explanation": "คำตอบที่ถูกต้องคือ 'was' เพราะกริยาผันตามนามที่ตามหลัง 'of' ซึ่งคือ 'merchandise' (สินค้า) ซึ่งเป็นนามนับไม่ได้ ดังนั้นจึงต้องใช้กริยาเอกพจน์"
+      },
+      {
+        "question": "You can take ______ of the two routes to the destination; they are both equally scenic.",
+        "options": [
+          "A. none",
+          "B. neither",
+          "C. either",
+          "D. every"
+        ],
+        "answer": "C",
+        "explanation": "คำตอบที่ถูกต้องคือ 'either' (อันใดอันหนึ่ง) เพราะโจทย์ระบุว่ามี 'two routes' และประโยคให้เลือกทางใดทางหนึ่งได้ ('you can take...') บริบทเป็นเชิงบวก ('equally scenic') 'Neither' เป็นเชิงปฏิเสธ 'None' สำหรับสามอย่างขึ้นไป และ 'every' ใช้ไม่ได้ในโครงสร้างนี้"
+      },
+      {
+        "question": "There are ______ valid reasons to doubt the veracity of his testimony.",
+        "options": [
+          "A. a good many",
+          "B. a great deal of",
+          "C. much",
+          "D. a large amount of"
+        ],
+        "answer": "A",
+        "explanation": "คำตอบที่ถูกต้องคือ 'a good many' ซึ่งเป็นสำนวนที่มีความหมายเหมือน 'many' และใช้กับนามนับได้พหูพจน์ ('reasons') ตัวเลือก B, C, และ D ใช้กับนามนับไม่ได้"
+      },
+      {
+        "question": "______ thought has been given to the long-term ecological repercussions of the project.",
+        "options": [
+          "A. Too few",
+          "B. Scarcely any",
+          "C. Not many",
+          "D. A number of"
+        ],
+        "answer": "B",
+        "explanation": "คำตอบที่ถูกต้องคือ 'Scarcely any' (แทบจะไม่มีเลย) ซึ่งใช้ได้กับทั้งนามนับได้และนับไม่ได้ ('thought' ในที่นี้เป็นนามนับไม่ได้) และสื่อถึงการขาดการไตร่ตรองอย่างรุนแรง 'Too few' และ 'Not many' ใช้กับนามนับได้ 'A number of' ก็ใช้กับนามนับได้และเป็นเชิงบอกเล่า"
+      },
+      {
+        "question": "The ______ team contributed to the project's success, not just a few star players.",
+        "options": [
+          "A. all",
+          "B. all the",
+          "C. every",
+          "D. whole"
+        ],
+        "answer": "D",
+        "explanation": "คำตอบที่ถูกต้องคือ 'whole' ในโครงสร้าง 'the whole team' ซึ่งหมายถึงทีม 'ทั้งหมด' ในฐานะหน่วยเดียว 'All the' ต้องตามด้วยนามพหูพจน์ ('all the teams') 'All team' ผิดไวยากรณ์ และ 'Every' ต้องตามด้วยนามเอกพจน์ ('every team member')"
+      },
+      {
+        "question": "______ of the evidence presented so far points towards a single suspect.",
+        "options": [
+          "A. All",
+          "B. Many",
+          "C. Most",
+          "D. Every piece"
+        ],
+        "answer": "A",
+        "explanation": "คำตอบที่ถูกต้องคือ 'All' เพราะ 'evidence' เป็นนามนับไม่ได้ และเมื่อใช้เป็นประธาน จะใช้กับกริยาเอกพจน์ 'points' ('All of the evidence points...') 'Many' ใช้กับนามนับได้ 'Most' ก็ใช้ได้ (Most of the evidence points...) แต่ 'All' ให้ความหมายที่สมบูรณ์กว่าในบริบทนี้ 'Every piece' ก็ถูกไวยากรณ์ แต่ 'All' ครอบคลุมกว่า"
+      },
+      {
+        "question": "I have ______ reservations about the project's feasibility, but I will support it for now.",
+        "options": [
+          "A. little",
+          "B. a few",
+          "C. a little",
+          "D. few"
+        ],
+        "answer": "B",
+        "explanation": "คำตอบที่ถูกต้องคือ 'a few' (เล็กน้อย, พอมีอยู่บ้าง) เพราะ 'reservations' (ข้อกังขา) เป็นนามนับได้พหูพจน์ การใช้ 'a few' แสดงว่าผู้พูดมีข้อกังขาอยู่บ้างแต่ไม่มากพอที่จะคัดค้าน ซึ่งเข้ากับส่วนหลังของประโยค ('but I will support it') 'Few' (แทบไม่มี) จะให้ความหมายเชิงลบเกินไป"
+      },
+      {
+        "question": "______ of the five committee members were present, so the vote had to be postponed.",
+        "options": [
+          "A. Neither",
+          "B. None",
+          "C. Not one",
+          "D. Either"
+        ],
+        "answer": "B",
+        "explanation": "คำตอบที่ถูกต้องคือ 'None' (ไม่มีเลย) เพราะพูดถึงกลุ่มคน 5 คน (มากกว่าสอง) และประโยคเป็นเชิงปฏิเสธ 'Neither' ใช้สำหรับสองคนเท่านั้น 'Not one' ก็ใช้ได้ แต่ 'None of the...' เป็นโครงสร้างมาตรฐานกว่า 'Either' ใช้สำหรับการเลือกอย่างใดอย่างหนึ่ง"
+      },
+      {
+        "question": "He possesses a ______ amount of esoteric knowledge on medieval alchemy.",
+        "options": [
+          "A. vast",
+          "B. large",
+          "C. big",
+          "D. many"
+        ],
+        "answer": "A",
+        "explanation": "คำตอบที่ถูกต้องคือ 'vast' (กว้างใหญ่, ไพศาล) ซึ่งเป็น Collocation (คำที่มักใช้คู่กัน) ที่เหมาะสมกับ 'amount of knowledge' มากที่สุด 'Large amount' ก็ใช้ได้ แต่ 'vast amount' เป็นสำนวนที่แสดงระดับภาษาที่สูงกว่า 'Big' ไม่เป็นทางการ และ 'many' ใช้กับนามนับได้"
+      },
+      {
+        "question": "For the plan to succeed, ______ single component of the system must function flawlessly.",
+        "options": [
+          "A. all",
+          "B. each",
+          "C. every",
+          "D. most"
+        ],
+        "answer": "C",
+        "explanation": "คำตอบที่ถูกต้องคือ 'every' การใช้ 'every single' เป็นการเน้นย้ำที่หนักแน่นว่า 'ทุกชิ้นส่วนโดยไม่มีข้อยกเว้น' ซึ่งเหมาะกับบริบทที่ต้องการความสมบูรณ์แบบ ('function flawlessly') 'Each' ก็ใช้ได้ แต่ไม่เน้นย้ำเท่า 'every single'"
+      },
+      {
+        "question": "An overwhelming ______ of the respondents indicated a preference for the proposed changes.",
+        "options": [
+          "A. amount",
+          "B. quantity",
+          "C. number",
+          "D. majority"
+        ],
+        "answer": "D",
+        "explanation": "คำตอบที่ถูกต้องคือ 'majority' (ส่วนใหญ่) ซึ่งเป็นคำที่ใช้เฉพาะเจาะจงเมื่อพูดถึงผลสำรวจหรือการลงคะแนน 'respondents' (ผู้ตอบแบบสอบถาม) เป็นนามนับได้ 'Number' ก็ใช้ได้ แต่ 'majority' สื่อความหมายได้ดีกว่าในบริบทของการแสดงความคิดเห็นของคนกลุ่มใหญ่"
+      },
+      {
+        "question": "There seems to be ______ consensus among economists regarding the cause of the recession.",
+        "options": [
+          "A. few",
+          "B. little",
+          "C. a few",
+          "D. a little"
+        ],
+        "answer": "B",
+        "explanation": "คำตอบที่ถูกต้องคือ 'little' (น้อยมากจนแทบไม่มี) เนื่องจาก 'consensus' (ฉันทามติ) เป็นนามนับไม่ได้ และประโยคบ่งบอกถึงการขาดความเห็นพ้องต้องกัน 'Little' จึงเหมาะสมที่สุดในการสื่อความหมายเชิงลบนี้"
+      },
+      {
+        "question": "______ of the twin siblings shows any aptitude for music, which is strange given their parents' talents.",
+        "options": [
+          "A. None",
+          "B. Both",
+          "C. Either",
+          "D. Neither"
+        ],
+        "answer": "D",
+        "explanation": "คำตอบที่ถูกต้องคือ 'Neither' (ไม่ทั้งสอง) เพราะ 'twin siblings' หมายถึงมี 2 คน และประโยคเป็นเชิงปฏิเสธ ('shows any aptitude' ในประโยคปฏิเสธ) 'None' ใช้สำหรับ 3 คนขึ้นไป"
+      },
+      {
+        "question": "A large ______ of the city's infrastructure was damaged by the earthquake.",
+        "options": [
+          "A. number",
+          "B. part",
+          "C. piece",
+          "D. amount"
+        ],
+        "answer": "B",
+        "explanation": "คำตอบที่ถูกต้องคือ 'part' (ส่วน) ในสำนวน 'a large part of' ซึ่งใช้ได้กับทั้งนามนับได้และนับไม่ได้ในความหมายว่า 'ส่วนใหญ่ของ' ในที่นี้ 'infrastructure' (โครงสร้างพื้นฐาน) เป็นนามนับไม่ได้ 'Amount' ก็ใช้ได้ แต่ 'a large part of' เป็นสำนวนที่นิยมและเป็นธรรมชาติกว่า"
+      },
+      {
+        "question": "He has read ______ book ever written on the subject of ancient cartography.",
+        "options": [
+          "A. almost every",
+          "B. the most",
+          "C. a lot of",
+          "D. each"
+        ],
+        "answer": "A",
+        "explanation": "คำตอบที่ถูกต้องคือ 'almost every' (เกือบทุกเล่ม) ซึ่งเป็นการแสดงปริมาณที่มากอย่างยิ่งและสอดคล้องกับโครงสร้าง 'every + นามเอกพจน์' (book) 'The most' ใช้ในการเปรียบเทียบขั้นสูงสุด 'A lot of' ต้องตามด้วยนามพหูพจน์ และ 'each' ไม่เข้ากับความหมาย 'เกือบทั้งหมด' ในที่นี้"
+      },
+      {
+        "question": "We have ______ resources to complete the project on time; we'll need to request an extension.",
+        "options": [
+          "A. too little",
+          "B. too few",
+          "C. very little",
+          "D. not many"
+        ],
+        "answer": "B",
+        "explanation": "คำตอบที่ถูกต้องคือ 'too few' (น้อยเกินไป) เพราะ 'resources' เป็นนามนับได้พหูพจน์ บริบทที่ต้องขอขยายเวลา ('request an extension') บ่งชี้ว่าทรัพยากรมี 'น้อยเกินไป' 'Too little' ใช้กับนามนับไม่ได้"
+      },
+      {
+        "question": "______ of the applicants submitted a complete portfolio; most were missing at least one document.",
+        "options": [
+          "A. Little",
+          "B. Few",
+          "C. A little",
+          "D. A few"
+        ],
+        "answer": "B",
+        "explanation": "คำตอบที่ถูกต้องคือ 'Few' (น้อยมาก แทบไม่มี) เพราะ 'applicants' เป็นนามนับได้ และประโยคส่วนหลัง ('most were missing...') ให้ความหมายเชิงลบอย่างชัดเจน แสดงว่ามีผู้สมัครที่ส่งเอกสารครบนั้นน้อยมากจนน่าผิดหวัง 'A few' จะเป็นเชิงบวก ซึ่งขัดแย้งกับประโยค"
+      },
+      {
+        "question": "A significant percentage of the rainforest ______ been irreversibly destroyed.",
+        "options": [
+          "A. have",
+          "B. has",
+          "C. are",
+          "D. were"
+        ],
+        "answer": "B",
+        "explanation": "คำตอบที่ถูกต้องคือ 'has' เพราะกริยาผันตามนามที่อยู่หลัง 'of' ซึ่งคือ 'the rainforest' (ป่าฝน) ซึ่งเป็นนามเอกพจน์นับไม่ได้ ดังนั้นกริยาต้องเป็นเอกพจน์ (has been destroyed)"
+      },
+      {
+        "question": "I've reviewed both proposals, and ______ presents a viable solution to the crisis.",
+        "options": [
+          "A. none",
+          "B. neither",
+          "C. either",
+          "D. not any"
+        ],
+        "answer": "B",
+        "explanation": "คำตอบที่ถูกต้องคือ 'neither' (ไม่ทั้งสอง) เนื่องจากโจทย์บอกว่าได้ทบทวน 'both proposals' (2 ข้อเสนอ) และประโยคมีใจความเชิงปฏิเสธ (ไม่มีอันไหนที่เป็นทางออกที่ใช้ได้) 'None' ใช้สำหรับ 3 อย่างขึ้นไป"
+      },
+      {
+        "question": "There is ______ hope of finding survivors after so many days; the rescue effort has shifted to recovery.",
+        "options": [
+          "A. few",
+          "B. a few",
+          "C. little",
+          "D. a little"
+        ],
+        "answer": "C",
+        "explanation": "คำตอบที่ถูกต้องคือ 'little' (น้อยมากจนแทบไม่มี) เพราะ 'hope' เป็นนามนับไม่ได้ และบริบท ('shifted to recovery' - เปลี่ยนไปสู่การกู้ซาก) บ่งชี้ถึงความรู้สึกสิ้นหวังและเป็นเชิงลบอย่างยิ่ง"
+      },
+      {
+        "question": "______ participant will receive a certificate of completion at the end of the workshop.",
+        "options": [
+          "A. All",
+          "B. Every",
+          "C. Many of",
+          "D. A number of"
+        ],
+        "answer": "B",
+        "explanation": "คำตอบที่ถูกต้องคือ 'Every' เพราะตามด้วยนามเอกพจน์ ('participant') และหมายถึงผู้เข้าร่วมทุกคนโดยไม่มีข้อยกเว้น 'All' ต้องตามด้วยนามพหูพจน์ 'Many of' และ 'A number of' ก็ต้องตามด้วยนามพหูพจน์เช่นกัน"
+      },
+      {
+        "question": "The ______ budget has been allocated to marketing, leaving other departments underfunded.",
+        "options": [
+          "A. whole of the",
+          "B. all the",
+          "C. most of the",
+          "D. every"
+        ],
+        "answer": "C",
+        "explanation": "คำตอบที่ถูกต้องคือ 'most of the' (ส่วนใหญ่ของ) ซึ่งเข้ากับบริบทที่ว่าแผนกอื่นขาดแคลนงบประมาณ 'The whole of the budget' (งบประมาณทั้งหมด) จะรุนแรงเกินไป 'All the budget' ผิดไวยากรณ์ (ต้องเป็น 'all of the budget') และ 'every budget' ไม่มีความหมายในบริบทนี้"
+      },
+      {
+        "question": "______ of the potential investors has expressed serious interest yet.",
+        "options": [
+          "A. Neither",
+          "B. Either",
+          "C. None",
+          "D. All"
+        ],
+        "answer": "C",
+        "explanation": "คำตอบที่ถูกต้องคือ 'None' (ยังไม่มีใครเลย) เพราะ 'potential investors' เป็นกลุ่มคนที่มีมากกว่าสองคน และกริยา 'has' เป็นรูปเอกพจน์ ซึ่งเป็นที่ยอมรับในไวยากรณ์ที่เป็นทางการเมื่อใช้กับ 'None' 'Neither' ใช้สำหรับสองคนเท่านั้น 'Either' เป็นการเลือก และ 'All' ต้องใช้กับกริยาพหูพจน์ 'have'"
+      },
+      {
+        "question": "I have ______ reason to believe the information is accurate, as it comes from an unreliable source.",
+        "options": [
+          "A. every",
+          "B. all",
+          "C. little",
+          "D. a little"
+        ],
+        "answer": "C",
+        "explanation": "คำตอบที่ถูกต้องคือ 'little' ในที่นี้ 'reason' เป็นนามนับไม่ได้ หมายถึง 'เหตุผลอันควร' (justification) บริบท ('unreliable source') เป็นเชิงลบอย่างชัดเจน ดังนั้น 'little reason' (มีเหตุผลน้อยมาก) จึงเหมาะสมที่สุด 'Every' และ 'all' ไม่เข้ากับความหมาย 'A little' เป็นเชิงบวก"
+      },
+      {
+        "question": "The firm spent ______ its resources trying to salvage the failing project, all to no avail.",
+        "options": [
+          "A. the whole of",
+          "B. every of",
+          "C. most of",
+          "D. all of"
+        ],
+        "answer": "D",
+        "explanation": "คำตอบที่ถูกต้องคือ 'all of' ซึ่งใช้กับนามพหูพจน์ 'its resources' เพื่อหมายถึงทรัพยากรทั้งหมด 'The whole of' ใช้กับนามเอกพจน์ 'Every of' ผิดไวยากรณ์ 'Most of' (ส่วนใหญ่) ก็เป็นไปได้ แต่ 'all of' เข้ากับส่วนท้าย ('all to no avail' - ทั้งหมดสูญเปล่า) ได้ดีกว่า"
+      },
+      {
+        "question": "We received a great ______ of complaints after the system outage.",
+        "options": [
+          "A. deal",
+          "B. number",
+          "C. amount",
+          "D. quantity"
+        ],
+        "answer": "B",
+        "explanation": "คำตอบที่ถูกต้องคือ 'number' เพราะ 'complaints' เป็นนามนับได้พหูพจน์ ดังนั้นต้องใช้ 'a great number of' ส่วน 'a great deal of', 'amount of', และ 'quantity of' ใช้กับนามนับไม่ได้"
+      },
+      {
+        "question": "______ one of the twins could solve the complex riddle, demonstrating their shared intellect.",
+        "options": [
+          "A. Both",
+          "B. Either",
+          "C. Each",
+          "D. Every"
+        ],
+        "answer": "C",
+        "explanation": "คำตอบที่ถูกต้องคือ 'Each' เพราะเน้นว่า 'แต่ละคน' (จากสองคน) สามารถแก้ปริศนาได้ ซึ่งเข้ากับ 'demonstrating their shared intellect' ได้ดีที่สุด 'Each one of...' เป็นโครงสร้างที่ถูกต้องและเน้นความเป็นปัจเจก 'Both' จะใช้ในโครงสร้าง 'Both of the twins...' 'Either' หมายถึงคนใดคนหนึ่ง และ 'Every' มักใช้กับกลุ่มที่ใหญ่กว่าสองคน"
+      }
+    ]
+  }
+]
