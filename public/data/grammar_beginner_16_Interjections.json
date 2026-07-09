@@ -1,0 +1,870 @@
+[
+  {
+    "id": "16_1",
+    "title": "16.1 Joy, Surprise, and Pain (Wow!, Ouch!, Yay!)",
+    "explanation": "Interjections (คำอุทาน) คือคำหรือวลีสั้นๆ ที่ใช้แสดงอารมณ์หรือความรู้สึกที่เกิดขึ้นอย่างฉับพลัน เช่น ดีใจ, ประหลาดใจ, เจ็บปวด คำอุทานมักจะอยู่เดี่ยวๆ หรือนำหน้าประโยค และมักจะตามด้วยเครื่องหมายอัศเจรีย์ (!)\n\nในหัวข้อนี้ เราจะเน้นไปที่ 3 อารมณ์หลัก:\n1.  **Joy (ความสุข, ความดีใจ):** ใช้เมื่อรู้สึกดีใจ, ตื่นเต้น หรือประสบความสำเร็จ\n    *   **Yay!** (เย่!): ใช้แสดงความดีใจหรือความสำเร็จเล็กๆ น้อยๆ\n    *   **Hooray! / Hurrah!** (เฮ!/ชโย!): ใช้แสดงความดีใจ, การเฉลิมฉลอง หรือชัยชนะที่ยิ่งใหญ่กว่า\n    *   **Yippee!** (ยิปปี้!): คล้ายกับ Yay! แต่แสดงความตื่นเต้นดีใจที่มากกว่า มักใช้โดยเด็กๆ\n\n2.  **Surprise (ความประหลาดใจ):** ใช้เมื่อเจอสิ่งที่ไม่คาดฝัน หรือน่าทึ่ง\n    *   **Wow!** (ว้าว!): ใช้แสดงความประทับใจ, ทึ่ง, หรือประหลาดใจในทางบวก\n    *   **Gosh! / Oh my gosh!** (โอ้พระเจ้า!): เป็นคำอุทานแสดงความประหลาดใจที่สุภาพกว่า \"Oh my God!\"\n    *   **What!** (อะไรนะ!): ใช้เมื่อประหลาดใจหรือไม่เชื่อในสิ่งที่ได้ยินหรือได้เห็น\n\n3.  **Pain (ความเจ็บปวด):** ใช้เมื่อรู้สึกเจ็บปวดทางร่างกายอย่างฉับพลัน\n    *   **Ouch!** (โอ๊ย!): เป็นคำที่ใช้บ่อยที่สุดเมื่อรู้สึกเจ็บ\n    *   **Ow!** (โอ๊ย!): คล้ายกับ Ouch! ใช้แสดงความเจ็บปวดเช่นกัน",
+    "examples": [
+      {
+        "eng": "Yay! I passed the exam!",
+        "thai": "เย่! ฉันสอบผ่านแล้ว! (แสดงความดีใจกับความสำเร็จ)"
+      },
+      {
+        "eng": "Wow! The view from here is incredible.",
+        "thai": "ว้าว! วิวจากตรงนี้น่าทึ่งมาก (แสดงความประทับใจ)"
+      },
+      {
+        "eng": "Ouch! I just bumped my head on the shelf.",
+        "thai": "โอ๊ย! ฉันเพิ่งเอาหัวโขกกับชั้นวางของ (แสดงความเจ็บปวด)"
+      },
+      {
+        "eng": "Hooray! Our team won the championship!",
+        "thai": "ชโย! ทีมของเราชนะการแข่งขันชิงแชมป์! (แสดงความยินดีกับชัยชนะที่ยิ่งใหญ่)"
+      },
+      {
+        "eng": "Gosh! You scared me!",
+        "thai": "โอ้! คุณทำให้ฉันตกใจเลย! (แสดงความประหลาดใจ)"
+      },
+      {
+        "eng": "Ow! That bee just stung me.",
+        "thai": "โอ๊ย! ผึ้งตัวนั้นเพิ่งต่อยฉัน (แสดงความเจ็บปวด)"
+      }
+    ],
+    "common_mistakes": "1.  **ใช้ผิดสถานการณ์ (Using the wrong interjection):** คนไทยอาจสับสนและใช้คำอุทานไม่ตรงกับอารมณ์ เช่น พูดว่า \"Wow!\" ทั้งๆ ที่รู้สึกเจ็บ ควรใช้ \"Ouch!\" หรือ \"Ow!\" แทน ต้องจำให้ได้ว่าแต่ละคำใช้กับความรู้สึกแบบไหน\n2.  **การใช้เครื่องหมายวรรคตอนผิด (Incorrect Punctuation):** Interjection มักจะตามด้วยเครื่องหมายอัศเจรีย์ (!) เพื่อเน้นอารมณ์ที่รุนแรง หรืออาจตามด้วยเครื่องหมายจุลภาค (,) หากอารมณ์ไม่รุนแรงมากและเป็นส่วนหนึ่งของประโยค\n    *   ผิด: `Ouch I hit my finger.`\n    *   ถูก: `Ouch! I hit my finger.` (เน้นความเจ็บ)\n    *   ถูก: `Wow, this is beautiful.` (เน้นน้อยกว่า)\n3.  **ใช้ในงานเขียนที่เป็นทางการมากเกินไป (Overuse in Formal Writing):** คำอุทานเหมาะกับการพูดในชีวิตประจำวัน, การแชท, หรือการเขียนที่ไม่เป็นทางการ การนำไปใช้ในเรียงความ, รายงาน หรืออีเมลธุรกิจจะทำให้งานเขียนดูไม่เป็นมืออาชีพ\n4.  **การออกเสียงและการสะกด:** บางครั้งอาจสับสนการสะกด เช่น 'Woa' แทนที่จะเป็น 'Wow' หรือ 'Yey' แทนที่จะเป็น 'Yay'",
+    "practice_questions": [
+      {
+        "question": "You just won a lottery ticket. What would you most likely shout?",
+        "options": [
+          "A. Ouch!",
+          "B. Wow!",
+          "C. Yippee!",
+          "D. Gosh!"
+        ],
+        "answer": "C",
+        "explanation": "Yippee! ใช้แสดงความดีใจตื่นเต้นอย่างมาก เหมาะกับสถานการณ์ที่น่าดีใจอย่างการถูกรางวัลลอตเตอรี่"
+      },
+      {
+        "question": "You accidentally touch a hot pan. What do you say?",
+        "options": [
+          "A. Yay!",
+          "B. Ouch!",
+          "C. Wow!",
+          "D. What!"
+        ],
+        "answer": "B",
+        "explanation": "Ouch! เป็นคำอุทานที่ใช้เมื่อรู้สึกเจ็บปวดทางกายอย่างฉับพลัน เช่น การสัมผัสของร้อน"
+      },
+      {
+        "question": "Your friend shows you a magic trick that you can't believe. You would say:",
+        "options": [
+          "A. Ow!",
+          "B. Hooray!",
+          "C. Wow!",
+          "D. Ouch!"
+        ],
+        "answer": "C",
+        "explanation": "Wow! ใช้แสดงความประทับใจหรือความประหลาดใจในสิ่งที่น่าทึ่ง เช่น การดูมายากล"
+      },
+      {
+        "question": "Choose the best interjection for this sentence: '____! School is cancelled today because of the snow!'",
+        "options": [
+          "A. Hooray!",
+          "B. Ouch!",
+          "C. Gosh!",
+          "D. Ow!"
+        ],
+        "answer": "A",
+        "explanation": "Hooray! ใช้แสดงความดีใจหรือการเฉลิมฉลอง เหมาะกับการที่โรงเรียนหยุดเพราะเป็นเรื่องที่น่ายินดีสำหรับนักเรียน"
+      },
+      {
+        "question": "You just stubbed your toe on the corner of the bed. What do you yell?",
+        "options": [
+          "A. Wow!",
+          "B. Yippee!",
+          "C. Ow!",
+          "D. Yay!"
+        ],
+        "answer": "C",
+        "explanation": "Ow! เป็นคำที่ใช้แสดงความเจ็บปวด คล้ายกับ Ouch! และเหมาะกับสถานการณ์เดินเตะขอบเตียง"
+      },
+      {
+        "question": "Fill in the blank: '____! I didn't know you were in town. It's so good to see you!'",
+        "options": [
+          "A. Ouch!",
+          "B. Oh my gosh!",
+          "C. Yay!",
+          "D. Ow!"
+        ],
+        "answer": "B",
+        "explanation": "Oh my gosh! ใช้แสดงความประหลาดใจเมื่อเจอเรื่องที่ไม่คาดคิด เช่น การเจอเพื่อนโดยบังเอิญ"
+      },
+      {
+        "question": "Your little sister just gave you a beautiful handmade birthday card. You might say:",
+        "options": [
+          "A. Ouch!",
+          "B. Wow!",
+          "C. Ow!",
+          "D. Yippee!"
+        ],
+        "answer": "B",
+        "explanation": "Wow! ใช้แสดงความประทับใจในสิ่งสวยงามหรือน่าทึ่งที่ได้รับ เช่น การ์ดวันเกิดที่ทำด้วยมือ"
+      },
+      {
+        "question": "You get an injection from a doctor and it hurts a little. What is the most appropriate interjection?",
+        "options": [
+          "A. Gosh!",
+          "B. Hooray!",
+          "C. Ouch!",
+          "D. Yay!"
+        ],
+        "answer": "C",
+        "explanation": "Ouch! เป็นคำอุทานที่เหมาะสมที่สุดเมื่อรู้สึกเจ็บเล็กน้อยจากการฉีดยา"
+      },
+      {
+        "question": "The holidays have finally started after a long semester. You happily exclaim:",
+        "options": [
+          "A. Ouch!",
+          "B. Ow!",
+          "C. Gosh!",
+          "D. Yay!"
+        ],
+        "answer": "D",
+        "explanation": "Yay! ใช้แสดงความสุขและความตื่นเต้นที่วันหยุดได้เริ่มต้นขึ้นแล้วหลังจากเรียนมาอย่างยาวนาน"
+      },
+      {
+        "question": "Complete the sentence: '____! You've painted your entire room blue! It looks so different.'",
+        "options": [
+          "A. Ow!",
+          "B. Hooray!",
+          "C. Wow!",
+          "D. Ouch!"
+        ],
+        "answer": "C",
+        "explanation": "Wow! แสดงความประหลาดใจเมื่อเห็นการเปลี่ยนแปลงที่ไม่คาดคิด เช่น การที่เพื่อนทาสีห้องใหม่ทั้งห้อง"
+      }
+    ]
+  },
+  {
+    "id": "16_2",
+    "title": "16.2 Hesitation and Realization (Um, Uh, Oh, Aha!)",
+    "explanation": "Interjections ในกลุ่มนี้ใช้เพื่อแสดงความลังเล (hesitation) หรือการตระหนักรู้/เข้าใจบางสิ่งอย่างกะทันหัน (realization) เป็นคำที่ใช้บ่อยมากในภาษาพูด เพื่อทำให้การสนทนาเป็นธรรมชาติเหมือนเจ้าของภาษา\n\n1.  **Um / Uh (เอิ่ม / เอ่อ)**: ใช้เมื่อผู้พูดกำลังคิด, ลังเล, ไม่แน่ใจ, หรือต้องการเวลาเพื่อเรียบเรียงคำพูดต่อไป เป็นการซื้อเวลาสั้นๆ ในบทสนทนา\n    *   **Um** มักจะใช้เมื่อลังเลหรือครุ่นคิดนานกว่าเล็กน้อย\n    *   **Uh** มักจะใช้เมื่อนึกคำพูดไม่ออกชั่วขณะ หรือเป็นการหยุดสั้นๆ\n\n2.  **Oh (โอ้ / อ๋อ)**: เป็นคำอุทานที่ใช้ได้หลากหลายมาก แต่ในบริบทนี้จะเน้นที่การ 'ตระหนักรู้' หรือ 'เข้าใจ'\n    *   ใช้เมื่อเพิ่งเข้าใจสิ่งที่คนอื่นพูด (\"อ๋อ เข้าใจแล้ว\")\n    *   ใช้เมื่อนึกอะไรบางอย่างออกกะทันหัน (\"โอ๊ะ! นึกลืมไปเลย\")\n    *   ใช้แสดงความประหลาดใจเล็กน้อย (\"โอ้! มาถึงแล้วเหรอ\")\n\n3.  **Aha! (อ่าฮ่า! / อ๋อ!)**: ใช้เมื่อค้นพบบางสิ่ง, เข้าใจเรื่องที่ซับซ้อนได้ในที่สุด, หรือจับได้ว่าใครทำอะไรผิด เป็นการแสดงความเข้าใจหรือค้นพบที่ชัดเจนและหนักแน่นกว่า 'Oh'\n    *   เหมือนมีหลอดไฟสว่างขึ้นมาในหัว (a 'eureka' moment)\n    *   มักใช้เมื่อเจอของที่หาอยู่, ไขปริศนาได้, หรือเห็นความจริงที่ถูกซ่อนไว้",
+    "examples": [
+      {
+        "eng": "Let me see... um... I think the blue one is better.",
+        "thai": "ขอดูหน่อยนะ... อืม... ฉันว่าสีน้ำเงินดีกว่า (ใช้ 'um' ขณะกำลังตัดสินใจ)"
+      },
+      {
+        "eng": "The meeting is at, uh, 3:30 PM, I believe.",
+        "thai": "ประชุมตอน... เอ่อ... บ่ายสามโมงครึ่งนะ ถ้าฉันจำไม่ผิด (ใช้ 'uh' ขณะกำลังนึกข้อมูล)"
+      },
+      {
+        "eng": "A: You need to click this icon first. B: Oh, I see! Thank you.",
+        "thai": "A: คุณต้องคลิกไอคอนนี้ก่อน B: อ๋อ เข้าใจแล้ว! ขอบคุณ (ใช้ 'Oh' เพื่อแสดงว่าเพิ่งเข้าใจ)"
+      },
+      {
+        "eng": "Oh! I just remembered I have a dentist appointment today.",
+        "thai": "โอ๊ะ! เพิ่งนึกออกว่าวันนี้มีนัดกับหมอฟัน (ใช้ 'Oh!' เมื่อนึกบางสิ่งได้กะทันหัน)"
+      },
+      {
+        "eng": "Aha! So you are the one who ate the last piece of cake!",
+        "thai": "อ่าฮ่า! ที่แท้คุณนี่เองที่เป็นคนกินเค้กชิ้นสุดท้ายไป! (ใช้ 'Aha!' เมื่อจับได้หรือค้นพบความจริง)"
+      },
+      {
+        "eng": "After hours of searching, he shouted, \"Aha! I found it!\"",
+        "thai": "หลังจากค้นหามาหลายชั่วโมง เขาก็ตะโกนว่า \"เจอแล้ว!\" (ใช้ 'Aha!' เมื่อเจอของที่หา)"
+      }
+    ],
+    "common_mistakes": "1.  **ใช้ในงานเขียนที่เป็นทางการ (Formal Writing)**: คำเหล่านี้ (โดยเฉพาะ Um, Uh) เหมาะกับภาษาพูดมากกว่า ในการเขียนเรียงความ รายงาน หรืออีเมลธุรกิจ ควรหลีกเลี่ยงการใช้คำเหล่านี้ เพราะจะทำให้งานเขียนดูไม่เป็นมืออาชีพ\n\n2.  **ใช้ 'Aha!' พร่ำเพรื่อ**: คนไทยอาจสับสนระหว่าง 'Oh' กับ 'Aha!' และใช้ 'Aha!' ในสถานการณ์ที่แค่เข้าใจเรื่องง่ายๆ ซึ่งจริงๆ แล้วควรใช้ 'Oh' ก็พอ 'Aha!' จะเก็บไว้ใช้สำหรับ 'การค้นพบ' หรือ 'การเข้าใจอย่างลึกซึ้ง' ที่น่าตื่นเต้นกว่า เช่น 'Oh, it's raining.' (โอ้ ฝนตก) ถูกต้อง แต่ถ้าใช้ 'Aha! it's raining.' จะฟังดูแปลกมาก\n\n3.  **ใช้มากเกินไปจนติดเป็นนิสัย**: การใช้ 'Um' หรือ 'Uh' มากเกินไปในการพูด อาจทำให้ผู้ฟังรู้สึกว่าเราไม่มั่นใจในตัวเองหรือไม่เตรียมตัวมา โดยเฉพาะในการนำเสนองานหรือการสัมภาษณ์งาน ควรฝึกพูดให้มีคำเหล่านี้น้อยลง\n\n4.  **ออกเสียงผิด**: 'Uh' ออกเสียงสั้นๆ ว่า 'เออะ' ส่วน 'Um' จะลากเสียง 'อืมมม' ได้ยาวกว่าเพื่อแสดงการครุ่นคิดที่นานขึ้น การออกเสียงให้ถูกจะช่วยสื่อสารความรู้สึกได้ดีขึ้น",
+    "practice_questions": [
+      {
+        "question": "A: \"What's the capital of Canada?\" B: \"It's... ___, let me think... Ottawa!\"",
+        "options": [
+          "A. Aha!",
+          "B. Um",
+          "C. Wow",
+          "D. Ouch"
+        ],
+        "answer": "B",
+        "explanation": "ผู้พูดกำลังใช้เวลาคิดหาคำตอบ จึงใช้ 'Um' (หรือ 'Uh') เพื่อแสดงความลังเล หรือการครุ่นคิด"
+      },
+      {
+        "question": "\"___! I finally understand this math problem!\"",
+        "options": [
+          "A. Uh",
+          "B. Oops",
+          "C. Aha!",
+          "D. Well"
+        ],
+        "answer": "C",
+        "explanation": "ผู้พูดเพิ่งเข้าใจปัญหาที่ซับซ้อนได้สำเร็จ เป็นช่วงเวลาแห่งการค้นพบ (eureka moment) จึงใช้ 'Aha!'"
+      },
+      {
+        "question": "\"___! I didn't know you were coming today. What a nice surprise!\"",
+        "options": [
+          "A. Oh",
+          "B. Uh",
+          "C. Aha!",
+          "D. Um"
+        ],
+        "answer": "A",
+        "explanation": "'Oh' ใช้เพื่อแสดงความประหลาดใจเมื่อพบเจอหรือรับรู้สิ่งที่ไม่คาดคิด"
+      },
+      {
+        "question": "The detective looked at the footprints and said, \"___! The suspect must have left through this window.\"",
+        "options": [
+          "A. Um",
+          "B. Oh",
+          "C. Aha!",
+          "D. Uh"
+        ],
+        "answer": "C",
+        "explanation": "นักสืบค้นพบเบาะแสสำคัญที่นำไปสู่ข้อสรุป 'Aha!' จึงเหมาะสมที่สุดเพื่อแสดงการค้นพบครั้งสำคัญ"
+      },
+      {
+        "question": "\"Excuse me, could you tell me where the restroom is?\" \"Sure, it's on the... ___, the second floor.\"",
+        "options": [
+          "A. Aha!",
+          "B. Oh",
+          "C. Yikes",
+          "D. uh"
+        ],
+        "answer": "D",
+        "explanation": "ผู้พูดหยุดชะงักเล็กน้อยเพื่อรวบรวมข้อมูลก่อนตอบ 'uh' (หรือ 'um') จึงเป็นคำที่เหมาะสมในการหยุดชั่วขณะ"
+      },
+      {
+        "question": "A: \"You just need to restart the computer.\" B: \"___, so that's all I had to do. Thanks!\"",
+        "options": [
+          "A. Um",
+          "B. Oh",
+          "C. Aha!",
+          "D. Uh"
+        ],
+        "answer": "B",
+        "explanation": "ผู้พูดเพิ่งตระหนักและเข้าใจวิธีแก้ปัญหาง่ายๆ ที่ได้รับฟังมา 'Oh' จึงเหมาะสมที่สุดเพื่อแสดงความเข้าใจ"
+      },
+      {
+        "question": "\"___, I'm not sure if I should choose the red shirt or the green one.\"",
+        "options": [
+          "A. Aha!",
+          "B. Hooray",
+          "C. Um",
+          "D. Oh"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้แสดงความไม่แน่ใจและความลังเลในการตัดสินใจ 'Um' จึงเป็นคำที่ใช้เพื่อแสดงความรู้สึกดังกล่าว"
+      },
+      {
+        "question": "\"___! I just realized I left my keys in the car.\"",
+        "options": [
+          "A. Uh",
+          "B. Oh",
+          "C. Aha!",
+          "D. Um"
+        ],
+        "answer": "B",
+        "explanation": "เป็นการนึกอะไรบางอย่างออกอย่างกะทันหัน ซึ่งเป็นหนึ่งในการใช้งานหลักของ 'Oh'"
+      },
+      {
+        "question": "Which interjection is LEAST appropriate for formal writing like a business report?",
+        "options": [
+          "A. Therefore",
+          "B. However",
+          "C. Uh",
+          "D. In conclusion"
+        ],
+        "answer": "C",
+        "explanation": "'Uh' เป็นคำอุทานที่ใช้ในภาษาพูดเพื่อแสดงความลังเล ไม่ควรใช้ในงานเขียนที่เป็นทางการอย่างเด็ดขาด"
+      },
+      {
+        "question": "\"So, the secret ingredient is... cinnamon! ___! I knew it!\"",
+        "options": [
+          "A. Um...",
+          "B. Oh...",
+          "C. Uh...",
+          "D. Aha!"
+        ],
+        "answer": "D",
+        "explanation": "ผู้พูดไขความลับหรือปริศนาได้สำเร็จ 'Aha!' ใช้เพื่อแสดงความรู้สึกของการค้นพบความจริงที่ซ่อนอยู่"
+      }
+    ]
+  },
+  {
+    "id": "16_3",
+    "title": "16.3 Summary: Interjections (สรุปคำอุทาน + 50 Exercises)",
+    "explanation": "Interjections (คำอุทาน) คือคำหรือวลีสั้นๆ ที่ใช้เพื่อแสดงอารมณ์หรือความรู้สึกที่เกิดขึ้นอย่างฉับพลัน เช่น ความดีใจ, ความประหลาดใจ, ความเจ็บปวด, หรือความรังเกียจ คำอุทานมักจะอยู่ต้นประโยค และตามด้วยเครื่องหมายอัศเจรีย์ (!) สำหรับอารมณ์ที่รุนแรง หรือเครื่องหมายจุลภาค (,) สำหรับอารมณ์ที่ไม่รุนแรงนัก\n\nจุดเด่นของ Interjections:\n1.  **เป็นอิสระทางไวยากรณ์**: คำอุทานไม่ได้เชื่อมโยงทางไวยากรณ์กับส่วนอื่นๆ ของประโยค หมายความว่าถึงจะตัดคำอุทานออกไป ประโยคก็ยังคงสมบูรณ์อยู่\n2.  **สื่อสารอารมณ์**: หน้าที่หลักคือการสื่อสารอารมณ์ของผู้พูดให้ชัดเจนและรวดเร็ว\n3.  **เครื่องหมายวรรคตอน**: \n    - ใช้ `!` (Exclamation Mark) เมื่อต้องการแสดงอารมณ์ที่เข้มข้น: `Wow! That's amazing.`\n    - ใช้ `,` (Comma) เมื่อเป็นคำอุทานเบาๆ หรือใช้เพื่อเริ่มบทสนทนา: `Well, I think we should go.`\n\nคำอุทานมีหลากหลายประเภทตามอารมณ์ที่แสดงออก เช่น Wow (ประทับใจ), Ouch (เจ็บปวด), Oh (ประหลาดใจ/รับรู้), Hey (ทักทาย/เรียกความสนใจ), Ugh (รังเกียจ), Phew (โล่งใจ) เป็นต้น การเลือกใช้ให้ถูกกับบริบทจะทำให้การสื่อสารดูเป็นธรรมชาติมากขึ้น",
+    "examples": [
+      {
+        "eng": "Wow! I can't believe we won.",
+        "thai": "ว้าว! ไม่อยากจะเชื่อเลยว่าเราชนะ (แสดงความประทับใจ, ดีใจ)"
+      },
+      {
+        "eng": "Ouch! I just stubbed my toe.",
+        "thai": "โอ๊ย! ฉันเพิ่งเตะโดนนิ้วเท้า (แสดงความเจ็บปวด)"
+      },
+      {
+        "eng": "Well, what should we do now?",
+        "thai": "อืม แล้วตอนนี้เราควรทำอะไรดีล่ะ (แสดงความลังเล, เกริ่นนำ)"
+      },
+      {
+        "eng": "Oh, I didn't realize you were here.",
+        "thai": "โอ้ ฉันไม่ทันสังเกตว่าคุณอยู่ที่นี่ (แสดงความประหลาดใจเล็กน้อย)"
+      },
+      {
+        "eng": "Phew! That was a close call.",
+        "thai": "ฟู่! เกือบไปแล้วไหมล่ะ (แสดงความโล่งใจ)"
+      }
+    ],
+    "common_mistakes": "1. **การใช้บ่อยเกินไป (Overuse)**: คนไทยบางคนอาจจะใส่คำอุทานในทุกประโยคที่พูด ทำให้การสนทนาดูไม่เป็นธรรมชาติหรือดูแสดงอารมณ์เกินจริง ควรใช้เมื่อต้องการเน้นอารมณ์ในสถานการณ์นั้นๆ จริงๆ\n\n2. **ใช้ผิดบริบท (Wrong Context)**: ใช้คำอุทานที่ไม่ตรงกับอารมณ์ของประโยค เช่น ใช้ \"Yay!\" (เย้!) ในสถานการณ์ที่น่าผิดหวัง ซึ่งทำให้ผู้ฟังเกิดความสับสน\n\n3. **การใช้เครื่องหมายวรรคตอนผิด (Incorrect Punctuation)**: สับสนระหว่างการใช้เครื่องหมายอัศเจรีย์ (!) กับจุลภาค (,) หลักการง่ายๆ คือ ถ้าอารมณ์รุนแรง เข้มข้น ให้ใช้ ! และขึ้นต้นประโยคถัดไปตัวพิมพ์ใหญ่ เช่น `Wow! That car is fast.` แต่ถ้าเป็นอารมณ์เบาๆ หรือแค่เกริ่นนำ ให้ใช้ , และคำถัดไปเป็นตัวพิมพ์เล็ก (ยกเว้นคำว่า I) เช่น `Oh, that's fine.`\n\n4. **สับสนระหว่างคำที่คล้ายกัน**: เช่น `Oh` กับ `Ah`. โดย `Oh` มักใช้แสดงความประหลาดใจหรือการรับรู้ทั่วไป ส่วน `Ah` หรือ `Aha` มักใช้เมื่อเกิดความเข้าใจหรือค้นพบบางอย่าง",
+    "practice_questions": [
+      {
+        "question": "___! That's a magnificent view from the top of the mountain.",
+        "options": [
+          "A. Ouch",
+          "B. Wow",
+          "C. Ugh",
+          "D. Well"
+        ],
+        "answer": "B",
+        "explanation": "ใช้ Wow! เพื่อแสดงความประทับใจหรือความทึ่งในวิวที่สวยงาม"
+      },
+      {
+        "question": "___! I just stepped on a sharp rock.",
+        "options": [
+          "A. Hooray",
+          "B. Phew",
+          "C. Ouch",
+          "D. Hmm"
+        ],
+        "answer": "C",
+        "explanation": "ใช้ Ouch! เพื่อแสดงความรู้สึกเจ็บปวด"
+      },
+      {
+        "question": "___, I didn't see you standing there.",
+        "options": [
+          "A. Oh",
+          "B. Yuck",
+          "C. Bravo",
+          "D. Yay"
+        ],
+        "answer": "A",
+        "explanation": "ใช้ Oh เพื่อแสดงความประหลาดใจเล็กน้อยเมื่อพบเจอใครบางคนโดยไม่คาดคิด"
+      },
+      {
+        "question": "___! We won the lottery!",
+        "options": [
+          "A. Alas",
+          "B. Yippee",
+          "C. Ugh",
+          "D. Darn"
+        ],
+        "answer": "B",
+        "explanation": "ใช้ Yippee! หรือ Hooray! เพื่อแสดงความดีใจอย่างสุดขีด"
+      },
+      {
+        "question": "___, I'm not sure which path to take.",
+        "options": [
+          "A. Hmm",
+          "B. Wow",
+          "C. Ouch",
+          "D. Yay"
+        ],
+        "answer": "A",
+        "explanation": "ใช้ Hmm เพื่อแสดงความลังเลหรือกำลังใช้ความคิด"
+      },
+      {
+        "question": "___! This milk tastes sour.",
+        "options": [
+          "A. Bravo",
+          "B. Yuck",
+          "C. Hello",
+          "D. Phew"
+        ],
+        "answer": "B",
+        "explanation": "ใช้ Yuck! หรือ Ew! เพื่อแสดงความรังเกียจหรือไม่ชอบในรสชาติ"
+      },
+      {
+        "question": "___! I finally found my lost keys.",
+        "options": [
+          "A. Oh no",
+          "B. Phew",
+          "C. Ouch",
+          "D. Well"
+        ],
+        "answer": "B",
+        "explanation": "ใช้ Phew! เพื่อแสดงความโล่งใจหลังจากความกังวลได้หมดไป"
+      },
+      {
+        "question": "___! Your speech was absolutely brilliant.",
+        "options": [
+          "A. Bravo",
+          "B. Ugh",
+          "C. Yikes",
+          "D. Alas"
+        ],
+        "answer": "A",
+        "explanation": "ใช้ Bravo! เพื่อแสดงความชื่นชมหรือยกย่องการแสดงที่ยอดเยี่ยม"
+      },
+      {
+        "question": "___, I forgot to turn off the oven.",
+        "options": [
+          "A. Yay",
+          "B. Oops",
+          "C. Hi",
+          "D. Bingo"
+        ],
+        "answer": "B",
+        "explanation": "ใช้ Oops! เพื่อแสดงการรับรู้ถึงความผิดพลาดเล็กๆ น้อยๆ ที่เกิดขึ้น"
+      },
+      {
+        "question": "___! The baby is sleeping.",
+        "options": [
+          "A. Hey",
+          "B. Wow",
+          "C. Shh",
+          "D. Ouch"
+        ],
+        "answer": "C",
+        "explanation": "ใช้ Shh! เพื่อบอกให้เงียบเสียงลง"
+      },
+      {
+        "question": "___, now I understand what you mean.",
+        "options": [
+          "A. Ugh",
+          "B. Ow",
+          "C. Ah",
+          "D. Bummer"
+        ],
+        "answer": "C",
+        "explanation": "ใช้ Ah! เพื่อแสดงว่าเกิดความเข้าใจในสิ่งที่ได้ยินหรือได้เห็น"
+      },
+      {
+        "question": "___! Get your hands off my bag!",
+        "options": [
+          "A. Hey",
+          "B. Well",
+          "C. Aw",
+          "D. Hmm"
+        ],
+        "answer": "A",
+        "explanation": "ใช้ Hey! ในที่นี้เพื่อเรียกความสนใจหรือแสดงการคัดค้านอย่างรุนแรง"
+      },
+      {
+        "question": "___! That was a scary movie.",
+        "options": [
+          "A. Yikes",
+          "B. Hooray",
+          "C. Bravo",
+          "D. Hello"
+        ],
+        "answer": "A",
+        "explanation": "ใช้ Yikes! เพื่อแสดงความตกใจหรือความกลัว"
+      },
+      {
+        "question": "___, what a cute puppy!",
+        "options": [
+          "A. Ugh",
+          "B. Darn",
+          "C. Aw",
+          "D. Ouch"
+        ],
+        "answer": "C",
+        "explanation": "ใช้ Aw เพื่อแสดงความรู้สึกเอ็นดู หรือความน่ารัก"
+      },
+      {
+        "question": "___, I guess it's time to leave.",
+        "options": [
+          "A. Wow",
+          "B. Yay",
+          "C. Well",
+          "D. Ow"
+        ],
+        "answer": "C",
+        "explanation": "ใช้ Well เพื่อเกริ่นนำประโยค หรือแสดงการยอมรับสถานการณ์"
+      },
+      {
+        "question": "___! I missed the final goal.",
+        "options": [
+          "A. Hooray",
+          "B. Darn",
+          "C. Phew",
+          "D. Bravo"
+        ],
+        "answer": "B",
+        "explanation": "ใช้ Darn! หรือ Shoot! เพื่อแสดงความผิดหวังหรือหงุดหงิด"
+      },
+      {
+        "question": "___! So you were the one hiding behind the door!",
+        "options": [
+          "A. Um",
+          "B. Ouch",
+          "C. Aha",
+          "D. Yuck"
+        ],
+        "answer": "C",
+        "explanation": "ใช้ Aha! เมื่อค้นพบความจริงหรือจับใครบางคนได้"
+      },
+      {
+        "question": "___! There's a giant spider in the bathtub!",
+        "options": [
+          "A. Eek",
+          "B. Phew",
+          "C. Yay",
+          "D. Hmm"
+        ],
+        "answer": "A",
+        "explanation": "ใช้ Eek! เพื่อแสดงความตกใจกลัว โดยเฉพาะกับสิ่งที่น่าขยะแขยงหรือไม่คาดคิด"
+      },
+      {
+        "question": "___! I'm so excited for our vacation tomorrow.",
+        "options": [
+          "A. Ugh",
+          "B. Alas",
+          "C. Yay",
+          "D. Oops"
+        ],
+        "answer": "C",
+        "explanation": "ใช้ Yay! เพื่อแสดงความตื่นเต้น ดีใจ"
+      },
+      {
+        "question": "___, I think I left my wallet at home.",
+        "options": [
+          "A. Oh no",
+          "B. Hooray",
+          "C. Bravo",
+          "D. Yummy"
+        ],
+        "answer": "A",
+        "explanation": "ใช้ Oh no! เพื่อแสดงความตกใจหรือความรู้สึกไม่ดีเมื่อเกิดเรื่องผิดพลาด"
+      },
+      {
+        "question": "___, I need to think about your offer.",
+        "options": [
+          "A. Wow",
+          "B. Er",
+          "C. Ouch",
+          "D. Yippee"
+        ],
+        "answer": "B",
+        "explanation": "ใช้ Er หรือ Um เพื่อแสดงความลังเล หรือต้องการเวลาคิด"
+      },
+      {
+        "question": "___! That was a close shave. The car almost hit us.",
+        "options": [
+          "A. Yuck",
+          "B. Whew",
+          "C. Bummer",
+          "D. Bravo"
+        ],
+        "answer": "B",
+        "explanation": "ใช้ Whew! หรือ Phew! เพื่อแสดงความโล่งใจหลังจากผ่านเหตุการณ์อันตรายมาได้"
+      },
+      {
+        "question": "___! I can't believe it's Monday already.",
+        "options": [
+          "A. Ugh",
+          "B. Yay",
+          "C. Wow",
+          "D. Phew"
+        ],
+        "answer": "A",
+        "explanation": "ใช้ Ugh! เพื่อแสดงความรู้สึกไม่พอใจ, เบื่อหน่าย หรือหงุดหงิด"
+      },
+      {
+        "question": "___! You did a fantastic job on the project.",
+        "options": [
+          "A. Ouch",
+          "B. Darn",
+          "C. Well done",
+          "D. Yikes"
+        ],
+        "answer": "C",
+        "explanation": "ใช้ Well done! เป็นคำอุทานเพื่อแสดงความชื่นชมในผลงาน"
+      },
+      {
+        "question": "___! My favorite team lost the game.",
+        "options": [
+          "A. Bummer",
+          "B. Hooray",
+          "C. Bravo",
+          "D. Phew"
+        ],
+        "answer": "A",
+        "explanation": "ใช้ Bummer! เพื่อแสดงความผิดหวังกับสถานการณ์ที่ไม่เป็นใจ"
+      },
+      {
+        "question": "___, what a beautiful piece of music.",
+        "options": [
+          "A. Ow",
+          "B. Oh",
+          "C. Ugh",
+          "D. Ew"
+        ],
+        "answer": "B",
+        "explanation": "ใช้ Oh ในบริบทนี้เพื่อแสดงความซาบซึ้งหรือประทับใจ"
+      },
+      {
+        "question": "___! I think that's the correct answer.",
+        "options": [
+          "A. Yuck",
+          "B. Oh no",
+          "C. Bingo",
+          "D. Ouch"
+        ],
+        "answer": "C",
+        "explanation": "ใช้ Bingo! เมื่อค้นพบคำตอบที่ถูกต้องหรือประสบความสำเร็จในสิ่งที่ค้นหา"
+      },
+      {
+        "question": "___! The traffic is terrible this morning.",
+        "options": [
+          "A. Grr",
+          "B. Yay",
+          "C. Wow",
+          "D. Phew"
+        ],
+        "answer": "A",
+        "explanation": "ใช้ Grr! เพื่อแสดงความโกรธหรือความหงุดหงิด"
+      },
+      {
+        "question": "___! I was so worried about you.",
+        "options": [
+          "A. Oh dear",
+          "B. Yippee",
+          "C. Bravo",
+          "D. Ugh"
+        ],
+        "answer": "A",
+        "explanation": "ใช้ Oh dear! เพื่อแสดงความกังวลใจหรือความเห็นใจ"
+      },
+      {
+        "question": "___! How are you doing?",
+        "options": [
+          "A. Ouch",
+          "B. Hi",
+          "C. Ugh",
+          "D. Shh"
+        ],
+        "answer": "B",
+        "explanation": "ใช้ Hi, Hello, หรือ Hey เป็นคำทักทาย"
+      },
+      {
+        "question": "___! I wish I had known that earlier.",
+        "options": [
+          "A. Wow",
+          "B. Oh well",
+          "C. Yay",
+          "D. Hooray"
+        ],
+        "answer": "B",
+        "explanation": "ใช้ Oh well เพื่อแสดงการยอมรับสถานการณ์ที่น่าผิดหวังเล็กน้อย"
+      },
+      {
+        "question": "___! I can't stand the sight of blood.",
+        "options": [
+          "A. Ew",
+          "B. Bravo",
+          "C. Phew",
+          "D. Hmm"
+        ],
+        "answer": "A",
+        "explanation": "ใช้ Ew! หรือ Yuck! เพื่อแสดงความขยะแขยง"
+      },
+      {
+        "question": "___, that must have been a difficult experience.",
+        "options": [
+          "A. Yay",
+          "B. Hooray",
+          "C. Gosh",
+          "D. Ouch"
+        ],
+        "answer": "C",
+        "explanation": "ใช้ Gosh! หรือ Geez! เพื่อแสดงความประหลาดใจหรือความเห็นใจ"
+      },
+      {
+        "question": "___! Another meeting? I have so much work to do.",
+        "options": [
+          "A. Great",
+          "B. Ugh",
+          "C. Wow",
+          "D. Phew"
+        ],
+        "answer": "B",
+        "explanation": "ใช้ Ugh! เพื่อแสดงความเบื่อหน่ายหรือไม่พอใจ"
+      },
+      {
+        "question": "___! The fireworks are starting!",
+        "options": [
+          "A. Ooh",
+          "B. Ouch",
+          "C. Alas",
+          "D. Ugh"
+        ],
+        "answer": "A",
+        "explanation": "ใช้ Ooh! หรือ Ah! เพื่อแสดงความตื่นตาตื่นใจกับสิ่งที่เห็น"
+      },
+      {
+        "question": "___! It is a sad tale indeed.",
+        "options": [
+          "A. Yay",
+          "B. Alas",
+          "C. Hooray",
+          "D. Bravo"
+        ],
+        "answer": "B",
+        "explanation": "ใช้ Alas! เป็นคำอุทานแบบค่อนข้างเป็นทางการเพื่อแสดงความเศร้าหรือความเสียใจ"
+      },
+      {
+        "question": "___, do you have a spare pen I could borrow?",
+        "options": [
+          "A. Oops",
+          "B. Hey",
+          "C. Ouch",
+          "D. Wow"
+        ],
+        "answer": "B",
+        "explanation": "ใช้ Hey เพื่อเรียกความสนใจของคนอื่นอย่างไม่เป็นทางการ"
+      },
+      {
+        "question": "___! That movie was a total waste of time.",
+        "options": [
+          "A. Phew",
+          "B. Jeez",
+          "C. Hooray",
+          "D. Yay"
+        ],
+        "answer": "B",
+        "explanation": "ใช้ Jeez! เพื่อแสดงความหงุดหงิดหรือความไม่พอใจ"
+      },
+      {
+        "question": "___! The cat just knocked over the vase.",
+        "options": [
+          "A. Darn it",
+          "B. Wonderful",
+          "C. Bravo",
+          "D. Phew"
+        ],
+        "answer": "A",
+        "explanation": "ใช้ Darn it! เพื่อแสดงความโกรธหรือหงุดหงิดกับสิ่งที่เกิดขึ้น"
+      },
+      {
+        "question": "___! Be careful with that knife.",
+        "options": [
+          "A. Yay",
+          "B. Whoa",
+          "C. Hmm",
+          "D. Ugh"
+        ],
+        "answer": "B",
+        "explanation": "ใช้ Whoa! เพื่อบอกให้หยุดหรือให้ระวัง"
+      },
+      {
+        "question": "___! I think I'm in love.",
+        "options": [
+          "A. Ouch",
+          "B. Ugh",
+          "C. Oh la la",
+          "D. Yikes"
+        ],
+        "answer": "C",
+        "explanation": "ใช้ Oh la la! เพื่อแสดงความประทับใจหรือความตื่นเต้นในเชิงโรแมนติก"
+      },
+      {
+        "question": "___! That's a clever idea.",
+        "options": [
+          "A. Ow",
+          "B. Hey",
+          "C. Ew",
+          "D. Bummer"
+        ],
+        "answer": "B",
+        "explanation": "ใช้ Hey ในความหมายเชิงบวก เพื่อแสดงความประทับใจในความคิดของใครบางคน"
+      },
+      {
+        "question": "___! I can't believe he lied to us.",
+        "options": [
+          "A. Goodness me",
+          "B. Yippee",
+          "C. Bravo",
+          "D. Hooray"
+        ],
+        "answer": "A",
+        "explanation": "ใช้ Goodness me! หรือ My goodness! เพื่อแสดงความประหลาดใจอย่างยิ่ง (มักเป็นเรื่องไม่ดี)"
+      },
+      {
+        "question": "___! The deadline is tomorrow and I haven't started yet.",
+        "options": [
+          "A. Phew",
+          "B. Yay",
+          "C. Uh-oh",
+          "D. Bravo"
+        ],
+        "answer": "C",
+        "explanation": "ใช้ Uh-oh! เพื่อแสดงว่ากำลังจะเกิดปัญหาหรือมีเรื่องไม่ดีเกิดขึ้น"
+      },
+      {
+        "question": "___, that tastes delicious!",
+        "options": [
+          "A. Yuck",
+          "B. Mmm",
+          "C. Ouch",
+          "D. Ugh"
+        ],
+        "answer": "B",
+        "explanation": "ใช้ Mmm! เพื่อแสดงความพึงพอใจในรสชาติอาหาร"
+      },
+      {
+        "question": "___, I think you're mistaken.",
+        "options": [
+          "A. Well",
+          "B. Wow",
+          "C. Ouch",
+          "D. Yay"
+        ],
+        "answer": "A",
+        "explanation": "ใช้ Well เพื่อเริ่มต้นประโยคอย่างนุ่มนวล โดยเฉพาะเมื่อจะแสดงความเห็นต่าง"
+      },
+      {
+        "question": "___! School's out for summer!",
+        "options": [
+          "A. Oh no",
+          "B. Ugh",
+          "C. Woo-hoo",
+          "D. Alas"
+        ],
+        "answer": "C",
+        "explanation": "ใช้ Woo-hoo! หรือ Yippee! เพื่อแสดงความดีใจและตื่นเต้นอย่างมาก"
+      },
+      {
+        "question": "___, is that really you after all these years?",
+        "options": [
+          "A. My",
+          "B. Ouch",
+          "C. Ugh",
+          "D. Darn"
+        ],
+        "answer": "A",
+        "explanation": "ใช้ My! (มาจาก My goodness!) เพื่อแสดงความประหลาดใจอย่างมากเมื่อพบเจอใครบางคน"
+      },
+      {
+        "question": "___! Don't touch that, it's hot!",
+        "options": [
+          "A. Phew",
+          "B. Hey",
+          "C. Aw",
+          "D. Hmm"
+        ],
+        "answer": "B",
+        "explanation": "ใช้ Hey! เพื่อเตือนหรือเรียกความสนใจอย่างเร่งด่วน"
+      },
+      {
+        "question": "___, so this is where the treasure was hidden.",
+        "options": [
+          "A. Ugh",
+          "B. Ouch",
+          "C. Aha",
+          "D. Yuck"
+        ],
+        "answer": "C",
+        "explanation": "ใช้ Aha! เพื่อแสดงว่าได้ค้นพบหรือเข้าใจบางสิ่งบางอย่างในที่สุด"
+      }
+    ]
+  }
+]

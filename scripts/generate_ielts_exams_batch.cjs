@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 const puppeteer = require('puppeteer');
 
-const MODEL_NAME = 'gemini-1.5-flash';
+const MODEL_NAME = 'gemini-2.5-flash';
 // duplicate imports removed
 const envPath = path.join('C:', 'Users', 'USER', 'antigravity', 'Polyglot-AI-Tutor-New', '.env');
 const envContent = fs.existsSync(envPath) ? fs.readFileSync(envPath, 'utf8') : '';

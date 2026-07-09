@@ -1,0 +1,1018 @@
+[
+  {
+    "id": "15_1",
+    "title": "15.1 Affirmative Imperatives (คำสั่งให้ทำ)",
+    "explanation": "Affirmative Imperatives คือ ประโยคที่ใช้สั่ง ขอร้อง แนะนำ หรือบอกให้ใครคนหนึ่ง 'ทำ' อะไรบางอย่าง เป็นประโยคที่พบได้บ่อยมากในชีวิตประจำวัน\n\n**โครงสร้างหลัก:**\nง่ายที่สุดในบรรดาโครงสร้างประโยคทั้งหมด คือการขึ้นต้นประโยคด้วย **คำกริยาช่องที่ 1 (Base Form)** ที่ไม่ผัน ไม่เติม s/es/ed/ing ใดๆ ทั้งสิ้น\n\n**Verb (ช่อง 1) + (ส่วนขยาย เช่น กรรม, สถานที่)**\n\n**จุดสำคัญ:**\n1.  **ไม่มีประธาน (No Subject):** ประโยคคำสั่งจะไม่มีประธาน (เช่น I, You, He, She, It, We, They) เพราะผู้พูดกำลังพูดกับผู้ฟังโดยตรงอยู่แล้ว ซึ่งก็คือ 'You' (คุณ) แต่เราจะละไว้ในฐานที่เข้าใจ\n2.  **ใช้ Verb รูปดั้งเดิมเสมอ:** ไม่ว่าผู้ฟังจะเป็นใคร กี่คน ก็ต้องใช้ Verb รูปดั้งเดิม (Base Form / Infinitive without 'to') เท่านั้น\n\n**การใช้งานในสถานการณ์ต่างๆ:**\n*   **คำสั่ง (Commands):** ใช้สั่งให้ทำทันที มักใช้โดยผู้ที่มีอำนาจเหนือกว่า เช่น ครูสั่งนักเรียน, พ่อแม่สั่งลูก\n    *   `Sit down!` (นั่งลง!)\n*   **คำขอร้อง (Requests):** ทำให้น้ำเสียงนุ่มนวลและสุภาพขึ้นโดยการเติม `please` ไว้ข้างหน้าหรือข้างหลังประโยค\n    *   `Please open the window.` (กรุณาเปิดหน้าต่างหน่อย)\n    *   `Open the window, please.` (เปิดหน้าต่างหน่อยนะ)\n*   **คำแนะนำ (Advice/Suggestions):** ใช้แนะนำให้ทำสิ่งที่เป็นประโยชน์\n    *   `Take a rest.` (พักผ่อนเถอะ)\n*   **คำแนะนำขั้นตอน (Instructions):** ใช้อธิบายขั้นตอนต่างๆ เช่น การทำอาหาร, การใช้เครื่องมือ\n    *   `Push the red button to start.` (กดปุ่มสีแดงเพื่อเริ่ม)\n*   **คำเตือน (Warnings):** ใช้เตือนให้ระวัง\n    *   `Watch out!` (ระวัง!)\n*   **การเชื้อเชิญ (Invitations):**\n    *   `Come in.` (เข้ามาสิ)",
+    "examples": [
+      {
+        "eng": "Stop talking!",
+        "thai": "หยุดคุยกันได้แล้ว! (เป็นคำสั่งที่ค่อนข้างแข็ง)"
+      },
+      {
+        "eng": "Please pass me the salt.",
+        "thai": "กรุณาส่งเกลือให้ฉันหน่อย (เป็นคำขอร้องที่สุภาพ)"
+      },
+      {
+        "eng": "Turn right at the traffic lights.",
+        "thai": "เลี้ยวขวาตรงสัญญาณไฟจราจรนะ (เป็นคำแนะนำเส้นทาง)"
+      },
+      {
+        "eng": "Read the instructions carefully before you start.",
+        "thai": "อ่านคำแนะนำอย่างละเอียดก่อนที่คุณจะเริ่ม (เป็นคำแนะนำขั้นตอน)"
+      },
+      {
+        "eng": "Be careful. The floor is wet.",
+        "thai": "ระวังหน่อย พื้นมันเปียกนะ (เป็นคำเตือน)"
+      },
+      {
+        "eng": "Have a seat.",
+        "thai": "เชิญนั่งเลย (เป็นคำเชิญที่สุภาพ)"
+      }
+    ],
+    "common_mistakes": "**1. ใส่ประธาน 'You' เข้าไปในประโยค:**\nคนไทยมักจะติดโครงสร้างประโยคที่มีประธานเสมอ จึงเผลอพูดว่า `You open the door.` ซึ่งผิดหลักไวยากรณ์สำหรับประโยคคำสั่ง\n*   **ผิด:** `You be quiet.`\n*   **ถูก:** `Be quiet.`\n\n**2. ใช้รูปกริยา (Verb Form) ผิด:**\nประโยคคำสั่งต้องใช้กริยารูปดั้งเดิม (Base Form) เท่านั้น ห้ามเติม -s, -ing, หรือเปลี่ยนเป็นช่อง 2/3 เด็ดขาด\n*   **ผิด:** `Closes the window.`\n*   **ผิด:** `Closing the window.`\n*   **ผิด:** `Closed the window.`\n*   **ถูก:** `Close the window.`\n\n**3. ไม่ใช้ 'please' ในการขอร้อง:**\nในภาษาไทยเรามีคำลงท้าย 'ครับ/ค่ะ/หน่อย' เพื่อความสุภาพ แต่ในภาษาอังกฤษ การพูดประโยคคำสั่งห้วนๆ เช่น `Give me that book.` อาจฟังดูก้าวร้าวในบางสถานการณ์ เพื่อให้สุภาพขึ้นควรเติม `please` เข้าไป\n*   **อาจไม่สุภาพ:** `Give me your pen.`\n*   **สุภาพกว่า:** `Please give me your pen.` หรือ `Give me your pen, please.`",
+    "practice_questions": [
+      {
+        "question": "Which sentence is a correct imperative?",
+        "options": [
+          "A. You close the door.",
+          "B. Closing the door.",
+          "C. Close the door.",
+          "D. He closes the door."
+        ],
+        "answer": "C",
+        "explanation": "ประโยคคำสั่ง (Imperative) จะขึ้นต้นด้วยกริยาช่องที่ 1 (Base Form) และไม่มีประธาน ดังนั้น 'Close the door.' จึงถูกต้องที่สุด"
+      },
+      {
+        "question": "______ quiet in the hospital, please.",
+        "options": [
+          "A. Are",
+          "B. Being",
+          "C. To be",
+          "D. Be"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคนี้เป็นคำขอร้องให้ทำ ดังนั้นต้องใช้กริยาช่องที่ 1 รูปดั้งเดิม ซึ่งรูปดั้งเดิมของ is, am, are, being ก็คือ 'be'"
+      },
+      {
+        "question": "To make a command more polite, you should add the word '______'.",
+        "options": [
+          "A. now",
+          "B. maybe",
+          "C. please",
+          "D. quick"
+        ],
+        "answer": "C",
+        "explanation": "การเติมคำว่า 'please' (กรุณา) เข้าไปในประโยคคำสั่ง จะทำให้ประโยคฟังดูเป็นการขอร้องที่สุภาพและนุ่มนวลขึ้น"
+      },
+      {
+        "question": "Teacher: '______ your homework on my desk.'",
+        "options": [
+          "A. Put",
+          "B. Puts",
+          "C. Putting",
+          "D. To put"
+        ],
+        "answer": "A",
+        "explanation": "นี่คือคำสั่งของครูที่บอกนักเรียน ต้องใช้กริยาช่องที่ 1 รูปดั้งเดิม (Base Form) นั่นคือ 'Put'"
+      },
+      {
+        "question": "______ carefully. The road is slippery.",
+        "options": [
+          "A. Drives",
+          "B. Drive",
+          "C. Driving",
+          "D. Drove"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้เป็นคำเตือน ซึ่งจัดอยู่ในกลุ่มประโยค Imperative ต้องขึ้นต้นด้วยกริยาช่องที่ 1 คือ 'Drive'"
+      },
+      {
+        "question": "Which is NOT a correct imperative sentence?",
+        "options": [
+          "A. Help me with this bag.",
+          "B. Listen to the teacher.",
+          "C. She writes her name here.",
+          "D. Come in, please."
+        ],
+        "answer": "C",
+        "explanation": "ข้อ C 'She writes her name here.' เป็นประโยคบอกเล่าธรรมดา (Present Simple) เพราะมีประธาน 'She' และกริยาเติม 's' ส่วนข้ออื่นเป็นประโยคคำสั่ง/ขอร้องที่ถูกต้อง"
+      },
+      {
+        "question": "Chef: 'First, ______ the onions until they are golden brown.'",
+        "options": [
+          "A. frying",
+          "B. to fry",
+          "C. fries",
+          "D. fry"
+        ],
+        "answer": "D",
+        "explanation": "นี่คือประโยคแนะนำขั้นตอนการทำอาหาร (Instruction) ต้องใช้กริยาช่องที่ 1 รูปดั้งเดิม คือ 'fry'"
+      },
+      {
+        "question": "______ your hands before you eat.",
+        "options": [
+          "A. Washing",
+          "B. Wash",
+          "C. Washes",
+          "D. You wash"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้เป็นคำแนะนำทั่วไป ต้องขึ้นต้นด้วยกริยาช่องที่ 1 คือ 'Wash' การใช้ 'You wash' เป็นข้อผิดพลาดที่พบบ่อย (Common Mistake)"
+      },
+      {
+        "question": "Please ______ down your name and phone number on this form.",
+        "options": [
+          "A. write",
+          "B. writes",
+          "C. wrote",
+          "D. writing"
+        ],
+        "answer": "A",
+        "explanation": "แม้จะมี 'Please' นำหน้า ประโยคนี้ก็ยังคงเป็นประโยคขอร้อง (Imperative) และต้องตามด้วยกริยาช่องที่ 1 รูปดั้งเดิมเสมอ คือ 'write'"
+      },
+      {
+        "question": "______ me when you arrive at the station.",
+        "options": [
+          "A. Calling",
+          "B. Called",
+          "C. Call",
+          "D. You call"
+        ],
+        "answer": "C",
+        "explanation": "นี่คือคำสั่งหรือคำแนะนำให้โทรหา ต้องใช้กริยาช่องที่ 1 คือ 'Call' และไม่ต้องมีประธาน 'You' อยู่ข้างหน้า"
+      }
+    ]
+  },
+  {
+    "id": "15_2",
+    "title": "15.2 Negative Imperatives (คำสั่งห้ามทำ)",
+    "explanation": "Negative Imperatives คือประโยคคำสั่งหรือขอร้องในเชิงปฏิเสธ ใช้เพื่อบอกให้ใครบางคน 'อย่าทำ' หรือ 'ห้ามทำ' สิ่งใดสิ่งหนึ่ง\n\nโครงสร้างหลักนั้นง่ายมาก:\n1.  **Don't + Verb ช่อง 1 (Base Form)**\n    *   เป็นรูปแบบที่ใช้บ่อยที่สุดในชีวิตประจำวัน\n    *   Verb ที่ตามหลัง Don't ต้องเป็นรูปพื้นฐานเสมอ (Infinitive without 'to') ห้ามเติม -s, -es, -ed, หรือ -ing\n\n2.  **Do not + Verb ช่อง 1 (Base Form)**\n    *   เป็นรูปแบบที่เป็นทางการมากขึ้น หรือใช้เพื่อเน้นย้ำคำสั่งให้หนักแน่นขึ้น มักจะเห็นในป้ายประกาศหรือกฎข้อบังคับ\n\n3.  **การทำให้สุภาพขึ้น (Making it polite)**\n    *   สามารถเติม `Please` ไว้ข้างหน้าหรือข้างหลังประโยคเพื่อให้ฟังดูเป็นการขอร้องที่สุภาพมากขึ้น เช่น `Please don't...` หรือ `Don't..., please.`\n\n**ข้อสังเกตสำคัญ:** ถ้าคำสั่งห้ามเกี่ยวข้องกับคำคุณศัพท์ (Adjective) เช่น 'เศร้า', 'สาย', 'กลัว' เราต้องใช้ Verb to be ในรูป 'be' เข้ามาช่วยเสมอ กลายเป็นโครงสร้าง `Don't be + Adjective` เช่น Don't be sad. (อย่าเศร้าไปเลย)",
+    "examples": [
+      {
+        "eng": "Don't touch the stove. It's hot.",
+        "thai": "อย่าจับเตา มันร้อนนะ (เป็นคำสั่งห้ามแบบทั่วไป)"
+      },
+      {
+        "eng": "Don't be late for your flight.",
+        "thai": "อย่าไปขึ้นเครื่องสายนะ (ใช้ 'be' กับ Adjective 'late')"
+      },
+      {
+        "eng": "Please don't forget to call me.",
+        "thai": "กรุณาอย่าลืมโทรหาฉันนะ (เป็นการขอร้องที่สุภาพ)"
+      },
+      {
+        "eng": "Do not enter without permission.",
+        "thai": "ห้ามเข้าโดยไม่ได้รับอนุญาต (เป็นคำสั่งที่ค่อนข้างเป็นทางการและหนักแน่น มักพบบนป้าย)"
+      },
+      {
+        "eng": "Don't worry about it.",
+        "thai": "อย่ากังวลเกี่ยวกับเรื่องนั้นเลย (เป็นสำนวนที่ใช้บ่อยเพื่อให้กำลังใจ)"
+      },
+      {
+        "eng": "Don't talk during the movie, please.",
+        "thai": "กรุณาอย่าคุยกันระหว่างดูหนัง (เป็นการขอร้องแบบสุภาพโดยวาง please ไว้ท้ายประโยค)"
+      }
+    ],
+    "common_mistakes": "1. **ใช้ 'No' แทน 'Don't'**: คนไทยมักสับสนระหว่าง 'No' กับ 'Don't' เช่นพูดว่า 'No touch!' ที่ถูกต้องคือ 'Don't touch!'.\n   *   **หลักการจำ:** `Don't` จะตามด้วย 'คำกริยา' (Verb) เช่น Don't run, Don't eat. ส่วน `No` จะตามด้วย 'คำนาม' (Noun) หรือ 'Gerund' (-ing) เช่น No smoking (ห้ามสูบบุหรี่), No entry (ห้ามเข้า).\n\n2. **ผันรูปกริยาที่ตามหลัง Don't**: ผิดพลาดโดยการเติม -s, -ing หรือ to หลัง Don't.\n   *   **ผิด:** Don't *touching* the screen.\n   *   **ผิด:** Don't *to touch* the screen.\n   *   **ถูก:** Don't *touch* the screen. (ต้องเป็น Verb รูปพื้นฐานเสมอ)\n\n3. **ลืมใช้ 'be' กับ Adjective**: เมื่อต้องการสั่งห้ามเกี่ยวกับสภาพหรือความรู้สึก (Adjective) มักจะลืมใส่ 'be'.\n   *   **ผิด:** Don't sad.\n   *   **ถูก:** Don't *be* sad. (อย่าเศร้า)\n   *   **ผิด:** Don't afraid.\n   *   **ถูก:** Don't *be* afraid. (อย่ากลัว)",
+    "practice_questions": [
+      {
+        "question": "___ talk loudly in the library.",
+        "options": [
+          "A. No",
+          "B. Not",
+          "C. Don't",
+          "D. Doesn't"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคคำสั่งห้ามต้องใช้ 'Don't' ตามด้วยกริยาช่อง 1 (talk) ส่วน 'No' จะตามด้วยคำนามหรือ Gerund (เช่น No talking)"
+      },
+      {
+        "question": "Please don't ___ so nervous. Everything will be fine.",
+        "options": [
+          "A. is",
+          "B. are",
+          "C. be",
+          "D. being"
+        ],
+        "answer": "C",
+        "explanation": "เมื่อตามหลัง Don't เป็นคำคุณศัพท์ (Adjective) เช่น 'nervous' เราต้องใช้ 'be' มาคั่น กลายเป็นโครงสร้าง 'Don't be + Adjective'."
+      },
+      {
+        "question": "The sign says, '___ feed the animals.'",
+        "options": [
+          "A. Do not to",
+          "B. Don't feeding",
+          "C. No feed",
+          "D. Do not"
+        ],
+        "answer": "D",
+        "explanation": "ในป้ายประกาศที่เป็นทางการ มักใช้ 'Do not' ตามด้วยกริยาช่อง 1 (feed) เพื่อเน้นย้ำคำสั่ง"
+      },
+      {
+        "question": "___ forget your umbrella. It looks like it's going to rain.",
+        "options": [
+          "A. Don't",
+          "B. Not",
+          "C. No",
+          "D. Never"
+        ],
+        "answer": "A",
+        "explanation": "'forget' เป็นคำกริยา ดังนั้นประโยคคำสั่งห้ามจึงต้องขึ้นต้นด้วย 'Don't'."
+      },
+      {
+        "question": "Which sentence is grammatically correct?",
+        "options": [
+          "A. Don't to be silly.",
+          "B. Don't be silly.",
+          "C. Don't being silly.",
+          "D. No be silly."
+        ],
+        "answer": "B",
+        "explanation": "โครงสร้างที่ถูกต้องสำหรับคำสั่งห้ามที่ตามด้วย Adjective (silly) คือ 'Don't be + Adjective'."
+      },
+      {
+        "question": "Hey! ___ my food!",
+        "options": [
+          "A. No eat",
+          "B. Don't eats",
+          "C. Not eat",
+          "D. Don't eat"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคคำสั่งห้ามต้องใช้ 'Don't' และตามด้วยกริยาในรูปพื้นฐาน (base form) คือ 'eat' โดยไม่ต้องเติม s"
+      },
+      {
+        "question": "___ worry, I'll help you with your homework.",
+        "options": [
+          "A. Don't",
+          "B. No",
+          "C. Aren't",
+          "D. Not"
+        ],
+        "answer": "A",
+        "explanation": "'Don't worry' เป็นสำนวนที่ใช้กันทั่วไปแปลว่า 'อย่ากังวล' ใช้ Don't นำหน้ากริยา worry"
+      },
+      {
+        "question": "The teacher told the students, '___ your phones during the exam.'",
+        "options": [
+          "A. Don't using",
+          "B. Don't use",
+          "C. No use",
+          "D. Not to use"
+        ],
+        "answer": "B",
+        "explanation": "หลัง 'Don't' ต้องตามด้วยกริยาช่อง 1 ในรูปพื้นฐานเสมอ ในที่นี้คือ 'use'"
+      },
+      {
+        "question": "___ afraid to ask for help if you don't understand.",
+        "options": [
+          "A. Don't be",
+          "B. Don't",
+          "C. Not be",
+          "D. No be"
+        ],
+        "answer": "A",
+        "explanation": "'afraid' เป็นคำคุณศัพท์ (Adjective) ดังนั้นจึงต้องใช้โครงสร้าง 'Don't be' เพื่อสร้างประโยคคำสั่งห้าม"
+      },
+      {
+        "question": "The notice on the door says '___ disturb'.",
+        "options": [
+          "A. Please no",
+          "B. Do not",
+          "C. Not to",
+          "D. Don't to"
+        ],
+        "answer": "B",
+        "explanation": "บนป้ายประกาศที่เป็นทางการ มักใช้ 'Do not' เพื่อความชัดเจนและหนักแน่น 'disturb' เป็นกริยา จึงใช้โครงสร้าง 'Do not + Verb' ได้ถูกต้อง"
+      }
+    ]
+  },
+  {
+    "id": "15_3",
+    "title": "15.3 Polite Requests (การขอร้องอย่างสุภาพ Please, Let's)",
+    "explanation": "จากที่เราเรียนรู้เรื่องประโยคคำสั่ง (Imperatives) ในหัวข้อที่แล้ว ซึ่งอาจจะฟังดูแข็งหรือห้วนไปในบางสถานการณ์ ในหัวข้อนี้เราจะมาเรียนรู้วิธีทำให้ประโยคคำสั่งนั้นฟังดูสุภาพและนุ่มนวลขึ้น โดยใช้ 'Please' และ 'Let's' ครับ\n\n1.  **การใช้ 'Please' (กรุณา, ได้โปรด)**\n    *   เป็นวิธีที่ง่ายและใช้บ่อยที่สุดในการเปลี่ยนประโยคคำสั่งให้กลายเป็นการขอร้องที่สุภาพ\n    *   สามารถวาง 'Please' ไว้ที่ **หน้าประโยค** หรือ **ท้ายประโยค** ก็ได้\n    *   **โครงสร้าง:**\n        *   `Please + Verb 1 + (Object)`\n        *   `Verb 1 + (Object), please.`\n    *   **ข้อสังเกต:** ถ้าวาง 'please' ไว้ท้ายประโยค จะต้องมีเครื่องหมายจุลภาค (comma) คั่นก่อนเสมอ\n\n2.  **การใช้ 'Let's' (เรามา...กันเถอะ)**\n    *   'Let's' ย่อมาจาก 'Let us' ใช้เมื่อต้องการ **ชักชวน** ให้คนอื่นทำอะไรบางอย่าง **ร่วมกับผู้พูด** ไม่ใช่การสั่งให้เขาทำคนเดียว\n    *   ให้ความรู้สึกเหมือนเป็นการเสนอแนะมากกว่าการขอร้องหรือคำสั่ง\n    *   **โครงสร้าง (บอกเล่า):** `Let's + Verb 1`\n    *   **โครงสร้าง (ปฏิเสธ):** `Let's not + Verb 1` (สำคัญมาก: ไม่ใช้ Let's don't)\n\n**สรุปความแตกต่าง:**\n*   **Please + V1:** ขอให้ **'คุณ'** ทำบางอย่าง\n*   **Let's + V1:** ชวนให้ **'เรา'** (ทั้งผู้พูดและผู้ฟัง) ทำบางอย่างด้วยกัน",
+    "examples": [
+      {
+        "eng": "Open the door.",
+        "thai": "ประโยคคำสั่ง (Imperative) ที่อาจฟังดูห้วน: เปิดประตู"
+      },
+      {
+        "eng": "Please open the door.",
+        "thai": "การขอร้องอย่างสุภาพ (ใช้ Please ขึ้นต้น): กรุณาเปิดประตูด้วยครับ/ค่ะ"
+      },
+      {
+        "eng": "Open the door, please.",
+        "thai": "การขอร้องอย่างสุภาพ (ใช้ please ลงท้าย และมี comma): เปิดประตูด้วยครับ/ค่ะ"
+      },
+      {
+        "eng": "Let's go to the beach.",
+        "thai": "ประโยคชักชวน (ผู้พูดก็จะไปด้วย): เราไปทะเลกันเถอะ"
+      },
+      {
+        "eng": "Let's order some pizza.",
+        "thai": "ประโยคเสนอแนะ (กินพิซซ่าด้วยกัน): เรามาสั่งพิซซ่ากันเถอะ"
+      },
+      {
+        "eng": "I'm tired. Let's not go out tonight.",
+        "thai": "ประโยคชักชวนเชิงปฏิเสธ (ใช้ Let's not): ฉันเหนื่อย คืนนี้เราอย่าออกไปข้างนอกกันเลยนะ"
+      }
+    ],
+    "common_mistakes": "*   **ไม่ใช้ Please ทำให้ฟังดูเป็นคำสั่ง:** คนไทยมักแปลตรงตัวจากภาษาไทย เช่น 'ส่งเกลือมาหน่อย' เป็น 'Pass me the salt.' ซึ่งในภาษาอังกฤษอาจฟังดูเหมือนการออกคำสั่งที่แข็งกระด้าง การเติม Please เข้าไปจะทำให้ประโยคนุ่มนวลขึ้นมาก -> 'Please pass me the salt.' หรือ 'Pass me the salt, please.'\n\n*   **สับสนระหว่าง 'Please' กับ 'Let's':** ใช้ 'Let's' ในความหมายว่า 'กรุณา' ซึ่งผิด เพราะ 'Let's' หมายถึง 'เรามาทำด้วยกันเถอะ' เสมอ\n    *   ผิด: Let's you close the window. (ให้คุณปิดหน้าต่าง)\n    *   ถูก: Please close the window. (กรุณาปิดหน้าต่างด้วยครับ/ค่ะ)\n\n*   **ใช้รูปปฏิเสธของ 'Let's' ผิด:** ข้อผิดพลาดที่เจอบ่อยที่สุดคือการใช้ 'Let's don't' ซึ่งผิดหลักไวยากรณ์ ต้องใช้ 'Let's not' เท่านั้น\n    *   ผิด: Let's don't be late for the meeting.\n    *   ถูก: Let's not be late for the meeting. (เราอย่าไปประชุมสายกันเลยนะ)\n\n*   **ลืม Comma (,) ก่อน please ท้ายประโยค:** แม้จะเป็นจุดเล็กๆ แต่การใส่ comma ให้ถูกต้องจะทำให้การเขียนดูเป็นธรรมชาติและถูกต้องตามหลักมากขึ้น เช่น 'Come in, please.'",
+    "practice_questions": [
+      {
+        "question": "It's getting dark in here. ___ turn on the lights.",
+        "options": [
+          "A. Please you",
+          "B. Let's",
+          "C. To",
+          "D. Do"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้เป็นการชักชวนให้ทำบางสิ่งบางอย่างด้วยกัน (เรามาเปิดไฟกันเถอะ) จึงต้องใช้ 'Let's' ซึ่งตามด้วย Verb 1 (turn on) ได้เลย"
+      },
+      {
+        "question": "Excuse me, could you help me with this bag, ___?",
+        "options": [
+          "A. lets",
+          "B. let's",
+          "C. please",
+          "D. okay"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้เป็นการขอร้องให้ผู้อื่นช่วยอย่างสุภาพ การเติม 'please' ไว้ท้ายประโยค (และต้องมี comma คั่น) เป็นวิธีที่ถูกต้องและเป็นธรรมชาติที่สุด"
+      },
+      {
+        "question": "I have an idea. ___ start the project tomorrow morning.",
+        "options": [
+          "A. Let's",
+          "B. Please",
+          "C. Don't",
+          "D. You"
+        ],
+        "answer": "A",
+        "explanation": "ผู้พูดกำลังเสนอความคิดและชวนให้ทำร่วมกัน ('เรา' มาเริ่มโปรเจกต์กันพรุ่งนี้เช้า) จึงต้องใช้ 'Let's'"
+      },
+      {
+        "question": "Which sentence is grammatically INCORRECT?",
+        "options": [
+          "A. Please, sit down.",
+          "B. Let's not waste our time.",
+          "C. Let's don't talk about it.",
+          "D. Wait for me, please."
+        ],
+        "answer": "C",
+        "explanation": "รูปปฏิเสธของ Let's ที่ถูกต้องคือ 'Let's not + V1' ไม่ใช่ 'Let's don't' ซึ่งเป็นข้อผิดพลาดที่พบบ่อย"
+      },
+      {
+        "question": "Your friend is crying. You want to comfort her. What do you say?",
+        "options": [
+          "A. Let's not cry.",
+          "B. Don't crying.",
+          "C. Please don't cry.",
+          "D. You not cry."
+        ],
+        "answer": "C",
+        "explanation": "เรากำลังขอร้องหรือปลอบโยน 'คนอื่น' ไม่ให้ร้องไห้ จึงใช้ 'Please don't cry.' เป็นการขอร้องเชิงปฏิเสธที่สุภาพ ส่วน 'Let's not cry.' หมายถึง 'เราอย่าร้องไห้กันเลย' ซึ่งอาจไม่เข้ากับสถานการณ์ที่เพื่อนร้องไห้อยู่คนเดียว"
+      },
+      {
+        "question": "The room is very messy. We should clean it together. You say: '___ clean this room.'",
+        "options": [
+          "A. Please",
+          "B. Let's",
+          "C. Don't",
+          "D. To"
+        ],
+        "answer": "B",
+        "explanation": "คำว่า 'together' (ด้วยกัน) เป็นคำใบ้สำคัญว่าเป็นการชักชวนให้ทำกิจกรรมร่วมกัน ดังนั้นจึงต้องใช้ 'Let's'"
+      },
+      {
+        "question": "___ be quiet. The baby is sleeping.",
+        "options": [
+          "A. Please",
+          "B. Let's",
+          "C. Do",
+          "D. We"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้เป็นการขอร้องให้ผู้อื่นเงียบ (กรุณาเงียบหน่อย) เพื่อไม่ให้รบกวนเด็กที่กำลังนอนหลับ จึงใช้ 'Please' ที่ตามด้วย Verb 1 (be) ได้เลย (Let's be quiet ก็เป็นไปได้ แต่ Please เป็นการขอร้องที่ตรงกว่า)"
+      },
+      {
+        "question": "This topic is too difficult. ___ ask the teacher for help.",
+        "options": [
+          "A. Let's not",
+          "B. Don't",
+          "C. Please",
+          "D. Let's"
+        ],
+        "answer": "D",
+        "explanation": "ผู้พูดกำลังเสนอแนะให้ 'เรา' (ผู้พูดและผู้ฟัง) ไปขอความช่วยเหลือจากครูด้วยกัน จึงใช้ 'Let's' ในการชักชวน"
+      },
+      {
+        "question": "The weather is bad, so ___ play outside today.",
+        "options": [
+          "A. let's don't",
+          "B. we not",
+          "C. let's not",
+          "D. please don't"
+        ],
+        "answer": "C",
+        "explanation": "เป็นการชักชวนไม่ให้ทำบางสิ่งบางอย่าง (เราอย่าเล่นข้างนอกกันเลย) รูปแบบที่ถูกต้องคือ 'Let's not + Verb 1'"
+      },
+      {
+        "question": "To ask your teacher to speak slower politely, you say: '___ speak more slowly.'",
+        "options": [
+          "A. Please",
+          "B. Let's",
+          "C. You",
+          "D. Must"
+        ],
+        "answer": "A",
+        "explanation": "เป็นการขอร้องให้ 'คุณครู' (คนอื่น) พูดช้าลงอย่างสุภาพ จึงต้องใช้ 'Please' นำหน้าประโยค"
+      }
+    ]
+  },
+  {
+    "id": "15_4",
+    "title": "15.4 Summary: Imperatives (สรุปประโยคคำสั่ง + 50 Exercises)",
+    "explanation": "Imperatives หรือประโยคคำสั่ง/ขอร้อง/แนะนำ คือประโยคที่ใช้เพื่อบอกให้ใครบางคนทำหรือไม่ทำอะไรบางอย่าง\n\n**โครงสร้างหลัก:**\n1.  **ประโยคบอกเล่า (Affirmative):** ขึ้นต้นด้วยคำกริยาช่องที่ 1 (Base Form of Verb) โดยไม่มีประธาน (ประธานคือ You ที่ละไว้ในฐานที่เข้าใจ)\n    *   เช่น: **Come** here. (มานี่สิ), **Be** quiet. (เงียบๆ หน่อย)\n\n2.  **ประโยคปฏิเสธ (Negative):** ขึ้นต้นด้วย **Don't** (Do not) แล้วตามด้วยกริยาช่องที่ 1\n    *   เช่น: **Don't touch** that. (อย่าจับสิ่งนั้น), **Don't be** late. (อย่ามาสาย)\n\n3.  **การทำให้สุภาพ (Making it Polite):** เติม **Please** ไว้หน้าหรือท้ายประโยค\n    *   เช่น: **Please** open the window. หรือ Open the window, **please**. (กรุณาเปิดหน้าต่างหน่อย)\n\n4.  **การเน้นย้ำคำสั่ง (Emphasis):** ใช้ **Do** วางไว้หน้ากริยา เพื่อทำให้คำสั่งหรือคำขอร้องดูหนักแน่นหรือจริงจังขึ้น\n    *   เช่น: **Do** be careful. (ระวังตัวจริงๆ นะ)\n\n5.  **การให้คำแนะนำ/คำสั่งที่ต้องทำเสมอ/ห้ามทำเด็ดขาด:**\n    *   **Always** + V.1: (จงทำ...เสมอ) เช่น **Always** tell the truth. (จงพูดความจริงเสมอ)\n    *   **Never** + V.1: (ห้ามทำ...เด็ดขาด) เช่น **Never** give up. (อย่าล้มเลิกเด็ดขาด)\n\n6.  **ประโยคชักชวน (Suggestions):** ใช้ **Let's** (Let us) + V.1 เพื่อชวนให้ทำบางสิ่งร่วมกัน\n    *   บอกเล่า: **Let's go** to the cinema. (ไปดูหนังกันเถอะ)\n    *   ปฏิเสธ: **Let's not** argue. (เราอย่าเถียงกันเลย)",
+    "examples": [
+      {
+        "eng": "Sit down.",
+        "thai": "คำสั่งทั่วไป: นั่งลง"
+      },
+      {
+        "eng": "Don't make a noise.",
+        "thai": "คำสั่งห้าม: อย่าทำเสียงดัง"
+      },
+      {
+        "eng": "Please pass the salt.",
+        "thai": "คำขอร้องอย่างสุภาพ: กรุณาส่งเกลือให้หน่อย"
+      },
+      {
+        "eng": "Do try this cake. It's delicious.",
+        "thai": "การเน้นย้ำ (แนะนำอย่างจริงจัง): ลองชิมเค้กนี่ดูนะ มันอร่อยมาก"
+      },
+      {
+        "eng": "Never lie to me.",
+        "thai": "คำสั่งห้ามเด็ดขาด: ห้ามโกหกฉันเด็ดขาด"
+      },
+      {
+        "eng": "Let's start the meeting.",
+        "thai": "ประโยคชักชวน: เรามาเริ่มประชุมกันเถอะ"
+      }
+    ],
+    "common_mistakes": "1.  **ใส่ประธาน 'You' เข้าไปในประโยค:** คนไทยมักแปลตรงตัวจาก \"คุณเปิดประตู\" เป็น \"You open the door.\" ซึ่งผิดหลักไวยากรณ์ ที่ถูกต้องคือ \"Open the door.\" (ละประธาน You ไว้)\n\n2.  **ใช้กริยาผิดรูป:** ประโยคคำสั่งต้องใช้กริยาช่องที่ 1 (Base Form) เท่านั้น ห้ามเติม -s, -ed, -ing เด็ดขาด\n    *   ผิด: **Opens** the book. / **Opening** the window.\n    *   ถูก: **Open** the book. / **Open** the window.\n\n3.  **ใช้ 'Not' แทน 'Don't' ในประโยคปฏิเสธ:** การสร้างประโยคปฏิเสธต้องใช้ Don't (Do not) เท่านั้น\n    *   ผิด: **Not** talk in the class.\n    *   ถูก: **Don't** talk in the class.\n\n4.  **สับสนระหว่าง 'No + V-ing' กับ 'Don't + V.1':** 'No + V-ing' (เช่น No smoking) มักใช้ในป้ายประกาศหรือกฎข้อบังคับทั่วไป แต่เมื่อเราพูดสั่งใครโดยตรง จะใช้ 'Don't + V.1' (เช่น Don't smoke here.)",
+    "practice_questions": [
+      {
+        "question": "______ quiet, please. The baby is sleeping.",
+        "options": [
+          "A. To be",
+          "B. Being",
+          "C. Be",
+          "D. Are"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคคำสั่งต้องขึ้นต้นด้วยกริยาช่องที่ 1 (Base Form) ซึ่งในที่นี้คือ 'Be'"
+      },
+      {
+        "question": "______ touch the paintings in the museum.",
+        "options": [
+          "A. Not",
+          "B. No",
+          "C. Don't",
+          "D. Never to"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคคำสั่งห้ามใช้ Don't + กริยาช่องที่ 1"
+      },
+      {
+        "question": "Please ______ me the book on the table.",
+        "options": [
+          "A. passing",
+          "B. pass",
+          "C. to pass",
+          "D. passes"
+        ],
+        "answer": "B",
+        "explanation": "หลัง Please ในประโยคขอร้อง ให้ใช้กริยาช่องที่ 1 (Base Form)"
+      },
+      {
+        "question": "It's getting late. ______ go home now.",
+        "options": [
+          "A. Let's to",
+          "B. Let's",
+          "C. We should to",
+          "D. We are"
+        ],
+        "answer": "B",
+        "explanation": "Let's (Let us) ใช้ในการชักชวน ตามด้วยกริยาช่องที่ 1 คือ go"
+      },
+      {
+        "question": "______ forget to lock the door before you leave.",
+        "options": [
+          "A. Don't",
+          "B. Not to",
+          "C. No",
+          "D. Please not"
+        ],
+        "answer": "A",
+        "explanation": "เป็นประโยคคำสั่งเชิงเตือนในรูปปฏิเสธ จึงใช้ Don't + กริยาช่องที่ 1"
+      },
+      {
+        "question": "______ your homework before you play video games.",
+        "options": [
+          "A. Did",
+          "B. Doing",
+          "C. Do",
+          "D. Does"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคคำสั่งขึ้นต้นด้วยกริยาช่องที่ 1 (Base Form) คือ 'Do'"
+      },
+      {
+        "question": "______ be afraid of the dog. It doesn't bite.",
+        "options": [
+          "A. Not",
+          "B. Don't",
+          "C. Never to",
+          "D. Aren't"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคคำสั่งปฏิเสธใช้ Don't + กริยาช่องที่ 1 (ในที่นี้คือ 'be')"
+      },
+      {
+        "question": "Could you ______ the music down, please?",
+        "options": [
+          "A. turn",
+          "B. turning",
+          "C. to turn",
+          "D. turned"
+        ],
+        "answer": "A",
+        "explanation": "หลัง Modal Verb (Could) ในประโยคคำขอร้อง ต้องตามด้วยกริยาช่องที่ 1"
+      },
+      {
+        "question": "______ careful! The floor is wet.",
+        "options": [
+          "A. Being",
+          "B. To be",
+          "C. Are",
+          "D. Be"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคคำสั่งเตือน ใช้กริยาช่องที่ 1 (Base Form) คือ 'Be'"
+      },
+      {
+        "question": "Let's not ______ about it anymore.",
+        "options": [
+          "A. to worry",
+          "B. worrying",
+          "C. worry",
+          "D. worried"
+        ],
+        "answer": "C",
+        "explanation": "หลัง Let's not ต้องตามด้วยกริยาช่องที่ 1 (Base Form) คือ 'worry'"
+      },
+      {
+        "question": "______ me a call when you get there.",
+        "options": [
+          "A. Giving",
+          "B. Give",
+          "C. To give",
+          "D. Gives"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคคำสั่งใช้กริยาช่องที่ 1 'Give'"
+      },
+      {
+        "question": "Please ______ in line.",
+        "options": [
+          "A. waiting",
+          "B. to wait",
+          "C. waits",
+          "D. wait"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคขอร้องที่ขึ้นต้นด้วย Please ต้องตามด้วยกริยาช่องที่ 1"
+      },
+      {
+        "question": "______ talk loudly in the library.",
+        "options": [
+          "A. Don't",
+          "B. No",
+          "C. Not",
+          "D. Doesn't"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคคำสั่งห้ามใช้โครงสร้าง Don't + กริยาช่องที่ 1"
+      },
+      {
+        "question": "______ sure you have your keys before you close the door.",
+        "options": [
+          "A. Making",
+          "B. Make",
+          "C. To make",
+          "D. Makes"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคคำสั่ง/เตือนความจำ ใช้กริยาช่องที่ 1 'Make'"
+      },
+      {
+        "question": "It's a beautiful day. Let's ______ for a walk.",
+        "options": [
+          "A. going",
+          "B. to go",
+          "C. go",
+          "D. went"
+        ],
+        "answer": "C",
+        "explanation": "หลัง Let's ต้องตามด้วยกริยาช่องที่ 1"
+      },
+      {
+        "question": "______ eat with your mouth open.",
+        "options": [
+          "A. Please not",
+          "B. Not",
+          "C. Doesn't",
+          "D. Don't"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคคำสั่งห้ามใช้ Don't + กริยาช่องที่ 1"
+      },
+      {
+        "question": "______ your coat. It's cold outside.",
+        "options": [
+          "A. Taking",
+          "B. Take",
+          "C. To take",
+          "D. Takes"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคคำสั่ง/แนะนำ ใช้กริยาช่องที่ 1 'Take'"
+      },
+      {
+        "question": "______ me your passport, please.",
+        "options": [
+          "A. Show",
+          "B. Showing",
+          "C. Shows",
+          "D. To show"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคขอร้อง ใช้กริยาช่องที่ 1 'Show' นำหน้า"
+      },
+      {
+        "question": "Always ______ before you cross the street.",
+        "options": [
+          "A. looking",
+          "B. looks",
+          "C. look",
+          "D. to look"
+        ],
+        "answer": "C",
+        "explanation": "หลัง Adverb of Frequency เช่น Always ในประโยคคำสั่ง ให้ใช้กริยาช่องที่ 1"
+      },
+      {
+        "question": "Never ______ to strangers.",
+        "options": [
+          "A. talk",
+          "B. talking",
+          "C. talks",
+          "D. to talk"
+        ],
+        "answer": "A",
+        "explanation": "หลัง Never ในประโยคคำสั่งห้าม ให้ใช้กริยาช่องที่ 1"
+      },
+      {
+        "question": "______ have another piece of cake. It's delicious!",
+        "options": [
+          "A. Do",
+          "B. Did",
+          "C. Does",
+          "D. Don't"
+        ],
+        "answer": "A",
+        "explanation": "ใช้ 'Do' เพื่อเน้นย้ำคำแนะนำหรือคำเชิญชวนให้ดูจริงจังมากขึ้น"
+      },
+      {
+        "question": "______ your shoes before entering the house.",
+        "options": [
+          "A. Removing",
+          "B. Remove",
+          "C. Removes",
+          "D. To remove"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคคำสั่งใช้กริยาช่องที่ 1 'Remove'"
+      },
+      {
+        "question": "Let's ______ a break for ten minutes.",
+        "options": [
+          "A. taking",
+          "B. takes",
+          "C. to take",
+          "D. take"
+        ],
+        "answer": "D",
+        "explanation": "หลัง Let's ต้องตามด้วยกริยาช่องที่ 1"
+      },
+      {
+        "question": "Please ______ your name and address here.",
+        "options": [
+          "A. write",
+          "B. writing",
+          "C. wrote",
+          "D. to write"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคขอร้อง (Please) ใช้กริยาช่องที่ 1 'write'"
+      },
+      {
+        "question": "______ run in the hallways.",
+        "options": [
+          "A. Not",
+          "B. No",
+          "C. Don't",
+          "D. To not"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคคำสั่งห้ามใช้ Don't + กริยาช่องที่ 1"
+      },
+      {
+        "question": "______ the instructions carefully before you start.",
+        "options": [
+          "A. Reading",
+          "B. To read",
+          "C. Reads",
+          "D. Read"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคคำสั่งใช้กริยาช่องที่ 1 'Read'"
+      },
+      {
+        "question": "I'm tired. Let's not ______ out tonight.",
+        "options": [
+          "A. go",
+          "B. to go",
+          "C. going",
+          "D. went"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคชักชวนปฏิเสธ (Let's not) ต้องตามด้วยกริยาช่องที่ 1"
+      },
+      {
+        "question": "______ the dog for a walk, please.",
+        "options": [
+          "A. Taking",
+          "B. Take",
+          "C. To take",
+          "D. You take"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคขอร้องต้องขึ้นต้นด้วยกริยาช่องที่ 1 และไม่มีประธาน"
+      },
+      {
+        "question": "______ me what happened.",
+        "options": [
+          "A. Telling",
+          "B. Tells",
+          "C. To tell",
+          "D. Tell"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคคำสั่งใช้กริยาช่องที่ 1 'Tell'"
+      },
+      {
+        "question": "______ honest with me.",
+        "options": [
+          "A. Are",
+          "B. Being",
+          "C. Be",
+          "D. To be"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคคำสั่งที่เกี่ยวกับคุณลักษณะหรือสภาวะ ให้ใช้ 'Be'"
+      },
+      {
+        "question": "______ waste your time on things that don't matter.",
+        "options": [
+          "A. Not to",
+          "B. Never to",
+          "C. Don't",
+          "D. Doesn't"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคคำแนะนำเชิงปฏิเสธ ใช้ Don't + กริยาช่องที่ 1"
+      },
+      {
+        "question": "Please ______ your mobile phone during the movie.",
+        "options": [
+          "A. turn off",
+          "B. turning off",
+          "C. to turn off",
+          "D. turns off"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคขอร้องใช้ Please + กริยาช่องที่ 1 (ในที่นี้คือ 'turn off')"
+      },
+      {
+        "question": "Let's ______ something to eat. I'm hungry.",
+        "options": [
+          "A. getting",
+          "B. get",
+          "C. to get",
+          "D. gets"
+        ],
+        "answer": "B",
+        "explanation": "หลัง Let's ต้องตามด้วยกริยาช่องที่ 1"
+      },
+      {
+        "question": "______ up! We're going to be late.",
+        "options": [
+          "A. Hurry",
+          "B. Hurrying",
+          "C. Hurries",
+          "D. To hurry"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคคำสั่งเร่ง ใช้กริยาช่องที่ 1 'Hurry'"
+      },
+      {
+        "question": "______ worry, everything will be fine.",
+        "options": [
+          "A. Not",
+          "B. Don't",
+          "C. No",
+          "D. To not"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคปลอบใจเชิงคำสั่งปฏิเสธ ใช้ Don't + กริยาช่องที่ 1"
+      },
+      {
+        "question": "Always ______ your seatbelt when you drive.",
+        "options": [
+          "A. wear",
+          "B. wearing",
+          "C. wears",
+          "D. wore"
+        ],
+        "answer": "A",
+        "explanation": "หลัง Always ในประโยคคำแนะนำ ให้ใช้กริยาช่องที่ 1"
+      },
+      {
+        "question": "______ your hand if you have a question.",
+        "options": [
+          "A. Raising",
+          "B. Raise",
+          "C. To raise",
+          "D. Raises"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคคำสั่ง/แนะนำ ใช้กริยาช่องที่ 1 'Raise'"
+      },
+      {
+        "question": "______ shout at me. I can hear you.",
+        "options": [
+          "A. Don't",
+          "B. No",
+          "C. Not",
+          "D. Never to"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคคำสั่งห้ามใช้ Don't + กริยาช่องที่ 1"
+      },
+      {
+        "question": "Let's ______ this problem together.",
+        "options": [
+          "A. solving",
+          "B. solve",
+          "C. to solve",
+          "D. solves"
+        ],
+        "answer": "B",
+        "explanation": "หลัง Let's ต้องตามด้วยกริยาช่องที่ 1"
+      },
+      {
+        "question": "______ down and listen to me.",
+        "options": [
+          "A. Sit",
+          "B. Sits",
+          "C. Sitting",
+          "D. To sit"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคคำสั่งใช้กริยาช่องที่ 1 'Sit'"
+      },
+      {
+        "question": "Do ______ and see us when you're in town.",
+        "options": [
+          "A. comes",
+          "B. coming",
+          "C. to come",
+          "D. come"
+        ],
+        "answer": "D",
+        "explanation": "หลัง 'Do' ที่ใช้เน้นย้ำในประโยคคำสั่ง ต้องตามด้วยกริยาช่องที่ 1"
+      },
+      {
+        "question": "Please ______ your feet on the table.",
+        "options": [
+          "A. don't put",
+          "B. not put",
+          "C. no putting",
+          "D. don't to put"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคขอร้องเชิงปฏิเสธ ใช้ Please + Don't + กริยาช่องที่ 1"
+      },
+      {
+        "question": "______ right at the traffic lights.",
+        "options": [
+          "A. Turning",
+          "B. Turn",
+          "C. To turn",
+          "D. Turns"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคบอกทิศทางเป็นคำสั่งประเภทหนึ่ง ใช้กริยาช่องที่ 1"
+      },
+      {
+        "question": "______ a doctor if you feel sick.",
+        "options": [
+          "A. Seeing",
+          "B. Sees",
+          "C. See",
+          "D. To see"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคแนะนำใช้กริยาช่องที่ 1 'See'"
+      },
+      {
+        "question": "Let's ______ for your lost keys.",
+        "options": [
+          "A. looking",
+          "B. looks",
+          "C. look",
+          "D. to look"
+        ],
+        "answer": "C",
+        "explanation": "หลัง Let's ต้องตามด้วยกริยาช่องที่ 1"
+      },
+      {
+        "question": "Never ______ what you can do today until tomorrow.",
+        "options": [
+          "A. putting off",
+          "B. puts off",
+          "C. put off",
+          "D. to put off"
+        ],
+        "answer": "C",
+        "explanation": "หลัง Never ในประโยคคำสั่งห้าม ใช้กริยาช่องที่ 1 'put off'"
+      },
+      {
+        "question": "______ patient. Your turn will come.",
+        "options": [
+          "A. Be",
+          "B. Are",
+          "C. To be",
+          "D. Being"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคคำแนะนำ/คำสั่ง ให้ใช้ 'Be' ซึ่งเป็นกริยาช่องที่ 1"
+      },
+      {
+        "question": "______ the door, please. It's windy.",
+        "options": [
+          "A. Closing",
+          "B. Close",
+          "C. Closes",
+          "D. To close"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคขอร้องใช้กริยาช่องที่ 1 'Close'"
+      },
+      {
+        "question": "Which sentence is grammatically correct?",
+        "options": [
+          "A. You don't touch that!",
+          "B. Not touching that!",
+          "C. Don't touch that!",
+          "D. No touch that!"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคคำสั่งห้ามที่ถูกต้องใช้โครงสร้าง Don't + V.1 และไม่ต้องมีประธาน"
+      },
+      {
+        "question": "______ this button to start the machine.",
+        "options": [
+          "A. To press",
+          "B. Pressing",
+          "C. Presses",
+          "D. Press"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคคำสั่ง/บอกขั้นตอน ใช้กริยาช่องที่ 1 'Press'"
+      }
+    ]
+  }
+]

@@ -1,0 +1,994 @@
+[
+  {
+    "id": "5_1",
+    "title": "5.1 Do / Does in Present Simple (การสร้างประโยคปฏิเสธและคำถาม)",
+    "explanation": "ใน Present Simple Tense เมื่อเราต้องการสร้างประโยคปฏิเสธ (Negative) และประโยคคำถาม (Interrogative) สำหรับคำกริยาแท้ทั่วไป (Action Verbs) เช่น walk, eat, play, study เราจำเป็นต้องใช้ Verb to Do (do, does) เข้ามาช่วยเป็นกริยาช่วย (Auxiliary Verb)\n\nหลักการใช้ Do / Does:\n1.  **Does**: ใช้กับประธานเอกพจน์บุรุษที่ 3 (He, She, It, ชื่อคนคนเดียว, สัตว์ตัวเดียว, สิ่งของสิ่งเดียว เช่น John, the cat, the book)\n2.  **Do**: ใช้กับประธาน I, You, We, They และประธานที่เป็นพหูพจน์ (เช่น My friends, The cats)\n\n**โครงสร้างประโยคปฏิเสธ:**\nSubject + do/does + not + Verb ช่อง 1 (Base Form)\n- รูปย่อ: do not → don't, does not → doesn't\n- **ข้อสำคัญ:** เมื่อใช้ do/does แล้ว คำกริยาหลักที่ตามมาต้องกลับไปเป็นรูปพื้นฐาน (Base Form) เสมอ ไม่ต้องเติม s/es อีกต่อไป เช่น He does not play football. (ไม่ใช่ plays)\n\n**โครงสร้างประโยคคำถาม (Yes/No Question):**\nDo/Does + Subject + Verb ช่อง 1 (Base Form)?\n- **ข้อสำคัญ:** กริยาหลักต้องเป็นรูปพื้นฐาน (Base Form) เช่นเดียวกัน\n\n**โครงสร้างประโยคคำถาม (Wh- Question):**\nWh-word (What, Where, When, etc.) + do/does + Subject + Verb ช่อง 1 (Base Form)?",
+    "examples": [
+      {
+        "eng": "Affirmative: He works in a bank.\nNegative: He does not (doesn't) work in a bank.\nQuestion: Does he work in a bank?",
+        "thai": "ประโยคบอกเล่า: เขาทำงานในธนาคาร (ประธาน He กริยาเติม s)\nประโยคปฏิเสธ: เขาไม่ได้ทำงานในธนาคาร (ใช้ does not และ work ไม่ต้องเติม s)\nประโยคคำถาม: เขาทำงานในธนาคารใช่ไหม? (ใช้ Does ขึ้นต้น และ work ไม่ต้องเติม s)"
+      },
+      {
+        "eng": "Affirmative: They like Japanese food.\nNegative: They do not (don't) like Japanese food.\nQuestion: Do they like Japanese food?",
+        "thai": "ประโยคบอกเล่า: พวกเขาชอบอาหารญี่ปุ่น\nประโยคปฏิเสธ: พวกเขาไม่ชอบอาหารญี่ปุ่น (ใช้ do not เพราะประธานคือ They)\nประโยคคำถาม: พวกเขาชอบอาหารญี่ปุ่นใช่ไหม? (ใช้ Do ขึ้นต้น)"
+      },
+      {
+        "eng": "Wh- Question: Where do you live?",
+        "thai": "คำถามที่ต้องการข้อมูล: คุณอาศัยอยู่ที่ไหน? (ใช้ do เพราะประธานคือ you)"
+      },
+      {
+        "eng": "Wh- Question: What time does the movie start?",
+        "thai": "คำถามที่ต้องการข้อมูล: หนังเริ่มกี่โมง? (ใช้ does เพราะประธานคือ a movie ซึ่งเป็นเอกพจน์)"
+      }
+    ],
+    "common_mistakes": "1. **ลืมใช้ Do/Does ในประโยคคำถาม/ปฏิเสธ:** คนไทยมักจะแปลตรงตัวจากภาษาไทย เช่น ถามว่า \"You like coffee?\" (คุณชอบกาแฟ?) แทนที่จะเป็น \"Do you like coffee?\" หรือปฏิเสธว่า \"I no like coffee\" แทน \"I don't like coffee.\"\n\n2. **ใช้ Does แล้วยังเติม s/es ที่กริยาหลัก:** นี่คือข้อผิดพลาดที่พบบ่อยที่สุด! เช่น \"She doesn't likes cooking.\" ที่ถูกต้องคือ \"She doesn't like cooking.\" เพราะเมื่อมี does มาช่วยแล้ว กริยาหลักต้องกลับไปเป็นรูปพื้นฐานเสมอ\n\n3. **สับสนระหว่างการใช้ Do และ Does:** ใช้สลับกัน เช่น \"He do not know.\" ที่ถูกต้องคือ \"He does not know.\" หรือ \"Do she speak English?\" ที่ถูกต้องคือ \"Does she speak English?\"\n\n4. **ใช้ Verb to be (is, am, are) ปนกับ Do/Does:** มักจะสร้างประโยคคำถามผิดๆ เช่น \"Is he have a car?\" ซึ่งผิดหลักไวยากรณ์ ที่ถูกต้องคือ \"Does he have a car?\" (ใช้ do/does กับกริยาแท้ที่มีความหมายว่า \"มี\" หรือ \"ทำ\")",
+    "practice_questions": [
+      {
+        "question": "___ your sister live in Chiang Mai?",
+        "options": [
+          "A. Do",
+          "B. Does",
+          "C. Is",
+          "D. Are"
+        ],
+        "answer": "B",
+        "explanation": "ประธานคือ 'your sister' ซึ่งเป็นเอกพจน์บุรุษที่ 3 ดังนั้นต้องใช้ 'Does' ในการสร้างประโยคคำถาม"
+      },
+      {
+        "question": "My parents ___ like watching horror movies.",
+        "options": [
+          "A. doesn't",
+          "B. don't",
+          "C. isn't",
+          "D. not"
+        ],
+        "answer": "B",
+        "explanation": "ประธานคือ 'My parents' (พ่อแม่ของฉัน) เป็นพหูพจน์ ดังนั้นประโยคปฏิเสธต้องใช้ 'do not' หรือรูปย่อคือ 'don't'"
+      },
+      {
+        "question": "What time ___ the bus usually arrive?",
+        "options": [
+          "A. do",
+          "B. are",
+          "C. does",
+          "D. is"
+        ],
+        "answer": "C",
+        "explanation": "ประธานของประโยคคือ 'the bus' ซึ่งเป็นเอกพจน์ ดังนั้นต้องใช้กริยาช่วย 'does' สำหรับคำถาม"
+      },
+      {
+        "question": "I'm sorry, I ___ understand what you mean.",
+        "options": [
+          "A. doesn't",
+          "B. am not",
+          "C. don't",
+          "D. no"
+        ],
+        "answer": "C",
+        "explanation": "ประธานคือ 'I' ต้องใช้กับ 'do' ในประโยคปฏิเสธจึงเป็น 'do not' หรือ 'don't'"
+      },
+      {
+        "question": "Pim doesn't ___ coffee, she prefers tea.",
+        "options": [
+          "A. drink",
+          "B. drinks",
+          "C. drinking",
+          "D. to drink"
+        ],
+        "answer": "A",
+        "explanation": "เมื่อใช้ 'doesn't' ในประโยคแล้ว คำกริยาหลักที่ตามมาต้องเป็นรูปพื้นฐาน (Base Form) คือ 'drink' โดยไม่ต้องเติม s"
+      },
+      {
+        "question": "___ you and your friends go to the same school?",
+        "options": [
+          "A. Does",
+          "B. Are",
+          "C. Is",
+          "D. Do"
+        ],
+        "answer": "D",
+        "explanation": "ประธานคือ 'you and your friends' ซึ่งเป็นพหูพจน์ ดังนั้นต้องใช้ 'Do' ในการสร้างประโยคคำถาม"
+      },
+      {
+        "question": "He ___ have any brothers or sisters.",
+        "options": [
+          "A. don't",
+          "B. not",
+          "C. isn't",
+          "D. doesn't"
+        ],
+        "answer": "D",
+        "explanation": "ประธาน 'He' เป็นเอกพจน์บุรุษที่ 3 ดังนั้นต้องใช้ 'does not' หรือ 'doesn't' ในประโยคปฏิเสธ"
+      },
+      {
+        "question": "Why ___ they always complain so much?",
+        "options": [
+          "A. do",
+          "B. does",
+          "C. are",
+          "D. is"
+        ],
+        "answer": "A",
+        "explanation": "ประธาน 'they' เป็นพหูพจน์ ต้องใช้กริยาช่วย 'do' ในประโยคคำถาม"
+      },
+      {
+        "question": "A cat ___ like to swim.",
+        "options": [
+          "A. do not",
+          "B. are not",
+          "C. does not",
+          "D. is not"
+        ],
+        "answer": "C",
+        "explanation": "ประธาน 'A cat' (แมวหนึ่งตัว) เป็นเอกพจน์บุรุษที่ 3 จึงต้องใช้ 'does not'"
+      },
+      {
+        "question": "Which of the following sentences is grammatically correct?",
+        "options": [
+          "A. She don't know the answer.",
+          "B. Does he works here?",
+          "C. We don't eat meat.",
+          "D. They doesn't live nearby."
+        ],
+        "answer": "C",
+        "explanation": "ข้อ A ผิดเพราะประธาน She ต้องใช้ doesn't. ข้อ B ผิดเพราะเมื่อใช้ Does แล้ว กริยา work ต้องไม่เติม s. ข้อ D ผิดเพราะประธาน They ต้องใช้ don't. ข้อ C ถูกต้องเพราะประธาน We ใช้กับ don't"
+      }
+    ]
+  },
+  {
+    "id": "5_2",
+    "title": "5.2 Did in Past Simple (การสร้างประโยคปฏิเสธและคำถามในอดีต)",
+    "explanation": "\"Did\" คือกริยาช่วย (Auxiliary Verb) ที่เข้ามาช่วยสร้างประโยคปฏิเสธและคำถามใน Past Simple Tense (เหตุการณ์ในอดีต) โดยใช้กับประธานทุกตัว (I, You, We, They, He, She, It)\n\n**หลักการสำคัญที่สุด:** เมื่อมี \"did\" เข้ามาในประโยคแล้ว กริยาแท้ (Main Verb) ที่ตามมาจะต้องกลับไปอยู่ในรูปช่องที่ 1 (Base Form / Infinitive) เสมอ! เพราะ \"did\" ทำหน้าที่บอกความเป็นอดีตไปแล้ว\n\n**1. ประโยคปฏิเสธ (Negative Sentences)**\nโครงสร้าง: **Subject + did not (didn't) + Verb 1 (Base Form)**\n- ประโยคบอกเล่า: She *watched* a movie. (เธอดูหนัง)\n- ประโยคปฏิเสธ: She *didn't watch* a movie. (เธอไม่ได้ดูหนัง) -> สังเกตว่า watched (V.2) เปลี่ยนกลับเป็น watch (V.1)\n\n**2. ประโยคคำถาม (Interrogative Sentences)**\n\n**2.1 Yes/No Questions (คำถามที่ตอบว่า ใช่/ไม่ใช่)**\nโครงสร้าง: **Did + Subject + Verb 1 (Base Form)?**\n- ประโยคบอกเล่า: They *played* football. (พวกเขาเล่นฟุตบอล)\n- ประโยคคำถาม: *Did* they *play* football? (พวกเขาเล่นฟุตบอลใช่ไหม?) -> played (V.2) เปลี่ยนกลับเป็น play (V.1)\n\n**2.2 Wh-Questions (คำถามที่ขึ้นต้นด้วย What, Where, When, Why, Who, How)**\nโครงสร้าง: **Wh-word + did + Subject + Verb 1 (Base Form)?**\n- ประโยคบอกเล่า: You *bought* a new car. (คุณซื้อรถคันใหม่)\n- ประโยคคำถาม: *What did* you *buy*? (คุณซื้ออะไรมา?) -> bought (V.2) เปลี่ยนกลับเป็น buy (V.1)",
+    "examples": [
+      {
+        "eng": "Positive: He worked yesterday.\nNegative: He didn't work yesterday.",
+        "thai": "บอกเล่า: เขาทำงานเมื่อวานนี้\nปฏิเสธ: เขาไม่ได้ทำงานเมื่อวานนี้ (สังเกต: worked (V.2) เปลี่ยนเป็น work (V.1) หลัง didn't)"
+      },
+      {
+        "eng": "Positive: We saw a bird.\nQuestion: Did you see a bird?",
+        "thai": "บอกเล่า: พวกเราเห็นนกตัวหนึ่ง\nคำถาม: คุณเห็นนกตัวหนึ่งไหม? (สังเกต: saw (V.2) เปลี่ยนเป็น see (V.1) หลัง Did)"
+      },
+      {
+        "eng": "Positive: She went to Japan.\nQuestion: Where did she go?",
+        "thai": "บอกเล่า: เธอไปประเทศญี่ปุ่น\nคำถาม: เธอไปที่ไหน? (สังเกต: went (V.2) เปลี่ยนเป็น go (V.1) หลัง did)"
+      },
+      {
+        "eng": "I didn't finish my homework last night.",
+        "thai": "ฉันทำการบ้านไม่เสร็จเมื่อคืนนี้"
+      },
+      {
+        "eng": "Did they enjoy the party?",
+        "thai": "พวกเขาสนุกกับงานปาร์ตี้ไหม?"
+      }
+    ],
+    "common_mistakes": "ข้อผิดพลาดที่พบบ่อยที่สุดและต้องระวังอย่างยิ่ง คือ **การใช้กริยาช่องที่ 2 (V.2) ตามหลัง did, didn't**\n\n**ผิด:** I didn't **went** to school. ❌\n**ถูก:** I didn't **go** to school. ✅\n(เหตุผล: เพราะ did บอกความเป็นอดีตไปแล้ว กริยาแท้ go ต้องกลับมาเป็นรูปปกติช่องที่ 1)\n\n**ผิด:** Did she **ate** lunch? ❌\n**ถูก:** Did she **eat** lunch? ✅\n(เหตุผล: เพราะ Did ที่ขึ้นต้นประโยคทำหน้าที่บอกความเป็นอดีตแล้ว กริยาแท้ eat ต้องกลับมาเป็นรูปปกติช่องที่ 1)\n\nอีกข้อผิดพลาดคือการสับสนระหว่าง Verb to be (was, were) กับ Verb to do (did) ในประโยคคำถามที่มีกริยาแท้\n\n**ผิด:** **Were** you go to the concert? ❌ (Was/Were ใช้กับคำนาม, คำคุณศัพท์ หรือกริยาเติม -ing ไม่ใช้กับกริยาช่อง 1 แบบนี้)\n**ถูก:** **Did** you go to the concert? ✅ (เมื่อมีกริยาแท้ (action verb) เช่น go ต้องใช้ did เข้ามาช่วยสร้างคำถาม)",
+    "practice_questions": [
+      {
+        "question": "I ___ see the movie last night because I was tired.",
+        "options": [
+          "A. didn't",
+          "B. don't",
+          "C. wasn't",
+          "D. am not"
+        ],
+        "answer": "A",
+        "explanation": "คำว่า 'last night' (เมื่อคืนนี้) บอกว่าเป็นเหตุการณ์ในอดีต จึงต้องใช้กริยาช่วยสำหรับ Past Simple คือ 'didn't' เพื่อสร้างประโยคปฏิเสธ และตามด้วยกริยาช่องที่ 1 คือ 'see' ซึ่งถูกต้องตามโครงสร้าง"
+      },
+      {
+        "question": "___ you finish your project yesterday?",
+        "options": [
+          "A. Do",
+          "B. Does",
+          "C. Did",
+          "D. Are"
+        ],
+        "answer": "C",
+        "explanation": "คำว่า 'yesterday' (เมื่อวานนี้) บอกว่าเป็นอดีต และประโยคมีกริยาแท้ช่องที่ 1 คือ 'finish' ดังนั้นการสร้างประโยคคำถามจึงต้องใช้ 'Did' ขึ้นต้นประโยค"
+      },
+      {
+        "question": "She didn't ___ to my email.",
+        "options": [
+          "A. replied",
+          "B. reply",
+          "C. replies",
+          "D. replying"
+        ],
+        "answer": "B",
+        "explanation": "ตามกฎแล้ว หลัง 'didn't' ต้องตามด้วยกริยาช่องที่ 1 (Base Form) เสมอ ดังนั้นคำตอบที่ถูกต้องคือ 'reply'"
+      },
+      {
+        "question": "Where ___ they go for their vacation last year?",
+        "options": [
+          "A. do",
+          "B. did",
+          "C. were",
+          "D. have"
+        ],
+        "answer": "B",
+        "explanation": "นี่คือ Wh-Question ในอดีต (last year) และมีกริยาแท้คือ 'go' (V.1) จึงต้องใช้กริยาช่วย 'did' มาวางไว้หลัง Wh-word (Where)"
+      },
+      {
+        "question": "He said he ___ know the answer to the last question.",
+        "options": [
+          "A. didn't knew",
+          "B. didn't know",
+          "C. doesn't knew",
+          "D. don't know"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคหลัก 'He said' เป็นอดีต ดังนั้นประโยครองก็ควรเป็นอดีตด้วย จึงใช้ 'didn't' และต้องตามด้วยกริยาช่องที่ 1 คือ 'know' ไม่ใช่ 'knew' (V.2)"
+      },
+      {
+        "question": "They ___ buy the tickets, so they couldn't enter the concert.",
+        "options": [
+          "A. didn't",
+          "B. don't",
+          "C. wasn't",
+          "D. weren't"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคผล 'they couldn't enter' เป็นอดีต แสดงว่าประโยคเหตุการณ์ก็ต้องเป็นอดีตเช่นกัน และเมื่อมีกริยา 'buy' จึงต้องใช้ 'didn't' เพื่อบอกว่า 'ไม่ได้ซื้อ'"
+      },
+      {
+        "question": "Why ___ you leave the party so early?",
+        "options": [
+          "A. did",
+          "B. do",
+          "C. were",
+          "D. have"
+        ],
+        "answer": "A",
+        "explanation": "เป็นการถามถึงเหตุผลของเหตุการณ์ในอดีต (ที่กลับไปก่อนเวลา) และมีกริยาช่องที่ 1 'leave' อยู่ในประโยค จึงต้องใช้ 'did' มาช่วยสร้างคำถาม"
+      },
+      {
+        "question": "Which sentence is grammatically correct?",
+        "options": [
+          "A. Did you saw that?",
+          "B. She didn't liked the food.",
+          "C. We didn't study for the test.",
+          "D. He did wrote the letter."
+        ],
+        "answer": "C",
+        "explanation": "ข้อ C ถูกต้องที่สุด เพราะใช้ 'didn't' ตามด้วยกริยาช่องที่ 1 'study' ส่วนข้อ A, B, และ D ผิดหลักไวยากรณ์ เพราะใช้กริยาช่องที่ 2 (saw, liked, wrote) ตามหลัง did/didn't"
+      },
+      {
+        "question": "A: Did you eat breakfast? B: No, I ___.",
+        "options": [
+          "A. don't",
+          "B. didn't",
+          "C. haven't",
+          "D. wasn't"
+        ],
+        "answer": "B",
+        "explanation": "เมื่อคำถามขึ้นต้นด้วย 'Did' การตอบแบบสั้นในรูปปฏิเสธจะต้องใช้ 'didn't'"
+      },
+      {
+        "question": "The computer ___ work yesterday, so I couldn't send the email.",
+        "options": [
+          "A. didn't",
+          "B. doesn't",
+          "C. isn't",
+          "D. wasn't"
+        ],
+        "answer": "A",
+        "explanation": "คำว่า 'yesterday' บ่งบอกถึงอดีต และประโยคนี้มีกริยาแท้คือ 'work' ดังนั้นประโยคปฏิเสธที่ถูกต้องจึงต้องใช้ 'didn't' มาช่วย"
+      }
+    ]
+  },
+  {
+    "id": "5_3",
+    "title": "5.3 Auxiliary Verbs for Emphasis (การใช้ Do/Does/Did เพื่อเน้นย้ำความหมาย)",
+    "explanation": "โดยปกติแล้ว เราจะใช้ Verb to do (do, does, did) ในประโยคคำถามและประโยคปฏิเสธ แต่ยังมีอีกหนึ่งการใช้งานที่สำคัญ คือการใช้ใน 'ประโยคบอกเล่า' เพื่อเน้นย้ำความหมายของประโยคนั้นๆ ให้หนักแน่นขึ้น\n\nการใช้แบบนี้จะให้ความรู้สึกเหมือนเรากำลังพูดว่า '...จริงๆ นะ' หรือ '...เลยนะ' มักจะใช้เมื่อต้องการโต้แย้งกับสิ่งที่คนอื่นพูด หรือต้องการยืนยันว่าสิ่งที่เราพูดเป็นเรื่องจริง\n\n**โครงสร้าง:**\nSubject + do/does/did + Verb ช่องที่ 1 (Base Form) + ...\n\n**หัวใจสำคัญ:**\n1.  **ใช้ในประโยคบอกเล่าเท่านั้น:** การใช้เพื่อเน้นย้ำจะปรากฏในประโยคบอกเล่า (Positive Sentences)\n2.  **Verb แท้ต้องเป็นช่องที่ 1 เสมอ:** ไม่ว่าประธานจะเป็นใคร หรือประโยคจะเป็น Tense อะไร (Present หรือ Past) เมื่อมี do/does/did มาช่วยเน้นย้ำแล้ว Verb แท้ที่ตามมาจะต้องกลับไปเป็นรูปพื้นฐาน (Base Form / Infinitive) เสมอ\n\n**การเลือกใช้:**\n*   **Do:** ใช้กับประธาน I, You, We, They และประธานพหูพจน์ ใน Present Simple Tense\n*   **Does:** ใช้กับประธาน He, She, It และประธานเอกพจน์ ใน Present Simple Tense\n*   **Did:** ใช้กับประธานทุกตัว ใน Past Simple Tense",
+    "examples": [
+      {
+        "eng": "A: You don't love me anymore.\nB: That's not true! I **do** love you.",
+        "thai": "A: คุณไม่รักฉันแล้ว\nB: ไม่จริงเลย! ฉันรักคุณจริงๆ นะ (ใช้ do เพื่อเน้นย้ำและโต้แย้งคำพูดของ A)"
+      },
+      {
+        "eng": "She looks tired, but she **does** have enough energy to finish the race.",
+        "thai": "เธอดูเหนื่อยนะ แต่เธอมีพลังงานพอที่จะแข่งให้จบจริงๆ (ใช้ does เพราะประธานคือ She และ have เป็น Verb ช่องที่ 1)"
+      },
+      {
+        "eng": "They said I didn't finish my homework, but I **did** finish it last night.",
+        "thai": "พวกเขาบอกว่าฉันทำการบ้านไม่เสร็จ แต่ฉันทำเสร็จจริงๆ นะเมื่อคืนนี้ (ใช้ did เพื่อเน้นย้ำการกระทำในอดีต และ finish เป็น Verb ช่องที่ 1)"
+      },
+      {
+        "eng": "He **does** know the answer, he's just shy to speak up.",
+        "thai": "เขารู้คำตอบจริงๆ นะ เขาแค่ขี้อายไม่กล้าพูด (ปกติจะพูดว่า He knows... แต่การใส่ does เข้าไปเป็นการเน้นว่า 'รู้จริงๆ')"
+      },
+      {
+        "eng": "Wow, you **do** look great in that dress!",
+        "thai": "ว้าว! คุณดูดีในชุดนั้นมากๆ เลยนะ! (ใช้ do เพื่อเน้นย้ำคำชม ให้ความรู้สึกว่าดูดีจริงๆ)"
+      }
+    ],
+    "common_mistakes": "1.  **ไม่เปลี่ยน Verb แท้กลับเป็นรูป Base Form (ช่องที่ 1):** นี่คือข้อผิดพลาดที่พบบ่อยที่สุด คนไทยมักจะเผลอคงรูป Verb แท้ตามประธานหรือ Tense เดิม\n    *   ผิด: He **does knows** the truth.\n    *   ถูก: He **does know** the truth.\n    *   ผิด: She **did told** me about it.\n    *   ถูก: She **did tell** me about it.\n\n2.  **ใช้ผิดสถานการณ์ (Overuse):** การใช้ do/does/did เพื่อเน้นย้ำ มีไว้สำหรับสถานการณ์เฉพาะที่ต้องการเพิ่มน้ำหนักให้คำพูด ไม่ควรใช้พร่ำเพรื่อในทุกประโยคบอกเล่า เพราะจะทำให้การพูดหรือเขียนดูไม่เป็นธรรมชาติ\n\n3.  **สับสนกับการใช้ในประโยคคำถาม/ปฏิเสธ:** ในประโยคคำถาม (Did you go?) หรือปฏิเสธ (I don't know) นั้น do/does/did ทำหน้าที่ตามไวยากรณ์ปกติ ไม่ได้มีความหมายเน้นย้ำเป็นพิเศษเหมือนในประโยคบอกเล่า",
+    "practice_questions": [
+      {
+        "question": "You may think I forgot, but I ___ remember your promise.",
+        "options": [
+          "A. does",
+          "B. do",
+          "C. did",
+          "D. am"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้อยู่ใน Present Simple Tense และประธานคือ 'I' จึงต้องใช้ 'do' เพื่อเน้นย้ำว่า 'จำได้จริงๆ นะ' และตามด้วย Verb ช่อง 1 คือ remember"
+      },
+      {
+        "question": "She insisted that she ___ the door before she left.",
+        "options": [
+          "A. did locked",
+          "B. did lock",
+          "C. does lock",
+          "D. does locked"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้พูดถึงเหตุการณ์ในอดีต (before she left) จึงต้องใช้ 'did' เพื่อเน้นย้ำ และ Verb แท้ที่ตามหลัง did ต้องเป็นรูป Base Form (ช่อง 1) คือ 'lock'"
+      },
+      {
+        "question": "He seems quiet, but he ___ have a lot of interesting stories to tell.",
+        "options": [
+          "A. does",
+          "B. do",
+          "C. is",
+          "D. has"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้อยู่ใน Present Simple Tense และประธานคือ 'he' (เอกพจน์) จึงต้องใช้ 'does' เพื่อเน้นย้ำ และตามด้วย Verb ช่อง 1 คือ 'have'"
+      },
+      {
+        "question": "A: 'You never listen to me!' B: 'That's not fair! I ___ listen to you!'",
+        "options": [
+          "A. am",
+          "B. did",
+          "C. do",
+          "D. does"
+        ],
+        "answer": "C",
+        "explanation": "เป็นการโต้แย้งในสถานการณ์ปัจจุบัน ประธานคือ 'I' จึงใช้ 'do' เพื่อเน้นย้ำว่า 'ฉันฟังคุณจริงๆ นะ' และตามด้วย Verb ช่อง 1 คือ listen"
+      },
+      {
+        "question": "Even though the project was difficult, they ___ manage to finish it on time.",
+        "options": [
+          "A. did managed",
+          "B. did manage",
+          "C. do managed",
+          "D. do manage"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคกล่าวถึงเหตุการณ์ในอดีต (the project was difficult) จึงใช้ 'did' เพื่อเน้นย้ำ และ Verb ที่ตามมาต้องเป็น Base Form คือ 'manage'"
+      },
+      {
+        "question": "I know you doubt him, but he ___ pay back the money he owed.",
+        "options": [
+          "A. did",
+          "B. does",
+          "C. do",
+          "D. was"
+        ],
+        "answer": "A",
+        "explanation": "บริบทของประโยค (he owed - เขาเคยเป็นหนี้) บอกว่าเป็นเรื่องในอดีต ดังนั้นจึงใช้ 'did' เพื่อเน้นว่า 'เขาจ่ายเงินคืนจริงๆนะ'"
+      },
+      {
+        "question": "My computer looks old, but it ___ work perfectly fine.",
+        "options": [
+          "A. do",
+          "B. did",
+          "C. is",
+          "D. does"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคนี้อยู่ใน Present Simple Tense และประธานคือ 'it' (My computer) ซึ่งเป็นเอกพจน์ จึงต้องใช้ 'does' เพื่อเน้นย้ำ และตามด้วย Verb ช่อง 1 คือ work"
+      },
+      {
+        "question": "Which of the following sentences is grammatically INCORRECT for emphasis?",
+        "options": [
+          "A. I did see you at the party.",
+          "B. She does likes chocolate ice cream.",
+          "C. We do want to join the team.",
+          "D. He did tell the truth."
+        ],
+        "answer": "B",
+        "explanation": "ข้อ B ผิดหลักไวยากรณ์ เพราะเมื่อใช้ 'does' เพื่อเน้นย้ำแล้ว Verb แท้ที่ตามมาต้องเป็นรูป Base Form (ช่อง 1) คือ 'like' ไม่ใช่ 'likes' ที่ถูกต้องคือ 'She does like...'"
+      },
+      {
+        "question": "Please believe me, I ___ want to apologize for what happened.",
+        "options": [
+          "A. does",
+          "B. did",
+          "C. do",
+          "D. am"
+        ],
+        "answer": "C",
+        "explanation": "เป็นการแสดงความรู้สึกในปัจจุบัน ประธานคือ 'I' จึงใช้ 'do' เพื่อเน้นย้ำความตั้งใจว่า 'อยากจะขอโทษจริงๆ' และตามด้วย Verb ช่อง 1 คือ want"
+      },
+      {
+        "question": "The teacher thought I didn't study, but I ___ read the entire book last night.",
+        "options": [
+          "A. did read",
+          "B. did readed",
+          "C. does read",
+          "D. do read"
+        ],
+        "answer": "A",
+        "explanation": "เหตุการณ์เกิดขึ้นเมื่อคืนที่แล้ว (last night) เป็นอดีต จึงต้องใช้ 'did' และ Verb ที่ตามมาคือ 'read' ซึ่งเป็น Base Form (ถึงแม้ read ช่อง 1, 2, 3 จะเขียนเหมือนกัน แต่ในที่นี้มันทำหน้าที่เป็นช่อง 1)"
+      }
+    ]
+  },
+  {
+    "id": "5_4",
+    "title": "5.4 Summary: Auxiliary Verbs (สรุป V. to do + 50 Exercises)",
+    "explanation": "สรุปการใช้ Auxiliary Verbs: do, does, did\n\nVerb to do (do, does, did) ถูกนำมาใช้เป็น 'กริยาช่วย' (Auxiliary Verb) ในประโยคปฏิเสธ (Negative) และประโยคคำถาม (Question) ของ 2 Tenses หลัก คือ Present Simple และ Past Simple\n\n**หลักการสำคัญที่ต้องจำให้ขึ้นใจ:**\n1.  **การเลือกใช้ให้ถูกประธานและ Tense:**\n    *   **do**: ใช้กับประธาน I, You, We, They และประธานพหูพจน์ ใน Present Simple\n    *   **does**: ใช้กับประธาน He, She, It และประธานเอกพจน์ ใน Present Simple\n    *   **did**: ใช้กับประธาน *ทุกตัว* ใน Past Simple\n\n2.  **กฎเหล็ก: V. ช่อง 1 เสมอ!**\n    *   เมื่อมี do, does, did มาช่วยในประโยคแล้ว กริยาแท้ (Main Verb) ที่ตามหลังมา จะต้องกลับไปอยู่ในรูป *'ช่องที่ 1 แบบไม่ผัน'* (Base Form / Infinitive without 'to') เสมอ\n    *   ผิด: He does not ~~likes~~ coffee.\n    *   ถูก: He **does** not **like** coffee.\n    *   ผิด: Did you ~~went~~ to the party?\n    *   ถูก: **Did** you **go** to the party?\n\n**โครงสร้างประโยค:**\n*   **คำถาม (Yes/No):** Do/Does/Did + ประธาน + V.1 + ... ?\n    *   เช่น: Does she work here? / Did they arrive on time?\n*   **คำถาม (Wh-):** Wh-word + do/does/did + ประธาน + V.1 + ... ?\n    *   เช่น: Where do you live? / What did he say?\n*   **ปฏิเสธ:** ประธาน + do/does/did + not + V.1 + ...\n    *   รูปย่อ: don't / doesn't / didn't\n    *   เช่น: We don't understand. / She didn't call me.",
+    "examples": [
+      {
+        "eng": "A: **Does** your brother **live** in Chiang Mai? (Present Simple Question)",
+        "thai": "พี่ชายของคุณอาศัยอยู่ที่เชียงใหม่หรือเปล่า? (ใช้ Does เพราะประธาน 'your brother' เป็นเอกพจน์ และตามด้วย V.1 'live')"
+      },
+      {
+        "eng": "B: No, he **doesn't live** there. He lives in Bangkok. (Present Simple Negative)",
+        "thai": "ไม่ เขาไม่ได้อยู่ที่นั่น เขาอยู่ที่กรุงเทพฯ (ใช้ doesn't เพราะประธาน 'he' เป็นเอกพจน์ และตามด้วย V.1 'live')"
+      },
+      {
+        "eng": "A: **Did** you **see** the new movie last night? (Past Simple Question)",
+        "thai": "เมื่อคืนคุณได้ดูหนังเรื่องใหม่ไหม? (ใช้ Did เพราะเป็นอดีต 'last night' และตามด้วย V.1 'see')"
+      },
+      {
+        "eng": "B: No, I **didn't see** it. I was busy. (Past Simple Negative)",
+        "thai": "ไม่ ฉันไม่ได้ดู พอดีไม่ว่าง (ใช้ didn't เพราะเป็นอดีต และตามด้วย V.1 'see')"
+      }
+    ],
+    "common_mistakes": "**1. ไม่เปลี่ยนกริยาแท้กลับเป็น V.1:** เป็นข้อผิดพลาดที่พบบ่อยที่สุด เช่น *'She doesn't understands.'* (ต้องเป็น understand) หรือ *'Did you saw that?'* (ต้องเป็น see)\n**2. ใช้ V. to do กับ V. to be ปนกัน:** ประโยคที่มี V. to be (is, am, are, was, were) เป็นกริยาหลักอยู่แล้ว ไม่ต้องใช้ V. to do มาช่วย เช่น ถามว่า *'Are you tired?'* ไม่ใช่ *'Do you are tired?'*\n**3. เลือกใช้ do/does ไม่ถูกกับประธาน:** สับสนระหว่างประธานเอกพจน์กับพหูพจน์ เช่น *'My brother do not...'* ที่ถูกต้องคือ *'My brother does not...'* เพราะ My brother เป็นเอกพจน์\n**4. ใช้ V. to do ในประโยคบอกเล่าโดยไม่จำเป็น:** ในประโยคบอกเล่าทั่วไป เราไม่ต้องใช้ V. to do เช่น 'I go to school.' ไม่ใช่ *'I do go to school.'* (ยกเว้นในกรณีที่ต้องการเน้นย้ำจริงๆ ซึ่งไม่ใช่การใช้ทั่วไป)",
+    "practice_questions": [
+      {
+        "question": "_____ you like green tea?",
+        "options": [
+          "A. Do",
+          "B. Does",
+          "C. Is",
+          "D. Are"
+        ],
+        "answer": "A",
+        "explanation": "ประธานคือ 'you' และประโยคเป็น Present Simple จึงต้องใช้กริยาช่วย 'Do'"
+      },
+      {
+        "question": "_____ he work on weekends?",
+        "options": [
+          "A. Do",
+          "B. Does",
+          "C. Is",
+          "D. Did"
+        ],
+        "answer": "B",
+        "explanation": "ประธานคือ 'he' (เอกพจน์บุรุษที่ 3) และประโยคเป็น Present Simple จึงต้องใช้กริยาช่วย 'Does'"
+      },
+      {
+        "question": "They _____ not speak French.",
+        "options": [
+          "A. do",
+          "B. does",
+          "C. is",
+          "D. are"
+        ],
+        "answer": "A",
+        "explanation": "ประธานคือ 'They' (พหูพจน์) และเป็นประโยคปฏิเสธใน Present Simple จึงใช้ 'do not' (don't)"
+      },
+      {
+        "question": "My computer _____ not work properly.",
+        "options": [
+          "A. do",
+          "B. does",
+          "C. are",
+          "D. did"
+        ],
+        "answer": "B",
+        "explanation": "ประธานคือ 'My computer' (เอกพจน์) และเป็นประโยคปฏิเสธใน Present Simple จึงใช้ 'does not' (doesn't)"
+      },
+      {
+        "question": "What _____ you mean?",
+        "options": [
+          "A. do",
+          "B. does",
+          "C. is",
+          "D. are"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคคำถาม Wh-Question ใน Present Simple ที่มีประธานเป็น 'you' ต้องใช้กริยาช่วย 'do'"
+      },
+      {
+        "question": "_____ we need to buy more milk?",
+        "options": [
+          "A. Do",
+          "B. Does",
+          "C. Did",
+          "D. Are"
+        ],
+        "answer": "A",
+        "explanation": "ประธานคือ 'we' (พหูพจน์) ในประโยคคำถาม Present Simple จึงใช้ 'Do'"
+      },
+      {
+        "question": "Why _____ she look so happy?",
+        "options": [
+          "A. do",
+          "B. does",
+          "C. is",
+          "D. are"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคคำถาม Wh-Question ใน Present Simple ที่มีประธานเป็น 'she' (เอกพจน์) ต้องใช้กริยาช่วย 'does'"
+      },
+      {
+        "question": "I _____ not agree with your opinion.",
+        "options": [
+          "A. do",
+          "B. does",
+          "C. am",
+          "D. did"
+        ],
+        "answer": "A",
+        "explanation": "ประธานคือ 'I' ในประโยคปฏิเสธ Present Simple จึงใช้ 'do not' (don't)"
+      },
+      {
+        "question": "_____ your sister live with you?",
+        "options": [
+          "A. Do",
+          "B. Does",
+          "C. Is",
+          "D. Did"
+        ],
+        "answer": "B",
+        "explanation": "ประธานคือ 'your sister' (เอกพจน์) ในประโยคคำถาม Present Simple จึงใช้ 'Does'"
+      },
+      {
+        "question": "The students _____ not have classes on Friday.",
+        "options": [
+          "A. do",
+          "B. does",
+          "C. are",
+          "D. did"
+        ],
+        "answer": "A",
+        "explanation": "ประธานคือ 'The students' (พหูพจน์) ในประโยคปฏิเสธ Present Simple จึงใช้ 'do not' (don't)"
+      },
+      {
+        "question": "He _____ want to be a doctor; he wants to be a writer.",
+        "options": [
+          "A. don't",
+          "B. doesn't",
+          "C. isn't",
+          "D. didn't"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคเป็น Present Simple และประธานคือ 'He' (เอกพจน์) รูปปฏิเสธที่ถูกต้องคือ 'doesn't'"
+      },
+      {
+        "question": "We _____ have any plans for the weekend.",
+        "options": [
+          "A. don't",
+          "B. doesn't",
+          "C. aren't",
+          "D. didn't"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคเป็น Present Simple และประธานคือ 'We' (พหูพจน์) รูปปฏิเสธที่ถูกต้องคือ 'don't'"
+      },
+      {
+        "question": "Maria _____ know how to cook.",
+        "options": [
+          "A. don't",
+          "B. doesn't",
+          "C. isn't",
+          "D. didn't"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคเป็น Present Simple และประธานคือ 'Maria' (เอกพจน์) รูปปฏิเสธที่ถูกต้องคือ 'doesn't'"
+      },
+      {
+        "question": "You _____ need to worry about it.",
+        "options": [
+          "A. don't",
+          "B. doesn't",
+          "C. aren't",
+          "D. didn't"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคเป็น Present Simple และประธานคือ 'You' รูปปฏิเสธที่ถูกต้องคือ 'don't'"
+      },
+      {
+        "question": "This phone _____ have a good camera.",
+        "options": [
+          "A. don't",
+          "B. doesn't",
+          "C. isn't",
+          "D. wasn't"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคเป็น Present Simple และประธานคือ 'This phone' (เอกพจน์) รูปปฏิเสธที่ถูกต้องคือ 'doesn't'"
+      },
+      {
+        "question": "_____ you watch the football match last night?",
+        "options": [
+          "A. Do",
+          "B. Does",
+          "C. Did",
+          "D. Were"
+        ],
+        "answer": "C",
+        "explanation": "คำว่า 'last night' บอกว่าเป็นเหตุการณ์ในอดีต (Past Simple) ดังนั้นต้องใช้กริยาช่วย 'Did' กับประธานทุกตัว"
+      },
+      {
+        "question": "She _____ not answer my email yesterday.",
+        "options": [
+          "A. do",
+          "B. does",
+          "C. did",
+          "D. was"
+        ],
+        "answer": "C",
+        "explanation": "คำว่า 'yesterday' บอกว่าเป็นอดีต (Past Simple) รูปปฏิเสธจึงใช้ 'did not' (didn't)"
+      },
+      {
+        "question": "When _____ they sell their house?",
+        "options": [
+          "A. do",
+          "B. does",
+          "C. did",
+          "D. were"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคถามถึงเหตุการณ์ในอดีต (ขายบ้านไปเมื่อไหร่) จึงใช้กริยาช่วย 'did'"
+      },
+      {
+        "question": "I _____ get your message, so I didn't call back.",
+        "options": [
+          "A. don't",
+          "B. doesn't",
+          "C. didn't",
+          "D. wasn't"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคหลัง 'I didn't call back' เป็นอดีต ดังนั้นประโยคหน้าก็ต้องเป็นอดีตด้วย รูปปฏิเสธคือ 'didn't'"
+      },
+      {
+        "question": "_____ he bring the documents you asked for?",
+        "options": [
+          "A. Do",
+          "B. Does",
+          "C. Did",
+          "D. Was"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคถามถึงสิ่งที่เกิดขึ้นแล้วในอดีต (ได้เอาเอกสารมาไหม) จึงใช้ 'Did'"
+      },
+      {
+        "question": "My family _____ go on vacation last year.",
+        "options": [
+          "A. don't",
+          "B. doesn't",
+          "C. didn't",
+          "D. weren't"
+        ],
+        "answer": "C",
+        "explanation": "คำว่า 'last year' บอกว่าเป็นอดีต (Past Simple) รูปปฏิเสธจึงใช้ 'didn't'"
+      },
+      {
+        "question": "What _____ you eat for breakfast this morning?",
+        "options": [
+          "A. do",
+          "B. does",
+          "C. did",
+          "D. were"
+        ],
+        "answer": "C",
+        "explanation": "คำว่า 'this morning' หมายถึงเช้าที่ผ่านมาแล้ว เป็นอดีต จึงใช้กริยาช่วย 'did'"
+      },
+      {
+        "question": "Why _____ he miss the train?",
+        "options": [
+          "A. do",
+          "B. does",
+          "C. did",
+          "D. was"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคถามถึงเหตุผลของเหตุการณ์ในอดีต (พลาดรถไฟ) จึงใช้ 'did'"
+      },
+      {
+        "question": "We _____ realize it was so late.",
+        "options": [
+          "A. don't",
+          "B. doesn't",
+          "C. didn't",
+          "D. weren't"
+        ],
+        "answer": "C",
+        "explanation": "รูปประโยคแสดงถึงเหตุการณ์ในอดีต ('it was so late') ดังนั้นส่วนหน้าต้องเป็นอดีตเช่นกัน รูปปฏิเสธจึงเป็น 'didn't'"
+      },
+      {
+        "question": "_____ you go to the library every week?",
+        "options": [
+          "A. Do",
+          "B. Does",
+          "C. Did",
+          "D. Are"
+        ],
+        "answer": "A",
+        "explanation": "คำว่า 'every week' บอกถึงกิจวัตรในปัจจุบัน (Present Simple) ประธานคือ 'you' จึงใช้ 'Do'"
+      },
+      {
+        "question": "She _____ go to the party last Saturday because she was sick.",
+        "options": [
+          "A. don't",
+          "B. doesn't",
+          "C. didn't",
+          "D. wasn't"
+        ],
+        "answer": "C",
+        "explanation": "คำว่า 'last Saturday' บอกว่าเป็นอดีต รูปปฏิเสธจึงใช้ 'didn't'"
+      },
+      {
+        "question": "_____ it rain a lot in your country?",
+        "options": [
+          "A. Do",
+          "B. Does",
+          "C. Did",
+          "D. Is"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคถามถึงข้อเท็จจริงทั่วไป (Present Simple) ประธานคือ 'it' จึงใช้ 'Does'"
+      },
+      {
+        "question": "I _____ have a dog when I was young.",
+        "options": [
+          "A. don't",
+          "B. doesn't",
+          "C. didn't",
+          "D. wasn't"
+        ],
+        "answer": "C",
+        "explanation": "วลี 'when I was young' บอกว่าเป็นเรื่องในอดีต รูปปฏิเสธจึงใช้ 'didn't'"
+      },
+      {
+        "question": "How much _____ this shirt cost?",
+        "options": [
+          "A. do",
+          "B. does",
+          "C. did",
+          "D. is"
+        ],
+        "answer": "B",
+        "explanation": "ถามราคาในปัจจุบัน (Present Simple) ประธานคือ 'this shirt' (เอกพจน์) จึงใช้ 'does'"
+      },
+      {
+        "question": "They _____ visit us two years ago.",
+        "options": [
+          "A. don't",
+          "B. doesn't",
+          "C. didn't",
+          "D. weren't"
+        ],
+        "answer": "C",
+        "explanation": "คำว่า 'two years ago' บอกว่าเป็นอดีตที่ชัดเจน รูปปฏิเสธจึงใช้ 'didn't'"
+      },
+      {
+        "question": "Where _____ she find those old photos?",
+        "options": [
+          "A. do",
+          "B. does",
+          "C. did",
+          "D. has"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคถามถึงการกระทำที่จบไปแล้วในอดีต (ไปเจอรูปเก่าๆ ที่ไหน) จึงใช้ 'did'"
+      },
+      {
+        "question": "He _____ his bed every morning.",
+        "options": [
+          "A. don't make",
+          "B. doesn't make",
+          "C. didn't made",
+          "D. isn't make"
+        ],
+        "answer": "B",
+        "explanation": "คำว่า 'every morning' บอกถึงกิจวัตร (Present Simple) ประธานคือ 'He' จึงใช้ 'doesn't' และตามด้วย V.1 คือ 'make'"
+      },
+      {
+        "question": "_____ they _____ to the cinema yesterday?",
+        "options": [
+          "A. Do, go",
+          "B. Does, go",
+          "C. Did, go",
+          "D. Did, went"
+        ],
+        "answer": "C",
+        "explanation": "คำว่า 'yesterday' บอกว่าเป็นอดีต จึงใช้ 'Did' และตามกฎ กริยาแท้ต้องเป็น V.1 คือ 'go'"
+      },
+      {
+        "question": "She _____ like horror movies, so she always chooses comedies.",
+        "options": [
+          "A. don't",
+          "B. doesn't",
+          "C. didn't",
+          "D. isn't"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคบอกนิสัยทั่วไป (Present Simple) ประธานคือ 'She' รูปปฏิเสธจึงเป็น 'doesn't'"
+      },
+      {
+        "question": "What time _____ the bank usually close?",
+        "options": [
+          "A. do",
+          "B. does",
+          "C. did",
+          "D. is"
+        ],
+        "answer": "B",
+        "explanation": "คำว่า 'usually' บอกถึงสิ่งที่ทำเป็นปกติ (Present Simple) ประธานคือ 'the bank' (เอกพจน์) จึงใช้ 'does'"
+      },
+      {
+        "question": "I tried to call you, but you _____ pick up the phone.",
+        "options": [
+          "A. don't",
+          "B. doesn't",
+          "C. didn't",
+          "D. weren't"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคหน้า 'I tried to call you' เป็นอดีต ดังนั้นประโยคหลังก็ต้องเป็นอดีตเช่นกัน รูปปฏิเสธคือ 'didn't'"
+      },
+      {
+        "question": "Why _____ you always _____ your keys?",
+        "options": [
+          "A. do, losing",
+          "B. does, lose",
+          "C. do, lose",
+          "D. did, lost"
+        ],
+        "answer": "C",
+        "explanation": "คำว่า 'always' บอกถึงนิสัยในปัจจุบัน (Present Simple) ประธานคือ 'you' จึงใช้ 'do' และตามด้วย V.1 คือ 'lose'"
+      },
+      {
+        "question": "The elevator _____ work, so we had to take the stairs.",
+        "options": [
+          "A. don't",
+          "B. doesn't",
+          "C. didn't",
+          "D. wasn't"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคหลัง 'we had to take the stairs' เป็นอดีต ดังนั้นประโยคหน้าก็ต้องเป็นอดีต รูปปฏิเสธจึงเป็น 'didn't'"
+      },
+      {
+        "question": "_____ he _____ about the change in plans?",
+        "options": [
+          "A. Do, know",
+          "B. Does, know",
+          "C. Did, knew",
+          "D. Does, knows"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคถามถึงความรู้ในปัจจุบัน (Present Simple) ประธาน 'he' ใช้ 'Does' และตามด้วย V.1 คือ 'know'"
+      },
+      {
+        "question": "We _____ own a television, so we read books instead.",
+        "options": [
+          "A. don't",
+          "B. doesn't",
+          "C. didn't",
+          "D. haven't"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคบอกถึงสถานะในปัจจุบัน (Present Simple) ประธาน 'We' รูปปฏิเสธจึงเป็น 'don't'"
+      },
+      {
+        "question": "My brother plays the piano very well, but I _____.",
+        "options": [
+          "A. don't",
+          "B. doesn't",
+          "C. am not",
+          "D. didn't"
+        ],
+        "answer": "A",
+        "explanation": "เป็นการตอบรับเชิงปฏิเสธใน Present Simple ประธานคือ 'I' จึงใช้ 'don't' (ย่อมาจาก I don't play the piano)"
+      },
+      {
+        "question": "He promised to help, but in the end, he _____.",
+        "options": [
+          "A. don't",
+          "B. doesn't",
+          "C. didn't",
+          "D. wasn't"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคหน้า 'He promised' เป็นอดีต ดังนั้นการตอบรับเชิงปฏิเสธก็ต้องเป็นอดีตด้วย คือ 'didn't' (ย่อมาจาก he didn't help)"
+      },
+      {
+        "question": "_____ anyone find my wallet? I lost it yesterday.",
+        "options": [
+          "A. Do",
+          "B. Does",
+          "C. Did",
+          "D. Have"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคหลัง 'I lost it yesterday' บอกว่าเหตุการณ์เป็นอดีต ดังนั้นคำถามต้องใช้ 'Did'"
+      },
+      {
+        "question": "How often _____ you go to the dentist?",
+        "options": [
+          "A. do",
+          "B. does",
+          "C. did",
+          "D. are"
+        ],
+        "answer": "A",
+        "explanation": "คำว่า 'How often' ใช้ถามความถี่ เป็นกิจวัตร (Present Simple) ประธานคือ 'you' จึงใช้ 'do'"
+      },
+      {
+        "question": "It _____ really matter what people say.",
+        "options": [
+          "A. don't",
+          "B. doesn't",
+          "C. didn't",
+          "D. isn't"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคบอกข้อเท็จจริงทั่วไป (Present Simple) ประธานคือ 'It' จึงใช้ 'doesn't'"
+      },
+      {
+        "question": "Choose the grammatically CORRECT sentence.",
+        "options": [
+          "A. She don't like spiders.",
+          "B. Does she likes spiders?",
+          "C. She doesn't like spiders.",
+          "D. Did she liked spiders?"
+        ],
+        "answer": "C",
+        "explanation": "ข้อ C ถูกต้องตามหลักไวยากรณ์ ประธาน 'She' ใช้กับ 'doesn't' และตามด้วย V.1 'like' ข้อ A ผิด (ต้องใช้ doesn't) ข้อ B และ D ผิด (ต้องใช้ V.1 คือ like)"
+      },
+      {
+        "question": "Choose the grammatically INCORRECT sentence.",
+        "options": [
+          "A. What did you do?",
+          "B. He doesn't understand.",
+          "C. They didn't went home.",
+          "D. Do you know him?"
+        ],
+        "answer": "C",
+        "explanation": "ข้อ C ผิด เพราะหลัง 'didn't' ต้องตามด้วย V.1 คือ 'go' ไม่ใช่ 'went' ที่ถูกต้องคือ 'They didn't go home.'"
+      },
+      {
+        "question": "The sentence is: \"Peter didn't enjoy the movie.\" What is the correct question form?",
+        "options": [
+          "A. Did Peter enjoyed the movie?",
+          "B. Does Peter enjoy the movie?",
+          "C. Did Peter enjoy the movie?",
+          "D. Do Peter enjoy the movie?"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคเป็นอดีต คำถามจึงต้องขึ้นต้นด้วย 'Did' และตามด้วยประธาน 'Peter' และ V.1 'enjoy' ข้อ A ผิดเพราะใช้ enjoyed"
+      },
+      {
+        "question": "I don't play the violin. How would you ask about your friend, Tom?",
+        "options": [
+          "A. Do Tom play the violin?",
+          "B. Does Tom plays the violin?",
+          "C. Did Tom play the violin?",
+          "D. Does Tom play the violin?"
+        ],
+        "answer": "D",
+        "explanation": "ถามถึงความสามารถในปัจจุบัน (Present Simple) ประธาน 'Tom' เป็นเอกพจน์ จึงใช้ 'Does' และตามด้วย V.1 'play' ข้อ B ผิดเพราะใช้ plays"
+      },
+      {
+        "question": "Which question is correct for the answer: \"Yes, they finished the project last week.\"",
+        "options": [
+          "A. Do they finished the project?",
+          "B. Did they finish the project?",
+          "C. Does they finish the project?",
+          "D. Did they finished the project?"
+        ],
+        "answer": "B",
+        "explanation": "คำตอบเป็นอดีต ('finished', 'last week') ดังนั้นคำถามต้องขึ้นต้นด้วย 'Did' และตามด้วย V.1 คือ 'finish' ข้อ D ผิดเพราะใช้ V.2 'finished' หลัง Did"
+      }
+    ]
+  }
+]

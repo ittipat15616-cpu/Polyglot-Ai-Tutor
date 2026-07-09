@@ -1,0 +1,1014 @@
+[
+  {
+    "id": "12_1",
+    "title": "12.1 Singular Subjects vs. Plural Subjects (ประธานเอกพจน์/พหูพจน์กับกริยาที่คู่กัน)",
+    "explanation": "หลักการพื้นฐานที่สุดของไวยากรณ์อังกฤษคือ 'ประธาน' (Subject) และ 'กริยา' (Verb) ต้องสอดคล้องกัน หรือที่เราเรียกว่า 'Subject-Verb Agreement' หมายความว่า:\n\n1.  **ประธานเอกพจน์ (Singular Subject)**: คือประธานที่มีเพียง 'หนึ่ง' เดียว (คนเดียว, สัตว์ตัวเดียว, สิ่งของชิ้นเดียว) ต้องใช้คู่กับ **กริยาเอกพจน์ (Singular Verb)**\n    *   กริยาเอกพจน์ในรูป Present Simple Tense มักจะลงท้ายด้วย -s หรือ -es (เช่น runs, eats, goes, watches)\n    *   สำหรับ Verb to be คือ is\n    *   สำหรับ Verb to have คือ has\n\n2.  **ประธานพหูพจน์ (Plural Subject)**: คือประธานที่มี 'มากกว่าหนึ่ง' (หลายคน, สัตว์หลายตัว, สิ่งของหลายชิ้น) รวมถึง I และ You ต้องใช้คู่กับ **กริยาพหูพจน์ (Plural Verb)**\n    *   กริยาพหูพจน์ในรูป Present Simple Tense จะเป็นกริยารูปปกติ ไม่ต้องเติมอะไร (เช่น run, eat, go, watch)\n    *   สำหรับ Verb to be คือ are\n    *   สำหรับ Verb to have คือ have\n\n**สรุปง่ายๆ:** ถ้าประธานเป็น 'หนึ่ง' กริยาต้องเติม 's' (ยกเว้น I และ You) ถ้าประธานเป็น 'หลาย' กริยาไม่ต้องเติมอะไรเลย",
+    "examples": [
+      {
+        "eng": "The cat sleeps on the sofa.",
+        "thai": "ประธานคือ 'The cat' (แมว 1 ตัว) เป็นเอกพจน์ ดังนั้นกริยา 'sleep' ต้องเติม s เป็น 'sleeps'"
+      },
+      {
+        "eng": "The cats sleep on the sofa.",
+        "thai": "ประธานคือ 'The cats' (แมวหลายตัว) เป็นพหูพจน์ ดังนั้นกริยา 'sleep' ไม่ต้องเติม s"
+      },
+      {
+        "eng": "He is a teacher.",
+        "thai": "ประธานคือ 'He' เป็นเอกพจน์ ดังนั้น Verb to be ที่ใช้คือ 'is'"
+      },
+      {
+        "eng": "They are teachers.",
+        "thai": "ประธานคือ 'They' เป็นพหูพจน์ ดังนั้น Verb to be ที่ใช้คือ 'are'"
+      },
+      {
+        "eng": "My sister has a new car.",
+        "thai": "ประธานคือ 'My sister' (พี่สาว/น้องสาว 1 คน) เป็นเอกพจน์ ดังนั้น Verb to have ที่ใช้คือ 'has'"
+      },
+      {
+        "eng": "My sisters have new cars.",
+        "thai": "ประธานคือ 'My sisters' (พี่สาว/น้องสาวหลายคน) เป็นพหูพจน์ ดังนั้น Verb to have ที่ใช้คือ 'have'"
+      }
+    ],
+    "common_mistakes": "จุดที่คนไทยมักพลาดที่สุดคือ 'ความสับสนเรื่องการเติม s'\n\n1.  **ลืมเติม s ที่กริยา:** เมื่อประธานเป็นเอกพจน์ มักจะลืมเติม s ที่กริยา เช่น พูดว่า 'She go to school.' แทนที่จะเป็น 'She goes to school.' เพราะในภาษาไทยกริยาไม่มีการเปลี่ยนรูปตามประธาน\n\n2.  **เติม s ผิดที่:** สับสนไปเติม s ที่กริยาเมื่อประธานเป็นพหูพจน์ เช่น 'My parents works hard.' ที่ถูกต้องคือ 'My parents work hard.' เพราะจำสับสนระหว่าง s ที่ท้ายคำนามพหูพจน์ กับ s ที่ท้ายกริยาเอกพจน์\n\n**วิธีจำ:** ให้จำว่า 's' มีได้แค่ที่เดียวในคู่ประธาน-กริยา (ในเบื้องต้น) ถ้าประธานเติม s (เป็นพหูพจน์) กริยาไม่ต้องเติม แต่ถ้าประธานไม่เติม s (เป็นเอกพจน์) กริยาต้องเติม s",
+    "practice_questions": [
+      {
+        "question": "My little brother ___ cartoons every morning.",
+        "options": [
+          "A. watch",
+          "B. watches",
+          "C. are watching",
+          "D. have watch"
+        ],
+        "answer": "B",
+        "explanation": "ประธานคือ 'My little brother' (น้องชาย 1 คน) เป็นเอกพจน์ ดังนั้นกริยาต้องเติม -es เป็น 'watches'"
+      },
+      {
+        "question": "The students ___ their homework in the library.",
+        "options": [
+          "A. do",
+          "B. does",
+          "C. is doing",
+          "D. has do"
+        ],
+        "answer": "A",
+        "explanation": "ประธานคือ 'The students' (นักเรียนหลายคน) เป็นพหูพจน์ ดังนั้นกริยาต้องใช้รูปปกติคือ 'do'"
+      },
+      {
+        "question": "A good cup of coffee ___ my day better.",
+        "options": [
+          "A. make",
+          "B. are making",
+          "C. makes",
+          "D. have made"
+        ],
+        "answer": "C",
+        "explanation": "ประธานคือ 'A good cup of coffee' (กาแฟดีๆ 1 แก้ว) เป็นเอกพจน์ ดังนั้นกริยา 'make' ต้องเติม s เป็น 'makes'"
+      },
+      {
+        "question": "Elephants ___ large ears.",
+        "options": [
+          "A. has",
+          "B. have",
+          "C. is having",
+          "D. haves"
+        ],
+        "answer": "B",
+        "explanation": "ประธานคือ 'Elephants' (ช้างหลายตัว) เป็นพหูพจน์ ดังนั้น Verb to have ที่ใช้คือ 'have'"
+      },
+      {
+        "question": "She ___ a very talented singer.",
+        "options": [
+          "A. are",
+          "B. be",
+          "C. am",
+          "D. is"
+        ],
+        "answer": "D",
+        "explanation": "ประธานคือ 'She' เป็นเอกพจน์บุรุษที่ 3 ดังนั้น Verb to be ที่ถูกต้องคือ 'is'"
+      },
+      {
+        "question": "You and I ___ on the same team.",
+        "options": [
+          "A. is",
+          "B. am",
+          "C. are",
+          "D. be"
+        ],
+        "answer": "C",
+        "explanation": "ประธานคือ 'You and I' (คุณและฉัน) ซึ่งรวมกันแล้วมี 2 คน เป็นพหูพจน์ ดังนั้น Verb to be ที่ใช้คือ 'are'"
+      },
+      {
+        "question": "The sun ___ in the east.",
+        "options": [
+          "A. rises",
+          "B. rise",
+          "C. are rising",
+          "D. have risen"
+        ],
+        "answer": "A",
+        "explanation": "ประธานคือ 'The sun' (ดวงอาทิตย์) มีเพียงหนึ่งเดียว เป็นเอกพจน์ ดังนั้นกริยา 'rise' ต้องเติม s เป็น 'rises'"
+      },
+      {
+        "question": "Those colorful birds ___ beautifully.",
+        "options": [
+          "A. sings",
+          "B. sing",
+          "C. is singing",
+          "D. has sung"
+        ],
+        "answer": "B",
+        "explanation": "ประธานคือ 'Those colorful birds' (นกสีสันสดใสเหล่านั้น) เป็นพหูพจน์ ดังนั้นกริยาต้องใช้รูปปกติคือ 'sing'"
+      },
+      {
+        "question": "Our new English teacher ___ very kind.",
+        "options": [
+          "A. are",
+          "B. seem",
+          "C. seems",
+          "D. have seemed"
+        ],
+        "answer": "C",
+        "explanation": "ประธานคือ 'Our new English teacher' (ครูสอนภาษาอังกฤษคนใหม่ 1 คน) เป็นเอกพจน์ ดังนั้นกริยา 'seem' ต้องเติม s เป็น 'seems'"
+      },
+      {
+        "question": "Both of my parents ___ glasses.",
+        "options": [
+          "A. wears",
+          "B. is wearing",
+          "C. wear",
+          "D. has worn"
+        ],
+        "answer": "C",
+        "explanation": "ประธานคือ 'Both of my parents' (พ่อแม่ของฉันทั้งสองคน) เป็นพหูพจน์ ดังนั้นกริยาต้องใช้รูปปกติคือ 'wear'"
+      }
+    ]
+  },
+  {
+    "id": "12_2",
+    "title": "12.2 Agreement with Indefinite Pronouns (ทุกคน, บางคน เช่น Everyone is...)",
+    "explanation": "Indefinite Pronouns (สรรพนามไม่ชี้เฉพาะ) คือคำสรรพนามที่ใช้พูดถึงคน สัตว์ สิ่งของ หรือสถานที่แบบทั่วๆ ไป ไม่ได้เจาะจงว่าเป็นใครหรืออันไหน เช่น everyone, someone, anything, nobody เป็นต้น\n\nการใช้ Verb ให้สอดคล้องกับประธานที่เป็น Indefinite Pronoun เป็นเรื่องสำคัญมาก และมีกฎที่ต้องจำง่ายๆ คือ:\n\n**Indefinite Pronouns ส่วนใหญ่เป็น 'เอกพจน์' เสมอ**\nคำเหล่านี้แม้จะมีความหมายเหมือนเป็นพหูพจน์ในภาษาไทย (เช่น everyone = ทุกคน) แต่ในไวยากรณ์ภาษาอังกฤษจะถือว่าเป็นประธานเอกพจน์ (Singular) และต้องใช้กับ Verb เอกพจน์ (เช่น is, was, has, does, หรือ Verb ที่เติม -s/-es) เสมอ\n\nกลุ่มคำที่ต้องจำให้แม่น:\n- กลุ่ม -one: everyone, someone, anyone, no one\n- กลุ่ม -body: everybody, somebody, anybody, nobody\n- กลุ่ม -thing: everything, something, anything, nothing\n- คำอื่นๆ: each, either, neither, another, one\n\n**หลักการจำง่ายๆ:** ถ้าเห็นคำเหล่านี้เป็นประธานของประโยค ให้ใช้กริยาสำหรับเอกพจน์ทันที",
+    "examples": [
+      {
+        "eng": "Everyone is excited about the trip.",
+        "thai": "ทุกคนตื่นเต้นกับทริปนี้ (ประธานคือ Everyone ถือเป็นเอกพจน์ จึงใช้ is)"
+      },
+      {
+        "eng": "Somebody has forgotten their lunch.",
+        "thai": "มีบางคนลืมอาหารกลางวันไว้ (ประธานคือ Somebody ถือเป็นเอกพจน์ จึงใช้ has)"
+      },
+      {
+        "eng": "Nothing seems impossible.",
+        "thai": "ไม่มีอะไรที่ดูเหมือนจะเป็นไปไม่ได้ (ประธานคือ Nothing ถือเป็นเอกพจน์ จึงใช้ seems เติม s)"
+      },
+      {
+        "eng": "Each of the students has a different idea.",
+        "thai": "นักเรียนแต่ละคนมีความคิดที่แตกต่างกัน (ประธานที่แท้จริงคือ Each ไม่ใช่ students ดังนั้นจึงใช้ has)"
+      },
+      {
+        "eng": "No one knows the answer.",
+        "thai": "ไม่มีใครรู้คำตอบ (ประธานคือ No one ถือเป็นเอกพจน์ จึงใช้ knows เติม s)"
+      }
+    ],
+    "common_mistakes": "จุดที่คนไทยมักทำผิดบ่อยที่สุด คือการแปลความหมายจากภาษาไทยโดยตรง\n\n1.  **สับสนกับคำว่า 'ทุกคน'**: คำว่า 'Everyone' หรือ 'Everybody' แปลว่า 'ทุกคน' ซึ่งในความรู้สึกของคนไทยดูเหมือนเป็นคนหลายคน (พหูพจน์) จึงเผลอไปใช้กริยาพหูพจน์ตาม\n    -   ผิด: Everyone are happy. ❌\n    -   ถูก: Everyone is happy. ✅\n\n2.  **สับสนกับโครงสร้าง 'Each of the + Noun พหูพจน์'**: เมื่อเห็นคำนามพหูพจน์ (เช่น students, books, cars) อยู่ใกล้กริยา ก็จะเผลอใช้กริยาพหูพจน์ตามคำนามนั้น โดยลืมไปว่าประธานที่แท้จริงของประโยคคือ 'Each' ซึ่งเป็นเอกพจน์เสมอ\n    -   ผิด: Each of the candidates speak for five minutes. ❌\n    -   ถูก: Each of the candidates speaks for five minutes. ✅ (ประธานคือ Each ไม่ใช่ candidates)",
+    "practice_questions": [
+      {
+        "question": "Everyone in the classroom ___ paying attention to the teacher.",
+        "options": [
+          "A. are",
+          "B. is",
+          "C. were",
+          "D. have"
+        ],
+        "answer": "B",
+        "explanation": "ประธานของประโยคคือ 'Everyone' ซึ่งเป็น Indefinite Pronoun ที่ถือเป็นเอกพจน์เสมอ ดังนั้นจึงต้องใช้กริยาเอกพจน์คือ 'is'"
+      },
+      {
+        "question": "Somebody ___ left a wallet on the table.",
+        "options": [
+          "A. have",
+          "B. has",
+          "C. are",
+          "D. were"
+        ],
+        "answer": "B",
+        "explanation": "ประธาน 'Somebody' ถือเป็นเอกพจน์ ดังนั้นกริยาช่วยที่ถูกต้องใน Present Perfect Tense คือ 'has'"
+      },
+      {
+        "question": "Everything ___ perfectly fine until you arrived.",
+        "options": [
+          "A. was",
+          "B. were",
+          "C. are",
+          "D. have been"
+        ],
+        "answer": "A",
+        "explanation": "ประธาน 'Everything' เป็นเอกพจน์เสมอ และประโยคกล่าวถึงอดีต (until you arrived) จึงต้องใช้กริยาเอกพจน์ในรูปอดีตคือ 'was'"
+      },
+      {
+        "question": "Each of my brothers ___ his own car.",
+        "options": [
+          "A. own",
+          "B. owns",
+          "C. are owning",
+          "D. have"
+        ],
+        "answer": "B",
+        "explanation": "ประธานที่แท้จริงของประโยคคือ 'Each' ไม่ใช่ 'brothers' ดังนั้นจึงต้องใช้กริยาเอกพจน์ในรูป Present Simple คือ 'owns' (เติม s)"
+      },
+      {
+        "question": "Does anybody ___ where the nearest post office is?",
+        "options": [
+          "A. know",
+          "B. knows",
+          "C. knew",
+          "D. knowing"
+        ],
+        "answer": "A",
+        "explanation": "แม้ว่า 'anybody' จะเป็นเอกพจน์ แต่ในประโยคคำถามที่มี 'Does' อยู่แล้ว กริยาแท้ที่ตามมาต้องอยู่ในรูปพื้นฐาน (Base Form) ไม่ต้องเติม s ดังนั้น 'know' จึงเป็นคำตอบที่ถูกต้อง"
+      },
+      {
+        "question": "Nothing ___ more important than family.",
+        "options": [
+          "A. are",
+          "B. were",
+          "C. is",
+          "D. have"
+        ],
+        "answer": "C",
+        "explanation": "ประธาน 'Nothing' เป็น Indefinite Pronoun ที่เป็นเอกพจน์เสมอ จึงต้องใช้กับกริยา 'is'"
+      },
+      {
+        "question": "No one in this office ___ how to fix the coffee machine.",
+        "options": [
+          "A. seem to know",
+          "B. seem to knows",
+          "C. seems to know",
+          "D. are seeming to know"
+        ],
+        "answer": "C",
+        "explanation": "ประธานคือ 'No one' ซึ่งเป็นเอกพจน์ กริยาแท้คือ 'seems' จึงต้องเติม s ส่วน 'know' ที่ตามหลัง to เป็น infinitive จึงไม่ต้องเปลี่ยนรูป"
+      },
+      {
+        "question": "Neither of the answers ___ correct.",
+        "options": [
+          "A. are",
+          "B. is",
+          "C. have been",
+          "D. were"
+        ],
+        "answer": "B",
+        "explanation": "ประธานของประโยคคือ 'Neither' (หมายถึง ไม่ใช่ทั้งสองอย่าง) ซึ่งถือเป็นเอกพจน์ จึงต้องใช้กริยา 'is'"
+      },
+      {
+        "question": "Anything ___ possible if you work hard.",
+        "options": [
+          "A. are",
+          "B. were",
+          "C. is",
+          "D. have been"
+        ],
+        "answer": "C",
+        "explanation": "ประธาน 'Anything' เป็นสรรพนามไม่ชี้เฉพาะที่ถือเป็นเอกพจน์เสมอ ดังนั้นจึงต้องใช้กับกริยา 'is'"
+      },
+      {
+        "question": "Everybody who signed up for the event ___ an email confirmation.",
+        "options": [
+          "A. receive",
+          "B. receiving",
+          "C. have received",
+          "D. has received"
+        ],
+        "answer": "D",
+        "explanation": "ประธานหลักของประโยคคือ 'Everybody' ซึ่งเป็นเอกพจน์ ในโครงสร้าง Present Perfect Tense จึงต้องใช้ 'has' ตามด้วยกริยาช่องที่ 3 (received)"
+      }
+    ]
+  },
+  {
+    "id": "12_3",
+    "title": "12.3 Agreement with \"And\" / \"Or\" (การใช้ and, or, either...or, neither...nor)",
+    "explanation": "กฎข้อนี้เกี่ยวข้องกับการเลือกใช้ Verb (คำกริยา) ให้สอดคล้องกับ Subject (ประธาน) ที่ถูกเชื่อมด้วยคำเชื่อมต่างๆ ซึ่งมีหลักการที่แตกต่างกันไป และเป็นจุดที่ผู้เรียนมักสับสนบ่อยครั้ง\n\n**1. การใช้ 'And'**\nโดยทั่วไป เมื่อประธาน 2 ตัว (หรือมากกว่า) ถูกเชื่อมด้วย 'and' เราจะมองว่าเป็นพหูพจน์ และต้องใช้ Verb รูปพหูพจน์ (Verb ไม่เติม s/es, is -> are, has -> have, was -> were)\n\n*ข้อยกเว้นที่สำคัญ:*\n   - **เมื่อประธาน 2 ตัวที่เชื่อมด้วย 'and' หมายถึงสิ่งเดียวกัน, เป็นหน่วยเดียวกัน, หรือเป็นของที่ใช้คู่กัน** จะถือว่าเป็นประธานเอกพจน์ และใช้ Verb รูปเอกพจน์\n   - **เมื่อประธาน 2 ตัวที่เชื่อมด้วย 'and' หมายถึง 'คนเดียวกัน'** จะถือว่าเป็นประธานเอกพจน์ (สังเกตจากการใช้ article เช่น a, an, the หรือ possessive adjective เช่น my, his, her เพียงตัวเดียวที่หน้าประธานตัวแรก)\n   - **เมื่อมี Each หรือ Every นำหน้าประธาน** แม้จะเชื่อมด้วย 'and' ก็ตาม ให้ถือว่าเป็นประธานเอกพจน์เสมอ และใช้ Verb รูปเอกพจน์\n\n**2. การใช้ 'Or' / 'Either...or' / 'Neither...nor'**\nเมื่อประธานถูกเชื่อมด้วยคำเหล่านี้ ให้ยึดหลัก **'Proximity Rule'** หรือ **'กฎของความใกล้ชิด'** คือ **ให้ผัน Verb ตามประธานตัวที่อยู่ใกล้ Verb ที่สุด**\n\n- ถ้าประธานตัวที่อยู่ใกล้ Verb เป็นเอกพจน์ -> ใช้ Verb เอกพจน์\n- ถ้าประธานตัวที่อยู่ใกล้ Verb เป็นพหูพจน์ -> ใช้ Verb พหูพจน์",
+    "examples": [
+      {
+        "eng": "A cat and a dog are playing outside.",
+        "thai": "แมวหนึ่งตัวและสุนัขหนึ่งตัวกำลังเล่นอยู่ข้างนอก (Cat และ Dog เป็นสัตว์ 2 ตัว ถือเป็นพหูพจน์ ใช้ are)"
+      },
+      {
+        "eng": "Bread and butter is my favorite breakfast.",
+        "thai": "ขนมปังและเนยเป็นอาหารเช้าที่ฉันชอบ (Bread and butter ถือเป็น 'ของคู่กัน' หรืออาหาร 1 อย่าง จึงใช้ is)"
+      },
+      {
+        "eng": "My best friend and advisor is coming to see me.",
+        "thai": "เพื่อนสนิทและที่ปรึกษาของฉันกำลังจะมาหาฉัน (ใช้ my แค่ครั้งเดียว แสดงว่า 'เพื่อนสนิท' และ 'ที่ปรึกษา' คือคนเดียวกัน จึงใช้ is)"
+      },
+      {
+        "eng": "Every man and woman is expected to contribute.",
+        "thai": "ผู้ชายและผู้หญิงทุกคนถูกคาดหวังให้มีส่วนร่วม (มี Every นำหน้า แม้จะเชื่อมด้วย and ก็ต้องใช้ Verb เอกพจน์ คือ is)"
+      },
+      {
+        "eng": "Either my mother or my sisters are going to the market.",
+        "thai": "ไม่แม่ของฉันก็พี่สาว/น้องสาวของฉันจะไปตลาด (ประธานที่ใกล้ Verb ที่สุดคือ sisters เป็นพหูพจน์ จึงใช้ are)"
+      },
+      {
+        "eng": "Neither the students nor the teacher knows the answer.",
+        "thai": "ทั้งนักเรียนและคุณครูต่างก็ไม่รู้คำตอบ (ประธานที่ใกล้ Verb ที่สุดคือ teacher เป็นเอกพจน์ จึงใช้ knows)"
+      },
+      {
+        "eng": "Is the manager or the employees working late today?",
+        "thai": "ผู้จัดการหรือพนักงานทำงานดึกในวันนี้? (ในประโยคคำถาม เราจะดูประธานที่ตามหลัง Verb ในที่นี้คือ the manager ซึ่งเป็นเอกพจน์ จึงใช้ Is ขึ้นต้น)"
+      }
+    ],
+    "common_mistakes": "- **เห็น 'and' แล้วใช้ Verb พหูพจน์เสมอ:** คนไทยมักจำกฎพื้นฐานได้ว่า 'and' เชื่อมประธาน 2 ตัว ต้องใช้ Verb พหูพจน์ แต่ลืมดูข้อยกเว้น เช่น 'Macaroni and cheese is my comfort food.' (มักกะโรนีและชีสเป็นอาหารอย่างเดียว) หลายคนมักผิดเป็น 'are' หรือ 'My coach and mentor helps me a lot.' (โค้ชและพี่เลี้ยงคือคนเดียวกัน) หลายคนมักผิดเป็น 'help'\n- **สับสนกับกฎของ or/nor:** เมื่อเจอประโยค 'Neither the teacher nor the students...' บางคนอาจสับสนว่าจะยึดประธานตัวไหนเป็นหลัก หรือเผลอใช้ Verb พหูพจน์ไปเลยเพราะเห็นว่ามีประธาน 2 ตัว ต้องจำให้แม่นว่าให้ดูตัวที่ 'ใกล้' Verb ที่สุดเท่านั้น ในกรณีนี้คือ students (พหูพจน์) ดังนั้น Verb ต้องเป็นรูปพหูพจน์ เช่น '...are happy.' ไม่ใช่ 'is happy.'",
+    "practice_questions": [
+      {
+        "question": "The president and CEO of the company ___ arriving tomorrow.",
+        "options": [
+          "A. is",
+          "B. are",
+          "C. were",
+          "D. have"
+        ],
+        "answer": "A",
+        "explanation": "ประธานคือ The president and CEO ซึ่งหมายถึงคนๆ เดียวกัน (สังเกตจาก 'The' ที่มีแค่ตัวเดียวข้างหน้า) ดังนั้นจึงเป็นประธานเอกพจน์ ต้องใช้ Verb เอกพจน์คือ 'is'"
+      },
+      {
+        "question": "Either the cats or the dog ___ responsible for this mess.",
+        "options": [
+          "A. is",
+          "B. are",
+          "C. were",
+          "D. seem"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้ใช้ Either...or... ให้ยึดตามประธานตัวที่อยู่ใกล้ Verb ที่สุด (Proximity Rule) ซึ่งก็คือ 'the dog' เป็นเอกพจน์ จึงต้องใช้ 'is'"
+      },
+      {
+        "question": "Fish and chips ___ a popular dish in the UK.",
+        "options": [
+          "A. are",
+          "B. has been",
+          "C. is",
+          "D. were"
+        ],
+        "answer": "C",
+        "explanation": "Fish and chips (ปลาทอดกับมันฝรั่งทอด) ถือเป็นชื่ออาหาร 1 อย่าง เป็นหน่วยเดียวกัน ดังนั้นจึงเป็นประธานเอกพจน์ ใช้ 'is'"
+      },
+      {
+        "question": "Neither my parents nor my brother ___ to play video games.",
+        "options": [
+          "A. like",
+          "B. likes",
+          "C. are liking",
+          "D. have liked"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้ใช้ Neither...nor... ให้ยึดตามประธานตัวที่อยู่ใกล้ Verb ที่สุด ซึ่งก็คือ 'my brother' เป็นเอกพจน์บุรุษที่ 3 ดังนั้น Verb ต้องเติม s คือ 'likes'"
+      },
+      {
+        "question": "Each table and chair ___ to be cleaned before the event.",
+        "options": [
+          "A. needs",
+          "B. need",
+          "C. are needing",
+          "D. have"
+        ],
+        "answer": "A",
+        "explanation": "เมื่อมีคำว่า 'Each' หรือ 'Every' นำหน้า แม้ประธานจะเชื่อมด้วย and ก็ตาม ให้ถือว่าเป็นประธานเอกพจน์เสมอ จึงต้องใช้ 'needs'"
+      },
+      {
+        "question": "Your patience and kindness ___ greatly appreciated.",
+        "options": [
+          "A. is",
+          "B. are",
+          "C. has",
+          "D. was"
+        ],
+        "answer": "B",
+        "explanation": "Patience (ความอดทน) และ kindness (ความเมตตา) เป็นคุณสมบัติ 2 อย่างที่แยกจากกัน ถือเป็นประธานพหูพจน์ จึงต้องใช้ 'are'"
+      },
+      {
+        "question": "At the shelter, a stray cat or several dogs ___ always waiting by the door.",
+        "options": [
+          "A. is",
+          "B. has been",
+          "C. are",
+          "D. was"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้ใช้ or ให้ยึดตามประธานตัวที่อยู่ใกล้ Verb ที่สุด ซึ่งก็คือ 'several dogs' เป็นพหูพจน์ จึงต้องใช้ 'are'"
+      },
+      {
+        "question": "The rhythm and blues ___ its origins in African-American communities.",
+        "options": [
+          "A. has",
+          "B. have",
+          "C. are having",
+          "D. is"
+        ],
+        "answer": "A",
+        "explanation": "'Rhythm and blues' (R&B) เป็นชื่อแนวเพลงประเภทหนึ่ง ถือเป็นหน่วยเดียวกัน ดังนั้นจึงเป็นประธานเอกพจน์ และใช้ 'has'"
+      },
+      {
+        "question": "Neither the map nor the compasses ___ working correctly.",
+        "options": [
+          "A. is",
+          "B. was",
+          "C. are",
+          "D. has been"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้ใช้ Neither...nor... ให้ยึดตามประธานตัวที่อยู่ใกล้ Verb ที่สุด ซึ่งก็คือ 'the compasses' (เข็มทิศหลายอัน) เป็นพหูพจน์ จึงต้องใช้ 'are'"
+      },
+      {
+        "question": "My sister or my parents usually ___ me up from school.",
+        "options": [
+          "A. pick",
+          "B. picks",
+          "C. is picking",
+          "D. has picked"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้ใช้ or ให้ยึดตามประธานตัวที่อยู่ใกล้ Verb ที่สุด ซึ่งก็คือ 'my parents' เป็นพหูพจน์ จึงต้องใช้ Verb รูปปกติ ไม่เติม s คือ 'pick'"
+      }
+    ]
+  },
+  {
+    "id": "12_4",
+    "title": "12.4 Summary: Subject-Verb Agreement (สรุป S-V Agreement + 50 Exercises)",
+    "explanation": "Subject-Verb Agreement คือกฎที่ว่าด้วยการผันกริยา (Verb) ให้สอดคล้องกับประธาน (Subject) ของประโยค ซึ่งเป็นหัวใจสำคัญของไวยากรณ์ภาษาอังกฤษ\n\n**หลักการพื้นฐานที่สุด:**\n1.  **ประธานเอกพจน์ (Singular Subject)**: ประธานที่มีเพียงหนึ่งเดียว (เช่น he, she, it, a cat, the book) ต้องใช้กับ **กริยาเอกพจน์ (Singular Verb)** ซึ่งมักจะลงท้ายด้วย -s หรือ -es (เช่น goes, works, is, has)\n2.  **ประธานพหูพจน์ (Plural Subject)**: ประธานที่มีมากกว่าหนึ่ง (เช่น they, we, cats, the books) ต้องใช้กับ **กริยาพหูพจน์ (Plural Verb)** ซึ่งเป็นกริยารูปปกติ ไม่เติม -s/-es (เช่น go, work, are, have)\n\n**สรุปกฎสำคัญที่ต้องจำ:**\n*   **ประธานเชื่อมด้วย 'and'**: โดยทั่วไปถือเป็นพหูพจน์ ใช้กริยาพหูพจน์ (เช่น 'You and I are friends.') ยกเว้นกรณีที่สื่อถึงสิ่งเดียวกัน (เช่น 'Bread and butter is my favorite breakfast.')\n*   **ประธานเชื่อมด้วย 'or', 'nor', 'either...or', 'neither...nor'**: กริยาจะผันตามประธานตัวที่อยู่ **ใกล้ที่สุด** (เช่น 'Neither my brothers nor my sister is coming.')\n*   **คำสรรพนามไม่ชี้เฉพาะ (Indefinite Pronouns)**: \n    *   **เอกพจน์เสมอ**: each, every, everyone, someone, anybody, no one, etc. (เช่น 'Everyone knows the answer.')\n    *   **พหูพจน์เสมอ**: both, few, many, several (เช่น 'Many were invited.')\n    *   **เป็นได้ทั้งเอกพจน์และพหูพจน์**: all, any, most, none, some ขึ้นอยู่กับคำนามที่ตามหลังในวลี 'of...' (เช่น 'Some of the cake is gone.' vs 'Some of the apples are rotten.')\n*   **คำนามกลุ่ม (Collective Nouns)**: เช่น team, family, committee, group ถ้ามองเป็น **หน่วยเดียว** ใช้กริยาเอกพจน์ แต่ถ้ามองถึง **สมาชิกแต่ละคน** ใช้กริยาพหูพจน์ (เช่น 'The team is winning.' vs 'The team are arguing among themselves.')\n*   **วลีคั่นกลางประธานกับกริยา**: ไม่ต้องสนใจวลีที่มาคั่นกลาง เช่น along with, as well as, including, together with ให้ผันกริยาตามประธานหลักตัวหน้าสุด (เช่น 'The politician, along with the newsmen, is expected shortly.')\n*   **ประโยคที่ขึ้นต้นด้วย 'There' หรือ 'Here'**: ประธานที่แท้จริงจะอยู่ **หลัง** กริยา ให้ผันกริยาตามประธานตัวนั้น (เช่น 'There is a book on the table.' vs 'There are many books on the table.')\n*   **Gerunds (-ing) และ Infinitives (to + V1) เป็นประธาน**: ถือเป็นเอกพจน์เสมอ (เช่น 'Swimming is good exercise.')\n*   **'A number of' vs 'The number of'**: 'A number of' + นามพหูพจน์ + **กริยาพหูพจน์** (แปลว่า 'จำนวนหนึ่ง') / 'The number of' + นามพหูพจน์ + **กริยาเอกพจน์** (แปลว่า 'จำนวนของ...')",
+    "examples": [
+      {
+        "eng": "The dog barks loudly.",
+        "thai": "ประธานเอกพจน์ (The dog) + กริยาเอกพจน์ (barks)"
+      },
+      {
+        "eng": "The dogs bark loudly.",
+        "thai": "ประธานพหูพจน์ (The dogs) + กริยาพหูพจน์ (bark)"
+      },
+      {
+        "eng": "Either my shoes or your coat is always on the floor.",
+        "thai": "เชื่อมด้วย 'or' กริยา (is) ผันตามประธานตัวที่ใกล้ที่สุด (coat)"
+      },
+      {
+        "eng": "The list of items is on the desk.",
+        "thai": "ประธานหลักคือ 'The list' (เอกพจน์) ไม่ใช่ 'items' ดังนั้นใช้กริยา 'is'"
+      },
+      {
+        "eng": "There are two reasons for this.",
+        "thai": "ขึ้นต้นด้วย 'There' กริยา (are) ผันตามประธานที่ตามมา (two reasons)"
+      }
+    ],
+    "common_mistakes": "- **ลืมเติม s/es ที่กริยา**: คนไทยมักจะลืมเติม s/es หลังกริยาเมื่อประธานเป็นเอกพจน์บุรุษที่ 3 เช่น พูดว่า 'He go to school.' แทนที่จะเป็น 'He goes to school.'\n- **สับสนกับคำนามพหูพจน์ที่อยู่ใกล้กริยา**: เมื่อมีวลีมาคั่นกลางระหว่างประธานกับกริยา มักจะเผลอผันกริยาตามคำนามที่อยู่ใกล้ที่สุดแทนที่จะเป็นประธานหลัก เช่น 'One of the students are...' ที่ถูกต้องคือ 'One of the students is...' เพราะประธานคือ 'One'\n- **ใช้ There is/are ผิด**: สับสนและใช้ 'There is' กับประธานพหูพจน์ เพราะติดปาก เช่น 'There is many people.' ที่ถูกต้องคือ 'There are many people.'\n- **ไม่แน่ใจกับ Indefinite Pronouns**: มักจะคิดว่าคำอย่าง everyone, everybody เป็นพหูพจน์ แต่จริงๆ แล้วเป็นเอกพจน์เสมอ และต้องใช้กับกริยาเอกพจน์ (Everyone loves ice cream.)",
+    "practice_questions": [
+      {
+        "question": "The cat _______ on the mat.",
+        "options": [
+          "A. sit",
+          "B. sits",
+          "C. are sitting",
+          "D. have sat"
+        ],
+        "answer": "B",
+        "explanation": "ประธาน 'The cat' เป็นเอกพจน์บุรุษที่ 3 ดังนั้นกริยาต้องเติม -s"
+      },
+      {
+        "question": "My friends and I _______ to the cinema every weekend.",
+        "options": [
+          "A. goes",
+          "B. go",
+          "C. is going",
+          "D. has gone"
+        ],
+        "answer": "B",
+        "explanation": "ประธาน 'My friends and I' เป็นพหูพจน์ จึงใช้กริยารูปปกติ 'go'"
+      },
+      {
+        "question": "Either my mother or my father _______ coming to the meeting.",
+        "options": [
+          "A. are",
+          "B. is",
+          "C. be",
+          "D. were"
+        ],
+        "answer": "B",
+        "explanation": "เมื่อประธานเชื่อมด้วย 'or' กริยาจะผันตามประธานตัวที่ใกล้ที่สุดคือ 'my father' (เอกพจน์) จึงใช้ 'is'"
+      },
+      {
+        "question": "The dog, as well as the cats, _______ hungry.",
+        "options": [
+          "A. are",
+          "B. were",
+          "C. is",
+          "D. have"
+        ],
+        "answer": "C",
+        "explanation": "ประธานหลักคือ 'The dog' วลี 'as well as the cats' เป็นส่วนขยายไม่ต้องนำมาพิจารณา ดังนั้นกริยาต้องเป็นเอกพจน์ 'is'"
+      },
+      {
+        "question": "There _______ many reasons why you should study.",
+        "options": [
+          "A. is",
+          "B. was",
+          "C. are",
+          "D. has"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคขึ้นต้นด้วย 'There' กริยาจะผันตามประธานที่ตามมาคือ 'many reasons' (พหูพจน์) จึงใช้ 'are'"
+      },
+      {
+        "question": "Each of the students _______ responsible for doing his or her work.",
+        "options": [
+          "A. are",
+          "B. were",
+          "C. is",
+          "D. have"
+        ],
+        "answer": "C",
+        "explanation": "คำว่า 'Each' เป็น Indefinite Pronoun ที่เป็นเอกพจน์เสมอ ดังนั้นกริยาต้องเป็น 'is'"
+      },
+      {
+        "question": "The number of days in February _______ 28 or 29.",
+        "options": [
+          "A. is",
+          "B. are",
+          "C. have",
+          "D. has"
+        ],
+        "answer": "A",
+        "explanation": "วลี 'The number of' จะตามด้วยกริยาเอกพจน์เสมอ"
+      },
+      {
+        "question": "A number of students _______ waiting outside.",
+        "options": [
+          "A. is",
+          "B. was",
+          "C. are",
+          "D. has been"
+        ],
+        "answer": "C",
+        "explanation": "วลี 'A number of' จะตามด้วยกริยาพหูพจน์เสมอ"
+      },
+      {
+        "question": "Politics _______ a complicated subject.",
+        "options": [
+          "A. are",
+          "B. were",
+          "C. is",
+          "D. have been"
+        ],
+        "answer": "C",
+        "explanation": "คำนามบางคำที่ลงท้ายด้วย -s เช่น politics, news, mathematics ถือเป็นเอกพจน์"
+      },
+      {
+        "question": "The scissors _______ on the table.",
+        "options": [
+          "A. is",
+          "B. are",
+          "C. was",
+          "D. has"
+        ],
+        "answer": "B",
+        "explanation": "คำนามที่เป็นของคู่กัน เช่น scissors, trousers, glasses ถือเป็นพหูพจน์"
+      },
+      {
+        "question": "Neither the players nor the coach _______ satisfied with the result.",
+        "options": [
+          "A. are",
+          "B. is",
+          "C. were",
+          "D. was"
+        ],
+        "answer": "D",
+        "explanation": "ประธานเชื่อมด้วย 'nor' กริยาผันตามประธานตัวที่ใกล้ที่สุดคือ 'the coach' (เอกพจน์) และบริบทอาจเป็นอดีตจึงใช้ 'was'"
+      },
+      {
+        "question": "All of the pie _______ disappeared.",
+        "options": [
+          "A. have",
+          "B. has",
+          "C. are",
+          "D. were"
+        ],
+        "answer": "B",
+        "explanation": "'All of' ตามด้วยนามนับไม่ได้ 'pie' จึงใช้กริยาเอกพจน์ 'has'"
+      },
+      {
+        "question": "All of the cookies _______ been eaten.",
+        "options": [
+          "A. have",
+          "B. has",
+          "C. is",
+          "D. was"
+        ],
+        "answer": "A",
+        "explanation": "'All of' ตามด้วยนามพหูพจน์ 'cookies' จึงใช้กริยาพหูพจน์ 'have'"
+      },
+      {
+        "question": "The committee _______ on the budget.",
+        "options": [
+          "A. agrees",
+          "B. agree",
+          "C. are agreeing",
+          "D. have agree"
+        ],
+        "answer": "A",
+        "explanation": "Collective noun 'committee' ในที่นี้หมายถึงกลุ่มก้อนเดียวกัน ทำสิ่งเดียวกัน จึงใช้กริยาเอกพจน์ 'agrees'"
+      },
+      {
+        "question": "The committee _______ unable to agree on a budget.",
+        "options": [
+          "A. is",
+          "B. are",
+          "C. was",
+          "D. has"
+        ],
+        "answer": "B",
+        "explanation": "ในที่นี้ 'committee' สมาชิกมีความเห็นต่างกัน (unable to agree) จึงมองเป็นรายบุคคล ใช้กริยาพหูพจน์ 'are'"
+      },
+      {
+        "question": "Here _______ the books you requested.",
+        "options": [
+          "A. is",
+          "B. are",
+          "C. was",
+          "D. has"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคขึ้นต้นด้วย 'Here' กริยาผันตามประธานที่ตามมาคือ 'the books' (พหูพจน์) จึงใช้ 'are'"
+      },
+      {
+        "question": "Swimming in the ocean _______ my favorite activity.",
+        "options": [
+          "A. are",
+          "B. have been",
+          "C. is",
+          "D. were"
+        ],
+        "answer": "C",
+        "explanation": "เมื่อ Gerund ('Swimming') ทำหน้าที่เป็นประธานของประโยค จะใช้กริยาเอกพจน์"
+      },
+      {
+        "question": "Fifty dollars _______ a high price to pay.",
+        "options": [
+          "A. are",
+          "B. seem",
+          "C. is",
+          "D. were"
+        ],
+        "answer": "C",
+        "explanation": "เมื่อพูดถึงจำนวนเงินเป็นก้อนเดียว ถือเป็นเอกพจน์"
+      },
+      {
+        "question": "The news from the Middle East _______ not good.",
+        "options": [
+          "A. are",
+          "B. were",
+          "C. is",
+          "D. have"
+        ],
+        "answer": "C",
+        "explanation": "คำว่า 'news' เป็นนามนับไม่ได้และเป็นเอกพจน์เสมอ"
+      },
+      {
+        "question": "One of my sisters _______ going on a trip to France.",
+        "options": [
+          "A. are",
+          "B. is",
+          "C. were",
+          "D. have"
+        ],
+        "answer": "B",
+        "explanation": "ประธานของประโยคคือ 'One' (หนึ่งคน) ซึ่งเป็นเอกพจน์ ไม่ใช่ 'sisters' ดังนั้นใช้ 'is'"
+      },
+      {
+        "question": "The man with all the birds _______ on my street.",
+        "options": [
+          "A. live",
+          "B. lives",
+          "C. are living",
+          "D. have lived"
+        ],
+        "answer": "B",
+        "explanation": "ประธานหลักคือ 'The man' (เอกพจน์) วลี 'with all the birds' เป็นส่วนขยาย ดังนั้นกริยาต้องเติม -s"
+      },
+      {
+        "question": "The players, as well as the captain, _______ to win.",
+        "options": [
+          "A. wants",
+          "B. want",
+          "C. is wanting",
+          "D. has wanted"
+        ],
+        "answer": "B",
+        "explanation": "ประธานหลักคือ 'The players' (พหูพจน์) วลี 'as well as the captain' ไม่นำมาพิจารณา จึงใช้กริยา 'want'"
+      },
+      {
+        "question": "Nobody _______ the trouble I've seen.",
+        "options": [
+          "A. know",
+          "B. knows",
+          "C. are knowing",
+          "D. have known"
+        ],
+        "answer": "B",
+        "explanation": "'Nobody' เป็น Indefinite Pronoun ที่เป็นเอกพจน์เสมอ จึงใช้กริยา 'knows'"
+      },
+      {
+        "question": "Mathematics _______ John's favorite subject.",
+        "options": [
+          "A. are",
+          "B. is",
+          "C. were",
+          "D. have"
+        ],
+        "answer": "B",
+        "explanation": "ชื่อวิชาที่ลงท้ายด้วย -s เช่น Mathematics, Physics ถือเป็นเอกพจน์"
+      },
+      {
+        "question": "Your pants _______ at the cleaner's.",
+        "options": [
+          "A. is",
+          "B. was",
+          "C. are",
+          "D. has been"
+        ],
+        "answer": "C",
+        "explanation": "คำว่า 'pants' (กางเกง) เป็นคำนามที่เป็นคู่ ถือเป็นพหูพจน์เสมอ"
+      },
+      {
+        "question": "Bread and butter _______ a popular breakfast.",
+        "options": [
+          "A. is",
+          "B. are",
+          "C. were",
+          "D. have"
+        ],
+        "answer": "A",
+        "explanation": "เมื่อ 'Bread and butter' ถูกมองว่าเป็นสิ่งเดียวกัน (อาหารเช้าชนิดหนึ่ง) จะใช้กริยาเอกพจน์"
+      },
+      {
+        "question": "To learn a new language _______ a lot of time and effort.",
+        "options": [
+          "A. require",
+          "B. requires",
+          "C. are requiring",
+          "D. have required"
+        ],
+        "answer": "B",
+        "explanation": "เมื่อ Infinitive phrase ('To learn a new language') ทำหน้าที่เป็นประธาน จะใช้กริยาเอกพจน์"
+      },
+      {
+        "question": "Many a student _______ tried to solve this problem.",
+        "options": [
+          "A. have",
+          "B. has",
+          "C. are",
+          "D. were"
+        ],
+        "answer": "B",
+        "explanation": "สำนวน 'Many a' + นามเอกพจน์ จะตามด้วยกริยาเอกพจน์เสมอ"
+      },
+      {
+        "question": "The police _______ looking for the suspect.",
+        "options": [
+          "A. is",
+          "B. was",
+          "C. are",
+          "D. has"
+        ],
+        "answer": "C",
+        "explanation": "คำว่า 'police' ถึงแม้จะไม่มี -s แต่ถือเป็นคำนามพหูพจน์เสมอ"
+      },
+      {
+        "question": "The flock of birds _______ south for the winter.",
+        "options": [
+          "A. fly",
+          "B. flies",
+          "C. are flying",
+          "D. have flown"
+        ],
+        "answer": "B",
+        "explanation": "ประธานคือ 'The flock' (ฝูง) ซึ่งเป็นเอกพจน์ ไม่ใช่ 'birds' ดังนั้นกริยาต้องเป็น 'flies'"
+      },
+      {
+        "question": "What we need _______ more volunteers.",
+        "options": [
+          "A. are",
+          "B. were",
+          "C. is",
+          "D. have"
+        ],
+        "answer": "C",
+        "explanation": "เมื่อ Noun clause ('What we need') ทำหน้าที่เป็นประธาน จะใช้กริยาเอกพจน์"
+      },
+      {
+        "question": "Some of the sugar _______ on the floor.",
+        "options": [
+          "A. are",
+          "B. were",
+          "C. is",
+          "D. have"
+        ],
+        "answer": "C",
+        "explanation": "'Some of' ตามด้วยนามนับไม่ได้ 'sugar' จึงใช้กริยาเอกพจน์ 'is'"
+      },
+      {
+        "question": "Either of the two answers _______ correct.",
+        "options": [
+          "A. is",
+          "B. are",
+          "C. were",
+          "D. have been"
+        ],
+        "answer": "A",
+        "explanation": "คำว่า 'Either' เมื่อใช้เป็นประธานจะถือเป็นเอกพจน์เสมอ"
+      },
+      {
+        "question": "The jury _______ delivered its verdict.",
+        "options": [
+          "A. have",
+          "B. has",
+          "C. are",
+          "D. were"
+        ],
+        "answer": "B",
+        "explanation": "ในที่นี้ 'jury' (คณะลูกขุน) ทำงานเป็นหน่วยเดียวกันในการตัดสิน จึงใช้กริยาเอกพจน์ 'has'"
+      },
+      {
+        "question": "My family _______ from different parts of Thailand.",
+        "options": [
+          "A. comes",
+          "B. come",
+          "C. is coming",
+          "D. has come"
+        ],
+        "answer": "B",
+        "explanation": "'My family' ในที่นี้หมายถึงสมาชิกแต่ละคน (มาจากคนละที่) จึงใช้กริยาพหูพจน์ 'come'"
+      },
+      {
+        "question": "Measles _______ a contagious disease.",
+        "options": [
+          "A. are",
+          "B. is",
+          "C. were",
+          "D. have"
+        ],
+        "answer": "B",
+        "explanation": "ชื่อโรคบางชนิดที่ลงท้ายด้วย -s เช่น measles (โรคหัด), mumps (โรคคางทูม) ถือเป็นเอกพจน์"
+      },
+      {
+        "question": "The majority of the work _______ been completed.",
+        "options": [
+          "A. has",
+          "B. have",
+          "C. are",
+          "D. were"
+        ],
+        "answer": "A",
+        "explanation": "'Majority of' ตามด้วยนามนับไม่ได้ 'work' จึงใช้กริยาเอกพจน์ 'has'"
+      },
+      {
+        "question": "A pair of jeans _______ in the washing machine.",
+        "options": [
+          "A. are",
+          "B. were",
+          "C. is",
+          "D. have"
+        ],
+        "answer": "C",
+        "explanation": "แม้ว่า 'jeans' จะเป็นพหูพจน์ แต่เมื่อมีคำว่า 'A pair of' นำหน้า ประธานคือ 'pair' ซึ่งเป็นเอกพจน์ จึงใช้ 'is'"
+      },
+      {
+        "question": "Neither you nor I _______ right.",
+        "options": [
+          "A. is",
+          "B. are",
+          "C. am",
+          "D. were"
+        ],
+        "answer": "C",
+        "explanation": "ประธานเชื่อมด้วย 'nor' กริยาจะผันตามประธานตัวที่ใกล้ที่สุดคือ 'I' จึงใช้ 'am'"
+      },
+      {
+        "question": "Every boy and girl _______ a prize.",
+        "options": [
+          "A. receive",
+          "B. receives",
+          "C. are receiving",
+          "D. have received"
+        ],
+        "answer": "B",
+        "explanation": "เมื่อมี 'Every' หรือ 'Each' นำหน้า แม้ประธานจะเชื่อมด้วย 'and' ก็ยังคงใช้กริยาเอกพจน์"
+      },
+      {
+        "question": "Ten kilometers _______ a long way to walk.",
+        "options": [
+          "A. are",
+          "B. were",
+          "C. is",
+          "D. seem"
+        ],
+        "answer": "C",
+        "explanation": "การบอกระยะทางเป็นหน่วยเดียว ถือเป็นเอกพจน์"
+      },
+      {
+        "question": "The Prime Minister, together with his wife, _______ the press cordially.",
+        "options": [
+          "A. greet",
+          "B. greets",
+          "C. are greeting",
+          "D. have greeted"
+        ],
+        "answer": "B",
+        "explanation": "ประธานหลักคือ 'The Prime Minister' (เอกพจน์) วลี 'together with his wife' ไม่นำมาพิจารณา ดังนั้นกริยาต้องเติม -s"
+      },
+      {
+        "question": "None of the students _______ done their homework.",
+        "options": [
+          "A. has",
+          "B. have",
+          "C. is",
+          "D. was"
+        ],
+        "answer": "B",
+        "explanation": "'None of' ตามด้วยนามพหูพจน์ 'students' สามารถใช้ได้ทั้งกริยาเอกพจน์และพหูพจน์ แต่ในภาษาอังกฤษสมัยใหม่นิยมใช้พหูพจน์มากกว่า ('have')"
+      },
+      {
+        "question": "The herd of elephants _______ towards the river.",
+        "options": [
+          "A. is moving",
+          "B. are moving",
+          "C. move",
+          "D. has moved"
+        ],
+        "answer": "A",
+        "explanation": "ประธานคือ 'The herd' (โขลง) ซึ่งเป็นเอกพจน์ ไม่ใช่ 'elephants' จึงใช้กริยาเอกพจน์ 'is moving'"
+      },
+      {
+        "question": "There _______ a problem with the car.",
+        "options": [
+          "A. seem to be",
+          "B. seems to be",
+          "C. are",
+          "D. were"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคคล้ายกับ 'There is' ประธานที่แท้จริงคือ 'a problem' (เอกพจน์) ดังนั้นกริยาต้องเป็น 'seems'"
+      },
+      {
+        "question": "The quality of these apples _______ not very good.",
+        "options": [
+          "A. are",
+          "B. were",
+          "C. is",
+          "D. have"
+        ],
+        "answer": "C",
+        "explanation": "ประธานหลักคือ 'The quality' (คุณภาพ) ซึ่งเป็นเอกพจน์ ไม่ใช่ 'apples' จึงใช้กริยา 'is'"
+      },
+      {
+        "question": "Two-thirds of the city _______ in ruins.",
+        "options": [
+          "A. are",
+          "B. were",
+          "C. is",
+          "D. have"
+        ],
+        "answer": "C",
+        "explanation": "เศษส่วน 'Two-thirds of' ตามด้วยนามนับไม่ได้ 'the city' จึงใช้กริยาเอกพจน์ 'is'"
+      },
+      {
+        "question": "Two-thirds of the students _______ passed the exam.",
+        "options": [
+          "A. has",
+          "B. have",
+          "C. is",
+          "D. was"
+        ],
+        "answer": "B",
+        "explanation": "เศษส่วน 'Two-thirds of' ตามด้วยนามพหูพจน์ 'the students' จึงใช้กริยาพหูพจน์ 'have'"
+      },
+      {
+        "question": "Either the manager or his assistants _______ the keys.",
+        "options": [
+          "A. has",
+          "B. have",
+          "C. is having",
+          "D. was having"
+        ],
+        "answer": "B",
+        "explanation": "ประธานเชื่อมด้วย 'or' กริยาผันตามประธานตัวที่ใกล้ที่สุดคือ 'his assistants' (พหูพจน์) จึงใช้ 'have'"
+      },
+      {
+        "question": "Not only the students but also the teacher _______ looking forward to the field trip.",
+        "options": [
+          "A. are",
+          "B. were",
+          "C. is",
+          "D. have been"
+        ],
+        "answer": "C",
+        "explanation": "ในโครงสร้าง 'Not only... but also...' กริยาจะผันตามประธานตัวที่อยู่ใกล้กว่าคือ 'the teacher' (เอกพจน์) จึงใช้ 'is'"
+      }
+    ]
+  }
+]

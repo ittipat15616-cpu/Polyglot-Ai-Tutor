@@ -1,0 +1,1014 @@
+[
+  {
+    "id": "13_1",
+    "title": "13.1 Some vs. Any (การใช้ในประโยคบอกเล่า ปฏิเสธ คำถาม)",
+    "explanation": "Some และ Any เป็นคำบอกปริมาณ (Quantifiers) ที่ใช้บอกว่ามีบางสิ่งบางอย่างอยู่ แต่ไม่ได้ระบุจำนวนที่แน่นอน ทั้งสองคำนี้ใช้ได้กับทั้งคำนามนับได้พหูพจน์ (Countable Nouns) และคำนามนับไม่ได้ (Uncountable Nouns) แต่มีหลักการใช้ในประโยคต่างกันดังนี้:\n\n1.  **SOME (บ้าง, จำนวนหนึ่ง)**\n    *   **ใช้ในประโยคบอกเล่า (Affirmative Sentences):** ใช้เพื่อบอกว่ามีสิ่งนั้นอยู่จำนวนหนึ่ง\n        *   ใช้กับนามนับได้พหูพจน์: I have **some** friends in London.\n        *   ใช้กับนามนับไม่ได้: I need **some** water.\n\n2.  **ANY (บ้างไหม, เลย)**\n    *   **ใช้ในประโยคปฏิเสธ (Negative Sentences):** ใช้เพื่อบอกว่า 'ไม่มีเลย'\n        *   ใช้กับนามนับได้พหูพจน์: I don't have **any** pets.\n        *   ใช้กับนามนับไม่ได้: There isn't **any** sugar left.\n    *   **ใช้ในประโยคคำถาม (Interrogative Sentences):** ใช้เพื่อถามว่า 'มีบ้างไหม?'\n        *   ใช้กับนามนับได้พหูพจน์: Do you have **any** brothers?\n        *   ใช้กับนามนับไม่ได้: Is there **any** milk?\n\n**ข้อยกเว้นที่สำคัญ (Exceptions):**\n*   **ใช้ Some ในประโยคคำถาม:** เมื่อเป็นคำถามเชิงเสนอ (offers) หรือร้องขอ (requests) และเราคาดหวังคำตอบว่า 'Yes'\n    *   เสนอ: Would you like **some** coffee? (รับกาแฟหน่อยไหมครับ?)\n    *   ร้องขอ: Can I have **some** information, please? (ขอข้อมูลหน่อยได้ไหมครับ?)\n\n*   **ใช้ Any ในประโยคบอกเล่า:** เมื่อ Any มีความหมายว่า 'อันไหนก็ได้', 'ใครก็ได้', 'อะไรก็ได้' (doesn't matter which/who/what) มักจะใช้เพื่อเน้นว่าไม่มีข้อจำกัด\n    *   You can take **any** bus. They all go to the city center. (คุณขึ้นรถบัสคันไหนก็ได้ ทุกคันไปใจกลางเมือง)",
+    "examples": [
+      {
+        "eng": "I bought some apples.",
+        "thai": "ฉันซื้อแอปเปิ้ลมาจำนวนหนึ่ง (ประโยคบอกเล่า)"
+      },
+      {
+        "eng": "We need some flour to make a cake.",
+        "thai": "เราต้องการแป้งสำหรับทำเค้ก (ประโยคบอกเล่า, นามนับไม่ได้)"
+      },
+      {
+        "eng": "She doesn't have any money.",
+        "thai": "เธอไม่มีเงินเลย (ประโยคปฏิเสธ)"
+      },
+      {
+        "eng": "Are there any empty seats?",
+        "thai": "มีที่นั่งว่างบ้างไหม? (ประโยคคำถาม)"
+      },
+      {
+        "eng": "Would you like some more tea?",
+        "thai": "คุณต้องการชาเพิ่มอีกหน่อยไหม? (คำถามเชิงเสนอ ใช้ some)"
+      },
+      {
+        "eng": "Can I have some help, please?",
+        "thai": "ฉันขอความช่วยเหลือหน่อยได้ไหม? (คำถามเชิงร้องขอ ใช้ some)"
+      },
+      {
+        "eng": "You can ask me any question you like.",
+        "thai": "คุณถามคำถามอะไรฉันก็ได้ที่คุณอยากถาม (ประโยคบอกเล่าที่ any หมายถึง 'อะไรก็ได้')"
+      }
+    ],
+    "common_mistakes": "1.  **ใช้ Some ในประโยคปฏิเสธ:** คนไทยมักจะแปลตรงตัว เช่น 'ฉันไม่มีเงินบ้าง' และใช้ว่า 'I don't have some money.' ซึ่งผิดหลักไวยากรณ์ ที่ถูกต้องคือ 'I don't have **any** money.' (ฉันไม่มีเงินเลย)\n\n2.  **ใช้ Some ในประโยคคำถามทั่วไป:** ยกเว้นการเสนอหรือร้องขอ ในคำถามทั่วไปต้องใช้ Any เช่น ถามว่า 'Do you have some questions?' นั้นผิด ที่ถูกต้องคือ 'Do you have **any** questions?' (คุณมีคำถามอะไรไหม?)\n\n3.  **สับสนระหว่าง Any ในประโยคปฏิเสธกับบอกเล่า:** ต้องดูความหมายของประโยค ถ้า Any อยู่ในประโยคบอกเล่า จะไม่ได้แปลว่า 'บ้าง' แต่จะแปลว่า 'ใดๆ ก็ตาม' เช่น 'Call me at **any** time.' (โทรหาฉันเวลาไหนก็ได้) ไม่ใช่ 'โทรหาฉันในบางเวลา'",
+    "practice_questions": [
+      {
+        "question": "I'm going to the store. Do we need ___ milk?",
+        "options": [
+          "A. some",
+          "B. any",
+          "C. a",
+          "D. much"
+        ],
+        "answer": "B",
+        "explanation": "นี่คือประโยคคำถามทั่วไป ถามว่า 'มีนมบ้างไหม?' จึงต้องใช้ any"
+      },
+      {
+        "question": "There are ___ beautiful flowers in the garden.",
+        "options": [
+          "A. any",
+          "B. a",
+          "C. some",
+          "D. an"
+        ],
+        "answer": "C",
+        "explanation": "นี่คือประโยคบอกเล่า เพื่อบอกว่ามีดอกไม้ 'จำนวนหนึ่ง' หรือ 'บ้าง' อยู่ในสวน จึงใช้ some"
+      },
+      {
+        "question": "I'm sorry, but I don't have ___ advice for you right now.",
+        "options": [
+          "A. some",
+          "B. a",
+          "C. many",
+          "D. any"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคนี้เป็นประโยคปฏิเสธ (don't have) จึงต้องใช้ any เพื่อสื่อว่า 'ไม่มีเลย'"
+      },
+      {
+        "question": "Would you like ___ cake? I made it myself.",
+        "options": [
+          "A. any",
+          "B. some",
+          "C. a",
+          "D. the"
+        ],
+        "answer": "B",
+        "explanation": "นี่คือประโยคคำถามเชิงเสนอ (offer) จึงเป็นข้อยกเว้นที่ต้องใช้ some"
+      },
+      {
+        "question": "You can choose ___ color you like. They are all beautiful.",
+        "options": [
+          "A. some",
+          "B. any",
+          "C. a",
+          "D. an"
+        ],
+        "answer": "B",
+        "explanation": "นี่คือประโยคบอกเล่า แต่ any ในที่นี้มีความหมายพิเศษว่า 'สีไหนก็ได้' (doesn't matter which color) จึงเป็นข้อยกเว้น"
+      },
+      {
+        "question": "Could I have ___ water, please? I'm very thirsty.",
+        "options": [
+          "A. any",
+          "B. a",
+          "C. some",
+          "D. an"
+        ],
+        "answer": "C",
+        "explanation": "นี่คือประโยคคำถามเชิงร้องขอ (request) จึงเป็นข้อยกเว้นที่ต้องใช้ some"
+      },
+      {
+        "question": "Is there ___ news about the missing dog?",
+        "options": [
+          "A. a",
+          "B. some",
+          "C. any",
+          "D. many"
+        ],
+        "answer": "C",
+        "explanation": "เป็นประโยคคำถามทั่วไปที่ถามว่า 'มีข่าวคราวบ้างไหม' จึงต้องใช้ any"
+      },
+      {
+        "question": "We didn't see ___ animals at the zoo today.",
+        "options": [
+          "A. some",
+          "B. any",
+          "C. much",
+          "D. a lot of"
+        ],
+        "answer": "B",
+        "explanation": "เป็นประโยคปฏิเสธ (didn't see) เพื่อบอกว่า 'ไม่เห็นสัตว์เลย' จึงต้องใช้ any"
+      },
+      {
+        "question": "I need to buy ___ new shoes for the party.",
+        "options": [
+          "A. any",
+          "B. some",
+          "C. an",
+          "D. one"
+        ],
+        "answer": "B",
+        "explanation": "เป็นประโยคบอกเล่าธรรมดา บอกว่าต้องการซื้อรองเท้า 'จำนวนหนึ่ง' จึงใช้ some"
+      },
+      {
+        "question": "Please press ___ key to continue.",
+        "options": [
+          "A. any",
+          "B. some",
+          "C. a lot of",
+          "D. much"
+        ],
+        "answer": "A",
+        "explanation": "เป็นประโยคบอกเล่า (คำสั่ง) ที่ any มีความหมายว่า 'ปุ่มไหนก็ได้' เพื่อให้ทำต่อไป"
+      }
+    ]
+  },
+  {
+    "id": "13_2",
+    "title": "13.2 Much vs. Many (การใช้กับนามนับได้และนับไม่ได้)",
+    "explanation": "หัวใจสำคัญของการใช้ Much และ Many คือการแยกแยะระหว่าง 'นามนับได้' (Countable Nouns) และ 'นามนับไม่ได้' (Uncountable Nouns) ให้ถูกต้อง\n\n**หลักการพื้นฐาน:**\n1.  **Many** (มาก, หลาย) ใช้กับ **นามนับได้พหูพจน์ (Plural Countable Nouns)**\n    - นามนับได้คือสิ่งที่สามารถนับเป็นชิ้น เป็นอัน เป็นคนได้ เช่น book(s), friend(s), car(s), student(s)\n    - โครงสร้าง: **Many + นามนับได้พหูพจน์** (ต้องมี -s หรือเปลี่ยนรูปเป็นพหูพจน์เสมอ)\n\n2.  **Much** (มาก) ใช้กับ **นามนับไม่ได้ (Uncountable Nouns)**\n    - นามนับไม่ได้คือสิ่งที่ไม่สามารถนับเป็นชิ้นๆ ได้ มักเป็นของเหลว, แนวคิด, ความรู้สึก, หรือสิ่งที่เป็นเนื้อเดียวกัน เช่น water, money, time, information, happiness\n    - โครงสร้าง: **Much + นามนับไม่ได้** (ไม่มีรูปพหูพจน์)\n\n**การใช้งานในประโยคประเภทต่างๆ:**\n- **ประโยคปฏิเสธและคำถาม:** เป็นกรณีที่ Much และ Many ถูกใช้บ่อยที่สุดและเป็นธรรมชาติที่สุด\n  - *I don't have **many** friends.* (ฉันไม่มีเพื่อนเยอะ)\n  - *Do you have **much** time?* (คุณมีเวลามากไหม?)\n\n- **ประโยคบอกเล่า:** ในประโยคบอกเล่า คนส่วนใหญ่นิยมใช้ **a lot of / lots of** มากกว่า เพราะฟังดูเป็นธรรมชาติกว่า แม้ว่าการใช้ Many จะยังพอรับได้ แต่การใช้ Much ในประโยคบอกเล่ามักจะฟังดูไม่เป็นธรรมชาติอย่างยิ่ง\n  - *She has **many** books.* (พอใช้ได้ แต่ 'a lot of books' เป็นธรรมชาติกว่า)\n  - *He has **much** money.* (ผิดธรรมชาติอย่างมาก ควรใช้ 'He has a lot of money.')\n\n- **ใช้ในคำถาม How...?**\n  - **How many...?** (เท่าไหร่?) ใช้ถามจำนวนของนามนับได้\n  - **How much...?** (เท่าไหร่?) ใช้ถามปริมาณของนามนับไม่ได้ หรือใช้ถามราคา",
+    "examples": [
+      {
+        "eng": "How **many** students are in your class?",
+        "thai": "มีนักเรียนกี่คนในห้องของคุณ? (students เป็นนามนับได้)"
+      },
+      {
+        "eng": "There aren't **many** cars on the road today.",
+        "thai": "วันนี้มีรถบนถนนไม่เยอะ (cars เป็นนามนับได้ ใช้ในประโยคปฏิเสธ)"
+      },
+      {
+        "eng": "How **much** water should I drink every day?",
+        "thai": "ฉันควรดื่มน้ำมากแค่ไหนในแต่ละวัน? (water เป็นนามนับไม่ได้)"
+      },
+      {
+        "eng": "I don't have **much** time to talk right now.",
+        "thai": "ตอนนี้ฉันไม่มีเวลาคุยมากนัก (time เป็นนามนับไม่ได้ ใช้ในประโยคปฏิเสธ)"
+      },
+      {
+        "eng": "How **much** does this jacket cost?",
+        "thai": "เสื้อแจ็คเก็ตตัวนี้ราคาเท่าไหร่? (How much ใช้ถามราคา)"
+      },
+      {
+        "eng": "She has a lot of experience in this field.",
+        "thai": "เธอมีประสบการณ์มากมายในสายงานนี้ (ใช้ a lot of แทน much ในประโยคบอกเล่าจะฟังดูเป็นธรรมชาติกว่า)"
+      }
+    ],
+    "common_mistakes": "**1. สับสนระหว่างนามนับได้และนับไม่ได้ (ข้อผิดพลาดที่พบบ่อยที่สุด)**\n   - ผิด: I don't have *many money*. (Money เป็นนามนับไม่ได้)\n   - ถูก: I don't have **much** money.\n   - ผิด: How *much* books did you buy? (Books เป็นนามนับได้)\n   - ถูก: How **many** books did you buy?\n   - คำที่มักสับสน: money, information, advice, furniture, luggage (ทั้งหมดนี้นับไม่ได้ ต้องใช้ much)\n\n**2. ใช้ Much ในประโยคบอกเล่า**\n   - ฟังดูผิดธรรมชาติ: I have *much* homework to do.\n   - เป็นธรรมชาติกว่า: I have **a lot of** homework to do.\n\n**3. ลืมทำนามที่ตามหลัง Many ให้เป็นรูปพหูพจน์**\n   - ผิด: There are *many car* in the parking lot.\n   - ถูก: There are **many cars** in the parking lot.\n   - ข้อควรจำ: Many ต้องตามด้วยนามพหูพจน์เสมอ (ยกเว้นกรณีพิเศษมากๆ)",
+    "practice_questions": [
+      {
+        "question": "How ___ people were at the concert?",
+        "options": [
+          "A. much",
+          "B. many",
+          "C. some",
+          "D. any"
+        ],
+        "answer": "B",
+        "explanation": "'people' (ผู้คน) เป็นนามนับได้รูปพหูพจน์ของ person ดังนั้นจึงต้องใช้ 'many' เพื่อถามจำนวน"
+      },
+      {
+        "question": "I'm sorry, I don't have ___ information about the schedule.",
+        "options": [
+          "A. much",
+          "B. many",
+          "C. a lot",
+          "D. some"
+        ],
+        "answer": "A",
+        "explanation": "'information' (ข้อมูล) เป็นนามนับไม่ได้ ดังนั้นในประโยคปฏิเสธจึงต้องใช้ 'much'"
+      },
+      {
+        "question": "She put too ___ sugar in my coffee.",
+        "options": [
+          "A. many",
+          "B. much",
+          "C. a",
+          "D. any"
+        ],
+        "answer": "B",
+        "explanation": "'sugar' (น้ำตาล) เป็นนามนับไม่ได้ เพราะเราไม่สามารถนับเป็นเม็ดๆ ได้ในบริบททั่วไป จึงต้องใช้ 'much'"
+      },
+      {
+        "question": "How ___ times have you visited Thailand?",
+        "options": [
+          "A. much",
+          "B. many",
+          "C. any",
+          "D. little"
+        ],
+        "answer": "B",
+        "explanation": "ในที่นี้ 'times' แปลว่า 'ครั้ง' ซึ่งเป็นนามนับได้ (one time, two times) ดังนั้นจึงต้องใช้ 'many'"
+      },
+      {
+        "question": "There aren't ___ good seats left for the movie.",
+        "options": [
+          "A. many",
+          "B. much",
+          "C. some",
+          "D. a lot"
+        ],
+        "answer": "A",
+        "explanation": "'seats' (ที่นั่ง) เป็นนามนับได้พหูพจน์ ในประโยคปฏิเสธจึงต้องใช้ 'many'"
+      },
+      {
+        "question": "He doesn't show ___ emotion, even when he's happy.",
+        "options": [
+          "A. many",
+          "B. a lot",
+          "C. much",
+          "D. any of"
+        ],
+        "answer": "C",
+        "explanation": "'emotion' (อารมณ์) ในที่นี้หมายถึงอารมณ์โดยรวม ซึ่งเป็นนามนับไม่ได้ ดังนั้นจึงต้องใช้ 'much' ในประโยคปฏิเสธ"
+      },
+      {
+        "question": "How ___ luggage are you allowed to bring?",
+        "options": [
+          "A. many",
+          "B. much",
+          "C. some",
+          "D. pieces"
+        ],
+        "answer": "B",
+        "explanation": "'luggage' หรือ 'baggage' (สัมภาระ) เป็นนามนับไม่ได้ในภาษาอังกฤษเสมอ ถึงแม้เราจะมีกระเป๋าหลายใบก็ตาม จึงต้องใช้ 'much'"
+      },
+      {
+        "question": "We don't have ___ chairs for everyone. We need to get more.",
+        "options": [
+          "A. much",
+          "B. a lot",
+          "C. any",
+          "D. many"
+        ],
+        "answer": "D",
+        "explanation": "'chairs' (เก้าอี้) เป็นนามนับได้พหูพจน์ ดังนั้นเมื่อต้องการบอกว่ามีไม่มากพอในประโยคปฏิเสธ จึงใช้ 'many'"
+      },
+      {
+        "question": "How ___ did you pay for that car?",
+        "options": [
+          "A. much",
+          "B. many",
+          "C. coins",
+          "D. dollars"
+        ],
+        "answer": "A",
+        "explanation": "การถามเกี่ยวกับ 'ราคา' หรือ 'เงิน' (money) ซึ่งเป็นนามนับไม่ได้ เราจะใช้ 'How much...?' เสมอ"
+      },
+      {
+        "question": "There are so ___ beautiful flowers in this garden.",
+        "options": [
+          "A. much",
+          "B. many",
+          "C. any",
+          "D. some"
+        ],
+        "answer": "B",
+        "explanation": "'flowers' (ดอกไม้) เป็นนามนับได้พหูพจน์ ดังนั้นจึงต้องใช้ 'many' เพื่อบอกจำนวนว่ามีมาก"
+      }
+    ]
+  },
+  {
+    "id": "13_3",
+    "title": "13.3 A lot of, Lots of, Plenty of",
+    "explanation": "\"A lot of\", \"Lots of\", และ \"Plenty of\" เป็นคำบอกปริมาณ (Quantifiers) ที่ใช้บอกว่ามีบางสิ่ง \"จำนวนมาก\" หรือ \"ปริมาณมาก\" ทั้งสามคำนี้มีความยืดหยุ่นสูงและใช้บ่อยในภาษาอังกฤษ โดยเฉพาะในบทสนทนาทั่วไป\n\n**ความหมายและการใช้งาน:**\n*   **A lot of / Lots of:** สองคำนี้มีความหมายเหมือนกัน คือ \"มาก\" และใช้แทนกันได้ โดย \"Lots of\" จะมีความเป็นกันเอง (informal) มากกว่า \"A lot of\" เล็กน้อย\n    *   ใช้ได้กับทั้ง **คำนามนับได้พหูพจน์ (Plural Countable Nouns)** และ **คำนามนับไม่ได้ (Uncountable Nouns)**\n    *   นิยมใช้ใน **ประโยคบอกเล่า (Positive Sentences)**\n\n*   **Plenty of:** หมายถึง \"มากเพียงพอ\" หรือ \"มีมากเกินพอ\" ไม่ได้ขาดแคลน\n    *   ใช้ได้กับทั้ง **คำนามนับได้พหูพจน์** และ **คำนามนับไม่ได้**\n    *   ใช้ได้ในสถานการณ์ที่เป็นทางการและไม่เป็นทางการ\n\n**สรุปการใช้งานในประโยคประเภทต่างๆ:**\n*   **ประโยคบอกเล่า:** นิยมใช้ A lot of, Lots of, Plenty of มากที่สุด\n*   **ประโยคคำถามและปฏิเสธ:** สามารถใช้ A lot of/Lots of ได้ แต่โดยทั่วไปแล้ว ในสถานการณ์ที่เป็นทางการจะนิยมใช้ many (กับนามนับได้) และ much (กับนามนับไม่ได้) มากกว่า",
+    "examples": [
+      {
+        "eng": "She has a lot of friends.",
+        "thai": "เธอมีเพื่อนเยอะ (friends เป็นนามนับได้พหูพจน์)"
+      },
+      {
+        "eng": "We spend lots of money on food.",
+        "thai": "เราใช้เงินไปกับอาหารเยอะมาก (money เป็นนามนับไม่ได้)"
+      },
+      {
+        "eng": "Don't worry, we have plenty of time.",
+        "thai": "ไม่ต้องกังวล เรามีเวลาเหลือเฟือ (plenty of สื่อว่ามีมากเกินพอ)"
+      },
+      {
+        "eng": "Are there a lot of people at the party?",
+        "thai": "มีคนอยู่ที่งานปาร์ตี้เยอะไหม? (ใช้ a lot of ในประโยคคำถามได้)"
+      },
+      {
+        "eng": "I don't have a lot of patience for this.",
+        "thai": "ฉันไม่มีความอดทนกับเรื่องนี้มากนัก (ใช้ a lot of ในประโยคปฏิเสธได้)"
+      }
+    ],
+    "common_mistakes": "*   **1. สับสนว่าต้องใช้อันไหนกับนามประเภทไหน:** คนไทยมักคิดว่าคำหนึ่งใช้กับนามนับได้ อีกคำใช้กับนามนับไม่ได้ แต่ความจริงคือ **A lot of, Lots of, และ Plenty of ใช้ได้กับนามทั้งสองประเภท** ไม่มีการแบ่งแยกเหมือน much/many\n\n*   **2. ลืมใส่ 'of' หลัง 'a lot':** นี่คือข้อผิดพลาดที่เจอบ่อยที่สุด 'a lot' (ไม่มี of) ทำหน้าที่เป็น adverb บอกว่า \"มาก\" และมักจะอยู่ท้ายประโยค (เช่น I miss you a lot.) แต่เมื่อต้องการขยายนาม ต้องใช้ 'a lot of' เสมอ\n    *   **ผิด:** I have a lot friends.\n    *   **ถูก:** I have a lot of friends.\n\n*   **3. ใช้ 'a lots of':** รูปแบบนี้ไม่มีในภาษาอังกฤษที่ถูกต้อง ต้องใช้ 'a lot of' (a + lot เอกพจน์) หรือ 'lots of' (lots พหูพจน์) เท่านั้น\n\n*   **4. ใช้ผิดบริบท (ทางการ vs. ไม่ทางการ):** แม้จะใช้ a lot of ในประโยคคำถาม/ปฏิเสธได้ แต่ในภาษาเขียนที่เป็นทางการหรือการสอบที่เป็นทางการ การใช้ 'many' (กับนามนับได้) และ 'much' (กับนามนับไม่ได้) จะเหมาะสมกว่า",
+    "practice_questions": [
+      {
+        "question": "There is ______ traffic on the road this morning.",
+        "options": [
+          "A. many",
+          "B. a lot of",
+          "C. a few",
+          "D. a lot"
+        ],
+        "answer": "B",
+        "explanation": "คำว่า 'traffic' (การจราจร) เป็นคำนามนับไม่ได้ ดังนั้นจึงใช้กับ 'many' หรือ 'a few' ไม่ได้ ส่วน 'a lot' ต้องตามด้วย 'of' เสมอเมื่ออยู่หน้านาม ดังนั้น 'a lot of' จึงเป็นคำตอบที่ถูกต้อง"
+      },
+      {
+        "question": "My sister has invited ______ people to her wedding.",
+        "options": [
+          "A. much",
+          "B. lots of",
+          "C. a little",
+          "D. lot of"
+        ],
+        "answer": "B",
+        "explanation": "'people' เป็นคำนามนับได้พหูพจน์ ใช้ 'much' หรือ 'a little' ไม่ได้ ส่วน 'lot of' เป็นรูปที่ไม่ถูกต้อง ต้องเป็น 'a lot of' หรือ 'lots of'"
+      },
+      {
+        "question": "You don't need to buy more bread. We have ______ for breakfast.",
+        "options": [
+          "A. many",
+          "B. much",
+          "C. plenty of",
+          "D. a few"
+        ],
+        "answer": "C",
+        "explanation": "'plenty of' เหมาะสมที่สุดในบริบทนี้ เพราะสื่อความหมายว่า 'มีมากเพียงพอ' หรือ 'มีเหลือเฟือ' และสามารถใช้กับ 'bread' ซึ่งเป็นนามนับไม่ได้ได้"
+      },
+      {
+        "question": "Thank you for your help. It means ______ to me.",
+        "options": [
+          "A. a lot of",
+          "B. lots of",
+          "C. plenty of",
+          "D. a lot"
+        ],
+        "answer": "D",
+        "explanation": "ในประโยคนี้ เราต้องการ Adverb เพื่อขยาย Verb 'means' ซึ่ง 'a lot' ทำหน้าที่เป็น Adverb ที่แปลว่า 'มาก' ได้ และมักวางไว้ท้ายประโยค ส่วนข้ออื่นต้องตามด้วยคำนาม"
+      },
+      {
+        "question": "Wow, you have ______ interesting gadgets on your desk!",
+        "options": [
+          "A. so much",
+          "B. a lot of",
+          "C. a lot",
+          "D. much"
+        ],
+        "answer": "B",
+        "explanation": "'gadgets' เป็นคำนามนับได้พหูพจน์ ใช้กับ 'much' หรือ 'so much' ไม่ได้ ส่วน 'a lot' ขาด 'of' ไป จึงไม่สามารถนำมาขยายนามได้"
+      },
+      {
+        "question": "I'm not very busy today. I don't have ______ work to do.",
+        "options": [
+          "A. many",
+          "B. a few",
+          "C. a lot of",
+          "D. a number of"
+        ],
+        "answer": "C",
+        "explanation": "ในประโยคปฏิเสธ เราสามารถใช้ 'a lot of' ได้ 'work' เป็นนามนับไม่ได้ จึงใช้ 'many', 'a few', หรือ 'a number of' ไม่ได้"
+      },
+      {
+        "question": "He has ______ experience in this field, so he is the best candidate.",
+        "options": [
+          "A. many",
+          "B. a lot of",
+          "C. several",
+          "D. a lot"
+        ],
+        "answer": "B",
+        "explanation": "'experience' (ประสบการณ์) เป็นนามนับไม่ได้ ดังนั้นจึงใช้ 'many' หรือ 'several' ไม่ได้ และ 'a lot' ต้องมี 'of' ตามหลังเพื่อขยายนาม"
+      },
+      {
+        "question": "Which of the following sentences is grammatically INCORRECT?",
+        "options": [
+          "A. There are lots of children in the park.",
+          "B. We need a lot of support.",
+          "C. He has a lots of money in the bank.",
+          "D. There is plenty of evidence to prove it."
+        ],
+        "answer": "C",
+        "explanation": "รูป 'a lots of' ไม่ถูกต้องในหลักไวยากรณ์ภาษาอังกฤษ รูปที่ถูกต้องคือ 'a lot of' (a + lot เอกพจน์) หรือ 'lots of' (lots พหูพจน์)"
+      },
+      {
+        "question": "Don't worry about drinks. The host has provided ______ options for everyone.",
+        "options": [
+          "A. plenty of",
+          "B. much",
+          "C. a little",
+          "D. a great deal of"
+        ],
+        "answer": "A",
+        "explanation": "'options' เป็นคำนามนับได้พหูพจน์ 'much', 'a little', 'a great deal of' ใช้กับนามนับไม่ได้ 'plenty of' สามารถใช้ได้กับนามทั้งสองประเภทจึงถูกต้อง"
+      },
+      {
+        "question": "My new phone has ______ cool features that I haven't explored yet.",
+        "options": [
+          "A. a lot",
+          "B. much",
+          "C. a lot of",
+          "D. a great deal of"
+        ],
+        "answer": "C",
+        "explanation": "'features' เป็นคำนามนับได้พหูพจน์ 'much' และ 'a great deal of' ใช้กับนามนับไม่ได้ 'a lot' ต้องมี 'of' ตามหลังเมื่อใช้ขยายนาม ดังนั้น 'a lot of' คือคำตอบที่ถูก"
+      }
+    ]
+  },
+  {
+    "id": "13_4",
+    "title": "13.4 Summary: Basic Quantifiers (สรุป Quantifiers พื้นฐาน + 50 Exercises)",
+    "explanation": "นี่คือการสรุปรวบยอดการใช้ Quantifiers พื้นฐาน 4 ตัว ได้แก่ some, any, much, และ many ซึ่งเป็นพื้นฐานสำคัญในการบอกปริมาณในภาษาอังกฤษ\n\n**หลักการจำง่ายๆ:**\n1.  **Some (บ้าง, จำนวนหนึ่ง):**\n    *   ใช้ใน **ประโยคบอกเล่า**\n    *   ใช้ได้กับทั้ง **คำนามนับได้พหูพจน์** (เช่น some books, some friends) และ **คำนามนับไม่ได้** (เช่น some water, some money)\n    *   **พิเศษ:** ใช้ใน **ประโยคคำถาม** เมื่อเป็นการ **เสนอ** (offer) หรือ **ขอร้อง** (request) เช่น \"Would you like some coffee?\"\n\n2.  **Any (บ้างไหม, เลย):**\n    *   ใช้ใน **ประโยคคำถามทั่วไป** และ **ประโยคปฏิเสธ**\n    *   ใช้ได้กับทั้ง **คำนามนับได้พหูพจน์** (เช่น any books, any friends) และ **คำนามนับไม่ได้** (เช่น any water, any money)\n    *   ตัวอย่าง: \"Do you have any questions?\", \"I don't have any money.\"\n\n3.  **Many (มาก):**\n    *   ใช้กับ **คำนามนับได้พหูพจน์** เท่านั้น (เช่น many students, many cars)\n    *   มักใช้ใน **ประโยคคำถาม** และ **ประโยคปฏิเสธ**\n    *   ในประโยคบอกเล่า คนนิยมใช้ 'a lot of' หรือ 'lots of' มากกว่า แต่การใช้ 'many' ก็ไม่ผิดหลักไวยากรณ์\n\n4.  **Much (มาก):**\n    *   ใช้กับ **คำนามนับไม่ได้** เท่านั้น (เช่น much time, much traffic)\n    *   มักใช้ใน **ประโยคคำถาม** และ **ประโยคปฏิเสธ**\n    *   ในประโยคบอกเล่า คนนิยมใช้ 'a lot of' หรือ 'lots of' มากกว่า\n\n**ตารางสรุป:**\n| Quantifier | ประเภทประโยค         | ประเภทคำนาม                       |\n|------------|-----------------------|------------------------------------|\n| some       | บอกเล่า, เสนอ/ขอร้อง  | นามนับได้พหูพจน์, นามนับไม่ได้   |\n| any        | คำถาม, ปฏิเสธ         | นามนับได้พหูพจน์, นามนับไม่ได้   |\n| many       | คำถาม, ปฏิเสธ (บอกเล่า) | นามนับได้พหูพจน์ (เท่านั้น)       |\n| much       | คำถาม, ปฏิเสธ (บอกเล่า) | นามนับไม่ได้ (เท่านั้น)           |",
+    "examples": [
+      {
+        "eng": "I need to buy some eggs.",
+        "thai": "บอกเล่า + นามนับได้พหูพจน์ (eggs) -> ใช้ some"
+      },
+      {
+        "eng": "There isn't any milk in the fridge.",
+        "thai": "ปฏิเสธ + นามนับไม่ได้ (milk) -> ใช้ any"
+      },
+      {
+        "eng": "How many sisters do you have?",
+        "thai": "คำถาม + นามนับได้พหูพจน์ (sisters) -> ใช้ many"
+      },
+      {
+        "eng": "We don't have much time left.",
+        "thai": "ปฏิเสธ + นามนับไม่ได้ (time) -> ใช้ much"
+      },
+      {
+        "eng": "Would you like some more cake?",
+        "thai": "คำถามเชิงเสนอ (offer) -> ใช้ some"
+      }
+    ],
+    "common_mistakes": "1.  **สับสน Much กับ Many:** จุดที่คนไทยผิดบ่อยที่สุดคือการใช้ much กับคำนามนับได้ หรือใช้ many กับคำนามนับไม่ได้\n    *   ผิด: How much books do you have? (books นับได้)\n    *   ถูก: How many books do you have?\n    *   ผิด: I don't have many money. (money นับไม่ได้)\n    *   ถูก: I don't have much money.\n\n2.  **ใช้ Some ในประโยคปฏิเสธ/คำถามทั่วไป:** ยกเว้นคำถามเชิงเสนอ/ขอร้อง ประโยคปฏิเสธและคำถามทั่วไปต้องใช้ 'any'\n    *   ผิด: I don't have some questions.\n    *   ถูก: I don't have any questions.\n    *   ผิด: Do you have some brothers?\n    *   ถูก: Do you have any brothers?\n\n3.  **ลืม 's' ท้ายคำนามนับได้:** เมื่อใช้ 'some' หรือ 'many' กับคำนามนับได้ ต้องทำเป็นรูปพหูพจน์เสมอ\n    *   ผิด: She has many friend.\n    *   ถูก: She has many friends.\n    *   ผิด: I saw some car on the street.\n    *   ถูก: I saw some cars on the street.",
+    "practice_questions": [
+      {
+        "question": "I need to get ____ information about the new course.",
+        "options": [
+          "A. some",
+          "B. any",
+          "C. many",
+          "D. much"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคบอกเล่า และ information เป็นคำนามนับไม่ได้ จึงใช้ some"
+      },
+      {
+        "question": "There are ____ beautiful flowers in the garden.",
+        "options": [
+          "A. much",
+          "B. any",
+          "C. some",
+          "D. a"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคบอกเล่า และ flowers เป็นคำนามนับได้พหูพจน์ จึงใช้ some"
+      },
+      {
+        "question": "She bought ____ new shoes yesterday.",
+        "options": [
+          "A. some",
+          "B. any",
+          "C. much",
+          "D. little"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคบอกเล่า และ shoes เป็นคำนามนับได้พหูพจน์ จึงใช้ some"
+      },
+      {
+        "question": "We need ____ sugar for this recipe.",
+        "options": [
+          "A. any",
+          "B. many",
+          "C. some",
+          "D. a few"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคบอกเล่า และ sugar เป็นคำนามนับไม่ได้ จึงใช้ some"
+      },
+      {
+        "question": "Could I have ____ water, please?",
+        "options": [
+          "A. any",
+          "B. many",
+          "C. some",
+          "D. much"
+        ],
+        "answer": "C",
+        "explanation": "เป็นประโยคขอร้อง (request) จึงใช้ some ถึงแม้จะอยู่ในรูปคำถาม"
+      },
+      {
+        "question": "I'm sorry, we don't have ____ tickets left.",
+        "options": [
+          "A. some",
+          "B. any",
+          "C. much",
+          "D. a lot"
+        ],
+        "answer": "B",
+        "explanation": "เป็นประโยคปฏิเสธ (don't have) จึงใช้ any"
+      },
+      {
+        "question": "Do you have ____ questions for me?",
+        "options": [
+          "A. some",
+          "B. any",
+          "C. much",
+          "D. a little"
+        ],
+        "answer": "B",
+        "explanation": "เป็นประโยคคำถามทั่วไป จึงใช้ any"
+      },
+      {
+        "question": "There isn't ____ milk in the bottle.",
+        "options": [
+          "A. some",
+          "B. any",
+          "C. many",
+          "D. a lot of"
+        ],
+        "answer": "B",
+        "explanation": "เป็นประโยคปฏิเสธ (isn't) จึงใช้ any"
+      },
+      {
+        "question": "I couldn't find ____ mistakes in your essay.",
+        "options": [
+          "A. some",
+          "B. any",
+          "C. much",
+          "D. a"
+        ],
+        "answer": "B",
+        "explanation": "เป็นประโยคปฏิเสธ (couldn't find) จึงใช้ any"
+      },
+      {
+        "question": "Is there ____ coffee in the pot?",
+        "options": [
+          "A. some",
+          "B. any",
+          "C. many",
+          "D. much"
+        ],
+        "answer": "B",
+        "explanation": "เป็นประโยคคำถามทั่วไป จึงใช้ any"
+      },
+      {
+        "question": "How ____ people came to the party?",
+        "options": [
+          "A. much",
+          "B. many",
+          "C. some",
+          "D. any"
+        ],
+        "answer": "B",
+        "explanation": "people เป็นคำนามนับได้พหูพจน์ ในประโยคคำถามจึงใช้ many"
+      },
+      {
+        "question": "She doesn't have ____ friends in this city.",
+        "options": [
+          "A. much",
+          "B. many",
+          "C. some",
+          "D. a"
+        ],
+        "answer": "B",
+        "explanation": "friends เป็นคำนามนับได้พหูพจน์ ในประโยคปฏิเสธจึงใช้ many"
+      },
+      {
+        "question": "How ____ times have you visited Japan?",
+        "options": [
+          "A. much",
+          "B. many",
+          "C. some",
+          "D. any"
+        ],
+        "answer": "B",
+        "explanation": "times (ครั้ง) เป็นคำนามนับได้พหูพจน์ ในประโยคคำถามจึงใช้ many"
+      },
+      {
+        "question": "There aren't ____ chairs in the room.",
+        "options": [
+          "A. much",
+          "B. many",
+          "C. some",
+          "D. any"
+        ],
+        "answer": "B",
+        "explanation": "chairs เป็นคำนามนับได้พหูพจน์ ในประโยคปฏิเสธ (aren't) จึงใช้ many"
+      },
+      {
+        "question": "Too ____ students failed the exam.",
+        "options": [
+          "A. much",
+          "B. many",
+          "C. some",
+          "D. any"
+        ],
+        "answer": "B",
+        "explanation": "students เป็นคำนามนับได้พหูพจน์ ใช้ many เพื่อบอกว่ามีจำนวนมาก"
+      },
+      {
+        "question": "How ____ money do you have?",
+        "options": [
+          "A. much",
+          "B. many",
+          "C. some",
+          "D. any"
+        ],
+        "answer": "A",
+        "explanation": "money เป็นคำนามนับไม่ได้ ในประโยคคำถามจึงใช้ much"
+      },
+      {
+        "question": "I don't have ____ time to finish this project.",
+        "options": [
+          "A. many",
+          "B. a",
+          "C. much",
+          "D. any"
+        ],
+        "answer": "C",
+        "explanation": "time (เวลา) เป็นคำนามนับไม่ได้ ในประโยคปฏิเสธจึงใช้ much"
+      },
+      {
+        "question": "There isn't ____ traffic today.",
+        "options": [
+          "A. many",
+          "B. much",
+          "C. some",
+          "D. a lot"
+        ],
+        "answer": "B",
+        "explanation": "traffic เป็นคำนามนับไม่ได้ ในประโยคปฏิเสธจึงใช้ much"
+      },
+      {
+        "question": "Don't put too ____ salt in the soup.",
+        "options": [
+          "A. many",
+          "B. much",
+          "C. some",
+          "D. any"
+        ],
+        "answer": "B",
+        "explanation": "salt เป็นคำนามนับไม่ได้ ใช้ much เพื่อบอกว่ามีปริมาณมาก"
+      },
+      {
+        "question": "How ____ rice do you want?",
+        "options": [
+          "A. much",
+          "B. many",
+          "C. some",
+          "D. any"
+        ],
+        "answer": "A",
+        "explanation": "rice เป็นคำนามนับไม่ได้ ในประโยคคำถามจึงใช้ much"
+      },
+      {
+        "question": "Would you like ____ tea? It's a special blend.",
+        "options": [
+          "A. any",
+          "B. some",
+          "C. much",
+          "D. many"
+        ],
+        "answer": "B",
+        "explanation": "เป็นประโยคเสนอ (offer) จึงใช้ some"
+      },
+      {
+        "question": "I'm looking for my keys. Have you seen them ____where?",
+        "options": [
+          "A. some",
+          "B. any",
+          "C. much",
+          "D. many"
+        ],
+        "answer": "B",
+        "explanation": "Anywhere ใช้ในประโยคคำถาม แปลว่า ที่ไหนบ้างไหม"
+      },
+      {
+        "question": "We don't need to buy ____ bread. We still have some.",
+        "options": [
+          "A. some",
+          "B. any",
+          "C. much",
+          "D. many"
+        ],
+        "answer": "B",
+        "explanation": "เป็นประโยคปฏิเสธ (don't need) จึงใช้ any"
+      },
+      {
+        "question": "How ____ homework did the teacher give you?",
+        "options": [
+          "A. many",
+          "B. much",
+          "C. some",
+          "D. any"
+        ],
+        "answer": "B",
+        "explanation": "homework เป็นคำนามนับไม่ได้ ในประโยคคำถามจึงใช้ much"
+      },
+      {
+        "question": "There are not ____ apples on the tree this year.",
+        "options": [
+          "A. much",
+          "B. any",
+          "C. some",
+          "D. many"
+        ],
+        "answer": "D",
+        "explanation": "apples เป็นคำนามนับได้พหูพจน์ ในประโยคปฏิเสธจึงใช้ many"
+      },
+      {
+        "question": "Could you lend me ____ money until tomorrow?",
+        "options": [
+          "A. any",
+          "B. much",
+          "C. some",
+          "D. many"
+        ],
+        "answer": "C",
+        "explanation": "เป็นประโยคขอร้อง (request) จึงใช้ some"
+      },
+      {
+        "question": "He gave me ____ good advice before my interview.",
+        "options": [
+          "A. some",
+          "B. any",
+          "C. many",
+          "D. a"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคบอกเล่า และ advice เป็นคำนามนับไม่ได้ จึงใช้ some"
+      },
+      {
+        "question": "Is there ____ reason why you are late?",
+        "options": [
+          "A. some",
+          "B. any",
+          "C. much",
+          "D. many"
+        ],
+        "answer": "B",
+        "explanation": "เป็นประโยคคำถามทั่วไป จึงใช้ any"
+      },
+      {
+        "question": "You can call me ____ time you want.",
+        "options": [
+          "A. some",
+          "B. any",
+          "C. much",
+          "D. many"
+        ],
+        "answer": "B",
+        "explanation": "ในบริบทนี้ any แปลว่า 'เวลาไหนก็ได้' ใช้ในประโยคบอกเล่าได้"
+      },
+      {
+        "question": "I haven't seen ____ good movies recently.",
+        "options": [
+          "A. some",
+          "B. any",
+          "C. much",
+          "D. a lot"
+        ],
+        "answer": "B",
+        "explanation": "เป็นประโยคปฏิเสธ (haven't seen) จึงใช้ any"
+      },
+      {
+        "question": "How ____ languages can you speak?",
+        "options": [
+          "A. much",
+          "B. many",
+          "C. some",
+          "D. any"
+        ],
+        "answer": "B",
+        "explanation": "languages เป็นคำนามนับได้พหูพจน์ ในประโยคคำถามจึงใช้ many"
+      },
+      {
+        "question": "There's hardly ____ sugar left. We need to buy more.",
+        "options": [
+          "A. some",
+          "B. any",
+          "C. much",
+          "D. many"
+        ],
+        "answer": "B",
+        "explanation": "Hardly มีความหมายเชิงปฏิเสธ (แทบจะไม่มี) จึงใช้ any"
+      },
+      {
+        "question": "The teacher didn't give us ____ homework for the weekend.",
+        "options": [
+          "A. much",
+          "B. many",
+          "C. any",
+          "D. some"
+        ],
+        "answer": "A",
+        "explanation": "เป็นประโยคปฏิเสธ และ homework เป็นคำนามนับไม่ได้ จึงใช้ much (any ก็ใช้ได้ แต่ much เน้นปริมาณมากกว่า)"
+      },
+      {
+        "question": "I want to make ____ sandwiches for lunch.",
+        "options": [
+          "A. some",
+          "B. any",
+          "C. much",
+          "D. a little"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคบอกเล่า และ sandwiches เป็นคำนามนับได้พหูพจน์ จึงใช้ some"
+      },
+      {
+        "question": "Please don't make ____ noise. The baby is sleeping.",
+        "options": [
+          "A. some",
+          "B. any",
+          "C. many",
+          "D. much"
+        ],
+        "answer": "B",
+        "explanation": "เป็นประโยคปฏิเสธ/คำสั่งห้าม (don't make) จึงใช้ any"
+      },
+      {
+        "question": "I don't have ____ patience for this kind of behavior.",
+        "options": [
+          "A. many",
+          "B. much",
+          "C. some",
+          "D. a few"
+        ],
+        "answer": "B",
+        "explanation": "patience เป็นคำนามนับไม่ได้ ในประโยคปฏิเสธจึงใช้ much"
+      },
+      {
+        "question": "How ____ furniture do you need to move?",
+        "options": [
+          "A. many",
+          "B. much",
+          "C. some",
+          "D. any"
+        ],
+        "answer": "B",
+        "explanation": "furniture เป็นคำนามนับไม่ได้ ในประโยคคำถามจึงใช้ much"
+      },
+      {
+        "question": "We had ____ difficulties finding the place.",
+        "options": [
+          "A. some",
+          "B. any",
+          "C. much",
+          "D. a"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคบอกเล่า และ difficulties เป็นคำนามนับได้พหูพจน์ จึงใช้ some"
+      },
+      {
+        "question": "There weren't ____ people at the meeting, were there?",
+        "options": [
+          "A. much",
+          "B. many",
+          "C. some",
+          "D. a lot"
+        ],
+        "answer": "B",
+        "explanation": "people เป็นคำนามนับได้พหูพจน์ ในประโยคปฏิเสธ (weren't) จึงใช้ many"
+      },
+      {
+        "question": "If you need ____ help, just let me know.",
+        "options": [
+          "A. some",
+          "B. any",
+          "C. much",
+          "D. many"
+        ],
+        "answer": "B",
+        "explanation": "ในประโยคเงื่อนไข (If-clause) ที่มีความหมายเปิดกว้าง มักจะใช้ any"
+      },
+      {
+        "question": "She drinks too ____ coffee; it's not good for her.",
+        "options": [
+          "A. many",
+          "B. any",
+          "C. much",
+          "D. some"
+        ],
+        "answer": "C",
+        "explanation": "coffee เป็นคำนามนับไม่ได้ ใช้ much เพื่อบอกว่ามีปริมาณมาก"
+      },
+      {
+        "question": "The children found ____ shells on the beach.",
+        "options": [
+          "A. some",
+          "B. any",
+          "C. much",
+          "D. little"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคบอกเล่า และ shells เป็นคำนามนับได้พหูพจน์ จึงใช้ some"
+      },
+      {
+        "question": "I don't think there is ____ hope for our team to win.",
+        "options": [
+          "A. some",
+          "B. much",
+          "C. any",
+          "D. many"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคปฏิเสธ (I don't think) จึงใช้ any"
+      },
+      {
+        "question": "How ____ of your friends are coming to the wedding?",
+        "options": [
+          "A. much",
+          "B. any",
+          "C. some",
+          "D. many"
+        ],
+        "answer": "D",
+        "explanation": "friends เป็นคำนามนับได้พหูพจน์ ในประโยคคำถามจึงใช้ many"
+      },
+      {
+        "question": "He doesn't show ____ emotion, even when he's happy.",
+        "options": [
+          "A. many",
+          "B. much",
+          "C. some",
+          "D. a"
+        ],
+        "answer": "B",
+        "explanation": "emotion (ความรู้สึก) ในที่นี้เป็นนามนับไม่ได้ ในประโยคปฏิเสธจึงใช้ much"
+      },
+      {
+        "question": "Can I have ____ more salad, please?",
+        "options": [
+          "A. any",
+          "B. some",
+          "C. many",
+          "D. much"
+        ],
+        "answer": "B",
+        "explanation": "เป็นประโยคขอร้อง (request) จึงใช้ some"
+      },
+      {
+        "question": "I didn't buy ____ souvenirs when I was on vacation.",
+        "options": [
+          "A. some",
+          "B. many",
+          "C. much",
+          "D. any"
+        ],
+        "answer": "D",
+        "explanation": "เป็นประโยคปฏิเสธ (didn't buy) จึงใช้ any (many ก็ใช้ได้ แต่ any ครอบคลุมกว่า)"
+      },
+      {
+        "question": "There is ____ evidence to support his theory.",
+        "options": [
+          "A. many",
+          "B. some",
+          "C. any",
+          "D. a few"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคบอกเล่า และ evidence เป็นคำนามนับไม่ได้ จึงใช้ some"
+      },
+      {
+        "question": "Without ____ doubt, this is the best movie of the year.",
+        "options": [
+          "A. some",
+          "B. any",
+          "C. much",
+          "D. many"
+        ],
+        "answer": "B",
+        "explanation": "Without มีความหมายเชิงปฏิเสธ (ปราศจาก) จึงใช้ any"
+      },
+      {
+        "question": "Do you have ____ idea what time the store closes?",
+        "options": [
+          "A. some",
+          "B. any",
+          "C. much",
+          "D. many"
+        ],
+        "answer": "B",
+        "explanation": "เป็นประโยคคำถามทั่วไป จึงใช้ any"
+      }
+    ]
+  }
+]

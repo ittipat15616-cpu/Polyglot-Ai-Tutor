@@ -1,0 +1,1158 @@
+[
+  {
+    "id": "8_1",
+    "title": "8.1 Adverbs of Manner (บอกอาการ เช่น quickly, hard)",
+    "explanation": "Adverbs of Manner คือ คำกริยาวิเศษณ์ที่ใช้อธิบาย 'ลักษณะท่าทาง' หรือ 'อาการ' ของการกระทำ พูดง่ายๆ คือมันทำหน้าที่ตอบคำถามว่า 'ทำกริยานั้นอย่างไร?' (How?) เช่น เขาขับรถ 'อย่างไร' -> เขาขับรถ 'อย่างระมัดระวัง' (He drives carefully.)\n\n**วิธีการสร้าง Adverbs of Manner:**\n1.  **ส่วนใหญ่เติม -ly ท้าย Adjective:** เป็นวิธีที่พบบ่อยที่สุด\n    *   quick (เร็ว) -> quickly (อย่างรวดเร็ว)\n    *   slow (ช้า) -> slowly (อย่างช้าๆ)\n    *   beautiful (สวย) -> beautifully (อย่างสวยงาม/ไพเราะ)\n    *   careful (ระมัดระวัง) -> carefully (อย่างระมัดระวัง)\n\n2.  **Adjective ที่ลงท้ายด้วย -y:** ให้เปลี่ยน y เป็น i แล้วเติม -ly\n    *   easy (ง่าย) -> easily (อย่างง่ายดาย)\n    *   happy (มีความสุข) -> happily (อย่างมีความสุข)\n    *   angry (โกรธ) -> angrily (อย่างโกรธเคือง)\n\n3.  **Adjective ที่ลงท้ายด้วย -ic:** ให้เติม -ally\n    *   automatic (อัตโนมัติ) -> automatically (โดยอัตโนมัติ)\n    *   dramatic (น่าทึ่ง) -> dramatically (อย่างน่าทึ่ง)\n\n4.  **Adjective ที่ลงท้ายด้วย -le:** ให้ตัด e ออก แล้วเติม -y\n    *   gentle (สุภาพ, อ่อนโยน) -> gently (อย่างสุภาพ, อย่างเบาๆ)\n    *   simple (ง่าย) -> simply (อย่างง่ายๆ)\n\n**รูปพิเศษ (Irregular Forms) ที่ต้องจำ:**\nบางคำมีรูป Adverb เหมือนกับ Adjective เลย ไม่ต้องเติม -ly\n*   **fast -> fast** (He is a fast runner. / He runs fast.)\n*   **hard -> hard** (The question is hard. / He works hard.)\n*   **late -> late** (He was late for class. / He arrived late.)\n*   **early -> early** (She is an early bird. / She woke up early.)\n\n**ข้อยกเว้นสำคัญ:**\n*   **good (Adj.) -> well (Adv.)**\n    *   She is a **good** student. (good เป็น Adj. ขยาย student)\n    *   She speaks English **well**. (well เป็น Adv. ขยาย speaks)\n*   **hard (Adv. อย่างหนัก) vs. hardly (Adv. แทบจะไม่)**\n    *   He works **hard**. (เขาทำงานหนัก)\n    *   He **hardly** works. (เขาแทบจะไม่ทำงานเลย) -> ความหมายเปลี่ยนไปเลย!",
+    "examples": [
+      {
+        "eng": "He walks slowly.",
+        "thai": "เขาเดินอย่างช้าๆ (slowly เป็น adverb ขยายกริยา walks ว่าเดินอย่างไร)"
+      },
+      {
+        "eng": "She sings beautifully.",
+        "thai": "เธอร้องเพลงอย่างไพเราะ (beautifully ขยายกริยา sings ว่าร้องอย่างไร)"
+      },
+      {
+        "eng": "They answered the questions easily.",
+        "thai": "พวกเขาตอบคำถามได้อย่างง่ายดาย (easily มาจาก easy เปลี่ยน y เป็น i แล้วเติม ly)"
+      },
+      {
+        "eng": "He drives his car fast.",
+        "thai": "เขาขับรถเร็ว (fast เป็น adverb รูปพิเศษ ไม่ต้องเติม ly)"
+      },
+      {
+        "eng": "You did the job well.",
+        "thai": "คุณทำงานนั้นได้ดี (well เป็น adverb ของ good ใช้อธิบายการกระทำ did the job)"
+      },
+      {
+        "eng": "My father works very hard.",
+        "thai": "พ่อของฉันทำงานหนักมาก (hard ในที่นี้หมายถึง อย่างหนัก ไม่ใช่ แทบจะไม่)"
+      }
+    ],
+    "common_mistakes": "**1. ใช้ Adjective แทน Adverb:** นี่คือข้อผิดพลาดที่พบบ่อยที่สุด คนไทยมักจะลืมเปลี่ยนรูป Adjective ให้เป็น Adverb\n    *   ผิด: He runs quick.\n    *   ถูก: He runs **quickly**.\n    (เพราะเราต้องการขยายกริยา run ไม่ใช่คำนาม)\n\n**2. สับสนระหว่าง Good (Adjective) กับ Well (Adverb):** คนไทยมักจะติดใช้ good ในทุกสถานการณ์\n    *   ผิด: She speaks English good.\n    *   ถูก: She speaks English **well**.\n    (เพราะเราต้องการอธิบายว่า 'พูด' (speak) อย่างไร ซึ่งเป็นกริยา จึงต้องใช้ well)\n\n**3. สับสนระหว่าง Hard (อย่างหนัก) กับ Hardly (แทบจะไม่):** สองคำนี้หน้าตาคล้ายกัน แต่ความหมายตรงข้ามกันอย่างสิ้นเชิง\n    *   ผิด: I study hardly for the exam. (ฉันแทบจะไม่อ่านหนังสือสอบเลย -> ความหมายผิด)\n    *   ถูก: I study **hard** for the exam. (ฉันอ่านหนังสือสอบอย่างหนัก)\n\n**4. เติม -ly ให้กับคำที่ไม่ต้องเติม:** เช่นคำว่า fast, hard, late\n    *   ผิด: He runs fastly.\n    *   ถูก: He runs **fast**.",
+    "practice_questions": [
+      {
+        "question": "The old man walked _______ across the street.",
+        "options": [
+          "A. slow",
+          "B. slowly",
+          "C. slower",
+          "D. slowness"
+        ],
+        "answer": "B",
+        "explanation": "เราต้องการ Adverb เพื่อขยายกริยา walked (เดินอย่างไร) ดังนั้นจึงต้องใช้ slowly ซึ่งเป็นรูป Adverb ของ slow"
+      },
+      {
+        "question": "He is a fantastic piano player. He plays the piano _______.",
+        "options": [
+          "A. good",
+          "B. nice",
+          "C. well",
+          "D. beautiful"
+        ],
+        "answer": "C",
+        "explanation": "เราต้องการ Adverb เพื่อขยายกริยา plays (เล่นเปียโนอย่างไร) รูป Adverb ของ good คือ well"
+      },
+      {
+        "question": "If you want to catch the train, you need to run _______.",
+        "options": [
+          "A. fast",
+          "B. fastly",
+          "C. faster",
+          "D. fastest"
+        ],
+        "answer": "A",
+        "explanation": "fast เป็น Adverb รูปพิเศษที่ไม่ต้องเติม -ly คำว่า fastly ไม่มีในภาษาอังกฤษมาตรฐาน"
+      },
+      {
+        "question": "The room was very dark, so I _______ see anything.",
+        "options": [
+          "A. hard",
+          "B. hardly",
+          "C. harder",
+          "D. easy"
+        ],
+        "answer": "B",
+        "explanation": "ในบริบทนี้หมายถึง 'แทบจะมองไม่เห็นอะไรเลย' ซึ่งต้องใช้คำว่า hardly ที่แปลว่า แทบจะไม่"
+      },
+      {
+        "question": "She was tired, so she spoke very _______.",
+        "options": [
+          "A. quiet",
+          "B. quietly",
+          "C. quietness",
+          "D. quieter"
+        ],
+        "answer": "B",
+        "explanation": "เราต้องการ Adverb มาขยายกริยา spoke (พูดอย่างไร) จึงต้องใช้ quietly ซึ่งเป็น Adverb ของ quiet"
+      },
+      {
+        "question": "The test was _______, so she finished it quickly.",
+        "options": [
+          "A. easy",
+          "B. easily",
+          "C. ease",
+          "D. easier"
+        ],
+        "answer": "A",
+        "explanation": "ในประโยคนี้ เราต้องการ Adjective มาขยายคำนาม the test (ข้อสอบเป็นอย่างไร) จึงใช้ easy ส่วน easily เป็น Adverb"
+      },
+      {
+        "question": "You must listen _______ to the teacher's instructions.",
+        "options": [
+          "A. careful",
+          "B. carefully",
+          "C. care",
+          "D. careless"
+        ],
+        "answer": "B",
+        "explanation": "คำว่า carefully เป็น Adverb ที่มาขยายกริยา listen (ฟังอย่างไร) ว่าต้องฟัง 'อย่างระมัดระวัง'"
+      },
+      {
+        "question": "He answered all my questions _______. I was very impressed.",
+        "options": [
+          "A. perfect",
+          "B. perfectly",
+          "C. perfection",
+          "D. perfected"
+        ],
+        "answer": "B",
+        "explanation": "เราต้องการ Adverb เพื่ออธิบายกริยา answered (ตอบอย่างไร) จึงต้องใช้ perfectly ที่แปลว่า 'อย่างสมบูรณ์แบบ'"
+      },
+      {
+        "question": "My little brother cried _______ when he fell down.",
+        "options": [
+          "A. loud",
+          "B. louder",
+          "C. loudness",
+          "D. loudly"
+        ],
+        "answer": "D",
+        "explanation": "เราต้องการ Adverb มาขยายกริยา cried (ร้องไห้อย่างไร) ดังนั้นจึงต้องใช้ loudly ที่แปลว่า 'อย่างเสียงดัง'"
+      },
+      {
+        "question": "She works _______ every day to support her family.",
+        "options": [
+          "A. hard",
+          "B. hardly",
+          "C. hardful",
+          "D. hardship"
+        ],
+        "answer": "A",
+        "explanation": "ในความหมายว่า 'ทำงานอย่างหนัก' เราจะใช้ Adverb 'hard' ซึ่งมีรูปเดียวกับ Adjective ส่วน hardly แปลว่า 'แทบจะไม่' ซึ่งความหมายไม่เข้ากับบริบท"
+      }
+    ]
+  },
+  {
+    "id": "8_2",
+    "title": "8.2 Adverbs of Place & Time (บอกสถานที่และเวลา เช่น here, yesterday)",
+    "explanation": "Adverbs of Place & Time คือ คำกริยาวิเศษณ์ที่ใช้บอกว่าการกระทำนั้นเกิดขึ้น 'ที่ไหน' (Where?) และ 'เมื่อไหร่' (When?) เป็นส่วนสำคัญที่ช่วยให้ประโยคสมบูรณ์และชัดเจนยิ่งขึ้น\n\n**1. Adverbs of Place (คำกริยาวิเศษณ์บอกสถานที่)**\n- ตอบคำถาม 'Where?' (ที่ไหน)\n- มักจะวางไว้ท้ายประโยค หรือหลังคำกริยาหลัก\n- ตัวอย่าง: here (ที่นี่), there (ที่นั่น), everywhere (ทุกที่), somewhere (บางแห่ง), inside (ข้างใน), outside (ข้างนอก), upstairs (ชั้นบน), downstairs (ชั้นล่าง), away (ออกไป), near (ใกล้), far (ไกล)\n\n**2. Adverbs of Time (คำกริยาวิเศษณ์บอกเวลา)**\n- ตอบคำถาม 'When?' (เมื่อไหร่)\n- ส่วนใหญ่มักจะวางไว้ท้ายประโยค แต่ก็สามารถวางไว้ต้นประโยคเพื่อเน้นย้ำได้\n- ตัวอย่าง: now (ตอนนี้), then (ตอนนั้น), today (วันนี้), yesterday (เมื่อวาน), tomorrow (พรุ่งนี้), soon (เร็วๆ นี้), late (สาย), early (เช้า/ก่อนเวลา), recently (เมื่อไม่นานมานี้)\n\n**หลักการสำคัญ: ลำดับการวาง Adverbs**\n- หากในประโยคมีทั้ง Adverb of Place และ Adverb of Time ให้เรียงลำดับดังนี้:\n  **Place (สถานที่) + Time (เวลา)**\n- ตัวอย่าง: He worked **there yesterday**. (เขาทำงาน**ที่นั่นเมื่อวานนี้**)\n  - `there` (Place) มาก่อน `yesterday` (Time)",
+    "examples": [
+      {
+        "eng": "The children are playing **outside**.",
+        "thai": "เด็กๆ กำลังเล่นอยู่ **ข้างนอก** (Adverb of Place บอกสถานที่)"
+      },
+      {
+        "eng": "I will call you **tomorrow**.",
+        "thai": "ฉันจะโทรหาคุณ **พรุ่งนี้** (Adverb of Time บอกเวลา)"
+      },
+      {
+        "eng": "Please put the books **here**.",
+        "thai": "กรุณาวางหนังสือไว้ **ที่นี่** (Adverb of Place บอกสถานที่)"
+      },
+      {
+        "eng": "She arrived **early**.",
+        "thai": "เธอมาถึง **ก่อนเวลา** (Adverb of Time บอกเวลา)"
+      },
+      {
+        "eng": "We saw a concert **here last night**.",
+        "thai": "พวกเราดูคอนเสิร์ต **ที่นี่เมื่อคืนนี้** (เรียงลำดับ Place 'here' + Time 'last night')"
+      },
+      {
+        "eng": "**Yesterday**, I felt tired all day.",
+        "thai": "**เมื่อวานนี้** ฉันรู้สึกเหนื่อยทั้งวัน (สามารถนำ Adverb of Time มาไว้ต้นประโยคเพื่อเน้นย้ำได้)"
+      }
+    ],
+    "common_mistakes": "**1. เรียงลำดับผิด (Incorrect Order):**\n- คนไทยมักจะสับสนลำดับการวาง Adverb โดยเอาเวลาขึ้นก่อนสถานที่ ซึ่งผิดหลักไวยากรณ์\n- ผิด: I met him **yesterday there**.\n- ถูก: I met him **there yesterday**. (Place + Time)\n\n**2. ใส่บุพบท (Preposition) โดยไม่จำเป็น:**\n- คำ Adverb of Place บางคำ เช่น here, there, home, upstairs, downstairs, downtown, outside, inside ไม่ต้องมีบุพบท (in, at, to) นำหน้า\n- ผิด: He went to home. / Let's go to downtown.\n- ถูก: He went **home**. / Let's go **downtown**.\n\n**3. สับสนระหว่าง ago กับ before:**\n- `ago` ใช้นับเวลาย้อนหลังจาก 'ปัจจุบัน' และต้องมีช่วงเวลากำกับเสมอ (เช่น two days ago, three years ago)\n- `before` แปลว่า 'ก่อนหน้านี้' มักใช้ลอยๆ หรือเปรียบเทียบกับเหตุการณ์ในอดีต\n- ผิด: I finished the project two weeks **before**.\n- ถูก: I finished the project two weeks **ago**. (นับย้อนจากปัจจุบันไป 2 สัปดาห์)",
+    "practice_questions": [
+      {
+        "question": "The manager wants to see you ______. Please go now.",
+        "options": [
+          "A. in downstairs",
+          "B. at downstairs",
+          "C. to downstairs",
+          "D. downstairs"
+        ],
+        "answer": "D",
+        "explanation": "คำว่า 'downstairs' เป็น Adverb of Place ที่ไม่ต้องใช้บุพบท (preposition) เช่น in, at, to นำหน้า"
+      },
+      {
+        "question": "We went to the beach ______.",
+        "options": [
+          "A. yesterday there",
+          "B. there yesterday",
+          "C. on yesterday there",
+          "D. there on yesterday"
+        ],
+        "answer": "B",
+        "explanation": "ตามกฎการเรียงลำดับ Adverb ต้องวาง Place (there) ก่อน Time (yesterday)"
+      },
+      {
+        "question": "My family moved to this city three years ______.",
+        "options": [
+          "A. ago",
+          "B. before",
+          "C. last",
+          "D. past"
+        ],
+        "answer": "A",
+        "explanation": "เราใช้ 'ago' เพื่อบอกช่วงเวลาที่นับย้อนหลังจากปัจจุบัน ในที่นี้คือ 'สามปีที่แล้ว'"
+      },
+      {
+        "question": "Can you wait for me ______? I'll be back soon.",
+        "options": [
+          "A. at here",
+          "B. here",
+          "C. to here",
+          "D. in here"
+        ],
+        "answer": "B",
+        "explanation": "คำว่า 'here' เป็น Adverb of Place ที่ไม่ต้องมีบุพบท (preposition) นำหน้า"
+      },
+      {
+        "question": "I have to finish my homework ______.",
+        "options": [
+          "A. last",
+          "B. late",
+          "C. tomorrow",
+          "D. yesterday"
+        ],
+        "answer": "C",
+        "explanation": "ประโยค 'I have to...' (ฉันต้อง...) แสดงถึงสิ่งที่จะทำในอนาคต จึงต้องใช้ 'tomorrow' (พรุ่งนี้)"
+      },
+      {
+        "question": "Let's go ______ and get some fresh air.",
+        "options": [
+          "A. to outside",
+          "B. on outside",
+          "C. outside",
+          "D. at outside"
+        ],
+        "answer": "C",
+        "explanation": "คำว่า 'outside' เป็น Adverb of Place ที่ไม่ต้องใช้บุพบทนำหน้าในบริบทนี้"
+      },
+      {
+        "question": "She worked very hard ______.",
+        "options": [
+          "A. day last",
+          "B. yesterday",
+          "C. tomorrow",
+          "D. on yesterday"
+        ],
+        "answer": "B",
+        "explanation": "คำกริยา 'worked' เป็นรูปอดีต (Past Tense) ดังนั้น Adverb of Time ที่เหมาะสมคือ 'yesterday' (เมื่อวานนี้)"
+      },
+      {
+        "question": "The birds fly ______ during the winter.",
+        "options": [
+          "A. south",
+          "B. to south",
+          "C. in the south",
+          "D. at south"
+        ],
+        "answer": "A",
+        "explanation": "ในบริบทของการบอกทิศทางของการเคลื่อนที่ เช่น north, south, east, west สามารถทำหน้าที่เป็น adverb ได้โดยไม่ต้องมีบุพบท"
+      },
+      {
+        "question": "He promised he would call me ______.",
+        "options": [
+          "A. now",
+          "B. yesterday",
+          "C. soon",
+          "D. ago"
+        ],
+        "answer": "C",
+        "explanation": "ประโยค 'he would call me' แสดงถึงการกระทำในอนาคต 'soon' (เร็วๆ นี้) จึงเหมาะสมที่สุด"
+      },
+      {
+        "question": "My keys must be ______ in this room.",
+        "options": [
+          "A. here now",
+          "B. now here",
+          "C. somewhere",
+          "D. everywhere then"
+        ],
+        "answer": "C",
+        "explanation": "'Somewhere' (ที่ไหนสักแห่ง) เหมาะสมที่สุดกับบริบทที่กำลังมองหาของที่หายไปในห้องนี้"
+      }
+    ]
+  },
+  {
+    "id": "8_3",
+    "title": "8.3 Adverbs of Frequency (บอกความถี่ เช่น always, often)",
+    "explanation": "Adverbs of Frequency คือ คำกริยาวิเศษณ์ที่ใช้อธิบายว่าการกระทำนั้นๆ เกิดขึ้นบ่อยแค่ไหน (How often?) เป็นคำที่เราใช้กันบ่อยมากในชีวิตประจำวัน\n\n**ระดับความถี่ (เรียงจากบ่อยสุดไปน้อยสุด):**\n*   **Always** (100%): เสมอ, ตลอดเวลา\n*   **Usually** (90%): โดยปกติ, เป็นประจำ\n*   **Often** (70%): บ่อยๆ\n*   **Sometimes** (50%): บางครั้ง\n*   **Occasionally** (30%): บางโอกาส, นานๆ ครั้ง\n*   **Seldom / Rarely** (10%): แทบจะไม่, นานๆ ที\n*   **Never** (0%): ไม่เคย\n\n**ตำแหน่งการวางในประโยค (สำคัญมาก):**\n1.  **วางไว้หน้ากริยาแท้ (Main Verb)** ทั่วไป\n    *   ตัวอย่าง: She **always** _drinks_ coffee in the morning.\n2.  **วางไว้หลัง Verb to be (is, am, are, was, were)**\n    *   ตัวอย่าง: He _is_ **always** late.\n3.  **วางไว้ระหว่างกริยาช่วย (Auxiliary Verb) กับกริยาแท้ (Main Verb)**\n    *   กริยาช่วย เช่น will, can, should, have, has, do, does\n    *   ตัวอย่าง: You _should_ **always** _tell_ the truth.\n    *   ตัวอย่าง: I _have_ **never** _been_ to Japan.\n    *   ตัวอย่าง: She _doesn't_ **usually** _eat_ breakfast. (ในประโยคปฏิเสธ จะอยู่หลัง don't/doesn't)\n\n**ข้อยกเว้น:** คำว่า Sometimes, Usually, Occasionally สามารถวางไว้ต้นประโยคหรือท้ายประโยคได้เพื่อเป็นการเน้นย้ำ\n*   **Sometimes** I walk to work.\n*   I go to the gym **occasionally**.",
+    "examples": [
+      {
+        "eng": "I **always** wake up at 6 AM.",
+        "thai": "ฉันตื่นนอนตอน 6 โมงเช้าเสมอ (วาง always ไว้หน้ากริยาแท้ wake up)"
+      },
+      {
+        "eng": "He is **often** tired after work.",
+        "thai": "เขามักจะเหนื่อยหลังเลิกงาน (วาง often ไว้หลัง Verb to be 'is')"
+      },
+      {
+        "eng": "They **usually** eat dinner at home.",
+        "thai": "โดยปกติแล้วพวกเขากินข้าวเย็นที่บ้าน (วาง usually ไว้หน้ากริยาแท้ eat)"
+      },
+      {
+        "eng": "We **sometimes** watch movies on Fridays.",
+        "thai": "พวกเราดูหนังในวันศุกร์เป็นบางครั้ง (วาง sometimes ไว้หน้ากริยาแท้ watch)"
+      },
+      {
+        "eng": "She has **never** visited Thailand.",
+        "thai": "เธอไม่เคยมาเที่ยวประเทศไทยเลย (วาง never ไว้ระหว่างกริยาช่วย has และกริยาแท้ visited)"
+      },
+      {
+        "eng": "You must **always** wear a helmet.",
+        "thai": "คุณต้องสวมหมวกกันน็อคเสมอ (วาง always ไว้ระหว่างกริยาช่วย must และกริยาแท้ wear)"
+      },
+      {
+        "eng": "It **rarely** snows in Bangkok.",
+        "thai": "หิมะแทบจะไม่ตกในกรุงเทพฯ เลย (วาง rarely ไว้หน้ากริยาแท้ snows)"
+      },
+      {
+        "eng": "I don't **often** go to bed late.",
+        "thai": "ฉันไม่ค่อยได้เข้านอนดึกบ่อยนัก (วาง often ไว้หลังกริยาช่วย don't)"
+      }
+    ],
+    "common_mistakes": "**1. วางตำแหน่งผิดเมื่อใช้กับ Verb to be:** คนไทยมักจะติดวางไว้ข้างหน้าเหมือนกริยาทั่วไป\n*   ผิด: He `always is` happy.\n*   ถูก: He `is always` happy.\n\n**2. วางตำแหน่งผิดเมื่อใช้กับกริยาแท้:** บางครั้งนำไปวางไว้ท้ายประโยค ซึ่งอาจจะพอเข้าใจได้ แต่ผิดหลักไวยากรณ์มาตรฐาน\n*   ผิด: I drink coffee `always`.\n*   ถูก: I `always` drink coffee.\n\n**3. การใช้ 'never' ซ้อนกับประโยคปฏิเสธ (Double Negative):** คำว่า 'never' มีความหมายเป็นปฏิเสธในตัวอยู่แล้ว ไม่ต้องใช้กับ don't, doesn't, not อีก\n*   ผิด: He `doesn't never` smoke. \n*   ถูก: He `never` smokes. (เขาไม่เคยสูบบุหรี่)\n*   ถูก: He `doesn't` smoke. (เขาไม่สูบบุหรี่)",
+    "practice_questions": [
+      {
+        "question": "My father _____ goes to the office by car. He prefers the train.",
+        "options": [
+          "A. always",
+          "B. rarely",
+          "C. often",
+          "D. usually"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคบอกว่าเขาชอบไปโดยรถไฟมากกว่า แสดงว่าเขาแทบจะไม่ไปโดยรถยนต์ จึงใช้ 'rarely' (แทบจะไม่) ซึ่งเหมาะสมกับบริบทที่สุด"
+      },
+      {
+        "question": "I am ______ tired on Monday mornings because I wake up early.",
+        "options": [
+          "A. usually am",
+          "B. am usually",
+          "C. usually",
+          "D. am"
+        ],
+        "answer": "B",
+        "explanation": "Adverb of Frequency (usually) ต้องวางไว้หลัง Verb to be (am) ดังนั้น 'am usually' จึงเป็นคำตอบที่ถูกต้อง"
+      },
+      {
+        "question": "She ______ late for class. Her attendance is perfect.",
+        "options": [
+          "A. is never",
+          "B. never is",
+          "C. is always",
+          "D. always is"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคบอกว่าการเข้าเรียนของเธอสมบูรณ์แบบ (perfect) แสดงว่าเธอ 'ไม่เคย' มาสาย และ 'never' ต้องวางหลัง Verb to be (is) จึงต้องเป็น 'is never'"
+      },
+      {
+        "question": "Do you ______ visit your grandparents on weekends?",
+        "options": [
+          "A. visit often",
+          "B. often visit",
+          "C. visit you often",
+          "D. often to visit"
+        ],
+        "answer": "B",
+        "explanation": "ในประโยคคำถามที่มี do/does, Adverb of Frequency (often) จะวางอยู่หน้ากริยาแท้ (visit) ดังนั้น 'often visit' จึงถูกต้อง"
+      },
+      {
+        "question": "He has ______ eaten Thai food before. This is his first time.",
+        "options": [
+          "A. ever",
+          "B. never",
+          "C. always",
+          "D. sometimes"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคบอกว่านี่เป็นครั้งแรกของเขา (his first time) แสดงว่าเขา 'ไม่เคย' (never) กินอาหารไทยมาก่อน"
+      },
+      {
+        "question": "I ______ watch horror movies because they are too scary for me.",
+        "options": [
+          "A. seldom",
+          "B. often",
+          "C. usually",
+          "D. always"
+        ],
+        "answer": "A",
+        "explanation": "เหตุผลที่ให้มาคือหนังน่ากลัวเกินไป แสดงว่าผู้พูด 'แทบจะไม่' ดูหนังแนวนี้ คำว่า 'seldom' จึงเหมาะสมที่สุด"
+      },
+      {
+        "question": "They don't _______ go out on weekdays. They prefer to stay home.",
+        "options": [
+          "A. often",
+          "B. never",
+          "C. always",
+          "D. ever"
+        ],
+        "answer": "A",
+        "explanation": "ในประโยคปฏิเสธที่มี don't/doesn't, Adverb of Frequency จะวางตามหลัง เช่น 'don't often go'. การใช้ 'never' จะทำให้เกิด double negative (don't never) ซึ่งผิดไวยากรณ์"
+      },
+      {
+        "question": "Which sentence is grammatically correct?",
+        "options": [
+          "A. He plays often tennis.",
+          "B. He often plays tennis.",
+          "C. He plays tennis often.",
+          "D. Often he plays tennis."
+        ],
+        "answer": "B",
+        "explanation": "ตำแหน่งที่ถูกต้องของ Adverb of Frequency คือต้องอยู่หน้ากริยาแท้ (plays) ดังนั้น 'He often plays tennis.' จึงเป็นประโยคที่ถูกต้องที่สุด"
+      },
+      {
+        "question": "We should ______ listen to our parents' advice.",
+        "options": [
+          "A. listen always",
+          "B. to always listen",
+          "C. always listen",
+          "D. listen to always"
+        ],
+        "answer": "C",
+        "explanation": "เมื่อมีกริยาช่วย (Modal Verb 'should'), Adverb of Frequency (always) จะต้องวางอยู่ระหว่างกริยาช่วยและกริยาแท้ (listen) ดังนั้น 'should always listen' จึงถูกต้อง"
+      },
+      {
+        "question": "I brush my teeth three times a day. I ______ forget to brush them.",
+        "options": [
+          "A. often",
+          "B. always",
+          "C. sometimes",
+          "D. never"
+        ],
+        "answer": "D",
+        "explanation": "การแปรงฟันวันละ 3 ครั้งแสดงว่าเป็นกิจวัตรที่ทำเป็นประจำอย่างสม่ำเสมอ ดังนั้นเขาจึง 'ไม่เคย' (never) ลืมแปรงฟัน"
+      }
+    ]
+  },
+  {
+    "id": "8_4",
+    "title": "8.4 Adverbs of Degree (บอกระดับ เช่น very, quite, too, enough)",
+    "explanation": "Adverbs of Degree หรือ คำกริยาวิเศษณ์บอกระดับ คือคำที่ใช้วางไว้หน้าคำคุณศัพท์ (Adjective) หรือคำกริยาวิเศษณ์ (Adverb) อื่นๆ เพื่อบอกว่าสิ่งนั้นๆ มีคุณสมบัติอยู่ในระดับไหน 'มาก' 'น้อย' 'ค่อนข้าง' หรือ 'เกินไป' เป็นต้น ทำให้ประโยคมีน้ำหนักและความหมายชัดเจนยิ่งขึ้น\n\nคำที่พบบ่อยๆ ได้แก่:\n1.  **Very (มาก):** ใช้เพื่อเน้นย้ำคำ Adjective/Adverb ให้มีความหมายหนักแน่นขึ้น เป็นการบอกระดับที่สูงในทางบวกหรือกลางๆ\n    *   ตำแหน่ง: วางหน้า Adjective/Adverb เสมอ เช่น `very hot`, `very quickly`\n\n2.  **Quite (ค่อนข้าง, ทีเดียว):** มีความหมายได้ 2 แบบขึ้นอยู่กับคำที่ตามมา\n    *   ตามด้วย Adjective ทั่วไป (Gradable Adjectives) จะแปลว่า 'ค่อนข้าง' (fairly, moderately) เช่น `quite good` (ค่อนข้างดี), `quite cold` (ค่อนข้างหนาว)\n    *   ตามด้วย Adjective ที่บอกระดับสูงสุดอยู่แล้ว (Non-gradable Adjectives) จะแปลว่า 'โดยสิ้นเชิง', 'อย่างแท้จริง' (completely, absolutely) เช่น `quite perfect` (สมบูรณ์แบบจริงๆ), `quite amazing` (น่าทึ่งจริงๆ)\n\n3.  **Too (เกินไป):** ใช้เพื่อบอกว่ามีบางสิ่ง 'มากเกินความจำเป็น' หรือ 'มากเกินกว่าที่จะดี' ซึ่งมักจะให้ความหมายในเชิงลบ\n    *   ตำแหน่ง: วางหน้า Adjective/Adverb เสมอ เช่น `too expensive` (แพงเกินไป), `too slowly` (ช้าเกินไป)\n    *   โครงสร้างที่พบบ่อย: `too + adj/adv + to + verb` เช่น `It's too cold to swim.` (มันหนาวเกินไปที่จะว่ายน้ำ)\n\n4.  **Enough (เพียงพอ):** ใช้เพื่อบอกว่ามีบางสิ่งในระดับที่ 'พอดี' หรือ 'พอเพียง' ตามที่ต้องการ\n    *   ตำแหน่ง: **ต้องระวัง!** ตำแหน่งของ `enough` จะเปลี่ยนไปตามชนิดของคำที่ขยาย\n        *   **วางไว้หลัง Adjective/Adverb:** เช่น `warm enough` (อุ่นพอ), `fast enough` (เร็วพอ)\n        *   **วางไว้หน้า Noun (คำนาม):** เช่น `enough money` (เงินเพียงพอ), `enough time` (เวลาเพียงพอ)",
+    "examples": [
+      {
+        "eng": "The weather is very hot today.",
+        "thai": "วันนี้อากาศร้อนมาก ('very' ขยาย 'hot' เพื่อบอกว่าร้อนในระดับที่สูง)"
+      },
+      {
+        "eng": "The movie was quite interesting.",
+        "thai": "หนังเรื่องนั้นค่อนข้างน่าสนใจ ('quite' ขยาย 'interesting' บอกว่าน่าสนใจในระดับหนึ่ง ไม่ได้น่าสนใจที่สุด)"
+      },
+      {
+        "eng": "This coffee is too hot to drink.",
+        "thai": "กาแฟนี้ร้อนเกินไปที่จะดื่ม ('too' บอกว่าร้อนมากจนเป็นปัญหา ทำให้ดื่มไม่ได้)"
+      },
+      {
+        "eng": "Is the water warm enough for you?",
+        "thai": "น้ำอุ่นพอสำหรับคุณหรือยัง? ('enough' วางไว้หลัง Adjective 'warm')"
+      },
+      {
+        "eng": "I don't have enough time to finish my homework.",
+        "thai": "ฉันมีเวลาไม่พอที่จะทำการบ้านให้เสร็จ ('enough' วางไว้หน้า Noun 'time')"
+      }
+    ],
+    "common_mistakes": "1.  **สับสนระหว่าง Too และ Very:** คนไทยมักใช้ 'very' แทน 'too' ในความหมายว่า 'มาก' แต่ความจริงแล้ว 'too' แปลว่า 'มากเกินไป' ซึ่งมีความหมายเชิงลบ\n    *   ผิด: `This bag is very heavy, I can't lift it.` (ควรใช้ too)\n    *   ถูก: `This bag is too heavy, I can't lift it.` (กระเป๋าใบนี้หนักเกินไป ฉันยกมันไม่ไหว)\n    *   ถูก: `This bag is very heavy, but I can lift it.` (กระเป๋าใบนี้หนักมาก แต่ฉันยกไหว)\n\n2.  **ตำแหน่งของ Enough:** นี่คือข้อผิดพลาดที่พบบ่อยที่สุด คือการวาง `enough` ไว้หน้า Adjective เหมือนในภาษาไทย (เช่น 'พออุ่น' -> `enough warm`)\n    *   ผิด: `He is not enough tall to reach the shelf.`\n    *   ถูก: `He is not tall enough to reach the shelf.` (เขาสูงไม่พอที่จะเอื้อมถึงชั้นวางของ)\n    *   จำง่ายๆ: **Adjective/Adverb + enough** แต่ **enough + Noun**\n\n3.  **การใช้ Very กับ Verb:** โดยทั่วไปแล้ว `very` จะไม่ใช้ขยาย Verb โดยตรง คนไทยอาจจะติดพูดว่า 'I very love you.'\n    *   ผิด: `I very like this song.`\n    *   ถูก: `I like this song very much.`\n    *   ถูก: `I really like this song.`",
+    "practice_questions": [
+      {
+        "question": "This soup is ______ salty. I can't eat it.",
+        "options": [
+          "A. very",
+          "B. too",
+          "C. enough",
+          "D. quite"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคบอกว่า 'ฉันกินมันไม่ได้' แสดงว่าเป็นความเค็มในระดับที่มากเกินไป (เชิงลบ) จึงต้องใช้ 'too' ที่แปลว่า '...เกินไป'"
+      },
+      {
+        "question": "You are not driving fast ______ to win the race.",
+        "options": [
+          "A. enough",
+          "B. very",
+          "C. too",
+          "D. quite"
+        ],
+        "answer": "A",
+        "explanation": "คำว่า 'fast' เป็น Adverb ในที่นี้ ตามกฎแล้ว 'enough' จะต้องวางไว้หลัง Adjective หรือ Adverb 'fast enough' แปลว่า 'เร็วเพียงพอ'"
+      },
+      {
+        "question": "I don't have ______ money to buy that expensive car.",
+        "options": [
+          "A. money very",
+          "B. money too",
+          "C. enough money",
+          "D. money enough"
+        ],
+        "answer": "C",
+        "explanation": "คำว่า 'money' เป็นคำนาม (Noun) ตามกฎแล้ว 'enough' จะต้องวางไว้หน้าคำนาม จึงเป็น 'enough money' แปลว่า 'เงินเพียงพอ'"
+      },
+      {
+        "question": "It's a ______ good idea, but I think we can do better.",
+        "options": [
+          "A. too",
+          "B. enough",
+          "C. quite",
+          "D. very much"
+        ],
+        "answer": "C",
+        "explanation": "'quite' แปลว่า 'ค่อนข้าง' ใช้ในสถานการณ์ที่บอกว่าสิ่งนั้นดีในระดับหนึ่ง แต่ยังไม่ดีที่สุด ซึ่งสอดคล้องกับส่วนท้ายของประโยคที่ว่า 'แต่ฉันว่าเราทำได้ดีกว่านี้'"
+      },
+      {
+        "question": "She speaks English ______ well. Her pronunciation is excellent.",
+        "options": [
+          "A. too",
+          "B. enough",
+          "C. quite a",
+          "D. very"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคชมว่าการออกเสียงของเธอยอดเยี่ยม แสดงว่าเธอพูดภาษาอังกฤษได้ 'ดีมาก' จึงใช้ 'very' เพื่อเน้นย้ำ Adverb 'well'"
+      },
+      {
+        "question": "The box was ______ heavy for the child to carry.",
+        "options": [
+          "A. very",
+          "B. enough",
+          "C. quite",
+          "D. too"
+        ],
+        "answer": "D",
+        "explanation": "โครงสร้าง '... for someone to do something' ที่ตามมา บ่งบอกว่ามีบางอย่างมากเกินไปจนทำสิ่งนั้นไม่ได้ จึงต้องใช้ 'too' ซึ่งหมายถึง 'หนักเกินไป' สำหรับเด็กที่จะยก"
+      },
+      {
+        "question": "Are you old ______ to watch this movie? It's for adults only.",
+        "options": [
+          "A. enough",
+          "B. quite",
+          "C. very",
+          "D. too"
+        ],
+        "answer": "A",
+        "explanation": "คำว่า 'old' เป็น Adjective ตามกฎแล้ว 'enough' ต้องวางไว้ข้างหลัง เป็น 'old enough' เพื่อถามว่า 'อายุถึง/มากพอ' ที่จะดูหนังเรื่องนี้หรือไม่"
+      },
+      {
+        "question": "I didn't buy the shoes because they were ______ expensive.",
+        "options": [
+          "A. very",
+          "B. enough",
+          "C. too",
+          "D. much"
+        ],
+        "answer": "C",
+        "explanation": "เหตุผลที่ 'ไม่ได้ซื้อ' รองเท้า เป็นเพราะว่ามัน 'แพงเกินไป' ซึ่งเป็นความหมายเชิงลบ ทำให้การตัดสินใจไม่ซื้อเกิดขึ้น จึงใช้ 'too'"
+      },
+      {
+        "question": "His performance was ______ amazing! Everyone gave him a standing ovation.",
+        "options": [
+          "A. enough",
+          "B. quite",
+          "C. too",
+          "D. very much"
+        ],
+        "answer": "B",
+        "explanation": "คำว่า 'amazing' เป็น Adjective ที่บอกระดับสูงสุดอยู่แล้ว (non-gradable) การใช้ 'quite' กับคำประเภทนี้จะแปลว่า 'อย่างแท้จริง' หรือ 'โดยสิ้นเชิง' เพื่อเน้นย้ำความหมายให้หนักแน่นยิ่งขึ้น"
+      },
+      {
+        "question": "Which sentence is grammatically correct?",
+        "options": [
+          "A. The room is not enough large for all of us.",
+          "B. I very want to go to Japan.",
+          "C. The tea is hot enough to drink now.",
+          "D. He ran too slowly to enough win."
+        ],
+        "answer": "C",
+        "explanation": "A ผิดเพราะ 'enough' ต้องตามหลัง Adjective (large enough). B ผิดเพราะ 'very' ไม่ขยาย Verb 'want' โดยตรง (ต้องใช้ I really want...). D ผิดไวยากรณ์ C ถูกต้องเพราะ 'enough' วางอยู่หลัง Adjective 'hot' และโครงสร้างถูกต้อง"
+      }
+    ]
+  },
+  {
+    "id": "8_5",
+    "title": "8.5 Summary: Adverbs (สรุปคำกริยาวิเศษณ์ + 50 Exercises)",
+    "explanation": "นี่คือบทสรุปรวบยอดของเรื่อง Adverbs (คำกริยาวิเศษณ์) ทั้งหมดที่ได้เรียนมาครับ\n\n**1. Adverb คืออะไร?**\nAdverb (คำกริยาวิเศษณ์) คือคำที่ใช้ขยายคำอื่นๆ เพื่อให้ข้อมูลเพิ่มเติม ส่วนใหญ่เราจะคุ้นเคยว่ามันขยาย Verb (กริยา) แต่จริงๆ แล้วมันยังสามารถขยาย Adjective (คำคุณศัพท์), Adverb ตัวอื่น หรือแม้กระทั่งขยายทั้งประโยคได้ด้วย\n\n**2. หน้าที่และประเภทหลักของ Adverb**\nAdverbs ช่วยตอบคำถามเหล่านี้:\n*   **อย่างไร (How?) -> Adverbs of Manner**: บอกลักษณะอาการ มักลงท้ายด้วย -ly เช่น slowly, carefully, beautifully\n*   **ที่ไหน (Where?) -> Adverbs of Place**: บอกสถานที่ เช่น here, there, outside, upstairs\n*   **เมื่อไหร่ (When?) -> Adverbs of Time**: บอกเวลา เช่น now, yesterday, soon, later\n*   **บ่อยแค่ไหน (How often?) -> Adverbs of Frequency**: บอกความถี่ เช่น always, sometimes, never, often\n*   **มากน้อยแค่ไหน (To what extent?) -> Adverbs of Degree**: บอกระดับความเข้มข้น มักวางหน้าคำที่มันขยาย เช่น very, too, extremely, quite\n\n**3. การสร้าง Adverb**\nส่วนใหญ่สร้างโดยการเติม -ly ต่อท้าย Adjective (เช่น quick -> quickly) แต่มีรูปพิเศษที่ต้องจำ เช่น:\n*   good (adj.) -> well (adv.)\n*   fast (adj.) -> fast (adv.)\n*   hard (adj.) -> hard (adv.)\n*   late (adj.) -> late (adv.)\n\n**4. ตำแหน่งในประโยค (Position)**\n*   **ท้ายประโยค**: เป็นตำแหน่งที่พบบ่อยที่สุด โดยเฉพาะ Adverbs of Manner, Place, Time ถ้ามาพร้อมกัน ให้เรียงลำดับ **Manner -> Place -> Time** (อาการ -> สถานที่ -> เวลา) เช่น `He worked quietly in his room all day.`\n*   **กลางประโยค**: มักเป็น Adverbs of Frequency (วาง**หน้า**กริยาแท้ แต่**หลัง** Verb to be/กริยาช่วย) และ Adverbs of Degree (วาง**หน้า** Adjective/Adverb ที่มันขยาย) เช่น `She is **always** late.` หรือ `I **usually** get up early.`\n*   **ต้นประโยค**: ใช้เพื่อเน้นความสำคัญของ Adverb นั้นๆ มักเป็น Adverbs of Time หรือ Frequency เช่น `**Yesterday**, I met an old friend.`",
+    "examples": [
+      {
+        "eng": "The turtle walks slowly.",
+        "thai": "เต่าเดินอย่างช้าๆ (slowly เป็น Adverb of Manner ขยาย verb 'walks')"
+      },
+      {
+        "eng": "She is very smart.",
+        "thai": "เธอฉลาดมาก (very เป็น Adverb of Degree ขยาย adjective 'smart')"
+      },
+      {
+        "eng": "I never eat spicy food.",
+        "thai": "ฉันไม่เคยกินอาหารเผ็ดเลย (never เป็น Adverb of Frequency วางหน้า verb แท้ 'eat')"
+      },
+      {
+        "eng": "He will come here tomorrow.",
+        "thai": "เขาจะมาที่นี่พรุ่งนี้ (เรียงลำดับ Place 'here' ก่อน Time 'tomorrow')"
+      }
+    ],
+    "common_mistakes": "**1. สับสนระหว่าง Adjective กับ Adverb:**\n*   **ผิด:** `He runs quick.`\n*   **ถูก:** `He runs quickly.` (ต้องใช้ Adverb ขยาย Verb 'runs')\n\n**2. ใช้ `good` แทน `well`:**\n*   **ผิด:** `She plays the piano good.`\n*   **ถูก:** `She plays the piano well.` (`well` คือ Adverb ของ `good` ใช้ขยาย Verb 'plays')\n\n**3. วางตำแหน่ง Adverb of Frequency ผิด:**\n*   **ผิด:** `I go sometimes to the cinema.`\n*   **ถูก:** `I sometimes go to the cinema.` (ต้องวางหน้ากริยาแท้)\n*   **ผิด:** `He always is happy.`\n*   **ถูก:** `He is always happy.` (ต้องวางหลัง Verb to be)\n\n**4. สับสนระหว่าง `hard` กับ `hardly`:**\n*   `hard` (adv.) แปลว่า \"อย่างหนัก\" -> `She studies hard.` (เธอเรียนอย่างหนัก)\n*   `hardly` (adv.) แปลว่า \"แทบจะไม่\" -> `She hardly studies.` (เธอแทบจะไม่ได้เรียนเลย) ความหมายต่างกันโดยสิ้นเชิง\n\n**5. เรียงลำดับ Adverb ท้ายประโยคผิด:**\n*   **ผิด:** `He drove last night to Bangkok carefully.`\n*   **ถูก:** `He drove carefully to Bangkok last night.` (เรียง: Manner -> Place -> Time)",
+    "practice_questions": [
+      {
+        "question": "She speaks English ______.",
+        "options": [
+          "A. perfect",
+          "B. perfectly",
+          "C. perfected",
+          "D. perfection"
+        ],
+        "answer": "B",
+        "explanation": "ต้องใช้ Adverb 'perfectly' (อย่างสมบูรณ์แบบ) เพื่อขยาย Verb 'speaks'"
+      },
+      {
+        "question": "He ______ arrives on time. He's always late.",
+        "options": [
+          "A. usually",
+          "B. always",
+          "C. never",
+          "D. often"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคหลังบอกว่าเขามาสายเสมอ ดังนั้นประโยคแรกจึงต้องหมายความว่าเขา 'ไม่เคย' (never) มาตรงเวลา"
+      },
+      {
+        "question": "My father drives very ______.",
+        "options": [
+          "A. slow",
+          "B. slower",
+          "C. slowly",
+          "D. slowness"
+        ],
+        "answer": "C",
+        "explanation": "ต้องใช้ Adverb 'slowly' (อย่างช้าๆ) เพื่อขยาย Verb 'drives'"
+      },
+      {
+        "question": "That was a ______ good movie.",
+        "options": [
+          "A. real",
+          "B. really",
+          "C. reality",
+          "D. realize"
+        ],
+        "answer": "B",
+        "explanation": "ต้องใช้ Adverb 'really' (จริงๆ) เพื่อขยาย Adjective 'good'"
+      },
+      {
+        "question": "Can you please put the box ______?",
+        "options": [
+          "A. here",
+          "B. herely",
+          "C. at here",
+          "D. in here"
+        ],
+        "answer": "A",
+        "explanation": "'here' เป็น Adverb of Place (ที่นี่) ไม่ต้องมีบุพบทนำหน้า"
+      },
+      {
+        "question": "I haven't seen him ______.",
+        "options": [
+          "A. late",
+          "B. later",
+          "C. lately",
+          "D. latest"
+        ],
+        "answer": "C",
+        "explanation": "'lately' เป็น Adverb of Time แปลว่า 'เมื่อเร็วๆ นี้' มักใช้กับ Present Perfect Tense"
+      },
+      {
+        "question": "He did ______ in the exam.",
+        "options": [
+          "A. good",
+          "B. well",
+          "C. better",
+          "D. best"
+        ],
+        "answer": "B",
+        "explanation": "ต้องใช้ Adverb 'well' (ดี) เพื่อขยาย Verb 'did' (ในที่นี้คือทำข้อสอบ)"
+      },
+      {
+        "question": "He works ______ so he can earn more money.",
+        "options": [
+          "A. hard",
+          "B. hardly",
+          "C. harder",
+          "D. hardest"
+        ],
+        "answer": "A",
+        "explanation": "'hard' เป็น Adverb of Manner แปลว่า 'อย่างหนัก' ในขณะที่ 'hardly' แปลว่า 'แทบจะไม่'"
+      },
+      {
+        "question": "The children are playing ______ in the garden.",
+        "options": [
+          "A. happy",
+          "B. happily",
+          "C. happiness",
+          "D. happier"
+        ],
+        "answer": "B",
+        "explanation": "ต้องใช้ Adverb 'happily' (อย่างมีความสุข) เพื่อขยาย Verb 'are playing'"
+      },
+      {
+        "question": "The train is ______ fast.",
+        "options": [
+          "A. extreme",
+          "B. extremes",
+          "C. extremist",
+          "D. extremely"
+        ],
+        "answer": "D",
+        "explanation": "ต้องใช้ Adverb of Degree 'extremely' (อย่างสุดๆ) เพื่อขยาย Adverb 'fast'"
+      },
+      {
+        "question": "Which sentence has the correct adverb placement?",
+        "options": [
+          "A. I often go to the park.",
+          "B. I go often to the park.",
+          "C. To the park I go often.",
+          "D. I go to the park often."
+        ],
+        "answer": "A",
+        "explanation": "Adverb of Frequency 'often' ควรวางไว้หน้า Verb แท้ 'go'"
+      },
+      {
+        "question": "She ______ goes to bed early because she has to wake up at 5 a.m.",
+        "options": [
+          "A. never",
+          "B. rarely",
+          "C. always",
+          "D. sometimes"
+        ],
+        "answer": "C",
+        "explanation": "เหตุผลที่ว่าเธอต้องตื่นตี 5 สนับสนุนว่าเธอ 'มักจะ' หรือ 'เสมอ' (always) ที่จะเข้านอนเร็ว"
+      },
+      {
+        "question": "He ran as ______ as he could.",
+        "options": [
+          "A. fast",
+          "B. fastly",
+          "C. faster",
+          "D. fastest"
+        ],
+        "answer": "A",
+        "explanation": "'fast' เป็นทั้ง Adjective และ Adverb ไม่มีรูป 'fastly'"
+      },
+      {
+        "question": "I can ______ hear you. Could you speak up?",
+        "options": [
+          "A. hard",
+          "B. hardly",
+          "C. bare",
+          "D. barely"
+        ],
+        "answer": "B",
+        "explanation": "'hardly' (แทบจะไม่ได้ยิน) มีความหมายเหมือนกับ 'barely' ใช้ในบริบทที่ต้องการให้พูดดังขึ้น"
+      },
+      {
+        "question": "We went to the cinema ______.",
+        "options": [
+          "A. yesterday",
+          "B. tomorrow",
+          "C. today",
+          "D. yet"
+        ],
+        "answer": "A",
+        "explanation": "กริยา 'went' เป็นช่องที่ 2 (Past Simple) ดังนั้น Adverb of Time ต้องเป็นเวลาในอดีตคือ 'yesterday' (เมื่อวาน)"
+      },
+      {
+        "question": "My grandfather walks ______.",
+        "options": [
+          "A. cautious",
+          "B. caution",
+          "C. cautiously",
+          "D. cautiousness"
+        ],
+        "answer": "C",
+        "explanation": "ต้องใช้ Adverb 'cautiously' (อย่างระมัดระวัง) เพื่อขยาย Verb 'walks'"
+      },
+      {
+        "question": "The weather is ______ cold today.",
+        "options": [
+          "A. terribly",
+          "B. terrible",
+          "C. terrify",
+          "D. terror"
+        ],
+        "answer": "A",
+        "explanation": "ต้องใช้ Adverb 'terribly' (อย่างแย่, อย่างมาก) เพื่อขยาย Adjective 'cold'"
+      },
+      {
+        "question": "Don't stand ______. Come inside.",
+        "options": [
+          "A. up",
+          "B. down",
+          "C. outside",
+          "D. on"
+        ],
+        "answer": "C",
+        "explanation": "คำว่า 'Come inside' (เข้ามาข้างใน) บอกเป็นนัยว่าตอนแรกยืนอยู่ 'ข้างนอก' (outside)"
+      },
+      {
+        "question": "He arrived ______ for the meeting.",
+        "options": [
+          "A. late",
+          "B. lately",
+          "C. lateness",
+          "D. later"
+        ],
+        "answer": "A",
+        "explanation": "'late' เป็น Adverb of Time แปลว่า 'สาย' ส่วน 'lately' แปลว่า 'เมื่อเร็วๆ นี้'"
+      },
+      {
+        "question": "I am ______ ready to go.",
+        "options": [
+          "A. near",
+          "B. nearly",
+          "C. nearer",
+          "D. nearest"
+        ],
+        "answer": "B",
+        "explanation": "ต้องใช้ Adverb of Degree 'nearly' (เกือบจะ) เพื่อขยาย Adjective 'ready'"
+      },
+      {
+        "question": "She sang ______ at the concert last night.",
+        "options": [
+          "A. beautiful",
+          "B. beautifully",
+          "C. beauty",
+          "D. beautify"
+        ],
+        "answer": "B",
+        "explanation": "ต้องใช้ Adverb 'beautifully' (อย่างไพเราะ) เพื่อขยาย Verb 'sang'"
+      },
+      {
+        "question": "Which is the correct order of adverbs?",
+        "options": [
+          "A. She danced last night beautifully in the hall.",
+          "B. She danced in the hall beautifully last night.",
+          "C. She danced beautifully in the hall last night.",
+          "D. She danced last night in the hall beautifully."
+        ],
+        "answer": "C",
+        "explanation": "ลำดับที่ถูกต้องของ Adverb คือ Manner (beautifully) -> Place (in the hall) -> Time (last night)"
+      },
+      {
+        "question": "You should check your work more ______.",
+        "options": [
+          "A. careful",
+          "B. care",
+          "C. carefully",
+          "D. careless"
+        ],
+        "answer": "C",
+        "explanation": "ต้องใช้ Adverb 'carefully' (อย่างรอบคอบ) เพื่อขยาย Verb 'check'"
+      },
+      {
+        "question": "I was ______ surprised by the news.",
+        "options": [
+          "A. complete",
+          "B. completed",
+          "C. completion",
+          "D. completely"
+        ],
+        "answer": "D",
+        "explanation": "ต้องใช้ Adverb 'completely' (อย่างสิ้นเชิง) เพื่อขยาย Adjective 'surprised'"
+      },
+      {
+        "question": "He is ______ late for class.",
+        "options": [
+          "A. rarely",
+          "B. rare",
+          "C. rarity",
+          "D. rareness"
+        ],
+        "answer": "A",
+        "explanation": "'rarely' (ไม่ค่อยจะ) เป็น Adverb of Frequency ที่ใช้วางหน้า Verb แท้ หรือหลัง Verb to be"
+      },
+      {
+        "question": "Please speak ______; the baby is sleeping.",
+        "options": [
+          "A. quiet",
+          "B. quietly",
+          "C. quietness",
+          "D. quite"
+        ],
+        "answer": "B",
+        "explanation": "ต้องใช้ Adverb 'quietly' (อย่างเงียบๆ) เพื่อขยาย Verb 'speak'"
+      },
+      {
+        "question": "The plane flew ______ above the clouds.",
+        "options": [
+          "A. high",
+          "B. highly",
+          "C. height",
+          "D. higher"
+        ],
+        "answer": "A",
+        "explanation": "'high' เป็น Adverb of Place แปลว่า '(ในที่)สูง' ส่วน 'highly' แปลว่า 'อย่างมาก' (ใช้กับความเห็น เช่น highly recommended)"
+      },
+      {
+        "question": "We will be leaving ______.",
+        "options": [
+          "A. shortly",
+          "B. short",
+          "C. shorten",
+          "D. shortness"
+        ],
+        "answer": "A",
+        "explanation": "'shortly' เป็น Adverb of Time แปลว่า 'ในไม่ช้า' หรือ 'เร็วๆ นี้'"
+      },
+      {
+        "question": "He answered all the questions ______.",
+        "options": [
+          "A. correct",
+          "B. correctly",
+          "C. correction",
+          "D. correctness"
+        ],
+        "answer": "B",
+        "explanation": "ต้องใช้ Adverb 'correctly' (อย่างถูกต้อง) เพื่อขยาย Verb 'answered'"
+      },
+      {
+        "question": "I have ______ finished my homework.",
+        "options": [
+          "A. most",
+          "B. almost",
+          "C. at most",
+          "D. mostly"
+        ],
+        "answer": "B",
+        "explanation": "'almost' เป็น Adverb of Degree แปลว่า 'เกือบจะ' ใช้ในบริบทนี้หมายถึงเกือบจะทำเสร็จแล้ว"
+      },
+      {
+        "question": "The room was decorated ______.",
+        "options": [
+          "A. simple",
+          "B. simply",
+          "C. simplicity",
+          "D. simplified"
+        ],
+        "answer": "B",
+        "explanation": "ต้องใช้ Adverb 'simply' (อย่างเรียบง่าย) เพื่อขยาย Verb 'was decorated'"
+      },
+      {
+        "question": "The sun is shining ______ today.",
+        "options": [
+          "A. bright",
+          "B. brightly",
+          "C. brightness",
+          "D. brighten"
+        ],
+        "answer": "B",
+        "explanation": "ต้องใช้ Adverb 'brightly' (อย่างสว่างไสว) เพื่อขยาย Verb 'is shining'"
+      },
+      {
+        "question": "She looked at me ______ when I dropped the plate.",
+        "options": [
+          "A. angry",
+          "B. angrily",
+          "C. anger",
+          "D. angered"
+        ],
+        "answer": "B",
+        "explanation": "ต้องใช้ Adverb 'angrily' (อย่างโกรธเคือง) เพื่อขยาย Verb 'looked'"
+      },
+      {
+        "question": "He has ______ recovered from his illness.",
+        "options": [
+          "A. full",
+          "B. fully",
+          "C. fullness",
+          "D. fuller"
+        ],
+        "answer": "B",
+        "explanation": "ต้องใช้ Adverb 'fully' (อย่างสมบูรณ์) เพื่อขยาย Verb 'has recovered'"
+      },
+      {
+        "question": "It's raining ______.",
+        "options": [
+          "A. heavy",
+          "B. heavily",
+          "C. heaviness",
+          "D. heavier"
+        ],
+        "answer": "B",
+        "explanation": "ต้องใช้ Adverb 'heavily' (อย่างหนัก) เพื่อขยาย Verb 'is raining'"
+      },
+      {
+        "question": "Which sentence is incorrect?",
+        "options": [
+          "A. He speaks English fluently.",
+          "B. She is a loudly singer.",
+          "C. The dog barked loudly.",
+          "D. They live happily together."
+        ],
+        "answer": "B",
+        "explanation": "ประโยค B ผิด เพราะ 'loudly' เป็น Adverb ไม่สามารถขยาย Noun 'singer' ได้ ต้องใช้ Adjective 'loud' (She is a loud singer.)"
+      },
+      {
+        "question": "This coffee is ______ hot to drink.",
+        "options": [
+          "A. so",
+          "B. very",
+          "C. too",
+          "D. enough"
+        ],
+        "answer": "C",
+        "explanation": "'too' (เกินไป) มักใช้ในความหมายเชิงลบ คือร้อน 'เกินไป' ที่จะดื่มได้"
+      },
+      {
+        "question": "He is running ______ to catch the bus.",
+        "options": [
+          "A. fast enough",
+          "B. enough fast",
+          "C. faster enough",
+          "D. enough faster"
+        ],
+        "answer": "A",
+        "explanation": "Adverb 'enough' (เพียงพอ) จะวางไว้ 'หลัง' Adjective หรือ Adverb ที่มันขยาย"
+      },
+      {
+        "question": "I see him ______ at the library.",
+        "options": [
+          "A. sometime",
+          "B. sometimes",
+          "C. some time",
+          "D. some times"
+        ],
+        "answer": "B",
+        "explanation": "'sometimes' (บางครั้ง) เป็น Adverb of Frequency ส่วน 'sometime' คือ 'เวลาใดเวลาหนึ่ง' และ 'some time' คือ 'ระยะเวลาหนึ่ง'"
+      },
+      {
+        "question": "Let's go ______ for dinner.",
+        "options": [
+          "A. out",
+          "B. in",
+          "C. on",
+          "D. up"
+        ],
+        "answer": "A",
+        "explanation": "'go out' เป็นสำนวนหมายถึง 'ออกไปข้างนอก' และ 'out' ในที่นี้ทำหน้าที่เป็น Adverb of Place"
+      },
+      {
+        "question": "She ______ understood what I said.",
+        "options": [
+          "A. clear",
+          "B. clearly",
+          "C. clarity",
+          "D. cleared"
+        ],
+        "answer": "B",
+        "explanation": "ต้องใช้ Adverb 'clearly' (อย่างชัดเจน) เพื่อขยาย Verb 'understood'"
+      },
+      {
+        "question": "The results of the test were ______ good.",
+        "options": [
+          "A. surprise",
+          "B. surprised",
+          "C. surprisingly",
+          "D. surprising"
+        ],
+        "answer": "C",
+        "explanation": "ต้องใช้ Adverb 'surprisingly' (อย่างน่าประหลาดใจ) เพื่อขยาย Adjective 'good'"
+      },
+      {
+        "question": "He drives ______ fast, it's dangerous.",
+        "options": [
+          "A. such",
+          "B. so",
+          "C. too much",
+          "D. a lot"
+        ],
+        "answer": "B",
+        "explanation": "เราใช้ 'so' + adverb/adjective (so fast) เพื่อเน้นระดับความมาก และมักตามด้วยผลลัพธ์ (it's dangerous)"
+      },
+      {
+        "question": "She solved the puzzle ______.",
+        "options": [
+          "A. easy",
+          "B. easier",
+          "C. easiness",
+          "D. easily"
+        ],
+        "answer": "D",
+        "explanation": "ต้องใช้ Adverb 'easily' (อย่างง่ายดาย) เพื่อขยาย Verb 'solved'"
+      },
+      {
+        "question": "Have you finished your project ______?",
+        "options": [
+          "A. already",
+          "B. yet",
+          "C. still",
+          "D. just"
+        ],
+        "answer": "B",
+        "explanation": "'yet' (หรือยัง) มักใช้ในประโยคคำถามและปฏิเสธของ Present Perfect Tense และมักวางไว้ท้ายประโยค"
+      },
+      {
+        "question": "The teacher explained the lesson ______ so that everyone could understand.",
+        "options": [
+          "A. slow and clear",
+          "B. slowly and clearly",
+          "C. slow and clearly",
+          "D. slowly and clear"
+        ],
+        "answer": "B",
+        "explanation": "ทั้งสองคำขยาย Verb 'explained' ดังนั้นจึงต้องใช้ Adverb ทั้งคู่ คือ 'slowly' และ 'clearly'"
+      },
+      {
+        "question": "I don't know him that ______.",
+        "options": [
+          "A. good",
+          "B. well",
+          "C. better",
+          "D. best"
+        ],
+        "answer": "B",
+        "explanation": "ต้องใช้ Adverb 'well' (ดี) เพื่อขยาย Verb 'know'"
+      },
+      {
+        "question": "The music was ______ loud.",
+        "options": [
+          "A. incredible",
+          "B. incredibly",
+          "C. incredibility",
+          "D. incredulous"
+        ],
+        "answer": "B",
+        "explanation": "ต้องใช้ Adverb 'incredibly' (อย่างน่าเหลือเชื่อ) เพื่อขยาย Adjective 'loud'"
+      },
+      {
+        "question": "He ______ forgot her birthday.",
+        "options": [
+          "A. accidental",
+          "B. accident",
+          "C. accidentally",
+          "D. accidents"
+        ],
+        "answer": "C",
+        "explanation": "ต้องใช้ Adverb 'accidentally' (โดยบังเอิญ) เพื่อขยาย Verb 'forgot'"
+      },
+      {
+        "question": "We must leave ______ or we will miss the train.",
+        "options": [
+          "A. now",
+          "B. then",
+          "C. soon",
+          "D. later"
+        ],
+        "answer": "A",
+        "explanation": "'now' (ตอนนี้) เหมาะสมที่สุดในบริบทที่ว่าถ้าไม่ออกไป 'ตอนนี้' จะตกรถไฟ"
+      }
+    ]
+  }
+]

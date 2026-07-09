@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "14_1",
+    "title": "14.1 Subject + Verb + Object (S-V-O พื้นฐาน)",
+    "explanation": "โครงสร้างประโยคพื้นฐานที่สุดและพบบ่อยที่สุดในภาษาอังกฤษคือ Subject + Verb + Object หรือที่เราเรียกสั้นๆ ว่า S-V-O ซึ่งเป็นหัวใจสำคัญของการสร้างประโยคบอกเล่าครับ\n\nมาทำความเข้าใจแต่ละส่วนกัน:\n\n1.  **Subject (S) - ประธาน:** คือ คำนาม (Noun) หรือ สรรพนาม (Pronoun) ที่ทำหน้าที่เป็น 'ผู้กระทำ' ในประโยค พูดง่ายๆ ก็คือ 'ใคร' หรือ 'อะไร' ที่กำลังทำกริยานั้นๆ\n    *   ตัวอย่าง: **The cat** (แมว), **I** (ฉัน), **My teacher** (ครูของฉัน)\n\n2.  **Verb (V) - กริยา:** คือ คำที่แสดง 'การกระทำ' หรือ 'สภาวะ' ของประธาน เป็นหัวใจของประโยคที่บอกว่าประธานกำลังทำอะไร\n    *   ตัวอย่าง: eats (กิน), love (รัก), is teaching (กำลังสอน)\n\n3.  **Object (O) - กรรม:** คือ คำนาม (Noun) หรือ สรรพนาม (Pronoun) ที่ทำหน้าที่เป็น 'ผู้ถูกกระทำ' หรือ 'ผู้ที่ได้รับผล' จากการกระทำของประธาน กรรมจะตอบคำถามว่า \"(ทำกริยา)อะไร?\" หรือ \"(ทำกริยา)ใคร?\"\n    *   ตัวอย่าง: a fish (ปลา), you (คุณ), English (ภาษาอังกฤษ)\n\nดังนั้น เมื่อนำทั้ง 3 ส่วนมารวมกันในลำดับที่ถูกต้อง (S-V-O) เราก็จะได้ประโยคที่สมบูรณ์และมีความหมายชัดเจน เช่น:\n\n**The cat (S) eats (V) a fish (O).**\n(แมว กิน ปลา)\n\nการเข้าใจโครงสร้างนี้เป็นก้าวแรกที่สำคัญที่สุดในการเรียนรู้ Grammar ภาษาอังกฤษครับ",
+    "examples": [
+      {
+        "eng": "I love you.",
+        "thai": "ฉันรักคุณ\n- S (ประธาน): I (ฉัน)\n- V (กริยา): love (รัก)\n- O (กรรม): you (คุณ)"
+      },
+      {
+        "eng": "My sister plays the piano.",
+        "thai": "พี่สาวของฉันเล่นเปียโน\n- S (ประธาน): My sister (พี่สาวของฉัน)\n- V (กริยา): plays (เล่น)\n- O (กรรม): the piano (เปียโน)"
+      },
+      {
+        "eng": "The students read books.",
+        "thai": "นักเรียนหลายคนอ่านหนังสือ\n- S (ประธาน): The students (นักเรียนหลายคน)\n- V (กริยา): read (อ่าน)\n- O (กรรม): books (หนังสือ)"
+      },
+      {
+        "eng": "He is drinking water.",
+        "thai": "เขากำลังดื่มน้ำ\n- S (ประธาน): He (เขา)\n- V (กริยา): is drinking (กำลังดื่ม)\n- O (กรรม): water (น้ำ)"
+      }
+    ],
+    "common_mistakes": "1.  **เรียงลำดับคำผิด (Incorrect Word Order):** ภาษาไทยมีความยืดหยุ่นในการเรียงประโยคมากกว่า แต่ภาษาอังกฤษจะยึดโครงสร้าง S-V-O อย่างเคร่งครัด\n    *   ผิด: `I you love.` (ฉัน คุณ รัก) หรือ `You I love.` (คุณ ฉัน รัก)\n    *   ถูก: `I love you.` (ฉันรักคุณ)\n\n2.  **ละประธาน (Omitting the Subject):** ในภาษาไทย เรามักจะละประธานไว้ในฐานที่เข้าใจ เช่น \"กินข้าวแล้ว\" (รู้กันว่าหมายถึงฉัน/คุณ) แต่ในภาษาอังกฤษ ประโยคที่สมบูรณ์จะต้องมีประธานเสมอ\n    *   ผิด: `Eat rice.` (ถ้าจะพูดเป็นประโยคบอกเล่า)\n    *   ถูก: `I eat rice.` (ฉันกินข้าว)\n\n3.  **ลืมกรรมของกริยา (Omitting the Object):** กริยาบางตัว (เรียกว่า Transitive Verbs) จำเป็นต้องมีกรรมมารองรับเสมอเพื่อให้ความหมายสมบูรณ์ การพูดแค่ประธานกับกริยาอาจทำให้ประโยคไม่สมบูรณ์\n    *   ผิด: `She wants.` (เธอต้องการ...ต้องการอะไร?)\n    *   ถูก: `She wants a new phone.` (เธอต้องการโทรศัพท์เครื่องใหม่)\n    *   ผิด: `I like.` (ฉันชอบ...ชอบอะไร?)\n    *   ถูก: `I like this song.` (ฉันชอบเพลงนี้)",
+    "practice_questions": [
+      {
+        "question": "In the sentence 'The chef cooks delicious food.', what is the 'Subject'?",
+        "options": [
+          "A. cooks",
+          "B. The chef",
+          "C. delicious",
+          "D. food"
+        ],
+        "answer": "B",
+        "explanation": "ประธาน (Subject) คือผู้กระทำกริยา ในที่นี้ 'The chef' (พ่อครัว) คือผู้ที่ 'cooks' (ทำอาหาร) ดังนั้น 'The chef' จึงเป็นประธานของประโยค"
+      },
+      {
+        "question": "In the sentence 'I watch a movie every weekend.', what is the 'Verb'?",
+        "options": [
+          "A. I",
+          "B. a movie",
+          "C. watch",
+          "D. every weekend"
+        ],
+        "answer": "C",
+        "explanation": "กริยา (Verb) คือคำที่แสดงการกระทำ ในประโยคนี้ 'watch' (ดู) คือการกระทำที่ประธาน (I) ทำ"
+      },
+      {
+        "question": "In the sentence 'They build a beautiful house.', what is the 'Object'?",
+        "options": [
+          "A. They",
+          "B. build",
+          "C. a beautiful house",
+          "D. beautiful"
+        ],
+        "answer": "C",
+        "explanation": "กรรม (Object) คือผู้ถูกกระทำ ในที่นี้ 'a beautiful house' (บ้านที่สวยงามหลังหนึ่ง) คือสิ่งที่ถูก 'build' (สร้าง) โดยประธาน (They)"
+      },
+      {
+        "question": "Choose the correct sentence order for these words: 'a letter / writes / Maria'.",
+        "options": [
+          "A. A letter writes Maria.",
+          "B. Writes Maria a letter.",
+          "C. Maria a letter writes.",
+          "D. Maria writes a letter."
+        ],
+        "answer": "D",
+        "explanation": "โครงสร้างประโยคที่ถูกต้องคือ S-V-O: ประธาน (Maria) + กริยา (writes) + กรรม (a letter)"
+      },
+      {
+        "question": "Which sentence is grammatically correct?",
+        "options": [
+          "A. The cat milk drinks.",
+          "B. Drinks the cat milk.",
+          "C. The cat drinks milk.",
+          "D. Milk the cat drinks."
+        ],
+        "answer": "C",
+        "explanation": "ประโยคที่ถูกต้องตามโครงสร้าง S-V-O คือ 'The cat' (S) + 'drinks' (V) + 'milk' (O)"
+      },
+      {
+        "question": "My friend and I ___ a song together.",
+        "options": [
+          "A. sang",
+          "B. beautiful",
+          "C. happily",
+          "D. we"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้ขาดกริยา (Verb) เพื่อบอกว่าประธาน 'My friend and I' ทำอะไร คำว่า 'sang' (ร้องเพลง) เป็นกริยาที่เหมาะสมที่สุด"
+      },
+      {
+        "question": "The teacher is explaining ___.",
+        "options": [
+          "A. careful",
+          "B. the lesson",
+          "C. teaches",
+          "D. student"
+        ],
+        "answer": "B",
+        "explanation": "กริยา 'is explaining' (กำลังอธิบาย) เป็นกริยาที่ต้องการกรรม (Object) มารองรับว่าอธิบาย 'อะไร' คำว่า 'the lesson' (บทเรียน) ทำหน้าที่เป็นกรรมได้ถูกต้อง"
+      },
+      {
+        "question": "Which of the following sentences is INCORRECT based on the S-V-O structure?",
+        "options": [
+          "A. She reads a book.",
+          "B. Plays football in the park.",
+          "C. We eat dinner at 7 PM.",
+          "D. The dog chases its tail."
+        ],
+        "answer": "B",
+        "explanation": "ประโยค B 'Plays football in the park.' ไม่ถูกต้องเพราะไม่มีประธาน (Subject) บอกว่าใครเป็นคนเล่นฟุตบอล ซึ่งเป็นข้อผิดพลาดที่พบบ่อย (ละประธาน)"
+      },
+      {
+        "question": "Rearrange the words to form a correct sentence: 'new car / bought / my father / a'.",
+        "options": [
+          "A. A new car my father bought.",
+          "B. My father bought a new car.",
+          "C. Bought my father a new car.",
+          "D. My father a new car bought."
+        ],
+        "answer": "B",
+        "explanation": "ตามโครงสร้าง S-V-O ที่ถูกต้อง: ประธาน 'My father' + กริยา 'bought' + กรรม 'a new car'"
+      },
+      {
+        "question": "___ fixed the broken computer.",
+        "options": [
+          "A. The technician",
+          "B. Quickly",
+          "C. Broken",
+          "D. Yesterday"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้ขาดประธาน (Subject) หรือผู้กระทำ 'The technician' (ช่างเทคนิค) เป็นคำนามที่สามารถทำหน้าที่เป็นประธานของประโยคได้เหมาะสมที่สุด"
+      }
+    ]
+  },
+  {
+    "id": "14_2",
+    "title": "14.2 Subject + Verb + Complement (S-V-C)",
+    "explanation": "โครงสร้างประโยคแบบ S-V-C เป็นหนึ่งในโครงสร้างพื้นฐานที่สุดในภาษาอังกฤษ ประกอบด้วย:\n\n1.  **S (Subject):** ประธานของประโยค คือผู้กระทำหรือสิ่งที่เป็นหัวข้อหลักของประโยค\n2.  **V (Verb):** กริยาในโครงสร้างนี้ไม่ใช่กริยาที่แสดงอาการ (Action Verb) แต่เป็น **Linking Verb** (กริยาเชื่อม) ซึ่งทำหน้าที่เชื่อมประธาน (S) เข้ากับข้อมูลที่ตามมา เพื่อบอกว่าประธาน 'คืออะไร' หรือ 'เป็นอย่างไร'\n    *   Linking Verbs ที่พบบ่อยที่สุดคือ **Verb to be** (is, am, are, was, were)\n    *   กริยาเชื่อมอื่นๆ เช่น **seem** (ดูเหมือนว่า), **look** (ดู), **feel** (รู้สึก), **sound** (ฟังดู), **taste** (มีรสชาติ), **smell** (มีกลิ่น), **become** (กลายเป็น), **remain** (ยังคงเป็น)\n3.  **C (Complement):** ส่วนเติมเต็ม ทำหน้าที่ให้ข้อมูลเพิ่มเติมเกี่ยวกับประธาน (S) เพื่อทำให้ประโยคสมบูรณ์ Complement จะบอกคุณลักษณะ สภาพ หรือสถานะของประธาน เปรียบเสมือนเครื่องหมายเท่ากับ (=) คือ S = C\n\n**ประเภทของ Complement:**\n*   **Predicate Adjective (คุณศัพท์):** คำ Adjective ที่มาขยายประธาน เช่น `She is **beautiful**.` (beautiful ขยาย She)\n*   **Predicate Nominative (คำนาม):** คำนามที่มาเพื่อบอกว่าประธานคือใครหรือคืออะไร เช่น `He is **a doctor**.` (a doctor คือ He)",
+    "examples": [
+      {
+        "eng": "She is a teacher.",
+        "thai": "เธอคือคุณครู (S = She, V = is, C = a teacher (คำนาม)). ประโยคนี้บอกว่า 'เธอ' คือ 'คุณครู'"
+      },
+      {
+        "eng": "The food tastes delicious.",
+        "thai": "อาหารจานนี้รสชาติอร่อย (S = The food, V = tastes, C = delicious (คุณศัพท์)). ประโยคนี้บอกสภาพหรือคุณลักษณะของ 'อาหาร'"
+      },
+      {
+        "eng": "My brother became a lawyer.",
+        "thai": "พี่ชายของฉันได้เป็นทนายความ (S = My brother, V = became, C = a lawyer (คำนาม)). ประโยคนี้บอกว่า 'พี่ชาย' ได้กลายเป็น 'ทนายความ'"
+      },
+      {
+        "eng": "You look tired.",
+        "thai": "คุณดูเหนื่อยนะ (S = You, V = look, C = tired (คุณศัพท์)). ประโยคนี้บอกสภาพของ 'คุณ'"
+      },
+      {
+        "eng": "The weather remains cold.",
+        "thai": "อากาศยังคงหนาวเย็น (S = The weather, V = remains, C = cold (คุณศัพท์)). ประโยคนี้บอกสภาวะของ 'อากาศ'"
+      }
+    ],
+    "common_mistakes": "1. **สับสนระหว่าง Complement (ส่วนเติมเต็ม) กับ Object (กรรม):**\n   *   **ผิด:** คนไทยมักคิดว่าคำที่ตามหลัง Verb คือกรรมเสมอ\n   *   **ถูกต้อง:** ต้องดูที่ชนิดของ Verb ถ้าเป็น Linking Verb (is, am, are, feel, seem) คำที่ตามมาคือ Complement ซึ่งจะอธิบายประธาน แต่ถ้าเป็น Action Verb (eat, play, build) คำที่ตามมาคือ Object ซึ่งเป็นผู้ถูกกระทำ\n   *   **ตัวอย่าง:**\n     *   `He feels **sad**.` (S-V-C) -> `sad` อธิบาย `He` (เขา=เศร้า)\n     *   `He reads **a book**.` (S-V-O) -> `a book` ถูก `He` กระทำ (เขา ≠ หนังสือ)\n\n2. **ใช้ Adverb แทน Adjective หลัง Linking Verb:**\n   *   **ผิด:** `The soup tastes **deliciously**.`\n   *   **ถูกต้อง:** `The soup tastes **delicious**.`\n   *   **คำอธิบาย:** เราต้องการคำคุณศัพท์ (Adjective) เพื่อขยายประธาน (The soup) ไม่ใช่คำวิเศษณ์ (Adverb) เพื่อขยายกริยา (tastes) เพราะ Linking verb ไม่ได้แสดงอาการ แต่เชื่อมประธานกับคุณลักษณะของมัน\n\n3. **ลืมใช้ Verb to be:**\n   *   ในภาษาไทย เราสามารถพูดว่า \"เขาหล่อ\" ได้โดยไม่ต้องมีคำว่า 'เป็น' หรือ 'คือ' แต่ในภาษาอังกฤษจะละกริยาไม่ได้\n   *   **ผิด:** `He handsome.`\n   *   **ถูกต้อง:** `He **is** handsome.`",
+    "practice_questions": [
+      {
+        "question": "The children seem very ______ today.",
+        "options": [
+          "A. happily",
+          "B. happy",
+          "C. happiness",
+          "D. happen"
+        ],
+        "answer": "B",
+        "explanation": "หลัง Linking Verb 'seem' ต้องใช้ Adjective (happy) เพื่ออธิบายสภาพของประธาน (The children) ไม่ใช่ Adverb (happily)"
+      },
+      {
+        "question": "After the promotion, Sarah became ______ of the department.",
+        "options": [
+          "A. the manage",
+          "B. managing",
+          "C. the manager",
+          "D. managerially"
+        ],
+        "answer": "C",
+        "explanation": "'became' เป็น Linking Verb ส่วนเติมเต็ม (Complement) ที่ตามมาควรเป็นคำนาม (the manager) เพื่อบอกว่า Sarah กลายเป็นอะไร"
+      },
+      {
+        "question": "This velvet fabric feels incredibly ______.",
+        "options": [
+          "A. soft",
+          "B. softly",
+          "C. soften",
+          "D. softness"
+        ],
+        "answer": "A",
+        "explanation": "หลัง Linking Verb 'feels' เราใช้ Adjective (soft) เพื่อบรรยายลักษณะของประธาน (This velvet fabric)"
+      },
+      {
+        "question": "My father ______ a retired police officer.",
+        "options": [
+          "A. are",
+          "B. am",
+          "C. is",
+          "D. be"
+        ],
+        "answer": "C",
+        "explanation": "ประธาน 'My father' เป็นเอกพจน์บุรุษที่ 3 จึงต้องใช้ Verb to be 'is'"
+      },
+      {
+        "question": "Which of the following sentences has an S-V-C structure?",
+        "options": [
+          "A. She wrote a letter.",
+          "B. The baby is sleeping.",
+          "C. The plan sounds perfect.",
+          "D. He ran to the store."
+        ],
+        "answer": "C",
+        "explanation": "ประโยค 'The plan sounds perfect' ใช้ Linking Verb 'sounds' เชื่อมประธาน 'The plan' กับส่วนเติมเต็มที่เป็น Adjective 'perfect' ส่วนข้ออื่นเป็นโครงสร้างแบบอื่น (A: S-V-O, B: S-V, D: S-V-Adv)"
+      },
+      {
+        "question": "The defendant remained ______ throughout the trial.",
+        "options": [
+          "A. silent",
+          "B. silently",
+          "C. silence",
+          "D. silences"
+        ],
+        "answer": "A",
+        "explanation": "'remained' ทำหน้าที่เป็น Linking Verb ในประโยคนี้ ดังนั้นจึงต้องตามด้วย Adjective (silent) เพื่ออธิบายสภาพของจำเลย (the defendant)"
+      },
+      {
+        "question": "Choose the incorrect sentence.",
+        "options": [
+          "A. You look beautifully today.",
+          "B. The flowers smell sweet.",
+          "C. He is a good student.",
+          "D. The milk turned sour."
+        ],
+        "answer": "A",
+        "explanation": "ประโยคที่ผิดคือ A. หลัง Linking Verb 'look' ควรใช้ Adjective 'beautiful' ไม่ใช่ Adverb 'beautifully' ที่ถูกต้องคือ 'You look beautiful today.'"
+      },
+      {
+        "question": "In the sentence 'My best friend is a talented artist,' the complement is ______.",
+        "options": [
+          "A. My best friend",
+          "B. is",
+          "C. a talented artist",
+          "D. talented"
+        ],
+        "answer": "C",
+        "explanation": "ส่วนเติมเต็ม (Complement) คือส่วนที่ตามหลัง Linking Verb 'is' เพื่อให้ข้อมูลเกี่ยวกับประธาน ในที่นี้คือ 'a talented artist' ซึ่งเป็นคำนามที่บอกว่า 'My best friend' คือใคร"
+      },
+      {
+        "question": "The music from the next room sounds very ______.",
+        "options": [
+          "A. loud",
+          "B. loudly",
+          "C. loudness",
+          "D. louder"
+        ],
+        "answer": "A",
+        "explanation": "'sounds' เป็น Linking Verb ที่เชื่อมโยงกับประสาทสัมผัส ต้องตามด้วย Adjective (loud) เพื่อขยายประธาน (The music)"
+      },
+      {
+        "question": "All the candidates appeared ______ for the interview.",
+        "options": [
+          "A. nervous",
+          "B. nervously",
+          "C. nervousness",
+          "D. nerve"
+        ],
+        "answer": "A",
+        "explanation": "ในบริบทนี้ 'appeared' ทำหน้าที่เหมือน 'seemed' ซึ่งเป็น Linking Verb ดังนั้นต้องตามด้วย Adjective (nervous) เพื่ออธิบายสภาพของผู้สมัคร (the candidates)"
+      }
+    ]
+  },
+  {
+    "id": "14_3",
+    "title": "14.3 Direct vs. Indirect Objects (S-V-O-O)",
+    "explanation": "โครงสร้างประโยคที่มีกรรมสองตัว (S-V-O-O) เป็นโครงสร้างที่พบบ่อยในภาษาอังกฤษ ประกอบด้วย Subject (ประธาน), Verb (กริยา), Indirect Object (กรรมรอง), และ Direct Object (กรรมตรง)\n\n1.  **Direct Object (DO) - กรรมตรง**\n    *   คือผู้หรือสิ่งที่ 'ถูกกระทำ' โดยตรงจากกริยา\n    *   ตอบคำถามว่า Verb + 'อะไร' (what?) หรือ 'ใคร' (whom?)\n    *   ตัวอย่าง: He threw **the ball**. (เขาขว้าง**ลูกบอล**) -> ขว้างอะไร? -> ลูกบอล (the ball คือ DO)\n\n2.  **Indirect Object (IO) - กรรมรอง**\n    *   คือผู้ที่ 'ได้รับ' ผลประโยชน์หรือเป็นผู้รับของการกระทำนั้น\n    *   มักจะเป็นคนหรือสิ่งมีชีวิต\n    *   ตอบคำถามว่า 'ถึงใคร/เพื่อใคร' (to whom/for whom?)\n    *   ตัวอย่าง: He threw **me** the ball. (เขาขว้างลูกบอล**ให้ฉัน**) -> ขว้างให้ใคร? -> ให้ฉัน (me คือ IO)\n\n**รูปแบบโครงสร้างประโยคมี 2 แบบ:**\n\n*   **แบบที่ 1: S + V + IO + DO**\n    *   โครงสร้างนี้จะวางกรรมรอง (คน) ไว้ก่อนกรรมตรง (สิ่งของ)\n    *   เช่น: She gave **me** (IO) **a book** (DO). (เธอให้หนังสือฉันหนึ่งเล่ม)\n\n*   **แบบที่ 2: S + V + DO + Preposition (to/for) + IO**\n    *   โครงสร้างนี้จะวางกรรมตรง (สิ่งของ) ก่อน แล้วตามด้วยบุพบท `to` หรือ `for` แล้วค่อยตามด้วยกรรมรอง (คน)\n    *   เช่น: She gave **a book** (DO) **to me** (IO). (เธอให้หนังสือหนึ่งเล่มแก่ฉัน)\n\n**กริยาที่มักใช้กับโครงสร้างนี้:**\n*   ใช้กับ `to`: give, send, tell, show, pass, lend, write, teach, offer\n*   ใช้กับ `for`: buy, make, get, find, cook, build, order",
+    "examples": [
+      {
+        "eng": "My father told me a story.",
+        "thai": "พ่อเล่าเรื่องราวให้ฉันฟัง\n- `me` คือ กรรมรอง (Indirect Object) - เล่าให้ใคร?\n- `a story` คือ กรรมตรง (Direct Object) - เล่าอะไร?"
+      },
+      {
+        "eng": "My father told a story to me.",
+        "thai": "ความหมายเหมือนประโยคแรก แต่เปลี่ยนโครงสร้างโดยเอากรรมตรง (a story) ขึ้นก่อน และต้องมี `to` มาคั่นหน้ากรรมรอง (me)"
+      },
+      {
+        "eng": "She bought her daughter a new dress.",
+        "thai": "เธอซื้อชุดใหม่ให้ลูกสาวของเธอ\n- `her daughter` คือ กรรมรอง (IO) - ซื้อให้ใคร?\n- `a new dress` คือ กรรมตรง (DO) - ซืออะไร?"
+      },
+      {
+        "eng": "She bought a new dress for her daughter.",
+        "thai": "ความหมายเหมือนประโยคก่อนหน้า สังเกตว่ากริยา `buy` จะใช้กับบุพบท `for` ไม่ใช่ `to`"
+      },
+      {
+        "eng": "Can you pass me the salt?",
+        "thai": "คุณช่วยส่งเกลือให้ฉันหน่อยได้ไหม?\n- `me` คือ กรรมรอง (IO)\n- `the salt` คือ กรรมตรง (DO)"
+      },
+      {
+        "eng": "Can you pass the salt to me?",
+        "thai": "ความหมายเหมือนกัน ใช้ `to` เพราะ `pass` เป็นการส่งต่อจากคนหนึ่งไปยังอีกคนหนึ่ง"
+      }
+    ],
+    "common_mistakes": "1.  **สลับตำแหน่งกรรมโดยไม่ใส่บุพบท (Preposition)**\n    *   ผิด: He gave a book me. (ไม่มี `to`)\n    *   ผิด: She bought a doll her sister. (ไม่มี `for`)\n    *   ถูก: He gave **me** a book. (S-V-IO-DO)\n    *   ถูก: He gave a book **to me**. (S-V-DO-to-IO)\n    *   ถูก: She bought **her sister** a doll. (S-V-IO-DO)\n    *   ถูก: She bought a doll **for her sister**. (S-V-DO-for-IO)\n\n2.  **ใช้บุพบท `to` และ `for` สลับกัน**\n    *   หลักการจำง่ายๆ:\n        *   **to** ใช้กับการ 'ส่งต่อ/ย้ายที่' ของบางสิ่งจากคนหนึ่งไปอีกคนหนึ่ง (give, send, tell, pass, show, lend)\n        *   **for** ใช้เมื่อเป็นการ 'ทำบางอย่างให้' เป็นการบริการ หรือทำเพื่อผลประโยชน์ของอีกฝ่าย (buy, make, get, find, cook, build)\n    *   ผิด: I bought a gift **to** my friend. (ซื้อของขวัญเป็นการ 'ทำให้' ไม่ใช่ 'ส่งต่อ')\n    *   ถูก: I bought a gift **for** my friend.\n    *   ผิด: Please send this email **for** Mr. Smith. (การส่งอีเมลคือการ 'ส่งต่อ' ข้อมูล)\n    *   ถูก: Please send this email **to** Mr. Smith.",
+    "practice_questions": [
+      {
+        "question": "In the sentence 'The manager offered her a promotion', what is the indirect object?",
+        "options": [
+          "A. The manager",
+          "B. offered",
+          "C. her",
+          "D. a promotion"
+        ],
+        "answer": "C",
+        "explanation": "กรรมรอง (Indirect Object) คือผู้ที่ได้รับการกระทำ ในที่นี้คือ 'her' (เธอ) ซึ่งเป็นผู้ที่ได้รับข้อเสนอ"
+      },
+      {
+        "question": "In the sentence 'I made my family dinner', what is the direct object?",
+        "options": [
+          "A. I",
+          "B. made",
+          "C. my family",
+          "D. dinner"
+        ],
+        "answer": "D",
+        "explanation": "กรรมตรง (Direct Object) คือสิ่งที่ถูกกระทำโดยตรง ในที่นี้คือ 'dinner' (อาหารเย็น) ซึ่งเป็นสิ่งที่ถูกทำขึ้นมา"
+      },
+      {
+        "question": "Choose the grammatically correct sentence.",
+        "options": [
+          "A. He showed to us his new car.",
+          "B. He showed his new car us.",
+          "C. He showed us his new car.",
+          "D. He showed his new car for us."
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้ใช้โครงสร้าง S-V-IO-DO (Subject-Verb-Indirect Object-Direct Object) ที่ถูกต้องคือ 'He showed us his new car' โดยไม่ต้องมีบุพบท"
+      },
+      {
+        "question": "Which sentence has the same meaning as 'My aunt sent me a postcard'?",
+        "options": [
+          "A. My aunt sent a postcard for me.",
+          "B. A postcard sent my aunt to me.",
+          "C. My aunt sent to me a postcard.",
+          "D. My aunt sent a postcard to me."
+        ],
+        "answer": "D",
+        "explanation": "ประโยค 'My aunt sent me a postcard' (S-V-IO-DO) สามารถเปลี่ยนเป็น 'My aunt sent a postcard to me' (S-V-DO-to-IO) ได้โดยความหมายไม่เปลี่ยน กริยา 'send' ใช้กับบุพบท 'to'"
+      },
+      {
+        "question": "Please find a good book ___ your brother.",
+        "options": [
+          "A. to",
+          "B. for",
+          "C. with",
+          "D. on"
+        ],
+        "answer": "B",
+        "explanation": "กริยา 'find' (หา) เป็นการกระทำ 'เพื่อ' ใครบางคน จึงต้องใช้บุพบท 'for'"
+      },
+      {
+        "question": "Could you lend some money ___ me?",
+        "options": [
+          "A. for",
+          "B. at",
+          "C. to",
+          "D. from"
+        ],
+        "answer": "C",
+        "explanation": "กริยา 'lend' (ให้ยืม) คือการส่งต่อสิ่งของ (เงิน) จากคนหนึ่งไปยังอีกคนหนึ่ง จึงต้องใช้บุพบท 'to'"
+      },
+      {
+        "question": "Which of the following sentences is INCORRECT?",
+        "options": [
+          "A. She cooked her friends a delicious meal.",
+          "B. She cooked a delicious meal for her friends.",
+          "C. The teacher gave the students homework.",
+          "D. The teacher gave homework for the students."
+        ],
+        "answer": "D",
+        "explanation": "กริยา 'give' (ให้) เป็นการส่งต่อโดยตรง จึงต้องใช้กับบุพบท 'to' ไม่ใช่ 'for' ประโยคที่ถูกต้องคือ 'The teacher gave homework to the students.'"
+      },
+      {
+        "question": "Rearrange the words to form a correct sentence: (a story / the children / told / the grandmother)",
+        "options": [
+          "A. The grandmother told a story the children.",
+          "B. The grandmother told the children a story.",
+          "C. Told the grandmother the children a story.",
+          "D. A story told the grandmother the children."
+        ],
+        "answer": "B",
+        "explanation": "โครงสร้างที่ถูกต้องคือ S-V-IO-DO: The grandmother (S) told (V) the children (IO) a story (DO)."
+      },
+      {
+        "question": "He bought a beautiful ring ___ his wife.",
+        "options": [
+          "A. to",
+          "B. for",
+          "C. from",
+          "D. with"
+        ],
+        "answer": "B",
+        "explanation": "กริยา 'buy' (ซื้อ) เป็นการกระทำ 'เพื่อ' ใครสักคน ดังนั้นจึงต้องใช้บุพบท 'for' ในโครงสร้าง S-V-DO-prep-IO"
+      },
+      {
+        "question": "My sister taught me how to play the piano. This sentence can be rewritten as:",
+        "options": [
+          "A. My sister taught for me how to play the piano.",
+          "B. My sister taught how to play the piano for me.",
+          "C. My sister taught how to play the piano to me.",
+          "D. My sister taught to me how to play the piano."
+        ],
+        "answer": "C",
+        "explanation": "กริยา 'teach' (สอน) เป็นการถ่ายทอดความรู้จากคนหนึ่งไปอีกคนหนึ่ง จึงใช้กับบุพบท 'to' เมื่อสลับกรรมตรง (how to play the piano) มาไว้ก่อนกรรมรอง (me)"
+      }
+    ]
+  },
+  {
+    "id": "14_4",
+    "title": "14.4 Summary: Sentence Structure (สรุปโครงสร้างประโยค + 50 Exercises)",
+    "explanation": "หัวข้อนี้เป็นการสรุปรวบยอดโครงสร้างประโยคพื้นฐานในภาษาอังกฤษ ซึ่งเป็นหัวใจสำคัญของการสื่อสารให้ถูกต้องและเป็นธรรมชาติ ประโยคในภาษาอังกฤษทุกประโยคต้องมีส่วนประกอบหลักอย่างน้อย 2 ส่วนคือ ประธาน (Subject) และ กริยา (Verb)\n\nเราสามารถสรุปโครงสร้างประโยคพื้นฐานได้ 5 รูปแบบหลักๆ ดังนี้:\n1.  **S + V (ประธาน + กริยา)**: ประโยคที่สมบูรณ์ในตัวเอง ไม่ต้องการกรรมมารองรับ\n2.  **S + V + O (ประธาน + กริยา + กรรม)**: ประโยคที่กริยาต้องการกรรม (Object) มารับการกระทำ จึงจะสมบูรณ์\n3.  **S + V + C (ประธาน + กริยา + ส่วนเติมเต็ม)**: ใช้กับ Linking Verb (เช่น is, am, are, feel, seem, look) โดยส่วนเติมเต็ม (Complement) จะอธิบายหรือบอกคุณสมบัติของประธาน\n4.  **S + V + IO + DO (ประธาน + กริยา + กรรมรอง + กรรมตรง)**: ประโยคที่มีกรรม 2 ตัว กรรมรอง (Indirect Object) คือผู้รับ และกรรมตรง (Direct Object) คือสิ่งที่ถูกให้\n5.  **S + V + O + C (ประธาน + กริยา + กรรม + ส่วนขยายกรรม)**: ประโยคที่ต้องมีส่วนขยายกรรม (Object Complement) มาอธิบายหรือบอกสภาพของกรรม จึงจะสมบูรณ์\n\nนอกจากนี้ เรายังสามารถเพิ่มส่วนขยาย (Adverbial) เช่น คำวิเศษณ์ที่บอกเวลา สถานที่ หรือลักษณะท่าทาง เข้าไปในประโยคทุกรูปแบบเพื่อให้ข้อมูลเพิ่มเติมได้ แต่ส่วนประกอบหลัก 5 รูปแบบนี้คือแกนกลางของประโยคทั้งหมดในภาษาอังกฤษ",
+    "examples": [
+      {
+        "eng": "The sun shines. (S+V)",
+        "thai": "พระอาทิตย์ส่องแสง (ประธาน + กริยา)"
+      },
+      {
+        "eng": "She reads a book. (S+V+O)",
+        "thai": "เธออ่านหนังสือ (ประธาน + กริยา + กรรม)"
+      },
+      {
+        "eng": "He is a doctor. (S+V+C)",
+        "thai": "เขาเป็นหมอ (ประธาน + กริยา + ส่วนเติมเต็ม)"
+      },
+      {
+        "eng": "My father bought me a bicycle. (S+V+IO+DO)",
+        "thai": "พ่อของฉันซื้อจักรยานให้ฉัน (ประธาน + กริยา + กรรมรอง + กรรมตรง)"
+      },
+      {
+        "eng": "They painted the house blue. (S+V+O+C)",
+        "thai": "พวกเขาทาสีบ้านเป็นสีน้ำเงิน (ประธาน + กริยา + กรรม + ส่วนขยายกรรม)"
+      }
+    ],
+    "common_mistakes": "1. **ละประธาน (Missing Subject)**: ภาษาไทยมักละประธานในประโยคที่รู้กันอยู่แล้ว แต่ภาษาอังกฤษ *ทุกประโยคต้องมีประธาน* เช่น พูดว่า \"ฝนตก\" ต้องพูดว่า \"It is raining.\" ไม่ใช่ \"Is raining.\"\n2. **ลืมกริยา 'to be' (Missing Verb 'to be')**: คนไทยมักลืมใช้ Verb to be (is, am, are) เมื่อต้องการเชื่อมประธานกับคำคุณศัพท์ (Adjective) หรือคำนาม (Noun) ที่ทำหน้าที่เป็นส่วนเติมเต็ม เช่น พูดว่า \"She beautiful.\" ที่ถูกต้องคือ \"She is beautiful.\"\n3. **เรียงลำดับคำผิด (Incorrect Word Order)**: ภาษาอังกฤษมีโครงสร้าง S-V-O ที่ตายตัว ไม่ยืดหยุ่นเหมือนภาษาไทย การวางตำแหน่งคำผิดจะทำให้ความหมายเปลี่ยนหรือผิดไวยากรณ์ไปเลย เช่น \"I like very much coffee.\" ที่ถูกต้องคือ \"I like coffee very much.\" หรือ \"She speaks English fluently.\"\n4. **สับสนระหว่างกรรม (Object) กับส่วนเติมเต็ม (Complement)**: กรรม (O) คือสิ่งที่ถูกกระทำ แต่ส่วนเติมเต็ม (C) คือสิ่งที่อธิบายประธานหรือกรรม เช่น ในประโยค \"He is a teacher.\" คำว่า 'a teacher' คือ C เพราะมันอธิบายว่า 'He' คือใคร (He = a teacher) ไม่ได้ถูก 'He' กระทำ",
+    "practice_questions": [
+      {
+        "question": "Identify the sentence structure: The birds sing sweetly.",
+        "options": [
+          "A. S + V",
+          "B. S + V + O",
+          "C. S + V + C",
+          "D. S + V + O + C"
+        ],
+        "answer": "A",
+        "explanation": "โครงสร้างหลักคือ 'The birds' (S) + 'sing' (V). ส่วน 'sweetly' เป็น Adverb (ส่วนขยาย) ไม่ใช่ส่วนประกอบหลักของโครงสร้าง"
+      },
+      {
+        "question": "Choose the correct words to complete the sentence: She ___ a delicious cake.",
+        "options": [
+          "A. are baking",
+          "B. baking",
+          "C. bakes",
+          "D. bake"
+        ],
+        "answer": "C",
+        "explanation": "ประธาน 'She' เป็นเอกพจน์บุรุษที่ 3 กริยาใน Present Simple Tense จึงต้องเติม 's' เป็น 'bakes'"
+      },
+      {
+        "question": "What is the subject of this sentence: My younger sister plays the piano beautifully.",
+        "options": [
+          "A. My",
+          "B. My younger sister",
+          "C. sister",
+          "D. the piano"
+        ],
+        "answer": "B",
+        "explanation": "ประธานของประโยคคือผู้กระทำ ในที่นี้คือ 'My younger sister' ทั้งหมด"
+      },
+      {
+        "question": "Arrange the words into a correct sentence: eats / the dog / its food / quickly",
+        "options": [
+          "A. The dog eats its food quickly.",
+          "B. The dog its food eats quickly.",
+          "C. Quickly the dog eats its food.",
+          "D. Eats the dog its food quickly."
+        ],
+        "answer": "A",
+        "explanation": "โครงสร้างที่ถูกต้องคือ Subject (The dog) + Verb (eats) + Object (its food) + Adverb (quickly)."
+      },
+      {
+        "question": "Identify the sentence structure: My brother is an engineer.",
+        "options": [
+          "A. S + V + O",
+          "B. S + V",
+          "C. S + V + O + C",
+          "D. S + V + C"
+        ],
+        "answer": "D",
+        "explanation": "กริยา 'is' เป็น Linking Verb และ 'an engineer' เป็น Complement (ส่วนเติมเต็ม) ที่อธิบายประธาน 'My brother'"
+      },
+      {
+        "question": "Which sentence has the correct word order?",
+        "options": [
+          "A. I like very much this song.",
+          "B. I very much like this song.",
+          "C. I like this song very much.",
+          "D. This song I like very much."
+        ],
+        "answer": "C",
+        "explanation": "โครงสร้างที่ถูกต้องคือ S+V+O ตามด้วยส่วนขยาย 'very much' ซึ่งมักจะวางไว้ท้ายประโยค"
+      },
+      {
+        "question": "What is the object of this sentence: We are watching a new movie.",
+        "options": [
+          "A. We",
+          "B. a new movie",
+          "C. new",
+          "D. watching"
+        ],
+        "answer": "B",
+        "explanation": "กรรม (Object) คือสิ่งที่ถูกกระทำ ในที่นี้คือ 'a new movie' ซึ่งถูก 'watching' (ดู)"
+      },
+      {
+        "question": "Identify the sentence structure: He told me a secret.",
+        "options": [
+          "A. S + V + O",
+          "B. S + V + C",
+          "C. S + V + IO + DO",
+          "D. S + V + O + C"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้มีกรรม 2 ตัว 'me' คือกรรมรอง (Indirect Object - ผู้รับ) และ 'a secret' คือกรรมตรง (Direct Object - สิ่งที่ถูกบอก)"
+      },
+      {
+        "question": "Choose the correct word to complete the sentence: The food smells ___.",
+        "options": [
+          "A. wonderfully",
+          "B. wonderful",
+          "C. wonder",
+          "D. wonders"
+        ],
+        "answer": "B",
+        "explanation": "'smells' ในที่นี้เป็น Linking Verb ที่ต้องการ Adjective (wonderful) มาเป็นส่วนเติมเต็ม (Complement) เพื่อขยายประธาน (The food) ไม่ใช่ Adverb"
+      },
+      {
+        "question": "Arrange the words into a correct sentence: happy / they / seem / very",
+        "options": [
+          "A. They very seem happy.",
+          "B. They seem very happy.",
+          "C. Seem they very happy.",
+          "D. Very happy they seem."
+        ],
+        "answer": "B",
+        "explanation": "โครงสร้างคือ S (They) + Linking Verb (seem) + Complement (very happy)."
+      },
+      {
+        "question": "Identify the sentence structure: The team elected Sarah captain.",
+        "options": [
+          "A. S + V + IO + DO",
+          "B. S + V + O + C",
+          "C. S + V + O",
+          "D. S + V + C"
+        ],
+        "answer": "B",
+        "explanation": "โครงสร้างคือ S (The team) + V (elected) + O (Sarah) + C (captain) ซึ่ง 'captain' เป็นส่วนขยายกรรม (Object Complement) บอกว่า 'Sarah' ได้เป็นอะไร"
+      },
+      {
+        "question": "What is the verb in this sentence: The sun has been shining all day.",
+        "options": [
+          "A. has",
+          "B. been shining",
+          "C. has been shining",
+          "D. shining"
+        ],
+        "answer": "C",
+        "explanation": "กริยาของประโยค (Verb Phrase) คือทั้งหมด 'has been shining' ซึ่งบอก Tense (Present Perfect Continuous)"
+      },
+      {
+        "question": "Which sentence is grammatically correct?",
+        "options": [
+          "A. Is raining heavily now.",
+          "B. Raining heavily now.",
+          "C. It is raining heavily now.",
+          "D. Now is raining heavily."
+        ],
+        "answer": "C",
+        "explanation": "ภาษาอังกฤษต้องการประธานเสมอ ในประโยคที่เกี่ยวกับสภาพอากาศ เราใช้ 'It' เป็นประธาน"
+      },
+      {
+        "question": "What is the indirect object in this sentence: My grandmother sent us a postcard.",
+        "options": [
+          "A. My grandmother",
+          "B. a postcard",
+          "C. sent",
+          "D. us"
+        ],
+        "answer": "D",
+        "explanation": "กรรมรอง (Indirect Object) คือผู้ที่ได้รับการกระทำ ในที่นี้ 'us' (พวกเรา) คือผู้ที่ได้รับโปสการ์ด"
+      },
+      {
+        "question": "Identify the sentence structure: The leaves are turning yellow.",
+        "options": [
+          "A. S + V + O",
+          "B. S + V",
+          "C. S + V + C",
+          "D. S + V + IO + DO"
+        ],
+        "answer": "C",
+        "explanation": "กริยา 'are turning' ในที่นี้ทำหน้าที่คล้าย Linking Verb และ 'yellow' คือ Complement ที่อธิบายสภาพของประธาน 'The leaves'"
+      },
+      {
+        "question": "Choose the correct words: We found the test surprisingly ___.",
+        "options": [
+          "A. easy",
+          "B. easily",
+          "C. ease",
+          "D. easier"
+        ],
+        "answer": "A",
+        "explanation": "นี่คือโครงสร้าง S+V+O+C (We + found + the test + C). ส่วนขยายกรรม (C) ต้องเป็น Adjective (easy) เพื่ออธิบายกรรม (the test)"
+      },
+      {
+        "question": "Arrange the words into a correct sentence: her mother / a gift / she / bought",
+        "options": [
+          "A. She a gift bought her mother.",
+          "B. She bought her mother a gift.",
+          "C. A gift she bought her mother.",
+          "D. Her mother she bought a gift."
+        ],
+        "answer": "B",
+        "explanation": "โครงสร้างที่ถูกต้องคือ S (She) + V (bought) + IO (her mother) + DO (a gift)."
+      },
+      {
+        "question": "What is the direct object in this sentence: The teacher gave the students a quiz.",
+        "options": [
+          "A. the teacher",
+          "B. the students",
+          "C. a quiz",
+          "D. gave"
+        ],
+        "answer": "C",
+        "explanation": "กรรมตรง (Direct Object) คือสิ่งที่ถูกให้หรือถูกกระทำโดยตรง ในที่นี้คือ 'a quiz'"
+      },
+      {
+        "question": "Which sentence is grammatically INCORRECT?",
+        "options": [
+          "A. My brother a pilot is.",
+          "B. My brother is a pilot.",
+          "C. He is a pilot.",
+          "D. Is your brother a pilot?"
+        ],
+        "answer": "A",
+        "explanation": "ในประโยคบอกเล่าของภาษาอังกฤษ กริยา (is) ต้องตามหลังประธาน (My brother) เสมอ"
+      },
+      {
+        "question": "Identify the sentence structure: The baby is sleeping peacefully.",
+        "options": [
+          "A. S + V + O",
+          "B. S + V + C",
+          "C. S + V",
+          "D. S + V + O + C"
+        ],
+        "answer": "C",
+        "explanation": "โครงสร้างหลักคือ S (The baby) + V (is sleeping). ส่วน 'peacefully' เป็น Adverb ขยายกริยา ไม่ใช่ส่วนประกอบหลัก"
+      },
+      {
+        "question": "Choose the correct word: The company appointed Mr. Smith ___.",
+        "options": [
+          "A. as the new manager",
+          "B. the new manager",
+          "C. to be the new manager",
+          "D. All are correct"
+        ],
+        "answer": "B",
+        "explanation": "กริยา 'appoint' ใช้ในโครงสร้าง S+V+O+C โดย C (the new manager) จะตามหลัง O (Mr. Smith) ได้เลย ไม่ต้องมีคำเชื่อม"
+      },
+      {
+        "question": "What is the complement in this sentence: His idea sounds brilliant.",
+        "options": [
+          "A. His",
+          "B. idea",
+          "C. sounds",
+          "D. brilliant"
+        ],
+        "answer": "D",
+        "explanation": "'sounds' เป็น Linking Verb และ 'brilliant' (Adjective) เป็นส่วนเติมเต็ม (Complement) ที่อธิบายประธาน 'His idea'"
+      },
+      {
+        "question": "Arrange the words into a correct sentence: an email / I / my client / sent",
+        "options": [
+          "A. I my client sent an email.",
+          "B. An email I sent my client.",
+          "C. I sent my client an email.",
+          "D. I sent an email my client."
+        ],
+        "answer": "C",
+        "explanation": "โครงสร้าง S+V+IO+DO ที่ถูกต้องคือ S (I) + V (sent) + IO (my client) + DO (an email)."
+      },
+      {
+        "question": "Which sentence has a common mistake for Thai learners?",
+        "options": [
+          "A. That man is very tall.",
+          "B. That man very tall.",
+          "C. Is that man very tall?",
+          "D. That man isn't very tall."
+        ],
+        "answer": "B",
+        "explanation": "เป็นข้อผิดพลาดที่พบบ่อยคือการลืมใช้ Verb to be (is) เพื่อเชื่อมประธาน 'That man' กับส่วนเติมเต็ม 'very tall'"
+      },
+      {
+        "question": "Identify the sentence structure: The judge declared the defendant not guilty.",
+        "options": [
+          "A. S + V + IO + DO",
+          "B. S + V + O",
+          "C. S + V + O + C",
+          "D. S + V + C"
+        ],
+        "answer": "C",
+        "explanation": "โครงสร้างคือ S (The judge) + V (declared) + O (the defendant) + C (not guilty). โดย 'not guilty' เป็นส่วนขยายกรรม บอกสถานะของ 'the defendant'"
+      },
+      {
+        "question": "What is the subject of this sentence: After the long meeting, the tired employees went home.",
+        "options": [
+          "A. After the long meeting",
+          "B. the tired employees",
+          "C. employees",
+          "D. home"
+        ],
+        "answer": "B",
+        "explanation": "ประธานคือผู้กระทำกริยา 'went home' ซึ่งก็คือ 'the tired employees' ทั้งหมด ส่วน 'After the long meeting' เป็นวลีขยายบอกเวลา"
+      },
+      {
+        "question": "Choose the correct word: The situation is becoming more ___.",
+        "options": [
+          "A. difficultly",
+          "B. difficulty",
+          "C. difficult",
+          "D. differ"
+        ],
+        "answer": "C",
+        "explanation": "'is becoming' เป็น Linking Verb ที่ต้องการ Adjective (difficult) มาเป็นส่วนเติมเต็ม (Complement) เพื่ออธิบายประธาน 'The situation'"
+      },
+      {
+        "question": "Identify the sentence structure: My friend lent me his car.",
+        "options": [
+          "A. S + V + IO + DO",
+          "B. S + V + O + C",
+          "C. S + V + O",
+          "D. S + V + C"
+        ],
+        "answer": "A",
+        "explanation": "โครงสร้างคือ S (My friend) + V (lent) + IO (me) + DO (his car)."
+      },
+      {
+        "question": "Arrange the words into a correct sentence: speaks / she / very / English / well",
+        "options": [
+          "A. She speaks very English well.",
+          "B. She speaks English very well.",
+          "C. She very well speaks English.",
+          "D. English she speaks very well."
+        ],
+        "answer": "B",
+        "explanation": "โครงสร้างที่ถูกต้องคือ S+V+O (She speaks English) ตามด้วย Adverb of manner (very well)."
+      },
+      {
+        "question": "Which sentence has an incorrect question structure?",
+        "options": [
+          "A. Where are you going?",
+          "B. Why you are sad?",
+          "C. What did you eat?",
+          "D. Who is that person?"
+        ],
+        "answer": "B",
+        "explanation": "การสร้างประโยคคำถาม WH-question ต้องสลับที่กริยาช่วย (are) มาไว้หน้าประธาน (you) ที่ถูกต้องคือ 'Why are you sad?'"
+      },
+      {
+        "question": "What is the object complement in this sentence: The new haircut made him look younger.",
+        "options": [
+          "A. him",
+          "B. look younger",
+          "C. younger",
+          "D. made"
+        ],
+        "answer": "B",
+        "explanation": "ส่วนขยายกรรม (Object Complement) คือส่วนที่อธิบายกรรม 'him' ในที่นี้คือวลี 'look younger' ทั้งหมด"
+      },
+      {
+        "question": "Identify the basic sentence structure of: They arrived late.",
+        "options": [
+          "A. S + V + O",
+          "B. S + V",
+          "C. S + V + C",
+          "D. S + V + A"
+        ],
+        "answer": "B",
+        "explanation": "โครงสร้างพื้นฐานคือ S (They) + V (arrived). คำว่า 'late' เป็น Adverb (ส่วนขยาย) ที่บอกว่ามาถึงเมื่อไหร่"
+      },
+      {
+        "question": "Choose the correct word: The president's speech left everyone ___.",
+        "options": [
+          "A. inspired",
+          "B. inspiring",
+          "C. to inspire",
+          "D. inspiration"
+        ],
+        "answer": "A",
+        "explanation": "โครงสร้างคือ S+V+O+C. ในที่นี้ C ต้องเป็น Adjective เพื่อขยาย O (everyone). เราใช้ 'inspired' (รู้สึกประทับใจ) เพื่ออธิบายความรู้สึกของคน"
+      },
+      {
+        "question": "Arrange the words into a correct sentence: can / you / me / please / help",
+        "options": [
+          "A. You can me please help?",
+          "B. Please can help you me?",
+          "C. Can you help me, please?",
+          "D. Can help you me please?"
+        ],
+        "answer": "C",
+        "explanation": "โครงสร้างคำถามคือ Modal Verb (Can) + S (you) + V (help) + O (me). คำว่า 'please' สามารถวางไว้ท้ายประโยคได้"
+      },
+      {
+        "question": "Which sentence is grammatically correct?",
+        "options": [
+          "A. She gave to me the report.",
+          "B. She gave the report to me.",
+          "C. She gave me the report.",
+          "D. Both B and C are correct."
+        ],
+        "answer": "D",
+        "explanation": "โครงสร้าง S+V+IO+DO สามารถเขียนได้สองแบบคือ S+V+IO+DO (She gave me the report) หรือ S+V+DO + to/for + IO (She gave the report to me)."
+      },
+      {
+        "question": "What is the verb phrase in this sentence: You should have finished your homework.",
+        "options": [
+          "A. should",
+          "B. have finished",
+          "C. finished",
+          "D. should have finished"
+        ],
+        "answer": "D",
+        "explanation": "Verb phrase คือกริยาทั้งหมดที่มาด้วยกัน รวมถึง Modal verb (should) และ Perfect aspect (have finished)."
+      },
+      {
+        "question": "Identify the sentence structure: This coffee tastes bitter.",
+        "options": [
+          "A. S + V + C",
+          "B. S + V + O",
+          "C. S + V",
+          "D. S + V + O + C"
+        ],
+        "answer": "A",
+        "explanation": "กริยา 'tastes' ทำหน้าที่เป็น Linking Verb และ 'bitter' เป็น Adjective ที่ทำหน้าที่เป็น Complement อธิบายรสชาติของประธาน 'This coffee'"
+      },
+      {
+        "question": "Arrange the words into a correct sentence: blue / painted / they / the walls",
+        "options": [
+          "A. They painted blue the walls.",
+          "B. Blue they painted the walls.",
+          "C. The walls they painted blue.",
+          "D. They painted the walls blue."
+        ],
+        "answer": "D",
+        "explanation": "โครงสร้างที่ถูกต้องคือ S (They) + V (painted) + O (the walls) + C (blue)."
+      },
+      {
+        "question": "What is the complement in this sentence: Her voice sounds beautiful.",
+        "options": [
+          "A. Her voice",
+          "B. sounds",
+          "C. beautiful",
+          "D. Her"
+        ],
+        "answer": "C",
+        "explanation": "'sounds' เป็น Linking Verb และ 'beautiful' (Adjective) เป็น Complement ที่อธิบาย 'Her voice' (ประธาน)"
+      },
+      {
+        "question": "Which sentence has an incorrect word order?",
+        "options": [
+          "A. She rarely eats fast food.",
+          "B. Always he is late for class.",
+          "C. I usually walk to work.",
+          "D. They have never been to Japan."
+        ],
+        "answer": "B",
+        "explanation": "Adverb of frequency (Always) โดยทั่วไปจะอยู่หลัง Verb to be ที่ถูกต้องคือ 'He is always late for class.'"
+      },
+      {
+        "question": "Identify the basic sentence structure of: In the kitchen, my mother is cooking dinner.",
+        "options": [
+          "A. S + V",
+          "B. S + V + O",
+          "C. S + V + C",
+          "D. S + V + IO + DO"
+        ],
+        "answer": "B",
+        "explanation": "โครงสร้างหลักคือ S (my mother) + V (is cooking) + O (dinner). ส่วน 'In the kitchen' เป็นวลีบุพบทบอกสถานที่ (Adverbial)"
+      },
+      {
+        "question": "Arrange the words into a correct sentence: a story / told / the children / he",
+        "options": [
+          "A. He told the children a story.",
+          "B. He told a story the children.",
+          "C. The children he told a story.",
+          "D. A story told he the children."
+        ],
+        "answer": "A",
+        "explanation": "โครงสร้าง S+V+IO+DO คือ S (He) + V (told) + IO (the children) + DO (a story)."
+      },
+      {
+        "question": "What is the subject of this sentence: To learn a new language requires patience.",
+        "options": [
+          "A. a new language",
+          "B. patience",
+          "C. requires",
+          "D. To learn a new language"
+        ],
+        "answer": "D",
+        "explanation": "ประธานของประโยคนี้คือ Infinitive Phrase 'To learn a new language' ทั้งหมด ซึ่งทำหน้าที่เหมือนคำนาม"
+      },
+      {
+        "question": "Which sentence is grammatically INCORRECT?",
+        "options": [
+          "A. Runs the dog fast.",
+          "B. The dog runs fast.",
+          "C. Does the dog run fast?",
+          "D. The dog does not run fast."
+        ],
+        "answer": "A",
+        "explanation": "ในประโยคบอกเล่าภาษาอังกฤษ ประธาน (The dog) ต้องมาก่อนกริยา (runs)"
+      },
+      {
+        "question": "What is the direct object in this sentence: Can you show me the way?",
+        "options": [
+          "A. you",
+          "B. me",
+          "C. the way",
+          "D. show"
+        ],
+        "answer": "C",
+        "explanation": "กรรมตรง (Direct Object) คือสิ่งที่ถูกแสดง/ชี้ทาง ในที่นี้คือ 'the way'"
+      },
+      {
+        "question": "Identify the sentence structure: The movie became a huge success.",
+        "options": [
+          "A. S + V + O",
+          "B. S + V + C",
+          "C. S + V + IO + DO",
+          "D. S + V"
+        ],
+        "answer": "B",
+        "explanation": "กริยา 'became' เป็น Linking Verb และ 'a huge success' เป็น Complement ที่บอกว่าประธาน 'The movie' ได้กลายเป็นอะไร"
+      },
+      {
+        "question": "Arrange the words into a correct sentence: their room / keep / they / tidy",
+        "options": [
+          "A. They keep tidy their room.",
+          "B. They keep their room tidy.",
+          "C. Their room they keep tidy.",
+          "D. Tidy they keep their room."
+        ],
+        "answer": "B",
+        "explanation": "โครงสร้าง S+V+O+C คือ S (They) + V (keep) + O (their room) + C (tidy)."
+      },
+      {
+        "question": "Which sentence has the correct structure?",
+        "options": [
+          "A. What time the movie starts?",
+          "B. What time starts the movie?",
+          "C. What time does the movie start?",
+          "D. What time the movie does start?"
+        ],
+        "answer": "C",
+        "explanation": "สำหรับคำถามใน Present Simple Tense ที่มีกริยาแท้ (starts) เราต้องใช้กริยาช่วย 'do/does' มาช่วยสร้างประโยค โดยวางไว้หลัง WH-word และก่อนประธาน"
+      },
+      {
+        "question": "What is the indirect object in this sentence: He bought his wife a necklace.",
+        "options": [
+          "A. He",
+          "B. his wife",
+          "C. a necklace",
+          "D. bought"
+        ],
+        "answer": "B",
+        "explanation": "กรรมรอง (Indirect Object) คือผู้ที่ได้รับของขวัญ ในที่นี้คือ 'his wife'"
+      },
+      {
+        "question": "Identify the sentence structure: The chef cooked his family a wonderful meal.",
+        "options": [
+          "A. S + V + O",
+          "B. S + V + O + C",
+          "C. S + V + C",
+          "D. S + V + IO + DO"
+        ],
+        "answer": "D",
+        "explanation": "โครงสร้างคือ S (The chef) + V (cooked) + IO (his family) + DO (a wonderful meal)."
+      }
+    ]
+  }
+]

@@ -1,0 +1,854 @@
+[
+  {
+    "id": "11_1",
+    "title": "11.1 This vs. That (เอกพจน์ ใกล้-ไกล)",
+    "explanation": "This (นี่, นี้) และ That (นั่น, นั้น) เป็นคำสรรพนามชี้เฉพาะ (Demonstrative Pronouns/Adjectives) ที่ใช้กับคำนามเอกพจน์ (Singular Nouns) หรือคำนามที่นับไม่ได้ (Uncountable Nouns) เพื่อบ่งบอกตำแหน่งว่าสิ่งนั้นอยู่ 'ใกล้' หรือ 'ไกล' จากผู้พูด\n\nหลักการจำง่ายๆ:\n1. **This (นี่, นี้):** ใช้กับสิ่งของ หรือ คน (1 สิ่ง/คน) ที่อยู่ **ใกล้** ตัวผู้พูด สามารถเอื้อมมือไปแตะหรือชี้ได้ในระยะใกล้ๆ\n   - This + is + (noun)\n   - This + (noun) + is...\n\n2. **That (นั่น, นั้น):** ใช้กับสิ่งของ หรือ คน (1 สิ่ง/คน) ที่อยู่ **ไกล** ตัวผู้พูดออกไป ต้องชี้ไปในระยะที่ไกลกว่า\n   - That + is + (noun)\n   - That + (noun) + is...\n\nทั้ง This และ That สามารถทำหน้าที่ได้ 2 อย่าง:\n- **เป็นคำคุณศัพท์ชี้เฉพาะ (Demonstrative Adjective):** วางไว้หน้านาม เช่น `This book`, `That car`\n- **เป็นคำสรรพนามชี้เฉพาะ (Demonstrative Pronoun):** ใช้อย่างอิสระ ไม่ต้องมีนามตามหลัง เช่น `This is my book`, `That is your car`",
+    "examples": [
+      {
+        "eng": "This pen in my hand is new.",
+        "thai": "ปากกาด้ามนี้ในมือของฉันเป็นด้ามใหม่ (ปากกาอยู่ใกล้ตัว คืออยู่ในมือ)"
+      },
+      {
+        "eng": "That star in the sky is so bright.",
+        "thai": "ดาวดวงนั้นบนท้องฟ้าสว่างจัง (ดาวอยู่ไกลตัวมาก)"
+      },
+      {
+        "eng": "Is this your wallet? I found it on the floor.",
+        "thai": "นี่กระเป๋าสตางค์ของคุณหรือเปล่า? ฉันเจอมันบนพื้น (กระเป๋าสตางค์อยู่ในมือผู้พูดแล้ว)"
+      },
+      {
+        "eng": "I want that one, please. (pointing at a cake in a display case)",
+        "thai": "ฉันขอชิ้นนั้นค่ะ (ชี้ไปที่เค้กในตู้โชว์ ซึ่งอยู่ไกลตัว เอื้อมไม่ถึง)"
+      },
+      {
+        "eng": "This coffee tastes great.",
+        "thai": "กาแฟ (แก้ว) นี้รสชาติดีมาก (เป็นคำนามนับไม่ได้, อยู่ใกล้ตัวผู้พูด)"
+      }
+    ],
+    "common_mistakes": "1. **สับสนเรื่องระยะทาง:** ใช้ This กับของที่อยู่ไกล หรือใช้ That กับของที่อยู่ใกล้ตัว เช่น ถือปากกาในมือ แต่พูดว่า `That is my pen.` ที่ถูกต้องคือ `This is my pen.`\n\n2. **ใช้กับคำนามพหูพจน์:** This และ That ใช้กับนามเอกพจน์เท่านั้น ห้ามใช้กับนามพหูพจน์เด็ดขาด\n   - **ผิด:** `This books are heavy.`\n   - **ผิด:** `I want to buy that shoes.`\n   (ต้องใช้ These และ Those ซึ่งจะเรียนในบทถัดไป)\n\n3. **ลืมใส่ Verb 'to be' (is):** เมื่อใช้ This/That เป็นประธานของประโยค คนไทยมักจะแปลตรงตัวจากภาษาไทยและลืมใส่ Verb to be\n   - **ผิด:** `This my house.`\n   - **ถูก:** `This is my house.` (นี่คือบ้านของฉัน)\n\n4. **การใช้ในการสนทนาทางโทรศัพท์:** ในภาษาอังกฤษ เมื่อรับโทรศัพท์แล้วจะแนะนำตัวเอง จะใช้ 'This is...' เช่น `Hello, this is Somchai.` แต่คนไทยมักจะติดพูดว่า `I am Somchai.` ซึ่งไม่เป็นธรรมชาติในการสนทนาทางโทรศัพท์",
+    "practice_questions": [
+      {
+        "question": "(Pointing to a cat sleeping on your lap) _____ is my cat, Fluffy.",
+        "options": [
+          "A. This",
+          "B. That",
+          "C. These",
+          "D. Those"
+        ],
+        "answer": "A",
+        "explanation": "แมวนอนอยู่บนตัก (on your lap) ซึ่งเป็นระยะใกล้ตัวผู้พูด และเป็นเอกพจน์ จึงต้องใช้ This"
+      },
+      {
+        "question": "Look at _____ airplane flying high in the sky!",
+        "options": [
+          "A. This",
+          "B. That",
+          "C. These",
+          "D. Those"
+        ],
+        "answer": "B",
+        "explanation": "เครื่องบินกำลังบินอยู่บนฟ้า (in the sky) ซึ่งอยู่ไกลจากผู้พูด และเป็นเอกพจน์ จึงใช้ That"
+      },
+      {
+        "question": "Is _____ your car parked way over there on the other side of the road?",
+        "options": [
+          "A. this",
+          "B. that",
+          "C. these",
+          "D. those"
+        ],
+        "answer": "B",
+        "explanation": "คำว่า 'way over there' และ 'on the other side of the road' บ่งบอกชัดเจนว่ารถยนต์อยู่ไกลตัวผู้พูด จึงต้องใช้ that"
+      },
+      {
+        "question": "Please take _____ plate from the table and put it in the sink.",
+        "options": [
+          "A. this",
+          "B. that",
+          "C. these",
+          "D. those"
+        ],
+        "answer": "A",
+        "explanation": "เมื่อเราสั่งให้ใครหยิบของที่อยู่บนโต๊ะใกล้ๆ ตัว มักจะใช้ this เพื่อหมายถึงจานที่อยู่ตรงหน้าหรือในระยะที่เอื้อมถึง"
+      },
+      {
+        "question": "(On the phone) Hello, may I speak to Jane? - Yes, _____ is she.",
+        "options": [
+          "A. that",
+          "B. I",
+          "C. it",
+          "D. this"
+        ],
+        "answer": "D",
+        "explanation": "ในการสนทนาทางโทรศัพท์ เป็นสำนวนมาตรฐานในภาษาอังกฤษที่จะแนะนำตัวเองว่า 'This is...'"
+      },
+      {
+        "question": "I don't like _____ painting on the wall behind you. It's a bit scary.",
+        "options": [
+          "A. this",
+          "B. that",
+          "C. these",
+          "D. those"
+        ],
+        "answer": "B",
+        "explanation": "ภาพวาดอยู่บนผนัง 'ข้างหลังคุณ' (behind you) ซึ่งถือว่าอยู่ไกลจากตัวผู้พูด จึงใช้ that"
+      },
+      {
+        "question": "Could you hand me _____ screwdriver right next to you?",
+        "options": [
+          "A. this",
+          "B. these",
+          "C. that",
+          "D. those"
+        ],
+        "answer": "C",
+        "explanation": "ไขควงอยู่ 'ข้างๆ คุณ' (next to you) ซึ่งหมายถึงอยู่ไกลจากตัวผู้พูด แต่ใกล้ตัวผู้ฟัง ดังนั้นจากมุมมองของผู้พูดจึงต้องใช้ that"
+      },
+      {
+        "question": "_____ house we are standing in front of was built in 1920.",
+        "options": [
+          "A. This",
+          "B. That",
+          "C. These",
+          "D. Those"
+        ],
+        "answer": "A",
+        "explanation": "ผู้พูดกำลังยืนอยู่ 'ข้างหน้า' บ้าน (standing in front of) แสดงว่าบ้านอยู่ในระยะใกล้ จึงใช้ This"
+      },
+      {
+        "question": "A: What's _____ noise? B: It sounds like a cat on the roof.",
+        "options": [
+          "A. this",
+          "B. that",
+          "C. these",
+          "D. those"
+        ],
+        "answer": "B",
+        "explanation": "เสียงนั้นมาจากที่ไกลออกไป (บนหลังคา) ไม่ได้อยู่ใกล้ตัวผู้พูดโดยตรง จึงใช้ that เพื่ออ้างถึงเสียงนั้น"
+      },
+      {
+        "question": "Come over here and look at _____ strange insect I found on this leaf!",
+        "options": [
+          "A. that",
+          "B. those",
+          "C. this",
+          "D. these"
+        ],
+        "answer": "C",
+        "explanation": "ผู้พูดบอกให้คนอื่น 'มาที่นี่' (Come over here) เพื่อดูแมลงที่เขาเจอ แสดงว่าแมลงนั้นอยู่ใกล้ตัวผู้พูด จึงใช้ this"
+      }
+    ]
+  },
+  {
+    "id": "11_2",
+    "title": "11.2 These vs. Those (พหูพจน์ ใกล้-ไกล)",
+    "explanation": "ต่อจาก This/That ที่ใช้กับคำนามเอกพจน์ (หนึ่งเดียว) คราวนี้เราจะมาเรียนรู้ 'These' และ 'Those' ซึ่งใช้กับคำนาม 'พหูพจน์' (มากกว่าหนึ่ง) ครับ\n\nหลักการจำง่ายๆ คือ:\n1.  **These (เหล่านี้)**: ใช้ชี้ถึงสิ่งของ, คน, หรือสัตว์ 'หลายสิ่ง' ที่อยู่ 'ใกล้' ตัวผู้พูด\n    -   เป็นรูปพหูพจน์ของ 'This'\n    -   มักจะตามด้วยคำนามพหูพจน์ (เติม -s, -es หรือเปลี่ยนรูป) และใช้กับ Verb to be 'are' (ใน Present Tense)\n    -   โครงสร้าง: These + Noun (plural) + are ...\n\n2.  **Those (เหล่านั้น)**: ใช้ชี้ถึงสิ่งของ, คน, หรือสัตว์ 'หลายสิ่ง' ที่อยู่ 'ไกล' ตัวผู้พูด\n    -   เป็นรูปพหูพจน์ของ 'That'\n    -   มักจะตามด้วยคำนามพหูพจน์ และใช้กับ Verb to be 'are' (ใน Present Tense)\n    -   โครงสร้าง: Those + Noun (plural) + are ...\n\n**สรุปง่ายๆ:**\n-   ใกล้ + พหูพจน์ (มากกว่า 1)  -> ใช้ **These**\n-   ไกล + พหูพจน์ (มากกว่า 1)  -> ใช้ **Those**",
+    "examples": [
+      {
+        "eng": "These books on my desk are very interesting.",
+        "thai": "หนังสือ 'หลายเล่ม' ที่อยู่บนโต๊ะของฉัน (ใกล้ตัว) 'เหล่านี้' น่าสนใจมาก"
+      },
+      {
+        "eng": "Those cars parked across the street are expensive.",
+        "thai": "รถยนต์ 'หลายคัน' ที่จอดอยู่อีกฝั่งของถนน (ไกลตัว) 'เหล่านั้น' ราคาแพง"
+      },
+      {
+        "eng": "I'm going to buy these shoes, not those ones on the top shelf.",
+        "thai": "ฉันจะซื้อรองเท้า 'คู่นี้' (ที่กำลังถืออยู่/ใกล้ตัว) ไม่ใช่ 'คู่เหล่านั้น' ที่อยู่บนชั้นบนสุด (ไกลตัว)"
+      },
+      {
+        "eng": "Are these your keys?",
+        "thai": "กุญแจ 'พวกนี้' เป็นของคุณหรือเปล่า? (ถามถึงกุญแจที่อยู่ใกล้ๆ)"
+      },
+      {
+        "eng": "Who are those people standing over there?",
+        "thai": "คน 'กลุ่มนั้น' ที่ยืนอยู่ตรง 'โน้น' คือใคร? (คนอยู่ไกล)"
+      },
+      {
+        "eng": "These are my children.",
+        "thai": "นี่คือลูกๆ ของฉัน (แนะนำลูกๆ ที่ยืนอยู่ใกล้ๆ)"
+      }
+    ],
+    "common_mistakes": "จุดที่คนไทยมักพลาดบ่อยๆ เกี่ยวกับ These และ Those:\n\n1.  **ใช้สลับกับเอกพจน์**: ใช้ These/Those กับคำนามเอกพจน์ ซึ่งผิดหลักไวยากรณ์\n    -   ผิด: These book is mine. (book เป็นเอกพจน์)\n    -   ถูก: These books are mine. หรือ This book is mine.\n    -   ผิด: Those car is fast.\n    -   ถูก: Those cars are fast. หรือ That car is fast.\n\n2.  **ลืมเปลี่ยน Verb to be**: ใช้ These/Those กับ 'is' แทนที่จะเป็น 'are'\n    -   ผิด: These cookies is delicious.\n    -   ถูก: These cookies are delicious.\n\n3.  **สับสนระหว่าง This กับ These**: สองคำนี้ออกเสียงคล้ายกันมาก (This เสียงสั้น, These เสียงยาว) ทำให้เวลาฟังหรือพูดอาจจะสับสนได้ง่าย ต้องสังเกตคำนามที่ตามมาว่าเป็นเอกพจน์หรือพหูพจน์\n    -   This pen (ปากกาด้ามเดียว)\n    -   These pens (ปากกาหลายด้าม)\n\n4.  **ใช้ This/That แทนในประโยคพหูพจน์**: ยังติดใช้ this/that แม้จะพูดถึงของหลายชิ้น\n    -   ผิด: I like that shoes. (shoes เป็นพหูพจน์เสมอ)\n    -   ถูก: I like those shoes.",
+    "practice_questions": [
+      {
+        "question": "Look at ______ beautiful flowers in your hand. They smell wonderful.",
+        "options": [
+          "A. This",
+          "B. That",
+          "C. These",
+          "D. Those"
+        ],
+        "answer": "C",
+        "explanation": "คำว่า 'flowers' เป็นพหูพจน์ และ 'in your hand' (ในมือของคุณ) หมายถึงอยู่ใกล้ตัวผู้พูด จึงต้องใช้ 'These'"
+      },
+      {
+        "question": "Can you see ______ birds sitting on that faraway tree branch?",
+        "options": [
+          "A. This",
+          "B. Those",
+          "C. These",
+          "D. Them"
+        ],
+        "answer": "B",
+        "explanation": "คำว่า 'birds' เป็นพหูพจน์ และ 'faraway tree branch' (กิ่งไม้ที่อยู่ไกลออกไป) บอกระยะทางว่าไกล จึงต้องใช้ 'Those'"
+      },
+      {
+        "question": "______ cookies I'm baking right now will be ready in 10 minutes.",
+        "options": [
+          "A. These",
+          "B. That",
+          "C. Those",
+          "D. This"
+        ],
+        "answer": "A",
+        "explanation": "คำว่า 'cookies' เป็นพหูพจน์ และผู้พูดกำลังอบมันอยู่ ('I'm baking right now') แสดงว่ามันอยู่ใกล้ตัว จึงใช้ 'These'"
+      },
+      {
+        "question": "I don't remember buying ______ paintings. Who put them on the wall over there?",
+        "options": [
+          "A. those",
+          "B. these",
+          "C. that",
+          "D. this"
+        ],
+        "answer": "A",
+        "explanation": "คำว่า 'paintings' เป็นพหูพจน์ และ 'over there' (ตรงโน้น) บอกตำแหน่งว่าอยู่ไกล จึงต้องใช้ 'those'"
+      },
+      {
+        "question": "Excuse me, are ______ seats taken?",
+        "options": [
+          "A. this",
+          "B. that",
+          "C. these",
+          "D. those"
+        ],
+        "answer": "C",
+        "explanation": "คำว่า 'seats' เป็นพหูพจน์ และโดยปกติเมื่อถามถึงที่นั่ง เรามักจะถามถึงที่นั่งที่อยู่ใกล้ๆ ตัวเรา จึงใช้ 'these' ในบริบทนี้"
+      },
+      {
+        "question": "______ were the days! I miss our high school memories.",
+        "options": [
+          "A. These",
+          "B. Those",
+          "C. That",
+          "D. This"
+        ],
+        "answer": "B",
+        "explanation": "คำว่า 'days' ในที่นี้หมายถึงอดีต ซึ่งเป็นสิ่งที่ 'ไกล' ในเชิงเวลา ไม่ใช่ระยะทาง จึงใช้ 'Those' ในสำนวน 'Those were the days!' ที่แปลว่า 'มันช่างเป็นช่วงเวลาที่ดีจริงๆ!'"
+      },
+      {
+        "question": "Please move ______ boxes out of the hallway. I can't walk past them.",
+        "options": [
+          "A. that",
+          "B. these",
+          "C. those",
+          "D. this"
+        ],
+        "answer": "B",
+        "explanation": "คำว่า 'boxes' เป็นพหูพจน์ และการที่ผู้พูดเดินผ่านไม่ได้ ('I can't walk past them') แสดงว่ากล่องเหล่านั้นอยู่ใกล้ตัวและขวางทางอยู่ จึงใช้ 'these'"
+      },
+      {
+        "question": "Who are ______ men in black suits standing across the road?",
+        "options": [
+          "A. This",
+          "B. These",
+          "C. That",
+          "D. Those"
+        ],
+        "answer": "D",
+        "explanation": "คำว่า 'men' เป็นพหูพจน์ (รูปพหูพจน์ของ man) และ 'across the road' (ข้ามถนน) บ่งบอกว่าอยู่ไกล จึงต้องใช้ 'Those'"
+      },
+      {
+        "question": "I prefer ______ headphones I'm wearing to ______ ones you showed me earlier.",
+        "options": [
+          "A. these / those",
+          "B. those / these",
+          "C. this / that",
+          "D. these / that"
+        ],
+        "answer": "A",
+        "explanation": "ช่องแรก 'headphones I'm wearing' (ที่กำลังสวมอยู่) คือใกล้ตัวและเป็นพหูพจน์ จึงใช้ 'these' ส่วนช่องที่สอง 'ones you showed me earlier' (อันที่คุณให้ดูตอนแรก) กลายเป็นของที่ไกลออกไปแล้ว จึงใช้ 'those' ประโยคที่สมบูรณ์คือ 'I prefer these headphones... to those ones...'"
+      },
+      {
+        "question": "Which sentence is grammatically correct?",
+        "options": [
+          "A. These cat is very cute.",
+          "B. Those people is waiting for the bus.",
+          "C. I want to buy these shoe.",
+          "D. Are those your children?"
+        ],
+        "answer": "D",
+        "explanation": "A ผิดเพราะ These (พหูพจน์) ใช้กับ cat (เอกพจน์) ไม่ได้ B ผิดเพราะ Those people (พหูพจน์) ต้องใช้กับ 'are' ไม่ใช่ 'is' C ผิดเพราะ These (พหูพจน์) ใช้กับ shoe (เอกพจน์) ไม่ได้ D ถูกต้อง เพราะ Those ใช้กับ children (พหูพจน์) และใช้กับ 'are' ได้อย่างถูกต้อง"
+      }
+    ]
+  },
+  {
+    "id": "11_3",
+    "title": "11.3 Summary: Demonstratives (สรุป Demonstratives + 50 Exercises)",
+    "explanation": "Demonstratives (คำสรรพนามชี้เฉพาะ) คือคำที่ใช้ชี้เฉพาะเจาะจงถึงสิ่งต่างๆ ว่าเป็นสิ่งไหน อันไหน คนไหน โดยจะแบ่งตาม 'ระยะทาง' (ใกล้/ไกล) และ 'จำนวน' (เอกพจน์/พหูพจน์) หลักการจำง่ายๆ มีดังนี้:\n\n1.  **THIS (นี่, นี้)**\n    *   ใช้กับคำนาม 'เอกพจน์' (มี 1 สิ่ง)\n    *   ที่อยู่ 'ใกล้' ตัวผู้พูด\n    *   ตัวอย่าง: **This** book is mine. (หนังสือเล่มนี้เป็นของฉัน - หนังสืออยู่ใกล้)\n\n2.  **THAT (นั่น, นั้น)**\n    *   ใช้กับคำนาม 'เอกพจน์' (มี 1 สิ่ง)\n    *   ที่อยู่ 'ไกล' ตัวผู้พูด\n    *   ตัวอย่าง: **That** house is beautiful. (บ้านหลังนั้นสวย - บ้านอยู่ไกล)\n\n3.  **THESE (เหล่านี้)**\n    *   ใช้กับคำนาม 'พหูพจน์' (มี 2 สิ่งขึ้นไป)\n    *   ที่อยู่ 'ใกล้' ตัวผู้พูด\n    *   ตัวอย่าง: **These** shoes are new. (รองเท้าคู่เหล่านี้ใหม่ - รองเท้าอยู่ใกล้)\n\n4.  **THOSE (เหล่านั้น)**\n    *   ใช้กับคำนาม 'พหูพจน์' (มี 2 สิ่งขึ้นไป)\n    *   ที่อยู่ 'ไกล' ตัวผู้พูด\n    *   ตัวอย่าง: **Those** stars are bright. (ดาวเหล่านั้นสว่าง - ดาวอยู่ไกล)\n\n**หน้าที่ในประโยค:**\n*   **Demonstrative Adjective (คุณศัพท์ชี้เฉพาะ):** วางไว้หน้าคำนามเพื่อขยาย เช่น **This car** is fast.\n*   **Demonstrative Pronoun (สรรพนามชี้เฉพาะ):** ใช้เดี่ยวๆ แทนคำนามไปเลย เช่น **This** is my car.",
+    "examples": [
+      {
+        "eng": "This is my pen, and that is your pen over there.",
+        "thai": "นี่คือปากกาของฉัน และนั่นคือปากกาของคุณที่อยู่ตรงนั้น ('This' ใช้กับปากกาที่ใกล้, 'that' ใช้กับปากกาที่ไกล)"
+      },
+      {
+        "eng": "I like these cookies right here, but I don't want those cookies on the top shelf.",
+        "thai": "ฉันชอบคุกกี้พวกนี้ที่อยู่ตรงนี้ แต่ฉันไม่ต้องการคุกกี้พวกนั้นที่อยู่บนชั้นบนสุด ('These' ใช้กับคุกกี้ที่ใกล้, 'those' ใช้กับคุกกี้ที่ไกล)"
+      }
+    ],
+    "common_mistakes": "*   **ใช้จำนวนไม่ตรงกับคำนาม (Number Agreement Error):** เป็นข้อผิดพลาดที่พบบ่อยที่สุด คนไทยมักสับสนและใช้ this/that กับคำนามพหูพจน์ หรือ these/those กับคำนามเอกพจน์\n    *   ผิด: I like **this books**. (book เป็นพหูพจน์ ต้องใช้ these)\n    *   ถูก: I like **these books**.\n    *   ผิด: Can you see **these bird**? (bird เป็นเอกพจน์ ต้องใช้ this/that)\n    *   ถูก: Can you see **this bird**?\n\n*   **สับสนกับการใช้ 'It':** เวลาชี้ของแล้วบอกว่า 'มันคือ...' บางครั้งคนไทยจะแปลตรงตัวเป็น 'It is...' แต่ในการสนทนาเพื่อชี้เฉพาะเจาะจง การใช้ 'This is...' หรือ 'That is...' จะเป็นธรรมชาติกว่า เช่น (ชี้ไปที่แมว) 'That is a cat.' จะฟังดูดีกว่า 'It is a cat.' ในบริบทนั้น\n\n*   **การออกเสียง:** การออกเสียงระหว่าง 'this' (/ðɪs/ - สระอิ เสียงสั้น) กับ 'these' (/ðiːz/ - สระอี เสียงยาว) มักจะสับสนกัน ซึ่งอาจทำให้ความหมายเปลี่ยนได้",
+    "practice_questions": [
+      {
+        "question": "Look at ___ bird singing on the branch right outside the window.",
+        "options": [
+          "A. this",
+          "B. these",
+          "C. that",
+          "D. those"
+        ],
+        "answer": "A",
+        "explanation": "ใช้ 'this' เพราะ 'bird' เป็นคำนามเอกพจน์ (1 ตัว) และบริบท 'right outside the window' หมายถึงอยู่ใกล้"
+      },
+      {
+        "question": "Can you please pass me ___ books on the table over there?",
+        "options": [
+          "A. this",
+          "B. these",
+          "C. that",
+          "D. those"
+        ],
+        "answer": "D",
+        "explanation": "ใช้ 'those' เพราะ 'books' เป็นคำนามพหูพจน์ (หลายเล่ม) และ 'over there' (ตรงนั้น) บ่งบอกว่าอยู่ไกล"
+      },
+      {
+        "question": "___ is my favorite song! Turn up the volume.",
+        "options": [
+          "A. This",
+          "B. These",
+          "C. That",
+          "D. Those"
+        ],
+        "answer": "A",
+        "explanation": "ใช้ 'This' เพราะ 'song' (เพลง) ที่กำลังเล่นอยู่เป็นสิ่งเดียว (เอกพจน์) และเกิดขึ้น ณ ปัจจุบัน (ใกล้ในแง่ของเวลา)"
+      },
+      {
+        "question": "I don't like ___ shoes I'm wearing; they are uncomfortable.",
+        "options": [
+          "A. this",
+          "B. these",
+          "C. that",
+          "D. those"
+        ],
+        "answer": "B",
+        "explanation": "ใช้ 'these' เพราะ 'shoes' เป็นคำนามพหูพจน์ (รองเท้ามาเป็นคู่) และ 'I'm wearing' (ที่ฉันกำลังใส่) หมายถึงอยู่ติดตัว (ใกล้)"
+      },
+      {
+        "question": "What is ___ building across the street?",
+        "options": [
+          "A. this",
+          "B. these",
+          "C. that",
+          "D. those"
+        ],
+        "answer": "C",
+        "explanation": "ใช้ 'that' เพราะ 'building' เป็นคำนามเอกพจน์ (1 ตึก) และ 'across the street' (ข้ามถนน) บ่งบอกว่าอยู่ไกล"
+      },
+      {
+        "question": "___ were the good old days, weren't they?",
+        "options": [
+          "A. This",
+          "B. These",
+          "C. That",
+          "D. Those"
+        ],
+        "answer": "D",
+        "explanation": "ใช้ 'Those' เพื่อพูดถึง 'days' (วัน) ซึ่งเป็นพหูพจน์ และเป็นเรื่องในอดีต (ไกลในแง่ของเวลา)"
+      },
+      {
+        "question": "Please take ___ files and put them on my desk.",
+        "options": [
+          "A. this",
+          "B. these",
+          "C. that",
+          "D. those"
+        ],
+        "answer": "B",
+        "explanation": "ใช้ 'these' เพราะ 'files' เป็นคำนามพหูพจน์ และบริบทของการยื่นของให้หมายถึงของอยู่ใกล้ตัวผู้พูด"
+      },
+      {
+        "question": "Excuse me, is ___ seat taken?",
+        "options": [
+          "A. this",
+          "B. these",
+          "C. that",
+          "D. those"
+        ],
+        "answer": "A",
+        "explanation": "ใช้ 'this' เพราะ 'seat' เป็นคำนามเอกพจน์ และผู้พูดมักจะถามถึงที่นั่งที่อยู่ใกล้ตัวเอง"
+      },
+      {
+        "question": "Who are ___ children playing in the park over there?",
+        "options": [
+          "A. this",
+          "B. these",
+          "C. that",
+          "D. those"
+        ],
+        "answer": "D",
+        "explanation": "ใช้ 'those' เพราะ 'children' เป็นคำนามพหูพจน์ และ 'in the park over there' บ่งบอกว่าอยู่ไกล"
+      },
+      {
+        "question": "I can't believe he said ___ terrible thing.",
+        "options": [
+          "A. this",
+          "B. these",
+          "C. that",
+          "D. those"
+        ],
+        "answer": "C",
+        "explanation": "ใช้ 'that' เพราะ 'thing' เป็นคำนามเอกพจน์ และเป็นการอ้างถึงคำพูดที่ได้พูดไปแล้ว (ไกลในแง่เวลา/เหตุการณ์)"
+      },
+      {
+        "question": "___ cupcakes right in front of me look delicious.",
+        "options": [
+          "A. This",
+          "B. These",
+          "C. That",
+          "D. Those"
+        ],
+        "answer": "B",
+        "explanation": "ใช้ 'These' เพราะ 'cupcakes' เป็นพหูพจน์ และ 'right in front of me' (อยู่ตรงหน้าฉัน) บ่งบอกว่าอยู่ใกล้"
+      },
+      {
+        "question": "___ car on the far side of the parking lot is mine.",
+        "options": [
+          "A. This",
+          "B. These",
+          "C. That",
+          "D. Those"
+        ],
+        "answer": "C",
+        "explanation": "ใช้ 'That' เพราะ 'car' เป็นเอกพจน์ และ 'on the far side' (ฝั่งไกล) บ่งบอกว่าอยู่ไกล"
+      },
+      {
+        "question": "Do you like ___ painting hanging on the wall here?",
+        "options": [
+          "A. this",
+          "B. these",
+          "C. that",
+          "D. those"
+        ],
+        "answer": "A",
+        "explanation": "ใช้ 'this' เพราะ 'painting' เป็นเอกพจน์ และ 'here' (ที่นี่) บ่งบอกว่าอยู่ใกล้"
+      },
+      {
+        "question": "Let's look at ___ old photos in this album.",
+        "options": [
+          "A. this",
+          "B. these",
+          "C. that",
+          "D. those"
+        ],
+        "answer": "B",
+        "explanation": "ใช้ 'these' เพราะ 'photos' เป็นพหูพจน์ และ 'in this album' (ในอัลบั้มนี้) หมายถึงกำลังดูอยู่ (ใกล้)"
+      },
+      {
+        "question": "I need to return ___ books to the library, which is miles away.",
+        "options": [
+          "A. this",
+          "B. these",
+          "C. that",
+          "D. those"
+        ],
+        "answer": "B",
+        "explanation": "ใช้ 'these' เพราะพูดถึง 'books' (พหูพจน์) ที่ผู้พูดมีอยู่กับตัว (ใกล้) ถึงแม้จะเอาไปคืนที่ไกลก็ตาม"
+      },
+      {
+        "question": "Do you remember ___ amazing concert we went to last year?",
+        "options": [
+          "A. this",
+          "B. these",
+          "C. that",
+          "D. those"
+        ],
+        "answer": "C",
+        "explanation": "ใช้ 'that' เพื่อพูดถึง 'concert' (เอกพจน์) ที่เป็นเหตุการณ์ในอดีต ('last year' - ไกลในแง่เวลา)"
+      },
+      {
+        "question": "All of ___ students in the back row, please be quiet.",
+        "options": [
+          "A. this",
+          "B. these",
+          "C. that",
+          "D. those"
+        ],
+        "answer": "D",
+        "explanation": "ใช้ 'those' เพราะ 'students' เป็นพหูพจน์ และ 'in the back row' (แถวหลัง) บ่งบอกว่าอยู่ไกลจากผู้พูด"
+      },
+      {
+        "question": "___ pen in my hand doesn't work.",
+        "options": [
+          "A. This",
+          "B. These",
+          "C. That",
+          "D. Those"
+        ],
+        "answer": "A",
+        "explanation": "ใช้ 'This' เพราะ 'pen' เป็นเอกพจน์ และ 'in my hand' (ในมือฉัน) บ่งบอกว่าอยู่ใกล้มาก"
+      },
+      {
+        "question": "___ is not what I ordered.",
+        "options": [
+          "A. This",
+          "B. These",
+          "C. That",
+          "D. Those"
+        ],
+        "answer": "A",
+        "explanation": "ใช้ 'This' เป็นสรรพนาม (pronoun) หมายถึงสิ่งที่อยู่ตรงหน้า (ใกล้) และเป็นสิ่งเดียว (เอกพจน์)"
+      },
+      {
+        "question": "Look at ___ clouds. I think it's going to rain.",
+        "options": [
+          "A. this",
+          "B. these",
+          "C. that",
+          "D. those"
+        ],
+        "answer": "D",
+        "explanation": "ใช้ 'those' เพราะ 'clouds' (เมฆ) เป็นพหูพจน์ และอยู่บนฟ้าซึ่งไกลจากผู้พูด"
+      },
+      {
+        "question": "What are ___ things you are holding?",
+        "options": [
+          "A. this",
+          "B. these",
+          "C. that",
+          "D. those"
+        ],
+        "answer": "D",
+        "explanation": "คำตอบคือ 'those' เนื่องจากคำถามถามถึงสิ่งที่คนอื่นถืออยู่ ('you are holding') ซึ่งจะไกลจากตัวผู้ถาม แต่ใกล้กับผู้ตอบ ดังนั้น B. these ก็อาจเป็นไปได้ในบริบทที่ทั้งสองคนอยู่ใกล้กันมาก แต่ D. those เป็นคำตอบที่เป็นกลางและปลอดภัยกว่า"
+      },
+      {
+        "question": "___ was a wonderful speech. I really enjoyed it.",
+        "options": [
+          "A. This",
+          "B. These",
+          "C. That",
+          "D. Those"
+        ],
+        "answer": "C",
+        "explanation": "ใช้ 'That' เพื่ออ้างถึง 'speech' (เอกพจน์) ที่เพิ่งจบไป (ไกลในแง่เวลา)"
+      },
+      {
+        "question": "___ apartment we are in is bigger than our old one.",
+        "options": [
+          "A. This",
+          "B. These",
+          "C. That",
+          "D. Those"
+        ],
+        "answer": "A",
+        "explanation": "ใช้ 'This' เพราะ 'apartment' เป็นเอกพจน์ และ 'we are in' (ที่เราอยู่) บ่งบอกว่าอยู่ใกล้ (คืออยู่ในนั้นเลย)"
+      },
+      {
+        "question": "Can you hear ___ music coming from the neighbor's house?",
+        "options": [
+          "A. this",
+          "B. these",
+          "C. that",
+          "D. those"
+        ],
+        "answer": "C",
+        "explanation": "ใช้ 'that' เพราะ 'music' เป็นนามนับไม่ได้ (ถือเป็นเอกพจน์) และ 'from the neighbor's house' (จากบ้านเพื่อนบ้าน) บ่งบอกว่าอยู่ไกล"
+      },
+      {
+        "question": "Try one of ___ cookies; I just baked them.",
+        "options": [
+          "A. this",
+          "B. these",
+          "C. that",
+          "D. those"
+        ],
+        "answer": "B",
+        "explanation": "ใช้ 'these' เพราะ 'cookies' เป็นพหูพจน์ และการที่บอกว่าเพิ่งอบเสร็จ ('I just baked them') และชวนให้ชิม แสดงว่าอยู่ใกล้"
+      },
+      {
+        "question": "I prefer ___ chair here to ___ one over there.",
+        "options": [
+          "A. this, that",
+          "B. that, this",
+          "C. these, those",
+          "D. those, these"
+        ],
+        "answer": "A",
+        "explanation": "ส่วนแรกใช้ 'this' กับ 'chair here' (เก้าอี้ตัวนี้ที่นี่) และส่วนที่สองใช้ 'that' กับ 'one over there' (ตัวนั้นที่อยู่ตรงนั้น) เป็นการเปรียบเทียบของใกล้กับของไกล"
+      },
+      {
+        "question": "Are ___ your sunglasses on the counter?",
+        "options": [
+          "A. this",
+          "B. these",
+          "C. that",
+          "D. those"
+        ],
+        "answer": "D",
+        "explanation": "ใช้ 'those' เพราะ 'sunglasses' เป็นพหูพจน์ (มี 2 เลนส์) และ 'on the counter' (บนเคาน์เตอร์) อาจจะอยู่ไกลจากผู้พูด"
+      },
+      {
+        "question": "___ mountain in the distance is Mount Fuji.",
+        "options": [
+          "A. This",
+          "B. These",
+          "C. That",
+          "D. Those"
+        ],
+        "answer": "C",
+        "explanation": "ใช้ 'That' เพราะ 'mountain' เป็นเอกพจน์ และ 'in the distance' (ที่อยู่ไกลออกไป) บ่งบอกระยะทางอย่างชัดเจน"
+      },
+      {
+        "question": "___ are the keys I've been looking for!",
+        "options": [
+          "A. This",
+          "B. These",
+          "C. That",
+          "D. Those"
+        ],
+        "answer": "B",
+        "explanation": "ใช้ 'These' เพราะ 'keys' เป็นพหูพจน์ และเมื่อหาเจอแล้ว แสดงว่ามันต้องอยู่ใกล้ตัวแล้วในขณะที่พูด"
+      },
+      {
+        "question": "I'll never forget ___ day we met.",
+        "options": [
+          "A. this",
+          "B. these",
+          "C. that",
+          "D. those"
+        ],
+        "answer": "C",
+        "explanation": "ใช้ 'that' เพราะ 'day' เป็นเอกพจน์ และเป็นเรื่องในอดีต (ไกลในแง่เวลา)"
+      },
+      {
+        "question": "Could you help me carry ___ boxes?",
+        "options": [
+          "A. this",
+          "B. these",
+          "C. that",
+          "D. those"
+        ],
+        "answer": "B",
+        "explanation": "ใช้ 'these' เพราะ 'boxes' เป็นพหูพจน์ และการขอให้ช่วยยก แสดงว่ากล่องอยู่ใกล้ตัวผู้พูด"
+      },
+      {
+        "question": "___ boy standing by the door is my brother.",
+        "options": [
+          "A. This",
+          "B. These",
+          "C. That",
+          "D. Those"
+        ],
+        "answer": "C",
+        "explanation": "ใช้ 'That' เพราะ 'boy' เป็นเอกพจน์ และ 'by the door' (ตรงประตู) อาจจะอยู่ไกลจากผู้พูด"
+      },
+      {
+        "question": "Is ___ your phone ringing?",
+        "options": [
+          "A. this",
+          "B. these",
+          "C. that",
+          "D. those"
+        ],
+        "answer": "C",
+        "explanation": "ใช้ 'that' เพราะ 'phone' เป็นเอกพจน์ และเสียงที่ได้ยินมักจะมาจากที่ไกลตัวเล็กน้อย ไม่ได้อยู่ในมือ"
+      },
+      {
+        "question": "The apples in this bowl are fresh, but ___ in that basket are old.",
+        "options": [
+          "A. this",
+          "B. these",
+          "C. that",
+          "D. those"
+        ],
+        "answer": "D",
+        "explanation": "ใช้ 'those' เพื่ออ้างถึง 'apples' (พหูพจน์) ที่อยู่ใน 'that basket' (ตะกร้าใบนั้นที่อยู่ไกล)"
+      },
+      {
+        "question": "Hello, ___ is John speaking.",
+        "options": [
+          "A. this",
+          "B. these",
+          "C. that",
+          "D. those"
+        ],
+        "answer": "A",
+        "explanation": "เป็นสำนวนมาตรฐานในการแนะนำตัวทางโทรศัพท์ ใช้ 'This is...'"
+      },
+      {
+        "question": "Who is ___ man you were talking to earlier?",
+        "options": [
+          "A. this",
+          "B. these",
+          "C. that",
+          "D. those"
+        ],
+        "answer": "C",
+        "explanation": "ใช้ 'that' เพราะ 'man' เป็นเอกพจน์ และการพูดคุยนั้นเกิดขึ้นในอดีต ('earlier' - ไกลในแง่เวลา)"
+      },
+      {
+        "question": "Are ___ people waiting in line?",
+        "options": [
+          "A. this",
+          "B. these",
+          "C. that",
+          "D. those"
+        ],
+        "answer": "D",
+        "explanation": "ใช้ 'those' เพราะ 'people' เป็นพหูพจน์ และคนที่ต่อแถวมักจะอยู่ไกลจากผู้สังเกตการณ์"
+      },
+      {
+        "question": "Take ___ advice: always be honest.",
+        "options": [
+          "A. this",
+          "B. these",
+          "C. that",
+          "D. those"
+        ],
+        "answer": "A",
+        "explanation": "ใช้ 'this' เพราะ 'advice' เป็นนามนับไม่ได้ (ถือเป็นเอกพจน์) และเป็นคำแนะนำที่กำลังจะให้ ณ ขณะนั้น (ใกล้)"
+      },
+      {
+        "question": "I bought ___ shirt yesterday. Do you like it?",
+        "options": [
+          "A. this",
+          "B. these",
+          "C. that",
+          "D. those"
+        ],
+        "answer": "A",
+        "explanation": "ใช้ 'this' เพราะ 'shirt' เป็นเอกพจน์ และถึงแม้จะซื้อมาเมื่อวาน แต่ขณะที่พูด ผู้พูดอาจจะกำลังใส่หรือถือมันอยู่ (ใกล้)"
+      },
+      {
+        "question": "___ flowers smell so good.",
+        "options": [
+          "A. This",
+          "B. These",
+          "C. That",
+          "D. Those"
+        ],
+        "answer": "B",
+        "explanation": "ใช้ 'These' เพราะ 'flowers' เป็นพหูพจน์ และการที่จะได้กลิ่น แสดงว่าดอกไม้ต้องอยู่ใกล้"
+      },
+      {
+        "question": "What was ___ noise?",
+        "options": [
+          "A. this",
+          "B. these",
+          "C. that",
+          "D. those"
+        ],
+        "answer": "C",
+        "explanation": "ใช้ 'that' เพราะ 'noise' (เสียง) เป็นเอกพจน์ และเสียงที่เพิ่งเกิดขึ้นและจบไปแล้ว ถือว่าไกลในแง่เวลา"
+      },
+      {
+        "question": "___ are my parents, and ___ are my grandparents over there.",
+        "options": [
+          "A. These, those",
+          "B. This, that",
+          "C. Those, these",
+          "D. That, this"
+        ],
+        "answer": "A",
+        "explanation": "ส่วนแรกใช้ 'These' กับ 'parents' (พหูพจน์) ที่อยู่ใกล้ และส่วนที่สองใช้ 'those' กับ 'grandparents over there' (พหูพจน์) ที่อยู่ไกล"
+      },
+      {
+        "question": "Could you pick up ___ pencil on the floor for me?",
+        "options": [
+          "A. this",
+          "B. these",
+          "C. that",
+          "D. those"
+        ],
+        "answer": "C",
+        "explanation": "ใช้ 'that' เพราะ 'pencil' (เอกพจน์) อยู่บนพื้น ซึ่งไกลจากมือของผู้พูด"
+      },
+      {
+        "question": "___ students who passed the exam can go home.",
+        "options": [
+          "A. This",
+          "B. These",
+          "C. That",
+          "D. Those"
+        ],
+        "answer": "D",
+        "explanation": "ใช้ 'Those' เพื่ออ้างถึงกลุ่ม 'students' (พหูพจน์) ที่เฉพาะเจาะจง (คือคนที่สอบผ่าน) เป็นการใช้ในเชิงที่เป็นทางการและชี้เฉพาะกลุ่ม"
+      },
+      {
+        "question": "___ is exactly what I was talking about.",
+        "options": [
+          "A. This",
+          "B. These",
+          "C. That",
+          "D. Those"
+        ],
+        "answer": "C",
+        "explanation": "ใช้ 'That' เป็นสรรพนาม (pronoun) เพื่ออ้างถึงเรื่องราวหรือประเด็น (เอกพจน์) ที่เคยคุยกันไปแล้ว (ไกล)"
+      },
+      {
+        "question": "How did you get ___ scratch on your arm?",
+        "options": [
+          "A. this",
+          "B. these",
+          "C. that",
+          "D. those"
+        ],
+        "answer": "C",
+        "explanation": "ใช้ 'that' เพราะ 'scratch' (รอยขีดข่วน) เป็นเอกพจน์ และเป็นการถามถึงรอยที่อยู่บนตัวของอีกคนหนึ่ง ซึ่งไกลจากผู้ถาม"
+      },
+      {
+        "question": "I'm going to wear ___ new shoes tonight.",
+        "options": [
+          "A. this",
+          "B. these",
+          "C. that",
+          "D. those"
+        ],
+        "answer": "B",
+        "explanation": "ใช้ 'these' เพราะ 'shoes' เป็นพหูพจน์ และผู้พูดกำลังวางแผนจะใส่ ซึ่งหมายถึงรองเท้าอยู่ในการครอบครอง (ใกล้)"
+      },
+      {
+        "question": "Let's move ___ table closer to the window.",
+        "options": [
+          "A. this",
+          "B. these",
+          "C. that",
+          "D. those"
+        ],
+        "answer": "A",
+        "explanation": "ใช้ 'this' เพราะ 'table' เป็นเอกพจน์ และการที่จะย้ายมันได้ โต๊ะนั้นต้องอยู่ใกล้ตัวผู้พูด"
+      },
+      {
+        "question": "___ mountains in the distance are called the Alps.",
+        "options": [
+          "A. This",
+          "B. These",
+          "C. That",
+          "D. Those"
+        ],
+        "answer": "D",
+        "explanation": "ใช้ 'Those' เพราะ 'mountains' เป็นพหูพจน์ และ 'in the distance' (ที่อยู่ไกลออกไป) บ่งบอกระยะทางอย่างชัดเจน"
+      },
+      {
+        "question": "Look at all ___ people! The concert must be popular.",
+        "options": [
+          "A. this",
+          "B. these",
+          "C. that",
+          "D. those"
+        ],
+        "answer": "D",
+        "explanation": "ใช้ 'those' เพราะ 'people' เป็นพหูพจน์ และเป็นการมองไปที่ฝูงชนซึ่งอยู่ไกลออกไป"
+      }
+    ]
+  }
+]

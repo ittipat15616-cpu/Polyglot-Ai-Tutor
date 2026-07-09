@@ -1,0 +1,1178 @@
+[
+  {
+    "id": "4_1",
+    "title": "4.1 Present Tense of Be (การใช้ is, am, are ในประโยคบอกเล่า ปฏิเสธ คำถาม)",
+    "explanation": "Verb to Be ในรูป Present Tense (ปัจจุบันกาล) มี 3 ตัว คือ is, am, are แปลว่า 'เป็น', 'อยู่', 'คือ' แต่ในหลายครั้งก็ไม่มีคำแปลในภาษาไทย โดยทำหน้าที่เป็นกริยาหลักของประโยค\n\nหลักการใช้ขึ้นอยู่กับประธาน (Subject) ของประโยค ดังนี้:\n1.  **I** (ฉัน) ใช้กับ **am** เท่านั้น\n2.  **He** (เขาผู้ชาย), **She** (เขาผู้หญิง), **It** (มัน), และ **ประธานเอกพจน์** (สิ่งเดียว, คนเดียว เช่น a cat, John) ใช้กับ **is**\n3.  **You** (คุณ, พวกคุณ), **We** (พวกเรา), **They** (พวกเขา, พวกมัน), และ **ประธานพหูพจน์** (หลายสิ่ง, หลายคน เช่น cats, John and Mary) ใช้กับ **are**\n\n**โครงสร้างประโยค**\n\n**1. ประโยคบอกเล่า (Affirmative Sentences)**\nโครงสร้าง: Subject + is/am/are + (ส่วนเสริม)\nเช่น: \n- I **am** a student. (ฉันเป็นนักเรียน)\n- She **is** beautiful. (เธอสวย)\n- They **are** in the room. (พวกเขาอยู่ในห้อง)\n\n**2. ประโยคปฏิเสธ (Negative Sentences)**\nโครงสร้าง: Subject + is/am/are + **not** + (ส่วนเสริม)\nเราสามารถใช้รูปย่อ (Contractions) ได้:\n- is not = **isn't**\n- are not = **aren't**\n- am not (ไม่มีรูปย่อที่เป็นที่ยอมรับสากล แต่ I am not สามารถย่อเป็น I'm not ได้)\nเช่น:\n- I **am not** a doctor. (ฉันไม่ได้เป็นหมอ)\n- He **is not** (isn't) tired. (เขาไม่เหนื่อย)\n- We **are not** (aren't) late. (พวกเราไม่ได้มาสาย)\n\n**3. ประโยคคำถาม (Interrogative Sentences)**\n\n**ก. Yes/No Questions (คำถามที่ต้องการคำตอบว่า ใช่ หรือ ไม่)**\nโครงสร้าง: Is/Am/Are + Subject + (ส่วนเสริม)?\nการตอบ: \n- Yes, Subject + is/am/are.\n- No, Subject + is not/am not/are not.\nเช่น:\n- **Am** I correct? (ฉันถูกต้องไหม?) -> Yes, you are. / No, you aren't.\n- **Is** she a nurse? (เธอเป็นพยาบาลใช่ไหม?) -> Yes, she is. / No, she isn't.\n- **Are** they ready? (พวกเขาพร้อมหรือยัง?) -> Yes, they are. / No, they aren't.\n\n**ข. Wh- Questions (คำถามที่ขึ้นต้นด้วย What, Where, When, Why, Who, How)**\nโครงสร้าง: Wh-word + is/am/are + Subject + (ส่วนเสริม)?\nเช่น:\n- **Where are** you from? (คุณมาจากที่ไหน?)\n- **What is** your name? (คุณชื่ออะไร?)\n- **Who is** that man? (ผู้ชายคนนั้นคือใคร?)",
+    "examples": [
+      {
+        "eng": "I am a Thai student.",
+        "thai": "ฉันเป็นนักเรียนชาวไทย (ประโยคบอกเล่า, ประธานคือ I ใช้ am)"
+      },
+      {
+        "eng": "This book is interesting.",
+        "thai": "หนังสือเล่มนี้ (เอกพจน์) น่าสนใจ (ประโยคบอกเล่า, ประธานคือ This book ใช้ is)"
+      },
+      {
+        "eng": "My parents are at home.",
+        "thai": "พ่อแม่ของฉัน (พหูพจน์) อยู่ที่บ้าน (ประโยคบอกเล่า, ประธานคือ My parents ใช้ are)"
+      },
+      {
+        "eng": "She is not (isn't) my sister.",
+        "thai": "เธอไม่ใช่พี่สาว/น้องสาวของฉัน (ประโยคปฏิเสธ, ประธานคือ She ใช้ is not หรือ isn't)"
+      },
+      {
+        "eng": "We are not (aren't) busy.",
+        "thai": "พวกเราไม่ยุ่ง (ประโยคปฏิเสธ, ประธานคือ We ใช้ are not หรือ aren't)"
+      },
+      {
+        "eng": "Is he your teacher?",
+        "thai": "เขาเป็นครูของคุณใช่ไหม? (ประโยคคำถาม Yes/No)"
+      },
+      {
+        "eng": "Are you okay?",
+        "thai": "คุณโอเคไหม? (ประโยคคำถาม Yes/No)"
+      },
+      {
+        "eng": "Why are they so quiet?",
+        "thai": "ทำไมพวกเขาถึงเงียบจัง? (ประโยคคำถาม Wh-)"
+      }
+    ],
+    "common_mistakes": "1. **ลืมใส่ Verb to Be**: ในภาษาไทย เราสามารถพูดว่า 'เขาหล่อ' ได้เลย แต่ในภาษาอังกฤษจะพูดว่า 'He handsome.' ไม่ได้ ต้องมี Verb to Be มาเชื่อม เป็น 'He **is** handsome.'\n\n2. **ใช้ Verb to Be ผิดกับประธาน**: เป็นความผิดพลาดพื้นฐานที่เจอบ่อย เช่น ใช้ 'I is a student.' หรือ 'He are a doctor.' ต้องจำหลักการผันให้แม่น: I am, He/She/It is, You/We/They are.\n\n3. **การใช้ Verb to Be ซ้ำซ้อนกับกริยาแท้**: มักจะเกิดขึ้นเมื่อเรียนเรื่อง Tense อื่นๆ เช่น พูดว่า 'I am go to school.' ซึ่งผิดหลักไวยากรณ์ (ยกเว้นในรูป Present Continuous ที่ต้องเป็น I am going...). ถ้าเป็นประโยคปัจจุบันทั่วไป จะใช้แค่ 'I go to school.' โดยไม่มี Verb to Be.\n\n4. **การตอบคำถาม Yes/No ผิด**: เมื่อถูกถามว่า 'Are you a student?' บางคนอาจจะตอบสั้นๆ ว่า 'Yes, I are.' ตามคำกริยาในคำถาม ซึ่งผิด ที่ถูกต้องคือต้องเปลี่ยนกริยาตามประธานในคำตอบ เป็น 'Yes, I **am**.'",
+    "practice_questions": [
+      {
+        "question": "My brother and I ___ very different.",
+        "options": [
+          "A. is",
+          "B. am",
+          "C. are",
+          "D. be"
+        ],
+        "answer": "C",
+        "explanation": "ประธานของประโยคคือ 'My brother and I' ซึ่งเป็นพหูพจน์ (2 คน) จึงต้องใช้ 'are'"
+      },
+      {
+        "question": "Excuse me, ___ you Mr. Smith?",
+        "options": [
+          "A. Is",
+          "B. Am",
+          "C. Do",
+          "D. Are"
+        ],
+        "answer": "D",
+        "explanation": "เป็นประโยคคำถาม Yes/No ที่มีประธานคือ 'you' ดังนั้นจึงต้องขึ้นต้นด้วย 'Are'"
+      },
+      {
+        "question": "The weather ___ nice today. It's sunny.",
+        "options": [
+          "A. is",
+          "B. are",
+          "C. am",
+          "D. -"
+        ],
+        "answer": "A",
+        "explanation": "ประธานคือ 'The weather' ซึ่งเป็นคำนามนับไม่ได้ จัดเป็นเอกพจน์ จึงใช้กับ 'is'"
+      },
+      {
+        "question": "I ___ not interested in politics.",
+        "options": [
+          "A. is",
+          "B. are",
+          "C. am",
+          "D. does"
+        ],
+        "answer": "C",
+        "explanation": "ประธานคือ 'I' ต้องใช้กับ 'am' เท่านั้น ในประโยคปฏิเสธจะเป็น 'I am not...'"
+      },
+      {
+        "question": "Look! There ___ Jenny.",
+        "options": [
+          "A. are",
+          "B. am",
+          "C. is",
+          "D. be"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้มีประธานจริงๆ อยู่ข้างหลังคือ 'Jenny' ซึ่งเป็นเอกพจน์ (คนเดียว) จึงต้องใช้ 'is' (There is Jenny.)"
+      },
+      {
+        "question": "These flowers ___ for you.",
+        "options": [
+          "A. are",
+          "B. is",
+          "C. am",
+          "D. was"
+        ],
+        "answer": "A",
+        "explanation": "ประธานคือ 'These flowers' เป็นพหูพจน์ (ดอกไม้หลายดอก) จึงต้องใช้ 'are'"
+      },
+      {
+        "question": "Her children ___ at school right now.",
+        "options": [
+          "A. is",
+          "B. are",
+          "C. am",
+          "D. be"
+        ],
+        "answer": "B",
+        "explanation": "ประธานคือ 'Her children' ซึ่งเป็นคำนามพหูพจน์ (ลูกๆ หลายคน) จึงต้องใช้ 'are'"
+      },
+      {
+        "question": "Why ___ you always late?",
+        "options": [
+          "A. is",
+          "B. does",
+          "C. are",
+          "D. am"
+        ],
+        "answer": "C",
+        "explanation": "เป็นประโยคคำถาม Wh- Question ที่มีประธานคือ 'you' จึงต้องใช้ 'are'"
+      },
+      {
+        "question": "This bag ___ very heavy. It ___ full of books.",
+        "options": [
+          "A. is / is",
+          "B. are / is",
+          "C. is / are",
+          "D. are / are"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคแรก ประธานคือ 'This bag' (เอกพจน์) ใช้ 'is' ประโยคที่สอง ประธานคือ 'It' (เอกพจน์) ใช้ 'is' เช่นกัน"
+      },
+      {
+        "question": "A: Is your mother a teacher? B: No, she ___.",
+        "options": [
+          "A. are not",
+          "B. isn't",
+          "C. am not",
+          "D. not is"
+        ],
+        "answer": "B",
+        "explanation": "เป็นประโยคคำตอบแบบสั้นในรูปปฏิเสธ ประธานคือ 'she' จึงต้องตอบว่า 'she isn't' หรือ 'she is not'"
+      }
+    ]
+  },
+  {
+    "id": "4_2",
+    "title": "4.2 Past Tense of Be (การใช้ was, were ในประโยคบอกเล่า ปฏิเสธ คำถาม)",
+    "explanation": "Verb to Be ในรูปอดีต (Past Tense) คือ was (วอซ) และ were (เวอ) ใช้เพื่อพูดถึงเหตุการณ์ สภาพ หรือความเป็นอยู่ที่เกิดขึ้นในอดีตและจบลงไปแล้ว\n\nหลักการใช้:\n1. was ใช้กับประธานเอกพจน์ (Singular Subject) และ I\n   - I, He, She, It\n   - ชื่อคนคนเดียว (Suda, Tom)\n   - สัตว์/สิ่งของสิ่งเดียว (a cat, the book)\n\n2. were ใช้กับประธานพหูพจน์ (Plural Subject) และ You\n   - You (ไม่ว่าจะเป็น 'คุณ' คนเดียว หรือ 'พวกคุณ' หลายคน ก็ใช้ were เสมอ)\n   - We, They\n   - คน/สัตว์/สิ่งของหลายสิ่ง (Suda and Tom, the cats, the books)\n\nโครงสร้างประโยค:\n- ประโยคบอกเล่า (Affirmative):\n  Subject + was/were + (คำนาม/คำคุณศัพท์/สถานที่)\n  เช่น: I was a student. / They were happy.\n\n- ประโยคปฏิเสธ (Negative):\n  Subject + was/were + not + ...\n  รูปย่อ: was not -> wasn't | were not -> weren't\n  เช่น: She wasn't tired. / We weren't at home.\n\n- ประโยคคำถาม (Interrogative):\n  - Yes/No Question: Was/Were + Subject + ...?\n    เช่น: Was he sick? / Were you there?\n  - Wh- Question: Wh-word + was/were + Subject + ...?\n    เช่น: Where was she? / Why were they late?",
+    "examples": [
+      {
+        "eng": "I was sick yesterday.",
+        "thai": "เมื่อวานนี้ฉันป่วย (ประโยคบอกเล่า, ประธาน I ใช้ was)"
+      },
+      {
+        "eng": "The dogs were in the garden.",
+        "thai": "สุนัขหลายตัวอยู่ในสวน (ประโยคบอกเล่า, ประธาน The dogs เป็นพหูพจน์ ใช้ were)"
+      },
+      {
+        "eng": "He wasn't at the office.",
+        "thai": "เขาไม่ได้อยู่ที่ออฟฟิศ (ประโยคปฏิเสธ, ประธาน He ใช้ was + not = wasn't)"
+      },
+      {
+        "eng": "You weren't listening to me.",
+        "thai": "คุณไม่ได้กำลังฟังฉันอยู่ (ประโยคปฏิเสธ, ประธาน You ใช้ were + not = weren't)"
+      },
+      {
+        "eng": "Was the movie good?",
+        "thai": "หนังเรื่องนั้นดีไหม? (ประโยคคำถาม Yes/No, ประธาน the movie เป็นเอกพจน์ ขึ้นต้นด้วย Was)"
+      },
+      {
+        "eng": "Were they your friends?",
+        "thai": "พวกเขาเป็นเพื่อนของคุณใช่ไหม? (ประโยคคำถาม Yes/No, ประธาน they เป็นพหูพจน์ ขึ้นต้นด้วย Were)"
+      },
+      {
+        "eng": "Where were you last night?",
+        "thai": "เมื่อคืนคุณอยู่ที่ไหน? (ประโยคคำถาม Wh-, ประธาน You ใช้ were)"
+      }
+    ],
+    "common_mistakes": "1. สับสนระหว่าง was และ were: คนไทยมักใช้สลับกัน โดยเฉพาะกับประธาน 'You' ต้องจำให้ขึ้นใจว่า 'You' (คุณ) ไม่ว่าจะหมายถึงคนเดียวหรือหลายคน จะต้องใช้กับ 'were' เสมอใน Past Tense\n   - ผิด: You was late. \n   - ถูก: You were late.\n\n2. ใช้ is/am/are กับเรื่องในอดีต: ลืมเปลี่ยน Verb to Be ให้เป็นรูปอดีตเมื่อมีคำบอกเวลาในอดีต (yesterday, last night, ago)\n   - ผิด: Yesterday, I am very busy.\n   - ถูก: Yesterday, I was very busy.\n\n3. สร้างประโยคปฏิเสธและคำถามผิดรูปแบบ: ใช้ don't, doesn't, didn't มาช่วย ซึ่งเป็นหลักการของ Verb ทั่วไป แต่สำหรับ Verb to Be เราสามารถเติม not หรือสลับตำแหน่งเพื่อสร้างประโยคปฏิเสธ/คำถามได้เลย\n   - ผิด: He didn't be at school.\n   - ถูก: He wasn't at school.\n   - ผิด: They did be tired?\n   - ถูก: Were they tired?",
+    "practice_questions": [
+      {
+        "question": "My brother and I ___ at the cinema last night.",
+        "options": [
+          "A. was",
+          "B. were",
+          "C. is",
+          "D. am"
+        ],
+        "answer": "B",
+        "explanation": "ประธานคือ 'My brother and I' (พี่ชายของฉันและฉัน) ซึ่งเป็นพหูพจน์ (2 คน) และเหตุการณ์เกิดในอดีต (last night) จึงต้องใช้ 'were'"
+      },
+      {
+        "question": "The weather ___ very cold yesterday.",
+        "options": [
+          "A. were",
+          "B. is",
+          "C. was",
+          "D. are"
+        ],
+        "answer": "C",
+        "explanation": "ประธานคือ 'The weather' (สภาพอากาศ) เป็นคำนามนับไม่ได้ ถือเป็นเอกพจน์ และมีคำว่า 'yesterday' บอกว่าเป็นอดีต จึงต้องใช้ 'was'"
+      },
+      {
+        "question": "___ you at home when I called?",
+        "options": [
+          "A. Was",
+          "B. Is",
+          "C. Are",
+          "D. Were"
+        ],
+        "answer": "D",
+        "explanation": "นี่คือประโยคคำถามในอดีต ประธานคือ 'you' ซึ่งต้องใช้กับ 'Were' เสมอ"
+      },
+      {
+        "question": "She ___ happy with her exam results, so she cried.",
+        "options": [
+          "A. weren't",
+          "B. wasn't",
+          "C. isn't",
+          "D. don't be"
+        ],
+        "answer": "B",
+        "explanation": "ประธานคือ 'She' เป็นเอกพจน์ และประโยคหลัง (so she cried - ดังนั้นเธอจึงร้องไห้) บอกเป็นนัยว่าเธอ 'ไม่' มีความสุข ดังนั้นต้องใช้รูปปฏิเสธในอดีตคือ 'wasn't'"
+      },
+      {
+        "question": "I looked for my keys, but they ___ on the table.",
+        "options": [
+          "A. wasn't",
+          "B. isn't",
+          "C. weren't",
+          "D. not were"
+        ],
+        "answer": "C",
+        "explanation": "ประธานคือ 'they' (หมายถึง my keys) เป็นพหูพจน์ และประโยคบอกว่าหาแล้วแต่ 'ไม่' อยู่บนโต๊ะ จึงต้องใช้รูปปฏิเสธในอดีตคือ 'weren't'"
+      },
+      {
+        "question": "When I ___ a child, my favorite toy ___ a teddy bear.",
+        "options": [
+          "A. was, was",
+          "B. were, was",
+          "C. was, were",
+          "D. were, were"
+        ],
+        "answer": "A",
+        "explanation": "ช่องแรก ประธานคือ 'I' ใช้กับ 'was' / ช่องที่สอง ประธานคือ 'my favorite toy' (เอกพจน์) ก็ใช้กับ 'was' เช่นกัน"
+      },
+      {
+        "question": "Why ___ the children so quiet this morning?",
+        "options": [
+          "A. was",
+          "B. is",
+          "C. were",
+          "D. are"
+        ],
+        "answer": "C",
+        "explanation": "เป็นประโยคคำถามในอดีต (this morning ที่ผ่านไปแล้ว) ประธานคือ 'the children' (เด็กๆ) เป็นพหูพจน์ จึงต้องใช้ 'were'"
+      },
+      {
+        "question": "The food at the restaurant ___ delicious.",
+        "options": [
+          "A. were",
+          "B. was",
+          "C. are",
+          "D. be"
+        ],
+        "answer": "B",
+        "explanation": "ประธานของประโยคคือ 'The food' (อาหาร) ซึ่งเป็นคำนามนับไม่ได้ ถือเป็นเอกพจน์ จึงใช้ 'was'"
+      },
+      {
+        "question": "Sorry I'm late. There ___ a lot of traffic.",
+        "options": [
+          "A. were",
+          "B. is",
+          "C. are",
+          "D. was"
+        ],
+        "answer": "D",
+        "explanation": "ในโครงสร้าง 'There was/were' เราจะดูคำนามที่ตามมา 'a lot of traffic' (การจราจร) เป็นคำนามนับไม่ได้ จึงถือเป็นเอกพจน์และใช้ 'was'"
+      },
+      {
+        "question": "It ___ a beautiful day, so we went to the park.",
+        "options": [
+          "A. was",
+          "B. were",
+          "C. is",
+          "D. are"
+        ],
+        "answer": "A",
+        "explanation": "ประธานคือ 'It' เป็นเอกพจน์ และเหตุการณ์ 'went to the park' เกิดขึ้นในอดีต จึงต้องใช้ 'was' เพื่อบอกสภาพในอดีต"
+      }
+    ]
+  },
+  {
+    "id": "4_3",
+    "title": "4.3 There is / There are (การบอกว่า \"มี\" ในปัจจุบัน)",
+    "explanation": "ในภาษาไทย เมื่อเราจะบอกว่า “มี” อะไรบางอย่างอยู่ที่ไหน เราใช้คำว่า “มี” คำเดียวได้เลย แต่ในภาษาอังกฤษ เราจะใช้ “There is” และ “There are” เพื่อบอกว่า “มี” สิ่งของ, คน, หรือสถานที่อยู่ ณ ที่ใดที่หนึ่ง โดยไม่ได้แสดงความเป็นเจ้าของ\n\nหลักการใช้ง่ายๆ คือ:\n1.  **There is** (รูปย่อ: There's) : ใช้กับคำนามนับได้ที่เป็นเอกพจน์ (มี 1 สิ่ง) และคำนามที่นับไม่ได้ (uncountable nouns) ทั้งหมด\n    -   โครงสร้างประโยคบอกเล่า: There is + a/an/one + คำนามเอกพจน์.\n    -   โครงสร้างประโยคบอกเล่า: There is + some + คำนามนับไม่ได้.\n\n2.  **There are** : ใช้กับคำนามนับได้ที่เป็นพหูพจน์ (มี 2 สิ่งขึ้นไป)\n    -   โครงสร้างประโยคบอกเล่า: There are + จำนวน (two, three, many, etc.) + คำนามพหูพจน์.\n\n**รูปแบบประโยคอื่นๆ**\n-   **ประโยคปฏิเสธ**: เติม not หลัง is/are\n    -   There is not (There isn't) a cat.\n    -   There are not (There aren't) any cats.\n    -   *ข้อสังเกต: ในประโยคปฏิเสธและคำถาม เรามักใช้ 'any' แทน 'some'*\n\n-   **ประโยคคำถาม**: สลับ Is/Are มาไว้ข้างหน้า\n    -   Is there a cat?\n    -   Are there any cats?\n\n-   **การตอบคำถาม**: \n    -   Yes, there is. / No, there isn't.\n    -   Yes, there are. / No, there aren't.",
+    "examples": [
+      {
+        "eng": "There is a book on the table.",
+        "thai": "มีหนังสือหนึ่งเล่มอยู่บนโต๊ะ (book เป็นเอกพจน์ ใช้ There is)"
+      },
+      {
+        "eng": "There's some milk in the fridge.",
+        "thai": "มีนมอยู่ในตู้เย็น (milk เป็นคำนามนับไม่ได้ ใช้ There is)"
+      },
+      {
+        "eng": "There are three pencils in my bag.",
+        "thai": "มีดินสอสามแท่งอยู่ในกระเป๋าของฉัน (pencils เป็นพหูพจน์ ใช้ There are)"
+      },
+      {
+        "eng": "There isn't a television in my bedroom.",
+        "thai": "ไม่มีทีวีอยู่ในห้องนอนของฉัน (ประโยคปฏิเสธของนามเอกพจน์)"
+      },
+      {
+        "eng": "There aren't any eggs left.",
+        "thai": "ไม่มีไข่เหลืออยู่เลย (ประโยคปฏิเสธของนามพหูพจน์ สังเกตการใช้ any)"
+      },
+      {
+        "eng": "Is there a post office near here?",
+        "thai": "มีที่ทำการไปรษณีย์อยู่ใกล้ๆ นี้ไหม? (ประโยคคำถามของนามเอกพจน์)"
+      },
+      {
+        "eng": "Are there any questions?",
+        "thai": "มีคำถามอะไรไหม? (ประโยคคำถามของนามพหูพจน์)"
+      }
+    ],
+    "common_mistakes": "จุดที่คนไทยมักทำผิดบ่อยที่สุดคือการสับสนระหว่าง 'Have/Has' กับ 'There is/There are' เพราะทั้งสองคำแปลว่า 'มี' เหมือนกัน\n\n**หลักการจำ:**\n-   **Have / Has** แปลว่า 'มี' แบบ **'แสดงความเป็นเจ้าของ'** ประธานของประโยคจะเป็นคนหรือสิ่งของที่เป็นเจ้าของสิ่งนั้น\n    -   ตัวอย่าง: **I have** a car. (ฉันมีรถ / ฉันเป็นเจ้าของรถ)\n    -   ตัวอย่าง: **She has** two brothers. (หล่อนมีพี่ชายสองคน)\n\n-   **There is / There are** แปลว่า 'มี' แบบ **'บอกการมีอยู่'** ของบางสิ่งในสถานที่หนึ่งๆ ไม่ได้บอกว่าใครเป็นเจ้าของ\n    -   ตัวอย่าง: **There is** a car on the street. (มีรถคันหนึ่งอยู่บนถนน)\n    -   ผิด: Have a car on the street. ❌\n    -   ผิด: It has a car on the street. ❌\n\n**สรุป:** ถ้าจะบอกว่า 'ใครมีอะไร' ให้ใช้ Have/Has แต่ถ้าจะบอกว่า 'มีอะไรอยู่ที่ไหน' ให้ใช้ There is/There are",
+    "practice_questions": [
+      {
+        "question": "Look! ______ a beautiful bird on that tree.",
+        "options": [
+          "A. There are",
+          "B. There is",
+          "C. It has",
+          "D. Are there"
+        ],
+        "answer": "B",
+        "explanation": "คำว่า 'a beautiful bird' เป็นคำนามเอกพจน์ (นก 1 ตัว) จึงต้องใช้ 'There is' เพื่อบอกว่า 'มี' นกอยู่บนต้นไม้"
+      },
+      {
+        "question": "Excuse me, ______ any good coffee shops around here?",
+        "options": [
+          "A. is there",
+          "B. has there",
+          "C. are there",
+          "D. have there"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้เป็นคำถามและ 'coffee shops' (มี s) เป็นคำนามพหูพจน์ จึงต้องขึ้นต้นด้วย 'Are there'"
+      },
+      {
+        "question": "______ a lot of sugar in this tea. It's too sweet.",
+        "options": [
+          "A. There are",
+          "B. There is",
+          "C. There have",
+          "D. There were"
+        ],
+        "answer": "B",
+        "explanation": "คำว่า 'sugar' (น้ำตาล) เป็นคำนามนับไม่ได้ (uncountable noun) ดังนั้นต้องใช้ 'There is' เสมอ"
+      },
+      {
+        "question": "I'm sorry, but ______ any tickets left for the concert.",
+        "options": [
+          "A. there is",
+          "B. there aren't",
+          "C. there isn't",
+          "D. there has"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้เป็นปฏิเสธ และ 'tickets' เป็นคำนามพหูพจน์ จึงต้องใช้ 'there aren't'"
+      },
+      {
+        "question": "______ only one apple in the basket.",
+        "options": [
+          "A. There is",
+          "B. There are",
+          "C. It is",
+          "D. They are"
+        ],
+        "answer": "A",
+        "explanation": "คำว่า 'one apple' (แอปเปิ้ล 1 ผล) เป็นคำนามเอกพจน์ จึงต้องใช้ 'There is'"
+      },
+      {
+        "question": "In my city, ______ many tall buildings and a big river.",
+        "options": [
+          "A. have",
+          "B. has",
+          "C. there is",
+          "D. there are"
+        ],
+        "answer": "D",
+        "explanation": "ถึงแม้จะมี 'a big river' (เอกพจน์) อยู่ด้วย แต่ประโยคเริ่มต้นด้วย 'many tall buildings' ซึ่งเป็นพหูพจน์ เราจึงต้องใช้ 'there are' ตามคำนามตัวแรก"
+      },
+      {
+        "question": "A: 'Is there a problem?' B: 'No, ______.'",
+        "options": [
+          "A. there aren't",
+          "B. it isn't",
+          "C. there isn't",
+          "D. they aren't"
+        ],
+        "answer": "C",
+        "explanation": "เมื่อคำถามขึ้นต้นด้วย 'Is there...?' การตอบปฏิเสธแบบสั้นที่ถูกต้องคือ 'No, there isn't.'"
+      },
+      {
+        "question": "Why ______ so many cars on the road today?",
+        "options": [
+          "A. are there",
+          "B. is there",
+          "C. do they have",
+          "D. has it"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคคำถามนี้ถามถึง 'so many cars' ซึ่งเป็นพหูพจน์ จึงต้องใช้ 'are there'"
+      },
+      {
+        "question": "______ no time to waste. We must leave now.",
+        "options": [
+          "A. There are",
+          "B. There have",
+          "C. There is",
+          "D. It is"
+        ],
+        "answer": "C",
+        "explanation": "คำว่า 'time' ในความหมายของ 'เวลา' เป็นคำนามนับไม่ได้ จึงต้องใช้กับ 'There is'"
+      },
+      {
+        "question": "On my desk, ______ a lamp, two pens, and a notebook.",
+        "options": [
+          "A. there are",
+          "B. it has",
+          "C. there is",
+          "D. they have"
+        ],
+        "answer": "C",
+        "explanation": "เมื่อมีรายการสิ่งของหลายอย่าง เราจะใช้ is หรือ are ตามคำนามตัวแรกที่อยู่หลังสุด ซึ่งในที่นี้คือ 'a lamp' (เอกพจน์) ดังนั้นจึงใช้ 'There is'"
+      }
+    ]
+  },
+  {
+    "id": "4_4",
+    "title": "4.4 There was / There were (การบอกว่า \"มี\" ในอดีต)",
+    "explanation": "There was และ There were ใช้เพื่อบอกว่า \"เคยมี\" บางสิ่งบางอย่างอยู่ในอดีต ซึ่งเป็นการกล่าวถึงการมีอยู่ของสิ่งนั้น ณ สถานที่หรือเวลาใดเวลาหนึ่งในอดีต ไม่ใช่การแสดงความเป็นเจ้าของ\n\nหลักการใช้ง่ายๆ:\n1.  **There was** (รูปย่อ: There wasn't) ใช้กับ:\n    *   **คำนามนับได้เอกพจน์ (Singular Noun)** คือมีแค่ 1 สิ่ง\n    *   **คำนามนับไม่ได้ (Uncountable Noun)** เช่น water, sugar, milk, information, money\n\n2.  **There were** (รูปย่อ: There weren't) ใช้กับ:\n    *   **คำนามนับได้พหูพจน์ (Plural Noun)** คือมีตั้งแต่ 2 สิ่งขึ้นไป (มักลงท้ายด้วย -s, -es หรือเปลี่ยนรูป)\n\n**โครงสร้างประโยค:**\n*   **บอกเล่า:** There was/were + [สิ่งที่เคยมี] + [สถานที่/เวลา]\n*   **ปฏิเสธ:** There wasn't/weren't + [สิ่งที่ไม่มี] + [สถานที่/เวลา]\n*   **คำถาม:** Was/Were there + [สิ่งที่ถามถึง] + [สถานที่/เวลา]?\n    *   **ตอบ:** Yes, there was/were. / No, there wasn't/weren't.",
+    "examples": [
+      {
+        "eng": "There was a coffee shop on this corner.",
+        "thai": "เคยมีร้านกาแฟอยู่ตรงหัวมุมนี้ (a coffee shop เป็นเอกพจน์ จึงใช้ was)"
+      },
+      {
+        "eng": "There was some water on the floor.",
+        "thai": "เคยมีน้ำอยู่บนพื้น (water เป็นคำนามนับไม่ได้ จึงใช้ was)"
+      },
+      {
+        "eng": "There were many students in the library yesterday.",
+        "thai": "เคยมีนักเรียนหลายคนอยู่ในห้องสมุดเมื่อวานนี้ (many students เป็นพหูพจน์ จึงใช้ were)"
+      },
+      {
+        "eng": "There wasn't a hospital in this town 50 years ago.",
+        "thai": "ไม่เคยมีโรงพยาบาลในเมืองนี้เมื่อ 50 ปีที่แล้ว (ประโยคปฏิเสธของนามเอกพจน์)"
+      },
+      {
+        "eng": "There weren't any empty seats on the bus.",
+        "thai": "ไม่มีที่นั่งว่างบนรถบัสเลย (ประโยคปฏิเสธของนามพหูพจน์)"
+      },
+      {
+        "eng": "A: Was there a message for me? B: Yes, there was.",
+        "thai": "A: มีข้อความถึงฉันไหม? B: มีค่ะ (คำถามสำหรับนามเอกพจน์)"
+      },
+      {
+        "eng": "A: Were there any problems? B: No, there weren't.",
+        "thai": "A: มีปัญหาอะไรไหม? B: ไม่มีเลย (คำถามสำหรับนามพหูพจน์)"
+      }
+    ],
+    "common_mistakes": "1.  **สับสนกับ 'had'**: คนไทยมักแปล \"มี\" เป็น have/has/had เสมอ แต่ต้องจำว่า 'had' ใช้แสดง \"ความเป็นเจ้าของ\" ในอดีต ส่วน 'There was/were' ใช้บอกว่า \"มีบางสิ่งอยู่ ณ ที่ใดที่หนึ่ง\" ในอดีต\n    *   **ผิด:** I had a snake in my room. (ความหมายจะกลายเป็น 'ฉันเคยเลี้ยงงูไว้ในห้อง')\n    *   **ถูก:** There was a snake in my room. (เคยมีงู (ตัวหนึ่ง) อยู่ในห้องของฉัน - เราไม่ได้เป็นเจ้าของมัน)\n\n2.  **ใช้ was/were สลับกัน**: ใช้ There was กับคำนามพหูพจน์ หรือใช้ There were กับคำนามเอกพจน์/นับไม่ได้\n    *   **ผิด:** There was many people at the party.\n    *   **ถูก:** There were many people at the party.\n    *   **ผิด:** There were a cat on the sofa.\n    *   **ถูก:** There was a cat on the sofa.\n\n3.  **ลืม 'There' ในประโยคคำถาม**: มักจะขึ้นต้นด้วย Was/Were เลยโดยไม่มี There ตามหลัง\n    *   **ผิด:** Was a ghost in that house?\n    *   **ถูก:** Was there a ghost in that house?",
+    "practice_questions": [
+      {
+        "question": "___ a beautiful park here before they built the mall.",
+        "options": [
+          "A. There was",
+          "B. There were",
+          "C. It had",
+          "D. There is"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคกล่าวถึงอดีต ('before') และ 'a beautiful park' เป็นคำนามเอกพจน์ (มี 1 แห่ง) จึงต้องใช้ 'There was'"
+      },
+      {
+        "question": "___ many empty bottles on the table after the party.",
+        "options": [
+          "A. There was",
+          "B. There were",
+          "C. Was there",
+          "D. Had"
+        ],
+        "answer": "B",
+        "explanation": "'many empty bottles' เป็นคำนามพหูพจน์ (หลายขวด) และเป็นเหตุการณ์ในอดีต (after the party) จึงต้องใช้ 'There were'"
+      },
+      {
+        "question": "I'm sure ___ any Wi-Fi in hotels 30 years ago.",
+        "options": [
+          "A. there wasn't",
+          "B. there weren't",
+          "C. it hadn't",
+          "D. it wasn't"
+        ],
+        "answer": "A",
+        "explanation": "'Wi-Fi' เป็นคำนามนับไม่ได้ และประโยคเป็นรูปปฏิเสธในอดีต จึงใช้ 'there wasn't'"
+      },
+      {
+        "question": "Excuse me, ___ a bank near here before?",
+        "options": [
+          "A. were there",
+          "B. was there",
+          "C. did it have",
+          "D. had there"
+        ],
+        "answer": "B",
+        "explanation": "เป็นประโยคคำถามในอดีต และ 'a bank' เป็นคำนามเอกพจน์ จึงต้องขึ้นต้นด้วย 'Was there'"
+      },
+      {
+        "question": "I couldn't make a cake because ___ any eggs in the fridge.",
+        "options": [
+          "A. there was",
+          "B. there wasn't",
+          "C. there weren't",
+          "D. there had"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคเป็นรูปปฏิเสธในอดีต (couldn't) และ 'any eggs' เป็นคำนามพหูพจน์ จึงต้องใช้ 'there weren't'"
+      },
+      {
+        "question": "In the 19th century, ___ no airplanes.",
+        "options": [
+          "A. there were",
+          "B. there was",
+          "C. had",
+          "D. it was"
+        ],
+        "answer": "A",
+        "explanation": "'airplanes' เป็นคำนามพหูพจน์ ประโยคนี้มีความหมายเดียวกับ There weren't any airplanes. จึงต้องใช้ 'there were' กับคำว่า 'no' ได้"
+      },
+      {
+        "question": "A: ___ a lot of people at the meeting? B: No, ___ .",
+        "options": [
+          "A. Was there / there was",
+          "B. Were there / there wasn't",
+          "C. Were there / there weren't",
+          "D. Was there / it wasn't"
+        ],
+        "answer": "C",
+        "explanation": "คำถามถามถึง 'a lot of people' (คนจำนวนมาก) ซึ่งเป็นพหูพจน์ จึงใช้ 'Were there' และเมื่อตอบ 'No' ก็ต้องใช้รูปปฏิเสธที่สอดคล้องกันคือ 'there weren't'"
+      },
+      {
+        "question": "When I was a child, ___ a small bookstore on my street.",
+        "options": [
+          "A. it had",
+          "B. there was",
+          "C. there had",
+          "D. there were"
+        ],
+        "answer": "B",
+        "explanation": "เป็นการบอกว่า 'เคยมี' ร้านหนังสืออยู่ ไม่ใช่การแสดงความเป็นเจ้าของ และ 'a small bookstore' เป็นเอกพจน์ จึงใช้ 'there was'"
+      },
+      {
+        "question": "___ a little milk left, so I drank it.",
+        "options": [
+          "A. There were",
+          "B. Had",
+          "C. It were",
+          "D. There was"
+        ],
+        "answer": "D",
+        "explanation": "'milk' เป็นคำนามนับไม่ได้ จึงต้องใช้คู่กับ 'There was' เสมอ"
+      },
+      {
+        "question": "___ any problems with the new software yesterday?",
+        "options": [
+          "A. Were there",
+          "B. Was there",
+          "C. Had there",
+          "D. Did there"
+        ],
+        "answer": "A",
+        "explanation": "เป็นประโยคคำถามในอดีต ('yesterday') และถามถึง 'any problems' ซึ่งเป็นพหูพจน์ จึงต้องขึ้นต้นด้วย 'Were there'"
+      }
+    ]
+  },
+  {
+    "id": "4_5",
+    "title": "4.5 Summary: Verb to Be (สรุป Verb to be + 50 Exercises)",
+    "explanation": "Verb to be คือคำกริยาพื้นฐานที่สำคัญที่สุดในภาษาอังกฤษ แปลว่า 'เป็น', 'อยู่', 'คือ' แต่บ่อยครั้งก็ไม่ต้องแปลในภาษาไทย ทำหน้าที่เชื่อมประธานกับส่วนขยายของประโยค\n\n**หลักการใช้ Verb to be**\n\n**1. รูปปัจจุบัน (Present Simple Tense): is, am, are**\nใช้พูดถึงข้อเท็จจริงทั่วไป, สิ่งที่เป็นอยู่ในปัจจุบัน, บอกสถานะ, ตำแหน่ง, คุณสมบัติ\n*   **I** ใช้กับ **am**\n*   **He, She, It, ประธานเอกพจน์ (หนึ่งเดียว)** ใช้กับ **is**\n*   **You, We, They, ประธานพหูพจน์ (หลายสิ่ง)** ใช้กับ **are**\n\n**2. รูปอดีต (Past Simple Tense): was, were**\nใช้พูดถึงเหตุการณ์, สถานะ, ตำแหน่ง ที่เกิดขึ้นและจบลงแล้วในอดีต\n*   **I, He, She, It, ประธานเอกพจน์** ใช้กับ **was**\n*   **You, We, They, ประธานพหูพจน์** ใช้กับ **were**\n\n**3. รูปแบบประโยค**\n*   **บอกเล่า (Affirmative):** ประธาน + Verb to be + ...\n    *   เช่น: `She is a doctor.` / `They were tired.`\n*   **ปฏิเสธ (Negative):** ประธาน + Verb to be + not + ...\n    *   รูปย่อ: isn't, aren't, wasn't, weren't (am not ไม่มีรูปย่อ)\n    *   เช่น: `He is not (isn't) here.` / `We were not (weren't) late.`\n*   **คำถาม (Question - Yes/No):** Verb to be + ประธาน + ...?\n    *   เช่น: `Are you hungry?` / `Was she sad?`\n*   **คำถาม (Question - Wh-):** Wh-word + Verb to be + ประธาน + ...?\n    *   เช่น: `Where is my book?` / `Why were they angry?`",
+    "examples": [
+      {
+        "eng": "I am a student. He is my friend. They are happy.",
+        "thai": "รูปปัจจุบัน: ฉันเป็นนักเรียน เขาเป็นเพื่อนของฉัน พวกเขามีความสุข"
+      },
+      {
+        "eng": "I was sick yesterday. They were in Japan last year.",
+        "thai": "รูปอดีต: ฉันป่วยเมื่อวานนี้ พวกเขาอยู่ที่ญี่ปุ่นเมื่อปีที่แล้ว"
+      },
+      {
+        "eng": "She isn't at home. We weren't ready.",
+        "thai": "รูปปฏิเสธ: เธอไม่ได้อยู่ที่บ้าน พวกเรายังไม่พร้อม"
+      },
+      {
+        "eng": "Are you a teacher? Was the movie good?",
+        "thai": "รูปคำถาม: คุณเป็นครูใช่ไหม? หนังสนุกไหม?"
+      },
+      {
+        "eng": "Where are my keys? Who was that man?",
+        "thai": "รูปคำถาม Wh-: กุญแจของฉันอยู่ที่ไหน? ผู้ชายคนนั้นคือใคร?"
+      }
+    ],
+    "common_mistakes": "1. **ละเลย Verb to be:** คนไทยมักลืมใส่ Verb to be ในประโยคที่อธิบายคุณลักษณะ เพราะภาษาไทยไม่มี\n    *   ผิด: `He tall.` (เขา สูง)\n    *   ถูก: `He is tall.`\n\n2. **ใช้ Verb to be ซ้ำซ้อนกับกริยาแท้:** ใส่ Verb to be เข้าไปในประโยคที่มีกริยาแท้อยู่แล้ว\n    *   ผิด: `I am go to school.`\n    *   ถูก: `I go to school.` (ฉันไปโรงเรียน - ปัจจุบัน)\n    *   ถูก: `I am going to school.` (ฉันกำลังไปโรงเรียน - Present Continuous)\n\n3. **ผัน Verb to be ไม่ตรงกับประธาน:** ใช้ is, am, are, was, were ผิดตัว\n    *   ผิด: `We is happy.`\n    *   ถูก: `We are happy.`\n    *   ผิด: `You was late.`\n    *   ถูก: `You were late.` (You ใช้ were เสมอในอดีต)\n\n4. **ใช้ผิด Tense:** ใช้ is/am/are กับเรื่องในอดีต หรือใช้ was/were กับเรื่องปัจจุบัน\n    *   ผิด: `She is sick yesterday.`\n    *   ถูก: `She was sick yesterday.`",
+    "practice_questions": [
+      {
+        "question": "I ___ a doctor.",
+        "options": [
+          "A. is",
+          "B. am",
+          "C. are",
+          "D. were"
+        ],
+        "answer": "B",
+        "explanation": "ประธานคือ I ต้องใช้กับ am เสมอใน Present Tense"
+      },
+      {
+        "question": "She ___ my best friend.",
+        "options": [
+          "A. is",
+          "B. am",
+          "C. are",
+          "D. was"
+        ],
+        "answer": "A",
+        "explanation": "ประธานคือ She (เอกพจน์) ต้องใช้กับ is ใน Present Tense"
+      },
+      {
+        "question": "They ___ from Japan.",
+        "options": [
+          "A. is",
+          "B. am",
+          "C. are",
+          "D. was"
+        ],
+        "answer": "C",
+        "explanation": "ประธานคือ They (พหูพจน์) ต้องใช้กับ are ใน Present Tense"
+      },
+      {
+        "question": "The cat ___ sleeping on the sofa.",
+        "options": [
+          "A. is",
+          "B. am",
+          "C. are",
+          "D. were"
+        ],
+        "answer": "A",
+        "explanation": "ประธานคือ The cat (เอกพจน์) เทียบเท่ากับ it ต้องใช้กับ is"
+      },
+      {
+        "question": "We ___ ready for the party.",
+        "options": [
+          "A. is",
+          "B. am",
+          "C. are",
+          "D. was"
+        ],
+        "answer": "C",
+        "explanation": "ประธานคือ We (พหูพจน์) ต้องใช้กับ are ใน Present Tense"
+      },
+      {
+        "question": "You ___ a very good singer.",
+        "options": [
+          "A. is",
+          "B. am",
+          "C. are",
+          "D. was"
+        ],
+        "answer": "C",
+        "explanation": "ประธานคือ You ต้องใช้กับ are เสมอใน Present Tense"
+      },
+      {
+        "question": "My father ___ a police officer.",
+        "options": [
+          "A. is",
+          "B. am",
+          "C. are",
+          "D. were"
+        ],
+        "answer": "A",
+        "explanation": "ประธานคือ My father (เอกพจน์) เทียบเท่ากับ he ต้องใช้กับ is"
+      },
+      {
+        "question": "These books ___ very heavy.",
+        "options": [
+          "A. is",
+          "B. am",
+          "C. are",
+          "D. was"
+        ],
+        "answer": "C",
+        "explanation": "ประธานคือ These books (พหูพจน์) เทียบเท่ากับ they ต้องใช้กับ are"
+      },
+      {
+        "question": "It ___ a beautiful day today.",
+        "options": [
+          "A. is",
+          "B. am",
+          "C. are",
+          "D. were"
+        ],
+        "answer": "A",
+        "explanation": "ประธานคือ It ต้องใช้กับ is ใน Present Tense"
+      },
+      {
+        "question": "John and I ___ classmates.",
+        "options": [
+          "A. is",
+          "B. am",
+          "C. are",
+          "D. was"
+        ],
+        "answer": "C",
+        "explanation": "ประธานคือ John and I (2 คน = พหูพจน์) เทียบเท่ากับ we ต้องใช้กับ are"
+      },
+      {
+        "question": "She ___ not at home right now.",
+        "options": [
+          "A. are",
+          "B. is",
+          "C. am",
+          "D. were"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคปฏิเสธในปัจจุบัน ประธาน She ใช้กับ is"
+      },
+      {
+        "question": "We ___ not interested in that movie.",
+        "options": [
+          "A. aren't",
+          "B. isn't",
+          "C. am not",
+          "D. wasn't"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคปฏิเสธในปัจจุบัน ประธาน We ใช้กับ are (รูปย่อคือ aren't)"
+      },
+      {
+        "question": "I ___ not tired.",
+        "options": [
+          "A. is",
+          "B. are",
+          "C. am",
+          "D. were"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคปฏิเสธในปัจจุบัน ประธาน I ใช้กับ am"
+      },
+      {
+        "question": "This soup ___ very good. I don't like it.",
+        "options": [
+          "A. is",
+          "B. isn't",
+          "C. aren't",
+          "D. am not"
+        ],
+        "answer": "B",
+        "explanation": "จากประโยคหลัง 'I don't like it' แสดงว่าเป็นปฏิเสธ ประธาน This soup (เอกพจน์) จึงใช้กับ isn't"
+      },
+      {
+        "question": "Those shoes ___ expensive. They are on sale.",
+        "options": [
+          "A. is",
+          "B. isn't",
+          "C. are",
+          "D. aren't"
+        ],
+        "answer": "D",
+        "explanation": "จากประโยคหลัง 'They are on sale' แสดงว่าเป็นปฏิเสธ ประธาน Those shoes (พหูพจน์) จึงใช้กับ aren't"
+      },
+      {
+        "question": "___ you from Canada?",
+        "options": [
+          "A. Is",
+          "B. Am",
+          "C. Are",
+          "D. Were"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคคำถามในปัจจุบัน ประธาน You ใช้กับ Are"
+      },
+      {
+        "question": "___ he your brother?",
+        "options": [
+          "A. Is",
+          "B. Am",
+          "C. Are",
+          "D. Was"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคคำถามในปัจจุบัน ประธาน he ใช้กับ Is"
+      },
+      {
+        "question": "What ___ your name?",
+        "options": [
+          "A. is",
+          "B. am",
+          "C. are",
+          "D. be"
+        ],
+        "answer": "A",
+        "explanation": "ประธานคือ your name (ชื่อเดียว = เอกพจน์) ใช้กับ is"
+      },
+      {
+        "question": "Where ___ the students?",
+        "options": [
+          "A. is",
+          "B. am",
+          "C. are",
+          "D. was"
+        ],
+        "answer": "C",
+        "explanation": "ประธานคือ the students (พหูพจน์) ใช้กับ are"
+      },
+      {
+        "question": "Why ___ you so sad today?",
+        "options": [
+          "A. is",
+          "B. am",
+          "C. are",
+          "D. were"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคคำถามในปัจจุบัน ประธาน You ใช้กับ are"
+      },
+      {
+        "question": "I ___ at the library yesterday.",
+        "options": [
+          "A. is",
+          "B. am",
+          "C. was",
+          "D. were"
+        ],
+        "answer": "C",
+        "explanation": "มีคำว่า yesterday (เมื่อวาน) บอกอดีต ประธาน I ใช้กับ was"
+      },
+      {
+        "question": "They ___ in London last summer.",
+        "options": [
+          "A. is",
+          "B. are",
+          "C. was",
+          "D. were"
+        ],
+        "answer": "D",
+        "explanation": "มีคำว่า last summer บอกอดีต ประธาน They (พหูพจน์) ใช้กับ were"
+      },
+      {
+        "question": "The weather ___ terrible last night.",
+        "options": [
+          "A. is",
+          "B. are",
+          "C. was",
+          "D. were"
+        ],
+        "answer": "C",
+        "explanation": "มีคำว่า last night บอกอดีต ประธาน The weather (เอกพจน์) ใช้กับ was"
+      },
+      {
+        "question": "She ___ a nurse before she became a writer.",
+        "options": [
+          "A. is",
+          "B. are",
+          "C. was",
+          "D. were"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคเล่าถึงอาชีพในอดีต (before she became...) ประธาน She ใช้กับ was"
+      },
+      {
+        "question": "You ___ very quiet during the meeting yesterday.",
+        "options": [
+          "A. is",
+          "B. are",
+          "C. was",
+          "D. were"
+        ],
+        "answer": "D",
+        "explanation": "มีคำว่า yesterday บอกอดีต ประธาน You ใช้กับ were เสมอใน Past Tense"
+      },
+      {
+        "question": "My keys ___ on the table, but now they are gone.",
+        "options": [
+          "A. is",
+          "B. are",
+          "C. was",
+          "D. were"
+        ],
+        "answer": "D",
+        "explanation": "ประธานคือ My keys (พหูพจน์) และเหตุการณ์เกิดขึ้นก่อนที่มันจะหายไป (อดีต) จึงใช้ were"
+      },
+      {
+        "question": "The first computer ___ huge.",
+        "options": [
+          "A. is",
+          "B. are",
+          "C. was",
+          "D. were"
+        ],
+        "answer": "C",
+        "explanation": "The first computer เป็นเรื่องในอดีต และเป็นเอกพจน์ จึงใช้ was"
+      },
+      {
+        "question": "We ___ students at that school ten years ago.",
+        "options": [
+          "A. is",
+          "B. are",
+          "C. was",
+          "D. were"
+        ],
+        "answer": "D",
+        "explanation": "มีคำว่า ten years ago บอกอดีต ประธาน We (พหูพจน์) ใช้กับ were"
+      },
+      {
+        "question": "He ___ born in 1990.",
+        "options": [
+          "A. is",
+          "B. are",
+          "C. was",
+          "D. were"
+        ],
+        "answer": "C",
+        "explanation": "การบอกปีเกิดเป็นเหตุการณ์ในอดีต ประธาน He ใช้กับ was"
+      },
+      {
+        "question": "The children ___ happy with their gifts last Christmas.",
+        "options": [
+          "A. is",
+          "B. are",
+          "C. was",
+          "D. were"
+        ],
+        "answer": "D",
+        "explanation": "มีคำว่า last Christmas บอกอดีต ประธาน The children (พหูพจน์) ใช้กับ were"
+      },
+      {
+        "question": "He ___ at school yesterday because he was sick.",
+        "options": [
+          "A. wasn't",
+          "B. isn't",
+          "C. aren't",
+          "D. weren't"
+        ],
+        "answer": "A",
+        "explanation": "มีคำว่า yesterday (อดีต) และเหตุผลคือ he was sick (เขาป่วย) แสดงว่าเป็นปฏิเสธ ประธาน He ใช้กับ wasn't"
+      },
+      {
+        "question": "They ___ happy with the result, they looked disappointed.",
+        "options": [
+          "A. wasn't",
+          "B. isn't",
+          "C. weren't",
+          "D. aren't"
+        ],
+        "answer": "C",
+        "explanation": "เหตุการณ์ในอดีต (looked disappointed) แสดงว่าเป็นปฏิเสธ ประธาน They ใช้กับ weren't"
+      },
+      {
+        "question": "I'm sorry, I ___ listening to you.",
+        "options": [
+          "A. wasn't",
+          "B. isn't",
+          "C. am not",
+          "D. weren't"
+        ],
+        "answer": "A",
+        "explanation": "พูดถึงสิ่งที่ไม่ได้ทำในอดีตอันใกล้ ประธาน I ใช้กับ wasn't"
+      },
+      {
+        "question": "The shops ___ open last Sunday.",
+        "options": [
+          "A. wasn't",
+          "B. isn't",
+          "C. weren't",
+          "D. aren't"
+        ],
+        "answer": "C",
+        "explanation": "มีคำว่า last Sunday บอกอดีต ประธาน The shops (พหูพจน์) ใช้กับ weren't"
+      },
+      {
+        "question": "It ___ a warm day, it was actually quite cold.",
+        "options": [
+          "A. wasn't",
+          "B. isn't",
+          "C. weren't",
+          "D. not"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคหลังขัดแย้ง แสดงว่าเป็นปฏิเสธในอดีต ประธาน It ใช้กับ wasn't"
+      },
+      {
+        "question": "___ you at the concert last night?",
+        "options": [
+          "A. Is",
+          "B. Are",
+          "C. Was",
+          "D. Were"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคคำถาม มีคำว่า last night บอกอดีต ประธาน You ใช้กับ Were"
+      },
+      {
+        "question": "___ the movie interesting?",
+        "options": [
+          "A. Is",
+          "B. Are",
+          "C. Was",
+          "D. Were"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคคำถามเกี่ยวกับเรื่องในอดีต (หนังที่ดูไปแล้ว) ประธาน The movie (เอกพจน์) ใช้กับ Was"
+      },
+      {
+        "question": "Why ___ he absent yesterday?",
+        "options": [
+          "A. is",
+          "B. are",
+          "C. was",
+          "D. were"
+        ],
+        "answer": "C",
+        "explanation": "คำถาม Wh- มีคำว่า yesterday บอกอดีต ประธาน he ใช้กับ was"
+      },
+      {
+        "question": "Where ___ your parents born?",
+        "options": [
+          "A. is",
+          "B. are",
+          "C. was",
+          "D. were"
+        ],
+        "answer": "D",
+        "explanation": "คำถาม Wh- เกี่ยวกับการเกิด (อดีต) ประธาน your parents (พหูพจน์) ใช้กับ were"
+      },
+      {
+        "question": "How old ___ you on your last birthday?",
+        "options": [
+          "A. is",
+          "B. are",
+          "C. was",
+          "D. were"
+        ],
+        "answer": "D",
+        "explanation": "คำถาม Wh- มีคำว่า last birthday บอกอดีต ประธาน You ใช้กับ were"
+      },
+      {
+        "question": "The food ___ delicious last night, but today it ___ not good.",
+        "options": [
+          "A. was / is",
+          "B. were / is",
+          "C. is / was",
+          "D. were / are"
+        ],
+        "answer": "A",
+        "explanation": "ส่วนแรก last night (อดีต) ประธาน The food (เอกพจน์) ใช้ was ส่วนหลัง today (ปัจจุบัน) ประธาน it ใช้ is"
+      },
+      {
+        "question": "My brother ___ tall now, but he ___ short when he was a child.",
+        "options": [
+          "A. is / was",
+          "B. is / were",
+          "C. are / was",
+          "D. was / is"
+        ],
+        "answer": "A",
+        "explanation": "ส่วนแรก now (ปัจจุบัน) ประธาน My brother (เอกพจน์) ใช้ is ส่วนหลัง when he was a child (อดีต) ประธาน he ใช้ was"
+      },
+      {
+        "question": "Where ___ you now? I ___ at home.",
+        "options": [
+          "A. are / am",
+          "B. is / am",
+          "C. were / was",
+          "D. are / is"
+        ],
+        "answer": "A",
+        "explanation": "คำถามและคำตอบเกี่ยวกับปัจจุบัน (now) ประธาน You ใช้กับ are และประธาน I ใช้กับ am"
+      },
+      {
+        "question": "Look! There ___ a rainbow in the sky.",
+        "options": [
+          "A. is",
+          "B. are",
+          "C. was",
+          "D. were"
+        ],
+        "answer": "A",
+        "explanation": "คำว่า Look! บอกให้ดู ณ ตอนนี้ เป็นปัจจุบัน ประธาน a rainbow (เอกพจน์) ใช้ is"
+      },
+      {
+        "question": "The police ___ here to investigate.",
+        "options": [
+          "A. is",
+          "B. are",
+          "C. was",
+          "D. am"
+        ],
+        "answer": "B",
+        "explanation": "คำว่า police ถือเป็นคำนามพหูพจน์เสมอ ต้องใช้กับ are"
+      },
+      {
+        "question": "Mathematics ___ my favorite subject when I was in school.",
+        "options": [
+          "A. is",
+          "B. are",
+          "C. was",
+          "D. were"
+        ],
+        "answer": "C",
+        "explanation": "Mathematics ถึงจะลงท้ายด้วย s แต่เป็นชื่อวิชา (เอกพจน์) และประโยคบอกถึงอดีต (when I was in school) จึงใช้ was"
+      },
+      {
+        "question": "Either you or I ___ wrong.",
+        "options": [
+          "A. is",
+          "B. am",
+          "C. are",
+          "D. were"
+        ],
+        "answer": "B",
+        "explanation": "ในโครงสร้าง Either...or... ให้ผันกริยาตามประธานตัวที่อยู่ใกล้ที่สุด ซึ่งคือ I จึงต้องใช้ am"
+      },
+      {
+        "question": "A lot of people ___ waiting outside.",
+        "options": [
+          "A. is",
+          "B. are",
+          "C. was",
+          "D. am"
+        ],
+        "answer": "B",
+        "explanation": "ประธานคือ a lot of people ซึ่งเป็นพหูพจน์เสมอ ต้องใช้กับ are"
+      },
+      {
+        "question": "___ there a good movie on TV last night?",
+        "options": [
+          "A. Is",
+          "B. Are",
+          "C. Was",
+          "D. Were"
+        ],
+        "answer": "C",
+        "explanation": "คำถามเกี่ยวกับอดีต (last night) ประธานคือ a good movie (เอกพจน์) จึงขึ้นต้นด้วย Was"
+      },
+      {
+        "question": "My glasses ___ on my desk five minutes ago, but now I can't find them.",
+        "options": [
+          "A. is",
+          "B. are",
+          "C. was",
+          "D. were"
+        ],
+        "answer": "D",
+        "explanation": "คำว่า glasses (แว่นตา) ถือเป็นพหูพจน์เสมอ และเหตุการณ์เกิดในอดีต (five minutes ago) จึงใช้ were"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1150 @@
+[
+  {
+    "id": "9_1",
+    "title": "9.1 Ability (การใช้ can, could, be able to เพื่อบอกความสามารถ)",
+    "explanation": "ในบทนี้ เราจะเรียนรู้การใช้ Modal Verbs พื้นฐานเพื่อพูดถึง 'ความสามารถ' (Ability) ซึ่งได้แก่ can, could และสำนวน be able to ทั้งสามคำนี้ใช้บอกว่าใครทำอะไร 'ได้' หรือ 'ไม่ได้' แต่มีวิธีการใช้ในสถานการณ์และกาล (Tense) ที่แตกต่างกัน\n\n1. **Can (สามารถ...ได้)**\n   - **ใช้กับความสามารถในปัจจุบัน (Present Ability):** บอกว่าในตอนนี้ ประธานสามารถทำสิ่งนั้นได้ เป็นความสามารถทั่วไป\n   - **โครงสร้าง:** Subject + can + Verb ช่อง 1 (ไม่ผัน, ไม่เติม to)\n   - **รูปปฏิเสธ:** can't หรือ cannot (เขียนติดกัน)\n   - **รูปคำถาม:** Can + Subject + Verb ช่อง 1...?\n\n2. **Could (เคยสามารถ...ได้)**\n   - **ใช้กับความสามารถในอดีต (Past Ability):** บอกว่าในอดีต ประธานเคยทำสิ่งนั้นได้ แต่ตอนนี้อาจจะทำไม่ได้แล้ว\n   - **โครงสร้าง:** Subject + could + Verb ช่อง 1 (ไม่ผัน, ไม่เติม to)\n   - **รูปปฏิเสธ:** couldn't หรือ could not\n   - **รูปคำถาม:** Could + Subject + Verb ช่อง 1...?\n\n3. **Be able to (สามารถ...ได้)**\n   - เป็นสำนวนที่มีความหมายเหมือน can/could แต่มีความยืดหยุ่นกว่า เพราะ 'be' สามารถเปลี่ยนรูปไปตามประธานและ Tense ต่างๆ ได้ ทำให้ใช้ได้กับทุก Tense\n   - **โครงสร้าง:** Subject + Verb to be (is, am, are, was, were, will be, have been) + able to + Verb ช่อง 1\n   - **ใช้ในปัจจุบัน (Present):** is/am/are able to (ความหมายเหมือน can แต่เป็นทางการกว่าเล็กน้อย)\n   - **ใช้ในอดีต (Past):** was/were able to (มักใช้เน้นความสามารถที่ทำได้สำเร็จในสถานการณ์เฉพาะเจาะจง มากกว่าความสามารถทั่วไปในอดีตซึ่งนิยมใช้ could)\n   - **ใช้ในอนาคต (Future):** will be able to (ใช้บอกความสามารถที่จะทำได้ในอนาคต **เราไม่สามารถใช้ 'will can' ได้**)\n   - **ใช้ใน Tenses อื่นๆ:** เช่น Present Perfect (has/have been able to)",
+    "examples": [
+      {
+        "eng": "She can speak Japanese fluently.",
+        "thai": "เธอสามารถพูดภาษาญี่ปุ่นได้อย่างคล่องแคล่ว (ความสามารถในปัจจุบัน)"
+      },
+      {
+        "eng": "I can't hear you. Can you speak louder?",
+        "thai": "ฉันไม่ได้ยินคุณเลย คุณช่วยพูดดังขึ้นหน่อยได้ไหม? (การไม่มีความสามารถในปัจจุบัน และการใช้ในประโยคคำถาม)"
+      },
+      {
+        "eng": "When I was ten, I could swim across this river.",
+        "thai": "ตอนฉันอายุสิบขวบ ฉันเคยว่ายข้ามแม่น้ำสายนี้ได้ (ความสามารถทั่วไปในอดีต)"
+      },
+      {
+        "eng": "He studied hard and was able to pass the difficult exam.",
+        "thai": "เขาเรียนอย่างหนักและสามารถสอบผ่านข้อสอบที่ยากนั้นได้ (เน้นว่าทำสำเร็จในสถานการณ์เฉพาะเจาะจงในอดีต)"
+      },
+      {
+        "eng": "The firefighters were able to save the cat from the tree.",
+        "thai": "นักดับเพลิงสามารถช่วยแมวลงมาจากต้นไม้ได้ (สำเร็จในสถานการณ์ที่ท้าทายในอดีต)"
+      },
+      {
+        "eng": "If you practice every day, you will be able to play the guitar soon.",
+        "thai": "ถ้าคุณฝึกฝนทุกวัน ในไม่ช้าคุณก็จะสามารถเล่นกีตาร์ได้ (ความสามารถในอนาคต)"
+      },
+      {
+        "eng": "I haven't been able to sleep well recently.",
+        "thai": "ช่วงนี้ฉันไม่สามารถนอนหลับได้สนิทเลย (ใช้ในรูป Present Perfect Tense)"
+      }
+    ],
+    "common_mistakes": "- **ใช้ to ตามหลัง can/could:** ผิด: He can to play football. --> ถูก: He can play football. (หลัง modal verbs ต้องตามด้วย V.1 ที่ไม่มี to)\n\n- **เติม s ที่ can/could:** ผิด: She cans sing. --> ถูก: She can sing. (Modal verbs ไม่ต้องเปลี่ยนรูปตามประธาน)\n\n- **ใช้ can กับ Tense อนาคต:** ผิด: I will can go tomorrow. --> ถูก: I will be able to go tomorrow. (เมื่อต้องการบอกความสามารถในอนาคต ต้องใช้ will be able to)\n\n- **สับสนระหว่าง could กับ was/were able to:** 'could' มักใช้กับความสามารถทั่วไปในอดีต (general ability) ในขณะที่ 'was/were able to' มักใช้กับการกระทำที่ทำสำเร็จในสถานการณ์ที่เฉพาะเจาะจง (specific achievement) เช่น 'He was a fast runner, he could beat anyone.' (เขาวิ่งเร็ว เขาสามารถเอาชนะใครก็ได้ - ความสามารถทั่วไป) vs 'Although he was injured, he was able to finish the race.' (แม้จะบาดเจ็บ แต่เขาก็สามารถแข่งจนจบได้ - ทำสำเร็จในสถานการณ์เฉพาะ)",
+    "practice_questions": [
+      {
+        "question": "My grandmother is 80 years old, but she ___ still read without glasses.",
+        "options": [
+          "A. could",
+          "B. can",
+          "C. is able",
+          "D. will be able to"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคบอกถึงความสามารถในปัจจุบัน (is 80 years old) ดังนั้นจึงใช้ 'can' เพื่อบอกความสามารถในปัจจุบัน"
+      },
+      {
+        "question": "Last night, I was so tired that I ___ finish my homework.",
+        "options": [
+          "A. can't",
+          "B. am not able to",
+          "C. couldn't",
+          "D. wasn't able"
+        ],
+        "answer": "C",
+        "explanation": "คำว่า 'Last night' และ 'was so tired' บ่งบอกถึงเหตุการณ์ในอดีต รูปปฏิเสธของความสามารถในอดีตคือ 'couldn't'"
+      },
+      {
+        "question": "After years of saving money, they finally ___ buy their dream house last year.",
+        "options": [
+          "A. could",
+          "B. can",
+          "C. were able to",
+          "D. will be able to"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้กล่าวถึงความสำเร็จในการทำสิ่งหนึ่งในอดีต (ซื้อบ้านได้สำเร็จ) ในสถานการณ์เฉพาะเจาะจง จึงใช้ 'were able to' ซึ่งเหมาะสมกว่า 'could'"
+      },
+      {
+        "question": "If we leave now, we ___ catch the last train.",
+        "options": [
+          "A. will be able to",
+          "B. will can",
+          "C. could",
+          "D. can"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคเงื่อนไขนี้ (If...) พูดถึงสิ่งที่จะสามารถทำได้ในอนาคต จึงต้องใช้ 'will be able to' เราไม่สามารถใช้ 'will can' ได้"
+      },
+      {
+        "question": "A: ___ you swim when you were five?\nB: No, I learned when I was seven.",
+        "options": [
+          "A. Can",
+          "B. Do",
+          "C. Are",
+          "D. Could"
+        ],
+        "answer": "D",
+        "explanation": "คำถามนี้ถามถึงความสามารถในอดีต ('when you were five') ดังนั้นจึงต้องขึ้นต้นด้วย 'Could'"
+      },
+      {
+        "question": "Which sentence is grammatically INCORRECT?",
+        "options": [
+          "A. I can't to see anything.",
+          "B. He is able to run fast.",
+          "C. She could speak French.",
+          "D. They will be able to join us."
+        ],
+        "answer": "A",
+        "explanation": "ข้อ A ผิดหลักไวยากรณ์ เพราะหลัง modal verb 'can' หรือ 'can't' ต้องตามด้วย Verb ช่อง 1 ที่ไม่มี to ประโยคที่ถูกต้องคือ 'I can't see anything.'"
+      },
+      {
+        "question": "I've tried calling him all day, but I haven't ___ reach him.",
+        "options": [
+          "A. can",
+          "B. could",
+          "C. able to",
+          "D. been able to"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคนี้อยู่ในรูป Present Perfect Tense (haven't...) ดังนั้นส่วนที่ตามมาต้องใช้โครงสร้างที่เข้ากันได้คือ 'been able to'"
+      },
+      {
+        "question": "A baby bird ___ fly immediately after it hatches.",
+        "options": [
+          "A. isn't able to",
+          "B. couldn't",
+          "C. won't be able to",
+          "D. can to"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้กล่าวถึงความจริงทั่วไปเกี่ยวกับความสามารถในปัจจุบันของลูกนก ใช้ 'isn't able to' หรือ 'can't' ก็ได้ แต่ในตัวเลือก 'isn't able to' ถูกต้องที่สุด"
+      },
+      {
+        "question": "The road was blocked by a fallen tree, but the driver found another way and ___ get to the airport on time.",
+        "options": [
+          "A. could",
+          "B. can",
+          "C. was able to",
+          "D. has been able to"
+        ],
+        "answer": "C",
+        "explanation": "นี่คือการบรรยายเหตุการณ์ในอดีตที่ทำได้สำเร็จภายใต้สถานการณ์ที่ยากลำบาก (ถนนถูกปิด) การใช้ 'was able to' เหมาะสมที่สุดเพื่อเน้นความสำเร็จนั้น"
+      },
+      {
+        "question": "He's an amazing musician. He ___ play the violin, the piano, and the cello.",
+        "options": [
+          "A. is able to",
+          "B. will be able to",
+          "C. was able to",
+          "D. could"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคแรก 'He's an amazing musician' บอกถึงสถานะปัจจุบัน ดังนั้นเราจึงบรรยายความสามารถในปัจจุบันของเขา ใช้ 'is able to' หรือ 'can' ก็ได้ ในที่นี้ 'is able to' คือตัวเลือกที่ถูกต้อง"
+      }
+    ]
+  },
+  {
+    "id": "9_2",
+    "title": "9.2 Permission & Requests (การใช้ can, could, may เพื่อขออนุญาต)",
+    "explanation": "การขออนุญาต (Permission) และการร้องขอ (Requests) เป็นส่วนสำคัญในการสื่อสารในชีวิตประจำวัน ภาษาอังกฤษใช้ Modal Verbs อย่าง can, could และ may เพื่อสร้างประโยคเหล่านี้ โดยแต่ละคำจะมีความแตกต่างกันในเรื่อง 'ระดับความเป็นทางการ' (Formality)\n\n1.  **Can**: เป็นคำที่ใช้บ่อยที่สุดและมีความเป็นกันเอง (Informal) ที่สุด มักใช้กับเพื่อน, คนในครอบครัว, หรือในสถานการณ์ที่ไม่เป็นทางการ\n    -   ใช้ขออนุญาตทำสิ่งต่างๆ: \"Can I...?\" (ฉัน...ได้ไหม?)\n    -   ใช้ร้องขอให้คนอื่นทำอะไรให้: \"Can you...?\" (คุณช่วย...ได้ไหม?)\n\n2.  **Could**: มีความสุภาพและเป็นทางการ (More Polite/Formal) มากกว่า can มักใช้เมื่อเราต้องการแสดงความสุภาพเป็นพิเศษ เช่น พูดกับคนที่ไม่รู้จัก, ผู้ใหญ่, หรือหัวหน้างาน\n    -   ใช้ขออนุญาต (สุภาพกว่า Can): \"Could I...?\" (ฉัน...ได้ไหมครับ/คะ?)\n    -   ใช้ร้องขอ (สุภาพกว่า Can): \"Could you...?\" (คุณช่วยกรุณา...ได้ไหมครับ/คะ?)\n    -   **ข้อควรจำ**: ในบริบทนี้ could ไม่ได้หมายถึงอดีต แต่เป็นการแสดงความสุภาพ\n\n3.  **May**: เป็นคำที่มีความเป็นทางการ (Formal) และสุภาพมากที่สุด มักใช้ในสถานการณ์ที่เป็นทางการมากๆ หรือเมื่อต้องการแสดงความเคารพอย่างสูง เช่น นักเรียนคุยกับครู, ในที่ประชุม, หรือในงานเขียนที่เป็นทางการ\n    -   ใช้ขออนุญาตเท่านั้น: \"May I...?\" (ดิฉัน/กระผมขออนุญาต...ได้ไหมครับ/คะ?)\n    -   **ข้อสำคัญ**: เราไม่ใช้ \"May you...?\" เพื่อร้องขอให้คนอื่นทำอะไรให้\n\n**สรุปตามระดับความสุภาพ:**\n-   กันเองที่สุด: **Can**\n-   สุภาพปานกลาง: **Could**\n-   สุภาพและเป็นทางการที่สุด: **May**",
+    "examples": [
+      {
+        "eng": "Can I borrow your pen?",
+        "thai": "ฉันขอยืมปากกาเธอหน่อยได้ไหม? (ใช้กับเพื่อน, เป็นกันเอง)"
+      },
+      {
+        "eng": "Could I use your phone for a moment, please?",
+        "thai": "ผมขออนุญาตใช้โทรศัพท์ของคุณสักครู่ได้ไหมครับ? (ใช้กับคนที่ไม่สนิท, สุภาพกว่า)"
+      },
+      {
+        "eng": "May I ask a question, Professor?",
+        "thai": "หนูขออนุญาตถามคำถามได้ไหมคะ, อาจารย์? (ใช้กับผู้ใหญ่, เป็นทางการและแสดงความเคารพ)"
+      },
+      {
+        "eng": "Could you please open the window?",
+        "thai": "คุณช่วยกรุณาเปิดหน้าต่างให้หน่อยได้ไหมครับ/คะ? (การร้องขอที่สุภาพ)"
+      },
+      {
+        "eng": "Can you pass me the salt?",
+        "thai": "เธอช่วยหยิบเกลือให้หน่อยได้ไหม? (การร้องขอแบบไม่เป็นทางการ)"
+      }
+    ],
+    "common_mistakes": "1.  **ใช้ 'Can' ในสถานการณ์ที่เป็นทางการเกินไป**: เช่น พูดกับกรรมการสัมภาษณ์ว่า \"Can I sit down?\" ถึงแม้จะเข้าใจได้ แต่การใช้ \"Could I sit down?\" หรือ \"May I sit down?\" จะสุภาพและเหมาะสมกว่ามาก\n\n2.  **สับสนว่า 'Could' คืออดีตเสมอไป**: ในประโยคขอร้องหรือขออนุญาต 'Could' ไม่ได้หมายถึงอดีต แต่ใช้เพื่อเพิ่มความสุภาพเท่านั้น \"Could you help me?\" เป็นประโยคปัจจุบันที่สุภาพ ไม่ใช่อดีต\n\n3.  **ใช้ 'May you...?' เพื่อร้องขอ**: คนไทยมักแปลตรงตัวจาก 'ขอให้คุณ...' เลยใช้ 'May you...' ซึ่งผิดไวยากรณ์ การร้องขอให้คนอื่นทำอะไรให้ ต้องใช้ 'Can you...?' หรือ 'Could you...?' เท่านั้น / 'May' ใช้สำหรับการขออนุญาตของตัวเอง (\"May I...\") หรือการอวยพร (\"May the force be with you.\") เท่านั้น\n\n4.  **ตอบคำถาม 'May I...?' แบบแปลกๆ**: เมื่อมีคนถามว่า \"May I come in?\" การตอบว่า \"Yes, you may.\" นั้นถูกต้องตามไวยากรณ์แต่ฟังดูแข็งทื่อและเป็นทางการมาก คนส่วนใหญ่มักจะตอบแบบเป็นธรรมชาติกว่า เช่น \"Sure.\", \"Of course.\", \"Please come in.\", หรือแม้แต่ \"Yes, you can.\"",
+    "practice_questions": [
+      {
+        "question": "You want to ask your teacher a question during class. Which is the MOST appropriate way to ask?",
+        "options": [
+          "A. Can I ask something?",
+          "B. Should I ask something?",
+          "C. May I ask a question, please?",
+          "D. Must I ask a question?"
+        ],
+        "answer": "C",
+        "explanation": "ในสถานการณ์ที่เป็นทางการและต้องแสดงความเคารพอย่างการคุยกับครูในห้องเรียน การใช้ 'May I...?' ถือว่าสุภาพและเหมาะสมที่สุด ส่วน 'Can I...?' จะเป็นกันเองเกินไป"
+      },
+      {
+        "question": "You are talking to a close friend. You want to use their computer. What would you most likely say?",
+        "options": [
+          "A. May I use your computer?",
+          "B. Can I use your computer?",
+          "C. Must I use your computer?",
+          "D. Could I be using your computer?"
+        ],
+        "answer": "B",
+        "explanation": "เมื่อพูดคุยกับเพื่อนสนิท เราจะใช้ภาษาที่เป็นกันเอง (informal) ซึ่ง 'Can' เหมาะสมที่สุดในบริบทนี้"
+      },
+      {
+        "question": "You need to ask a stranger to take a photo of you. Which sentence is the most polite request?",
+        "options": [
+          "A. Can you take a photo of me?",
+          "B. Take a photo of me.",
+          "C. You must take a photo of me.",
+          "D. Could you please take a photo of us?"
+        ],
+        "answer": "D",
+        "explanation": "การขอร้องคนแปลกหน้าควรใช้ประโยคที่สุภาพที่สุด 'Could you please...?' เป็นการแสดงความสุภาพและเกรงใจได้ดีกว่า 'Can you...?'"
+      },
+      {
+        "question": "A customer in a restaurant wants to see the menu. What should they say to the waiter?",
+        "options": [
+          "A. Can we see the menu?",
+          "B. Could we have the menu, please?",
+          "C. May you give us the menu?",
+          "D. We must see the menu."
+        ],
+        "answer": "B",
+        "explanation": "ในร้านอาหารซึ่งเป็นสถานการณ์บริการที่ต้องการความสุภาพ การใช้ 'Could we...?' จะสุภาพกว่า 'Can we...?' ส่วนข้อ C 'May you...?' เป็นการใช้ที่ผิดไวยากรณ์"
+      },
+      {
+        "question": "Which of the following sentences is grammatically INCORRECT for making a request?",
+        "options": [
+          "A. May you help me with this bag?",
+          "B. Could you help me with this bag?",
+          "C. Can you help me with this bag?",
+          "D. Would you mind helping me with this bag?"
+        ],
+        "answer": "A",
+        "explanation": "เราไม่ใช้ 'May you...?' เพื่อร้องขอให้คนอื่นทำอะไรให้ 'May' ใช้สำหรับขออนุญาตให้ตัวเองทำ ('May I...?') เท่านั้น"
+      },
+      {
+        "question": "Your boss is on the phone and you need to interrupt. You should say: 'Excuse me, sir. ___ I speak with you for a moment?'",
+        "options": [
+          "A. Can",
+          "B. Must",
+          "C. May",
+          "D. Should"
+        ],
+        "answer": "C",
+        "explanation": "การขัดจังหวะหัวหน้าต้องใช้ความสุภาพและเป็นทางการอย่างสูง 'May' จึงเป็นตัวเลือกที่เหมาะสมที่สุดในสถานการณ์นี้"
+      },
+      {
+        "question": "You are at a friend's house and feel cold. You want to ask them to close the window. What is a casual and friendly way to ask?",
+        "options": [
+          "A. Could you be closing the window?",
+          "B. May you close the window?",
+          "C. Can you close the window?",
+          "D. You must close the window."
+        ],
+        "answer": "C",
+        "explanation": "เมื่ออยู่กับเพื่อน สามารถใช้ประโยคขอร้องแบบเป็นกันเองได้ 'Can you...?' จึงเป็นตัวเลือกที่เหมาะสมและเป็นธรรมชาติที่สุด"
+      },
+      {
+        "question": "In a formal business email, you want to ask for a document. Which phrase is best?",
+        "options": [
+          "A. Can you send me the file?",
+          "B. Send me the file now.",
+          "C. Could you please send me the document at your earliest convenience?",
+          "D. May you send me the document?"
+        ],
+        "answer": "C",
+        "explanation": "ในอีเมลธุรกิจซึ่งต้องการความเป็นทางการและความสุภาพ 'Could you please...?' เป็นสำนวนที่เหมาะสมและเป็นมืออาชีพที่สุด"
+      },
+      {
+        "question": "A child is asking a parent for permission to watch TV. What is the most common and natural way for the child to ask?",
+        "options": [
+          "A. May I watch TV?",
+          "B. Could I watch TV?",
+          "C. Can I watch TV, Mom?",
+          "D. Must I watch TV?"
+        ],
+        "answer": "C",
+        "explanation": "ในบทสนทนาระหว่างคนในครอบครัว มักใช้ภาษาที่ไม่เป็นทางการ 'Can' จึงเป็นคำที่เด็กใช้กับผู้ปกครองอย่างเป็นธรรมชาติที่สุด"
+      },
+      {
+        "question": "Someone asks you, 'May I borrow your dictionary?'. Which is a natural and positive response?",
+        "options": [
+          "A. Yes, you may.",
+          "B. Of course, here you go.",
+          "C. You must not.",
+          "D. You could not."
+        ],
+        "answer": "B",
+        "explanation": "ถึงแม้ 'Yes, you may.' จะถูกไวยากรณ์ แต่ในชีวิตจริงจะฟังดูแข็งทื่อ การตอบว่า 'Of course' หรือ 'Sure' จะเป็นธรรมชาติมากกว่า"
+      }
+    ]
+  },
+  {
+    "id": "9_3",
+    "title": "9.3 Obligation & Necessity (การใช้ must, have to เพื่อบอกความจำเป็น)",
+    "explanation": "ในภาษาอังกฤษ เมื่อเราต้องการจะบอกว่า 'ต้อง' หรือ 'จำเป็นต้อง' ทำอะไรบางอย่าง เรามักจะใช้ 'must' และ 'have to' ซึ่งมีความหมายใกล้เคียงกัน แต่มีวิธีใช้และนัยยะที่แตกต่างกันเล็กน้อย\n\n**1. Must: ความจำเป็นจากภายใน / กฎที่เข้มงวด**\n*   **ความรู้สึกส่วนตัว (Personal Obligation):** ใช้เมื่อผู้พูดรู้สึกว่าสิ่งนั้นเป็นเรื่องจำเป็นที่ต้องทำด้วยตัวเอง เช่น ความตั้งใจ ความรู้สึกผิดชอบชั่วดี\n    *   ตัวอย่าง: I **must** call my mother. (ฉันต้องโทรหาแม่ - เป็นความรู้สึกของฉันเองว่าควรทำ)\n*   **คำแนะนำที่หนักแน่น (Strong Recommendation):** ใช้แนะนำอย่างจริงจังว่าอีกฝ่ายควรทำอะไรบางอย่าง\n    *   ตัวอย่าง: You **must** see this movie! It's fantastic. (เธอต้องดูหนังเรื่องนี้นะ มันสุดยอดมาก!)\n*   **กฎระเบียบที่เป็นลายลักษณ์อักษร (Written Rules / Formal Orders):** มักใช้ในป้ายประกาศ กฎระเบียบ หรือคำสั่งที่เป็นทางการ\n    *   ตัวอย่าง: All visitors **must** report to reception. (ผู้มาติดต่อทุกท่านต้องรายงานตัวที่แผนกต้อนรับ)\n\n**2. Have to: ความจำเป็นจากภายนอก**\n*   **กฎหรือสถานการณ์บังคับ (External Obligation):** ใช้เมื่อความจำเป็นนั้นมาจากปัจจัยภายนอก เช่น กฎหมาย กฎของบริษัท คำสั่งของคนอื่น หรือสถานการณ์ที่บีบบังคับ\n    *   ตัวอย่าง: I **have to** wear a uniform at work. (ฉันต้องใส่เครื่องแบบที่ทำงาน - เป็นกฎของบริษัท)\n    *   ตัวอย่าง: He **has to** pay taxes. (เขาต้องจ่ายภาษี - เป็นกฎหมาย)\n\n**ความแตกต่างที่สำคัญที่สุด: รูปปฏิเสธ**\n*   **Must not (mustn't): แปลว่า 'ห้าม' (Prohibition)**\n    *   หมายถึงการกระทำนั้นเป็นสิ่งต้องห้าม ผิดกฎ หรืออันตราย ห้ามทำเด็ดขาด\n    *   ตัวอย่าง: You **mustn't** smoke in the hospital. (คุณห้ามสูบบุหรี่ในโรงพยาบาล)\n*   **Do not have to (don't have to) / Does not have to (doesn't have to): แปลว่า 'ไม่จำเป็นต้อง' (No Obligation)**\n    *   หมายถึงไม่มีความจำเป็นต้องทำสิ่งนั้น แต่ถ้าอยากจะทำก็ทำได้ ไม่ได้เป็นข้อห้าม\n    *   ตัวอย่าง: You **don't have to** pay for this. It's free. (คุณไม่จำเป็นต้องจ่ายเงินนะ มันฟรี)\n\n**การใช้ใน Tense อื่นๆ**\n*   'Must' ไม่มีรูปอดีต ถ้าจะบอกว่า 'ต้องทำ' ในอดีต ให้ใช้ **had to**\n    *   ตัวอย่าง: I **had to** work late yesterday. (เมื่อวานฉันต้องทำงานดึก)\n*   'Have to' สามารถเปลี่ยนรูปไปตาม Tense และประธานได้ทั้งหมด เช่น have to, has to, had to, will have to",
+    "examples": [
+      {
+        "eng": "I must remember to buy a birthday gift for my sister.",
+        "thai": "ฉันต้องไม่ลืมซื้อของขวัญวันเกิดให้น้องสาว (ความจำเป็นจากความรู้สึกของผู้พูดเอง)"
+      },
+      {
+        "eng": "In Thailand, you have to drive on the left.",
+        "thai": "ในประเทศไทย คุณต้องขับรถชิดซ้าย (ความจำเป็นจากกฎหมาย ซึ่งเป็นปัจจัยภายนอก)"
+      },
+      {
+        "eng": "Students must not use their phones during the exam.",
+        "thai": "นักเรียนห้ามใช้โทรศัพท์ระหว่างสอบ (เป็นข้อห้ามเด็ดขาด)"
+      },
+      {
+        "eng": "You don't have to wear a tie, but you can if you want to.",
+        "thai": "คุณไม่จำเป็นต้องผูกเนคไท แต่ถ้าอยากจะผูกก็ได้ (ไม่มีข้อบังคับ)"
+      },
+      {
+        "eng": "Sorry I couldn't come yesterday. I had to take my dog to the vet.",
+        "thai": "ขอโทษที่เมื่อวานมาไม่ได้ ฉันต้องพาสุนัขไปหาสัตวแพทย์ (ใช้ had to สำหรับเหตุการณ์ในอดีต)"
+      },
+      {
+        "eng": "She has to get up early for work every day.",
+        "thai": "เธอต้องตื่นเช้าเพื่อไปทำงานทุกวัน (ใช้ has to เพราะประธานคือ She)"
+      }
+    ],
+    "common_mistakes": "**1. สับสนระหว่าง Mustn't และ Don't have to:**\nนี่คือข้อผิดพลาดที่พบบ่อยที่สุด คนไทยมักจะแปลว่า 'ไม่ต้อง' ทั้งคู่ แต่ความหมายต่างกันอย่างสิ้นเชิง\n*   ผิด: You **mustn't** come if you are busy. (ความหมายคือ 'ห้าม' มาถ้าคุณยุ่ง ซึ่งผิด)\n*   ถูก: You **don't have to** come if you are busy. (คุณ 'ไม่จำเป็นต้อง' มาถ้าคุณยุ่ง)\n*   สรุป: **Mustn't = ห้ามทำ** vs **Don't have to = ไม่จำเป็นต้องทำ**\n\n**2. ใช้ Must ในรูปอดีต:**\n'Must' ไม่มีรูปอดีต (ไม่มีคำว่า musted) หากต้องการพูดถึงความจำเป็นในอดีต ต้องใช้ 'had to' เท่านั้น\n*   ผิด: Yesterday, I **must** finish all my homework.\n*   ถูก: Yesterday, I **had to** finish all my homework.\n\n**3. ลืมเติม 's' ใน has to:**\nเมื่อประธานเป็นเอกพจน์บุรุษที่ 3 (He, She, It, ชื่อคน) ใน Present Simple Tense ต้องใช้ 'has to' ไม่ใช่ 'have to'\n*   ผิด: My brother **have to** study hard for his exam.\n*   ถูก: My brother **has to** study hard for his exam.",
+    "practice_questions": [
+      {
+        "question": "If you want to enter the building, you ______ show your ID card to the security guard. It's the rule.",
+        "options": [
+          "A. must not",
+          "B. don't have to",
+          "C. have to",
+          "D. musted"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคบอกว่า 'It's the rule' (มันเป็นกฎ) ซึ่งเป็นความจำเป็นที่มาจากปัจGจัยภายนอก ดังนั้นจึงใช้ 'have to'"
+      },
+      {
+        "question": "This is a secret. You ______ tell anyone!",
+        "options": [
+          "A. must",
+          "B. don't have to",
+          "C. have to",
+          "D. mustn't"
+        ],
+        "answer": "D",
+        "explanation": "ประโยคต้องการสื่อว่า 'ห้าม' บอกใครเด็ดขาด เพราะเป็นความลับ จึงใช้ 'mustn't' ซึ่งแปลว่าการห้าม (prohibition)"
+      },
+      {
+        "question": "I'm so tired today. I ______ go to bed early tonight.",
+        "options": [
+          "A. must",
+          "B. have to",
+          "C. don't have to",
+          "D. mustn't"
+        ],
+        "answer": "A",
+        "explanation": "เป็นการแสดงความรู้สึกส่วนตัวของผู้พูดว่า 'ต้อง' ไปนอนเร็ว เพราะรู้สึกเหนื่อยมาก ไม่ได้มีกฎมาบังคับ จึงใช้ 'must' เหมาะสมที่สุด"
+      },
+      {
+        "question": "The museum is free on Sundays, so you ______ pay to get in.",
+        "options": [
+          "A. must",
+          "B. don't have to",
+          "C. have to",
+          "D. mustn't"
+        ],
+        "answer": "B",
+        "explanation": "เนื่องจากพิพิธภัณฑ์เข้าฟรี จึง 'ไม่จำเป็นต้อง' จ่ายเงิน ใช้ 'don't have to' เพื่อบอกว่าไม่มีความจำเป็น (no obligation)"
+      },
+      {
+        "question": "My father is a pilot, so he often ______ travel to different countries.",
+        "options": [
+          "A. has to",
+          "B. have to",
+          "C. must",
+          "D. must not"
+        ],
+        "answer": "A",
+        "explanation": "ประธานคือ 'he' (My father) ซึ่งเป็นเอกพจน์บุรุษที่ 3 และเป็นความจำเป็นจากอาชีพ (ปัจจัยภายนอก) จึงต้องใช้ 'has to'"
+      },
+      {
+        "question": "I missed the last bus yesterday, so I ______ walk home.",
+        "options": [
+          "A. must",
+          "B. had to",
+          "C. have to",
+          "D. has to"
+        ],
+        "answer": "B",
+        "explanation": "คำว่า 'yesterday' บอกว่าเป็นเหตุการณ์ในอดีต รูปอดีตของ must/have to คือ 'had to'"
+      },
+      {
+        "question": "You ______ try this cake! I made it myself. It's delicious.",
+        "options": [
+          "A. have to",
+          "B. don't have to",
+          "C. must",
+          "D. mustn't"
+        ],
+        "answer": "C",
+        "explanation": "เป็นการให้คำแนะนำที่หนักแน่น (strong recommendation) จากผู้พูดเอง ไม่ใช่กฎข้อบังคับ ดังนั้นการใช้ 'must' จึงเหมาะสมที่สุด"
+      },
+      {
+        "question": "According to the law, all drivers and passengers ______ wear a seatbelt.",
+        "options": [
+          "A. must",
+          "B. mustn't",
+          "C. don't have to",
+          "D. has to"
+        ],
+        "answer": "A",
+        "explanation": "การอ้างถึงกฎหมาย (law) หรือกฎระเบียบที่เป็นทางการ มักจะใช้ 'must' เพื่อเน้นความสำคัญและเป็นข้อบังคับที่เข้มงวด"
+      },
+      {
+        "question": "The meeting is optional. We ______ attend if we don't want to.",
+        "options": [
+          "A. must not",
+          "B. must",
+          "C. have to",
+          "D. don't have to"
+        ],
+        "answer": "D",
+        "explanation": "คำว่า 'optional' หมายถึง 'แล้วแต่จะเลือก' ดังนั้นการประชุมนี้จึง 'ไม่จำเป็นต้อง' เข้าร่วม ใช้ 'don't have to'"
+      },
+      {
+        "question": "Look at the sign! It says, 'Employees ______ wash hands before returning to work.'",
+        "options": [
+          "A. don't have to",
+          "B. mustn't",
+          "C. must",
+          "D. had to"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้เป็นการอ้างถึงข้อความบนป้ายประกาศ (sign) ซึ่งเป็นกฎระเบียบที่เป็นลายลักษณ์อักษร จึงต้องใช้ 'must'"
+      }
+    ]
+  },
+  {
+    "id": "9_4",
+    "title": "9.4 Advice (การใช้ should, ought to เพื่อแนะนำ)",
+    "explanation": "เมื่อเราต้องการให้คำแนะนำ (Advice) หรือแสดงความคิดเห็นว่าสิ่งไหนเป็นสิ่งที่ 'ดี' หรือ 'ถูกต้อง' ที่ควรจะทำ เราจะใช้ Modal Verbs 'should' และ 'ought to' ครับ\n\n1. **Should**: เป็นคำที่ใช้บ่อยที่สุดและเป็นธรรมชาติที่สุดในการให้คำแนะนำทั่วไป\n   - **โครงสร้าง**: Subject + should + Verb (ช่อง 1 ไม่ผันรูป) \n   - **ปฏิเสธ**: Subject + should not (shouldn't) + Verb (ช่อง 1 ไม่ผันรูป)\n   - **คำถาม**: Should + Subject + Verb (ช่อง 1 ไม่ผันรูป)?\n\n2. **Ought to**: มีความหมายคล้ายกับ should มาก แต่จะมีความเป็นทางการมากกว่าเล็กน้อย และบางครั้งอาจแฝงความรู้สึกว่าเป็น 'หน้าที่' หรือ 'สิ่งที่ถูกต้องตามทำนองคลองธรรม' ที่ควรทำมากกว่า\n   - **โครงสร้าง**: Subject + ought to + Verb (ช่อง 1 ไม่ผันรูป)\n   - **ปฏิเสธ**: Subject + ought not to + Verb (ช่อง 1 ไม่ผันรูป) (รูปปฏิเสธนี้ไม่ค่อยนิยมใช้ในปัจจุบัน คนมักจะเลี่ยงไปใช้ shouldn't แทน)\n\n**ข้อควรรู้**: ในการสนทนาทั่วไป 'should' เป็นตัวเลือกที่ปลอดภัยและใช้ได้แทบทุกสถานการณ์ครับ ส่วน 'ought to' จะเจอน้อยกว่า แต่ก็ควรรู้จักไว้",
+    "examples": [
+      {
+        "eng": "You look tired. You should get some rest.",
+        "thai": "คุณดูเหนื่อยนะ คุณควรจะพักผ่อนบ้างนะ (คำแนะนำทั่วไป)"
+      },
+      {
+        "eng": "It's a fantastic book. You should read it.",
+        "thai": "มันเป็นหนังสือที่ยอดเยี่ยมมาก คุณควรอ่านนะ (การแนะนำสิ่งดีๆ)"
+      },
+      {
+        "eng": "He shouldn't eat so much sugar. It's bad for his health.",
+        "thai": "เขาไม่ควรกินน้ำตาลเยอะขนาดนั้น มันไม่ดีต่อสุขภาพของเขา (คำแนะนำเชิงปฏิเสธ)"
+      },
+      {
+        "eng": "We ought to respect our elders.",
+        "thai": "เราควรจะเคารพผู้สูงอายุ (คำแนะนำที่แฝงความรู้สึกว่าเป็นสิ่งที่ถูกต้อง/เป็นหน้าที่)"
+      },
+      {
+        "eng": "Should I tell her the truth?",
+        "thai": "ฉันควรบอกความจริงกับเธอไหม? (การใช้ในประโยคคำถามเพื่อขอคำแนะนำ)"
+      }
+    ],
+    "common_mistakes": "1. **ใส่ 'to' ตามหลัง 'should'**: ผิด: `You should to study.` ถูก: `You should study.` คนไทยมักสับสนกับโครงสร้าง `have to` หรือ `want to` จำไว้ว่าหลัง `should` ต้องตามด้วย Verb ช่อง 1 ทันที ไม่มี `to` คั่น\n\n2. **ผัน Verb ที่ตามหลัง should/ought to**: ผิด: `He should goes.` หรือ `She should studied.` ถูก: `He should go.` `She should study.` กริยาช่วย (Modal Verb) ต้องตามด้วยกริยาแท้รูปพื้นฐาน (Base Form) เสมอ ไม่ว่าประธานจะเป็นใครหรือเหตุการณ์เกิดเมื่อไหร่\n\n3. **ลืม 'to' หลัง 'ought'**: ผิด: `You ought see a doctor.` ถูก: `You ought to see a doctor.` คำว่า 'ought' ต้องมาพร้อมกับ 'to' เสมอครับ ให้จำไปเป็นคู่เลยว่า 'ought to'\n\n4. **สับสนระหว่าง should กับ must**: `must` แปลว่า 'ต้อง' ใช้กับคำสั่งหรือความจำเป็นที่หลีกเลี่ยงไม่ได้ แต่ `should` คือ 'ควรจะ' เป็นแค่คำแนะนำ ไม่ใช่การบังคับ เช่น `You should finish your homework.` (แนะนำ) เทียบกับ `You must finish your homework.` (สั่ง/บังคับ)",
+    "practice_questions": [
+      {
+        "question": "It's getting late. I think we ______ go home now.",
+        "options": [
+          "A. should to",
+          "B. ought",
+          "C. should",
+          "D. must to"
+        ],
+        "answer": "C",
+        "explanation": "ใช้ 'should' เพื่อให้คำแนะนำทั่วไป และตามด้วย Verb ช่อง 1 (go) โดยไม่มี 'to' คั่น ส่วน 'ought' ในข้อ B ขาด 'to' ครับ"
+      },
+      {
+        "question": "That's a very formal event. You ______ wear a suit and tie.",
+        "options": [
+          "A. ought to",
+          "B. can",
+          "C. ought",
+          "D. should for"
+        ],
+        "answer": "A",
+        "explanation": "ใช้ 'ought to' เพื่อให้คำแนะนำที่ค่อนข้างจริงจังและเป็นทางการ โครงสร้างที่ถูกต้องคือ 'ought to + Verb ช่อง 1' ส่วนข้อ C 'ought' ขาด 'to' ครับ"
+      },
+      {
+        "question": "You want to pass the exam, so you ______ waste your time playing games.",
+        "options": [
+          "A. should",
+          "B. shouldn't",
+          "C. ought to",
+          "D. can't to"
+        ],
+        "answer": "B",
+        "explanation": "เนื้อหาของประโยคเป็นการแนะนำว่า 'ไม่ควร' ทำอะไรบางอย่าง จึงต้องใช้รูปปฏิเสธ 'shouldn't'"
+      },
+      {
+        "question": "If your phone is broken, you ______ it to a repair shop.",
+        "options": [
+          "A. should takes",
+          "B. should taking",
+          "C. ought take",
+          "D. should take"
+        ],
+        "answer": "D",
+        "explanation": "หลัง Modal Verb (should) ต้องตามด้วยกริยารูปพื้นฐาน (Base Form) เสมอ ซึ่งก็คือ 'take' ไม่มีการเติม s, ing, หรือ ed"
+      },
+      {
+        "question": "I have a job interview tomorrow. What ______ I wear?",
+        "options": [
+          "A. should",
+          "B. ought",
+          "C. must",
+          "D. can"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้เป็นการขอคำแนะนำ จึงใช้ 'Should' ขึ้นต้นประโยคคำถาม (Wh-Question + should + subject + verb?)"
+      },
+      {
+        "question": "People who live in glass houses ______ throw stones.",
+        "options": [
+          "A. should to not",
+          "B. ought not",
+          "C. shouldn't",
+          "D. must be not"
+        ],
+        "answer": "C",
+        "explanation": "นี่เป็นสำนวนที่ให้คำแนะนำว่า 'ไม่ควร' ทำสิ่งใดสิ่งหนึ่ง 'shouldn't' เป็นรูปปฏิเสธที่ถูกต้องและเป็นธรรมชาติที่สุด"
+      },
+      {
+        "question": "As a citizen, you ______ obey the law.",
+        "options": [
+          "A. ought to",
+          "B. should to",
+          "C. can",
+          "D. ought"
+        ],
+        "answer": "A",
+        "explanation": "'ought to' เหมาะสมในบริบทนี้เพราะการปฏิบัติตามกฎหมายถือเป็นหน้าที่ของพลเมืองที่ดี"
+      },
+      {
+        "question": "He has a bad cough. He ______ see a doctor as soon as possible.",
+        "options": [
+          "A. ought see",
+          "B. should seeing",
+          "C. ought to see",
+          "D. should to see"
+        ],
+        "answer": "C",
+        "explanation": "โครงสร้างที่ถูกต้องคือ 'ought to + Verb (base form)' ข้อ A ขาด 'to' และข้อ B, D ใช้รูปกริยาที่ผิด"
+      },
+      {
+        "question": "A: 'I'm always tired.' B: 'Maybe you ______ drink so much coffee.'",
+        "options": [
+          "A. should",
+          "B. ought",
+          "C. shouldn't",
+          "D. must"
+        ],
+        "answer": "C",
+        "explanation": "จากบริบทที่ A บอกว่าเหนื่อยตลอดเวลา B จึงให้คำแนะนำว่า 'ไม่ควร' ดื่มกาแฟมากเกินไป"
+      },
+      {
+        "question": "The children ______ spend so much time in front of the screen. They ______ play outside more.",
+        "options": [
+          "A. should / ought",
+          "B. shouldn't / should",
+          "C. ought to not / should to",
+          "D. must / shouldn't"
+        ],
+        "answer": "B",
+        "explanation": "ส่วนแรกของประโยคเป็นคำแนะนำเชิงลบ (ไม่ควรใช้เวลาหน้าจอมาก) และส่วนที่สองเป็นคำแนะนำเชิงบวก (ควรออกไปเล่นข้างนอก) ดังนั้น 'shouldn't / should' จึงเป็นคู่ที่เหมาะสมที่สุด"
+      }
+    ]
+  },
+  {
+    "id": "9_5",
+    "title": "9.5 Summary: Basic Modals (สรุปกริยาช่วยพื้นฐาน + 50 Exercises)",
+    "explanation": "ในบทนี้ เราจะสรุปเนื้อหาทั้งหมดเกี่ยวกับกริยาช่วยพื้นฐาน (Basic Modals) 4 ตัวหลัก ได้แก่ Can, Could, Should, และ Must ซึ่งเป็นหัวใจสำคัญในการสื่อสารภาษาอังกฤษให้เป็นธรรมชาติและถูกต้องตามสถานการณ์\n\n**หลักการสำคัญที่ต้องจำ:**\nกริยาช่วย (Modal Verbs) ทั้งหมดนี้ต้องตามด้วยกริยาช่องที่ 1 ที่ไม่ผัน (Base Form of Verb) เสมอ เช่น He can `swim`, She should `go`. (ห้ามเติม s, ed, ing หรือ to หลัง modal verb)\n\n**สรุปการใช้งาน:**\n1.  **Can (สามารถ, ได้)**\n    *   **Ability (ความสามารถในปัจจุบัน):** บอกว่าใครทำอะไรได้ในตอนนี้ เช่น `I can speak Thai.`\n    *   **Permission (การขอ/ให้อนุญาต - ไม่เป็นทางการ):** ใช้กับเพื่อนหรือคนสนิท เช่น `Can I borrow your book?`\n    *   **Possibility (ความเป็นไปได้):** บอกสิ่งที่เป็นไปได้ เช่น `It can be cold in the morning.`\n\n2.  **Could (สามารถ...ได้, อาจจะ)**\n    *   **Past Ability (ความสามารถในอดีต):** บอกว่าเคยทำอะไรได้ในอดีต แต่ตอนนี้อาจจะทำไม่ได้แล้ว เช่น `I could run fast when I was young.`\n    *   **Polite Request (การขอร้องอย่างสุภาพ):** สุภาพกว่า Can มาก เช่น `Could you please open the window?`\n    *   **Suggestion (การเสนอแนะ):** ใช้แนะนำทางเลือก เช่น `We could go to the movies tonight.`\n    *   **Possibility (ความเป็นไปได้ - ไม่แน่นอน):** บอกความเป็นไปได้ที่น้อยกว่า Can เช่น `He could be at home, but I'm not sure.`\n\n3.  **Should (ควรจะ)**\n    *   **Advice (การให้คำแนะนำ):** ใช้แนะนำว่าอะไรเป็นสิ่งที่ดีที่ควรทำ เช่น `You look sick. You should see a doctor.`\n    *   **Obligation (หน้าที่ที่ควรทำ - ไม่บังคับ):** บอกสิ่งที่ควรทำตามความเหมาะสม แต่ไม่ใช่กฎเหล็ก เช่น `You should finish your homework before playing games.`\n    *   **Expectation (การคาดการณ์):** คาดว่าบางสิ่งน่าจะเกิดขึ้น เช่น `She studied hard, so she should pass the exam.`\n\n4.  **Must (ต้อง)**\n    *   **Strong Obligation/Rule (ข้อบังคับ/กฎที่ต้องทำ):** ใช้กับกฎหมาย กฎระเบียบ หรือคำสั่งที่จำเป็นต้องทำตาม เช่น `You must wear a helmet when riding a motorcycle.`\n    *   **Necessity (ความจำเป็น):** บอกสิ่งจำเป็นที่ต้องทำ เช่น `I must go now or I will be late.`\n    *   **Strong Belief/Deduction (การคาดเดาอย่างมั่นใจ):** ใช้เมื่อมั่นใจมากๆ ว่าบางสิ่งเป็นจริง จากหลักฐานที่มี เช่น `He hasn't eaten all day. He must be hungry.`\n\n**รูปปฏิเสธ:**\n*   can -> can't (cannot)\n*   could -> couldn't\n*   should -> shouldn't\n*   must -> mustn't (ห้ามทำเด็ดขาด)",
+    "examples": [
+      {
+        "eng": "She can play the guitar very well.",
+        "thai": "ความสามารถ (Ability): เธอสามารถเล่นกีตาร์ได้ดีมาก"
+      },
+      {
+        "eng": "Could you help me with this bag, please?",
+        "thai": "การขอร้องอย่างสุภาพ (Polite Request): คุณช่วยฉันถือกระเป๋าใบนี้ได้ไหมครับ/คะ"
+      },
+      {
+        "eng": "You look tired. You should take a break.",
+        "thai": "การให้คำแนะนำ (Advice): คุณดูเหนื่อยนะ คุณควรจะพักสักหน่อย"
+      },
+      {
+        "eng": "Students must not use their phones during the exam.",
+        "thai": "ข้อบังคับ/กฎ (Rule/Prohibition): นักเรียนห้ามใช้โทรศัพท์ระหว่างการสอบ"
+      }
+    ],
+    "common_mistakes": "1.  **ใช้ to ตามหลัง Modal Verb:** ผิด: `He can to play football.` ถูก: `He can play football.` (หลัง modal verb ต้องเป็น V.1 เท่านั้น)\n2.  **เติม s/es ที่กริยาตามหลัง Modal Verb:** ผิด: `She must goes now.` ถูก: `She must go now.` (แม้ประธานจะเป็นเอกพจน์บุรุษที่ 3 ก็ห้ามเติม s)\n3.  **สับสนระหว่าง Should และ Must:** `Should` เป็นแค่คำแนะนำ (ทำหรือไม่ทำก็ได้) แต่ `Must` คือข้อบังคับหรือความจำเป็นที่ต้องทำ เช่น You `should` eat vegetables (แนะนำ) vs. You `must` stop at a red light (กฎจราจร).\n4.  **สับสนระหว่าง Can และ Could ในการขอร้อง:** `Could` สุภาพกว่า `Can` เสมอ เหมาะกับการใช้กับคนที่ไม่สนิท ผู้ใหญ่ หรือในสถานการณ์ที่เป็นทางการ\n5.  **ใช้ Mustn't กับ Don't have to สลับกัน:** `Mustn't` แปลว่า 'ห้ามทำ' (It's forbidden) ส่วน `Don't have to` แปลว่า 'ไม่จำเป็นต้องทำ' (It's not necessary) ซึ่งมีความหมายต่างกันโดยสิ้นเชิง",
+    "practice_questions": [
+      {
+        "question": "You look very tired. You ___ get some rest.",
+        "options": [
+          "A. can",
+          "B. must",
+          "C. should",
+          "D. could"
+        ],
+        "answer": "C",
+        "explanation": "เป็นการให้คำแนะนำ (advice) ว่า 'ควรจะ' ไปพักผ่อน ดังนั้น `should` จึงเหมาะสมที่สุด"
+      },
+      {
+        "question": "When I was a child, I ___ climb trees easily.",
+        "options": [
+          "A. can",
+          "B. could",
+          "C. must",
+          "D. should"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคกล่าวถึงความสามารถในอดีต (when I was a child) จึงต้องใช้ `could`"
+      },
+      {
+        "question": "This is a library. You ___ be quiet.",
+        "options": [
+          "A. must",
+          "B. can",
+          "C. could",
+          "D. may"
+        ],
+        "answer": "A",
+        "explanation": "ในห้องสมุดมีกฎว่าต้องเงียบ เป็นข้อบังคับ (obligation/rule) จึงใช้ `must`"
+      },
+      {
+        "question": "Excuse me, ___ you tell me where the nearest bank is?",
+        "options": [
+          "A. can",
+          "B. should",
+          "C. must",
+          "D. could"
+        ],
+        "answer": "D",
+        "explanation": "เป็นการขอร้องอย่างสุภาพ (polite request) กับคนที่ไม่รู้จัก `could` จึงเป็นตัวเลือกที่สุภาพที่สุด"
+      },
+      {
+        "question": "He's been practicing every day. He ___ be a great pianist soon.",
+        "options": [
+          "A. can't",
+          "B. shouldn't",
+          "C. should",
+          "D. couldn't"
+        ],
+        "answer": "C",
+        "explanation": "เป็นการคาดการณ์ (expectation) จากเหตุผลว่าเขาฝึกซ้อมทุกวัน เขา 'ควรจะ' เป็นนักเปียโนที่เก่งได้ในไม่ช้า"
+      },
+      {
+        "question": "The sign says 'No Entry'. You ___ go in there.",
+        "options": [
+          "A. shouldn't",
+          "B. mustn't",
+          "C. can't",
+          "D. couldn't"
+        ],
+        "answer": "B",
+        "explanation": "ป้ายเขียนว่า 'ห้ามเข้า' ซึ่งเป็นข้อห้ามที่เด็ดขาด (prohibition) ต้องใช้ `mustn't`"
+      },
+      {
+        "question": "I'm not sure what to do. What ___ I do?",
+        "options": [
+          "A. must",
+          "B. could",
+          "C. can",
+          "D. should"
+        ],
+        "answer": "D",
+        "explanation": "เป็นการขอคำแนะนำ (asking for advice) ว่า 'ฉันควรทำอย่างไร' จึงใช้ `should`"
+      },
+      {
+        "question": "He has a luxury car and a big house. He ___ be very rich.",
+        "options": [
+          "A. must",
+          "B. can",
+          "C. should",
+          "D. could"
+        ],
+        "answer": "A",
+        "explanation": "เป็นการสรุปหรือคาดเดาอย่างมั่นใจ (strong deduction) จากหลักฐานที่มี จึงใช้ `must` ที่แปลว่า 'ต้องเป็นอย่างนั้นแน่ๆ'"
+      },
+      {
+        "question": "My phone is not working. ___ I use yours?",
+        "options": [
+          "A. Must",
+          "B. Should",
+          "C. Can",
+          "D. Will"
+        ],
+        "answer": "C",
+        "explanation": "เป็นการขออนุญาต (asking for permission) แบบไม่เป็นทางการ `Can` จึงเหมาะสมที่สุด"
+      },
+      {
+        "question": "I'm sorry, I ___ hear you. The music is too loud.",
+        "options": [
+          "A. can't",
+          "B. mustn't",
+          "C. shouldn't",
+          "D. couldn't"
+        ],
+        "answer": "A",
+        "explanation": "เป็นการบอกถึงการขาดความสามารถในปัจจุบัน (inability) ว่า 'ไม่ได้ยิน' เพราะเสียงเพลงดังเกินไป จึงใช้ `can't`"
+      },
+      {
+        "question": "You ___ eat too much sugar. It's bad for your health.",
+        "options": [
+          "A. mustn't",
+          "B. can't",
+          "C. shouldn't",
+          "D. won't"
+        ],
+        "answer": "C",
+        "explanation": "เป็นการให้คำแนะนำว่า 'ไม่ควร' ทำอะไรเพื่อสุขภาพที่ดี จึงใช้ `shouldn't`"
+      },
+      {
+        "question": "To get a driver's license, you ___ pass a driving test.",
+        "options": [
+          "A. should",
+          "B. must",
+          "C. can",
+          "D. could"
+        ],
+        "answer": "B",
+        "explanation": "การสอบผ่านเป็นข้อบังคับหรือความจำเป็น (necessity/rule) ในการได้ใบขับขี่ จึงต้องใช้ `must`"
+      },
+      {
+        "question": "It ___ rain this afternoon. The sky is getting very dark.",
+        "options": [
+          "A. could",
+          "B. can",
+          "C. must",
+          "D. should"
+        ],
+        "answer": "A",
+        "explanation": "เป็นการคาดการณ์ความเป็นไปได้ (possibility) จากสภาพอากาศ `could` และ `may/might` ใช้ในกรณีนี้ได้"
+      },
+      {
+        "question": "He ___ be at home. I just saw him at the supermarket.",
+        "options": [
+          "A. must",
+          "B. should",
+          "C. can't",
+          "D. mustn't"
+        ],
+        "answer": "C",
+        "explanation": "เป็นการสรุปอย่างมั่นใจว่าเป็นไปไม่ได้ (impossibility) เพราะเพิ่งเจอเขาที่อื่น `can't` ในที่นี้แปลว่า 'เป็นไปไม่ได้เลย'"
+      },
+      {
+        "question": "Children ___ play with matches. It's very dangerous.",
+        "options": [
+          "A. shouldn't",
+          "B. mustn't",
+          "C. couldn't",
+          "D. can't"
+        ],
+        "answer": "B",
+        "explanation": "เป็นข้อห้ามที่เข้มงวด (strong prohibition) เพื่อความปลอดภัย จึงใช้ `mustn't`"
+      },
+      {
+        "question": "I ___ find my wallet. Have you seen it anywhere?",
+        "options": [
+          "A. can't",
+          "B. mustn't",
+          "C. shouldn't",
+          "D. am not"
+        ],
+        "answer": "A",
+        "explanation": "เป็นการบอกว่า 'ไม่สามารถ' หากระเป๋าเงินเจอ ซึ่งเป็นเรื่องของความสามารถในขณะนั้น (inability) จึงใช้ `can't`"
+      },
+      {
+        "question": "It's a great book. You really ___ read it.",
+        "options": [
+          "A. could",
+          "B. can",
+          "C. should",
+          "D. may"
+        ],
+        "answer": "C",
+        "explanation": "เป็นการแนะนำอย่างหนักแน่น (strong recommendation) ว่า 'ควรจะ' อ่านหนังสือเล่มนี้ `should` เหมาะสมที่สุด"
+      },
+      {
+        "question": "In our country, you ___ be 18 to vote.",
+        "options": [
+          "A. should",
+          "B. must",
+          "C. can",
+          "D. could"
+        ],
+        "answer": "B",
+        "explanation": "นี่เป็นกฎหมาย (law) ซึ่งเป็นข้อบังคับที่ต้องปฏิบัติตาม จึงใช้ `must`"
+      },
+      {
+        "question": "We ___ go for a picnic tomorrow if the weather is nice.",
+        "options": [
+          "A. must",
+          "B. should",
+          "C. can",
+          "D. could"
+        ],
+        "answer": "D",
+        "explanation": "เป็นการเสนอแนะ (suggestion) หรือพูดถึงความเป็นไปได้ (possibility) ในอนาคต `could` ใช้ในความหมายนี้ได้"
+      },
+      {
+        "question": "You ___ touch that painting in the museum. It's not allowed.",
+        "options": [
+          "A. couldn't",
+          "B. shouldn't",
+          "C. can't",
+          "D. mustn't"
+        ],
+        "answer": "D",
+        "explanation": "เป็นกฎของพิพิธภัณฑ์ที่ห้ามสัมผัสภาพวาด เป็นข้อห้ามเด็ดขาด (prohibition) จึงใช้ `mustn't`"
+      },
+      {
+        "question": "I ___ speak a word of Japanese when I first moved to Tokyo.",
+        "options": [
+          "A. can't",
+          "B. shouldn't",
+          "C. couldn't",
+          "D. mustn't"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคกล่าวถึงการขาดความสามารถในอดีต (when I first moved...) จึงต้องใช้ `couldn't`"
+      },
+      {
+        "question": "You ___ apologize for what you did. It was very wrong.",
+        "options": [
+          "A. can",
+          "B. could",
+          "C. should",
+          "D. may"
+        ],
+        "answer": "C",
+        "explanation": "เป็นการให้คำแนะนำอย่างจริงจังว่า 'ควรจะ' ขอโทษในสิ่งที่ทำผิดไป จึงใช้ `should`"
+      },
+      {
+        "question": "The exam is next week. I ___ start studying now.",
+        "options": [
+          "A. could",
+          "B. may",
+          "C. must",
+          "D. can"
+        ],
+        "answer": "C",
+        "explanation": "ผู้พูดรู้สึกถึงความจำเป็น (necessity) ที่ 'จะต้อง' เริ่มอ่านหนังสือแล้ว เพราะใกล้สอบ จึงใช้ `must`"
+      },
+      {
+        "question": "That's impossible! It ___ be true.",
+        "options": [
+          "A. can't",
+          "B. mustn't",
+          "C. shouldn't",
+          "D. couldn't"
+        ],
+        "answer": "A",
+        "explanation": "เป็นการแสดงความไม่เชื่ออย่างรุนแรง ว่ามัน 'เป็นไปไม่ได้' ที่จะเป็นเรื่องจริง `can't` เหมาะสมที่สุด"
+      },
+      {
+        "question": "If you want to improve your English, you ___ practice speaking every day.",
+        "options": [
+          "A. could",
+          "B. should",
+          "C. might",
+          "D. can"
+        ],
+        "answer": "B",
+        "explanation": "นี่คือคำแนะนำ (advice) ที่ดีที่สุดสำหรับคนที่อยากเก่งภาษาอังกฤษ `should` แปลว่า 'ควรจะ' เหมาะสมที่สุด"
+      },
+      {
+        "question": "You ___ be joking! You didn't really buy that expensive car, did you?",
+        "options": [
+          "A. can",
+          "B. should",
+          "C. could",
+          "D. must"
+        ],
+        "answer": "D",
+        "explanation": "เป็นสำนวนแสดงความประหลาดใจอย่างมาก แปลว่า 'คุณต้องล้อเล่นแน่ๆ' ใช้ `must` ในการคาดเดาอย่างมั่นใจ"
+      },
+      {
+        "question": "All visitors ___ report to the reception desk upon arrival.",
+        "options": [
+          "A. must",
+          "B. can",
+          "C. could",
+          "D. should"
+        ],
+        "answer": "A",
+        "explanation": "นี่คือกฎระเบียบของสถานที่ (rule) ที่ผู้มาติดต่อ 'จะต้อง' ปฏิบัติตาม จึงใช้ `must`"
+      },
+      {
+        "question": "She's a very talented singer. She ___ sing almost any song.",
+        "options": [
+          "A. should",
+          "B. must",
+          "C. can",
+          "D. could"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคกล่าวถึงความสามารถในปัจจุบัน (present ability) ของเธอ จึงใช้ `can`"
+      },
+      {
+        "question": "I'm feeling cold. ___ you please close the door?",
+        "options": [
+          "A. Can",
+          "B. Must",
+          "C. Should",
+          "D. Could"
+        ],
+        "answer": "D",
+        "explanation": "เป็นการขอร้องอย่างสุภาพ (polite request) `Could` เป็นตัวเลือกที่สุภาพกว่า `Can`"
+      },
+      {
+        "question": "You ___ worry about me. I'll be fine.",
+        "options": [
+          "A. can't",
+          "B. mustn't",
+          "C. shouldn't",
+          "D. couldn't"
+        ],
+        "answer": "C",
+        "explanation": "เป็นการบอกอีกฝ่ายว่า 'ไม่ควร' เป็นห่วง เป็นการให้คำแนะนำหรือปลอบใจ จึงใช้ `shouldn't`"
+      },
+      {
+        "question": "The police officer told me that I ___ park here.",
+        "options": [
+          "A. can't",
+          "B. mustn't",
+          "C. couldn't",
+          "D. shouldn't"
+        ],
+        "answer": "A",
+        "explanation": "เมื่อตำรวจบอกว่าจอดไม่ได้ มันคือการบอกว่าคุณไม่ได้รับอนุญาต (not allowed) ซึ่งใช้ `can't` ได้ในความหมายนี้ (mustn't ก็ใช้ได้ แต่ can't เป็นตัวเลือกที่ถูกต้องในข้อนี้)"
+      },
+      {
+        "question": "This steak is delicious. You ___ try it.",
+        "options": [
+          "A. can",
+          "B. must",
+          "C. could",
+          "D. will"
+        ],
+        "answer": "B",
+        "explanation": "เป็นการแนะนำอย่างหนักแน่นมากๆ จนเกือบจะเป็นการบังคับกลายๆ ว่า 'ต้องลอง' ให้ได้เลยนะ ใช้ `must` เพื่อเน้นย้ำ"
+      },
+      {
+        "question": "He's very strong. He ___ lift that box without any problem.",
+        "options": [
+          "A. could",
+          "B. should",
+          "C. can",
+          "D. must"
+        ],
+        "answer": "C",
+        "explanation": "เป็นการพูดถึงความสามารถในปัจจุบัน (present ability) ว่าเขาสามารถยกกล่องนั้นได้ จึงใช้ `can`"
+      },
+      {
+        "question": "___ we go to the beach this weekend?",
+        "options": [
+          "A. Must",
+          "B. Can",
+          "C. Should",
+          "D. Have to"
+        ],
+        "answer": "C",
+        "explanation": "เป็นการเสนอแนะ (suggestion) ชักชวนกันว่า 'เราไปทะเลกันดีไหม' การใช้ `Should we...?` เป็นโครงสร้างที่พบบ่อย"
+      },
+      {
+        "question": "You ___ pay attention in class if you want to understand the lesson.",
+        "options": [
+          "A. could",
+          "B. may",
+          "C. must",
+          "D. can"
+        ],
+        "answer": "C",
+        "explanation": "การตั้งใจเรียนเป็นความจำเป็น (necessity) ที่จะทำให้เข้าใจบทเรียนได้ จึงใช้ `must`"
+      },
+      {
+        "question": "My grandmother is eighty, but she ___ still read without glasses.",
+        "options": [
+          "A. could",
+          "B. can",
+          "C. must",
+          "D. should"
+        ],
+        "answer": "B",
+        "explanation": "เป็นการพูดถึงความสามารถในปัจจุบัน (present ability) แม้จะอายุมากแล้ว แต่ 'ยังสามารถ' อ่านหนังสือได้โดยไม่ใส่แว่น จึงใช้ `can`"
+      },
+      {
+        "question": "It's a formal party. You ___ wear a suit and tie.",
+        "options": [
+          "A. should",
+          "B. can",
+          "C. could",
+          "D. may"
+        ],
+        "answer": "A",
+        "explanation": "เป็นการให้คำแนะนำเกี่ยวกับ dress code ว่า 'ควรจะ' ใส่อะไรไปงาน แต่ไม่ใช่กฎบังคับตายตัว `should` จึงเหมาะสม (ถ้าเป็นกฎบังคับ จะใช้ must)"
+      },
+      {
+        "question": "You ___ tell lies. Honesty is the best policy.",
+        "options": [
+          "A. can't",
+          "B. couldn't",
+          "C. shouldn't",
+          "D. won't"
+        ],
+        "answer": "C",
+        "explanation": "เป็นการให้คำแนะนำด้านจริยธรรมว่า 'ไม่ควร' โกหก จึงใช้ `shouldn't`"
+      },
+      {
+        "question": "Where are my keys? They ___ be in my pocket, but they are not.",
+        "options": [
+          "A. must",
+          "B. should",
+          "C. can",
+          "D. could"
+        ],
+        "answer": "B",
+        "explanation": "เป็นการคาดการณ์ (expectation) ว่ามัน 'ควรจะ' อยู่ในกระเป๋า แต่กลับหาไม่เจอ `should` ใช้ในความหมายนี้ได้"
+      },
+      {
+        "question": "You have a bad cough. You ___ stop smoking.",
+        "options": [
+          "A. can",
+          "B. could",
+          "C. should",
+          "D. must"
+        ],
+        "answer": "C",
+        "explanation": "เป็นการให้คำแนะนำอย่างหนักแน่น (strong advice) เกี่ยวกับสุขภาพ `should` เหมาะสมที่สุด"
+      },
+      {
+        "question": "This cake tastes funny. Something ___ be wrong with it.",
+        "options": [
+          "A. can",
+          "B. should",
+          "C. must",
+          "D. ought to"
+        ],
+        "answer": "C",
+        "explanation": "เป็นการสรุปอย่างมั่นใจ (strong deduction) จากรสชาติที่แปลกๆ ว่า 'ต้องมี' อะไรผิดปกติแน่ๆ จึงใช้ `must`"
+      },
+      {
+        "question": "___ I ask you a personal question?",
+        "options": [
+          "A. Must",
+          "B. Can",
+          "C. Should",
+          "D. Would"
+        ],
+        "answer": "B",
+        "explanation": "เป็นการขออนุญาต (permission) เพื่อจะถามคำถามส่วนตัว `Can` เหมาะสมกับการใช้งานนี้"
+      },
+      {
+        "question": "He promised he would come. He ___ be here any minute.",
+        "options": [
+          "A. must",
+          "B. could",
+          "C. can",
+          "D. should"
+        ],
+        "answer": "D",
+        "explanation": "เป็นการคาดหวัง (expectation) ว่าเขา 'ควรจะ' มาถึงในไม่ช้านี้ เพราะเขาสัญญาไว้แล้ว"
+      },
+      {
+        "question": "This is top secret. You ___ tell a soul.",
+        "options": [
+          "A. shouldn't",
+          "B. can't",
+          "C. mustn't",
+          "D. couldn't"
+        ],
+        "answer": "C",
+        "explanation": "เป็นคำสั่งห้ามเด็ดขาด (strong prohibition) ว่า 'ห้าม' บอกใครเด็ดขาด จึงต้องใช้ `mustn't`"
+      },
+      {
+        "question": "Even though he was injured, he ___ finish the race.",
+        "options": [
+          "A. could",
+          "B. can",
+          "C. was able to",
+          "D. should"
+        ],
+        "answer": "C",
+        "explanation": "เมื่อต้องการพูดถึงความสามารถที่ทำได้สำเร็จในสถานการณ์เฉพาะเจาะจงในอดีต เรามักใช้ 'was/were able to' แทน `could` (ข้อนี้เป็นข้อยกเว้นที่ควรรู้ `could` จะหมายถึงความสามารถทั่วไปในอดีต)"
+      },
+      {
+        "question": "You ___ always check your work before you hand it in.",
+        "options": [
+          "A. can",
+          "B. could",
+          "C. should",
+          "D. must"
+        ],
+        "answer": "C",
+        "explanation": "เป็นการให้คำแนะนำ (advice) ที่ดี ว่า 'ควรจะ' ตรวจงานก่อนส่งเสมอ `should` เหมาะสมที่สุด"
+      },
+      {
+        "question": "The baby is sleeping. We ___ make any noise.",
+        "options": [
+          "A. mustn't",
+          "B. can't",
+          "C. shouldn't",
+          "D. couldn't"
+        ],
+        "answer": "A",
+        "explanation": "เป็นการบอกว่า 'ห้าม' ส่งเสียงดัง เพราะเป็นสิ่งที่ไม่ควรทำอย่างยิ่งในสถานการณ์นี้ `mustn't` ให้ความหมายหนักแน่นที่สุด"
+      },
+      {
+        "question": "I've lost my passport. What ___ I do?",
+        "options": [
+          "A. must",
+          "B. can",
+          "C. could",
+          "D. should"
+        ],
+        "answer": "D",
+        "explanation": "เป็นการขอคำแนะนำ (asking for advice) ในสถานการณ์ที่ลำบาก ว่า 'ฉันควรจะ' ทำอย่างไร"
+      },
+      {
+        "question": "She's not here yet. She ___ have missed her bus.",
+        "options": [
+          "A. could",
+          "B. can",
+          "C. should",
+          "D. must"
+        ],
+        "answer": "A",
+        "explanation": "เป็นการคาดเดาถึงความเป็นไปได้ (possibility) ในอดีต ว่าเธอ 'อาจจะ' ตกรถบัส `could` ใช้ในกรณีนี้ได้ (may/might ก็ใช้ได้)"
+      },
+      {
+        "question": "To enter the building, you ___ show your ID card.",
+        "options": [
+          "A. should",
+          "B. could",
+          "C. must",
+          "D. can"
+        ],
+        "answer": "C",
+        "explanation": "นี่เป็นกฎ (rule) หรือข้อบังคับในการเข้าอาคารที่ 'จะต้อง' ปฏิบัติตาม จึงใช้ `must`"
+      }
+    ]
+  }
+]

@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import { BookOpen, Headphones, PenTool, Mic, ChevronLeft, FileText, ArrowRight, Library, FileCheck, Layers, Bot, Download, CheckCircle2, Circle, Video, X, MessageSquare } from 'lucide-react';
 import DocumentGallery from './DocumentGallery';
 import FloatingVideoPlayer from './FloatingVideoPlayer';
+import { getFirebaseStorageUrl } from '../utils/firebaseStorage';
 import readingVideosData from '../data/reading_videos.json';
 import { getVocabData } from '../data/mockContent';
 import voaLessons from '../data/voa_lessons.json';
@@ -511,7 +512,7 @@ export default function ExercisesArea({ activeLang, onAskPDF }: ExercisesAreaPro
               <h3 className="text-xl font-semibold text-gray-800">เอกสารประกอบการเรียน</h3>
             </div>
             <div className="flex flex-wrap gap-2 sm:gap-3 w-full sm:w-auto">
-              <a href={`/downloads/grammar/${selectedGrammarTopic}/${selectedGrammarSubTopic}.pdf`} download target="_blank" rel="noreferrer" className="flex items-center gap-2 text-sm bg-green-50 text-green-600 hover:bg-green-100 px-4 py-2 rounded-lg font-medium transition-colors">
+              <a href={getFirebaseStorageUrl(`downloads/grammar/${selectedGrammarTopic}/${selectedGrammarSubTopic}.pdf`)} download target="_blank" rel="noreferrer" className="flex items-center gap-2 text-sm bg-green-50 text-green-600 hover:bg-green-100 px-4 py-2 rounded-lg font-medium transition-colors">
                 <Download size={16} /> โหลดไฟล์ PDF
               </a>
               <button 

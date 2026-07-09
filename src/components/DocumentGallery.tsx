@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { Download } from 'lucide-react';
 import AnnotationToolbar, { AnnotationState } from './AnnotationToolbar';
 import AnnotatableImage from './AnnotatableImage';
+import { getFirebaseStorageUrl } from '../utils/firebaseStorage';
 
 interface DocumentGalleryProps {
   type: 'hsk' | 'courseware';
@@ -55,7 +56,7 @@ export default function DocumentGallery({
     // Map to Local Storage URLs for preview with cache busting for development
     let finalImages = matchedFiles.map(f => {
       const fullPath = `${manifestKey}/${f}`;
-      return `/${fullPath}?t=${Date.now()}`;
+      return getFirebaseStorageUrl(fullPath);
     });
     
     if (hideLastNPages && finalImages.length > hideLastNPages) {

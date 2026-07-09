@@ -1,0 +1,1010 @@
+[
+  {
+    "id": "7_1",
+    "title": "7.1 Position of Adjectives (ตำแหน่งการวาง Adjective หน้า Noun และหลัง Verb to be)",
+    "explanation": "Adjective (Adj.) หรือ คำคุณศัพท์ คือคำที่ใช้อธิบายหรือขยายคำนาม (Noun) หรือคำสรรพนาม (Pronoun) เพื่อให้เรารู้รายละเอียดเกี่ยวกับสิ่งนั้นๆ มากขึ้น เช่น สี, ขนาด, รูปร่าง, คุณภาพ, ความรู้สึก เป็นต้น\n\nในภาษาอังกฤษ ตำแหน่งการวาง Adjective ที่สำคัญและใช้บ่อยที่สุดมี 2 ตำแหน่งหลักๆ ดังนี้:\n\n1.  **วางไว้หน้าคำนาม (Noun) ที่มันขยาย**\n    โครงสร้าง: Adjective + Noun\n    นี่เป็นตำแหน่งพื้นฐานที่สุด Adjective จะต้องอยู่ข้างหน้าคำนามที่มันต้องการจะอธิบายเสมอ ซึ่งจะสลับกับภาษาไทยที่คำขยายจะอยู่หลังคำนาม\n    -   เช่น ภาษาไทยพูดว่า \"รถ (N) สีแดง (Adj)\"\n    -   แต่ภาษาอังกฤษจะพูดว่า \"a red (Adj) car (N)\"\n\n2.  **วางไว้หลัง Verb to be (is, am, are, was, were) และ Linking Verbs อื่นๆ**\n    โครงสร้าง: Subject + Verb to be + Adjective\n    ในกรณีนี้ Adjective จะทำหน้าที่อธิบายประธาน (Subject) ของประโยค โดยจะตามหลัง Verb to be\n    -   เช่น \"The car (Subject) is (V. to be) red (Adj).\" (รถคันนั้นสีแดง)\n\nข้อสังเกต: ทั้งสองตำแหน่งให้ความหมายเหมือนกัน คือการบอกว่ารถ \"สีแดง\" แต่มีโครงสร้างประโยคที่ต่างกัน การเลือกใช้ขึ้นอยู่กับว่าเราต้องการจะสื่อสารในรูปแบบไหน",
+    "examples": [
+      {
+        "eng": "She is a **smart** student.",
+        "thai": "เธอเป็นนักเรียนที่**ฉลาด** (ตำแหน่งที่ 1: Adjective 'smart' วางอยู่หน้า Noun 'student')"
+      },
+      {
+        "eng": "That student is **smart**.",
+        "thai": "นักเรียนคนนั้น**ฉลาด** (ตำแหน่งที่ 2: Adjective 'smart' วางอยู่หลัง Verb to be 'is')"
+      },
+      {
+        "eng": "I bought a **new** computer.",
+        "thai": "ฉันซื้อคอมพิวเตอร์เครื่อง**ใหม่** (ตำแหน่งที่ 1: Adjective 'new' วางอยู่หน้า Noun 'computer')"
+      },
+      {
+        "eng": "My computer is **new**.",
+        "thai": "คอมพิวเตอร์ของฉัน**ใหม่** (ตำแหน่งที่ 2: Adjective 'new' วางอยู่หลัง Verb to be 'is')"
+      },
+      {
+        "eng": "They live in a **big, beautiful** house.",
+        "thai": "พวกเขาอาศัยอยู่ในบ้านหลัง**ใหญ่และสวยงาม** (สามารถใช้ Adjective หลายตัวเรียงกันหน้า Noun ได้)"
+      },
+      {
+        "eng": "The weather is **cold** and **windy** today.",
+        "thai": "วันนี้อากาศ**หนาว**และ**มีลมแรง** (สามารถใช้ Adjective หลายตัวตามหลัง Verb to be ได้เช่นกัน)"
+      }
+    ],
+    "common_mistakes": "ข้อผิดพลาดที่พบบ่อยที่สุดสำหรับคนไทยคือการวาง Adjective ไว้หลัง Noun ตามโครงสร้างของภาษาไทย ซึ่งผิดหลักไวยากรณ์ภาษาอังกฤษอย่างสิ้นเชิง\n\n**ผิด:** I have a car **red**. (ฉันมีรถยนต์สีแดง - เรียงแบบไทย)\n**ถูก:** I have a **red** car.\n**คำอธิบาย:** ในภาษาอังกฤษ คำคุณศัพท์ (red) ต้องมาก่อนคำนาม (car) ที่มันขยายเสมอ\n\n**ผิด:** She is a girl **beautiful**.\n**ถูก:** She is a **beautiful** girl.\n**คำอธิบาย:** beautiful เป็น Adjective ต้องวางไว้หน้า girl ที่เป็น Noun\n\nอีกข้อผิดพลาดคือการลืมใส่ Verb to be เมื่อ Adjective อยู่ท้ายประโยค\n\n**ผิด:** The sky **blue**.\n**ถูก:** The sky **is blue**.\n**คำอธิบาย:** ประโยคในภาษาอังกฤษต้องมี Verb แท้เสมอ ในที่นี้ 'is' ทำหน้าที่เป็น Verb เชื่อมระหว่างประธาน 'The sky' กับคำคุณศัพท์ 'blue' ที่มาอธิบาย",
+    "practice_questions": [
+      {
+        "question": "I saw a _________ movie last night.",
+        "options": [
+          "A. movie funny",
+          "B. funny",
+          "C. is funny",
+          "D. funnily"
+        ],
+        "answer": "B",
+        "explanation": "ตำแหน่งของ Adjective คือต้องวางไว้หน้า Noun ที่มันขยาย ในที่นี้ 'funny' (Adj.) ต้องวางไว้หน้า 'movie' (Noun) ดังนั้นตัวเลือกที่ถูกต้องที่สุดคือ B. funny"
+      },
+      {
+        "question": "This soup tastes _________.",
+        "options": [
+          "A. delicious",
+          "B. a delicious",
+          "C. delicious soup",
+          "D. deliciously"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้ใช้ Linking Verb (tastes) ซึ่งทำหน้าที่คล้าย Verb to be ดังนั้น Adjective (delicious) จะต้องตามหลัง Verb นั้นเพื่อขยายประธาน (This soup)"
+      },
+      {
+        "question": "Which sentence is grammatically CORRECT?",
+        "options": [
+          "A. He drives a car fast.",
+          "B. He drives a fast car.",
+          "C. He drives fast a car.",
+          "D. He drives car a fast."
+        ],
+        "answer": "B",
+        "explanation": "ตามกฎ Adjective + Noun คำว่า 'fast' ซึ่งเป็น Adjective ต้องวางอยู่หน้าคำนาม 'car' ประโยค 'He drives a fast car.' จึงถูกต้องที่สุด"
+      },
+      {
+        "question": "My new neighbors _________ very friendly.",
+        "options": [
+          "A. is",
+          "B. are",
+          "C. friend",
+          "D. have"
+        ],
+        "answer": "B",
+        "explanation": "ประธานของประโยคคือ 'neighbors' ซึ่งเป็นพหูพจน์ ดังนั้น Verb to be ที่ใช้คู่กันต้องเป็น 'are' เพื่อเชื่อมกับ Adjective 'friendly'"
+      },
+      {
+        "question": "She wore a _________ dress to the party.",
+        "options": [
+          "A. dress beautiful",
+          "B. beautiful",
+          "C. is beautiful",
+          "D. beauty"
+        ],
+        "answer": "B",
+        "explanation": "โครงสร้างประโยคคือ a + Adjective + Noun ในที่นี้เราต้องการ Adjective (beautiful) มาขยาย Noun (dress) ที่ตามมา"
+      },
+      {
+        "question": "The children are playing with a _________ ball.",
+        "options": [
+          "A. red big",
+          "B. big red",
+          "C. ball big red",
+          "D. big and red ball"
+        ],
+        "answer": "B",
+        "explanation": "เมื่อมี Adjective หลายตัวขยายคำนามเดียวกัน จะต้องวางเรียงกันไว้หน้าคำนามนั้น 'big red' เป็นการเรียงลำดับที่ถูกต้องเพื่อขยาย 'ball' (เรื่องลำดับของ Adjective จะได้เรียนในบทถัดไป แต่ในที่นี้ 'big red' เป็นลำดับที่ปกติที่สุด)"
+      },
+      {
+        "question": "I feel _________ today.",
+        "options": [
+          "A. happy",
+          "B. a happy",
+          "C. happiness",
+          "D. happily"
+        ],
+        "answer": "A",
+        "explanation": "'feel' เป็น Linking Verb ดังนั้นคำที่ตามมาต้องเป็น Adjective เพื่ออธิบายความรู้สึกของประธาน (I) คำว่า 'happy' เป็น Adjective ที่ถูกต้อง"
+      },
+      {
+        "question": "Choose the INCORRECT sentence.",
+        "options": [
+          "A. It is a cold day.",
+          "B. The day is cold.",
+          "C. He is a man old.",
+          "D. That is an old man."
+        ],
+        "answer": "C",
+        "explanation": "ประโยค C. 'He is a man old.' ผิดหลักไวยากรณ์ เพราะ Adjective 'old' ต้องวางไว้หน้า Noun 'man' ที่ถูกต้องคือ 'He is an old man.'"
+      },
+      {
+        "question": "This coffee is too _________ to drink.",
+        "options": [
+          "A. hot",
+          "B. a hot",
+          "C. hot coffee",
+          "D. is hot"
+        ],
+        "answer": "A",
+        "explanation": "ประโยคนี้มีโครงสร้าง Subject + Verb to be + Adjective อยู่แล้ว (This coffee is...) ดังนั้นคำที่ขาดไปคือ Adjective 'hot' เพื่อมาขยายประธาน"
+      },
+      {
+        "question": "They bought an _________ house by the sea.",
+        "options": [
+          "A. house expensive",
+          "B. expensive",
+          "C. is expensive",
+          "D. expensively"
+        ],
+        "answer": "B",
+        "explanation": "โครงสร้างคือ an + Adjective + Noun คำที่ต้องนำมาเติมในช่องว่างคือ Adjective 'expensive' เพื่อขยาย Noun 'house' ที่ตามมา"
+      }
+    ]
+  },
+  {
+    "id": "7_2",
+    "title": "7.2 Order of Adjectives (ลำดับการวาง Adjectives หลายคำติดกัน)",
+    "explanation": "เมื่อเราต้องการใช้ Adjectives มากกว่าหนึ่งคำเพื่อขยายคำนาม (Noun) เราไม่สามารถวางสลับตำแหน่งกันได้ตามใจชอบ แต่ต้องเรียงตามลำดับที่ถูกต้อง ซึ่งเป็นกฎที่เจ้าของภาษายึดถือกันโดยธรรมชาติ แม้จะดูซับซ้อน แต่มีหลักการจำง่ายๆ ที่นิยมใช้กันคือ 'OSASCOMP' ซึ่งย่อมาจากลำดับประเภทของ Adjective ดังนี้\n\n1.  **O - Opinion** (ความคิดเห็น): คำคุณศัพท์ที่แสดงความรู้สึกหรือความคิดเห็นส่วนตัว เช่น beautiful, nice, ugly, delicious, horrible\n2.  **S - Size** (ขนาด): คำบอกขนาด เช่น big, small, tiny, huge, long, short\n3.  **A - Age** (อายุ): คำบอกอายุ ความเก่า-ใหม่ เช่น old, new, young, ancient\n4.  **S - Shape** (รูปทรง): คำบอกรูปร่าง รูปทรง เช่น round, square, triangular, flat\n5.  **C - Color** (สี): คำบอกสีต่างๆ เช่น red, blue, green, black, white\n6.  **O - Origin** (แหล่งกำเนิด/สัญชาติ): คำบอกที่มาหรือสัญชาติ เช่น Thai, American, Japanese, Chinese\n7.  **M - Material** (วัสดุ): คำบอกว่าทำมาจากอะไร เช่น wooden, plastic, silk, metal, leather\n8.  **P - Purpose** (จุดประสงค์): คำบอกวัตถุประสงค์การใช้งาน มักจะอยู่ในรูป Gerund (-ing) เช่น sleeping (bag), running (shoes), dining (table)\n\n**ข้อควรรู้:** \n- Determiners (คำนำหน้านาม) เช่น a, an, the, my, her, some, three จะอยู่หน้าสุดเสมอ\n- ในชีวิตจริง เรามักไม่ใช้ Adjective เกิน 3-4 คำในประโยคเดียว แต่การรู้ลำดับที่ถูกต้องเป็นสิ่งสำคัญเพื่อให้การเขียนและพูดเป็นธรรมชาติเหมือนเจ้าของภาษา",
+    "examples": [
+      {
+        "eng": "She bought a beautiful long red dress.",
+        "thai": "เธอซื้อชุดเดรสสีแดงตัวยาวที่สวยงามหนึ่งตัว\n- beautiful (Opinion) -> long (Size) -> red (Color)"
+      },
+      {
+        "eng": "I saw a small old black cat.",
+        "thai": "ฉันเห็นแมวดำแก่ตัวเล็กๆ หนึ่งตัว\n- small (Size) -> old (Age) -> black (Color)"
+      },
+      {
+        "eng": "He lives in a big modern Thai house.",
+        "thai": "เขาอาศัยอยู่ในบ้านทรงไทยสมัยใหม่หลังใหญ่\n- big (Size) -> modern (Age) -> Thai (Origin)"
+      },
+      {
+        "eng": "My mom has an expensive antique round wooden table.",
+        "thai": "แม่ของฉันมีโต๊ะไม้ทรงกลมโบราณราคาแพงหนึ่งตัว\n- expensive (Opinion) -> antique (Age) -> round (Shape) -> wooden (Material)"
+      },
+      {
+        "eng": "We need a new comfortable leather sleeping bag.",
+        "thai": "พวกเราต้องการถุงนอนหนังอันใหม่ที่นุ่มสบาย\n- new (Age) -> comfortable (Opinion: *บางครั้งสามารถสลับกับ Age ได้ แต่ปกติ Opinion จะมาก่อน*) -> leather (Material) -> sleeping (Purpose)"
+      }
+    ],
+    "common_mistakes": "- **เรียงลำดับตามภาษาไทย**: คนไทยมักจะแปลตรงตัวจากภาษาไทย เช่น 'รถสีแดงคันใหญ่' เป็น 'a red big car' ซึ่งผิดหลักไวยากรณ์ ที่ถูกต้องคือ 'a big red car' (Size -> Color)\n- **วาง Adjective ที่เป็นความจริง (Fact) ก่อนความคิดเห็น (Opinion)**: เช่น พูดว่า 'a Thai delicious dish' แทนที่จะเป็น 'a delicious Thai dish' (Opinion -> Origin) ต้องจำไว้เสมอว่าความคิดเห็นส่วนตัว (สวย, อร่อย, น่าเกลียด) ต้องมาก่อนข้อเท็จจริงเสมอ (ขนาด, สี, สัญชาติ)\n- **ใส่ comma (,) คั่นระหว่าง Adjectives ต่างประเภท**: โดยทั่วไป เราจะไม่ใช้ comma คั่นระหว่าง Adjectives ที่เรียงตามกฎ OSASCOMP เช่น 'a beautiful, old, French painting' (ผิด) ที่ถูกต้องคือ 'a beautiful old French painting' (ถูก) ยกเว้นแต่ว่า Adjectives นั้นอยู่ในหมวดหมู่เดียวกัน เช่น 'a friendly, kind person' (Opinion ทั้งคู่)",
+    "practice_questions": [
+      {
+        "question": "She is wearing a _____ dress.",
+        "options": [
+          "A. beautiful silk long",
+          "B. long beautiful silk",
+          "C. beautiful long silk",
+          "D. silk long beautiful"
+        ],
+        "answer": "C",
+        "explanation": "ต้องเรียงตามลำดับ Opinion -> Size -> Material ดังนั้น beautiful (ความคิดเห็น) -> long (ขนาด) -> silk (วัสดุ) จึงเป็นลำดับที่ถูกต้อง"
+      },
+      {
+        "question": "My brother wants to buy a _____ car.",
+        "options": [
+          "A. German fast new",
+          "B. fast new German",
+          "C. new fast German",
+          "D. German new fast"
+        ],
+        "answer": "B",
+        "explanation": "ต้องเรียงตามลำดับ Opinion -> Age -> Origin ในที่นี้ fast ถือเป็น Opinion/Quality -> new (อายุ) -> German (สัญชาติ) เป็นลำดับที่ถูกต้อง"
+      },
+      {
+        "question": "I found an _____ coin in the garden.",
+        "options": [
+          "A. old small round",
+          "B. round small old",
+          "C. old round small",
+          "D. small old round"
+        ],
+        "answer": "D",
+        "explanation": "ต้องเรียงตามลำดับ Size -> Age -> Shape ดังนั้น small (ขนาด) -> old (อายุ) -> round (รูปทรง) จึงเป็นลำดับที่ถูกต้อง"
+      },
+      {
+        "question": "He sat on a _____ chair.",
+        "options": [
+          "A. brown comfortable wooden",
+          "B. comfortable brown wooden",
+          "C. wooden comfortable brown",
+          "D. brown wooden comfortable"
+        ],
+        "answer": "B",
+        "explanation": "ต้องเรียงตามลำดับ Opinion -> Color -> Material ดังนั้น comfortable (ความคิดเห็น) -> brown (สี) -> wooden (วัสดุ) เป็นลำดับที่ถูกต้อง"
+      },
+      {
+        "question": "They live in a _____ house by the sea.",
+        "options": [
+          "A. white big modern",
+          "B. big modern white",
+          "C. modern white big",
+          "D. big white modern"
+        ],
+        "answer": "D",
+        "explanation": "ต้องเรียงตามลำดับ Size -> Age -> Color ดังนั้น big (ขนาด) -> modern (อายุ) -> white (สี) เป็นลำดับที่ถูกต้อง"
+      },
+      {
+        "question": "Which sentence is grammatically correct?",
+        "options": [
+          "A. She has a Thai beautiful silk scarf.",
+          "B. She has a beautiful Thai silk scarf.",
+          "C. She has a silk beautiful Thai scarf.",
+          "D. She has a Thai silk beautiful scarf."
+        ],
+        "answer": "B",
+        "explanation": "เรียงลำดับถูกต้องตามกฎ Opinion -> Origin -> Material: beautiful (ความคิดเห็น) -> Thai (สัญชาติ) -> silk (วัสดุ)"
+      },
+      {
+        "question": "My grandfather told me an _____ story.",
+        "options": [
+          "A. interesting old Chinese",
+          "B. Chinese old interesting",
+          "C. old interesting Chinese",
+          "D. interesting Chinese old"
+        ],
+        "answer": "A",
+        "explanation": "ต้องเรียงตามลำดับ Opinion -> Age -> Origin ดังนั้น interesting (ความคิดเห็น) -> old (อายุ) -> Chinese (สัญชาติ) เป็นลำดับที่ถูกต้อง"
+      },
+      {
+        "question": "I need to buy a pair of _____ boots for the winter.",
+        "options": [
+          "A. black new leather",
+          "B. new leather black",
+          "C. leather new black",
+          "D. new black leather"
+        ],
+        "answer": "D",
+        "explanation": "ต้องเรียงตามลำดับ Age -> Color -> Material ดังนั้น new (อายุ) -> black (สี) -> leather (วัสดุ) เป็นลำดับที่ถูกต้อง"
+      },
+      {
+        "question": "The museum displays a _____ sword.",
+        "options": [
+          "A. Japanese long ancient",
+          "B. long ancient Japanese",
+          "C. ancient Japanese long",
+          "D. long Japanese ancient"
+        ],
+        "answer": "B",
+        "explanation": "ต้องเรียงตามลำดับ Size -> Age -> Origin ดังนั้น long (ขนาด) -> ancient (อายุ) -> Japanese (สัญชาติ) เป็นลำดับที่ถูกต้อง"
+      },
+      {
+        "question": "Can you pass me that _____ bowl?",
+        "options": [
+          "A. big blue plastic serving",
+          "B. blue big plastic serving",
+          "C. big serving blue plastic",
+          "D. plastic big blue serving"
+        ],
+        "answer": "A",
+        "explanation": "ต้องเรียงตามลำดับ Size -> Color -> Material -> Purpose ดังนั้น big (ขนาด) -> blue (สี) -> plastic (วัสดุ) -> serving (จุดประสงค์) เป็นลำดับที่ถูกต้อง"
+      }
+    ]
+  },
+  {
+    "id": "7_3",
+    "title": "7.3 Adjectives ending in -ed and -ing (เช่น bored vs. boring)",
+    "explanation": "Adjectives ที่ลงท้ายด้วย -ed และ -ing มักสร้างความสับสนให้กับผู้เรียนภาษาอังกฤษ แต่หลักการจำง่ายนิดเดียวครับ ทั้งสองรูปแบบนี้มักมาจากคำกริยา (Verb) ที่เกี่ยวกับความรู้สึกหรืออารมณ์ (เช่น bore, interest, excite, surprise) และเปลี่ยนมาทำหน้าที่เป็น Adjective เพื่อขยายคำนาม\n\n1.  **Adjectives ending in -ed**: ใช้อธิบาย 'ความรู้สึก' ของคนหรือสัตว์ (ที่มีความรู้สึกได้) พูดง่ายๆ คือ ประธานของประโยคเป็น 'ผู้รู้สึก' สิ่งนั้นๆ\n    *   หลักการจำ: -ed = รู้สึก... (เช่น bored = รู้สึกเบื่อ, interested = รู้สึกสนใจ)\n\n2.  **Adjectives ending in -ing**: ใช้อธิบาย 'ลักษณะ' ของสิ่งของ สถานการณ์ หรือบุคคลที่ 'ทำให้' เกิดความรู้สึกนั้นๆ\n    *   หลักการจำ: -ing = น่า... (เช่น boring = น่าเบื่อ, interesting = น่าสนใจ)\n\n**สรุปง่ายๆ:**\n*   ถ้าจะบอกว่า 'ใครรู้สึกอะไร' ให้ใช้ **-ed** (I am bored. = ฉันรู้สึกเบื่อ)\n*   ถ้าจะบอกว่า 'อะไรมันน่า...' หรือ 'มันทำให้เรารู้สึกอย่างไร' ให้ใช้ **-ing** (The movie is boring. = หนังมันน่าเบื่อ)",
+    "examples": [
+      {
+        "eng": "I am so **bored**. I have nothing to do.",
+        "thai": "ฉันรู้สึก**เบื่อ**จังเลย ไม่มีอะไรทำเลย (ผู้พูดเป็นคน 'รู้สึก' เบื่อ)"
+      },
+      {
+        "eng": "This lecture is so **boring**. I almost fell asleep.",
+        "thai": "เลคเชอร์นี้น่า**เบื่อ**มาก ฉันเกือบจะหลับเลย (เลคเชอร์มีลักษณะที่ 'น่า' เบื่อ ทำให้เรารู้สึกเบื่อ)"
+      },
+      {
+        "eng": "She is **interested** in Japanese culture.",
+        "thai": "เธอรู้สึก**สนใจ**ในวัฒนธรรมญี่ปุ่น (เธอเป็นผู้ 'รู้สึก' สนใจ)"
+      },
+      {
+        "eng": "He told us a very **interesting** story.",
+        "thai": "เขาเล่าเรื่องที่**น่าสนใจ**มากให้พวกเราฟัง (เรื่องราวมีลักษณะที่ 'น่า' สนใจ)"
+      },
+      {
+        "eng": "The children were **excited** about the trip.",
+        "thai": "เด็กๆ รู้สึก**ตื่นเต้น**เกี่ยวกับทริปนี้ (เด็กๆ เป็นผู้ 'รู้สึก' ตื่นเต้น)"
+      },
+      {
+        "eng": "It was an **exciting** football match.",
+        "thai": "มันเป็นการแข่งขันฟุตบอลที่**น่าตื่นเต้น**มาก (การแข่งขันมีลักษณะที่ 'น่า' ตื่นเต้น)"
+      }
+    ],
+    "common_mistakes": "จุดที่คนไทยมักพลาดที่สุดคือการสลับใช้ระหว่าง -ed และ -ing ซึ่งทำให้ความหมายเปลี่ยนไปอย่างสิ้นเชิง\n\n*   **พลาด:** พูดว่า \"I am boring.\" เพื่อจะบอกว่า \"ฉันเบื่อ\"\n    *   **ที่ถูกต้อง:** ต้องพูดว่า \"I am **bored**.\"\n    *   **คำอธิบาย:** ถ้าคุณพูดว่า \"I am boring.\" จะแปลว่า \"ฉันเป็นคนน่าเบื่อ\" (I have a boring personality.) ซึ่งไม่ใช่ความหมายที่คุณต้องการจะสื่อ แต่ถ้าพูดว่า \"I am bored.\" จะแปลว่า \"ฉันรู้สึกเบื่อ\" (I feel bored right now.)\n\n*   **พลาด:** ใช้อธิบายสิ่งของด้วย -ed เช่น \"The movie was very interested.\"\n    *   **ที่ถูกต้อง:** ต้องพูดว่า \"The movie was very **interesting**.\"\n    *   **คำอธิบาย:** หนัง (สิ่งของ) ไม่สามารถ 'รู้สึก' สนใจได้ด้วยตัวเอง แต่มันมีลักษณะที่ 'น่า' สนใจ ทำให้คนดูรู้สึกสนใจ",
+    "practice_questions": [
+      {
+        "question": "The book was so ______ that I couldn't put it down.",
+        "options": [
+          "A. interesting",
+          "B. interested",
+          "C. interest",
+          "D. interestingly"
+        ],
+        "answer": "A",
+        "explanation": "คำถามนี้อธิบายลักษณะของหนังสือ (The book) ว่ามัน 'น่าสนใจ' ดังนั้นจึงต้องใช้ Adjective ที่ลงท้ายด้วย -ing คือ interesting"
+      },
+      {
+        "question": "I was very ______ when I heard the news about his accident.",
+        "options": [
+          "A. shocking",
+          "B. shocked",
+          "C. shock",
+          "D. shocker"
+        ],
+        "answer": "B",
+        "explanation": "ประธานคือ 'I' (ฉัน) ซึ่งเป็นผู้ 'รู้สึก' ตกใจกับข่าว ดังนั้นจึงต้องใช้ Adjective ที่ลงท้ายด้วย -ed คือ shocked"
+      },
+      {
+        "question": "My new job is extremely ______. I have to work 12 hours a day.",
+        "options": [
+          "A. tired",
+          "B. tire",
+          "C. tiring",
+          "D. tiredness"
+        ],
+        "answer": "C",
+        "explanation": "ประโยคนี้กำลังอธิบายลักษณะของงานใหม่ (My new job) ว่ามัน 'น่าเหนื่อย' ซึ่งเป็นสาเหตุที่ทำให้คนทำรู้สึกเหนื่อย จึงต้องใช้ tiring"
+      },
+      {
+        "question": "Are you ______ in applying for the new position?",
+        "options": [
+          "A. interesting",
+          "B. interested",
+          "C. interest",
+          "D. interestingly"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้ถามถึงความรู้สึกของ 'you' (คุณ) ว่า 'รู้สึกสนใจ' ที่จะสมัครตำแหน่งใหม่หรือไม่ จึงต้องใช้ interested"
+      },
+      {
+        "question": "The instructions were very ______. I couldn't understand them at all.",
+        "options": [
+          "A. confusing",
+          "B. confused",
+          "C. confuse",
+          "D. confusion"
+        ],
+        "answer": "A",
+        "explanation": "คำถามกำลังอธิบายลักษณะของคำแนะนำ (The instructions) ว่ามัน 'น่าสับสน' ทำให้คนอ่านรู้สึกสับสน ดังนั้นจึงใช้ confusing"
+      },
+      {
+        "question": "He was ______ to see his old friend after so many years.",
+        "options": [
+          "A. surprising",
+          "B. surprised",
+          "C. surprise",
+          "D. surprisingly"
+        ],
+        "answer": "B",
+        "explanation": "ประธานคือ 'He' (เขา) เป็นผู้ 'รู้สึก' ประหลาดใจที่ได้เจอเพื่อนเก่า ดังนั้นต้องใช้ Adjective ที่ลงท้ายด้วย -ed คือ surprised"
+      },
+      {
+        "question": "A long, hot bath is one of the most ______ things you can do after a hard day's work.",
+        "options": [
+          "A. relaxed",
+          "B. relaxing",
+          "C. relax",
+          "D. relaxation"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้อธิบายลักษณะของการอาบน้ำอุ่น (a long, hot bath) ว่าเป็นสิ่งที่ 'น่าผ่อนคลาย' จึงต้องใช้ relaxing"
+      },
+      {
+        "question": "She was ______ with the loud music her neighbors were playing.",
+        "options": [
+          "A. annoying",
+          "B. annoyed",
+          "C. annoy",
+          "D. annoyance"
+        ],
+        "answer": "B",
+        "explanation": "ประธาน 'She' (เธอ) เป็นผู้ 'รู้สึก' รำคาญกับเสียงเพลงที่ดัง ดังนั้นจึงใช้ Adjective ที่ลงท้ายด้วย -ed คือ annoyed"
+      },
+      {
+        "question": "The view from the top of the mountain was absolutely ______.",
+        "options": [
+          "A. amazed",
+          "B. amazing",
+          "C. amaze",
+          "D. amazement"
+        ],
+        "answer": "B",
+        "explanation": "ประโยคนี้กำลังอธิบายลักษณะของวิว (The view) ว่ามัน 'น่าทึ่ง' หรือ 'น่าอัศจรรย์' ดังนั้นจึงใช้ Adjective ที่ลงท้ายด้วย -ing คือ amazing"
+      },
+      {
+        "question": "I get so ______ when people talk on their phone loudly in the cinema.",
+        "options": [
+          "A. irritating",
+          "B. irritate",
+          "C. irritation",
+          "D. irritated"
+        ],
+        "answer": "D",
+        "explanation": "ประธานคือ 'I' (ฉัน) ซึ่งเป็นผู้ 'รู้สึก' หงุดหงิด/รำคาญใจกับการกระทำของคนอื่น ดังนั้นต้องใช้ Adjective ที่ลงท้ายด้วย -ed คือ irritated"
+      }
+    ]
+  },
+  {
+    "id": "7_4",
+    "title": "7.4 Summary: Adjectives (สรุปคำคุณศัพท์ + 50 Exercises)",
+    "explanation": "สรุปแก่นสำคัญของ Adjectives (คำคุณศัพท์):\n1.  **หน้าที่หลัก**: ขยายคำนาม (noun) หรือคำสรรพนาม (pronoun) เพื่อบอกให้รู้ว่าคน สัตว์ สิ่งของ หรือสถานที่นั้นๆ มีลักษณะเป็นอย่างไร เช่น สี, ขนาด, รูปร่าง, คุณภาพ, ความรู้สึก\n2.  **ตำแหน่งในประโยค**:\n    *   **หน้าคำนาม (Before a Noun)**: วางไว้ข้างหน้าคำนามที่มันขยายโดยตรง เช่น a *beautiful* flower, an *old* man.\n    *   **หลัง Linking Verb (After a Linking Verb)**: วางไว้หลังกริยาเชื่อม (เช่น is, am, are, feel, look, seem, become) เพื่ออธิบายประธานของประโยค เช่น The flower is *beautiful*. He looks *tired*.\n3.  **Adjectives ไม่มีรูปพหูพจน์**: คำคุณศัพท์จะไม่มีการเติม -s หรือ -es แม้ว่าคำนามที่ขยายจะเป็นพหูพจน์ก็ตาม เช่น *two red cars* (ไม่ใช่ two reds cars)\n4.  **ลำดับของ Adjectives (Order of Adjectives)**: หากมี Adjective หลายคำขยายคำนามตัวเดียวกัน ให้เรียงตามลำดับที่นิยมใช้กัน (OSASCOMP):\n    *   **O**pinion (ความเห็น) -> **S**ize (ขนาด) -> **A**ge (อายุ) -> **S**hape (รูปร่าง) -> **C**olor (สี) -> **O**rigin (เชื้อชาติ/แหล่งกำเนิด) -> **M**aterial (วัสดุ) -> **P**urpose (จุดประสงค์)\n    *   ตัวอย่าง: a *beautiful small new round red Italian leather* handbag.\n5.  **Adjectives ที่ลงท้ายด้วย -ed และ -ing**:\n    *   **-ed**: ใช้อธิบายความรู้สึกของคนหรือสัตว์ (รู้สึก...) เช่น I am *bored*. (ฉันรู้สึกเบื่อ)\n    *   **-ing**: ใช้อธิบายลักษณะของบางสิ่งบางอย่างที่ \"น่า...\" หรือทำให้เกิดความรู้สึกนั้นๆ เช่น The movie is *boring*. (หนังมันน่าเบื่อ)",
+    "examples": [
+      {
+        "eng": "She drives a fast car.",
+        "thai": "เธอขับรถยนต์ที่เร็ว (fast เป็น Adjective ขยาย car วางอยู่หน้าคำนาม)"
+      },
+      {
+        "eng": "This soup tastes delicious.",
+        "thai": "ซุปนี้รสชาติอร่อย (delicious เป็น Adjective ขยาย soup วางอยู่หลัง Linking Verb 'tastes')"
+      },
+      {
+        "eng": "I bought three beautiful red roses.",
+        "thai": "ฉันซื้อดอกกุหลาบสีแดงที่สวยงาม 3 ดอก (beautiful เป็น Adjective ไม่ต้องเติม -s แม้ roses เป็นพหูพจน์)"
+      },
+      {
+        "eng": "He is interested in history.",
+        "thai": "เขารู้สึกสนใจในประวัติศาสตร์ (-ed บอกความรู้สึก)"
+      },
+      {
+        "eng": "The book is very interesting.",
+        "thai": "หนังสือเล่มนี้น่าสนใจมาก (-ing บอกลักษณะของหนังสือ)"
+      }
+    ],
+    "common_mistakes": "- **ทำให้ Adjective เป็นพหูพจน์**: คนไทยมักติดเติม -s เมื่อขยายคำนามพหูพจน์\n  *  ผิด: I saw three *beautifuls* women.\n  *  ถูก: I saw three *beautiful* women.\n- **วาง Adjective ผิดตำแหน่ง**: โดยเฉพาะการวางไว้หลังคำนามเหมือนภาษาไทย\n  *  ผิด: I have a car *red*.\n  *  ถูก: I have a *red* car.\n- **ใช้ Adverb แทน Adjective หลัง Linking Verb**: สับสนระหว่าง Adjective (ขยายคำนาม) กับ Adverb (ขยายกริยา)\n  *  ผิด: She looks *beautifully*.\n  *  ถูก: She looks *beautiful*. (หลัง look ที่เป็น Linking Verb ต้องใช้ Adjective)\n- **สับสนระหว่าง -ed และ -ing**: ใช้ผิดความหมาย ทำให้สื่อสารผิดพลาด\n  *  \"I am *boring*.\" หมายถึง \"ฉันเป็นคนน่าเบื่อ\"\n  *  \"I am *bored*.\" หมายถึง \"ฉันรู้สึกเบื่อ\"",
+    "practice_questions": [
+      {
+        "question": "She has a _____ dress.",
+        "options": [
+          "A. beauty",
+          "B. beautiful",
+          "C. beautifully",
+          "D. beautify"
+        ],
+        "answer": "B",
+        "explanation": "ต้องใช้ Adjective (beautiful) เพื่อขยายคำนาม (dress)"
+      },
+      {
+        "question": "The sky is _____ today.",
+        "options": [
+          "A. clear",
+          "B. clearly",
+          "C. clearness",
+          "D. clears"
+        ],
+        "answer": "A",
+        "explanation": "หลัง Linking Verb (is) ต้องใช้ Adjective (clear) เพื่ออธิบายประธาน (The sky)"
+      },
+      {
+        "question": "I have two _____ cats.",
+        "options": [
+          "A. black",
+          "B. blacks",
+          "C. blacken",
+          "D. blackness"
+        ],
+        "answer": "A",
+        "explanation": "Adjective (black) ไม่มีรูปพหูพจน์ แม้จะขยายคำนามพหูพจน์ (cats) ก็ตาม"
+      },
+      {
+        "question": "He is a very _____ person.",
+        "options": [
+          "A. kind",
+          "B. kindly",
+          "C. kindness",
+          "D. kinds"
+        ],
+        "answer": "A",
+        "explanation": "ต้องใช้ Adjective (kind) เพื่อขยายคำนาม (person)"
+      },
+      {
+        "question": "This coffee tastes _____.",
+        "options": [
+          "A. strong",
+          "B. strongly",
+          "C. strength",
+          "D. strengthen"
+        ],
+        "answer": "A",
+        "explanation": "หลัง Linking Verb (tastes) ต้องใช้ Adjective (strong)"
+      },
+      {
+        "question": "Be _____ when you cross the street.",
+        "options": [
+          "A. care",
+          "B. careful",
+          "C. carefully",
+          "D. careless"
+        ],
+        "answer": "B",
+        "explanation": "หลัง 'be' (Verb to be) ต้องใช้ Adjective (careful) เพื่อบอกลักษณะ"
+      },
+      {
+        "question": "Which sentence is correct?",
+        "options": [
+          "A. She bought a house new.",
+          "B. She a new house bought.",
+          "C. She bought a new house.",
+          "D. She bought a house is new."
+        ],
+        "answer": "C",
+        "explanation": "Adjective (new) ต้องวางไว้หน้าคำนาม (house) ที่มันขยาย"
+      },
+      {
+        "question": "The music is too _____.",
+        "options": [
+          "A. loudly",
+          "B. loud",
+          "C. loudness",
+          "D. louder"
+        ],
+        "answer": "B",
+        "explanation": "หลัง Verb to be (is) ต้องใช้ Adjective (loud) เพื่ออธิบายประธาน (The music)"
+      },
+      {
+        "question": "It's a _____ day to go to the beach.",
+        "options": [
+          "A. perfectly",
+          "B. perfection",
+          "C. perfect",
+          "D. perfecting"
+        ],
+        "answer": "C",
+        "explanation": "ต้องใช้ Adjective (perfect) เพื่อขยายคำนาม (day)"
+      },
+      {
+        "question": "The children are _____.",
+        "options": [
+          "A. happy",
+          "B. happily",
+          "C. happiness",
+          "D. happies"
+        ],
+        "answer": "A",
+        "explanation": "หลัง Linking Verb (are) ต้องใช้ Adjective (happy) เพื่ออธิบายประธาน (The children)"
+      },
+      {
+        "question": "She sings _____.",
+        "options": [
+          "A. beautiful",
+          "B. beautifully",
+          "C. beauty",
+          "D. more beautiful"
+        ],
+        "answer": "B",
+        "explanation": "ต้องใช้ Adverb (beautifully) เพื่อขยายกริยา (sings) ไม่ใช่ Adjective"
+      },
+      {
+        "question": "He drives his car _____.",
+        "options": [
+          "A. careful",
+          "B. carefully",
+          "C. care",
+          "D. more careful"
+        ],
+        "answer": "B",
+        "explanation": "ต้องใช้ Adverb (carefully) เพื่อขยายกริยา (drives)"
+      },
+      {
+        "question": "The test was _____, but I passed.",
+        "options": [
+          "A. difficult",
+          "B. difficultly",
+          "C. difficulty",
+          "D. more difficult"
+        ],
+        "answer": "A",
+        "explanation": "หลัง Verb to be (was) ต้องใช้ Adjective (difficult)"
+      },
+      {
+        "question": "Please speak more _____.",
+        "options": [
+          "A. slow",
+          "B. slowly",
+          "C. slowness",
+          "D. slower"
+        ],
+        "answer": "B",
+        "explanation": "ต้องใช้ Adverb (slowly) เพื่อขยายกริยา (speak)"
+      },
+      {
+        "question": "The sun is shining _____.",
+        "options": [
+          "A. bright",
+          "B. brightly",
+          "C. brightness",
+          "D. more bright"
+        ],
+        "answer": "B",
+        "explanation": "ต้องใช้ Adverb (brightly) เพื่อขยายกริยา (is shining)"
+      },
+      {
+        "question": "My father is a _____ driver.",
+        "options": [
+          "A. safe",
+          "B. safely",
+          "C. safety",
+          "D. saves"
+        ],
+        "answer": "A",
+        "explanation": "ต้องใช้ Adjective (safe) เพื่อขยายคำนาม (driver)"
+      },
+      {
+        "question": "She feels _____ about the exam results.",
+        "options": [
+          "A. bad",
+          "B. badly",
+          "C. worse",
+          "D. worst"
+        ],
+        "answer": "A",
+        "explanation": "หลัง Linking Verb (feels) ต้องใช้ Adjective (bad)"
+      },
+      {
+        "question": "He completed the project _____.",
+        "options": [
+          "A. successful",
+          "B. successfully",
+          "C. success",
+          "D. succeed"
+        ],
+        "answer": "B",
+        "explanation": "ต้องใช้ Adverb (successfully) เพื่อขยายกริยา (completed)"
+      },
+      {
+        "question": "The soup smells _____.",
+        "options": [
+          "A. good",
+          "B. well",
+          "C. better",
+          "D. best"
+        ],
+        "answer": "A",
+        "explanation": "หลัง Linking Verb (smells) ต้องใช้ Adjective (good). 'Well' เป็น Adverb ในกรณีส่วนใหญ่"
+      },
+      {
+        "question": "It's an _____ easy question.",
+        "options": [
+          "A. extreme",
+          "B. extremely",
+          "C. extremity",
+          "D. extremes"
+        ],
+        "answer": "B",
+        "explanation": "ต้องใช้ Adverb (extremely) เพื่อขยาย Adjective (easy)"
+      },
+      {
+        "question": "She owns a _____ sports car.",
+        "options": [
+          "A. red beautiful new",
+          "B. new beautiful red",
+          "C. beautiful new red",
+          "D. red new beautiful"
+        ],
+        "answer": "C",
+        "explanation": "เรียงลำดับ Adjectives: Opinion (beautiful) -> Age (new) -> Color (red)"
+      },
+      {
+        "question": "He sat on a _____ chair.",
+        "options": [
+          "A. wooden comfortable old",
+          "B. comfortable old wooden",
+          "C. old wooden comfortable",
+          "D. wooden old comfortable"
+        ],
+        "answer": "B",
+        "explanation": "เรียงลำดับ Adjectives: Opinion (comfortable) -> Age (old) -> Material (wooden)"
+      },
+      {
+        "question": "I saw a _____ kitten in the garden.",
+        "options": [
+          "A. small black cute",
+          "B. cute small black",
+          "C. black cute small",
+          "D. small cute black"
+        ],
+        "answer": "B",
+        "explanation": "เรียงลำดับ Adjectives: Opinion (cute) -> Size (small) -> Color (black)"
+      },
+      {
+        "question": "They live in a _____ house.",
+        "options": [
+          "A. old large brick",
+          "B. brick large old",
+          "C. large old brick",
+          "D. large brick old"
+        ],
+        "answer": "C",
+        "explanation": "เรียงลำดับ Adjectives: Size (large) -> Age (old) -> Material (brick)"
+      },
+      {
+        "question": "She wore a _____ dress to the party.",
+        "options": [
+          "A. silk long elegant",
+          "B. long elegant silk",
+          "C. elegant long silk",
+          "D. silk elegant long"
+        ],
+        "answer": "C",
+        "explanation": "เรียงลำดับ Adjectives: Opinion (elegant) -> Size (long) -> Material (silk)"
+      },
+      {
+        "question": "He bought a _____ table.",
+        "options": [
+          "A. French antique round",
+          "B. antique round French",
+          "C. round French antique",
+          "D. round antique French"
+        ],
+        "answer": "B",
+        "explanation": "เรียงลำดับ Adjectives: Age (antique) -> Shape (round) -> Origin (French)"
+      },
+      {
+        "question": "That's a _____ painting.",
+        "options": [
+          "A. Dutch wonderful old",
+          "B. wonderful old Dutch",
+          "C. old Dutch wonderful",
+          "D. Dutch old wonderful"
+        ],
+        "answer": "B",
+        "explanation": "เรียงลำดับ Adjectives: Opinion (wonderful) -> Age (old) -> Origin (Dutch)"
+      },
+      {
+        "question": "We need a _____ coffee table.",
+        "options": [
+          "A. new square wooden",
+          "B. square wooden new",
+          "C. wooden new square",
+          "D. new wooden square"
+        ],
+        "answer": "A",
+        "explanation": "เรียงลำดับ Adjectives: Age (new) -> Shape (square) -> Material (wooden)"
+      },
+      {
+        "question": "She has _____ eyes.",
+        "options": [
+          "A. blue beautiful big",
+          "B. big blue beautiful",
+          "C. beautiful big blue",
+          "D. blue big beautiful"
+        ],
+        "answer": "C",
+        "explanation": "เรียงลำดับ Adjectives: Opinion (beautiful) -> Size (big) -> Color (blue)"
+      },
+      {
+        "question": "My grandmother gave me a _____ box.",
+        "options": [
+          "A. jewelry small metal",
+          "B. small metal jewelry",
+          "C. small jewelry metal",
+          "D. jewelry metal small"
+        ],
+        "answer": "B",
+        "explanation": "เรียงลำดับ Adjectives: Size (small) -> Material (metal) -> Purpose (jewelry)"
+      },
+      {
+        "question": "I am so _____ because the movie was so _____.",
+        "options": [
+          "A. boring, bored",
+          "B. bored, boring",
+          "C. boring, boring",
+          "D. bored, bored"
+        ],
+        "answer": "B",
+        "explanation": "I am so bored (รู้สึกเบื่อ) เพราะ a movie was so boring (หนังมันน่าเบื่อ)"
+      },
+      {
+        "question": "The news was _____.",
+        "options": [
+          "A. shocked",
+          "B. shocking",
+          "C. shock",
+          "D. shockingly"
+        ],
+        "answer": "B",
+        "explanation": "The news (ข่าว) เป็นสิ่งที่ 'น่า' ตกใจ จึงใช้ shocking"
+      },
+      {
+        "question": "He was _____ to see his old friend.",
+        "options": [
+          "A. surprised",
+          "B. surprising",
+          "C. surprise",
+          "D. surprisingly"
+        ],
+        "answer": "A",
+        "explanation": "He (เขา) 'รู้สึก' ประหลาดใจ จึงใช้ surprised"
+      },
+      {
+        "question": "This is a very _____ book.",
+        "options": [
+          "A. interested",
+          "B. interesting",
+          "C. interest",
+          "D. interestingly"
+        ],
+        "answer": "B",
+        "explanation": "book (หนังสือ) เป็นสิ่งที่ 'น่า' สนใจ จึงใช้ interesting"
+      },
+      {
+        "question": "The long journey was _____.",
+        "options": [
+          "A. tired",
+          "B. tiring",
+          "C. tire",
+          "D. tirelessly"
+        ],
+        "answer": "B",
+        "explanation": "The journey (การเดินทาง) เป็นสิ่งที่ 'น่า' เหนื่อย จึงใช้ tiring"
+      },
+      {
+        "question": "I'm _____ in learning Spanish.",
+        "options": [
+          "A. interested",
+          "B. interesting",
+          "C. interest",
+          "D. interestingly"
+        ],
+        "answer": "A",
+        "explanation": "I'm (ฉัน) 'รู้สึก' สนใจ จึงใช้ interested"
+      },
+      {
+        "question": "The students are _____ about the upcoming holiday.",
+        "options": [
+          "A. excited",
+          "B. exciting",
+          "C. excitement",
+          "D. excite"
+        ],
+        "answer": "A",
+        "explanation": "The students (นักเรียน) 'รู้สึก' ตื่นเต้น จึงใช้ excited"
+      },
+      {
+        "question": "It's _____ when people talk loudly on their phones in public.",
+        "options": [
+          "A. annoyed",
+          "B. annoying",
+          "C. annoy",
+          "D. annoyance"
+        ],
+        "answer": "B",
+        "explanation": "สถานการณ์นั้น 'น่า' รำคาญ จึงใช้ annoying"
+      },
+      {
+        "question": "I was very _____ with my test score.",
+        "options": [
+          "A. disappointed",
+          "B. disappointing",
+          "C. disappoint",
+          "D. disappointment"
+        ],
+        "answer": "A",
+        "explanation": "I (ฉัน) 'รู้สึก' ผิดหวัง จึงใช้ disappointed"
+      },
+      {
+        "question": "The results of the experiment were _____.",
+        "options": [
+          "A. amazed",
+          "B. amazing",
+          "C. amazement",
+          "D. amaze"
+        ],
+        "answer": "B",
+        "explanation": "The results (ผลลัพธ์) 'น่า' ทึ่ง จึงใช้ amazing"
+      },
+      {
+        "question": "_____ book is on the table.",
+        "options": [
+          "A. You",
+          "B. Your",
+          "C. Yours",
+          "D. You're"
+        ],
+        "answer": "B",
+        "explanation": "Your เป็น Possessive Adjective ที่ต้องตามด้วยคำนาม (book)"
+      },
+      {
+        "question": "The dog wagged _____ tail.",
+        "options": [
+          "A. it's",
+          "B. its",
+          "C. it",
+          "D. itself"
+        ],
+        "answer": "B",
+        "explanation": "its เป็น Possessive Adjective แสดงความเป็นเจ้าของ (หางของมัน). It's ย่อมาจาก it is."
+      },
+      {
+        "question": "_____ apples are delicious.",
+        "options": [
+          "A. This",
+          "B. That",
+          "C. These",
+          "D. It"
+        ],
+        "answer": "C",
+        "explanation": "These เป็น Demonstrative Adjective ใช้กับคำนามพหูพจน์ที่อยู่ใกล้ (apples)"
+      },
+      {
+        "question": "Look at _____ bird in the sky.",
+        "options": [
+          "A. this",
+          "B. that",
+          "C. these",
+          "D. those"
+        ],
+        "answer": "B",
+        "explanation": "That เป็น Demonstrative Adjective ใช้กับคำนามเอกพจน์ที่อยู่ไกล (bird)"
+      },
+      {
+        "question": "She has _____ friends.",
+        "options": [
+          "A. much",
+          "B. many",
+          "C. a lot",
+          "D. more of"
+        ],
+        "answer": "B",
+        "explanation": "Many ใช้กับคำนามนับได้พหูพจน์ (friends)"
+      },
+      {
+        "question": "There isn't _____ sugar left.",
+        "options": [
+          "A. many",
+          "B. a few",
+          "C. several",
+          "D. much"
+        ],
+        "answer": "D",
+        "explanation": "Much ใช้กับคำนามนับไม่ได้ (sugar) ในประโยคปฏิเสธ"
+      },
+      {
+        "question": "The ____ boy won the race.",
+        "options": [
+          "A. quick",
+          "B. quickly",
+          "C. quickness",
+          "D. more quick"
+        ],
+        "answer": "A",
+        "explanation": "ต้องใช้ Adjective (quick) เพื่อขยายคำนาม (boy)"
+      },
+      {
+        "question": "His performance was _____. Everyone was impressed.",
+        "options": [
+          "A. remarkable",
+          "B. remarkably",
+          "C. remark",
+          "D. remarked"
+        ],
+        "answer": "A",
+        "explanation": "หลัง Verb to be (was) ต้องใช้ Adjective (remarkable) เพื่ออธิบายประธาน (His performance)"
+      },
+      {
+        "question": "This puzzle is _____ to solve.",
+        "options": [
+          "A. impossible",
+          "B. impossibly",
+          "C. impossibility",
+          "D. impossibleness"
+        ],
+        "answer": "A",
+        "explanation": "หลัง Verb to be (is) ต้องใช้ Adjective (impossible)"
+      },
+      {
+        "question": "They bought five _____ tickets.",
+        "options": [
+          "A. expensives",
+          "B. expensive",
+          "C. expensively",
+          "D. expense"
+        ],
+        "answer": "B",
+        "explanation": "Adjective (expensive) ไม่มีรูปพหูพจน์"
+      }
+    ]
+  }
+]

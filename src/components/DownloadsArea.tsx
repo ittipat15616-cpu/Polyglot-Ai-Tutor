@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Download, ChevronLeft, Image as ImageIcon, ExternalLink, ChevronDown, ChevronUp } from 'lucide-react';
+import { getFirebaseStorageUrl } from '../utils/firebaseStorage';
 
 interface DownloadsAreaProps {
   onBack?: () => void;
@@ -95,13 +96,13 @@ export default function DownloadsArea({ onBack }: DownloadsAreaProps) {
                           {sets[setId].map(item => (
                             <a 
                               key={item.filename}
-                              href={`/downloads/${level}/${item.filename}`}
+                              href={getFirebaseStorageUrl(`downloads/${level}/${item.filename}`)}
                               target="_blank"
                               rel="noreferrer"
                               className="group relative aspect-[3/4] bg-white rounded-xl shadow-sm overflow-hidden hover:shadow-md transition-all border border-gray-200"
                             >
                               <img 
-                                src={`/downloads/${level}/${item.filename}`} 
+                                src={getFirebaseStorageUrl(`downloads/${level}/${item.filename}`)} 
                                 alt={`Page ${item.page}`}
                                 className="w-full h-full object-cover"
                                 loading="lazy"
