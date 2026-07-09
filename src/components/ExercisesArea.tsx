@@ -871,7 +871,7 @@ export default function ExercisesArea({ activeLang, onAskPDF }: ExercisesAreaPro
               </button>
             </div>
             <div className="flex-1 w-full overflow-hidden bg-gray-100 relative">
-              <DocumentGallery type="courseware" folder={`en_speaking_conv/Lesson${selectedSpeakingLesson}`} prefix="" enableAnnotation={true} />
+              <DocumentGallery type="root" folder="en_speaking_conv" prefix={`Lesson${selectedSpeakingLesson}.jpg`} enableAnnotation={true} />
             </div>
           </div>
         );
@@ -896,7 +896,7 @@ export default function ExercisesArea({ activeLang, onAskPDF }: ExercisesAreaPro
                 </div>
               </div>
               <div className="flex-1 w-full overflow-hidden bg-gray-100 relative">
-                <DocumentGallery type="courseware" folder={`en_speaking_conv/Lesson${selectedSpeakingLesson}`} prefix="" enableAnnotation={true} />
+                <DocumentGallery type="root" folder="en_speaking_conv" prefix={`Lesson${selectedSpeakingLesson}.jpg`} enableAnnotation={true} />
               </div>
             </div>
           </div>
@@ -1059,7 +1059,7 @@ export default function ExercisesArea({ activeLang, onAskPDF }: ExercisesAreaPro
             </button>
           </div>
           <div className="flex-1 w-full overflow-hidden bg-gray-100 relative">
-             <DocumentGallery type="courseware" folder={`en_writing/EN_Writing_Lesson_${selectedWritingLesson}`} prefix="" enableAnnotation={true} />
+             <DocumentGallery type="root" folder="en_writing" prefix={`EN_Writing_Lesson_${selectedWritingLesson}.jpg`} enableAnnotation={true} />
           </div>
         </div>
       );
@@ -1084,7 +1084,7 @@ export default function ExercisesArea({ activeLang, onAskPDF }: ExercisesAreaPro
               </div>
             </div>
             <div className="flex-1 w-full overflow-hidden bg-gray-100 relative">
-               <DocumentGallery type="courseware" folder={`en_writing/EN_Writing_Lesson_${selectedWritingLesson}`} prefix="" enableAnnotation={true} />
+               <DocumentGallery type="root" folder="en_writing" prefix={`EN_Writing_Lesson_${selectedWritingLesson}.jpg`} enableAnnotation={true} />
             </div>
           </div>
         </div>

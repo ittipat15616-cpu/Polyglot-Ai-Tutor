@@ -5,7 +5,7 @@ import AnnotatableImage from './AnnotatableImage';
 import { getFirebaseStorageUrl } from '../utils/firebaseStorage';
 
 interface DocumentGalleryProps {
-  type: 'hsk' | 'courseware';
+  type: 'hsk' | 'courseware' | 'root';
   folder: string;
   prefix: string;
   hideLastNPages?: number;
@@ -36,8 +36,12 @@ export default function DocumentGallery({
     setLoading(true);
     
     // Determine the base path key in the manifest
-    const basePath = type === 'hsk' ? 'HSK_Images' : 'Courseware_Images';
-    const manifestKey = `${basePath}/${folder}`;
+    let basePath = '';
+    if (type === 'hsk') basePath = 'HSK_Images';
+    else if (type === 'courseware') basePath = 'Courseware_Images';
+    // If type is 'root' (or any other), basePath remains empty
+    
+    const manifestKey = basePath ? `${basePath}/${folder}` : folder;
     
     // Assert manifest as a Record of string arrays
     const manifest = manifestData as Record<string, string[]>;
