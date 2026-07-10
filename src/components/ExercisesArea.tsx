@@ -43,6 +43,7 @@ export default function ExercisesArea({ activeLang, onAskPDF }: ExercisesAreaPro
   // EN Writing & Speaking states
   const [selectedWritingLevel, setSelectedWritingLevel] = useState<'easy'|'medium'|'hard'|null>(null);
   const [selectedWritingLesson, setSelectedWritingLesson] = useState<number | null>(null);
+    const [showBlankWriting, setShowBlankWriting] = useState<boolean>(true);
   const [selectedSpeakingCategory, setSelectedSpeakingCategory] = useState<'conv' | 'ielts' | null>(null);
   const [selectedSpeakingLesson, setSelectedSpeakingLesson] = useState<number | null>(null);
 
@@ -1072,8 +1073,11 @@ export default function ExercisesArea({ activeLang, onAskPDF }: ExercisesAreaPro
         </button>
         <div className="animate-in fade-in duration-300">
           <div className="bg-white rounded-3xl border border-gray-100 shadow-sm overflow-hidden flex flex-col" style={{ height: '85vh' }}>
-            <div className="p-6 md:p-8 border-b border-gray-100 bg-gradient-to-b from-amber-50/50 to-white shrink-0 flex items-center justify-between">
-              <h1 className="text-2xl font-bold text-gray-900 leading-tight">Writing Lesson {selectedWritingLesson}</h1>
+            <div className="p-6 md:p-8 border-b border-gray-100 bg-gradient-to-b from-amber-50/50 to-white shrink-0 flex flex-col sm:flex-row sm:items-center justify-between gap-4">
+                <div className="flex flex-col sm:flex-row sm:items-center gap-4">
+                  <h1 className="text-2xl font-bold text-gray-900 leading-tight">Writing Lesson {selectedWritingLesson}</h1>
+                  
+                </div>
               <div className="flex gap-2">
                 <a href={pdfUrl} download target="_blank" rel="noreferrer" className="flex items-center justify-center gap-2 text-sm bg-green-50 text-green-600 hover:bg-green-100 px-4 py-3 rounded-xl font-bold transition-colors shadow-sm border border-green-100 hover:scale-105">
                   <Download size={16} /> โหลด PDF
@@ -1222,56 +1226,49 @@ export default function ExercisesArea({ activeLang, onAskPDF }: ExercisesAreaPro
     }
 
     const article = selectedListeningArticle;
-    const imgUrl = `/listening/${article.levelKey}/Lesson${article.lessonNum}.jpg`;
+    const folderName = `listening/${article.levelKey}/Lesson${article.lessonNum}`;
 
     if (isFullscreen) {
       return (
         <div className="fixed inset-0 z-50 bg-gray-50 flex flex-col">
-          {/* Floating Toolbar */}
-          <div className="absolute top-4 right-4 md:top-6 md:right-8 z-[60] flex items-center gap-3">
-            <a 
-              href={imgUrl}
-              download={`Listening_Lesson_${article.lessonNum}.jpg`}
-              target="_blank"
-              rel="noreferrer"
-              title="ดาวน์โหลด PDF/Image"
-              className="w-12 h-12 bg-white rounded-full shadow-lg flex items-center justify-center text-gray-500 hover:text-green-600 hover:bg-green-50 transition-colors border border-gray-200"
-            >
+          <div className="absolute top-28 right-6 z-[60] flex flex-col items-center gap-3">
+            <a href={getFirebaseStorageUrl(`courseware/${folderName}/page.jpg`)} download target="_blank" rel="noreferrer" title="Download Image"
+              className="w-12 h-12 bg-white rounded-full shadow-lg flex items-center justify-center text-gray-500 hover:text-green-600 hover:bg-green-50 transition-colors border border-gray-200">
               <Download size={22} />
             </a>
-            <button 
-              onClick={() => setIsFullscreen(false)}
-              className="w-12 h-12 bg-white rounded-full shadow-lg flex items-center justify-center text-gray-500 hover:text-red-500 hover:bg-red-50 transition-colors border border-gray-200"
-            >
-              <X size={24} />
+            <button onClick={() => setIsFullscreen(false)} title="Close Fullscreen"
+              className="w-12 h-12 bg-white rounded-full shadow-lg flex items-center justify-center text-gray-500 hover:text-red-600 hover:bg-red-50 transition-colors border border-gray-200">
+               <X size={24} />
             </button>
           </div>
-          
-          <div className="absolute top-4 left-4 md:top-6 md:left-8 z-[70] pointer-events-auto">
-             {article.audioUrl && (
-                <div className="bg-white/95 backdrop-blur p-2 rounded-2xl shadow-xl border border-gray-200 flex items-center gap-4">
-                  <div className="w-10 h-10 bg-blue-100 text-blue-600 rounded-full flex items-center justify-center">
+          <div className="flex-1 w-full overflow-hidden relative">
+            <DocumentGallery type="courseware" folder={folderName} prefix="page" enableAnnotation={true} prependNode={article.audioUrl ? (
+              <div className="bg-white p-3 rounded-2xl border border-gray-200 shadow-sm flex items-center gap-4 flex-1 mb-4 mx-4 mt-4">
+                 <div className="w-10 h-10 bg-blue-100 text-blue-600 rounded-full flex items-center justify-center shrink-0">
                     <Headphones size={20} />
-                  </div>
-                  <audio controls src={article.audioUrl} className="h-10 outline-none" />
-                </div>
-             )}
-          </div>
-
-          <div className="absolute top-20 left-0 w-full z-[40] pointer-events-none flex justify-center">
-            <div className="pointer-events-auto bg-white/90 backdrop-blur shadow-md rounded-xl">
-              <AnnotationToolbar state={annotationState} onChange={setAnnotationState} onClear={() => setClearTrigger(c => c+1)} />
-            </div>
-          </div>
-          
-          <div className="flex-1 w-full overflow-y-auto custom-scrollbar pt-32 pb-10">
-            <div className="max-w-4xl w-full mx-auto bg-white shadow-2xl rounded-xl overflow-hidden min-h-screen">
-              <AnnotatableImage src={imgUrl} alt={`Listening Lesson ${article.lessonNum}`} annotationState={annotationState} clearTrigger={clearTrigger} isActive={true} className="w-full h-auto block" />
-            </div>
+                 </div>
+                 <div className="flex-1 min-w-0">
+                    <p className="text-sm font-bold text-gray-800 mb-1">Listening Audio</p>
+                    <audio controls src={article.audioUrl} className="w-full h-10 outline-none" />
+                 </div>
+              </div>
+            ) : null} />
           </div>
         </div>
       );
     }
+
+    const audioPlayer = article.audioUrl ? (
+      <div className="bg-white p-3 rounded-2xl border border-gray-200 shadow-sm flex items-center gap-4 flex-1 mb-4 mx-4 mt-4">
+         <div className="w-10 h-10 bg-blue-100 text-blue-600 rounded-full flex items-center justify-center shrink-0">
+            <Headphones size={20} />
+         </div>
+         <div className="flex-1 min-w-0">
+            <p className="text-sm font-bold text-gray-800 mb-1">Listening Audio</p>
+            <audio controls src={article.audioUrl} className="w-full h-10 outline-none" />
+         </div>
+      </div>
+    ) : null;
 
     return (
       <div className="flex flex-col h-full w-full max-w-4xl mx-auto pb-10">
@@ -1280,44 +1277,19 @@ export default function ExercisesArea({ activeLang, onAskPDF }: ExercisesAreaPro
         </button>
         <div className="animate-in fade-in duration-300">
           <div className="bg-white rounded-3xl border border-gray-100 shadow-sm overflow-hidden flex flex-col" style={{ height: '85vh' }}>
-            <div className="p-6 md:p-8 border-b border-gray-100 bg-gradient-to-b from-blue-50/50 to-white shrink-0">
-              <h1 className="text-2xl font-bold text-gray-900 leading-tight mb-4">{article.title}</h1>
-              
-              <div className="flex flex-col sm:flex-row gap-4 items-start sm:items-center justify-between">
-                {article.audioUrl ? (
-                  <div className="bg-white p-3 rounded-2xl border border-gray-200 shadow-sm flex items-center gap-4 flex-1">
-                     <div className="w-10 h-10 bg-blue-100 text-blue-600 rounded-full flex items-center justify-center shrink-0">
-                        <Headphones size={20} />
-                     </div>
-                     <div className="flex-1 min-w-0">
-                        <p className="text-sm font-bold text-gray-800 mb-1">ฝึกฟังเสียงอ่าน</p>
-                        <audio controls src={article.audioUrl} className="w-full h-10 outline-none" />
-                     </div>
-                  </div>
-                ) : <div className="flex-1" />}
-                
-                <div className="flex shrink-0 w-full sm:w-auto">
-                   <button 
-                     onClick={() => setIsFullscreen(true)}
-                     className="flex items-center justify-center gap-2 text-sm bg-indigo-50 text-indigo-600 hover:bg-indigo-100 px-6 py-4 sm:py-3 rounded-xl font-bold transition-colors w-full shadow-sm border border-indigo-100 hover:scale-105"
-                   >
-                     ดูแบบเต็มจอ
-                   </button>
-                </div>
+            <div className="p-6 md:p-8 border-b border-gray-100 bg-gradient-to-b from-blue-50/50 to-white shrink-0 flex justify-between items-center flex-wrap gap-4">
+              <h1 className="text-2xl font-bold text-gray-900 leading-tight">{article.title}</h1>
+              <div className="flex gap-2">
+                <a href={getFirebaseStorageUrl(`courseware/${folderName}/page.jpg`)} download target="_blank" rel="noreferrer" className="flex items-center gap-2 text-sm bg-green-50 text-green-600 hover:bg-green-100 px-4 py-2 rounded-lg font-medium transition-colors">
+                  <Download size={16} /> ดาวน์โหลดไฟล์
+                </a>
+                <button onClick={() => setIsFullscreen(true)} className="flex items-center gap-2 text-sm bg-blue-50 text-blue-600 hover:bg-blue-100 px-4 py-2 rounded-lg font-medium transition-colors">
+                  ดูแบบเต็มหน้าจอ
+                </button>
               </div>
             </div>
-
-            <div className="flex-1 w-full bg-gray-100 relative overflow-hidden">
-              <div className="absolute top-4 left-0 w-full z-50 pointer-events-none flex justify-center">
-                <div className="pointer-events-auto bg-white/90 backdrop-blur shadow-md rounded-xl">
-                  <AnnotationToolbar state={annotationState} onChange={setAnnotationState} onClear={() => setClearTrigger(c => c+1)} />
-                </div>
-              </div>
-              <div className="w-full h-full overflow-y-auto p-4 pt-20 pb-20 custom-scrollbar">
-                 <div className="max-w-4xl w-full mx-auto bg-white shadow-lg rounded-xl overflow-hidden">
-                   <AnnotatableImage src={imgUrl} alt={`Listening Lesson ${article.lessonNum}`} annotationState={annotationState} clearTrigger={clearTrigger} isActive={true} className="w-full h-auto block" />
-                 </div>
-              </div>
+            <div className="flex-1 rounded-xl overflow-hidden border border-indigo-100 w-full h-full relative">
+              <DocumentGallery type="courseware" folder={folderName} prefix="page" enableAnnotation={true} prependNode={audioPlayer} />
             </div>
           </div>
         </div>
@@ -1395,57 +1367,49 @@ export default function ExercisesArea({ activeLang, onAskPDF }: ExercisesAreaPro
     }
 
     const article = selectedVOAArticle;
-    const imgUrl = `/voa/${article.levelKey}/Lesson${article.lessonNum}.jpg`;
+    const folderName = `voa/${article.levelKey}/Lesson${article.lessonNum}`;
 
     if (isFullscreen) {
       return (
         <div className="fixed inset-0 z-50 bg-gray-50 flex flex-col">
-          {/* Audio Player in Full Screen */}
-          <div className="absolute top-4 left-4 md:top-6 md:left-8 z-[70] pointer-events-auto">
-             {article.audioUrl && (
-                <div className="bg-white/95 backdrop-blur p-2 rounded-2xl shadow-xl border border-gray-200 flex items-center gap-4">
-                  <div className="w-10 h-10 bg-blue-100 text-blue-600 rounded-full flex items-center justify-center shrink-0">
-                    <Headphones size={20} />
-                  </div>
-                  <audio controls src={article.audioUrl} className="h-10 outline-none" />
-                </div>
-             )}
-          </div>
-          
           <div className="absolute top-28 right-6 z-[60] flex flex-col items-center gap-3">
-            <a 
-              href={imgUrl}
-              download
-              target="_blank"
-              rel="noreferrer"
-              title="ดาวน์โหลดรูปภาพ"
-              className="w-12 h-12 bg-white rounded-full shadow-lg flex items-center justify-center text-gray-500 hover:text-green-600 hover:bg-green-50 transition-colors border border-gray-200"
-            >
+            <a href={getFirebaseStorageUrl(`courseware/${folderName}/page.jpg`)} download target="_blank" rel="noreferrer" title="Download Image"
+              className="w-12 h-12 bg-white rounded-full shadow-lg flex items-center justify-center text-gray-500 hover:text-green-600 hover:bg-green-50 transition-colors border border-gray-200">
               <Download size={22} />
             </a>
-            <button 
-              onClick={() => setIsFullscreen(false)} 
-              title="ออกเต็มจอ"
-              className="w-12 h-12 bg-white rounded-full shadow-lg flex items-center justify-center text-gray-500 hover:text-red-600 hover:bg-red-50 transition-colors border border-gray-200"
-            >
+            <button onClick={() => setIsFullscreen(false)} title="Close Fullscreen"
+              className="w-12 h-12 bg-white rounded-full shadow-lg flex items-center justify-center text-gray-500 hover:text-red-600 hover:bg-red-50 transition-colors border border-gray-200">
                <X size={24} />
             </button>
           </div>
-          <div className="flex-1 w-full bg-gray-100 relative overflow-hidden">
-            <div className="absolute top-4 left-0 w-full z-50 pointer-events-none flex justify-center">
-              <div className="pointer-events-auto bg-white/90 backdrop-blur shadow-md rounded-xl">
-                <AnnotationToolbar state={annotationState} onChange={setAnnotationState} onClear={() => setClearTrigger(c => c+1)} />
+          <div className="flex-1 w-full overflow-hidden relative">
+            <DocumentGallery type="courseware" folder={folderName} prefix="page" enableAnnotation={true} prependNode={article.audioUrl ? (
+              <div className="bg-white p-3 rounded-2xl border border-gray-200 shadow-sm flex items-center gap-4 flex-1 mb-4 mx-4 mt-4">
+                 <div className="w-10 h-10 bg-blue-100 text-blue-600 rounded-full flex items-center justify-center shrink-0">
+                    <Headphones size={20} />
+                 </div>
+                 <div className="flex-1 min-w-0">
+                    <p className="text-sm font-bold text-gray-800 mb-1">VOA Audio</p>
+                    <audio controls src={article.audioUrl} className="w-full h-10 outline-none" />
+                 </div>
               </div>
-            </div>
-            <div className="w-full h-full overflow-y-auto p-4 pt-24 pb-24 custom-scrollbar">
-               <div className="max-w-5xl w-full mx-auto bg-white shadow-xl rounded-2xl overflow-hidden">
-                 <AnnotatableImage src={imgUrl} alt={`Lesson ${article.lessonNum}`} annotationState={annotationState} clearTrigger={clearTrigger} isActive={true} className="w-full h-auto block" />
-               </div>
-            </div>
+            ) : null} />
           </div>
         </div>
       );
     }
+
+    const audioPlayer = article.audioUrl ? (
+      <div className="bg-white p-3 rounded-2xl border border-gray-200 shadow-sm flex items-center gap-4 flex-1 mb-4 mx-4 mt-4">
+         <div className="w-10 h-10 bg-blue-100 text-blue-600 rounded-full flex items-center justify-center shrink-0">
+            <Headphones size={20} />
+         </div>
+         <div className="flex-1 min-w-0">
+            <p className="text-sm font-bold text-gray-800 mb-1">VOA Audio</p>
+            <audio controls src={article.audioUrl} className="w-full h-10 outline-none" />
+         </div>
+      </div>
+    ) : null;
 
     return (
       <div className="flex flex-col h-full w-full max-w-4xl mx-auto pb-10">
@@ -1454,44 +1418,19 @@ export default function ExercisesArea({ activeLang, onAskPDF }: ExercisesAreaPro
         </button>
         <div className="animate-in fade-in duration-300">
           <div className="bg-white rounded-3xl border border-gray-100 shadow-sm overflow-hidden flex flex-col" style={{ height: '85vh' }}>
-            <div className="p-6 md:p-8 border-b border-gray-100 bg-gradient-to-b from-blue-50/50 to-white shrink-0">
-              <h1 className="text-2xl font-bold text-gray-900 leading-tight mb-4">{article.title}</h1>
-              
-              <div className="flex flex-col sm:flex-row gap-4 items-start sm:items-center justify-between">
-                {article.audioUrl ? (
-                  <div className="bg-white p-3 rounded-2xl border border-gray-200 shadow-sm flex items-center gap-4 flex-1">
-                     <div className="w-10 h-10 bg-blue-100 text-blue-600 rounded-full flex items-center justify-center shrink-0">
-                        <Headphones size={20} />
-                     </div>
-                     <div className="flex-1 min-w-0">
-                        <p className="text-sm font-bold text-gray-800 mb-1">ฝึกฟังเสียงอ่านข่าว</p>
-                        <audio controls src={article.audioUrl} className="w-full h-10 outline-none" />
-                     </div>
-                  </div>
-                ) : <div className="flex-1" />}
-                
-                <div className="flex shrink-0 w-full sm:w-auto">
-                   <button 
-                     onClick={() => setIsFullscreen(true)}
-                     className="flex items-center justify-center gap-2 text-sm bg-indigo-50 text-indigo-600 hover:bg-indigo-100 px-6 py-4 sm:py-3 rounded-xl font-bold transition-colors w-full shadow-sm border border-indigo-100 hover:scale-105"
-                   >
-                     ดูแบบเต็มจอ
-                   </button>
-                </div>
+            <div className="p-6 md:p-8 border-b border-gray-100 bg-gradient-to-b from-blue-50/50 to-white shrink-0 flex justify-between items-center flex-wrap gap-4">
+              <h1 className="text-2xl font-bold text-gray-900 leading-tight">{article.title}</h1>
+              <div className="flex gap-2">
+                <a href={getFirebaseStorageUrl(`courseware/${folderName}/page.jpg`)} download target="_blank" rel="noreferrer" className="flex items-center gap-2 text-sm bg-green-50 text-green-600 hover:bg-green-100 px-4 py-2 rounded-lg font-medium transition-colors">
+                  <Download size={16} /> ดาวน์โหลดไฟล์
+                </a>
+                <button onClick={() => setIsFullscreen(true)} className="flex items-center gap-2 text-sm bg-blue-50 text-blue-600 hover:bg-blue-100 px-4 py-2 rounded-lg font-medium transition-colors">
+                  ดูแบบเต็มหน้าจอ
+                </button>
               </div>
             </div>
-
-            <div className="flex-1 w-full bg-gray-100 relative overflow-hidden">
-              <div className="absolute top-4 left-0 w-full z-50 pointer-events-none flex justify-center">
-                <div className="pointer-events-auto bg-white/90 backdrop-blur shadow-md rounded-xl">
-                  <AnnotationToolbar state={annotationState} onChange={setAnnotationState} onClear={() => setClearTrigger(c => c+1)} />
-                </div>
-              </div>
-              <div className="w-full h-full overflow-y-auto p-4 pt-20 pb-20 custom-scrollbar">
-                 <div className="max-w-4xl w-full mx-auto bg-white shadow-lg rounded-xl overflow-hidden">
-                   <AnnotatableImage src={imgUrl} alt={`Lesson ${article.lessonNum}`} annotationState={annotationState} clearTrigger={clearTrigger} isActive={true} className="w-full h-auto block" />
-                 </div>
-              </div>
+            <div className="flex-1 rounded-xl overflow-hidden border border-indigo-100 w-full h-full relative">
+              <DocumentGallery type="courseware" folder={folderName} prefix="page" enableAnnotation={true} prependNode={audioPlayer} />
             </div>
           </div>
         </div>
