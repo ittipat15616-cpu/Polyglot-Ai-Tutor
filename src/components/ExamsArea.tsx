@@ -1,8 +1,9 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { BookOpen, Headphones, PenTool, Mic, ChevronLeft, FileText, PlayCircle, Bot, ShieldAlert, Clock, Info, Download, ArrowRight, X } from 'lucide-react';
 import DocumentGallery from './DocumentGallery';
 import mockExams from '../data/mock_exams.json';
 import InteractiveExamViewer from './InteractiveExamViewer';
+import IeltsPracticeArea from './IeltsPracticeArea';
 
 
 const hskExamsData: Record<string, { id: string, name: string, videoId: string }[]> = {
@@ -129,6 +130,14 @@ export default function ExamsArea({ activeLang, onAskAI }: { activeLang: 'EN' | 
   const [selectedExamSet, setSelectedExamSet] = useState<string | null>(null);
   const [isFullscreen, setIsFullscreen] = useState(false);
 
+  useEffect(() => {
+    setSelectedExamType(null);
+    setSelectedCategory(null);
+    setSelectedSkill(null);
+    setSelectedExamSet(null);
+  }, [activeLang]);
+
+
   if (activeLang === 'TH') {
     return (
       <div className="flex flex-col items-center justify-center h-full min-h-[50vh]">
@@ -192,137 +201,138 @@ export default function ExamsArea({ activeLang, onAskAI }: { activeLang: 'EN' | 
       );
     }
 
-    const examsList = hskExamsData[selectedCategory] || [];
-    const examData = examsList.find(e => e.id === selectedExamSet);
-    const folderName = selectedCategory.startsWith('HSKK') ? selectedCategory.toLowerCase() : selectedCategory.replace('HSK', 'H');
-    const pdfUrl = `/hsk/${folderName}/${selectedExamSet}.pdf`;
+    if (selectedCategory.startsWith('HSK')) {
+      const examsList = hskExamsData[selectedCategory] || [];
+      const examData = examsList.find(e => e.id === selectedExamSet);
+      const folderName = selectedCategory.startsWith('HSKK') ? selectedCategory.toLowerCase() : selectedCategory.replace('HSK', 'H');
+      const pdfUrl = `/hsk/${folderName}/${selectedExamSet}.pdf`;
 
-    if (isFullscreen) {
-      return (
-        <div className="fixed inset-0 z-50 bg-gray-50 flex flex-col">
-          {/* Floating Toolbar */}
-          <div className="absolute top-28 right-6 z-[60] flex flex-col items-center gap-3">
-            {onAskAI && (
-              <button 
-                onClick={() => onAskAI?.(`ฉันกำลังทำข้อสอบ ${selectedCategory} ชุด ${selectedExamSet} ช่วยอธิบายโจทย์และสอนเพิ่มเติมหน่อได้ไหม?`)}
-                title="ถาม AI Tutor"
-                className="w-12 h-12 rounded-full shadow-lg flex items-center justify-center text-white transition-all hover:scale-110"
-                style={{ background: 'linear-gradient(135deg,#7c3aed,#5b21b6)', boxShadow: '0 4px 14px rgba(124,58,237,0.4)' }}
-              >
-                <Bot size={22} />
-              </button>
-            )}
-            <a 
-              href={pdfUrl}
-              download
-              target="_blank"
-              rel="noreferrer"
-              title="ดาวน์โหลด PDF"
-              className="w-12 h-12 bg-white rounded-full shadow-lg flex items-center justify-center text-gray-500 hover:text-green-600 hover:bg-green-50 transition-colors border border-gray-200"
-            >
-              <Download size={22} />
-            </a>
-            <button 
-              onClick={() => setIsFullscreen(false)} 
-              title="ออกเต็มจอ"
-              className="w-12 h-12 bg-white rounded-full shadow-lg flex items-center justify-center text-gray-500 hover:text-red-600 hover:bg-red-50 transition-colors border border-gray-200"
-            >
-               <X size={24} />
-            </button>
-          </div>
-          <div className="flex-1 rounded-xl overflow-hidden bg-gray-50 relative">
-            <DocumentGallery type="hsk" folder={folderName} prefix={selectedExamSet} enableAnnotation={true} />
-          </div>
-        </div>
-      );
-    }
-
-    return (
-      <div className="flex flex-col h-full w-full max-w-4xl mx-auto relative pb-24">
-        <button 
-          onClick={handleBack}
-          className="flex items-center gap-2 text-indigo-600 font-medium hover:text-indigo-700 transition-colors mb-6 self-start"
-        >
-          <ChevronLeft size={20} /> ย้อนกลับไปเลือกชุดข้อสอบ
-        </button>
-
-        <h2 className="text-2xl font-bold text-gray-900 mb-6">{selectedCategory} - {selectedExamSet}</h2>
-
-        {/* Video Embed Section */}
-        <div className="bg-white rounded-2xl shadow-sm border border-indigo-100 p-6 mb-6 flex flex-col items-center">
-          <div className="flex items-center gap-2 mb-4 self-start">
-            <PlayCircle size={24} className="text-rose-500" />
-            <h3 className="text-xl font-semibold text-gray-800">พาร์ทฟัง (Listening)</h3>
-          </div>
-          
-          {examData?.videoId ? (
-            <div className="w-full aspect-video rounded-xl overflow-hidden bg-gray-900 shadow-md max-w-3xl border border-indigo-200">
-              <iframe 
-                width="100%" 
-                height="100%" 
-                src={`https://www.youtube.com/embed/${examData.videoId}`} 
-                title="YouTube video player" 
-                frameBorder="0" 
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-                allowFullScreen
-              ></iframe>
-            </div>
-          ) : (
-            <div className="w-full aspect-video rounded-xl bg-indigo-50/50 flex flex-col items-center justify-center border-2 border-dashed border-indigo-200 max-w-3xl">
-              <PlayCircle size={48} className="text-indigo-300 mb-2" />
-              <p className="text-indigo-600 font-medium">วิดีโอพาร์ทฟังจะแสดงตรงนี้</p>
-              <p className="text-sm text-indigo-400 mt-1">(รอเพิ่มลิงก์ YouTube)</p>
-            </div>
-          )}
-        </div>
-
-        <div className="bg-white rounded-2xl shadow-sm border border-gray-200 p-6 flex flex-col h-[700px]">
-          <div className="flex items-center justify-between mb-4">
-            <div className="flex items-center gap-2">
-              <FileText size={22} className="text-indigo-500" />
-              <h3 className="text-xl font-semibold text-gray-800">เอกสารข้อสอบ</h3>
-            </div>
-            <div className="flex items-center gap-2">
+      if (isFullscreen) {
+        return (
+          <div className="fixed inset-0 z-50 bg-gray-50 flex flex-col">
+            {/* Floating Toolbar */}
+            <div className="absolute top-28 right-6 z-[60] flex flex-col items-center gap-3">
+              {onAskAI && (
+                <button 
+                  onClick={() => onAskAI?.(`ฉันกำลังทำข้อสอบ ${selectedCategory} ชุด ${selectedExamSet} ช่วยอธิบายโจทย์และสอนเพิ่มเติมหน่อได้ไหม?`)}
+                  title="ถาม AI Tutor"
+                  className="w-12 h-12 rounded-full shadow-lg flex items-center justify-center text-white transition-all hover:scale-110"
+                  style={{ background: 'linear-gradient(135deg,#7c3aed,#5b21b6)', boxShadow: '0 4px 14px rgba(124,58,237,0.4)' }}
+                >
+                  <Bot size={22} />
+                </button>
+              )}
               <a 
                 href={pdfUrl}
                 download
                 target="_blank"
                 rel="noreferrer"
-                className="flex items-center gap-2 text-sm bg-green-50 text-green-600 hover:bg-green-100 px-4 py-2 rounded-lg font-medium transition-colors"
+                title="ดาวน์โหลด PDF"
+                className="w-12 h-12 bg-white rounded-full shadow-lg flex items-center justify-center text-gray-500 hover:text-green-600 hover:bg-green-50 transition-colors border border-gray-200"
               >
-                <Download size={16} /> โหลดไฟล์ PDF
+                <Download size={22} />
               </a>
               <button 
-                onClick={() => setIsFullscreen(true)}
-                className="flex items-center gap-2 text-sm bg-indigo-50 text-indigo-600 hover:bg-indigo-100 px-4 py-2 rounded-lg font-medium transition-colors"
+                onClick={() => setIsFullscreen(false)} 
+                title="ออกเต็มจอ"
+                className="w-12 h-12 bg-white rounded-full shadow-lg flex items-center justify-center text-gray-500 hover:text-red-600 hover:bg-red-50 transition-colors border border-gray-200"
               >
-                ดูแบบเต็มจอ
+                 <X size={24} />
               </button>
             </div>
+            <div className="flex-1 rounded-xl overflow-hidden bg-gray-50 relative">
+              <DocumentGallery type="hsk" folder={folderName} prefix={selectedExamSet} enableAnnotation={true} />
+            </div>
           </div>
-          <div className="w-full h-full flex-1 overflow-hidden rounded-xl border border-gray-100">
-            <DocumentGallery 
-              type="hsk" 
-              folder={folderName} 
-              prefix={selectedExamSet} 
-              enableAnnotation={true} 
-            />
-          </div>
-        </div>
+        );
+      }
 
-        {/* Floating Ask AI Button — fixed bottom right, always fully visible */}
-        {onAskAI && (
-          <button
-            onClick={() => onAskAI?.(`ฉันกำลังทำข้อสอบ ${selectedCategory} ชุด ${selectedExamSet} ช่วยอธิบายโจทย์และสอนเพิ่มเติมได้ไหม?`)}
-            className="fab-ai"
+      return (
+        <div className="flex flex-col h-full w-full max-w-4xl mx-auto relative pb-24">
+          <button 
+            onClick={handleBack}
+            className="flex items-center gap-2 text-indigo-600 font-medium hover:text-indigo-700 transition-colors mb-6 self-start"
           >
-            <Bot size={22} />
-            <span className="hidden sm:inline">ถาม AI Tutor</span>
+            <ChevronLeft size={20} /> ย้อนกลับไปเลือกชุดข้อสอบ
           </button>
-        )}
-      </div>
 
-    );
+          <h2 className="text-2xl font-bold text-gray-900 mb-6">{selectedCategory} - {selectedExamSet}</h2>
+
+          {/* Video Embed Section */}
+          <div className="bg-white rounded-2xl shadow-sm border border-indigo-100 p-6 mb-6 flex flex-col items-center">
+            <div className="flex items-center gap-2 mb-4 self-start">
+              <PlayCircle size={24} className="text-rose-500" />
+              <h3 className="text-xl font-semibold text-gray-800">พาร์ทฟัง (Listening)</h3>
+            </div>
+            
+            {examData?.videoId ? (
+              <div className="w-full aspect-video rounded-xl overflow-hidden bg-gray-900 shadow-md max-w-3xl border border-indigo-200">
+                <iframe 
+                  width="100%" 
+                  height="100%" 
+                  src={`https://www.youtube.com/embed/${examData.videoId}`} 
+                  title="YouTube video player" 
+                  frameBorder="0" 
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                  allowFullScreen
+                ></iframe>
+              </div>
+            ) : (
+              <div className="w-full aspect-video rounded-xl bg-indigo-50/50 flex flex-col items-center justify-center border-2 border-dashed border-indigo-200 max-w-3xl">
+                <PlayCircle size={48} className="text-indigo-300 mb-2" />
+                <p className="text-indigo-600 font-medium">วิดีโอพาร์ทฟังจะแสดงตรงนี้</p>
+                <p className="text-sm text-indigo-400 mt-1">(รอเพิ่มลิงก์ YouTube)</p>
+              </div>
+            )}
+          </div>
+
+          <div className="bg-white rounded-2xl shadow-sm border border-gray-200 p-6 flex flex-col h-[700px]">
+            <div className="flex items-center justify-between mb-4">
+              <div className="flex items-center gap-2">
+                <FileText size={22} className="text-indigo-500" />
+                <h3 className="text-xl font-semibold text-gray-800">เอกสารข้อสอบ</h3>
+              </div>
+              <div className="flex items-center gap-2">
+                <a 
+                  href={pdfUrl}
+                  download
+                  target="_blank"
+                  rel="noreferrer"
+                  className="flex items-center gap-2 text-sm bg-green-50 text-green-600 hover:bg-green-100 px-4 py-2 rounded-lg font-medium transition-colors"
+                >
+                  <Download size={16} /> โหลดไฟล์ PDF
+                </a>
+                <button 
+                  onClick={() => setIsFullscreen(true)}
+                  className="flex items-center gap-2 text-sm bg-indigo-50 text-indigo-600 hover:bg-indigo-100 px-4 py-2 rounded-lg font-medium transition-colors"
+                >
+                  ดูแบบเต็มจอ
+                </button>
+              </div>
+            </div>
+            <div className="w-full h-full flex-1 overflow-hidden rounded-xl border border-gray-100">
+              <DocumentGallery 
+                type="hsk" 
+                folder={folderName} 
+                prefix={selectedExamSet} 
+                enableAnnotation={true} 
+              />
+            </div>
+          </div>
+
+          {/* Floating Ask AI Button — fixed bottom right, always fully visible */}
+          {onAskAI && (
+            <button
+              onClick={() => onAskAI?.(`ฉันกำลังทำข้อสอบ ${selectedCategory} ชุด ${selectedExamSet} ช่วยอธิบายโจทย์และสอนเพิ่มเติมได้ไหม?`)}
+              className="fab-ai"
+            >
+              <Bot size={22} />
+              <span className="hidden sm:inline">ถาม AI Tutor</span>
+            </button>
+          )}
+        </div>
+      );
+    }
   }
 
   // View: HSK Exam Sets List
@@ -401,39 +411,33 @@ export default function ExamsArea({ activeLang, onAskAI }: { activeLang: 'EN' | 
 
   // General Skill Selection for non-HSK categories
   if (selectedSkill && selectedCategory) {
-    if (selectedCategory === 'IELTS' && selectedSkill === 'Full Mock Exams') {
+    if (selectedCategory === 'IELTS') {
       if (!selectedExamSet) {
         return (
-          <div className="flex flex-col h-full w-full max-w-4xl mx-auto">
-             <button onClick={handleBack} className="flex items-center gap-2 text-indigo-600 font-medium hover:text-indigo-700 transition-colors mb-6 self-start">
-               <ChevronLeft size={20} /> ย้อนกลับ
-             </button>
-             <h2 className="text-2xl font-bold text-gray-900 mb-2">IELTS Full Mock Exams</h2>
-             <p className="text-gray-500 mb-8">ข้อสอบจำลอง IELTS ฉบับเต็มพร้อมเฉลย (10 ชุด)</p>
-             <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-4">
-                {Array.from({ length: 10 }).map((_, i) => (
-                  <button key={i} onClick={() => setSelectedExamSet(`IELTS_Mock_${i + 1}`)} className="bg-white p-4 rounded-xl border border-gray-100 shadow-sm hover:border-red-300 hover:shadow-md transition-all flex flex-col items-center gap-2 group">
-                    <div className="w-12 h-12 bg-red-50 text-red-500 rounded-full flex items-center justify-center group-hover:scale-110 transition-transform">
-                       <FileText size={24} />
-                    </div>
-                    <span className="font-bold text-gray-700">Exam {i + 1}</span>
-                  </button>
-                ))}
-             </div>
-          </div>
-        )
-      } else {
-        const imgUrl = `/ielts_exams/${selectedExamSet}.jpg`;
-        return (
-          <div className="flex flex-col h-full w-full max-w-4xl mx-auto pb-10">
-            <button onClick={() => setSelectedExamSet(null)} className="flex items-center gap-2 text-indigo-600 font-medium hover:text-indigo-700 transition-colors mb-6 self-start">
-              <ChevronLeft size={20} /> ย้อนกลับไปเลือกชุดข้อสอบ
+          <div className="flex flex-col h-full w-full max-w-5xl mx-auto pb-10">
+            <button onClick={() => setSelectedSkill(null)} className="flex items-center gap-2 text-indigo-600 font-medium hover:text-indigo-700 transition-colors mb-6 self-start">
+              <ChevronLeft size={20} /> ย้อนกลับไปเลือกทักษะ
             </button>
-            <div className="w-full bg-white shadow-xl rounded-2xl overflow-hidden p-4 min-h-screen">
-               <img src={imgUrl} alt={selectedExamSet} className="w-full h-auto block" />
+            <h2 className="text-2xl font-bold text-gray-900 mb-2">IELTS Practice Tests - {selectedSkill.toUpperCase()}</h2>
+            <p className="text-gray-500 mb-8">ข้อสอบฝึกทำ (20 ชุด)</p>
+            <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 lg:grid-cols-8 gap-4">
+              {Array.from({ length: 20 }).map((_, i) => (
+                <button key={i} onClick={() => setSelectedExamSet(`IELTS_Mock_${i + 1}`)} className="bg-white py-3 px-2 rounded-xl border border-gray-100 shadow-sm hover:border-indigo-400 hover:shadow-md transition-all flex flex-col items-center gap-2 group">
+                  <span className="font-bold text-gray-700 text-sm">Exam {i + 1}</span>
+                </button>
+              ))}
             </div>
           </div>
         )
+      } else {
+        // Find which initial skill to pass based on selectedSkill
+        let initialSkill: any = undefined;
+        if (selectedSkill === 'Reading') initialSkill = 'reading';
+        if (selectedSkill === 'Listening') initialSkill = 'listening';
+        if (selectedSkill === 'Writing') initialSkill = 'writing';
+        if (selectedSkill === 'Speaking') initialSkill = 'speaking';
+        
+        return <IeltsPracticeArea examId={selectedExamSet} skill={selectedSkill || ''} onBack={() => setSelectedExamSet(null)} />;
       }
     }
 

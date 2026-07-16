@@ -1,3 +1,4 @@
+import { GoogleGenerativeAI } from '@google/generative-ai';
 import React, { useState, useEffect, useRef } from 'react';
 import { FileSignature, Play, Settings, ArrowRight, CheckCircle, XCircle, RotateCcw } from 'lucide-react';
 import { allCNVocab, allENVocab, VocabWord } from '../data/vocabData';
@@ -168,16 +169,48 @@ export default function VocabExamArea({ activeLang }: VocabExamAreaProps) {
 
     try {
       if (apiPayload.length > 0) {
-        const response = await fetch('/api/grade-vocab', {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({ answers: apiPayload, lang })
+        const apiKey = import.meta.env.VITE_GEMINI_API_KEY;
+        if (!apiKey) {
+          throw new Error("Missing API Key");
+        }
+        const genAI = new GoogleGenerativeAI(apiKey);
+        const model = genAI.getGenerativeModel({ model: "gemini-2.5-flash" });
+        
+        const prompt = `
+You are a very lenient language evaluator for ${lang === 'CN' ? 'Chinese' : 'English'} to Thai translations.
+I will provide a list of vocabulary words, their official Thai translations, and the user's typed Thai translation.
+Your task is to determine if the user's translation has the correct meaning.
+
+**CRITICAL RULES:**
+- Be EXTREMELY lenient. If the user's translation is a synonym, has a close meaning, is a slightly different phrasing, or an informal variation, mark it as CORRECT ("isTranslationCorrect": true).
+- If the user types a correct meaning that is not in the official list but is still a valid translation of the source word in Thai, mark it as CORRECT.
+- Do NOT be strict about exact matching. As long as the core meaning is right, it is correct.
+- Only mark as false if the meaning is completely wrong, unrelated, or blank.
+
+Here are the words to grade:
+${JSON.stringify(apiPayload, null, 2)}
+
+Return a strict JSON array matching this format exactly:
+[
+  {
+    "wordId": "string",
+    "isTranslationCorrect": true
+  }
+]
+`;
+
+        const aiResult = await model.generateContent({
+          contents: [{ role: "user", parts: [{ text: prompt }] }],
+          generationConfig: {
+            responseMimeType: "application/json"
+          }
         });
-        const aiResults = await response.json();
+        const responseText = aiResult.response.text();
+        const aiResults = JSON.parse(responseText.replace(/```json/g, '').replace(/```/g, '').trim());
         
         const finalAnswers = { ...preliminaryAnswers };
         if (Array.isArray(aiResults)) {
-          aiResults.forEach(res => {
+          aiResults.forEach((res: any) => {
             if (finalAnswers[res.wordId]) {
               finalAnswers[res.wordId].isTranslationCorrect = res.isTranslationCorrect;
             }
@@ -185,13 +218,17 @@ export default function VocabExamArea({ activeLang }: VocabExamAreaProps) {
         }
         setAnswers(finalAnswers);
       }
-    } catch (e) {
+    } catch (e: any) {
       console.error("AI grading failed", e);
+      alert("AI Grading Error: " + (e.message || String(e)));
       const fallbackAnswers = { ...preliminaryAnswers };
       examWords.forEach(w => {
          const userT = fallbackAnswers[w.id].userTranslation.trim().toLowerCase();
          if (userT) {
-           fallbackAnswers[w.id].isTranslationCorrect = w.translations.some(t => t.trim().toLowerCase() === userT);
+           fallbackAnswers[w.id].isTranslationCorrect = w.translations.some(t => {
+             const official = t.trim().toLowerCase();
+             return official === userT || official.includes(userT) || userT.includes(official);
+           });
          }
       });
       setAnswers(fallbackAnswers);

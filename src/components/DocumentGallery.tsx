@@ -8,10 +8,10 @@ interface DocumentGalleryProps {
   type: 'hsk' | 'courseware' | 'root';
   folder: string;
   prefix: string;
-  hideLastNPages?: number;
   hideDownload?: boolean;
   prependNode?: React.ReactNode;
   enableAnnotation?: boolean;
+  maxPagesToShow?: number;
 }
 
 import manifestData from '../data/image_manifest.json';
@@ -19,7 +19,7 @@ import manifestData from '../data/image_manifest.json';
 const BUCKET_NAME = 'polyglot-ai-tuto.firebasestorage.app';
 
 export default function DocumentGallery({ 
-  type, folder, prefix, hideLastNPages = 0, hideDownload = false, prependNode, enableAnnotation = false 
+  type, folder, prefix, hideLastNPages = 0, hideDownload = false, prependNode, enableAnnotation = false, maxPagesToShow 
 }: DocumentGalleryProps) {
   const [images, setImages] = useState<string[]>([]);
   const [loading, setLoading] = useState(true);
@@ -39,6 +39,7 @@ export default function DocumentGallery({
     let basePath = '';
     if (type === 'hsk') basePath = 'HSK_Images';
     else if (type === 'courseware') basePath = 'Courseware_Images';
+    else if (type === 'ielts') basePath = 'Courseware_Images/IELTS_Mock_Tests';
     // If type is 'root' (or any other), basePath remains empty
     
     const manifestKey = basePath ? `${basePath}/${folder}` : folder;
@@ -57,19 +58,25 @@ export default function DocumentGallery({
       return numA - numB;
     });
     
-    // Map to Local Storage URLs for preview with cache busting for development
+    // Map to URLs
     let finalImages = matchedFiles.map(f => {
       const fullPath = `${manifestKey}/${f}`;
+      // For IELTS, serve from local public folder for speed
+      if (type === 'ielts') {
+        return `/${fullPath}`;
+      }
       return getFirebaseStorageUrl(fullPath);
     });
     
-    if (hideLastNPages && finalImages.length > hideLastNPages) {
+    if (maxPagesToShow && finalImages.length > maxPagesToShow) {
+      finalImages = finalImages.slice(0, maxPagesToShow);
+    } else if (hideLastNPages && finalImages.length > hideLastNPages) {
       finalImages = finalImages.slice(0, finalImages.length - hideLastNPages);
     }
     
     setImages(finalImages);
     setLoading(false);
-  }, [type, folder, prefix, hideLastNPages]);
+  }, [type, folder, prefix, hideLastNPages, maxPagesToShow]);
 
   const handleDownload = async (url: string, index: number) => {
     try {
@@ -113,7 +120,7 @@ export default function DocumentGallery({
   return (
     <div className="w-full h-full flex flex-col bg-gray-100 relative">
       {enableAnnotation && (
-        <div className="absolute top-20 sm:top-24 left-0 w-full z-50 pointer-events-none flex justify-center">
+        <div className="absolute top-28 sm:top-32 left-0 w-full z-50 pointer-events-none flex justify-center">
           <div className="pointer-events-auto shadow-lg rounded-full">
             <AnnotationToolbar 
               state={annotationState} 
@@ -123,7 +130,7 @@ export default function DocumentGallery({
           </div>
         </div>
       )}
-      <div className="w-full flex-1 overflow-y-auto p-4 pt-40 sm:pt-48">
+      <div className="w-full flex-1 overflow-y-auto p-4 pt-44 sm:pt-52">
         <div className="flex flex-col gap-6 max-w-3xl mx-auto">
           {prependNode}
           {images.map((url, idx) => (

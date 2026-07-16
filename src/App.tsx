@@ -13,12 +13,12 @@ import VocabArea from './components/VocabArea';
 import VocabExamArea from './components/VocabExamArea';
 
 const NAV_ITEMS = [
-  { id: 'vocab',      icon: Library,        label: 'สมุดคัดศัพท์' },
-  { id: 'vocab_exam', icon: FileSignature,  label: 'สอบศัพท์'     },
+  { id: 'vocab',      icon: Library,        label: 'คลังคำศัพท์' },
+  { id: 'vocab_exam', icon: FileSignature,  label: 'ทดสอบคำศัพท์'     },
   { id: 'exercises',  icon: Pencil,         label: 'บทเรียน'      },
   { id: 'exams',      icon: Layers,         label: 'ข้อสอบ'       },
   { id: 'mocktests',  icon: Clock,          label: 'จำลองสอบ'     },
-  { id: 'contact',    icon: Phone,          label: 'ติดต่อเรา'     },
+  { id: 'contact',    icon: Phone,          label: 'ติดต่อ'     },
 ];
 
 function RealtimeClock() {
@@ -148,18 +148,18 @@ export default function App() {
               </motion.div>
             )}
             {activeTab === 'exercises' && (
-              <motion.div key="exercises" initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: -6 }} transition={{ duration: 0.22 }}>
+              <motion.div key="exercises" initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: -6 }} transition={{ duration: 0.22 }} className="h-full">
                 <ExercisesArea activeLang={activeLang} onAskPDF={handleAskPDF} />
               </motion.div>
             )}
             {activeTab === 'exams' && (
-              <motion.div key="exams" initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: -6 }} transition={{ duration: 0.22 }}>
+              <motion.div key="exams" initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: -6 }} transition={{ duration: 0.22 }} className="h-full">
                 <ExamsArea activeLang={activeLang} onAskAI={handleAskAI} />
               </motion.div>
             )}
             {activeTab === 'mocktests' && (
               <motion.div key="mocktests" initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: -6 }} transition={{ duration: 0.22 }} className="h-full">
-                <MockTestsTabArea 
+                <MockTestsTabArea activeLang={activeLang}
                   onAskAI={(msg) => {
                     setAskWord(msg);
                     setActiveTab('call');

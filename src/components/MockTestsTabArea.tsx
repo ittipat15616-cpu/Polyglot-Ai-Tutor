@@ -1,6 +1,7 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { FileText, Clock, ChevronLeft } from 'lucide-react';
 import MockTestArea from './MockTestArea';
+import IeltsMockTestArea from './IeltsMockTestArea';
 
 const hskExamsData: Record<string, { id: string, name: string, videoId: string }[]> = {
   HSK1: [
@@ -85,11 +86,77 @@ const hskExamsData: Record<string, { id: string, name: string, videoId: string }
   ],
 };
 
-export default function MockTestsTabArea() {
+export default function MockTestsTabArea({ activeLang }: { activeLang?: string }) {
   const [selectedCategory, setSelectedCategory] = useState<string | null>(null);
   const [selectedExamSet, setSelectedExamSet] = useState<string | null>(null);
+  const [selectedSkill, setSelectedSkill] = useState<string | null>(null);
+
+  useEffect(() => {
+    setSelectedCategory(null);
+    setSelectedExamSet(null);
+    setSelectedSkill(null);
+  }, [activeLang]);
+
 
   // If testing
+  
+  // If EN language is selected, render IELTS Mock logic
+  if (activeLang === 'EN') {
+    if (!selectedSkill) {
+      const ieltsSkills = [
+        { id: 'full', name: 'IELTS Full Mock', icon: '📝' },
+        { id: 'reading', name: 'Reading', icon: '📖' },
+        { id: 'listening', name: 'Listening', icon: '🎧' },
+        { id: 'writing', name: 'Writing', icon: '✍️' },
+        { id: 'speaking', name: 'Speaking', icon: '🗣️' },
+      ];
+      return (
+        <div className="flex flex-col h-full w-full max-w-4xl mx-auto pb-10 mt-4">
+          <div className="flex flex-col gap-2 mb-8">
+            <h1 className="text-3xl font-black text-gray-800 tracking-tight flex items-center gap-3">
+              <Clock className="text-indigo-600" size={32} />
+              IELTS Mock Tests (จำลองสอบจับเวลา)
+            </h1>
+            <p className="text-gray-500 font-medium">เลือกระบบจำลองสอบที่คุณต้องการ</p>
+          </div>
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
+            {ieltsSkills.map((skill) => (
+              <button
+                key={skill.id}
+                onClick={() => setSelectedSkill(skill.id)}
+                className="group flex flex-col items-center justify-center p-8 bg-white border border-gray-100 rounded-3xl shadow-sm hover:shadow-xl hover:-translate-y-1 transition-all duration-300"
+              >
+                <div className="text-4xl mb-4 group-hover:scale-110 transition-transform">{skill.icon}</div>
+                <h3 className="text-xl font-bold text-gray-800">{skill.name}</h3>
+                <p className="text-sm text-gray-500 mt-2 text-center">มีทั้งหมด 20 ชุด</p>
+              </button>
+            ))}
+          </div>
+        </div>
+      );
+    } else if (!selectedExamSet) {
+      return (
+        <div className="flex flex-col h-full w-full max-w-5xl mx-auto pb-10 mt-4">
+          <button onClick={() => setSelectedSkill(null)} className="flex items-center gap-2 text-indigo-600 font-medium hover:text-indigo-700 transition-colors mb-6 self-start">
+            <ChevronLeft size={20} /> กลับไปเลือกทักษะ
+          </button>
+          <h2 className="text-2xl font-bold text-gray-900 mb-2">IELTS Mock Tests - {selectedSkill.toUpperCase()}</h2>
+          <p className="text-gray-500 mb-8">ข้อสอบจำลองพร้อมจับเวลา (20 ชุด)</p>
+          <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 lg:grid-cols-8 gap-4">
+            {Array.from({ length: 20 }).map((_, i) => (
+              <button key={i} onClick={() => setSelectedExamSet(`IELTS_Mock_${i + 1}`)} className="bg-white py-3 px-2 rounded-xl border border-gray-100 shadow-sm hover:border-indigo-400 hover:shadow-md transition-all flex flex-col items-center gap-2 group">
+                <span className="font-bold text-gray-700 text-sm">Exam {i + 1}</span>
+              </button>
+            ))}
+          </div>
+        </div>
+      );
+    } else {
+      let initialSkill: any = selectedSkill === 'full' ? undefined : selectedSkill;
+      return <IeltsMockTestArea examId={selectedExamSet} initialSkill={initialSkill} onBack={() => setSelectedExamSet(null)} />;
+    }
+  }
+
   if (selectedExamSet && selectedCategory) {
     const examData = hskExamsData[selectedCategory]?.find(e => e.id === selectedExamSet);
     return (

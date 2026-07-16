@@ -1,0 +1,134 @@
+{
+  "id": 2,
+  "title": "Part 2 - Market Square Heritage Walk",
+  "image_type": "map",
+  "visual_data_json": "{\n  \"title\": \"Old Town Market Square Map\",\n  \"description\": \"A rectangular map of the Old Town Market Square. The main entrance is at 'X'. Several points A-G are marked around the perimeter and within the square.\",\n  \"points_of_interest\": [\n    {\"label\": \"X\", \"description\": \"Main Entrance\"},\n    {\"label\": \"A\", \"description\": \"Information Centre (Left from X)\"},\n    {\"label\": \"B\", \"description\": \"Cafeteria (Left from A)\"},\n    {\"label\": \"C\", \"description\": \"Local Artisan Stalls (Opposite B, Right side)\"},\n    {\"label\": \"D\", \"description\": \"Old Clock Tower (Far end from X)\"},\n    {\"label\": \"E\", \"description\": \"Public Restrooms (Behind D)\"},\n    {\"label\": \"F\", \"description\": \"Green Space (Between D and center left)\"},\n    {\"label\": \"G\", \"description\": \"Service Entrance (Opposite X)\"}\n  ],\n  \"map_image_url\": \"https://example.com/market_square_map.png\" \n}",
+  "transcript": "Announcer: Now turn to Part 2. [Pause 5] You will hear a tour guide giving a presentation about a revitalised historical market square. You will hear the recording twice. First, you have some time to look at questions 11 to 20. [Pause 30]\\n\\nGuide: Good morning, everyone, and welcome to the historic Old Town Market Square! I'm delighted to be your guide today as we explore this wonderful space, recently revitalised to blend its rich past with modern community needs. Before we start our walk, let me give you a quick orientation using the map here. As you can see, the square is roughly rectangular. We are currently standing right at the main entrance, which is here, at point 'X' on your map, facing directly into the square.\\n\\nNow, let's get our bearings. If you look straight ahead from where we are, you'll see a large, open paved area. This is where the weekly market stalls are set up. To your immediate left, just past the entrance, you'll find what used to be the old bakery. It has now been beautifully converted into a modern Information Centre, where you can pick up brochures and get details on all local events. On your map, this is clearly marked as 'A'.\\n\\nMoving along the left side of the square, past the Information Centre, you’ll come across a charming new Cafeteria, offering freshly brewed coffee and local pastries. It's a perfect spot for a quick break and is at point 'B'. Directly opposite the Cafeteria, on the right side of the square, you’ll notice a beautiful, two-story stone building. This structure, at 'C', houses our new Local Artisan Stalls, where local crafts and produce are sold daily. It’s always bustling with activity.\\n\\nFurther into the square, towards the far end from the main entrance, you’ll see the magnificent Old Clock Tower. It’s the original tower from the 18th century, a real landmark of our town. Its location is marked as 'D' on your map. Just behind the Clock Tower, there's a smaller building that serves as the Public Restrooms. Many people miss it, so remember 'E' for relief!\\n\\nNow, let's trace back a little. If you head back from the Clock Tower towards the centre of the square, but veer slightly to your left, you'll find a newly established Green Space, complete with benches and some lovely shaded trees. It's a quiet area for relaxation and contemplation, a real oasis in the middle of the busy square. That’s at 'F'.\\n\\nFinally, for those arriving by car or needing accessible entry, there’s a Service Entrance on the opposite side of the square from where we began, at point 'G'. This entrance also allows for deliveries to the businesses within the square.\\n\\nOur tour will first take us to the Information Centre to grab some detailed pamphlets, then we'll walk through the artisan stalls, and finally, we'll gather near the Clock Tower for some historical anecdotes before finishing at the Green Space for any questions.\\n\\nBefore we set off, I wanted to mention a few general points about the revitalisation project. The aim was to maintain the historical integrity of the square while enhancing its functionality for today’s community. We introduced a new, permeable paving system across the main market area, which helps with drainage and reduces heat island effect. This was a significant environmental upgrade. The old market well, which you might have seen sketches of, was actually too unstable to preserve, but we've installed a modern public water feature in its place, near the centre of the paved area, which acts as a focal point. It’s quite striking and helps cool the air on hot days.\\n\\nAccessibility was another key focus. All pathways are now smooth and wide, suitable for wheelchairs and pushchairs. We've also installed new, energy-efficient LED lighting throughout the square, improving safety and reducing our carbon footprint. The revitalisation project took nearly two years to complete, and it was a joint effort between the local council, heritage groups, and several community organisations. We’re incredibly proud of the result. Alright, any questions before we start walking?\\nAnnouncer: You now have some time to check your answers. [Pause 10]\\nAnnouncer: That is the end of Part 2. [Pause 5]",
+  "questions": [
+    {
+      "q_number": "11",
+      "type": "Map Labeling",
+      "text": "Information Centre",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "answer": "A",
+      "explanation_thai": "ไกด์กล่าวว่า Information Centre อยู่ทางซ้ายมือหลังทางเข้าหลัก และระบุว่าเป็นจุด A บนแผนที่"
+    },
+    {
+      "q_number": "12",
+      "type": "Map Labeling",
+      "text": "Cafeteria",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "answer": "B",
+      "explanation_thai": "ไกด์กล่าวว่า Cafeteria อยู่ถัดจาก Information Centre ทางซ้ายมือ และระบุว่าเป็นจุด B บนแผนที่"
+    },
+    {
+      "q_number": "13",
+      "type": "Map Labeling",
+      "text": "Local Artisan Stalls",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "answer": "C",
+      "explanation_thai": "ไกด์กล่าวว่า Local Artisan Stalls อยู่ตรงข้ามกับ Cafeteria บนด้านขวาของจัตุรัส และระบุว่าเป็นจุด C บนแผนที่"
+    },
+    {
+      "q_number": "14",
+      "type": "Map Labeling",
+      "text": "Old Clock Tower",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "answer": "D",
+      "explanation_thai": "ไกด์กล่าวว่า Old Clock Tower อยู่ปลายสุดของจัตุรัสจากทางเข้าหลัก และระบุว่าเป็นจุด D บนแผนที่"
+    },
+    {
+      "q_number": "15",
+      "type": "Map Labeling",
+      "text": "Green Space",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "answer": "F",
+      "explanation_thai": "ไกด์กล่าวว่า Green Space อยู่ระหว่าง Clock Tower กับใจกลางจัตุรัส เยื้องไปทางซ้ายเล็กน้อย และระบุว่าเป็นจุด F บนแผนที่"
+    },
+    {
+      "q_number": "16",
+      "type": "Multiple choice",
+      "text": "What was the main environmental upgrade made to the market area?",
+      "options": [
+        "A. A new public water feature.",
+        "B. A permeable paving system.",
+        "C. New energy-efficient LED lighting.",
+        "D. Restoration of the old market well."
+      ],
+      "answer": "B",
+      "explanation_thai": "ไกด์กล่าวว่า 'We introduced a new, permeable paving system across the main market area, which helps with drainage and reduces heat island effect. This was a significant environmental upgrade.'"
+    },
+    {
+      "q_number": "17",
+      "type": "Fill in the blank",
+      "text": "The old market well was replaced by a modern public _________ feature.",
+      "options": [],
+      "answer": "water",
+      "explanation_thai": "ไกด์กล่าวว่า 'The old market well... we've installed a modern public water feature in its place.'"
+    },
+    {
+      "q_number": "18",
+      "type": "Short answer",
+      "text": "What was a key focus, besides environmental upgrades, that improved access for everyone?",
+      "options": [],
+      "answer": "Accessibility",
+      "explanation_thai": "ไกด์กล่าวว่า 'Accessibility was another key focus. All pathways are now smooth and wide, suitable for wheelchairs and pushchairs.'"
+    },
+    {
+      "q_number": "19",
+      "type": "Fill in the blank",
+      "text": "The revitalisation project took almost _________ years to complete.",
+      "options": [],
+      "answer": "two",
+      "explanation_thai": "ไกด์กล่าวว่า 'The revitalisation project took nearly two years to complete...'"
+    },
+    {
+      "q_number": "20",
+      "type": "Short answer",
+      "text": "Who was involved in the revitalisation project, apart from the local council?",
+      "options": [],
+      "answer": "heritage groups and community organisations",
+      "explanation_thai": "ไกด์ระบุว่า 'it was a joint effort between the local council, heritage groups, and several community organisations.'"
+    }
+  ]
+}

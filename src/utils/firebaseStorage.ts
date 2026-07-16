@@ -6,5 +6,6 @@ export function getFirebaseStorageUrl(localPath: string): string {
     // Encode the entire path so that slashes become %2F, as required by Firebase Storage REST API
     const encodedPath = encodeURIComponent(cleanPath);
     
-    return `https://firebasestorage.googleapis.com/v0/b/${bucket}/o/${encodedPath}?alt=media`;
+    // Add a cache buster query parameter to bypass browser cache for recently updated images
+    return `https://firebasestorage.googleapis.com/v0/b/${bucket}/o/${encodedPath}?alt=media&v=20260710`;
 }
