@@ -61,10 +61,6 @@ export default function DocumentGallery({
     // Map to URLs
     let finalImages = matchedFiles.map(f => {
       const fullPath = `${manifestKey}/${f}`;
-      // For IELTS, serve from local public folder for speed
-      if (type === 'ielts') {
-        return `/${fullPath}`;
-      }
       return getFirebaseStorageUrl(fullPath);
     });
     
